@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 14 August 2022*
+*Updated on 20 August 2022*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -778,6 +778,7 @@
 | 11 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | [Spanish Championship 2012](https://www.worldcubeassociation.org/competitions/SpanishChampionship2012/results/podiums) |
 | 10 | [Ivan Torgashov (Іван Торгашов)](https://www.worldcubeassociation.org/persons/2011TORG01) | [SPB Open 2014](https://www.worldcubeassociation.org/competitions/SPBOpen2014/results/podiums) |
 | 10 | [Ivan Zabrodin](https://www.worldcubeassociation.org/persons/2012ZABR01) | [SPB Open 2014](https://www.worldcubeassociation.org/competitions/SPBOpen2014/results/podiums) |
+| 10 | [Ronald Fernando Remuzgo Salazar](https://www.worldcubeassociation.org/persons/2017SALA07) | [Speedsolving Huancayo 2022](https://www.worldcubeassociation.org/competitions/SpeedsolvingHuancayo2022/results/podiums) |
 | 11 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) | [Spørring Cube Days 2011](https://www.worldcubeassociation.org/competitions/SporringCubeDays2011/results/podiums) |
 | 10 | [Chetan Roger Dhanjal](https://www.worldcubeassociation.org/persons/2014DHAN01) | [SRM Cube Open 2018](https://www.worldcubeassociation.org/competitions/SRMCubeOpen2018/results/podiums) |
 | 10 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [SSL 1 Jönköping 2017](https://www.worldcubeassociation.org/competitions/SSL1Jonkoping2017/results/podiums) |
