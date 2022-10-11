@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 23 September 2022*
+*Updated on 10 October 2022*
 
 
 ### Rubik's Cube
