@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 11 December 2022*
+*Updated on 14 December 2022*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -36,6 +36,7 @@
 | 11 | [Samir Homsi](https://www.worldcubeassociation.org/persons/2018HOMS01) | [Ankara Summer 2022](https://www.worldcubeassociation.org/competitions/AnkaraSummer2022/results/podiums) |
 | 13 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) | [Annecy Open 2016](https://www.worldcubeassociation.org/competitions/AnnecyOpen2016/results/podiums) |
 | 10 | [Anish Rajesh](https://www.worldcubeassociation.org/persons/2014RAJE03) | [Anokha Cubing Royale 2017](https://www.worldcubeassociation.org/competitions/AnokhaCubingRoyale2017/results/podiums) |
+| 10 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | [Archena 24 Horas 2022](https://www.worldcubeassociation.org/competitions/Archena24Horas2022/results/podiums) |
 | 11 | [Knut Skaug Haraldsen](https://www.worldcubeassociation.org/persons/2016HARA02) | [Arctic Open 2018](https://www.worldcubeassociation.org/competitions/ArcticOpen2018/results/podiums) |
 | 10 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Arena BSB de Cubo Mágico 2019](https://www.worldcubeassociation.org/competitions/ArenaBSBdeCuboMagico2019/results/podiums) |
 | 12 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Argentina ReOpen 2021](https://www.worldcubeassociation.org/competitions/ArgentinaReOpen2021/results/podiums) |
@@ -669,6 +670,7 @@
 | 10 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Osijek Open 2019](https://www.worldcubeassociation.org/competitions/OsijeKOpen2019/results/podiums) |
 | 15 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | [Oslo Open 2022](https://www.worldcubeassociation.org/competitions/OsloOpen2022/results/podiums) |
 | 10 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | [Oulu Open 2017](https://www.worldcubeassociation.org/competitions/OuluOpen2017/results/podiums) |
+| 10 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | [Oulu Open 2022](https://www.worldcubeassociation.org/competitions/OuluOpen2022/results/podiums) |
 | 10 | [Kari Hyttinen](https://www.worldcubeassociation.org/persons/2016HYTT01) | [Outokumpu Open 2019](https://www.worldcubeassociation.org/competitions/OutokumpuOpen2019/results/podiums) |
 | 11 | [João Vinícius de Andrade Santos](https://www.worldcubeassociation.org/persons/2016SANT66) | [Oxente Open 2022](https://www.worldcubeassociation.org/competitions/OxenteOpen2022/results/podiums) |
 | 10 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | [Oxford Winter 2014](https://www.worldcubeassociation.org/competitions/OxfordWinter2014/results/podiums) |
