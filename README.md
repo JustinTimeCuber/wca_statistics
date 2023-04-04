@@ -22,6 +22,7 @@
 - [DNF rate by event](dnf_rate_by_event)
 - [Fewest competitors contest](fewest_competitors_contest)
 - [Longest competitions path](longest_competitions_path)
+- [Longest current streak of competitions with a personal record done](longest_current_pr_streak)
 - [Longest standing records](longest_standing_records)
 - [Longest streak of competitions in own country](longest_streak_of_competitions_in_own_country)
 - [Longest streak of competitions with a personal record done](longest_streak_of_personal_records)
