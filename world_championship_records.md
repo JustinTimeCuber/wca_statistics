@@ -6,8 +6,8 @@
 
 ### Single
 
-| Event | Result | Person | Citizen of | Competition |
-| :--- | ---: | :--- | :--- | :--- |
+| Rank | Event | Result | Person | Citizen of | Competition |
+| :--- | :--- | ---: | :--- | :--- | :--- |
 | Rubik's Cube | 4.82 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | Australia | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
 | 2x2x2 Cube | 0.87 | [Ben Whitmore](https://www.worldcubeassociation.org/persons/2009WHIT01) | United Kingdom | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
 | 4x4x4 Cube | 19.08 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | United States | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
@@ -28,8 +28,8 @@
 
 ### Average
 
-| Event | Result | Person | Citizen of | Competition |
-| :--- | ---: | :--- | :--- | :--- |
+| Rank | Event | Result | Person | Citizen of | Competition |
+| :--- | :--- | ---: | :--- | :--- | :--- |
 | Rubik's Cube | 5.88 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | United States | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
 | 2x2x2 Cube | 1.44 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | Netherlands | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
 | 4x4x4 Cube | 21.58 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | United States | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
