@@ -14,7 +14,7 @@
 | 2502 | **[ Cubes4Speed MOX Summer 2015](https://www.worldcubeassociation.org/competitions/Cubes4SpeedMOXSummer2015)** | 1734 |
 | 520 | **[ Good Nutrition Cube Day 2016](https://www.worldcubeassociation.org/competitions/GoodNutritionCubeDay2016)** | 1095 |
 | 4905 | **[ LatAm Tour - Santiago 2017](https://www.worldcubeassociation.org/competitions/LatAmTourSantiago2017)** | 4003 |
-| 2983 | **[ Mid Columbia 2013](https://www.worldcubeassociation.org/competitions/MidColumbia2013)** | 829 |
+| 2982 | **[ Mid Columbia 2013](https://www.worldcubeassociation.org/competitions/MidColumbia2013)** | 829 |
 | 1107 | **[ Nanjing Autumn 2014](https://www.worldcubeassociation.org/competitions/NanjingAutumn2014)** | 1831 |
 | 1236 | **[ RCC 2017](https://www.worldcubeassociation.org/competitions/RaipurCubeChallenge2017)** | 1188 |
 | 5869 | **[ Runaway Bay Saturday 2022](https://www.worldcubeassociation.org/competitions/RunawayBaySaturdayChallenge2022)** | 1997 |
@@ -33,24 +33,24 @@
 | Rank |  | Solves | Attempts |
 | :--- | :--- | ---: | ---: |
 | 49055 | **[A Gu De Mu (阿古德木)](https://www.worldcubeassociation.org/persons/2012DEMU01)** | 10 |
-| 12299 | **[A Juro Paglinawan](https://www.worldcubeassociation.org/persons/2016PAGL01)** | 176 |
-| 25305 | **[A V Aditya](https://www.worldcubeassociation.org/persons/2023ADIT02)** | 15 |
+| 12296 | **[A Juro Paglinawan](https://www.worldcubeassociation.org/persons/2016PAGL01)** | 176 |
+| 25303 | **[A V Aditya](https://www.worldcubeassociation.org/persons/2023ADIT02)** | 15 |
 | 176547 | **[A. Cenk Dönmez](https://www.worldcubeassociation.org/persons/2022DONM01)** | 27 |
 | 40559 | **[AC Griffith Caruana](https://www.worldcubeassociation.org/persons/2010CARU01)** | 23 |
-| 22666 | **[AF Mashrafi](https://www.worldcubeassociation.org/persons/2019MASH07)** | 10 |
-| 93369 | **[AJ Bennett](https://www.worldcubeassociation.org/persons/2016BENN01)** | 35 |
+| 22662 | **[AF Mashrafi](https://www.worldcubeassociation.org/persons/2019MASH07)** | 10 |
+| 93363 | **[AJ Bennett](https://www.worldcubeassociation.org/persons/2016BENN01)** | 35 |
 | 822 | **[AJ Blair](https://www.worldcubeassociation.org/persons/2009BLAI01)** | 2401 |
-| 84115 | **[AJ Bone](https://www.worldcubeassociation.org/persons/2015BONE01)** | 17 |
+| 84113 | **[AJ Bone](https://www.worldcubeassociation.org/persons/2015BONE01)** | 17 |
 | 148 | **[AJ Casugod](https://www.worldcubeassociation.org/persons/2016CASU01)** | 129 |
 | 114496 | **[AJ Ciaverella](https://www.worldcubeassociation.org/persons/2017CIAV01)** | 5 |
-| 111133 | **[AJ Ernandes](https://www.worldcubeassociation.org/persons/2015ERNA01)** | 15 |
-| 109133 | **[AJ Farley](https://www.worldcubeassociation.org/persons/2023FARL01)** | 5 |
-| 100776 | **[AJ Farris](https://www.worldcubeassociation.org/persons/2008FARR01)** | 5 |
-| 83491 | **[AJ Garrett](https://www.worldcubeassociation.org/persons/2015GARR02)** | 61 |
+| 111132 | **[AJ Ernandes](https://www.worldcubeassociation.org/persons/2015ERNA01)** | 15 |
+| 109132 | **[AJ Farley](https://www.worldcubeassociation.org/persons/2023FARL01)** | 5 |
+| 100773 | **[AJ Farris](https://www.worldcubeassociation.org/persons/2008FARR01)** | 5 |
+| 83488 | **[AJ Garrett](https://www.worldcubeassociation.org/persons/2015GARR02)** | 61 |
 | 147800 | **[AJ Green](https://www.worldcubeassociation.org/persons/2017GREE04)** | 435 |
-| 109501 | **[AJ Harned](https://www.worldcubeassociation.org/persons/2022HARN03)** | 11 |
-| 94155 | **[AJ Hawkey](https://www.worldcubeassociation.org/persons/2010HAWK01)** | 53 |
-| 110958 | **[AJ Hofeldt](https://www.worldcubeassociation.org/persons/2016HOFE01)** | 5 |
+| 109498 | **[AJ Harned](https://www.worldcubeassociation.org/persons/2022HARN03)** | 11 |
+| 94150 | **[AJ Hawkey](https://www.worldcubeassociation.org/persons/2010HAWK01)** | 53 |
+| 110957 | **[AJ Hofeldt](https://www.worldcubeassociation.org/persons/2016HOFE01)** | 5 |
 | 114567 | **[AJ Holliday](https://www.worldcubeassociation.org/persons/2017HOLL01)** | 5 |
 
 ### Country
