@@ -7,16 +7,16 @@
 
 | Rank | Event | Type | Days | Result | Person | Competition |
 | :--- | :--- | :--- | ---: | ---: | :--- | :--- |
-| 1 | Rubik's Cube | **Average** | 154 | 20.00 | [Dan Knights](https://www.worldcubeassociation.org/persons/2003KNIG01) | [World Championship 2003](https://www.worldcubeassociation.org/competitions/WC2003/results/by_person#2003KNIG01) |
-| 2 | Rubik's Cube | **Average** | 70 | 16.53 | [Shotaro Makisumi (牧角章太郎)](https://www.worldcubeassociation.org/persons/2003MAKI01) | [Caltech Winter 2004](https://www.worldcubeassociation.org/competitions/CaltechWinter2004/results/by_person#2003MAKI01) |
-| 3 | Rubik's Cube | **Average** | 196 | 15.38 | [Shotaro Makisumi (牧角章太郎)](https://www.worldcubeassociation.org/persons/2003MAKI01) | [Caltech Spring 2004](https://www.worldcubeassociation.org/competitions/CaltechSpring2004/results/by_person#2003MAKI01) |
-| 4 | Rubik's Cube | **Average** | 518 | 14.52 | [Shotaro Makisumi (牧角章太郎)](https://www.worldcubeassociation.org/persons/2003MAKI01) | [Caltech Fall 2004](https://www.worldcubeassociation.org/competitions/CaltechFall2004/results/by_person#2003MAKI01) |
-| 5 | Rubik's Cube | **Average** | 0 | 13.22 | [Anssi Vanhala](https://www.worldcubeassociation.org/persons/2005VANH01) | [SveKub 2006](https://www.worldcubeassociation.org/competitions/Svekub2006/results/by_person#2005VANH01) |
-| 6 | Rubik's Cube | **Average** | 295 | 14.40 | [Anssi Vanhala](https://www.worldcubeassociation.org/persons/2005VANH01) | [SveKub 2006](https://www.worldcubeassociation.org/competitions/Svekub2006/results/by_person#2005VANH01) |
-| 7 | Rubik's Cube | **Average** | 412 | 11.76 | [JeongMin Yu (유정민)](https://www.worldcubeassociation.org/persons/2007JEON01) | [KCRC 2007](https://www.worldcubeassociation.org/competitions/KCRC2007/results/by_person#2007JEON01) |
-| 8 | Rubik's Cube | **Average** | 35 | 11.48 | [Edouard Chambon](https://www.worldcubeassociation.org/persons/2004CHAM01) | [Murcia Open 2008](https://www.worldcubeassociation.org/competitions/MurciaOpen2008/results/by_person#2004CHAM01) |
-| 9 | Rubik's Cube | **Average** | 37 | 11.33 | [Yu Nakajima (中島悠)](https://www.worldcubeassociation.org/persons/2007NAKA03) | [Osaka Open 2008](https://www.worldcubeassociation.org/competitions/OsakaOpen2008/results/by_person#2007NAKA03) |
-| 10 | Rubik's Cube | **Average** | 292 | 11.28 | [Yu Nakajima (中島悠)](https://www.worldcubeassociation.org/persons/2007NAKA03) | [Kashiwa Open 2008](https://www.worldcubeassociation.org/competitions/KashiwaOpen2008/results/by_person#2007NAKA03) |
+| 1 | 5x5x5 Cube | **Average** | 0 | 2:50.45 | [Masayuki Akimoto (秋元正行)](https://www.worldcubeassociation.org/persons/2003AKIM01) | [World Championship 2003](https://www.worldcubeassociation.org/competitions/WC2003/results/by_person#2003AKIM01) |
+| 2 | 5x5x5 Cube | **Average** | 350 | 2:50.68 | [David Wesley](https://www.worldcubeassociation.org/persons/2003WESL01) | [World Championship 2003](https://www.worldcubeassociation.org/competitions/WC2003/results/by_person#2003WESL01) |
+| 3 | 5x5x5 Cube | **Average** | 64 | 2:30.35 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) | [Euro 2004](https://www.worldcubeassociation.org/competitions/Euro2004/results/by_person#2003VAND01) |
+| 4 | 5x5x5 Cube | **Average** | 307 | 2:24.99 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) | [Dutch Open 2004](https://www.worldcubeassociation.org/competitions/DutchOpen2004/results/by_person#2003VAND01) |
+| 5 | 5x5x5 Cube | **Average** | 64 | 2:20.99 | [Frank Morris](https://www.worldcubeassociation.org/persons/2003MORR01) | [Caltech Dallas 2005](https://www.worldcubeassociation.org/competitions/CaltechDallas2005/results/by_person#2003MORR01) |
+| 6 | 5x5x5 Cube | **Average** | 292 | 2:06.15 | [Olivier Gaucher](https://www.worldcubeassociation.org/persons/2004GAUC01) | [Dutch Open 2005](https://www.worldcubeassociation.org/competitions/DutchOpen2005/results/by_person#2004GAUC01) |
+| 7 | 5x5x5 Cube | **Average** | 78 | 1:58.66 | [Frank Morris](https://www.worldcubeassociation.org/persons/2003MORR01) | [US Nationals 2006](https://www.worldcubeassociation.org/competitions/US2006/results/by_person#2003MORR01) |
+| 8 | 5x5x5 Cube | **Average** | 161 | 1:55.24 | [Frank Morris](https://www.worldcubeassociation.org/persons/2003MORR01) | [G-Wiz Fall 2006](https://www.worldcubeassociation.org/competitions/GWiz2006/results/by_person#2003MORR01) |
+| 9 | 5x5x5 Cube | **Average** | 119 | 1:51.37 | [Takayuki Ookusa (大艸尊之)](https://www.worldcubeassociation.org/persons/2006OOKU01) | [Osaka 2007](https://www.worldcubeassociation.org/competitions/Osaka2007/results/by_person#2006OOKU01) |
+| 10 | 5x5x5 Cube | **Average** | 69 | 1:50.01 | [Takayuki Ookusa (大艸尊之)](https://www.worldcubeassociation.org/persons/2006OOKU01) | [Japan Open 2007](https://www.worldcubeassociation.org/competitions/JapanOpen2007/results/by_person#2006OOKU01) |
 
 ### Africa
 
