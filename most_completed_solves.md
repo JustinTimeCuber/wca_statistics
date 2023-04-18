@@ -7,138 +7,138 @@
 
 | Rank |  | Solves | Attempts |
 | :--- | :--- | ---: | ---: |
-| 2243 | **[ AZCubing Summer 2016](https://www.worldcubeassociation.org/competitions/AZCubingSummer2016)** | 1221 |
-| 6382 | **[ Cube Factory 2013](https://www.worldcubeassociation.org/competitions/CubeFactory2013)** | 2407 |
-| 2505 | **[ Cube Kingdom 2013](https://www.worldcubeassociation.org/competitions/CubeKingdom2013)** | 935 |
-| 2504 | **[ Cube Kingdom II 2014](https://www.worldcubeassociation.org/competitions/CubeKingdom2014)** | 1132 |
-| 2502 | **[ Cubes4Speed MOX Summer 2015](https://www.worldcubeassociation.org/competitions/Cubes4SpeedMOXSummer2015)** | 1734 |
-| 520 | **[ Good Nutrition Cube Day 2016](https://www.worldcubeassociation.org/competitions/GoodNutritionCubeDay2016)** | 1095 |
-| 4905 | **[ LatAm Tour - Santiago 2017](https://www.worldcubeassociation.org/competitions/LatAmTourSantiago2017)** | 4003 |
-| 2982 | **[ Mid Columbia 2013](https://www.worldcubeassociation.org/competitions/MidColumbia2013)** | 829 |
-| 1107 | **[ Nanjing Autumn 2014](https://www.worldcubeassociation.org/competitions/NanjingAutumn2014)** | 1831 |
-| 1236 | **[ RCC 2017](https://www.worldcubeassociation.org/competitions/RaipurCubeChallenge2017)** | 1188 |
-| 5869 | **[ Runaway Bay Saturday 2022](https://www.worldcubeassociation.org/competitions/RunawayBaySaturdayChallenge2022)** | 1997 |
-| 1380 | **[ Shenzhen Good Afternoon 2020](https://www.worldcubeassociation.org/competitions/ShenzhenGoodAfternoon2020)** | 638 |
-| 1606 | **[ Twisting Fingers 2015](https://www.worldcubeassociation.org/competitions/TwistingFingers2015)** | 1185 |
-| 20 | **[1 AVG 2013](https://www.worldcubeassociation.org/competitions/1AVG2013)** | 1286 |
-| 25 | **[1 Body Cubing 2017](https://www.worldcubeassociation.org/competitions/1BodyCubing2017)** | 1478 |
-| 8517 | **[100th Meeting in Kyiv 2013](https://www.worldcubeassociation.org/competitions/Kyiv100th2013)** | 287 |
-| 30 | **[100º Mérito 2018](https://www.worldcubeassociation.org/competitions/100Merito2018)** | 519 |
-| 29 | **[10º do Rio Grande do Norte 2018](https://www.worldcubeassociation.org/competitions/10doRioGrandedoNorte2018)** | 1222 |
-| 8602 | **[12 Sides of Silesia 2018](https://www.worldcubeassociation.org/competitions/12SidesofSilesia2018)** | 495 |
-| 21 | **[150 Cube Meeting in Brest 2017](https://www.worldcubeassociation.org/competitions/150thCubeMeetinginBrest2017)** | 1468 |
+| 1 | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017) | **28966** | 30268 |
+| 2 | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) | **26030** | 27175 |
+| 3 | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019) | **25897** | 26868 |
+| 4 | [China Championship 2019](https://www.worldcubeassociation.org/competitions/ChinaChampionship2019) | **25115** | 25879 |
+| 5 | [CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018) | **24181** | 25204 |
+| 6 | [WCA Euro 2018](https://www.worldcubeassociation.org/competitions/Euro2018) | **23846** | 24703 |
+| 7 | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022) | **23370** | 24231 |
+| 8 | [CubingUSA Nationals 2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017) | **22549** | 23313 |
+| 9 | [Asian Championship 2016](https://www.worldcubeassociation.org/competitions/AsianChampionship2016) | **20424** | 21469 |
+| 10 | [US Nationals 2016](https://www.worldcubeassociation.org/competitions/USNationals2016) | **19387** | 20443 |
+| 11 | [China Championship 2018](https://www.worldcubeassociation.org/competitions/ChinaChampionship2018) | **18000** | 18652 |
+| 12 | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022) | **17828** | 18606 |
+| 13 | [World Championship 2013](https://www.worldcubeassociation.org/competitions/WC2013) | **17664** | 18907 |
+| 14 | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016) | **17465** | 18343 |
+| 15 | [WCA Oceanic Championship 2022](https://www.worldcubeassociation.org/competitions/OC2022) | **16519** | 17367 |
+| 16 | [US Nationals 2015](https://www.worldcubeassociation.org/competitions/USNationals2015) | **16335** | 17133 |
+| 17 | [US Nationals 2014](https://www.worldcubeassociation.org/competitions/USNationals2014) | **15511** | 16399 |
+| 18 | [China Championship 2017](https://www.worldcubeassociation.org/competitions/ChinaChampionship2017) | **15393** | 15895 |
+| 19 | [Kewbz UK Championship 2022](https://www.worldcubeassociation.org/competitions/KewbzUKChampionship2022) | **15184** | 15643 |
+| 20 | [Pretzel Mania 2023](https://www.worldcubeassociation.org/competitions/PretzelMania2023) | **14903** | 15348 |
 
 ### Person
 
 | Rank |  | Solves | Attempts |
 | :--- | :--- | ---: | ---: |
-| 49055 | **[A Gu De Mu (阿古德木)](https://www.worldcubeassociation.org/persons/2012DEMU01)** | 10 |
-| 12296 | **[A Juro Paglinawan](https://www.worldcubeassociation.org/persons/2016PAGL01)** | 176 |
-| 25303 | **[A V Aditya](https://www.worldcubeassociation.org/persons/2023ADIT02)** | 15 |
-| 176547 | **[A. Cenk Dönmez](https://www.worldcubeassociation.org/persons/2022DONM01)** | 27 |
-| 40559 | **[AC Griffith Caruana](https://www.worldcubeassociation.org/persons/2010CARU01)** | 23 |
-| 22662 | **[AF Mashrafi](https://www.worldcubeassociation.org/persons/2019MASH07)** | 10 |
-| 93363 | **[AJ Bennett](https://www.worldcubeassociation.org/persons/2016BENN01)** | 35 |
-| 822 | **[AJ Blair](https://www.worldcubeassociation.org/persons/2009BLAI01)** | 2401 |
-| 84113 | **[AJ Bone](https://www.worldcubeassociation.org/persons/2015BONE01)** | 17 |
-| 148 | **[AJ Casugod](https://www.worldcubeassociation.org/persons/2016CASU01)** | 129 |
-| 114496 | **[AJ Ciaverella](https://www.worldcubeassociation.org/persons/2017CIAV01)** | 5 |
-| 111132 | **[AJ Ernandes](https://www.worldcubeassociation.org/persons/2015ERNA01)** | 15 |
-| 109132 | **[AJ Farley](https://www.worldcubeassociation.org/persons/2023FARL01)** | 5 |
-| 100773 | **[AJ Farris](https://www.worldcubeassociation.org/persons/2008FARR01)** | 5 |
-| 83488 | **[AJ Garrett](https://www.worldcubeassociation.org/persons/2015GARR02)** | 61 |
-| 147800 | **[AJ Green](https://www.worldcubeassociation.org/persons/2017GREE04)** | 435 |
-| 109498 | **[AJ Harned](https://www.worldcubeassociation.org/persons/2022HARN03)** | 11 |
-| 94150 | **[AJ Hawkey](https://www.worldcubeassociation.org/persons/2010HAWK01)** | 53 |
-| 110957 | **[AJ Hofeldt](https://www.worldcubeassociation.org/persons/2016HOFE01)** | 5 |
-| 114567 | **[AJ Holliday](https://www.worldcubeassociation.org/persons/2017HOLL01)** | 5 |
+| 1 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | **16921** | 17593 |
+| 2 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | **16519** | 16970 |
+| 3 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | **16276** | 16901 |
+| 4 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **12248** | 13175 |
+| 5 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | **11862** | 12468 |
+| 6 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | **11839** | 12441 |
+| 7 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **11420** | 11798 |
+| 8 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) | **11361** | 11704 |
+| 9 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | **10855** | 11405 |
+| 10 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **10702** | 11128 |
+| 11 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) | **10574** | 10706 |
+| 12 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | **10410** | 11124 |
+| 13 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | **10380** | 10660 |
+| 14 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) | **9992** | 10586 |
+| 15 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) | **9837** | 10340 |
+| 16 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) | **9827** | 10743 |
+| 17 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) | **9717** | 9976 |
+| 18 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | **9570** | 9831 |
+| 19 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | **9476** | 9865 |
+| 20 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | **9393** | 9551 |
 
 ### Country
 
 | Rank |  | Solves | Attempts |
 | :--- | :--- | ---: | ---: |
-| 83 | **Albania** | 2058 |
-| 64 | **Algeria** | 4206 |
-| 79 | **Andorra** | 7534 |
-| 53 | **Argentina** | 83232 |
-| 88 | **Armenia** | 2424 |
-| 72 | **Australia** | 557332 |
-| 91 | **Austria** | 42117 |
-| 75 | **Azerbaijan** | 11016 |
-| 21 | **Bahrain** | 6576 |
-| 23 | **Bangladesh** | 16439 |
-| 9 | **Belarus** | 76756 |
-| 85 | **Belgium** | 132307 |
-| 51 | **Belize** | 386 |
-| 59 | **Bolivia** | 92709 |
-| 95 | **Bosnia and Herzegovina** | 11433 |
-| 13 | **Brazil** | 367103 |
-| 98 | **Bulgaria** | 18563 |
-| 26 | **Cambodia** | 1048 |
-| 43 | **Canada** | 418406 |
-| 56 | **Chile** | 102375 |
+| 1 | United States | **2950762** | 3097169 |
+| 2 | China | **1212800** | 1272685 |
+| 3 | Poland | **747878** | 786846 |
+| 4 | India | **672139** | 707414 |
+| 5 | Australia | **557332** | 588112 |
+| 6 | Spain | **496324** | 520692 |
+| 7 | Germany | **489262** | 512978 |
+| 8 | United Kingdom | **457978** | 482522 |
+| 9 | Russia | **430990** | 455782 |
+| 10 | Canada | **418406** | 437165 |
+| 11 | France | **406573** | 427834 |
+| 12 | Brazil | **367103** | 383945 |
+| 13 | Sweden | **253426** | 267140 |
+| 14 | Philippines | **248782** | 259035 |
+| 15 | Colombia | **233851** | 246242 |
+| 16 | Italy | **229901** | 242924 |
+| 17 | Taiwan | **225722** | 232396 |
+| 18 | Indonesia | **219602** | 231851 |
+| 19 | Netherlands | **210212** | 219075 |
+| 20 | Peru | **198162** | 206578 |
 
 ### Continent
 
 | Rank |  | Solves | Attempts |
 | :--- | :--- | ---: | ---: |
-| 6 | **Africa** | 85426 |
-| 1 | **Asia** | 3483816 |
-| 2 | **Europe** | 5641295 |
-| 5 | **Multiple Continents** | 1895 |
-| 3 | **North America** | 3734486 |
-| 7 | **Oceania** | 682914 |
-| 4 | **South America** | 1197665 |
+| 1 | Europe | **5641295** | 5926370 |
+| 2 | North America | **3734486** | 3915878 |
+| 3 | Asia | **3483816** | 3652903 |
+| 4 | South America | **1197665** | 1254538 |
+| 5 | Oceania | **682914** | 720402 |
+| 6 | Africa | **85426** | 89359 |
+| 7 | Multiple Continents | **1895** | 2562 |
 
 ### Year
 
 | Rank |  | Solves | Attempts |
 | :--- | :--- | ---: | ---: |
-| 12 | **2023** | 901367 |
-| 8 | **2022** | 2118292 |
-| 15 | **2021** | 370731 |
-| 13 | **2020** | 426770 |
-| 1 | **2019** | 2537720 |
-| 2 | **2018** | 2218901 |
-| 3 | **2017** | 1744831 |
-| 7 | **2016** | 1195496 |
-| 5 | **2015** | 885133 |
-| 4 | **2014** | 678835 |
-| 11 | **2013** | 446262 |
-| 14 | **2012** | 388118 |
-| 10 | **2011** | 333789 |
-| 6 | **2010** | 259785 |
-| 9 | **2009** | 172080 |
-| 16 | **2008** | 86491 |
-| 17 | **2007** | 34623 |
-| 18 | **2006** | 16507 |
-| 19 | **2005** | 8487 |
-| 20 | **2004** | 2616 |
+| 1 | 2019 | **2537720** | 2657069 |
+| 2 | 2018 | **2218901** | 2324853 |
+| 3 | 2022 | **2118292** | 2217659 |
+| 4 | 2017 | **1744831** | 1828057 |
+| 5 | 2016 | **1195496** | 1252781 |
+| 6 | 2023 | **901367** | 942807 |
+| 7 | 2015 | **885133** | 928597 |
+| 8 | 2014 | **678835** | 717063 |
+| 9 | 2013 | **446262** | 472788 |
+| 10 | 2020 | **426770** | 446541 |
+| 11 | 2012 | **388118** | 410674 |
+| 12 | 2021 | **370731** | 387779 |
+| 13 | 2011 | **333789** | 355414 |
+| 14 | 2010 | **259785** | 277256 |
+| 15 | 2009 | **172080** | 183283 |
+| 16 | 2008 | **86491** | 92666 |
+| 17 | 2007 | **34623** | 36799 |
+| 18 | 2006 | **16507** | 17543 |
+| 19 | 2005 | **8487** | 8954 |
+| 20 | 2004 | **2616** | 2760 |
 
 ### Event
 
 | Rank |  | Solves | Attempts |
 | :--- | :--- | ---: | ---: |
-| 1 | **2x2x2 Cube** | 2587438 |
-| 3 | **3x3x3 Blindfolded** | 103415 |
-| 2 | **3x3x3 Cube** | 4631327 |
-| 4 | **3x3x3 Fewest Moves** | 63740 |
-| 6 | **3x3x3 Multi-Blind** | 16984 |
-| 8 | **3x3x3 Multi-Blind Old Style** | 405 |
-| 7 | **3x3x3 One-Handed** | 1285549 |
-| 5 | **3x3x3 With Feet** | 51884 |
-| 10 | **4x4x4 Blindfolded** | 8442 |
-| 9 | **4x4x4 Cube** | 1377776 |
-| 12 | **5x5x5 Blindfolded** | 3341 |
-| 11 | **5x5x5 Cube** | 697611 |
-| 13 | **6x6x6 Cube** | 146622 |
-| 14 | **7x7x7 Cube** | 120774 |
-| 15 | **Clock** | 258714 |
-| 16 | **Magic** | 78268 |
-| 18 | **Master Magic** | 39964 |
-| 17 | **Megaminx** | 407165 |
-| 19 | **Pyraminx** | 1603885 |
-| 20 | **Skewb** | 965574 |
+| 1 | 3x3x3 Cube | **4631327** | 4736084 |
+| 2 | 2x2x2 Cube | **2587438** | 2654665 |
+| 3 | Pyraminx | **1603885** | 1647437 |
+| 4 | 4x4x4 Cube | **1377776** | 1432534 |
+| 5 | 3x3x3 One-Handed | **1285549** | 1329707 |
+| 6 | Skewb | **965574** | 992435 |
+| 7 | 5x5x5 Cube | **697611** | 720280 |
+| 8 | Megaminx | **407165** | 426219 |
+| 9 | Square-1 | **378619** | 396015 |
+| 10 | Clock | **258714** | 300865 |
+| 11 | 6x6x6 Cube | **146622** | 152358 |
+| 12 | 7x7x7 Cube | **120774** | 126287 |
+| 13 | 3x3x3 Blindfolded | **103415** | 290192 |
+| 14 | Magic | **78268** | 86498 |
+| 15 | 3x3x3 Fewest Moves | **63740** | 90747 |
+| 16 | 3x3x3 With Feet | **51884** | 56650 |
+| 17 | Master Magic | **39964** | 41445 |
+| 18 | 3x3x3 Multi-Blind | **16984** | 29983 |
+| 19 | 4x4x4 Blindfolded | **8442** | 33762 |
+| 20 | 5x5x5 Blindfolded | **3341** | 17258 |
 
 
 <a href="https://github.com/JustinTimeCuber/wca_statistics" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>

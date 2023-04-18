@@ -2,8 +2,8 @@
 
 *Updated on 11 April 2023*
 
-| Countries | Person |
-| ---: | :--- |
+| Rank | Countries | Person |
+| :--- | ---: | :--- |
 | 1 | 61 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
 | 2 | 45 | [Hanneke Rijks](https://www.worldcubeassociation.org/persons/2008RIJK01) |
 | 3 | 39 | [Anders Larsson](https://www.worldcubeassociation.org/persons/2003LARS01) |
