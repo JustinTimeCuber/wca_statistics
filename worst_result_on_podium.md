@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on 11 April 2023*
+*Updated on 13 May 2023*
 
 
 ### Rubik's Cube
@@ -113,16 +113,16 @@
 
 | Rank | Person | Single | Average | Competition | Place |
 | :--- | :--- | ---: | ---: | :--- | :--: |
-| 1 | [Manuel Aleandro Chang Pérez](https://www.worldcubeassociation.org/persons/2015PERE29) | 59 | **67.00** | [Xela Open 2016](https://www.worldcubeassociation.org/competitions/XelaOpen2016/results/podiums#e333fm) | 3 |
-| 2 | [Hossein Mastan (حسین مستان)](https://www.worldcubeassociation.org/persons/2015MAST01) | 59 | **67.00** | [IranFMC 2015](https://www.worldcubeassociation.org/competitions/IranFMC2015/results/podiums#e333fm) | 2 |
-| 3 | [Carson Claud](https://www.worldcubeassociation.org/persons/2015CLAU02) | 55 | **62.67** | [Please Be Quiet Utah 2019](https://www.worldcubeassociation.org/competitions/PleaseBeQuietUtah2019/results/podiums#e333fm) | 2 |
-| 4 | [Hannu Vanhatalo](https://www.worldcubeassociation.org/persons/2018VANH04) | 61 | **62.00** | [Pulmapelipäivät 2019](https://www.worldcubeassociation.org/competitions/Pulmapelipaivat2019/results/podiums#e333fm) | 2 |
-| 5 | [Aidan Proietto](https://www.worldcubeassociation.org/persons/2016PROI01) | 56 | **59.67** | [Last Minute Qualifier 2017](https://www.worldcubeassociation.org/competitions/LastMinuteQualifier2017/results/podiums#e333fm) | 2 |
-| 6 | [Benito Benítez Ruiz](https://www.worldcubeassociation.org/persons/2015RUIZ08) | 51 | **59.67** | [Quijote Open 2016](https://www.worldcubeassociation.org/competitions/QuijoteOpen2016/results/podiums#e333fm) | 2 |
-| 7 | [Ryan Xiao](https://www.worldcubeassociation.org/persons/2022XIAO03) | 57 | **59.33** | [Please Be Solved Vancouver 2022](https://www.worldcubeassociation.org/competitions/PleaseBeSolvedVancouver2022/results/podiums#e333fm) | 3 |
-| 8 | [Sachin Arvind](https://www.worldcubeassociation.org/persons/2013ARVI02) | 57 | **58.67** | [1st Jorhat Open 2019](https://www.worldcubeassociation.org/competitions/1stJorhatOpen2019/results/podiums#e333fm) | 3 |
-| 9 | [David Arturo Díaz](https://www.worldcubeassociation.org/persons/2016DIAZ14) | 47 | **58.67** | [Paraguay Nationals 2018](https://www.worldcubeassociation.org/competitions/ParaguayNationals2018/results/podiums#e333fm) | 2 |
-| 10 | [Evgeniy Lee](https://www.worldcubeassociation.org/persons/2018LEEE03) | 54 | **57.67** | [Silent Winter Tashkent 2020](https://www.worldcubeassociation.org/competitions/SilentWinterTashkent2020/results/podiums#e333fm) | 3 |
+| 1 | [Emú Ticknor Byrd](https://www.worldcubeassociation.org/persons/2022TICK02) | 64 | **69.67** | [JAM FMC V 2023](https://www.worldcubeassociation.org/competitions/JAMFMCV2023/results/podiums#e333fm) | 2 |
+| 2 | [Manuel Aleandro Chang Pérez](https://www.worldcubeassociation.org/persons/2015PERE29) | 59 | **67.00** | [Xela Open 2016](https://www.worldcubeassociation.org/competitions/XelaOpen2016/results/podiums#e333fm) | 3 |
+| 3 | [Hossein Mastan (حسین مستان)](https://www.worldcubeassociation.org/persons/2015MAST01) | 59 | **67.00** | [IranFMC 2015](https://www.worldcubeassociation.org/competitions/IranFMC2015/results/podiums#e333fm) | 2 |
+| 4 | [Carson Claud](https://www.worldcubeassociation.org/persons/2015CLAU02) | 55 | **62.67** | [Please Be Quiet Utah 2019](https://www.worldcubeassociation.org/competitions/PleaseBeQuietUtah2019/results/podiums#e333fm) | 2 |
+| 5 | [Hannu Vanhatalo](https://www.worldcubeassociation.org/persons/2018VANH04) | 61 | **62.00** | [Pulmapelipäivät 2019](https://www.worldcubeassociation.org/competitions/Pulmapelipaivat2019/results/podiums#e333fm) | 2 |
+| 6 | [Aidan Proietto](https://www.worldcubeassociation.org/persons/2016PROI01) | 56 | **59.67** | [Last Minute Qualifier 2017](https://www.worldcubeassociation.org/competitions/LastMinuteQualifier2017/results/podiums#e333fm) | 2 |
+| 7 | [Benito Benítez Ruiz](https://www.worldcubeassociation.org/persons/2015RUIZ08) | 51 | **59.67** | [Quijote Open 2016](https://www.worldcubeassociation.org/competitions/QuijoteOpen2016/results/podiums#e333fm) | 2 |
+| 8 | [Ryan Xiao](https://www.worldcubeassociation.org/persons/2022XIAO03) | 57 | **59.33** | [Please Be Solved Vancouver 2022](https://www.worldcubeassociation.org/competitions/PleaseBeSolvedVancouver2022/results/podiums#e333fm) | 3 |
+| 9 | [Sachin Arvind](https://www.worldcubeassociation.org/persons/2013ARVI02) | 57 | **58.67** | [1st Jorhat Open 2019](https://www.worldcubeassociation.org/competitions/1stJorhatOpen2019/results/podiums#e333fm) | 3 |
+| 10 | [David Arturo Díaz](https://www.worldcubeassociation.org/persons/2016DIAZ14) | 47 | **58.67** | [Paraguay Nationals 2018](https://www.worldcubeassociation.org/competitions/ParaguayNationals2018/results/podiums#e333fm) | 2 |
 
 ### 3x3x3 One-Handed
 
