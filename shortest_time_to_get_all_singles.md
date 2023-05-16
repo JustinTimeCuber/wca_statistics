@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 14 May 2023*
+*Updated on 15 May 2023*
 
 | Rank | Days | Person |
 | :--- | ---: | :--- |
@@ -126,8 +126,8 @@
 | 119 | 1028 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
 | 120 | 1035 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) |
 | 121 | 1036 | [Jérôme Carlier](https://www.worldcubeassociation.org/persons/2016CARL02) |
-| 122 | 1042 | [Viktor Zenk](https://www.worldcubeassociation.org/persons/2016ZENK01) |
-| 123 | 1042 | [Laura Holzhauer](https://www.worldcubeassociation.org/persons/2016HOLZ01) |
+| 122 | 1042 | [Laura Holzhauer](https://www.worldcubeassociation.org/persons/2016HOLZ01) |
+| 123 | 1042 | [Viktor Zenk](https://www.worldcubeassociation.org/persons/2016ZENK01) |
 | 124 | 1057 | [Paul Taylor](https://www.worldcubeassociation.org/persons/2016TAYL02) |
 | 125 | 1057 | [Marcel Ručigaj](https://www.worldcubeassociation.org/persons/2016RUCI01) |
 | 126 | 1064 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |

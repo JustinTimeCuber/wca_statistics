@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 14 May 2023*
+*Updated on 15 May 2023*
 
 
 ### World
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.49 | World | 9653 |
+| 1 | 1.49 | World | 9667 |
 
 ### Continents
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.76 | Europe | 3162 |
-| 2 | 1.57 | South America | 1078 |
-| 3 | 1.47 | Oceania | 416 |
+| 1 | 1.76 | Europe | 3164 |
+| 2 | 1.57 | South America | 1079 |
+| 3 | 1.47 | Oceania | 422 |
 | 4 | 1.41 | Asia | 2268 |
 | 5 | 1.24 | Africa | 107 |
-| 6 | 1.21 | North America | 2622 |
+| 6 | 1.21 | North America | 2627 |
 
 ### Countries
 
@@ -51,21 +51,21 @@
 | 25 | 1.81 | Thailand | 37 |
 | 26 | 1.81 | Austria | 21 |
 | 27 | 1.80 | Iceland | 10 |
-| 28 | 1.79 | Brazil | 351 |
+| 28 | 1.79 | Brazil | 352 |
 | 29 | 1.78 | Guatemala | 50 |
 | 30 | 1.75 | Sri Lanka | 4 |
 | 31 | 1.73 | Denmark | 124 |
 | 32 | 1.72 | Slovenia | 25 |
 | 33 | 1.71 | Argentina | 66 |
 | 34 | 1.71 | Ukraine | 110 |
-| 35 | 1.68 | Poland | 363 |
+| 35 | 1.68 | Poland | 364 |
 | 36 | 1.67 | Bangladesh | 9 |
 | 37 | 1.67 | Kyrgyzstan | 3 |
 | 38 | 1.67 | Luxembourg | 3 |
 | 39 | 1.67 | Montenegro | 3 |
 | 40 | 1.67 | North Macedonia | 6 |
 | 41 | 1.67 | San Marino | 6 |
-| 42 | 1.66 | Sweden | 172 |
+| 42 | 1.66 | Sweden | 173 |
 | 43 | 1.66 | Iran | 32 |
 | 44 | 1.61 | Indonesia | 187 |
 | 45 | 1.61 | Ireland | 36 |
@@ -83,8 +83,8 @@
 | 57 | 1.50 | Tajikistan | 2 |
 | 58 | 1.49 | Peru | 161 |
 | 59 | 1.45 | Romania | 78 |
-| 60 | 1.44 | Australia | 332 |
-| 61 | 1.44 | Greece | 16 |
+| 60 | 1.44 | Greece | 16 |
+| 61 | 1.43 | Australia | 338 |
 | 62 | 1.43 | Singapore | 35 |
 | 63 | 1.40 | Jordan | 10 |
 | 64 | 1.39 | Nepal | 18 |
@@ -110,7 +110,7 @@
 | 84 | 1.22 | Japan | 213 |
 | 85 | 1.20 | Kuwait | 5 |
 | 86 | 1.19 | Portugal | 16 |
-| 87 | 1.17 | United States | 2092 |
+| 87 | 1.17 | United States | 2097 |
 | 88 | 1.17 | Andorra | 6 |
 | 89 | 1.17 | Tunisia | 24 |
 | 90 | 1.17 | Uruguay | 42 |
