@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 15 May 2023*
+*Updated on 18 May 2023*
 
 | Rank | Competitions | Person |
 | :--- | ---: | :--- |
@@ -38,7 +38,7 @@
 | 32 | 70 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) |
 | 33 | 69 | [Chan Tak Chuen (陳德泉)](https://www.worldcubeassociation.org/persons/2007CHUE01) |
 | 34 | 69 | [Jedrick Remonde](https://www.worldcubeassociation.org/persons/2008REMO01) |
-| 35 | 69 | [Thomas Schmidt](https://www.worldcubeassociation.org/persons/2013SCHM02) |
+| 35 | 69 | [Thomas Mæhle Schmidt](https://www.worldcubeassociation.org/persons/2013SCHM02) |
 | 36 | 68 | [Kevin Matthews](https://www.worldcubeassociation.org/persons/2010MATT02) |
 | 37 | 67 | [Emile Compion](https://www.worldcubeassociation.org/persons/2007COMP01) |
 | 38 | 66 | [Hanneke Rijks](https://www.worldcubeassociation.org/persons/2008RIJK01) |

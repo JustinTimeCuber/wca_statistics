@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 15 May 2023*
+*Updated on 18 May 2023*
 
 | Rank | 4th places | Person |
 | :--- | ---: | :--- |
@@ -28,8 +28,8 @@
 | 21 | 103 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
 | 22 | 103 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 23 | 102 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
-| 24 | 101 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
-| 25 | 100 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
+| 24 | 101 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
+| 25 | 101 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 26 | 99 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) |
 | 27 | 94 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) |
 | 28 | 93 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
@@ -51,8 +51,8 @@
 | 44 | 82 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) |
 | 45 | 81 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 46 | 81 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) |
-| 47 | 79 | [Nicolas Gertner Kilian](https://www.worldcubeassociation.org/persons/2013GERT01) |
-| 48 | 79 | [Joseph Daniel Blas Sanchez](https://www.worldcubeassociation.org/persons/2016SANC08) |
+| 47 | 80 | [Joseph Daniel Blas Sanchez](https://www.worldcubeassociation.org/persons/2016SANC08) |
+| 48 | 79 | [Nicolas Gertner Kilian](https://www.worldcubeassociation.org/persons/2013GERT01) |
 | 49 | 79 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
 | 50 | 78 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) |
 | 51 | 78 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
@@ -64,8 +64,8 @@
 | 57 | 75 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) |
 | 58 | 75 | [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) |
 | 59 | 75 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
-| 60 | 74 | [Lucas Déglise](https://www.worldcubeassociation.org/persons/2015DEGL01) |
-| 61 | 74 | [Ivan Zabrodin](https://www.worldcubeassociation.org/persons/2012ZABR01) |
+| 60 | 74 | [Ivan Zabrodin](https://www.worldcubeassociation.org/persons/2012ZABR01) |
+| 61 | 74 | [Lucas Déglise](https://www.worldcubeassociation.org/persons/2015DEGL01) |
 | 62 | 74 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) |
 | 63 | 73 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) |
 | 64 | 73 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
@@ -88,8 +88,8 @@
 | 81 | 68 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 82 | 68 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) |
 | 83 | 68 | [Hippolyte Moreau](https://www.worldcubeassociation.org/persons/2008MORE02) |
-| 84 | 67 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
-| 85 | 67 | [Nikhil Soares](https://www.worldcubeassociation.org/persons/2015SOAR01) |
+| 84 | 67 | [Nikhil Soares](https://www.worldcubeassociation.org/persons/2015SOAR01) |
+| 85 | 67 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
 | 86 | 67 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
 | 87 | 66 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
 | 88 | 66 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
