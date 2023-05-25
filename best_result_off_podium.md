@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 21 May 2023*
+*Updated on 24 May 2023*
 
 
 ### Rubik's Cube
@@ -72,27 +72,27 @@
 | 2 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 1:24.61 | **1:30.60** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e666_f) | 4 |
 | 3 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 1:27.45 | **1:33.10** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e666_f) | 5 |
 | 4 | [Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68) | 1:25.82 | **1:33.45** | [Pickering A 2023](https://www.worldcubeassociation.org/competitions/PickeringA2023/results/all#e666_c) | 4 |
-| 5 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) | 1:30.73 | **1:33.68** | [Singapore Championship 2023](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2023/results/all#e666_f) | 4 |
-| 6 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | 1:32.01 | **1:34.45** | [Singapore Championship 2023](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2023/results/all#e666_f) | 5 |
-| 7 | [Asia Konvittayayotin (เอเชีย กรวิทยโยธิน)](https://www.worldcubeassociation.org/persons/2009KONV01) | 1:29.69 | **1:35.09** | [YJ KL 2023](https://www.worldcubeassociation.org/competitions/YJKL2023/results/all#e666_f) | 4 |
-| 8 | [Daryl Tan Hong An](https://www.worldcubeassociation.org/persons/2015ANDA01) | 1:34.10 | **1:35.20** | [NTU Welcome 2023](https://www.worldcubeassociation.org/competitions/NTUWelcome2023/results/all#e666_c) | 4 |
-| 9 | [Burno Li Chak Kwan (李澤堃)](https://www.worldcubeassociation.org/persons/2017KWAN05) | 1:33.11 | **1:35.42** | [Ajax NxNxN 2022](https://www.worldcubeassociation.org/competitions/AjaxNNN2022/results/all#e666_c) | 4 |
-| 10 | [Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68) | 1:32.22 | **1:35.74** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#e666_f) | 4 |
+| 5 | [Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12) | 1:27.84 | **1:33.59** | [NDHU Big Cube Day 2023](https://www.worldcubeassociation.org/competitions/NDHUBigCubeDay2023/results/all#e666_f) | 4 |
+| 6 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) | 1:30.73 | **1:33.68** | [Singapore Championship 2023](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2023/results/all#e666_f) | 4 |
+| 7 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | 1:32.01 | **1:34.45** | [Singapore Championship 2023](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2023/results/all#e666_f) | 5 |
+| 8 | [Asia Konvittayayotin (เอเชีย กรวิทยโยธิน)](https://www.worldcubeassociation.org/persons/2009KONV01) | 1:29.69 | **1:35.09** | [YJ KL 2023](https://www.worldcubeassociation.org/competitions/YJKL2023/results/all#e666_f) | 4 |
+| 9 | [Daryl Tan Hong An](https://www.worldcubeassociation.org/persons/2015ANDA01) | 1:34.10 | **1:35.20** | [NTU Welcome 2023](https://www.worldcubeassociation.org/competitions/NTUWelcome2023/results/all#e666_c) | 4 |
+| 10 | [Burno Li Chak Kwan (李澤堃)](https://www.worldcubeassociation.org/persons/2017KWAN05) | 1:33.11 | **1:35.42** | [Ajax NxNxN 2022](https://www.worldcubeassociation.org/competitions/AjaxNNN2022/results/all#e666_c) | 4 |
 
 ### 7x7x7 Cube
 
 | Rank | Person | Single | Average | Competition | Place |
 | :--- | :--- | ---: | ---: | :--- | :--: |
 | 1 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | 2:09.98 | **2:14.51** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e777_f) | 4 |
-| 2 | [Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68) | 2:11.82 | **2:19.59** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#e777_f) | 4 |
-| 3 | [Jack Pfeifer](https://www.worldcubeassociation.org/persons/2016PFEI01) | 2:09.14 | **2:20.31** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#e777_f) | 5 |
-| 4 | [Wong Kin Lok (黃健樂)](https://www.worldcubeassociation.org/persons/2014LOKW01) | 2:08.42 | **2:20.48** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e777_f) | 5 |
-| 5 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | 2:07.45 | **2:20.97** | [Singapore Championship 2023](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2023/results/all#e777_f) | 4 |
-| 6 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 2:08.14 | **2:21.27** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e777_f) | 6 |
-| 7 | [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) | 2:14.29 | **2:21.27** | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all#e777_f) | 4 |
-| 8 | [Benjamin Wei](https://www.worldcubeassociation.org/persons/2015WEIB03) | 2:14.07 | **2:21.54** | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all#e777_f) | 5 |
-| 9 | [Daryl Tan Hong An](https://www.worldcubeassociation.org/persons/2015ANDA01) | 2:15.92 | **2:21.86** | [Singapore Championship 2023](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2023/results/all#e777_f) | 5 |
-| 10 | [Wong Kin Lok (黃健樂)](https://www.worldcubeassociation.org/persons/2014LOKW01) | 2:12.67 | **2:22.28** | [WCA Asian Championship 2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018/results/all#e777_f) | 4 |
+| 2 | [Cian-Jyun Yang (楊謙君)](https://www.worldcubeassociation.org/persons/2019YANG94) | 2:05.68 | **2:18.17** | [NDHU Big Cube Day 2023](https://www.worldcubeassociation.org/competitions/NDHUBigCubeDay2023/results/all#e777_f) | 4 |
+| 3 | [Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68) | 2:11.82 | **2:19.59** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#e777_f) | 4 |
+| 4 | [Jack Pfeifer](https://www.worldcubeassociation.org/persons/2016PFEI01) | 2:09.14 | **2:20.31** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#e777_f) | 5 |
+| 5 | [Wong Kin Lok (黃健樂)](https://www.worldcubeassociation.org/persons/2014LOKW01) | 2:08.42 | **2:20.48** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e777_f) | 5 |
+| 6 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | 2:07.45 | **2:20.97** | [Singapore Championship 2023](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2023/results/all#e777_f) | 4 |
+| 7 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 2:08.14 | **2:21.27** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e777_f) | 6 |
+| 8 | [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) | 2:14.29 | **2:21.27** | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all#e777_f) | 4 |
+| 9 | [Benjamin Wei](https://www.worldcubeassociation.org/persons/2015WEIB03) | 2:14.07 | **2:21.54** | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all#e777_f) | 5 |
+| 10 | [Chun-Pao Ni (倪君寶)](https://www.worldcubeassociation.org/persons/2016NIJU01) | 2:15.89 | **2:21.60** | [NDHU Big Cube Day 2023](https://www.worldcubeassociation.org/competitions/NDHUBigCubeDay2023/results/all#e777_f) | 5 |
 
 ### 3x3x3 Blindfolded
 
@@ -105,9 +105,9 @@
 | 5 | [Liam Chen](https://www.worldcubeassociation.org/persons/2014CHEN37) | **19.38** | DNF | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e333bf_f) | 5 |
 | 6 | [Antonio Kam Ho Tung (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) | **19.44** | DNF | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/all#e333bf_f) | 4 |
 | 7 | [Sebastiano Tronto](https://www.worldcubeassociation.org/persons/2011TRON02) | **19.48** | DNF | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e333bf_f) | 6 |
-| 8 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | **20.07** | DNF | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#e333bf_f) | 7 |
-| 9 | [Jake Klassen](https://www.worldcubeassociation.org/persons/2016KLAS01) | **20.23** | DNF | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e333bf_f) | 7 |
-| 10 | [Yichuan Xie (谢逸川)](https://www.worldcubeassociation.org/persons/2016XIEY08) | **20.58** | DNF | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021/results/all#e333bf_f) | 4 |
+| 8 | [Hill Pong Yong Feng](https://www.worldcubeassociation.org/persons/2017FENG10) | **19.96** | DNF | [May MBLD Madness Singapore 2023](https://www.worldcubeassociation.org/competitions/MayMBLDMadnessSingapore2023/results/all#e333bf_f) | 4 |
+| 9 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | **20.07** | DNF | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#e333bf_f) | 7 |
+| 10 | [Jake Klassen](https://www.worldcubeassociation.org/persons/2016KLAS01) | **20.23** | DNF | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e333bf_f) | 7 |
 
 ### 3x3x3 Fewest Moves
 
@@ -219,15 +219,15 @@
 | Rank | Person | Single | Average | Competition | Place |
 | :--- | :--- | ---: | ---: | :--- | :--: |
 | 1 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | **1:56.56** | 2:21.61 | [Bishop's Stortford Spring 2023](https://www.worldcubeassociation.org/competitions/BishopsStortfordSpringBBO2023/results/all#e444bf_f) | 4 |
-| 2 | [Mikołaj Salamon](https://www.worldcubeassociation.org/persons/2016SALA18) | **2:33.59** | DNF | [Polish Championship 2022](https://www.worldcubeassociation.org/competitions/PolishChampionship2022/results/all#e444bf_f) | 4 |
-| 3 | [Neel Gore](https://www.worldcubeassociation.org/persons/2016GORE02) | **2:34.66** | DNF | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all#e444bf_f) | 4 |
-| 4 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) | **2:38.82** | DNF | [Polish Championship 2022](https://www.worldcubeassociation.org/competitions/PolishChampionship2022/results/all#e444bf_f) | 5 |
-| 5 | [Abhijeet Ghodgaonkar](https://www.worldcubeassociation.org/persons/2013GHOD01) | **2:39.94** | DNF | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e444bf_f) | 4 |
-| 6 | [Timothy Goh](https://www.worldcubeassociation.org/persons/2016GOHT01) | **2:45.16** | DNF | [CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/all#e444bf_f) | 4 |
-| 7 | [Paul Taylor](https://www.worldcubeassociation.org/persons/2016TAYL02) | **2:45.49** | 3:08.34 | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all#e444bf_f) | 5 |
-| 8 | [Daniel Anker Hermansen](https://www.worldcubeassociation.org/persons/2017HERM01) | **2:46.66** | DNF | [WCA Euro 2018](https://www.worldcubeassociation.org/competitions/Euro2018/results/all#e444bf_f) | 4 |
-| 9 | [Ádám Barta](https://www.worldcubeassociation.org/persons/2009BART02) | **2:51.93** | DNF | [WCA Euro 2018](https://www.worldcubeassociation.org/competitions/Euro2018/results/all#e444bf_f) | 5 |
-| 10 | [Gianfranco Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN29) | **2:53.68** | DNF | [WCA Euro 2018](https://www.worldcubeassociation.org/competitions/Euro2018/results/all#e444bf_f) | 6 |
+| 2 | [Theodore Chan](https://www.worldcubeassociation.org/persons/2016CHAN25) | **2:06.10** | DNF | [May MBLD Madness Singapore 2023](https://www.worldcubeassociation.org/competitions/MayMBLDMadnessSingapore2023/results/all#e444bf_f) | 4 |
+| 3 | [Mikołaj Salamon](https://www.worldcubeassociation.org/persons/2016SALA18) | **2:33.59** | DNF | [Polish Championship 2022](https://www.worldcubeassociation.org/competitions/PolishChampionship2022/results/all#e444bf_f) | 4 |
+| 4 | [Neel Gore](https://www.worldcubeassociation.org/persons/2016GORE02) | **2:34.66** | DNF | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all#e444bf_f) | 4 |
+| 5 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) | **2:38.82** | DNF | [Polish Championship 2022](https://www.worldcubeassociation.org/competitions/PolishChampionship2022/results/all#e444bf_f) | 5 |
+| 6 | [Abhijeet Ghodgaonkar](https://www.worldcubeassociation.org/persons/2013GHOD01) | **2:39.94** | DNF | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e444bf_f) | 4 |
+| 7 | [Timothy Goh](https://www.worldcubeassociation.org/persons/2016GOHT01) | **2:45.16** | DNF | [CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/all#e444bf_f) | 4 |
+| 8 | [Paul Taylor](https://www.worldcubeassociation.org/persons/2016TAYL02) | **2:45.49** | 3:08.34 | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all#e444bf_f) | 5 |
+| 9 | [Daniel Anker Hermansen](https://www.worldcubeassociation.org/persons/2017HERM01) | **2:46.66** | DNF | [WCA Euro 2018](https://www.worldcubeassociation.org/competitions/Euro2018/results/all#e444bf_f) | 4 |
+| 10 | [Ádám Barta](https://www.worldcubeassociation.org/persons/2009BART02) | **2:51.93** | DNF | [WCA Euro 2018](https://www.worldcubeassociation.org/competitions/Euro2018/results/all#e444bf_f) | 5 |
 
 ### 5x5x5 Blindfolded
 

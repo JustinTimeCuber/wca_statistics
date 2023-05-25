@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 21 May 2023*
+*Updated on 24 May 2023*
 
 
 ### Rubik's Cube
@@ -219,15 +219,15 @@
 | Rank | Competitions | Person | First win |
 | :--- | ---: | :--- | :--- |
 | 1 | 32 | [Viktor Zenk](https://www.worldcubeassociation.org/persons/2016ZENK01) | [Jönköpingsligan 3 Stormvind 2023](https://www.worldcubeassociation.org/competitions/Jonkopingsligan3Stormvind2023) |
-| 2 | 26 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) | [Barby Cube 2019](https://www.worldcubeassociation.org/competitions/BarbyCube2019) |
-| 3 | 21 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) | [Zaragoza Open 2016](https://www.worldcubeassociation.org/competitions/ZaragozaOpen2016) |
-| 4 | 21 | [Aneurin Hunt](https://www.worldcubeassociation.org/persons/2010HUNT02) | [Wellington Summer 2023](https://www.worldcubeassociation.org/competitions/WellingtonSummer2023) |
-| 5 | 21 | [Oliver Wheat](https://www.worldcubeassociation.org/persons/2016WHEA01) | [Irish Championship 2022](https://www.worldcubeassociation.org/competitions/IrishChampionship2022) |
-| 6 | 20 | [Alexander Botz](https://www.worldcubeassociation.org/persons/2013BOTZ01) | [Twixmas Jönköping 2022](https://www.worldcubeassociation.org/competitions/TwixmasJonkoping2022) |
-| 7 | 19 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Serbian Open 2013](https://www.worldcubeassociation.org/competitions/SerbianOpen2013) |
-| 8 | 19 | [Nikolay Masson (Николай Массон)](https://www.worldcubeassociation.org/persons/2011MASS01) | [KSF Nur-Sultan City 2019](https://www.worldcubeassociation.org/competitions/KSFNurSultanCity2019) |
-| 9 | 18 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | [Idéale Nabeul Open 2019](https://www.worldcubeassociation.org/competitions/IdealeNabeulOpen2019) |
-| 10 | 17 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) | [Anaheim Qualifier 2019](https://www.worldcubeassociation.org/competitions/AnaheimQualifier2019) |
+| 2 | 28 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) | [Anzio Open 2023](https://www.worldcubeassociation.org/competitions/AnzioOpen2023) |
+| 3 | 26 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) | [Barby Cube 2019](https://www.worldcubeassociation.org/competitions/BarbyCube2019) |
+| 4 | 21 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) | [Zaragoza Open 2016](https://www.worldcubeassociation.org/competitions/ZaragozaOpen2016) |
+| 5 | 21 | [Aneurin Hunt](https://www.worldcubeassociation.org/persons/2010HUNT02) | [Wellington Summer 2023](https://www.worldcubeassociation.org/competitions/WellingtonSummer2023) |
+| 6 | 21 | [Oliver Wheat](https://www.worldcubeassociation.org/persons/2016WHEA01) | [Irish Championship 2022](https://www.worldcubeassociation.org/competitions/IrishChampionship2022) |
+| 7 | 20 | [Alexander Botz](https://www.worldcubeassociation.org/persons/2013BOTZ01) | [Twixmas Jönköping 2022](https://www.worldcubeassociation.org/competitions/TwixmasJonkoping2022) |
+| 8 | 19 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Serbian Open 2013](https://www.worldcubeassociation.org/competitions/SerbianOpen2013) |
+| 9 | 19 | [Nikolay Masson (Николай Массон)](https://www.worldcubeassociation.org/persons/2011MASS01) | [KSF Nur-Sultan City 2019](https://www.worldcubeassociation.org/competitions/KSFNurSultanCity2019) |
+| 10 | 18 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | [Idéale Nabeul Open 2019](https://www.worldcubeassociation.org/competitions/IdealeNabeulOpen2019) |
 
 ### 5x5x5 Blindfolded
 
