@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 27 May 2023*
+*Updated on 30 May 2023*
 
 
 ### Rubik's Cube
@@ -68,30 +68,30 @@
 | Rank | Counting | Peson | Competition |
 | :--- | ---: | :--- | :--- |
 | 1 | 7.71 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/by_person#2012PONC02) |
-| 2 | 7.86 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Marshall Middle Slice 2022](https://www.worldcubeassociation.org/competitions/MarshallMiddleSlice2022/results/by_person#2012PARK03) |
-| 3 | 7.91 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Circle City Turbocharged 2023](https://www.worldcubeassociation.org/competitions/CircleCityTurbocharged2023/results/by_person#2012PARK03) |
-| 4 | 7.95 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Circle City Supercharged 2022](https://www.worldcubeassociation.org/competitions/CircleCitySupercharged2022/results/by_person#2012PARK03) |
-| 5 | 7.96 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Weston-super-Mare Open 2022](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2022/results/by_person#2012PONC02) |
-| 6 | 7.98 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Stevenage Spring 2022](https://www.worldcubeassociation.org/competitions/StevenageSpring2022/results/by_person#2012PONC02) |
-| 7 | 8.02 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Circle City Supercharged 2022](https://www.worldcubeassociation.org/competitions/CircleCitySupercharged2022/results/by_person#2012PARK03) |
-| 8 | 8.05 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [You Only Need a 3x3 AZ 2023](https://www.worldcubeassociation.org/competitions/YouOnlyNeeda3x3AZ2023/results/by_person#2012PARK03) |
-| 9 | 8.12 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Southeast Championship 2022](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2022/results/by_person#2012PARK03) |
-| 10 | 8.18 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Wakefield Spring 2022](https://www.worldcubeassociation.org/competitions/WakefieldSpring2022/results/by_person#2012PONC02) |
+| 2 | 7.74 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Westview Cubing Favorites 2023](https://www.worldcubeassociation.org/competitions/WestviewCubingFavorites2023/results/by_person#2012PARK03) |
+| 3 | 7.86 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Marshall Middle Slice 2022](https://www.worldcubeassociation.org/competitions/MarshallMiddleSlice2022/results/by_person#2012PARK03) |
+| 4 | 7.91 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Circle City Turbocharged 2023](https://www.worldcubeassociation.org/competitions/CircleCityTurbocharged2023/results/by_person#2012PARK03) |
+| 5 | 7.95 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Circle City Supercharged 2022](https://www.worldcubeassociation.org/competitions/CircleCitySupercharged2022/results/by_person#2012PARK03) |
+| 6 | 7.96 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Weston-super-Mare Open 2022](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2022/results/by_person#2012PONC02) |
+| 7 | 7.98 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Stevenage Spring 2022](https://www.worldcubeassociation.org/competitions/StevenageSpring2022/results/by_person#2012PONC02) |
+| 8 | 8.02 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Circle City Supercharged 2022](https://www.worldcubeassociation.org/competitions/CircleCitySupercharged2022/results/by_person#2012PARK03) |
+| 9 | 8.05 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [You Only Need a 3x3 AZ 2023](https://www.worldcubeassociation.org/competitions/YouOnlyNeeda3x3AZ2023/results/by_person#2012PARK03) |
+| 10 | 8.12 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Southeast Championship 2022](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2022/results/by_person#2012PARK03) |
 
 ### Megaminx
 
 | Rank | Counting | Peson | Competition |
 | :--- | ---: | :--- | :--- |
-| 1 | 26.29 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Berisso al Cubo 2023](https://www.worldcubeassociation.org/competitions/BerissoAlCubo2023/results/by_person#2018LOPE22) |
-| 2 | 27.07 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Berisso al Cubo 2023](https://www.worldcubeassociation.org/competitions/BerissoAlCubo2023/results/by_person#2018LOPE22) |
-| 3 | 27.26 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Cariló Open 2022](https://www.worldcubeassociation.org/competitions/CariloOpen2022/results/by_person#2018LOPE22) |
-| 4 | 27.40 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Berisso al Cubo 2023](https://www.worldcubeassociation.org/competitions/BerissoAlCubo2023/results/by_person#2018LOPE22) |
-| 5 | 27.42 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Johor Big Cube Challenge 2022](https://www.worldcubeassociation.org/competitions/JohorBigCubeChallenge2022/results/by_person#2016YONG02) |
-| 6 | 27.57 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Singapore Championship 2023](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2023/results/by_person#2016YONG02) |
-| 7 | 27.58 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Cariló Open 2022](https://www.worldcubeassociation.org/competitions/CariloOpen2022/results/by_person#2018LOPE22) |
-| 8 | 27.60 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Taiwan Championship 2022](https://www.worldcubeassociation.org/competitions/TaiwanChampionship2022/results/by_person#2016YONG02) |
-| 9 | 27.76 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Tres Estrellas 2023](https://www.worldcubeassociation.org/competitions/TresEstrellas2023/results/by_person#2018LOPE22) |
-| 10 | 27.80 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | [Westchester Weeknights 1 2023](https://www.worldcubeassociation.org/competitions/WestchesterWeeknights12023/results/by_person#2015NAIN01) |
+| 1 | 25.69 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Jaqueca Di Tella 2023](https://www.worldcubeassociation.org/competitions/JaquecaDiTella2023/results/by_person#2018LOPE22) |
+| 2 | 26.29 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Berisso al Cubo 2023](https://www.worldcubeassociation.org/competitions/BerissoAlCubo2023/results/by_person#2018LOPE22) |
+| 3 | 27.07 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Berisso al Cubo 2023](https://www.worldcubeassociation.org/competitions/BerissoAlCubo2023/results/by_person#2018LOPE22) |
+| 4 | 27.26 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Cariló Open 2022](https://www.worldcubeassociation.org/competitions/CariloOpen2022/results/by_person#2018LOPE22) |
+| 5 | 27.26 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Jaqueca Di Tella 2023](https://www.worldcubeassociation.org/competitions/JaquecaDiTella2023/results/by_person#2018LOPE22) |
+| 6 | 27.37 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Jaqueca Di Tella 2023](https://www.worldcubeassociation.org/competitions/JaquecaDiTella2023/results/by_person#2018LOPE22) |
+| 7 | 27.40 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Berisso al Cubo 2023](https://www.worldcubeassociation.org/competitions/BerissoAlCubo2023/results/by_person#2018LOPE22) |
+| 8 | 27.42 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Johor Big Cube Challenge 2022](https://www.worldcubeassociation.org/competitions/JohorBigCubeChallenge2022/results/by_person#2016YONG02) |
+| 9 | 27.57 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Singapore Championship 2023](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2023/results/by_person#2016YONG02) |
+| 10 | 27.58 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Cariló Open 2022](https://www.worldcubeassociation.org/competitions/CariloOpen2022/results/by_person#2018LOPE22) |
 
 ### Pyraminx
 
@@ -133,10 +133,10 @@
 | 4 | 1.41 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Pretzel Mania 2022](https://www.worldcubeassociation.org/competitions/PretzelMania2022/results/by_person#2018KHAN28) |
 | 5 | 1.43 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Bulldog Winter 2022](https://www.worldcubeassociation.org/competitions/BulldogWinter2022/results/by_person#2018KHAN28) |
 | 6 | 1.47 | [Tyler Robinson](https://www.worldcubeassociation.org/persons/2015ROBI04) | [North Star Cubing Challenge 2022](https://www.worldcubeassociation.org/competitions/NorthStarCubingChallenge2022/results/by_person#2015ROBI04) |
-| 7 | 1.49 | [Tyler Robinson](https://www.worldcubeassociation.org/persons/2015ROBI04) | [Sioux Falls Spring 2022](https://www.worldcubeassociation.org/competitions/SiouxFallsSpring2022/results/by_person#2015ROBI04) |
-| 8 | 1.55 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [MCC Alpha 2022](https://www.worldcubeassociation.org/competitions/MichiganCubingClubAlpha2022/results/by_person#2018KHAN28) |
-| 9 | 1.58 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | [Deerfield Winter 2022](https://www.worldcubeassociation.org/competitions/DeerfieldWinter2022/results/by_person#2015KUCA01) |
-| 10 | 1.58 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [South Jersey Speedsolving 2023](https://www.worldcubeassociation.org/competitions/SouthJerseySpeedsolving2023/results/by_person#2018KHAN28) |
+| 7 | 1.48 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [North Jersey Speedsolving B 2023](https://www.worldcubeassociation.org/competitions/NorthJerseySpeedsolvingB2023/results/by_person#2018KHAN28) |
+| 8 | 1.49 | [Tyler Robinson](https://www.worldcubeassociation.org/persons/2015ROBI04) | [Sioux Falls Spring 2022](https://www.worldcubeassociation.org/competitions/SiouxFallsSpring2022/results/by_person#2015ROBI04) |
+| 9 | 1.55 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [MCC Alpha 2022](https://www.worldcubeassociation.org/competitions/MichiganCubingClubAlpha2022/results/by_person#2018KHAN28) |
+| 10 | 1.58 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | [Deerfield Winter 2022](https://www.worldcubeassociation.org/competitions/DeerfieldWinter2022/results/by_person#2015KUCA01) |
 
 ### Square-1
 
