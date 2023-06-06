@@ -1,6 +1,6 @@
 ## Longest time to achieve sub 10 3x3x3 average
 
-*Updated on  2 June 2023*
+*Updated on  5 June 2023*
 
 | Rank | Person | Years |
 | :--- | :--- | ---: |
@@ -53,8 +53,8 @@
 | 47 | [Daniël Kassab](https://www.worldcubeassociation.org/persons/2012KASS01) | 9.58 |
 | 48 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 9.56 |
 | 49 | [Sutep Nopnatee (สุเทพ นภนที)](https://www.worldcubeassociation.org/persons/2010NOPN01) | 9.54 |
-| 50 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | 9.47 |
-| 51 | [Gabriel Marczak](https://www.worldcubeassociation.org/persons/2013MARC03) | 9.47 |
+| 50 | [Gabriel Marczak](https://www.worldcubeassociation.org/persons/2013MARC03) | 9.47 |
+| 51 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | 9.47 |
 | 52 | [Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02) | 9.45 |
 | 53 | [Evan Brown](https://www.worldcubeassociation.org/persons/2013BROW04) | 9.39 |
 | 54 | [Vegard Seim Karstang](https://www.worldcubeassociation.org/persons/2009SEIM02) | 9.33 |
@@ -62,18 +62,18 @@
 | 56 | [James Donahue](https://www.worldcubeassociation.org/persons/2010DONA01) | 9.18 |
 | 57 | [Zeqin Chen (陈泽钦)](https://www.worldcubeassociation.org/persons/2010CHEN37) | 9.16 |
 | 58 | [Eric Zhao](https://www.worldcubeassociation.org/persons/2010ZHAO19) | 9.06 |
-| 59 | [Darren Siew Ee Yaang (蕭奕暘)](https://www.worldcubeassociation.org/persons/2009SIEW01) | 9.05 |
-| 60 | [José Garrido](https://www.worldcubeassociation.org/persons/2009GARR01) | 9.05 |
+| 59 | [José Garrido](https://www.worldcubeassociation.org/persons/2009GARR01) | 9.05 |
+| 60 | [Darren Siew Ee Yaang (蕭奕暘)](https://www.worldcubeassociation.org/persons/2009SIEW01) | 9.05 |
 | 61 | [Fayyadh Aunilbarr](https://www.worldcubeassociation.org/persons/2010AUNI01) | 9.02 |
 | 62 | [Yueh-Lin Tsai (蔡岳霖)](https://www.worldcubeassociation.org/persons/2006TSAI03) | 8.97 |
 | 63 | [Chetan Roger Dhanjal](https://www.worldcubeassociation.org/persons/2014DHAN01) | 8.91 |
 | 64 | [Danang Adianto](https://www.worldcubeassociation.org/persons/2013DANA01) | 8.91 |
-| 65 | [Maximilian Deimel](https://www.worldcubeassociation.org/persons/2010DEIM01) | 8.85 |
-| 66 | [Mohd Ashroof Bin Masri](https://www.worldcubeassociation.org/persons/2009MASR01) | 8.85 |
+| 65 | [Mohd Ashroof Bin Masri](https://www.worldcubeassociation.org/persons/2009MASR01) | 8.85 |
+| 66 | [Maximilian Deimel](https://www.worldcubeassociation.org/persons/2010DEIM01) | 8.85 |
 | 67 | [Yongan Liu (刘永安)](https://www.worldcubeassociation.org/persons/2009LIUY08) | 8.82 |
-| 68 | [Alex Tedeschi](https://www.worldcubeassociation.org/persons/2014TEDE01) | 8.76 |
+| 68 | [Mariano D'Imperio](https://www.worldcubeassociation.org/persons/2009DIMP01) | 8.76 |
 | 69 | [Carson Davis](https://www.worldcubeassociation.org/persons/2014DAVI06) | 8.76 |
-| 70 | [Mariano D'Imperio](https://www.worldcubeassociation.org/persons/2009DIMP01) | 8.76 |
+| 70 | [Alex Tedeschi](https://www.worldcubeassociation.org/persons/2014TEDE01) | 8.76 |
 | 71 | [Choi Yeong-Jun](https://www.worldcubeassociation.org/persons/2013YEON01) | 8.72 |
 | 72 | [Altanbagana Altangerel (Алтангэрэл Алтанбагана)](https://www.worldcubeassociation.org/persons/2013ALTA01) | 8.68 |
 | 73 | [Jesús Julián De Niz Hernandez](https://www.worldcubeassociation.org/persons/2014HERN12) | 8.68 |
@@ -89,17 +89,17 @@
 | 83 | [Sohan Dhanak](https://www.worldcubeassociation.org/persons/2014DHAN03) | 8.49 |
 | 84 | [Amit Schori](https://www.worldcubeassociation.org/persons/2014SCHO03) | 8.49 |
 | 85 | [Tim Wong](https://www.worldcubeassociation.org/persons/2007WONG02) | 8.44 |
-| 86 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) | 8.39 |
-| 87 | [Sebastian Nowicki](https://www.worldcubeassociation.org/persons/2014NOWI01) | 8.39 |
+| 86 | [Sebastian Nowicki](https://www.worldcubeassociation.org/persons/2014NOWI01) | 8.39 |
+| 87 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) | 8.39 |
 | 88 | [Shenchuan Mao (毛神川)](https://www.worldcubeassociation.org/persons/2011MAOS01) | 8.38 |
 | 89 | [Elias Fischer](https://www.worldcubeassociation.org/persons/2013FISC01) | 8.38 |
 | 90 | [Bo Yu (庾博)](https://www.worldcubeassociation.org/persons/2013YUBO01) | 8.37 |
 | 91 | [Derek Tat](https://www.worldcubeassociation.org/persons/2009TATD01) | 8.36 |
 | 92 | [Angeline Wijaya (黃千儀)](https://www.worldcubeassociation.org/persons/2011WIJA03) | 8.35 |
 | 93 | [Guus de Wit](https://www.worldcubeassociation.org/persons/2008WITG01) | 8.30 |
-| 94 | [Chenge Liu (刘晨舸)](https://www.worldcubeassociation.org/persons/2011LIUC02) | 8.28 |
-| 95 | [Konstantin Krämer](https://www.worldcubeassociation.org/persons/2014KRAM02) | 8.28 |
-| 96 | [Shao-Heng Hung (洪紹恆)](https://www.worldcubeassociation.org/persons/2011HUNG02) | 8.28 |
+| 94 | [Shao-Heng Hung (洪紹恆)](https://www.worldcubeassociation.org/persons/2011HUNG02) | 8.28 |
+| 95 | [Chenge Liu (刘晨舸)](https://www.worldcubeassociation.org/persons/2011LIUC02) | 8.28 |
+| 96 | [Konstantin Krämer](https://www.worldcubeassociation.org/persons/2014KRAM02) | 8.28 |
 | 97 | [Vinz Navales](https://www.worldcubeassociation.org/persons/2014NAVA04) | 8.28 |
 | 98 | [Simon Lim (林少秋)](https://www.worldcubeassociation.org/persons/2008LIMS01) | 8.24 |
 | 99 | [Weston Mizumoto](https://www.worldcubeassociation.org/persons/2008MIZU01) | 8.24 |

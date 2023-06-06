@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on  2 June 2023*
+*Updated on  5 June 2023*
 
 
 ### World
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.49 | World | 9790 |
+| 1 | 1.49 | World | 9804 |
 
 ### Continents
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.76 | Europe | 3212 |
-| 2 | 1.57 | South America | 1093 |
+| 1 | 1.76 | Europe | 3216 |
+| 2 | 1.57 | South America | 1096 |
 | 3 | 1.47 | Oceania | 427 |
 | 4 | 1.41 | Asia | 2292 |
-| 5 | 1.24 | Africa | 107 |
-| 6 | 1.21 | North America | 2659 |
+| 5 | 1.24 | Africa | 108 |
+| 6 | 1.21 | North America | 2665 |
 
 ### Countries
 
@@ -31,7 +31,7 @@
 | 5 | 2.00 | Belize | 1 |
 | 6 | 2.00 | Liechtenstein | 3 |
 | 7 | 2.00 | Palestine | 2 |
-| 8 | 1.99 | Turkey | 68 |
+| 8 | 1.99 | Turkey | 70 |
 | 9 | 1.98 | United Kingdom | 169 |
 | 10 | 1.96 | Slovakia | 27 |
 | 11 | 1.93 | Belarus | 42 |
@@ -50,7 +50,7 @@
 | 24 | 1.83 | Mexico | 106 |
 | 25 | 1.82 | Austria | 22 |
 | 26 | 1.80 | Iceland | 10 |
-| 27 | 1.80 | Brazil | 357 |
+| 27 | 1.79 | Brazil | 358 |
 | 28 | 1.77 | Thailand | 39 |
 | 29 | 1.76 | Guatemala | 51 |
 | 30 | 1.75 | Sri Lanka | 4 |
@@ -74,16 +74,16 @@
 | 48 | 1.59 | Bolivia | 91 |
 | 49 | 1.58 | India | 458 |
 | 50 | 1.56 | Malaysia | 68 |
-| 51 | 1.55 | Italy | 172 |
+| 51 | 1.55 | Italy | 173 |
 | 52 | 1.52 | Latvia | 23 |
 | 53 | 1.52 | Dominican Republic | 25 |
 | 54 | 1.51 | Colombia | 169 |
 | 55 | 1.50 | Ghana | 2 |
 | 56 | 1.50 | Nigeria | 4 |
 | 57 | 1.50 | Tajikistan | 2 |
-| 58 | 1.48 | Peru | 165 |
-| 59 | 1.44 | Israel | 36 |
-| 60 | 1.44 | Greece | 16 |
+| 58 | 1.49 | Peru | 167 |
+| 59 | 1.47 | Greece | 17 |
+| 60 | 1.44 | Israel | 36 |
 | 61 | 1.44 | Romania | 80 |
 | 62 | 1.44 | Australia | 341 |
 | 63 | 1.42 | Singapore | 36 |
@@ -110,7 +110,7 @@
 | 84 | 1.22 | Japan | 215 |
 | 85 | 1.20 | Kuwait | 5 |
 | 86 | 1.19 | Portugal | 16 |
-| 87 | 1.17 | United States | 2120 |
+| 87 | 1.17 | United States | 2126 |
 | 88 | 1.17 | Andorra | 6 |
 | 89 | 1.17 | Tunisia | 24 |
 | 90 | 1.17 | Uruguay | 42 |
@@ -127,7 +127,7 @@
 | 101 | 1.00 | Cuba | 1 |
 | 102 | 1.00 | Cyprus | 8 |
 | 103 | 1.00 | Egypt | 4 |
-| 104 | 1.00 | Kenya | 3 |
+| 104 | 1.00 | Kenya | 4 |
 | 105 | 1.00 | Kosovo | 3 |
 | 106 | 1.00 | Macau | 1 |
 | 107 | 1.00 | Madagascar | 1 |
