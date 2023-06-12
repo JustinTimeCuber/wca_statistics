@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  8 June 2023*
+*Updated on 11 June 2023*
 
 | Rank | Podiums | Person |
 | :--- | ---: | :--- |
@@ -785,8 +785,8 @@
 | 779 | 13 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [II Mineirim Open 2019](https://www.worldcubeassociation.org/competitions/IIMineirimOpen2019/results/podiums) |
 | 780 | 13 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [Oficina Open 2022](https://www.worldcubeassociation.org/competitions/OficinaOpen2022/results/podiums) |
 | 781 | 12 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [Open UTF ao Cubo 2019](https://www.worldcubeassociation.org/competitions/OpenUTFaoCubo2019/results/podiums) |
-| 782 | 11 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [Oficina Open 2023](https://www.worldcubeassociation.org/competitions/OficinaOpen2023/results/podiums) |
-| 783 | 10 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [Nacionales Argentinas 2022](https://www.worldcubeassociation.org/competitions/NacionalesArgentinas2022/results/podiums) |
+| 782 | 10 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [Nacionales Argentinas 2022](https://www.worldcubeassociation.org/competitions/NacionalesArgentinas2022/results/podiums) |
+| 783 | 10 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [Oficina Open 2023](https://www.worldcubeassociation.org/competitions/OficinaOpen2023/results/podiums) |
 | 784 | 10 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [Schoolmark Open 2018](https://www.worldcubeassociation.org/competitions/SchoolmarkOpen2018/results/podiums) |
 | 785 | 10 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [Schoolmark Open 2019](https://www.worldcubeassociation.org/competitions/SchoolmarkOpen2019/results/podiums) |
 | 786 | 10 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [UNESP Open 2018](https://www.worldcubeassociation.org/competitions/UNESPOpen2018/results/podiums) |
