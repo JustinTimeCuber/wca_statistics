@@ -1,14 +1,14 @@
 ## Most competitions abroad
 
-*Updated on 11 June 2023*
+*Updated on 14 June 2023*
 
 | Rank | Competitions | Person |
 | :--- | ---: | :--- |
-| 1 | 167 | [Maria Oey](https://www.worldcubeassociation.org/persons/2007OEYM01) |
+| 1 | 168 | [Maria Oey](https://www.worldcubeassociation.org/persons/2007OEYM01) |
 | 2 | 154 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 3 | 138 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
 | 4 | 131 | [Callum James Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02) |
-| 5 | 121 | [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) |
+| 5 | 122 | [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) |
 | 6 | 119 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
 | 7 | 118 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 8 | 116 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
@@ -75,21 +75,21 @@
 | 69 | 49 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) |
 | 70 | 49 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) |
 | 71 | 49 | [Lukas Shelley](https://www.worldcubeassociation.org/persons/2016SHEL03) |
-| 72 | 48 | [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) |
-| 73 | 48 | [Samuel Simko](https://www.worldcubeassociation.org/persons/2016SIMK01) |
-| 74 | 48 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
-| 75 | 48 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
-| 76 | 48 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
-| 77 | 48 | [Rituraj Sohoni](https://www.worldcubeassociation.org/persons/2012SOHO01) |
+| 72 | 49 | [Rituraj Sohoni](https://www.worldcubeassociation.org/persons/2012SOHO01) |
+| 73 | 48 | [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) |
+| 74 | 48 | [Samuel Simko](https://www.worldcubeassociation.org/persons/2016SIMK01) |
+| 75 | 48 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
+| 76 | 48 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
+| 77 | 48 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
 | 78 | 48 | [Nox Clémenceau](https://www.worldcubeassociation.org/persons/2015CLEM03) |
-| 79 | 47 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |
-| 80 | 47 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) |
-| 81 | 47 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
-| 82 | 47 | [Brúnó Bereczki](https://www.worldcubeassociation.org/persons/2008BERE01) |
-| 83 | 46 | [Francisco Hamlin](https://www.worldcubeassociation.org/persons/2012HAML01) |
-| 84 | 46 | [Aramayis Adloyan (Արամայիս Ադլոյան)](https://www.worldcubeassociation.org/persons/2012ADLO01) |
-| 85 | 46 | [Mohamed Ben Driss Chokri](https://www.worldcubeassociation.org/persons/2015CHOK01) |
-| 86 | 46 | [Antonio Kam Ho Tung (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) |
+| 79 | 47 | [Antonio Kam Ho Tung (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) |
+| 80 | 47 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |
+| 81 | 47 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) |
+| 82 | 47 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
+| 83 | 47 | [Brúnó Bereczki](https://www.worldcubeassociation.org/persons/2008BERE01) |
+| 84 | 46 | [Francisco Hamlin](https://www.worldcubeassociation.org/persons/2012HAML01) |
+| 85 | 46 | [Aramayis Adloyan (Արամայիս Ադլոյան)](https://www.worldcubeassociation.org/persons/2012ADLO01) |
+| 86 | 46 | [Mohamed Ben Driss Chokri](https://www.worldcubeassociation.org/persons/2015CHOK01) |
 | 87 | 45 | [Jernej Omulec](https://www.worldcubeassociation.org/persons/2010OMUL01) |
 | 88 | 45 | [Young He (何嘉炀)](https://www.worldcubeassociation.org/persons/2014HEYO01) |
 | 89 | 45 | [Abdullah Gulab](https://www.worldcubeassociation.org/persons/2014GULA02) |
@@ -102,8 +102,8 @@
 | 96 | 43 | [Anthony Brooks](https://www.worldcubeassociation.org/persons/2008SEAR01) |
 | 97 | 43 | [Billy Burier](https://www.worldcubeassociation.org/persons/2014BURI01) |
 | 98 | 43 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) |
-| 99 | 43 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) |
-| 100 | 42 | [Leon Schmidtchen](https://www.worldcubeassociation.org/persons/2010SCHM01) |
+| 99 | 43 | [Jānis Zirnis](https://www.worldcubeassociation.org/persons/2013ZIRN01) |
+| 100 | 43 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) |
 
 
 <a href="https://github.com/JustinTimeCuber/wca_statistics" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>

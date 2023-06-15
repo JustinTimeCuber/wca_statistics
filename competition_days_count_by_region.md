@@ -1,31 +1,31 @@
 ## Competition days count by region
 
-*Updated on 11 June 2023*
+*Updated on 14 June 2023*
 
 
 ### World
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.49 | World | 9853 |
+| 1 | 1.49 | World | 9863 |
 
 ### Continents
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.76 | Europe | 3230 |
-| 2 | 1.57 | South America | 1103 |
+| 1 | 1.76 | Europe | 3235 |
+| 2 | 1.57 | South America | 1104 |
 | 3 | 1.47 | Oceania | 429 |
 | 4 | 1.41 | Asia | 2299 |
 | 5 | 1.24 | Africa | 109 |
-| 6 | 1.21 | North America | 2683 |
+| 6 | 1.21 | North America | 2687 |
 
 ### Countries
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
 | 1 | 2.24 | Hungary | 29 |
-| 2 | 2.13 | Czech Republic | 39 |
+| 2 | 2.10 | Czech Republic | 40 |
 | 3 | 2.07 | Uzbekistan | 14 |
 | 4 | 2.06 | Kazakhstan | 34 |
 | 5 | 2.00 | Belize | 1 |
@@ -37,13 +37,13 @@
 | 11 | 1.93 | Belarus | 42 |
 | 12 | 1.92 | Russia | 220 |
 | 13 | 1.91 | Norway | 91 |
-| 14 | 1.90 | Lithuania | 21 |
-| 15 | 1.90 | Germany | 189 |
-| 16 | 1.87 | Serbia | 15 |
-| 17 | 1.86 | France | 251 |
+| 14 | 1.90 | Germany | 189 |
+| 15 | 1.87 | Serbia | 15 |
+| 16 | 1.86 | Lithuania | 22 |
+| 17 | 1.86 | France | 252 |
 | 18 | 1.85 | Croatia | 20 |
 | 19 | 1.84 | Switzerland | 90 |
-| 20 | 1.84 | Spain | 275 |
+| 20 | 1.84 | Spain | 277 |
 | 21 | 1.83 | Belgium | 65 |
 | 22 | 1.83 | Finland | 106 |
 | 23 | 1.83 | Mexico | 106 |
@@ -77,7 +77,7 @@
 | 51 | 1.55 | Italy | 174 |
 | 52 | 1.52 | Latvia | 23 |
 | 53 | 1.52 | Dominican Republic | 25 |
-| 54 | 1.51 | Colombia | 171 |
+| 54 | 1.51 | Colombia | 172 |
 | 55 | 1.50 | Ghana | 2 |
 | 56 | 1.50 | Nigeria | 4 |
 | 57 | 1.50 | Tajikistan | 2 |
@@ -110,7 +110,7 @@
 | 84 | 1.22 | Japan | 215 |
 | 85 | 1.20 | Kuwait | 5 |
 | 86 | 1.19 | Portugal | 16 |
-| 87 | 1.17 | United States | 2142 |
+| 87 | 1.17 | United States | 2146 |
 | 88 | 1.17 | Andorra | 6 |
 | 89 | 1.17 | Tunisia | 24 |
 | 90 | 1.17 | Uruguay | 42 |

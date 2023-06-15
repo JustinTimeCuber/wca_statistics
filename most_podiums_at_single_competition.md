@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 11 June 2023*
+*Updated on 14 June 2023*
 
 | Rank | Podiums | Person |
 | :--- | ---: | :--- |
@@ -1029,25 +1029,26 @@
 | 1023 | 11 | [Dmitry Matthew Yaquinto](https://www.worldcubeassociation.org/persons/2018YAQU01) | [Vladivostok Is Back On 2021](https://www.worldcubeassociation.org/competitions/VladivostokIsBackOn2021/results/podiums) |
 | 1024 | 11 | [Dmitry Matthew Yaquinto](https://www.worldcubeassociation.org/persons/2018YAQU01) | [Vladivostok Spring 2020](https://www.worldcubeassociation.org/competitions/VladivostokSpring2020/results/podiums) |
 | 1025 | 13 | [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | [Pulmapelipäivät 2022](https://www.worldcubeassociation.org/competitions/Pulmapelipaivat2022/results/podiums) |
-| 1026 | 10 | [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | [Autotalo All Events 2023](https://www.worldcubeassociation.org/competitions/AutotaloAllEvents2023/results/podiums) |
-| 1027 | 12 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [See You Next Year İstanbul 2023](https://www.worldcubeassociation.org/competitions/SeeYouNextYearIstanbul2023/results/podiums) |
-| 1028 | 12 | [Frederico Canal Gomes](https://www.worldcubeassociation.org/persons/2018GOME29) | [Pequi Open 2020](https://www.worldcubeassociation.org/competitions/PequiOpen2020/results/podiums) |
-| 1029 | 11 | [Frederico Canal Gomes](https://www.worldcubeassociation.org/persons/2018GOME29) | [Brasília Autumn 2022](https://www.worldcubeassociation.org/competitions/BrasiliaAutumn2022/results/podiums) |
-| 1030 | 10 | [Iurii Chesnokov (Юрий Чесноков)](https://www.worldcubeassociation.org/persons/2018CHES17) | [Vladivostok Is Back On 2021](https://www.worldcubeassociation.org/competitions/VladivostokIsBackOn2021/results/podiums) |
-| 1031 | 10 | [Iurii Chesnokov (Юрий Чесноков)](https://www.worldcubeassociation.org/persons/2018CHES17) | [Vladivostok Spring 2020](https://www.worldcubeassociation.org/competitions/VladivostokSpring2020/results/podiums) |
-| 1032 | 11 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | [NZSIC 2022](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2022/results/podiums) |
-| 1033 | 10 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | [Southern Scramble Dunedin 2021](https://www.worldcubeassociation.org/competitions/SouthernScrambleDunedin2021/results/podiums) |
-| 1034 | 10 | [Bálint Csengő](https://www.worldcubeassociation.org/persons/2019CSEN01) | [Serbian Championship 2023](https://www.worldcubeassociation.org/competitions/SerbianChampionship2023/results/podiums) |
-| 1035 | 10 | [Luan Gomes de Almeida Araújo](https://www.worldcubeassociation.org/persons/2019ARAU07) | [Pão de Queijo Open 2022](https://www.worldcubeassociation.org/competitions/PaodeQueijoOpen2022/results/podiums) |
-| 1036 | 11 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | [Icelandic Nationals 2021](https://www.worldcubeassociation.org/competitions/IcelandicNationals2021/results/podiums) |
-| 1037 | 11 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | [Back to İstanbul 2022](https://www.worldcubeassociation.org/competitions/BacktoIstanbul2022/results/podiums) |
-| 1038 | 10 | [Henry Eyles](https://www.worldcubeassociation.org/persons/2021EYLE01) | [Southernmost Solving 2023](https://www.worldcubeassociation.org/competitions/SouthernmostSolving2023/results/podiums) |
-| 1039 | 13 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) | [Q8speedcubing in K.S.E 2023](https://www.worldcubeassociation.org/competitions/Q8speedcubinginKSE2023/results/podiums) |
-| 1040 | 11 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) | [Amman Summertime 2022](https://www.worldcubeassociation.org/competitions/AmmanSummertime2022/results/podiums) |
-| 1041 | 10 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) | [Almadar School 2022](https://www.worldcubeassociation.org/competitions/AlmadarSchool2022/results/podiums) |
-| 1042 | 10 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) | [Amman Wintertime 2023](https://www.worldcubeassociation.org/competitions/AmmanWintertime2023/results/podiums) |
-| 1043 | 10 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | [Bolton Spring 2023](https://www.worldcubeassociation.org/competitions/BoltonSpring2023/results/podiums) |
-| 1044 | 12 | [Josué Ordóñez](https://www.worldcubeassociation.org/persons/2022ORDO01) | [Imbabura Open 2023](https://www.worldcubeassociation.org/competitions/ImbaburaOpen2023/results/podiums) |
+| 1026 | 11 | [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | [Pulmapelipäivät 2023](https://www.worldcubeassociation.org/competitions/Pulmapelipaivat2023/results/podiums) |
+| 1027 | 10 | [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | [Autotalo All Events 2023](https://www.worldcubeassociation.org/competitions/AutotaloAllEvents2023/results/podiums) |
+| 1028 | 12 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [See You Next Year İstanbul 2023](https://www.worldcubeassociation.org/competitions/SeeYouNextYearIstanbul2023/results/podiums) |
+| 1029 | 12 | [Frederico Canal Gomes](https://www.worldcubeassociation.org/persons/2018GOME29) | [Pequi Open 2020](https://www.worldcubeassociation.org/competitions/PequiOpen2020/results/podiums) |
+| 1030 | 11 | [Frederico Canal Gomes](https://www.worldcubeassociation.org/persons/2018GOME29) | [Brasília Autumn 2022](https://www.worldcubeassociation.org/competitions/BrasiliaAutumn2022/results/podiums) |
+| 1031 | 10 | [Iurii Chesnokov (Юрий Чесноков)](https://www.worldcubeassociation.org/persons/2018CHES17) | [Vladivostok Is Back On 2021](https://www.worldcubeassociation.org/competitions/VladivostokIsBackOn2021/results/podiums) |
+| 1032 | 10 | [Iurii Chesnokov (Юрий Чесноков)](https://www.worldcubeassociation.org/persons/2018CHES17) | [Vladivostok Spring 2020](https://www.worldcubeassociation.org/competitions/VladivostokSpring2020/results/podiums) |
+| 1033 | 11 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | [NZSIC 2022](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2022/results/podiums) |
+| 1034 | 10 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | [Southern Scramble Dunedin 2021](https://www.worldcubeassociation.org/competitions/SouthernScrambleDunedin2021/results/podiums) |
+| 1035 | 10 | [Bálint Csengő](https://www.worldcubeassociation.org/persons/2019CSEN01) | [Serbian Championship 2023](https://www.worldcubeassociation.org/competitions/SerbianChampionship2023/results/podiums) |
+| 1036 | 10 | [Luan Gomes de Almeida Araújo](https://www.worldcubeassociation.org/persons/2019ARAU07) | [Pão de Queijo Open 2022](https://www.worldcubeassociation.org/competitions/PaodeQueijoOpen2022/results/podiums) |
+| 1037 | 11 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | [Icelandic Nationals 2021](https://www.worldcubeassociation.org/competitions/IcelandicNationals2021/results/podiums) |
+| 1038 | 11 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | [Back to İstanbul 2022](https://www.worldcubeassociation.org/competitions/BacktoIstanbul2022/results/podiums) |
+| 1039 | 10 | [Henry Eyles](https://www.worldcubeassociation.org/persons/2021EYLE01) | [Southernmost Solving 2023](https://www.worldcubeassociation.org/competitions/SouthernmostSolving2023/results/podiums) |
+| 1040 | 13 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) | [Q8speedcubing in K.S.E 2023](https://www.worldcubeassociation.org/competitions/Q8speedcubinginKSE2023/results/podiums) |
+| 1041 | 11 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) | [Amman Summertime 2022](https://www.worldcubeassociation.org/competitions/AmmanSummertime2022/results/podiums) |
+| 1042 | 10 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) | [Almadar School 2022](https://www.worldcubeassociation.org/competitions/AlmadarSchool2022/results/podiums) |
+| 1043 | 10 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) | [Amman Wintertime 2023](https://www.worldcubeassociation.org/competitions/AmmanWintertime2023/results/podiums) |
+| 1044 | 10 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | [Bolton Spring 2023](https://www.worldcubeassociation.org/competitions/BoltonSpring2023/results/podiums) |
+| 1045 | 12 | [Josué Ordóñez](https://www.worldcubeassociation.org/persons/2022ORDO01) | [Imbabura Open 2023](https://www.worldcubeassociation.org/competitions/ImbaburaOpen2023/results/podiums) |
 
 
 <a href="https://github.com/JustinTimeCuber/wca_statistics" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>

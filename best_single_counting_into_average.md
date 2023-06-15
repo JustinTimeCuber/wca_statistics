@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 11 June 2023*
+*Updated on 14 June 2023*
 
 
 ### Rubik's Cube
@@ -128,15 +128,15 @@
 | Rank | Counting | Peson | Competition |
 | :--- | ---: | :--- | :--- |
 | 1 | 1.30 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Pretzel Mania 2022](https://www.worldcubeassociation.org/competitions/PretzelMania2022/results/by_person#2018KHAN28) |
-| 2 | 1.39 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [Polish Championship 2022](https://www.worldcubeassociation.org/competitions/PolishChampionship2022/results/by_person#2013KRAS02) |
-| 3 | 1.41 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/by_person#2018KHAN28) |
-| 4 | 1.41 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Pretzel Mania 2022](https://www.worldcubeassociation.org/competitions/PretzelMania2022/results/by_person#2018KHAN28) |
-| 5 | 1.43 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Bulldog Winter 2022](https://www.worldcubeassociation.org/competitions/BulldogWinter2022/results/by_person#2018KHAN28) |
-| 6 | 1.47 | [Tyler Robinson](https://www.worldcubeassociation.org/persons/2015ROBI04) | [North Star Cubing Challenge 2022](https://www.worldcubeassociation.org/competitions/NorthStarCubingChallenge2022/results/by_person#2015ROBI04) |
-| 7 | 1.48 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [North Jersey Speedsolving B 2023](https://www.worldcubeassociation.org/competitions/NorthJerseySpeedsolvingB2023/results/by_person#2018KHAN28) |
-| 8 | 1.49 | [Tyler Robinson](https://www.worldcubeassociation.org/persons/2015ROBI04) | [Sioux Falls Spring 2022](https://www.worldcubeassociation.org/competitions/SiouxFallsSpring2022/results/by_person#2015ROBI04) |
-| 9 | 1.55 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [MCC Alpha 2022](https://www.worldcubeassociation.org/competitions/MichiganCubingClubAlpha2022/results/by_person#2018KHAN28) |
-| 10 | 1.58 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | [Deerfield Winter 2022](https://www.worldcubeassociation.org/competitions/DeerfieldWinter2022/results/by_person#2015KUCA01) |
+| 2 | 1.38 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [CMT Frisco 2023](https://www.worldcubeassociation.org/competitions/CMTFrisco2023/results/by_person#2018KHAN28) |
+| 3 | 1.39 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [Polish Championship 2022](https://www.worldcubeassociation.org/competitions/PolishChampionship2022/results/by_person#2013KRAS02) |
+| 4 | 1.41 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/by_person#2018KHAN28) |
+| 5 | 1.41 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Pretzel Mania 2022](https://www.worldcubeassociation.org/competitions/PretzelMania2022/results/by_person#2018KHAN28) |
+| 6 | 1.43 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Bulldog Winter 2022](https://www.worldcubeassociation.org/competitions/BulldogWinter2022/results/by_person#2018KHAN28) |
+| 7 | 1.47 | [Tyler Robinson](https://www.worldcubeassociation.org/persons/2015ROBI04) | [North Star Cubing Challenge 2022](https://www.worldcubeassociation.org/competitions/NorthStarCubingChallenge2022/results/by_person#2015ROBI04) |
+| 8 | 1.48 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [North Jersey Speedsolving B 2023](https://www.worldcubeassociation.org/competitions/NorthJerseySpeedsolvingB2023/results/by_person#2018KHAN28) |
+| 9 | 1.49 | [Tyler Robinson](https://www.worldcubeassociation.org/persons/2015ROBI04) | [Sioux Falls Spring 2022](https://www.worldcubeassociation.org/competitions/SiouxFallsSpring2022/results/by_person#2015ROBI04) |
+| 10 | 1.55 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [MCC Alpha 2022](https://www.worldcubeassociation.org/competitions/MichiganCubingClubAlpha2022/results/by_person#2018KHAN28) |
 
 ### Square-1
 

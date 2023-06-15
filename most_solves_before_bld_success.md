@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on 11 June 2023*
+*Updated on 14 June 2023*
 
 
 ### 3x3x3 Blindfolded
@@ -14,19 +14,19 @@
 | 5 | 37 | [Konstantin Ushakov](https://www.worldcubeassociation.org/persons/2014USHA02) |
 | 6 | 37 | [Hannah Minas](https://www.worldcubeassociation.org/persons/2017MINA04) |
 | 7 | 37 | [Thomas Sonnenberg Jarner](https://www.worldcubeassociation.org/persons/2017JARN01) |
-| 8 | 33 | [Mateusz Kotwica](https://www.worldcubeassociation.org/persons/2016KOTW01) |
-| 9 | 33 | [Oscar Coleman Green](https://www.worldcubeassociation.org/persons/2018GREE09) |
-| 10 | 32 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
-| 11 | 31 | [Zoé de Moffarts](https://www.worldcubeassociation.org/persons/2010MOFF02) |
-| 12 | 30 | [Nobuaki Suga (菅信昭)](https://www.worldcubeassociation.org/persons/2007SUGA01) |
-| 13 | 29 | [Xiaojian Li (李晓健)](https://www.worldcubeassociation.org/persons/2009LIXI02) |
-| 14 | 29 | [Kevin Estefano Coayla Vargas](https://www.worldcubeassociation.org/persons/2016VARG04) |
-| 15 | 28 | [Deven Nadudvari](https://www.worldcubeassociation.org/persons/2008NADU01) |
-| 16 | 28 | [Preston Hoing](https://www.worldcubeassociation.org/persons/2019HOIN01) |
-| 17 | 27 | [Bruce Norskog](https://www.worldcubeassociation.org/persons/2006NORS01) |
-| 18 | 27 | [Kymberlyn Calderon](https://www.worldcubeassociation.org/persons/2015CALD02) |
-| 19 | 26 | [Emmet Hobbs](https://www.worldcubeassociation.org/persons/2016HOBB01) |
-| 20 | 25 | [Markus Pirzer](https://www.worldcubeassociation.org/persons/2006PIRZ01) |
+| 8 | 34 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) |
+| 9 | 33 | [Mateusz Kotwica](https://www.worldcubeassociation.org/persons/2016KOTW01) |
+| 10 | 33 | [Oscar Coleman Green](https://www.worldcubeassociation.org/persons/2018GREE09) |
+| 11 | 32 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
+| 12 | 31 | [Zoé de Moffarts](https://www.worldcubeassociation.org/persons/2010MOFF02) |
+| 13 | 30 | [Nobuaki Suga (菅信昭)](https://www.worldcubeassociation.org/persons/2007SUGA01) |
+| 14 | 29 | [Xiaojian Li (李晓健)](https://www.worldcubeassociation.org/persons/2009LIXI02) |
+| 15 | 29 | [Kevin Estefano Coayla Vargas](https://www.worldcubeassociation.org/persons/2016VARG04) |
+| 16 | 28 | [Deven Nadudvari](https://www.worldcubeassociation.org/persons/2008NADU01) |
+| 17 | 28 | [Preston Hoing](https://www.worldcubeassociation.org/persons/2019HOIN01) |
+| 18 | 27 | [Bruce Norskog](https://www.worldcubeassociation.org/persons/2006NORS01) |
+| 19 | 27 | [Kymberlyn Calderon](https://www.worldcubeassociation.org/persons/2015CALD02) |
+| 20 | 26 | [Emmet Hobbs](https://www.worldcubeassociation.org/persons/2016HOBB01) |
 
 ### 4x4x4 Blindfolded
 
