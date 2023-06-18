@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 14 June 2023*
+*Updated on 17 June 2023*
 
 | Rank | WRs | Person |
 | :--- | ---: | :--- |
@@ -27,9 +27,9 @@
 | 20 | 108 | [Anders Larsson](https://www.worldcubeassociation.org/persons/2003LARS01) |
 | 21 | 107 | [Maria Oey](https://www.worldcubeassociation.org/persons/2007OEYM01) |
 | 22 | 106 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) |
-| 23 | 102 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) |
-| 24 | 102 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) |
-| 25 | 102 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) |
+| 23 | 103 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) |
+| 24 | 102 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) |
+| 25 | 102 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) |
 | 26 | 102 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) |
 | 27 | 99 | [Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01) |
 | 28 | 96 | [Gunnar Kantare Krig](https://www.worldcubeassociation.org/persons/2004KRIG01) |

@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 14 June 2023*
+*Updated on 17 June 2023*
 
 | Rank | Person | Gold | Silver | Bronze | Total |
 | :--- | :--- | :--: | :--: | :--: | :--: |
@@ -71,16 +71,16 @@
 | 64 | [SeungBeom Cho (조승범)](https://www.worldcubeassociation.org/persons/2012CHOS01) | **41** | 27 | 9 | 77 |
 | 65 | [Gael Augusto Lapeyre](https://www.worldcubeassociation.org/persons/2018LAPE01) | **41** | 20 | 8 | 69 |
 | 66 | [Lir Ukaj](https://www.worldcubeassociation.org/persons/2016UKAJ01) | **40** | 33 | 24 | 97 |
-| 67 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | **39** | 57 | 39 | 135 |
-| 68 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) | **39** | 31 | 38 | 108 |
-| 69 | [Ivan Torgashov](https://www.worldcubeassociation.org/persons/2011TORG01) | **39** | 17 | 23 | 79 |
-| 70 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) | **38** | 75 | 157 | 270 |
-| 71 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) | **38** | 40 | 32 | 110 |
-| 72 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | **38** | 32 | 34 | 104 |
-| 73 | [Lucas Garron](https://www.worldcubeassociation.org/persons/2006GARR01) | **38** | 20 | 49 | 107 |
-| 74 | [Anssi Vanhala](https://www.worldcubeassociation.org/persons/2005VANH01) | **38** | 12 | 5 | 55 |
-| 75 | [Alexander Bashutkin](https://www.worldcubeassociation.org/persons/2017BASH04) | **37** | 22 | 10 | 69 |
-| 76 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) | **37** | 19 | 11 | 67 |
+| 67 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) | **40** | 19 | 13 | 72 |
+| 68 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | **39** | 57 | 39 | 135 |
+| 69 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) | **39** | 31 | 38 | 108 |
+| 70 | [Ivan Torgashov](https://www.worldcubeassociation.org/persons/2011TORG01) | **39** | 17 | 23 | 79 |
+| 71 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) | **38** | 75 | 157 | 270 |
+| 72 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) | **38** | 40 | 32 | 110 |
+| 73 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | **38** | 32 | 34 | 104 |
+| 74 | [Lucas Garron](https://www.worldcubeassociation.org/persons/2006GARR01) | **38** | 20 | 49 | 107 |
+| 75 | [Anssi Vanhala](https://www.worldcubeassociation.org/persons/2005VANH01) | **38** | 12 | 5 | 55 |
+| 76 | [Alexander Bashutkin](https://www.worldcubeassociation.org/persons/2017BASH04) | **37** | 22 | 10 | 69 |
 | 77 | [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) | **36** | 33 | 18 | 87 |
 | 78 | [Richard Jay S. Apagar](https://www.worldcubeassociation.org/persons/2010APAG01) | **36** | 31 | 19 | 86 |
 | 79 | [Farid Mikhailov](https://www.worldcubeassociation.org/persons/2015MIKH04) | **36** | 29 | 25 | 90 |
