@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 17 June 2023*
+*Updated on 20 June 2023*
 
 | Rank | WRs | Person |
 | :--- | ---: | :--- |
@@ -27,10 +27,10 @@
 | 20 | 108 | [Anders Larsson](https://www.worldcubeassociation.org/persons/2003LARS01) |
 | 21 | 107 | [Maria Oey](https://www.worldcubeassociation.org/persons/2007OEYM01) |
 | 22 | 106 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) |
-| 23 | 103 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) |
-| 24 | 102 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) |
-| 25 | 102 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) |
-| 26 | 102 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) |
+| 23 | 104 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) |
+| 24 | 103 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) |
+| 25 | 102 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) |
+| 26 | 102 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) |
 | 27 | 99 | [Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01) |
 | 28 | 96 | [Gunnar Kantare Krig](https://www.worldcubeassociation.org/persons/2004KRIG01) |
 | 29 | 96 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) |
@@ -57,16 +57,16 @@
 | 50 | 85 | [Tim McMahon](https://www.worldcubeassociation.org/persons/2009MCMA01) |
 | 51 | 84 | [Rama Temmink](https://www.worldcubeassociation.org/persons/2006TEMM01) |
 | 52 | 84 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
-| 53 | 81 | [Tyson Mao (毛台勝)](https://www.worldcubeassociation.org/persons/2004MAOT02) |
-| 54 | 81 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) |
-| 55 | 81 | [Markus Pirzer](https://www.worldcubeassociation.org/persons/2006PIRZ01) |
-| 56 | 80 | [Hanneke Rijks](https://www.worldcubeassociation.org/persons/2008RIJK01) |
-| 57 | 79 | [Dene Beardsley](https://www.worldcubeassociation.org/persons/2009BEAR01) |
-| 58 | 79 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
+| 53 | 81 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) |
+| 54 | 81 | [Tyson Mao (毛台勝)](https://www.worldcubeassociation.org/persons/2004MAOT02) |
+| 55 | 81 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) |
+| 56 | 81 | [Markus Pirzer](https://www.worldcubeassociation.org/persons/2006PIRZ01) |
+| 57 | 80 | [Hanneke Rijks](https://www.worldcubeassociation.org/persons/2008RIJK01) |
+| 58 | 80 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
 | 59 | 79 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
-| 60 | 79 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) |
-| 61 | 79 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
-| 62 | 78 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
+| 60 | 79 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
+| 61 | 79 | [Dene Beardsley](https://www.worldcubeassociation.org/persons/2009BEAR01) |
+| 62 | 79 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
 | 63 | 77 | [Takao Hashimoto (橋本貴夫)](https://www.worldcubeassociation.org/persons/2007HASH01) |
 | 64 | 76 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
 | 65 | 75 | [Guus Razoux Schultz](https://www.worldcubeassociation.org/persons/1982RAZO01) |
@@ -77,9 +77,9 @@
 | 70 | 73 | [Paweł Włoszek](https://www.worldcubeassociation.org/persons/2006WLOS01) |
 | 71 | 73 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) |
 | 72 | 73 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
-| 73 | 71 | [Fangyuan Chang (常方圆)](https://www.worldcubeassociation.org/persons/2009CHAN04) |
-| 74 | 71 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) |
-| 75 | 71 | [Bertalan Bodor](https://www.worldcubeassociation.org/persons/2007BODO01) |
+| 73 | 71 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) |
+| 74 | 71 | [Bertalan Bodor](https://www.worldcubeassociation.org/persons/2007BODO01) |
+| 75 | 71 | [Fangyuan Chang (常方圆)](https://www.worldcubeassociation.org/persons/2009CHAN04) |
 | 76 | 70 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) |
 | 77 | 70 | [Gábor Szabó](https://www.worldcubeassociation.org/persons/2005SZAB02) |
 | 78 | 70 | [Oliver Wolff](https://www.worldcubeassociation.org/persons/2004WOLF01) |

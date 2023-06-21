@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 17 June 2023*
+*Updated on 20 June 2023*
 
 | Rank | Countries | Person |
 | :--- | ---: | :--- |
@@ -8,7 +8,7 @@
 | 2 | 45 | [Hanneke Rijks](https://www.worldcubeassociation.org/persons/2008RIJK01) |
 | 3 | 39 | [Anders Larsson](https://www.worldcubeassociation.org/persons/2003LARS01) |
 | 4 | 38 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
-| 5 | 37 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
+| 5 | 38 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 6 | 34 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
 | 7 | 33 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
 | 8 | 32 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |

@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 17 June 2023*
+*Updated on 20 June 2023*
 
 | Rank | WRs | Person |
 | :--- | ---: | :--- |
@@ -26,15 +26,15 @@
 | 20 | 12 | [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) |
 | 21 | 10 | [Gunnar Kantare Krig](https://www.worldcubeassociation.org/persons/2004KRIG01) |
 | 22 | 10 | [Ryan Patricio](https://www.worldcubeassociation.org/persons/2004PATR01) |
-| 23 | 10 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
-| 24 | 9 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) |
-| 25 | 9 | [Yohei Oka (岡要平)](https://www.worldcubeassociation.org/persons/2006OKAY01) |
-| 26 | 8 | [Bingliang Li (李炳良)](https://www.worldcubeassociation.org/persons/2008LIBI01) |
-| 27 | 8 | [Jaap Scherphuis](https://www.worldcubeassociation.org/persons/2003SCHE01) |
-| 28 | 8 | [Leyan Lo](https://www.worldcubeassociation.org/persons/2004LOLE01) |
-| 29 | 8 | [Oliver Frost](https://www.worldcubeassociation.org/persons/2012FROS01) |
-| 30 | 8 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
-| 31 | 8 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) |
+| 23 | 10 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) |
+| 24 | 10 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
+| 25 | 9 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) |
+| 26 | 9 | [Yohei Oka (岡要平)](https://www.worldcubeassociation.org/persons/2006OKAY01) |
+| 27 | 8 | [Bingliang Li (李炳良)](https://www.worldcubeassociation.org/persons/2008LIBI01) |
+| 28 | 8 | [Jaap Scherphuis](https://www.worldcubeassociation.org/persons/2003SCHE01) |
+| 29 | 8 | [Leyan Lo](https://www.worldcubeassociation.org/persons/2004LOLE01) |
+| 30 | 8 | [Oliver Frost](https://www.worldcubeassociation.org/persons/2012FROS01) |
+| 31 | 8 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 32 | 8 | [Yu Nakajima (中島悠)](https://www.worldcubeassociation.org/persons/2007NAKA03) |
 | 33 | 8 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) |
 | 34 | 7 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
@@ -51,15 +51,15 @@
 | 45 | 6 | [Edouard Chambon](https://www.worldcubeassociation.org/persons/2004CHAM01) |
 | 46 | 6 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 47 | 6 | [Frank Morris](https://www.worldcubeassociation.org/persons/2003MORR01) |
-| 48 | 6 | [Rami Sbahi](https://www.worldcubeassociation.org/persons/2011SBAH01) |
-| 49 | 6 | [Takayuki Ookusa (大艸尊之)](https://www.worldcubeassociation.org/persons/2006OOKU01) |
-| 50 | 6 | [Yumu Tabuchi (田渕雄夢)](https://www.worldcubeassociation.org/persons/2006TABU02) |
-| 51 | 5 | [Bob Burton](https://www.worldcubeassociation.org/persons/2003BURT01) |
-| 52 | 5 | [Gabriel Pereira Campanha](https://www.worldcubeassociation.org/persons/2012CAMP03) |
-| 53 | 5 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
-| 54 | 5 | [Grzegorz Prusak](https://www.worldcubeassociation.org/persons/2006PRUS01) |
-| 55 | 5 | [Jeff Park](https://www.worldcubeassociation.org/persons/2015PARK08) |
-| 56 | 5 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) |
+| 48 | 6 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) |
+| 49 | 6 | [Rami Sbahi](https://www.worldcubeassociation.org/persons/2011SBAH01) |
+| 50 | 6 | [Takayuki Ookusa (大艸尊之)](https://www.worldcubeassociation.org/persons/2006OOKU01) |
+| 51 | 6 | [Yumu Tabuchi (田渕雄夢)](https://www.worldcubeassociation.org/persons/2006TABU02) |
+| 52 | 5 | [Bob Burton](https://www.worldcubeassociation.org/persons/2003BURT01) |
+| 53 | 5 | [Gabriel Pereira Campanha](https://www.worldcubeassociation.org/persons/2012CAMP03) |
+| 54 | 5 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
+| 55 | 5 | [Grzegorz Prusak](https://www.worldcubeassociation.org/persons/2006PRUS01) |
+| 56 | 5 | [Jeff Park](https://www.worldcubeassociation.org/persons/2015PARK08) |
 | 57 | 5 | [Máté Horváth](https://www.worldcubeassociation.org/persons/2007HORV01) |
 | 58 | 5 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 59 | 5 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
