@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 20 June 2023*
+*Updated on 23 June 2023*
 
 | Rank | Competitions | Person |
 | :--- | ---: | :--- |
@@ -30,7 +30,7 @@
 | 24 | 82 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
 | 25 | 81 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 26 | 77 | [Saransh Grover](https://www.worldcubeassociation.org/persons/2014GROV01) |
-| 27 | 74 | [Thomas Mæhle Schmidt](https://www.worldcubeassociation.org/persons/2013SCHM02) |
+| 27 | 75 | [Thomas Mæhle Schmidt](https://www.worldcubeassociation.org/persons/2013SCHM02) |
 | 28 | 74 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) |
 | 29 | 73 | [Sanio Kasumovic](https://www.worldcubeassociation.org/persons/2009KASU01) |
 | 30 | 73 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
@@ -80,10 +80,10 @@
 | 74 | 48 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
 | 75 | 48 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
 | 76 | 48 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) |
-| 77 | 48 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
-| 78 | 48 | [Samuel Simko](https://www.worldcubeassociation.org/persons/2016SIMK01) |
-| 79 | 48 | [Nox Clémenceau](https://www.worldcubeassociation.org/persons/2015CLEM03) |
-| 80 | 48 | [Abdullah Gulab](https://www.worldcubeassociation.org/persons/2014GULA02) |
+| 77 | 48 | [Abdullah Gulab](https://www.worldcubeassociation.org/persons/2014GULA02) |
+| 78 | 48 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
+| 79 | 48 | [Samuel Simko](https://www.worldcubeassociation.org/persons/2016SIMK01) |
+| 80 | 48 | [Nox Clémenceau](https://www.worldcubeassociation.org/persons/2015CLEM03) |
 | 81 | 47 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |
 | 82 | 47 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
 | 83 | 47 | [Antonio Kam Ho Tung (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) |
@@ -98,10 +98,10 @@
 | 92 | 44 | [Abhimanyu Singhal](https://www.worldcubeassociation.org/persons/2013SING12) |
 | 93 | 43 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) |
 | 94 | 43 | [Jānis Zirnis](https://www.worldcubeassociation.org/persons/2013ZIRN01) |
-| 95 | 43 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) |
-| 96 | 43 | [Geert Bicler](https://www.worldcubeassociation.org/persons/2010BICL01) |
-| 97 | 43 | [Anthony Brooks](https://www.worldcubeassociation.org/persons/2008SEAR01) |
-| 98 | 43 | [Wong Kin Lok (黃健樂)](https://www.worldcubeassociation.org/persons/2014LOKW01) |
+| 95 | 43 | [Wong Kin Lok (黃健樂)](https://www.worldcubeassociation.org/persons/2014LOKW01) |
+| 96 | 43 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) |
+| 97 | 43 | [Geert Bicler](https://www.worldcubeassociation.org/persons/2010BICL01) |
+| 98 | 43 | [Anthony Brooks](https://www.worldcubeassociation.org/persons/2008SEAR01) |
 | 99 | 43 | [Billy Burier](https://www.worldcubeassociation.org/persons/2014BURI01) |
 | 100 | 43 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) |
 
