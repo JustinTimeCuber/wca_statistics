@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 26 June 2023*
+*Updated on 29 June 2023*
 
 | Rank | Countries | Person |
 | :--- | ---: | :--- |
@@ -32,12 +32,12 @@
 | 26 | 21 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
 | 27 | 21 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
 | 28 | 21 | [Nora Akkersdijk](https://www.worldcubeassociation.org/persons/2009CHRI03) |
-| 29 | 20 | [Leon Schmidtchen](https://www.worldcubeassociation.org/persons/2010SCHM01) |
-| 30 | 20 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) |
-| 31 | 20 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
-| 32 | 20 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
-| 33 | 20 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
-| 34 | 20 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
+| 29 | 21 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
+| 30 | 20 | [Leon Schmidtchen](https://www.worldcubeassociation.org/persons/2010SCHM01) |
+| 31 | 20 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) |
+| 32 | 20 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
+| 33 | 20 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
+| 34 | 20 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
 | 35 | 19 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
 | 36 | 19 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
 | 37 | 19 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |

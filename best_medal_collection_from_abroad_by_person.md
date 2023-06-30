@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 26 June 2023*
+*Updated on 29 June 2023*
 
 | Rank | Person | Gold | Silver | Bronze | Total |
 | :--- | :--- | :--: | :--: | :--: | :--: |
@@ -29,12 +29,12 @@
 | 22 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | **84** | 54 | 30 | 168 |
 | 23 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | **84** | 35 | 27 | 146 |
 | 24 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | **80** | 115 | 72 | 267 |
-| 25 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | **71** | 64 | 83 | 218 |
-| 26 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | **70** | 38 | 25 | 133 |
-| 27 | [Timothy Sun](https://www.worldcubeassociation.org/persons/2007SUNT01) | **70** | 14 | 11 | 95 |
-| 28 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) | **69** | 74 | 45 | 188 |
-| 29 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) | **69** | 29 | 37 | 135 |
-| 30 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **69** | 15 | 7 | 91 |
+| 25 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **76** | 15 | 7 | 98 |
+| 26 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | **72** | 64 | 83 | 219 |
+| 27 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | **70** | 38 | 25 | 133 |
+| 28 | [Timothy Sun](https://www.worldcubeassociation.org/persons/2007SUNT01) | **70** | 14 | 11 | 95 |
+| 29 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) | **69** | 74 | 45 | 188 |
+| 30 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) | **69** | 29 | 37 | 135 |
 | 31 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | **68** | 84 | 72 | 224 |
 | 32 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) | **67** | 44 | 49 | 160 |
 | 33 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | **63** | 94 | 38 | 195 |
@@ -43,7 +43,7 @@
 | 36 | [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) | **59** | 42 | 26 | 127 |
 | 37 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | **59** | 23 | 7 | 89 |
 | 38 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) | **58** | 63 | 68 | 189 |
-| 39 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | **57** | 62 | 35 | 154 |
+| 39 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | **57** | 64 | 37 | 158 |
 | 40 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) | **55** | 35 | 35 | 125 |
 | 41 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) | **54** | 61 | 45 | 160 |
 | 42 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) | **54** | 23 | 17 | 94 |
@@ -65,8 +65,8 @@
 | 58 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) | **44** | 72 | 46 | 162 |
 | 59 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | **44** | 40 | 38 | 122 |
 | 60 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | **44** | 28 | 32 | 104 |
-| 61 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) | **43** | 50 | 46 | 139 |
-| 62 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) | **43** | 20 | 15 | 78 |
+| 61 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) | **44** | 20 | 15 | 79 |
+| 62 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) | **43** | 50 | 46 | 139 |
 | 63 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) | **42** | 43 | 51 | 136 |
 | 64 | [Marcell Endrey](https://www.worldcubeassociation.org/persons/2007ENDR01) | **42** | 1 | 0 | 43 |
 | 65 | [SeungBeom Cho (조승범)](https://www.worldcubeassociation.org/persons/2012CHOS01) | **41** | 27 | 9 | 77 |
