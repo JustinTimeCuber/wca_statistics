@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 29 June 2023*
+*Updated on  2 July 2023*
 
 
 ### World
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.49 | World | 9952 |
+| 1 | 1.49 | World | 9964 |
 
 ### Continents
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.76 | Europe | 3261 |
+| 1 | 1.76 | Europe | 3263 |
 | 2 | 1.56 | South America | 1118 |
 | 3 | 1.46 | Oceania | 435 |
-| 4 | 1.41 | Asia | 2307 |
+| 4 | 1.41 | Asia | 2309 |
 | 5 | 1.24 | Africa | 110 |
-| 6 | 1.21 | North America | 2721 |
+| 6 | 1.21 | North America | 2729 |
 
 ### Countries
 
@@ -43,10 +43,10 @@
 | 17 | 1.86 | France | 254 |
 | 18 | 1.85 | Croatia | 20 |
 | 19 | 1.84 | Switzerland | 90 |
-| 20 | 1.84 | Spain | 279 |
-| 21 | 1.83 | Belgium | 65 |
-| 22 | 1.83 | Finland | 106 |
-| 23 | 1.83 | Mexico | 106 |
+| 20 | 1.84 | Spain | 280 |
+| 21 | 1.83 | Mexico | 107 |
+| 22 | 1.83 | Belgium | 65 |
+| 23 | 1.83 | Finland | 106 |
 | 24 | 1.82 | Austria | 22 |
 | 25 | 1.80 | Bosnia and Herzegovina | 10 |
 | 26 | 1.80 | Iceland | 10 |
@@ -87,22 +87,22 @@
 | 61 | 1.44 | Israel | 36 |
 | 62 | 1.43 | Australia | 349 |
 | 63 | 1.42 | Bulgaria | 12 |
-| 64 | 1.41 | Singapore | 37 |
+| 64 | 1.39 | Singapore | 38 |
 | 65 | 1.39 | Costa Rica | 18 |
 | 66 | 1.39 | Nepal | 18 |
-| 67 | 1.37 | South Africa | 52 |
-| 68 | 1.36 | Paraguay | 22 |
-| 69 | 1.36 | Philippines | 221 |
-| 70 | 1.35 | Estonia | 48 |
-| 71 | 1.34 | Taiwan | 122 |
+| 67 | 1.37 | Estonia | 49 |
+| 68 | 1.37 | South Africa | 52 |
+| 69 | 1.36 | Paraguay | 22 |
+| 70 | 1.36 | Philippines | 221 |
+| 71 | 1.34 | Chinese Taipei | 122 |
 | 72 | 1.33 | Ecuador | 33 |
 | 73 | 1.33 | Jordan | 12 |
 | 74 | 1.33 | Panama | 12 |
 | 75 | 1.32 | Vietnam | 57 |
-| 76 | 1.31 | Hong Kong | 16 |
-| 77 | 1.31 | United Arab Emirates | 16 |
-| 78 | 1.30 | Republic of Korea | 76 |
-| 79 | 1.30 | Venezuela | 60 |
+| 76 | 1.31 | United Arab Emirates | 16 |
+| 77 | 1.30 | Republic of Korea | 76 |
+| 78 | 1.30 | Venezuela | 60 |
+| 79 | 1.29 | Hong Kong, China | 17 |
 | 80 | 1.29 | Chile | 96 |
 | 81 | 1.29 | Bahrain | 7 |
 | 82 | 1.26 | China | 615 |
@@ -113,7 +113,7 @@
 | 87 | 1.17 | Andorra | 6 |
 | 88 | 1.17 | Tunisia | 24 |
 | 89 | 1.17 | Uruguay | 42 |
-| 90 | 1.17 | United States | 2171 |
+| 90 | 1.17 | United States | 2178 |
 | 91 | 1.16 | Canada | 287 |
 | 92 | 1.13 | Honduras | 15 |
 | 93 | 1.13 | El Salvador | 31 |
@@ -129,7 +129,7 @@
 | 103 | 1.00 | Egypt | 4 |
 | 104 | 1.00 | Kenya | 5 |
 | 105 | 1.00 | Kosovo | 3 |
-| 106 | 1.00 | Macau | 1 |
+| 106 | 1.00 | Macau, China | 1 |
 | 107 | 1.00 | Madagascar | 1 |
 | 108 | 1.00 | Malta | 1 |
 | 109 | 1.00 | Mauritius | 3 |

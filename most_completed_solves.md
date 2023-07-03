@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 29 June 2023*
+*Updated on  2 July 2023*
 
 
 ### Competition
@@ -36,18 +36,18 @@
 | 2 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | **16971** | 17429 |
 | 3 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | **16404** | 17032 |
 | 4 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **13237** | 14243 |
-| 5 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | **12165** | 12780 |
+| 5 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | **12229** | 12846 |
 | 6 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | **11940** | 12546 |
 | 7 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **11826** | 12225 |
 | 8 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) | **11651** | 11999 |
 | 9 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | **11579** | 12150 |
-| 10 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | **11094** | 11389 |
+| 10 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | **11226** | 11524 |
 | 11 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **10702** | 11128 |
 | 12 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) | **10667** | 10801 |
 | 13 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | **10483** | 11201 |
-| 14 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) | **10203** | 10808 |
-| 15 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) | **10161** | 10678 |
-| 16 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) | **10073** | 10336 |
+| 14 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) | **10206** | 10726 |
+| 15 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) | **10203** | 10808 |
+| 16 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) | **10121** | 10384 |
 | 17 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | **10017** | 10524 |
 | 18 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **10010** | 10368 |
 | 19 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) | **9827** | 10743 |
@@ -57,11 +57,11 @@
 
 | Rank |  | Solves | Attempts |
 | :--- | :--- | ---: | ---: |
-| 1 | United States | **3209323** | 3367485 |
+| 1 | United States | **3222659** | 3381218 |
 | 2 | China | **1212800** | 1272685 |
-| 3 | Poland | **780451** | 821062 |
+| 3 | Poland | **780450** | 821061 |
 | 4 | India | **693260** | 729545 |
-| 5 | Australia | **594561** | 627302 |
+| 5 | Australia | **607766** | 640898 |
 | 6 | Spain | **520939** | 546164 |
 | 7 | Germany | **511776** | 536476 |
 | 8 | United Kingdom | **506353** | 533237 |
@@ -69,11 +69,11 @@
 | 10 | France | **431296** | 454046 |
 | 11 | Russia | **430990** | 455777 |
 | 12 | Brazil | **381150** | 398637 |
-| 13 | Sweden | **286158** | 301397 |
-| 14 | Philippines | **262927** | 273510 |
+| 13 | Sweden | **286446** | 301698 |
+| 14 | Philippines | **264741** | 275389 |
 | 15 | Italy | **256872** | 271002 |
 | 16 | Colombia | **253156** | 266449 |
-| 17 | Taiwan | **233002** | 239992 |
+| 17 | Chinese Taipei | **233002** | 239992 |
 | 18 | Netherlands | **228232** | 237711 |
 | 19 | Indonesia | **222707** | 235097 |
 | 20 | Mexico | **210388** | 220076 |
@@ -82,11 +82,11 @@
 
 | Rank |  | Solves | Attempts |
 | :--- | :--- | ---: | ---: |
-| 1 | Europe | **5972175** | 6272599 |
-| 2 | North America | **4044765** | 4240304 |
-| 3 | Asia | **3573445** | 3746445 |
+| 1 | Europe | **5978325** | 6279003 |
+| 2 | North America | **4058101** | 4254037 |
+| 3 | Asia | **3575259** | 3748324 |
 | 4 | South America | **1255033** | 1314498 |
-| 5 | Oceania | **730201** | 769942 |
+| 5 | Oceania | **743406** | 783538 |
 | 6 | Africa | **93517** | 97837 |
 | 7 | Multiple Continents | **1895** | 2562 |
 
@@ -97,7 +97,7 @@
 | 1 | 2019 | **2537720** | 2656986 |
 | 2 | 2018 | **2218901** | 2324788 |
 | 3 | 2022 | **2118280** | 2217627 |
-| 4 | 2023 | **1744913** | 1825410 |
+| 4 | 2023 | **1779418** | 1861022 |
 | 5 | 2017 | **1744831** | 1828044 |
 | 6 | 2016 | **1195496** | 1252781 |
 | 7 | 2015 | **885133** | 928597 |
@@ -119,25 +119,25 @@
 
 | Rank |  | Solves | Attempts |
 | :--- | :--- | ---: | ---: |
-| 1 | 3x3x3 Cube | **4897539** | 5007670 |
-| 2 | 2x2x2 Cube | **2731261** | 2802048 |
-| 3 | Pyraminx | **1705033** | 1751071 |
-| 4 | 4x4x4 Cube | **1444785** | 1502174 |
-| 5 | 3x3x3 One-Handed | **1343218** | 1389362 |
-| 6 | Skewb | **1029171** | 1057512 |
-| 7 | 5x5x5 Cube | **733071** | 756871 |
-| 8 | Megaminx | **433309** | 453563 |
-| 9 | Square-1 | **404525** | 422970 |
-| 10 | Clock | **287530** | 334019 |
-| 11 | 6x6x6 Cube | **156520** | 162637 |
-| 12 | 7x7x7 Cube | **128858** | 134768 |
-| 13 | 3x3x3 Blindfolded | **108728** | 304254 |
+| 1 | 3x3x3 Cube | **4909465** | 5019852 |
+| 2 | 2x2x2 Cube | **2738741** | 2809709 |
+| 3 | Pyraminx | **1710478** | 1756677 |
+| 4 | 4x4x4 Cube | **1446103** | 1503552 |
+| 5 | 3x3x3 One-Handed | **1344788** | 1390978 |
+| 6 | Skewb | **1032555** | 1060976 |
+| 7 | 5x5x5 Cube | **734063** | 757889 |
+| 8 | Megaminx | **433890** | 454178 |
+| 9 | Square-1 | **405191** | 423665 |
+| 10 | Clock | **288102** | 334661 |
+| 11 | 6x6x6 Cube | **156796** | 162930 |
+| 12 | 7x7x7 Cube | **129026** | 134948 |
+| 13 | 3x3x3 Blindfolded | **108779** | 304390 |
 | 14 | Magic | **78268** | 86498 |
-| 15 | 3x3x3 Fewest Moves | **66571** | 94473 |
+| 15 | 3x3x3 Fewest Moves | **66637** | 94567 |
 | 16 | 3x3x3 With Feet | **51884** | 56650 |
 | 17 | Master Magic | **39964** | 41445 |
-| 18 | 3x3x3 Multi-Blind | **17711** | 31207 |
-| 19 | 4x4x4 Blindfolded | **9074** | 35985 |
+| 18 | 3x3x3 Multi-Blind | **17712** | 31208 |
+| 19 | 4x4x4 Blindfolded | **9083** | 36016 |
 | 20 | 5x5x5 Blindfolded | **3606** | 18419 |
 
 
