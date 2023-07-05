@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on  2 July 2023*
+*Updated on  4 July 2023*
 
 | Rank | Person | Gold | Silver | Bronze | Total |
 | :--- | :--- | :--: | :--: | :--: | :--: |
@@ -39,8 +39,8 @@
 | 32 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) | **67** | 44 | 49 | 160 |
 | 33 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | **66** | 96 | 38 | 200 |
 | 34 | [Chester Lian](https://www.worldcubeassociation.org/persons/2009LIAN03) | **63** | 47 | 21 | 131 |
-| 35 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) | **59** | 66 | 67 | 192 |
-| 36 | [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) | **59** | 42 | 26 | 127 |
+| 35 | [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) | **60** | 42 | 29 | 131 |
+| 36 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) | **59** | 66 | 67 | 192 |
 | 37 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | **59** | 23 | 7 | 89 |
 | 38 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) | **58** | 63 | 68 | 189 |
 | 39 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | **57** | 64 | 37 | 158 |
@@ -85,17 +85,17 @@
 | 78 | [Richard Jay S. Apagar](https://www.worldcubeassociation.org/persons/2010APAG01) | **36** | 31 | 19 | 86 |
 | 79 | [Farid Mikhailov](https://www.worldcubeassociation.org/persons/2015MIKH04) | **36** | 29 | 25 | 90 |
 | 80 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | **36** | 22 | 19 | 77 |
-| 81 | [Mátyás Kuti](https://www.worldcubeassociation.org/persons/2006KUTI01) | **36** | 12 | 9 | 57 |
-| 82 | [Thomas Mæhle Schmidt](https://www.worldcubeassociation.org/persons/2013SCHM02) | **35** | 64 | 56 | 155 |
-| 83 | [Wong Kin Lok (黃健樂)](https://www.worldcubeassociation.org/persons/2014LOKW01) | **35** | 48 | 24 | 107 |
-| 84 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) | **35** | 16 | 9 | 60 |
-| 85 | [Matěj Grohmann](https://www.worldcubeassociation.org/persons/2015GROH02) | **34** | 34 | 31 | 99 |
-| 86 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) | **34** | 26 | 42 | 102 |
-| 87 | [Brúnó Bereczki](https://www.worldcubeassociation.org/persons/2008BERE01) | **34** | 8 | 13 | 55 |
-| 88 | [Pablo Nicolás Oshiro Mondoñedo](https://www.worldcubeassociation.org/persons/2010MOND01) | **33** | 22 | 32 | 87 |
-| 89 | [David Vujasić](https://www.worldcubeassociation.org/persons/2015VUJA01) | **32** | 45 | 18 | 95 |
-| 90 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | **32** | 22 | 16 | 70 |
-| 91 | [Burno Li Chak Kwan (李澤堃)](https://www.worldcubeassociation.org/persons/2017KWAN05) | **32** | 19 | 12 | 63 |
+| 81 | [Burno Li Chak Kwan (李澤堃)](https://www.worldcubeassociation.org/persons/2017KWAN05) | **36** | 20 | 13 | 69 |
+| 82 | [Mátyás Kuti](https://www.worldcubeassociation.org/persons/2006KUTI01) | **36** | 12 | 9 | 57 |
+| 83 | [Thomas Mæhle Schmidt](https://www.worldcubeassociation.org/persons/2013SCHM02) | **35** | 64 | 56 | 155 |
+| 84 | [Wong Kin Lok (黃健樂)](https://www.worldcubeassociation.org/persons/2014LOKW01) | **35** | 48 | 24 | 107 |
+| 85 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) | **35** | 16 | 9 | 60 |
+| 86 | [Matěj Grohmann](https://www.worldcubeassociation.org/persons/2015GROH02) | **34** | 34 | 31 | 99 |
+| 87 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) | **34** | 26 | 42 | 102 |
+| 88 | [Brúnó Bereczki](https://www.worldcubeassociation.org/persons/2008BERE01) | **34** | 8 | 13 | 55 |
+| 89 | [Pablo Nicolás Oshiro Mondoñedo](https://www.worldcubeassociation.org/persons/2010MOND01) | **33** | 22 | 32 | 87 |
+| 90 | [David Vujasić](https://www.worldcubeassociation.org/persons/2015VUJA01) | **32** | 45 | 18 | 95 |
+| 91 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | **32** | 22 | 16 | 70 |
 | 92 | [Shotaro Makisumi (牧角章太郎)](https://www.worldcubeassociation.org/persons/2003MAKI01) | **32** | 14 | 10 | 56 |
 | 93 | [Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01) | **31** | 24 | 9 | 64 |
 | 94 | [Eric Limeback](https://www.worldcubeassociation.org/persons/2007LIME01) | **31** | 20 | 19 | 70 |
