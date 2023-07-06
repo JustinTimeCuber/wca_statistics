@@ -1,30 +1,30 @@
 ## Competition days count by region
 
-*Updated on  4 July 2023*
+*Updated on  5 July 2023*
 
 
 ### World
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.49 | World | 9976 |
+| 1 | 1.49 | World | 9982 |
 
 ### Continents
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.76 | Europe | 3268 |
+| 1 | 1.76 | Europe | 3272 |
 | 2 | 1.56 | South America | 1120 |
 | 3 | 1.46 | Oceania | 435 |
 | 4 | 1.41 | Asia | 2312 |
 | 5 | 1.24 | Africa | 110 |
-| 6 | 1.21 | North America | 2731 |
+| 6 | 1.21 | North America | 2733 |
 
 ### Countries
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 2.24 | Hungary | 29 |
+| 1 | 2.23 | Hungary | 30 |
 | 2 | 2.10 | Czech Republic | 41 |
 | 3 | 2.06 | Kazakhstan | 34 |
 | 4 | 2.01 | Turkey | 73 |
@@ -44,7 +44,7 @@
 | 18 | 1.85 | Croatia | 20 |
 | 19 | 1.84 | Switzerland | 90 |
 | 20 | 1.84 | Spain | 280 |
-| 21 | 1.83 | Mexico | 107 |
+| 21 | 1.83 | Mexico | 108 |
 | 22 | 1.83 | Belgium | 65 |
 | 23 | 1.83 | Finland | 106 |
 | 24 | 1.82 | Austria | 22 |
@@ -55,7 +55,7 @@
 | 29 | 1.76 | Guatemala | 51 |
 | 30 | 1.75 | Sri Lanka | 4 |
 | 31 | 1.74 | Slovenia | 27 |
-| 32 | 1.73 | Denmark | 130 |
+| 32 | 1.73 | Denmark | 131 |
 | 33 | 1.71 | Argentina | 66 |
 | 34 | 1.71 | Ukraine | 113 |
 | 35 | 1.70 | Iran | 33 |
@@ -73,7 +73,7 @@
 | 47 | 1.59 | Bolivia | 93 |
 | 48 | 1.59 | Ireland | 39 |
 | 49 | 1.59 | India | 464 |
-| 50 | 1.55 | Italy | 175 |
+| 50 | 1.55 | Italy | 176 |
 | 51 | 1.55 | Malaysia | 69 |
 | 52 | 1.54 | Latvia | 24 |
 | 53 | 1.54 | Dominican Republic | 26 |
@@ -83,8 +83,8 @@
 | 57 | 1.50 | Tajikistan | 2 |
 | 58 | 1.49 | Peru | 168 |
 | 59 | 1.47 | Greece | 17 |
-| 60 | 1.45 | Romania | 85 |
-| 61 | 1.44 | Israel | 36 |
+| 60 | 1.44 | Israel | 36 |
+| 61 | 1.44 | Romania | 86 |
 | 62 | 1.43 | Australia | 349 |
 | 63 | 1.42 | Bulgaria | 12 |
 | 64 | 1.39 | Singapore | 38 |
@@ -113,7 +113,7 @@
 | 87 | 1.17 | Andorra | 6 |
 | 88 | 1.17 | Tunisia | 24 |
 | 89 | 1.17 | Uruguay | 42 |
-| 90 | 1.17 | United States | 2180 |
+| 90 | 1.17 | United States | 2181 |
 | 91 | 1.16 | Canada | 287 |
 | 92 | 1.13 | Honduras | 15 |
 | 93 | 1.13 | El Salvador | 31 |
