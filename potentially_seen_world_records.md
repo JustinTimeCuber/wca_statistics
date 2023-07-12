@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on  5 July 2023*
+*Updated on 10 July 2023*
 
 | Rank | WRs | Person |
 | :--- | ---: | :--- |
@@ -11,8 +11,8 @@
 | 4 | 176 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 5 | 160 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
 | 6 | 159 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
-| 7 | 158 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
-| 8 | 158 | [Shelley Chang](https://www.worldcubeassociation.org/persons/2004CHAN04) |
+| 7 | 159 | [Shelley Chang](https://www.worldcubeassociation.org/persons/2004CHAN04) |
+| 8 | 158 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
 | 9 | 138 | [Bob Burton](https://www.worldcubeassociation.org/persons/2003BURT01) |
 | 10 | 134 | [Joël van Noort](https://www.worldcubeassociation.org/persons/2004NOOR01) |
 | 11 | 126 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
@@ -27,8 +27,8 @@
 | 20 | 108 | [Anders Larsson](https://www.worldcubeassociation.org/persons/2003LARS01) |
 | 21 | 107 | [Maria Oey](https://www.worldcubeassociation.org/persons/2007OEYM01) |
 | 22 | 106 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) |
-| 23 | 104 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) |
-| 24 | 103 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) |
+| 23 | 104 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) |
+| 24 | 104 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) |
 | 25 | 102 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) |
 | 26 | 102 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) |
 | 27 | 99 | [Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01) |
@@ -61,13 +61,13 @@
 | 54 | 81 | [Tyson Mao (毛台勝)](https://www.worldcubeassociation.org/persons/2004MAOT02) |
 | 55 | 81 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) |
 | 56 | 81 | [Markus Pirzer](https://www.worldcubeassociation.org/persons/2006PIRZ01) |
-| 57 | 80 | [Hanneke Rijks](https://www.worldcubeassociation.org/persons/2008RIJK01) |
-| 58 | 80 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
-| 59 | 79 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
-| 60 | 79 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
-| 61 | 79 | [Dene Beardsley](https://www.worldcubeassociation.org/persons/2009BEAR01) |
-| 62 | 79 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
-| 63 | 77 | [Takao Hashimoto (橋本貴夫)](https://www.worldcubeassociation.org/persons/2007HASH01) |
+| 57 | 81 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
+| 58 | 80 | [Hanneke Rijks](https://www.worldcubeassociation.org/persons/2008RIJK01) |
+| 59 | 79 | [Dene Beardsley](https://www.worldcubeassociation.org/persons/2009BEAR01) |
+| 60 | 79 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
+| 61 | 79 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
+| 62 | 79 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
+| 63 | 78 | [Takao Hashimoto (橋本貴夫)](https://www.worldcubeassociation.org/persons/2007HASH01) |
 | 64 | 76 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
 | 65 | 75 | [Guus Razoux Schultz](https://www.worldcubeassociation.org/persons/1982RAZO01) |
 | 66 | 75 | [Frank Morris](https://www.worldcubeassociation.org/persons/2003MORR01) |
