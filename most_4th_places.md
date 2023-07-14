@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 10 July 2023*
+*Updated on 13 July 2023*
 
 | Rank | 4th places | Person |
 | :--- | ---: | :--- |
@@ -40,7 +40,7 @@
 | 33 | 65 | [John Brechon](https://www.worldcubeassociation.org/persons/2010BREC01) |
 | 34 | 66 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
 | 35 | 94 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
-| 36 | 167 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) |
+| 36 | 168 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) |
 | 37 | 134 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
 | 38 | 72 | [Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02) |
 | 39 | 92 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
@@ -61,7 +61,7 @@
 | 54 | 86 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 55 | 158 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 56 | 118 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
-| 57 | 72 | [Chao-Che Chung (鍾肇哲)](https://www.worldcubeassociation.org/persons/2012CHON03) |
+| 57 | 74 | [Chao-Che Chung (鍾肇哲)](https://www.worldcubeassociation.org/persons/2012CHON03) |
 | 58 | 140 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
 | 59 | 78 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
 | 60 | 70 | [Theo Mayer](https://www.worldcubeassociation.org/persons/2012MAYE01) |
@@ -72,7 +72,7 @@
 | 65 | 177 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
 | 66 | 67 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) |
 | 67 | 82 | [Nicolas Gertner Kilian](https://www.worldcubeassociation.org/persons/2013GERT01) |
-| 68 | 72 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
+| 68 | 73 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
 | 69 | 80 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 70 | 152 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 71 | 90 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
@@ -87,7 +87,7 @@
 | 80 | 77 | [Jared Stinson](https://www.worldcubeassociation.org/persons/2014STIN01) |
 | 81 | 86 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 82 | 95 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
-| 83 | 74 | [Lucas Déglise](https://www.worldcubeassociation.org/persons/2015DEGL01) |
+| 83 | 75 | [Lucas Déglise](https://www.worldcubeassociation.org/persons/2015DEGL01) |
 | 84 | 71 | [Jakob Gunnarsson](https://www.worldcubeassociation.org/persons/2015GUNN01) |
 | 85 | 120 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 86 | 66 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) |
@@ -103,7 +103,7 @@
 | 96 | 74 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 97 | 67 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 | 98 | 69 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
-| 99 | 65 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
+| 99 | 69 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 100 | 68 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
 
 
