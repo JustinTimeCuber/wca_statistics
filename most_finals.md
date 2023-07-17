@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 13 July 2023*
+*Updated on 16 July 2023*
 
 | Rank | Finals | Person |
 | :--- | ---: | :--- |
@@ -35,7 +35,7 @@
 | 29 | 691 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) |
 | 30 | 767 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) |
 | 31 | 988 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
-| 32 | 1222 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
+| 32 | 1228 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 33 | 760 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) |
 | 34 | 659 | [Christopher Olson](https://www.worldcubeassociation.org/persons/2009OLSO01) |
 | 35 | 840 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
@@ -52,7 +52,7 @@
 | 46 | 1068 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
 | 47 | 832 | [Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02) |
 | 48 | 714 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
-| 49 | 741 | [Cendy Cahyo Rahmat](https://www.worldcubeassociation.org/persons/2010RAHM02) |
+| 49 | 746 | [Cendy Cahyo Rahmat](https://www.worldcubeassociation.org/persons/2010RAHM02) |
 | 50 | 1151 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 51 | 673 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
 | 52 | 885 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) |
@@ -100,7 +100,7 @@
 | 94 | 913 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
 | 95 | 756 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
 | 96 | 859 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
-| 97 | 707 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
+| 97 | 714 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 | 98 | 791 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) |
 | 99 | 782 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
 | 100 | 879 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
