@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 16 July 2023*
+*Updated on 19 July 2023*
 
 
 ### Rubik's Cube
@@ -14,10 +14,10 @@
 | 4 | 7.86 | [Yinming Zhu (朱胤铭)](https://www.worldcubeassociation.org/persons/2021ZHUY01) |
 | 5 | 7.92 | [Nguyễn Văn Khánh](https://www.worldcubeassociation.org/persons/2022KHAN29) |
 | 6 | 8.03 | [Kaichen Huang (黄楷宸)](https://www.worldcubeassociation.org/persons/2023HUAN21) |
-| 7 | 8.20 | [Eden Robinson-Rechavi](https://www.worldcubeassociation.org/persons/2022ROBI05) |
-| 8 | 8.28 | [Luis Uriel Escamilla Becerril](https://www.worldcubeassociation.org/persons/2023BECE03) |
-| 9 | 8.29 | [Hansen Yu (余翰森)](https://www.worldcubeassociation.org/persons/2023YUHA01) |
-| 10 | 8.39 | [Jesse Gonzales](https://www.worldcubeassociation.org/persons/2022GONZ33) |
+| 7 | 8.09 | [Max Herink](https://www.worldcubeassociation.org/persons/2023HERI02) |
+| 8 | 8.20 | [Eden Robinson-Rechavi](https://www.worldcubeassociation.org/persons/2022ROBI05) |
+| 9 | 8.28 | [Luis Uriel Escamilla Becerril](https://www.worldcubeassociation.org/persons/2023BECE03) |
+| 10 | 8.29 | [Hansen Yu (余翰森)](https://www.worldcubeassociation.org/persons/2023YUHA01) |
 
 ### 2x2x2 Cube
 
@@ -60,9 +60,9 @@
 | 5 | 1:00.37 | [Sujan Irosha Kumarapperuma](https://www.worldcubeassociation.org/persons/2019KUMA59) |
 | 6 | 1:00.51 | [Tianzuo Du (杜天佐)](https://www.worldcubeassociation.org/persons/2021DUTI01) |
 | 7 | 1:00.83 | [Emmanuel Kao](https://www.worldcubeassociation.org/persons/2022KAOE01) |
-| 8 | 1:02.79 | [Celine Tran](https://www.worldcubeassociation.org/persons/2017TRAN25) |
-| 9 | 1:03.24 | [Nathan Chiem](https://www.worldcubeassociation.org/persons/2022CHIE03) |
-| 10 | 1:04.05 | [Aleksandr Nedelko](https://www.worldcubeassociation.org/persons/2020NEDE01) |
+| 8 | 1:02.39 | [Yudai Naito (内藤悠大)](https://www.worldcubeassociation.org/persons/2023NAIT01) |
+| 9 | 1:02.79 | [Celine Tran](https://www.worldcubeassociation.org/persons/2017TRAN25) |
+| 10 | 1:03.24 | [Nathan Chiem](https://www.worldcubeassociation.org/persons/2022CHIE03) |
 
 ### 6x6x6 Cube
 
@@ -133,11 +133,11 @@
 | 3 | 14.08 | [Eden Robinson-Rechavi](https://www.worldcubeassociation.org/persons/2022ROBI05) |
 | 4 | 14.63 | [Mateo Aguirre](https://www.worldcubeassociation.org/persons/2022AGUI03) |
 | 5 | 14.76 | [Jan Woźniak](https://www.worldcubeassociation.org/persons/2021WOZN01) |
-| 6 | 14.92 | [Crimson Arradaza](https://www.worldcubeassociation.org/persons/2023ARRA01) |
-| 7 | 14.98 | [Beom San Kim (김범산)](https://www.worldcubeassociation.org/persons/2017KIMB02) |
-| 8 | 15.12 | [João Victtor Rocha Leite](https://www.worldcubeassociation.org/persons/2023LEIT04) |
-| 9 | 15.27 | [Tien Tran](https://www.worldcubeassociation.org/persons/2018TRAN09) |
-| 10 | 15.39 | [Wade Hawkins](https://www.worldcubeassociation.org/persons/2021HAWK02) |
+| 6 | 14.88 | [Takumi Kato (加藤匠)](https://www.worldcubeassociation.org/persons/2023KATO03) |
+| 7 | 14.92 | [Crimson Arradaza](https://www.worldcubeassociation.org/persons/2023ARRA01) |
+| 8 | 14.98 | [Beom San Kim (김범산)](https://www.worldcubeassociation.org/persons/2017KIMB02) |
+| 9 | 15.00 | [Erfan Dehghani (عرفان دهقانی)](https://www.worldcubeassociation.org/persons/2023DEHG02) |
+| 10 | 15.12 | [João Victtor Rocha Leite](https://www.worldcubeassociation.org/persons/2023LEIT04) |
 
 ### Megaminx
 
@@ -227,7 +227,7 @@
 | 7 | 8:56.23 | [Jungwoo Kim (김정우)](https://www.worldcubeassociation.org/persons/2014KIMJ02) |
 | 8 | 9:15.02 | [Takeo Nagoshi (名越丈雄)](https://www.worldcubeassociation.org/persons/2022NAGO03) |
 | 9 | 9:57.57 | [Nathan Benson](https://www.worldcubeassociation.org/persons/2022BENS01) |
-| 10 | 10:28.00 | [Joaquín Hernan Sandoval Reyes](https://www.worldcubeassociation.org/persons/2019REYE07) |
+| 10 | 10:06.00 | [Adam Hlavín](https://www.worldcubeassociation.org/persons/2019HLAV02) |
 
 ### 5x5x5 Blindfolded
 

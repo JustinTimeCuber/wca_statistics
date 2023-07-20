@@ -1,7 +1,7 @@
 ## Average event count by competition
 
 *Note: In other words, average number of events competitors participated in.*
-*Updated on 16 July 2023*
+*Updated on 19 July 2023*
 
 | Rank | Competition | Average event count | Competitors | Country |
 | :--- | :--- | ---: | ---: | :--- |
@@ -33,8 +33,8 @@
 | 26 | [Trondheim Cube Week 2023](https://www.worldcubeassociation.org/competitions/TrondheimCubeWeek2023) | 9.09 | 64 | Norway |
 | 27 | [Outokumpu Open 2019](https://www.worldcubeassociation.org/competitions/OutokumpuOpen2019) | 9.07 | 15 | Finland |
 | 28 | [Poções 2019](https://www.worldcubeassociation.org/competitions/Pocoes2019) | 9.06 | 18 | Brazil |
-| 29 | [Sint Michielsgestel 2019](https://www.worldcubeassociation.org/competitions/CubeWeekendStMichielsgestel2019) | 9.00 | 45 | Netherlands |
-| 30 | [Bulacan Open 2010](https://www.worldcubeassociation.org/competitions/BulacanOpen2010) | 9.00 | 16 | Philippines |
+| 29 | [Bulacan Open 2010](https://www.worldcubeassociation.org/competitions/BulacanOpen2010) | 9.00 | 16 | Philippines |
+| 30 | [Sint Michielsgestel 2019](https://www.worldcubeassociation.org/competitions/CubeWeekendStMichielsgestel2019) | 9.00 | 45 | Netherlands |
 | 31 | [Danish Open 2014](https://www.worldcubeassociation.org/competitions/DanishOpen2014) | 8.97 | 36 | Denmark |
 | 32 | [Heartland Championship 2019](https://www.worldcubeassociation.org/competitions/HeartlandChampionship2019) | 8.96 | 93 | United States |
 | 33 | [Maribor Open 2014](https://www.worldcubeassociation.org/competitions/MariborOpen2014) | 8.95 | 20 | Slovenia |
@@ -57,8 +57,8 @@
 | 50 | [Croatian Open 2015](https://www.worldcubeassociation.org/competitions/CroatianOpen2015) | 8.73 | 30 | Croatia |
 | 51 | [Dvina Open 2014](https://www.worldcubeassociation.org/competitions/DvinaOpen2014) | 8.71 | 35 | Belarus |
 | 52 | [Myyrmäki Summer Challenge 2019](https://www.worldcubeassociation.org/competitions/MyyrmakiSummerChallenge2019) | 8.69 | 55 | Finland |
-| 53 | [Vårgårda Open 2011](https://www.worldcubeassociation.org/competitions/VargardaOpen2011) | 8.67 | 48 | Sweden |
-| 54 | [Bristol Open 2009](https://www.worldcubeassociation.org/competitions/BristolOpen2009) | 8.67 | 27 | United Kingdom |
+| 53 | [Bristol Open 2009](https://www.worldcubeassociation.org/competitions/BristolOpen2009) | 8.67 | 27 | United Kingdom |
+| 54 | [Vårgårda Open 2011](https://www.worldcubeassociation.org/competitions/VargardaOpen2011) | 8.67 | 48 | Sweden |
 | 55 | [Kostelec Nonstop Cubing 2023](https://www.worldcubeassociation.org/competitions/KostelecNonstopCubing2023) | 8.65 | 62 | Czech Republic |
 | 56 | [Danish Open 2011](https://www.worldcubeassociation.org/competitions/DanishOpen2011) | 8.63 | 52 | Denmark |
 | 57 | [Italian Championship 2010](https://www.worldcubeassociation.org/competitions/ItalianChampionship2010) | 8.60 | 40 | Italy |
@@ -72,8 +72,8 @@
 | 65 | [Dvina OH Edition 2014](https://www.worldcubeassociation.org/competitions/DvinaOHEdition2014) | 8.50 | 32 | Belarus |
 | 66 | [Dvina Open 2015](https://www.worldcubeassociation.org/competitions/DvinaOpen2015) | 8.48 | 33 | Belarus |
 | 67 | [Skanderborg 2014](https://www.worldcubeassociation.org/competitions/SkanderborgOpen2014) | 8.46 | 28 | Denmark |
-| 68 | [Krivbass Open 2016](https://www.worldcubeassociation.org/competitions/KrivbassOpen2016) | 8.45 | 20 | Ukraine |
-| 69 | [South Italian Open 2010](https://www.worldcubeassociation.org/competitions/LOLSouthItalianOpen2010) | 8.45 | 20 | Italy |
+| 68 | [South Italian Open 2010](https://www.worldcubeassociation.org/competitions/LOLSouthItalianOpen2010) | 8.45 | 20 | Italy |
+| 69 | [Krivbass Open 2016](https://www.worldcubeassociation.org/competitions/KrivbassOpen2016) | 8.45 | 20 | Ukraine |
 | 70 | [Lent Open 2015](https://www.worldcubeassociation.org/competitions/LentOpen2015) | 8.44 | 25 | Slovenia |
 | 71 | [Fuglsangpark Open 2009](https://www.worldcubeassociation.org/competitions/FuglsangparkOpen2009) | 8.43 | 30 | Denmark |
 | 72 | [Mid-Atlantic Championship 2023](https://www.worldcubeassociation.org/competitions/MidAtlanticChampionship2023) | 8.42 | 179 | United States |
@@ -94,8 +94,8 @@
 | 87 | [New Zealand Nationals 2020](https://www.worldcubeassociation.org/competitions/NewZealandNationals2020) | 8.30 | 63 | New Zealand |
 | 88 | [Sønderjysk Sommercubing 2022](https://www.worldcubeassociation.org/competitions/SonderjyskSommercubing2022) | 8.28 | 43 | Denmark |
 | 89 | [Czech Open 2008](https://www.worldcubeassociation.org/competitions/CzechOpen2008) | 8.27 | 45 | Czech Republic |
-| 90 | [DFW Spring Warmup 2023](https://www.worldcubeassociation.org/competitions/DFWSpringWarmup2023) | 8.25 | 32 | United States |
-| 91 | [Tolong Diam Medan 2018](https://www.worldcubeassociation.org/competitions/TolongDiamMedan2018) | 8.25 | 8 | Indonesia |
+| 90 | [Tolong Diam Medan 2018](https://www.worldcubeassociation.org/competitions/TolongDiamMedan2018) | 8.25 | 8 | Indonesia |
+| 91 | [DFW Spring Warmup 2023](https://www.worldcubeassociation.org/competitions/DFWSpringWarmup2023) | 8.25 | 32 | United States |
 | 92 | [Nordic Championship 2019](https://www.worldcubeassociation.org/competitions/NordicChampionship2019) | 8.24 | 127 | Denmark |
 | 93 | [Nordic Championship 2018](https://www.worldcubeassociation.org/competitions/NordicChampionship2018) | 8.23 | 137 | Sweden |
 | 94 | [KSF Club Pavlodar 2022](https://www.worldcubeassociation.org/competitions/KSFClubPavlodar2022) | 8.23 | 13 | Kazakhstan |

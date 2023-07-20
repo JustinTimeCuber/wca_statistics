@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 16 July 2023*
+*Updated on 19 July 2023*
 
 
 ### 100 Competitions
@@ -111,8 +111,8 @@
 | 2 | 43 | [Tomasz Szubert](https://www.worldcubeassociation.org/persons/2022SZUB02) |
 | 3 | 49 | [Santhosh Sabarinathan](https://www.worldcubeassociation.org/persons/2018SABA02) |
 | 4 | 50 | [Mohan Sehgal](https://www.worldcubeassociation.org/persons/2023SEHG01) |
-| 5 | 50 | [Benson Kim](https://www.worldcubeassociation.org/persons/2023KIMB02) |
-| 6 | 50 | [Griffin Kim](https://www.worldcubeassociation.org/persons/2023KIMG01) |
+| 5 | 50 | [Griffin Kim](https://www.worldcubeassociation.org/persons/2023KIMG01) |
+| 6 | 50 | [Benson Kim](https://www.worldcubeassociation.org/persons/2023KIMB02) |
 | 7 | 50 | [Caleb Lalik](https://www.worldcubeassociation.org/persons/2023LALI01) |
 | 8 | 50 | [Amudhan Kalidasan](https://www.worldcubeassociation.org/persons/2023KALI04) |
 | 9 | 50 | [Riccardo Polignano](https://www.worldcubeassociation.org/persons/2023POLI03) |

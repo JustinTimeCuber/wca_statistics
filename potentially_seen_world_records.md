@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 16 July 2023*
+*Updated on 19 July 2023*
 
 | Rank | WRs | Person |
 | :--- | ---: | :--- |
@@ -42,8 +42,8 @@
 | 35 | 93 | [Shotaro Makisumi (牧角章太郎)](https://www.worldcubeassociation.org/persons/2003MAKI01) |
 | 36 | 92 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
 | 37 | 92 | [Cameron Stollery](https://www.worldcubeassociation.org/persons/2010STOL01) |
-| 38 | 90 | [Olivér Nagy](https://www.worldcubeassociation.org/persons/2004NAGY01) |
-| 39 | 90 | [Frédérick Badie](https://www.worldcubeassociation.org/persons/2003BADI01) |
+| 38 | 90 | [Frédérick Badie](https://www.worldcubeassociation.org/persons/2003BADI01) |
+| 39 | 90 | [Olivér Nagy](https://www.worldcubeassociation.org/persons/2004NAGY01) |
 | 40 | 90 | [Jean-Louis Mathieu](https://www.worldcubeassociation.org/persons/2006MATH01) |
 | 41 | 89 | [Kåre Krig](https://www.worldcubeassociation.org/persons/2004KRIG02) |
 | 42 | 89 | [Devin Corr-Robinett](https://www.worldcubeassociation.org/persons/2006CORR01) |
@@ -57,32 +57,32 @@
 | 50 | 85 | [Tim McMahon](https://www.worldcubeassociation.org/persons/2009MCMA01) |
 | 51 | 84 | [Rama Temmink](https://www.worldcubeassociation.org/persons/2006TEMM01) |
 | 52 | 84 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
-| 53 | 81 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) |
-| 54 | 81 | [Tyson Mao (毛台勝)](https://www.worldcubeassociation.org/persons/2004MAOT02) |
-| 55 | 81 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) |
-| 56 | 81 | [Markus Pirzer](https://www.worldcubeassociation.org/persons/2006PIRZ01) |
-| 57 | 81 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
+| 53 | 82 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
+| 54 | 81 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) |
+| 55 | 81 | [Markus Pirzer](https://www.worldcubeassociation.org/persons/2006PIRZ01) |
+| 56 | 81 | [Tyson Mao (毛台勝)](https://www.worldcubeassociation.org/persons/2004MAOT02) |
+| 57 | 81 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) |
 | 58 | 80 | [Hanneke Rijks](https://www.worldcubeassociation.org/persons/2008RIJK01) |
 | 59 | 79 | [Dene Beardsley](https://www.worldcubeassociation.org/persons/2009BEAR01) |
 | 60 | 79 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
-| 61 | 79 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
-| 62 | 79 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
+| 61 | 79 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
+| 62 | 79 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 63 | 78 | [Takao Hashimoto (橋本貴夫)](https://www.worldcubeassociation.org/persons/2007HASH01) |
 | 64 | 76 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
 | 65 | 75 | [Guus Razoux Schultz](https://www.worldcubeassociation.org/persons/1982RAZO01) |
 | 66 | 75 | [Frank Morris](https://www.worldcubeassociation.org/persons/2003MORR01) |
 | 67 | 74 | [Tim Major](https://www.worldcubeassociation.org/persons/2010MAJO01) |
 | 68 | 73 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
-| 69 | 73 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) |
-| 70 | 73 | [Paweł Włoszek](https://www.worldcubeassociation.org/persons/2006WLOS01) |
+| 69 | 73 | [Paweł Włoszek](https://www.worldcubeassociation.org/persons/2006WLOS01) |
+| 70 | 73 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) |
 | 71 | 73 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) |
 | 72 | 73 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
-| 73 | 71 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) |
-| 74 | 71 | [Bertalan Bodor](https://www.worldcubeassociation.org/persons/2007BODO01) |
-| 75 | 71 | [Fangyuan Chang (常方圆)](https://www.worldcubeassociation.org/persons/2009CHAN04) |
-| 76 | 70 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) |
+| 73 | 71 | [Fangyuan Chang (常方圆)](https://www.worldcubeassociation.org/persons/2009CHAN04) |
+| 74 | 71 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) |
+| 75 | 71 | [Bertalan Bodor](https://www.worldcubeassociation.org/persons/2007BODO01) |
+| 76 | 70 | [Oliver Wolff](https://www.worldcubeassociation.org/persons/2004WOLF01) |
 | 77 | 70 | [Gábor Szabó](https://www.worldcubeassociation.org/persons/2005SZAB02) |
-| 78 | 70 | [Oliver Wolff](https://www.worldcubeassociation.org/persons/2004WOLF01) |
+| 78 | 70 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) |
 | 79 | 69 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) |
 | 80 | 69 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 81 | 69 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
@@ -95,8 +95,8 @@
 | 88 | 66 | [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) |
 | 89 | 66 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
 | 90 | 65 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
-| 91 | 65 | [Shuhei Omura (大村周平)](https://www.worldcubeassociation.org/persons/2007OMUR01) |
-| 92 | 65 | [Yunqi Ouyang (欧阳韵奇)](https://www.worldcubeassociation.org/persons/2007YUNQ01) |
+| 91 | 65 | [Yunqi Ouyang (欧阳韵奇)](https://www.worldcubeassociation.org/persons/2007YUNQ01) |
+| 92 | 65 | [Shuhei Omura (大村周平)](https://www.worldcubeassociation.org/persons/2007OMUR01) |
 | 93 | 65 | [Anthony Brooks](https://www.worldcubeassociation.org/persons/2008SEAR01) |
 | 94 | 65 | [Nora Akkersdijk](https://www.worldcubeassociation.org/persons/2009CHRI03) |
 | 95 | 64 | [Ryan Jew](https://www.worldcubeassociation.org/persons/2008JEWR01) |

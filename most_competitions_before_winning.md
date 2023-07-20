@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 16 July 2023*
+*Updated on 19 July 2023*
 
 
 ### Rubik's Cube
@@ -174,15 +174,15 @@
 | Rank | Competitions | Person | First win |
 | :--- | ---: | :--- | :--- |
 | 1 | 70 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | [Liechtenstein Open 2019](https://www.worldcubeassociation.org/competitions/LiechtensteinOpen2019) |
-| 2 | 49 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | [Szczecin Winter 2022](https://www.worldcubeassociation.org/competitions/SzczecinWinter2022) |
-| 3 | 43 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) | [Florida 2019](https://www.worldcubeassociation.org/competitions/Florida2019) |
-| 4 | 43 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) | [Belgian Nationals 2022](https://www.worldcubeassociation.org/competitions/BelgianNationals2022) |
-| 5 | 37 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | [Belgian Summer 2014](https://www.worldcubeassociation.org/competitions/BelgianSummer2014) |
-| 6 | 35 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) | [Bucaramanga 2023](https://www.worldcubeassociation.org/competitions/Bucaramanga2023) |
-| 7 | 31 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) | [AZCubing Winter 2022](https://www.worldcubeassociation.org/competitions/AZCubingWinter2022) |
-| 8 | 30 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | [Jönköpingsligan 6: Heroes 2023](https://www.worldcubeassociation.org/competitions/Jonkopingsligan6Heroes2023) |
-| 9 | 29 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Hvidovre Sommerhygge 2020](https://www.worldcubeassociation.org/competitions/HvidovreSommerhygge2020) |
-| 10 | 29 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) | [Inland Empire Summer 2022](https://www.worldcubeassociation.org/competitions/InlandEmpireSummer2022) |
+| 2 | 54 | [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) | [Arizona Speedcubing Summer 2023](https://www.worldcubeassociation.org/competitions/ArizonaSpeedcubingSummer2023) |
+| 3 | 49 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | [Szczecin Winter 2022](https://www.worldcubeassociation.org/competitions/SzczecinWinter2022) |
+| 4 | 43 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) | [Florida 2019](https://www.worldcubeassociation.org/competitions/Florida2019) |
+| 5 | 43 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) | [Belgian Nationals 2022](https://www.worldcubeassociation.org/competitions/BelgianNationals2022) |
+| 6 | 37 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | [Belgian Summer 2014](https://www.worldcubeassociation.org/competitions/BelgianSummer2014) |
+| 7 | 35 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) | [Bucaramanga 2023](https://www.worldcubeassociation.org/competitions/Bucaramanga2023) |
+| 8 | 31 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) | [AZCubing Winter 2022](https://www.worldcubeassociation.org/competitions/AZCubingWinter2022) |
+| 9 | 30 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | [Jönköpingsligan 6: Heroes 2023](https://www.worldcubeassociation.org/competitions/Jonkopingsligan6Heroes2023) |
+| 10 | 29 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Hvidovre Sommerhygge 2020](https://www.worldcubeassociation.org/competitions/HvidovreSommerhygge2020) |
 
 ### Skewb
 

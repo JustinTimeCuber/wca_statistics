@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 16 July 2023*
+*Updated on 19 July 2023*
 
 
 ### Rubik's Cube
@@ -99,15 +99,15 @@
 | Rank | Diff | Person | Single | Average | Results |
 | :--- | ---: | :--- | ---: | ---: | :--- |
 | 1 | 0.02 | [Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68) | 34.14 | 34.16 | [Battle of Waterloo 2017](https://www.worldcubeassociation.org/competitions/BattleofWaterloo2017/results/by_person#2010WANG68) |
-| 2 | 0.11 | [Berta García Parra](https://www.worldcubeassociation.org/persons/2014PARR02) | 24.64 | 24.75 | [Arnold Open 2018](https://www.worldcubeassociation.org/competitions/ArnoldOpen2018/results/by_person#2014PARR02) |
-| 3 | 0.12 | [Olli Vikstedt](https://www.worldcubeassociation.org/persons/2014VIKS01) | 54.67 | 54.79 | [Oulu Open 2022](https://www.worldcubeassociation.org/competitions/OuluOpen2022/results/by_person#2014VIKS01) |
-| 4 | 0.13 | [Tianyu Zhao (赵天愉)](https://www.worldcubeassociation.org/persons/2014ZHAO12) | 36.81 | 36.94 | [Wuhan NxN Open 2017](https://www.worldcubeassociation.org/competitions/WuhanNxNOpen2017/results/by_person#2014ZHAO12) |
-| 5 | 0.14 | [Swami Srinivasan](https://www.worldcubeassociation.org/persons/2015SRIN02) | 41.36 | 41.50 | [Wonderful Williamstown 2022](https://www.worldcubeassociation.org/competitions/WonderfulWilliamstown2022/results/by_person#2015SRIN02) |
-| 6 | 0.17 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 23.25 | 23.42 | [Minnesota Cube Melt 2023](https://www.worldcubeassociation.org/competitions/MinnesotaCubeMelt2023/results/by_person#2015KUCA01) |
-| 7 | 0.18 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | 15.20 | 15.38 | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/by_person#2015CHER07) |
-| 8 | 0.18 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | 23.63 | 23.81 | [Polish Championship 2022](https://www.worldcubeassociation.org/competitions/PolishChampionship2022/results/by_person#2016PRZY01) |
-| 9 | 0.20 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 20.55 | 20.75 | [BrizZon Side Open IV 2022](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenIV2022/results/by_person#2019ROGO04) |
-| 10 | 0.21 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | 23.32 | 23.53 | [UCSD Winter 2020](https://www.worldcubeassociation.org/competitions/UCSDWinter2020/results/by_person#2016SIGG01) |
+| 2 | 0.06 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 24.30 | 24.36 | [Canadian Championship 2023](https://www.worldcubeassociation.org/competitions/CanadianChampionship2023/results/by_person#2015KUCA01) |
+| 3 | 0.11 | [Berta García Parra](https://www.worldcubeassociation.org/persons/2014PARR02) | 24.64 | 24.75 | [Arnold Open 2018](https://www.worldcubeassociation.org/competitions/ArnoldOpen2018/results/by_person#2014PARR02) |
+| 4 | 0.12 | [Olli Vikstedt](https://www.worldcubeassociation.org/persons/2014VIKS01) | 54.67 | 54.79 | [Oulu Open 2022](https://www.worldcubeassociation.org/competitions/OuluOpen2022/results/by_person#2014VIKS01) |
+| 5 | 0.13 | [Tianyu Zhao (赵天愉)](https://www.worldcubeassociation.org/persons/2014ZHAO12) | 36.81 | 36.94 | [Wuhan NxN Open 2017](https://www.worldcubeassociation.org/competitions/WuhanNxNOpen2017/results/by_person#2014ZHAO12) |
+| 6 | 0.14 | [Swami Srinivasan](https://www.worldcubeassociation.org/persons/2015SRIN02) | 41.36 | 41.50 | [Wonderful Williamstown 2022](https://www.worldcubeassociation.org/competitions/WonderfulWilliamstown2022/results/by_person#2015SRIN02) |
+| 7 | 0.17 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 23.25 | 23.42 | [Minnesota Cube Melt 2023](https://www.worldcubeassociation.org/competitions/MinnesotaCubeMelt2023/results/by_person#2015KUCA01) |
+| 8 | 0.18 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | 15.20 | 15.38 | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/by_person#2015CHER07) |
+| 9 | 0.18 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | 23.63 | 23.81 | [Polish Championship 2022](https://www.worldcubeassociation.org/competitions/PolishChampionship2022/results/by_person#2016PRZY01) |
+| 10 | 0.20 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 20.55 | 20.75 | [BrizZon Side Open IV 2022](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenIV2022/results/by_person#2019ROGO04) |
 
 ### 3x3x3 One-Handed
 
