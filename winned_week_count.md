@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 19 July 2023*
+*Updated on 22 July 2023*
 
 
 ### Rubik's Cube
@@ -58,7 +58,7 @@
 
 | Rank | Person | Winned weeks |
 | :--- | :--- | ---: |
-| 1 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 87 |
+| 1 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | 88 |
 | 2 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 66 |
 | 3 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 64 |
 | 4 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | 35 |
@@ -227,7 +227,7 @@
 | 17 | [Hunor Bózsing](https://www.worldcubeassociation.org/persons/2009BOZS01) | 9 |
 | 18 | [Piti Pichedpan (ปิติ พิเชษฐพันธ์)](https://www.worldcubeassociation.org/persons/2009PICH01) | 9 |
 | 19 | [Lin Chen (陈霖)](https://www.worldcubeassociation.org/persons/2010CHEN20) | 9 |
-| 20 | [Keaton Ellis](https://www.worldcubeassociation.org/persons/2012ELLI01) | 8 |
+| 20 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | 9 |
 
 ### Megaminx
 

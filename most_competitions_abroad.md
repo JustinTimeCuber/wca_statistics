@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 19 July 2023*
+*Updated on 22 July 2023*
 
 | Rank | Competitions | Person |
 | :--- | ---: | :--- |
@@ -54,7 +54,7 @@
 | 48 | 59 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 49 | 58 | [Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01) |
 | 50 | 59 | [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) |
-| 51 | 76 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) |
+| 51 | 77 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) |
 | 52 | 56 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) |
 | 53 | 96 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) |
 | 54 | 43 | [Bruno Vervoort](https://www.worldcubeassociation.org/persons/2011VERV01) |
@@ -62,7 +62,7 @@
 | 56 | 55 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 57 | 43 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) |
 | 58 | 109 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
-| 59 | 132 | [Callum James Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02) |
+| 59 | 133 | [Callum James Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 60 | 47 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
 | 61 | 46 | [Francisco Hamlin](https://www.worldcubeassociation.org/persons/2012HAML01) |
 | 62 | 93 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |
@@ -96,7 +96,7 @@
 | 90 | 57 | [Glen Goh Wee Zhuan (吴洧全)](https://www.worldcubeassociation.org/persons/2015ZHUA01) |
 | 91 | 43 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
 | 92 | 49 | [Lukas Shelley](https://www.worldcubeassociation.org/persons/2016SHEL03) |
-| 93 | 45 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) |
+| 93 | 46 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) |
 | 94 | 63 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 95 | 49 | [Samuel Simko](https://www.worldcubeassociation.org/persons/2016SIMK01) |
 | 96 | 52 | [Antonio Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) |

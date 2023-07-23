@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on 19 July 2023*
+*Updated on 22 July 2023*
 
 
 ### 3x3x3 Blindfolded
@@ -69,14 +69,14 @@
 | 10 | 20 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) |
 | 11 | 19 | [Takayuki Ookusa (大艸尊之)](https://www.worldcubeassociation.org/persons/2006OOKU01) |
 | 12 | 19 | [Chi-Lun Hung (洪啟倫)](https://www.worldcubeassociation.org/persons/2010HONG01) |
-| 13 | 18 | [Kai Jiptner](https://www.worldcubeassociation.org/persons/2007JIPT01) |
-| 14 | 18 | [Steven Kearns](https://www.worldcubeassociation.org/persons/2015KEAR01) |
-| 15 | 18 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
-| 16 | 17 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
-| 17 | 16 | [Hannah Minas](https://www.worldcubeassociation.org/persons/2017MINA04) |
-| 18 | 15 | [Deni Mintsaev (Дени Минцаев)](https://www.worldcubeassociation.org/persons/2013MINT01) |
-| 19 | 15 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
-| 20 | 15 | [Keenan Johnson](https://www.worldcubeassociation.org/persons/2016JOHN30) |
+| 13 | 19 | [Jonathan Dammann](https://www.worldcubeassociation.org/persons/2021DAMM01) |
+| 14 | 18 | [Kai Jiptner](https://www.worldcubeassociation.org/persons/2007JIPT01) |
+| 15 | 18 | [Steven Kearns](https://www.worldcubeassociation.org/persons/2015KEAR01) |
+| 16 | 18 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 17 | 17 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
+| 18 | 16 | [Hannah Minas](https://www.worldcubeassociation.org/persons/2017MINA04) |
+| 19 | 15 | [Deni Mintsaev (Дени Минцаев)](https://www.worldcubeassociation.org/persons/2013MINT01) |
+| 20 | 15 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 
 ### 3x3x3 Multi-Blind
 
