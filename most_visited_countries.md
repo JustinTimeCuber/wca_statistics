@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 22 July 2023*
+*Updated on 25 July 2023*
 
 | Rank | Countries | Person |
 | :--- | ---: | :--- |
@@ -65,7 +65,7 @@
 | 59 | 21 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
 | 60 | 14 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 61 | 14 | [Sebastiano Tronto](https://www.worldcubeassociation.org/persons/2011TRON02) |
-| 62 | 15 | [Bruno Vervoort](https://www.worldcubeassociation.org/persons/2011VERV01) |
+| 62 | 16 | [Bruno Vervoort](https://www.worldcubeassociation.org/persons/2011VERV01) |
 | 63 | 13 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 64 | 16 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) |
 | 65 | 13 | [Gregor Billing](https://www.worldcubeassociation.org/persons/2012BILL01) |
@@ -95,7 +95,7 @@
 | 89 | 18 | [Hunor Mogyorósi](https://www.worldcubeassociation.org/persons/2015MOGY01) |
 | 90 | 18 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
 | 91 | 17 | [Lir Ukaj](https://www.worldcubeassociation.org/persons/2016UKAJ01) |
-| 92 | 15 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
+| 92 | 16 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 93 | 14 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 94 | 19 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
 | 95 | 19 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) |
