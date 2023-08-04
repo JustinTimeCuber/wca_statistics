@@ -1,6 +1,6 @@
 ## Longest current streak of competitions with a personal record done
 
-*Updated on 31 July 2023*
+*Updated on  3 August 2023*
 
 | Rank | Competitions | Person | Started at |
 | :--- | ---: | :--- | :--- |
@@ -42,13 +42,13 @@
 | 36 | 40 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | [Bala Big and Blind 2019](https://www.worldcubeassociation.org/competitions/BalaBigandBlind2019) |
 | 37 | 40 | [Elizabeth Cutting](https://www.worldcubeassociation.org/persons/2019CUTT01) | [Colorado Qualifier 2019](https://www.worldcubeassociation.org/competitions/ColoradoQualifier2019) |
 | 38 | 40 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | [LLS I Bełżyce 2021](https://www.worldcubeassociation.org/competitions/LLSIBelzyce2021) |
-| 39 | 39 | [Justin Barker](https://www.worldcubeassociation.org/persons/2013BARK01) | [UIUC Spring 2013](https://www.worldcubeassociation.org/competitions/UIUCSpring2013) |
-| 40 | 39 | [Samuel Knoll](https://www.worldcubeassociation.org/persons/2015KNOL01) | [US Nationals 2015](https://www.worldcubeassociation.org/competitions/USNationals2015) |
-| 41 | 39 | [Chris Van Der Brink](https://www.worldcubeassociation.org/persons/2016BRIN04) | [Heartland Champs 2018](https://www.worldcubeassociation.org/competitions/HeartlandChampionships2018) |
-| 42 | 39 | [Luca Brasini](https://www.worldcubeassociation.org/persons/2017BRAS01) | [Fiorano Open 2017](https://www.worldcubeassociation.org/competitions/FioranoOpen2017) |
-| 43 | 39 | [Alexander Tosting](https://www.worldcubeassociation.org/persons/2017TOST01) | [SSL 2 Stockholm 2017](https://www.worldcubeassociation.org/competitions/SSL2Stockholm2017) |
-| 44 | 39 | [Mattia Pasquini](https://www.worldcubeassociation.org/persons/2019PASQ01) | [Swisscubing Cup I 2019](https://www.worldcubeassociation.org/competitions/SwisscubingCupI2019) |
-| 45 | 39 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | [LLS II Biała Podlaska 2021](https://www.worldcubeassociation.org/competitions/LLSIIBialaPodlaska2021) |
+| 39 | 40 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | [LLS II Biała Podlaska 2021](https://www.worldcubeassociation.org/competitions/LLSIIBialaPodlaska2021) |
+| 40 | 39 | [Justin Barker](https://www.worldcubeassociation.org/persons/2013BARK01) | [UIUC Spring 2013](https://www.worldcubeassociation.org/competitions/UIUCSpring2013) |
+| 41 | 39 | [Samuel Knoll](https://www.worldcubeassociation.org/persons/2015KNOL01) | [US Nationals 2015](https://www.worldcubeassociation.org/competitions/USNationals2015) |
+| 42 | 39 | [Chris Van Der Brink](https://www.worldcubeassociation.org/persons/2016BRIN04) | [Heartland Champs 2018](https://www.worldcubeassociation.org/competitions/HeartlandChampionships2018) |
+| 43 | 39 | [Luca Brasini](https://www.worldcubeassociation.org/persons/2017BRAS01) | [Fiorano Open 2017](https://www.worldcubeassociation.org/competitions/FioranoOpen2017) |
+| 44 | 39 | [Alexander Tosting](https://www.worldcubeassociation.org/persons/2017TOST01) | [SSL 2 Stockholm 2017](https://www.worldcubeassociation.org/competitions/SSL2Stockholm2017) |
+| 45 | 39 | [Mattia Pasquini](https://www.worldcubeassociation.org/persons/2019PASQ01) | [Swisscubing Cup I 2019](https://www.worldcubeassociation.org/competitions/SwisscubingCupI2019) |
 | 46 | 38 | [Linus Laurén](https://www.worldcubeassociation.org/persons/2016LAUR01) | [Kirkkonummi Open 2016](https://www.worldcubeassociation.org/competitions/KirkkonummiOpen2016) |
 | 47 | 38 | [Matthew Prestwich](https://www.worldcubeassociation.org/persons/2016PRES04) | [Macclesfield Open 2016](https://www.worldcubeassociation.org/competitions/MacclesfieldOpen2016) |
 | 48 | 38 | [Dmitry Gundin](https://www.worldcubeassociation.org/persons/2016GUND05) | [MPEI Open 2016](https://www.worldcubeassociation.org/competitions/MPEIOpen2016) |

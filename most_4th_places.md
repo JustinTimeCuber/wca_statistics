@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 31 July 2023*
+*Updated on  3 August 2023*
 
 | Rank | 4th places | Person |
 | :--- | ---: | :--- |
@@ -79,14 +79,14 @@
 | 72 | 76 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) |
 | 73 | 73 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) |
 | 74 | 89 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) |
-| 75 | 79 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) |
+| 75 | 80 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) |
 | 76 | 71 | [Tommy Kiprillis](https://www.worldcubeassociation.org/persons/2014KIPR01) |
 | 77 | 64 | [Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03) |
 | 78 | 150 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 | 79 | 88 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
 | 80 | 77 | [Jared Stinson](https://www.worldcubeassociation.org/persons/2014STIN01) |
 | 81 | 87 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
-| 82 | 95 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
+| 82 | 97 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
 | 83 | 79 | [Lucas Déglise](https://www.worldcubeassociation.org/persons/2015DEGL01) |
 | 84 | 71 | [Jakob Gunnarsson](https://www.worldcubeassociation.org/persons/2015GUNN01) |
 | 85 | 124 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |

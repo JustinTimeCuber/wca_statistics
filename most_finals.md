@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 31 July 2023*
+*Updated on  3 August 2023*
 
 | Rank | Finals | Person |
 | :--- | ---: | :--- |
@@ -52,7 +52,7 @@
 | 46 | 837 | [Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02) |
 | 47 | 723 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
 | 48 | 750 | [Cendy Cahyo Rahmat](https://www.worldcubeassociation.org/persons/2010RAHM02) |
-| 49 | 1162 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
+| 49 | 1175 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 50 | 698 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
 | 51 | 885 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) |
 | 52 | 766 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
@@ -85,7 +85,7 @@
 | 79 | 1195 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 80 | 680 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) |
 | 81 | 879 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) |
-| 82 | 673 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) |
+| 82 | 683 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) |
 | 83 | 676 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) |
 | 84 | 688 | [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) |
 | 85 | 1438 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
@@ -93,10 +93,10 @@
 | 87 | 791 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) |
 | 88 | 687 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) |
 | 89 | 740 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
-| 90 | 726 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
+| 90 | 733 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
 | 91 | 671 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 92 | 1037 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
-| 93 | 691 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
+| 93 | 699 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
 | 94 | 936 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
 | 95 | 774 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
 | 96 | 880 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |

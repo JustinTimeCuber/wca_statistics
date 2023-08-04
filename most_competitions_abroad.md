@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 31 July 2023*
+*Updated on  3 August 2023*
 
 | Rank | Competitions | Person |
 | :--- | ---: | :--- |
@@ -51,7 +51,7 @@
 | 45 | 53 | [Pablo Nicolás Oshiro Mondoñedo](https://www.worldcubeassociation.org/persons/2010MOND01) |
 | 46 | 47 | [Jernej Omulec](https://www.worldcubeassociation.org/persons/2010OMUL01) |
 | 47 | 49 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
-| 48 | 59 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
+| 48 | 60 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 49 | 58 | [Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01) |
 | 50 | 60 | [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) |
 | 51 | 78 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) |
@@ -77,7 +77,7 @@
 | 71 | 44 | [Abhimanyu Singhal](https://www.worldcubeassociation.org/persons/2013SING12) |
 | 72 | 51 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 73 | 43 | [Yuyang Zhen (甄禹扬)](https://www.worldcubeassociation.org/persons/2013ZHEN11) |
-| 74 | 43 | [Jānis Zirnis](https://www.worldcubeassociation.org/persons/2013ZIRN01) |
+| 74 | 44 | [Jānis Zirnis](https://www.worldcubeassociation.org/persons/2013ZIRN01) |
 | 75 | 43 | [Billy Burier](https://www.worldcubeassociation.org/persons/2014BURI01) |
 | 76 | 83 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 77 | 48 | [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) |

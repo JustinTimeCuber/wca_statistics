@@ -1,6 +1,6 @@
 ## Longest time to achieve sub 10 3x3x3 average
 
-*Updated on 31 July 2023*
+*Updated on  3 August 2023*
 
 | Rank | Person | Years |
 | :--- | :--- | ---: |
@@ -41,8 +41,8 @@
 | 35 | [Frieder Klein](https://www.worldcubeassociation.org/persons/2013KLEI01) | 10.43 |
 | 36 | [Fubo Wang (王富博)](https://www.worldcubeassociation.org/persons/2007FUBO01) | 10.37 |
 | 37 | [Amos Tay Swee Hui](https://www.worldcubeassociation.org/persons/2009SWEE01) | 10.33 |
-| 38 | [Michael Gottlieb](https://www.worldcubeassociation.org/persons/2006GOTT01) | 10.31 |
-| 39 | [David Vannucchi](https://www.worldcubeassociation.org/persons/2012VANN01) | 10.31 |
+| 38 | [David Vannucchi](https://www.worldcubeassociation.org/persons/2012VANN01) | 10.31 |
+| 39 | [Michael Gottlieb](https://www.worldcubeassociation.org/persons/2006GOTT01) | 10.31 |
 | 40 | [Anthony Lauro](https://www.worldcubeassociation.org/persons/2012LAUR02) | 10.31 |
 | 41 | [Siddhikant Mishra](https://www.worldcubeassociation.org/persons/2012MISH01) | 10.23 |
 | 42 | [Jeremy Fleischman](https://www.worldcubeassociation.org/persons/2005FLEI01) | 10.18 |
@@ -78,8 +78,8 @@
 | 72 | [Maximilian Deimel](https://www.worldcubeassociation.org/persons/2010DEIM01) | 8.85 |
 | 73 | [Mohd Ashroof Bin Masri](https://www.worldcubeassociation.org/persons/2009MASR01) | 8.85 |
 | 74 | [Yongan Liu (刘永安)](https://www.worldcubeassociation.org/persons/2009LIUY08) | 8.82 |
-| 75 | [Carson Davis](https://www.worldcubeassociation.org/persons/2014DAVI06) | 8.76 |
-| 76 | [Alex Tedeschi](https://www.worldcubeassociation.org/persons/2014TEDE01) | 8.76 |
+| 75 | [Alex Tedeschi](https://www.worldcubeassociation.org/persons/2014TEDE01) | 8.76 |
+| 76 | [Carson Davis](https://www.worldcubeassociation.org/persons/2014DAVI06) | 8.76 |
 | 77 | [Mariano D'Imperio](https://www.worldcubeassociation.org/persons/2009DIMP01) | 8.76 |
 | 78 | [Choi Yeong-Jun](https://www.worldcubeassociation.org/persons/2013YEON01) | 8.72 |
 | 79 | [Parth Garg](https://www.worldcubeassociation.org/persons/2014GARG01) | 8.70 |
@@ -94,8 +94,8 @@
 | 88 | [Karina Grandjean Beck](https://www.worldcubeassociation.org/persons/2010BECK01) | 8.56 |
 | 89 | [Ryan McIlhenny](https://www.worldcubeassociation.org/persons/2010MCIL02) | 8.53 |
 | 90 | [Jialin Zhou](https://www.worldcubeassociation.org/persons/2013ZHOU19) | 8.51 |
-| 91 | [Amit Schori](https://www.worldcubeassociation.org/persons/2014SCHO03) | 8.49 |
-| 92 | [Sohan Dhanak](https://www.worldcubeassociation.org/persons/2014DHAN03) | 8.49 |
+| 91 | [Sohan Dhanak](https://www.worldcubeassociation.org/persons/2014DHAN03) | 8.49 |
+| 92 | [Amit Schori](https://www.worldcubeassociation.org/persons/2014SCHO03) | 8.49 |
 | 93 | [Jacob Lawty](https://www.worldcubeassociation.org/persons/2015LAWT01) | 8.47 |
 | 94 | [Tim Wong](https://www.worldcubeassociation.org/persons/2007WONG02) | 8.44 |
 | 95 | [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) | 8.43 |
