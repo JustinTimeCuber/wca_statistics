@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on  3 August 2023*
+*Updated on  6 August 2023*
 
 | Rank | 4th places | Person |
 | :--- | ---: | :--- |
@@ -67,25 +67,25 @@
 | 60 | 71 | [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) |
 | 61 | 74 | [Ivan Zabrodin](https://www.worldcubeassociation.org/persons/2012ZABR01) |
 | 62 | 90 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
-| 63 | 179 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
+| 63 | 181 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
 | 64 | 67 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) |
 | 65 | 82 | [Nicolas Gertner Kilian](https://www.worldcubeassociation.org/persons/2013GERT01) |
 | 66 | 74 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
 | 67 | 81 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
-| 68 | 64 | [Thomas Mæhle Schmidt](https://www.worldcubeassociation.org/persons/2013SCHM02) |
-| 69 | 153 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
-| 70 | 90 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
-| 71 | 76 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) |
-| 72 | 76 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) |
-| 73 | 73 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) |
-| 74 | 89 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) |
-| 75 | 80 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) |
-| 76 | 71 | [Tommy Kiprillis](https://www.worldcubeassociation.org/persons/2014KIPR01) |
-| 77 | 64 | [Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03) |
-| 78 | 150 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
-| 79 | 88 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
+| 68 | 153 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
+| 69 | 90 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
+| 70 | 76 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) |
+| 71 | 76 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) |
+| 72 | 73 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) |
+| 73 | 89 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) |
+| 74 | 80 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) |
+| 75 | 71 | [Tommy Kiprillis](https://www.worldcubeassociation.org/persons/2014KIPR01) |
+| 76 | 64 | [Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03) |
+| 77 | 150 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
+| 78 | 88 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
+| 79 | 64 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) |
 | 80 | 77 | [Jared Stinson](https://www.worldcubeassociation.org/persons/2014STIN01) |
-| 81 | 87 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
+| 81 | 90 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 82 | 97 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
 | 83 | 79 | [Lucas Déglise](https://www.worldcubeassociation.org/persons/2015DEGL01) |
 | 84 | 71 | [Jakob Gunnarsson](https://www.worldcubeassociation.org/persons/2015GUNN01) |

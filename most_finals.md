@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on  3 August 2023*
+*Updated on  6 August 2023*
 
 | Rank | Finals | Person |
 | :--- | ---: | :--- |
@@ -39,7 +39,7 @@
 | 33 | 760 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) |
 | 34 | 840 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
 | 35 | 904 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
-| 36 | 739 | [Javier Tirado Ortiz](https://www.worldcubeassociation.org/persons/2009TIRA01) |
+| 36 | 746 | [Javier Tirado Ortiz](https://www.worldcubeassociation.org/persons/2009TIRA01) |
 | 37 | 1057 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 38 | 1077 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
 | 39 | 1135 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) |
@@ -68,20 +68,20 @@
 | 62 | 1067 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 63 | 1476 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
 | 64 | 1203 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
-| 65 | 995 | [Callum James Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02) |
+| 65 | 1000 | [Callum James Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 66 | 1451 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
 | 67 | 744 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |
 | 68 | 839 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
 | 69 | 823 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) |
 | 70 | 872 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
 | 71 | 702 | [Akash Rupela](https://www.worldcubeassociation.org/persons/2012RUPE01) |
-| 72 | 875 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
-| 73 | 992 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
-| 74 | 1111 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
+| 72 | 881 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
+| 73 | 997 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
+| 74 | 1116 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
 | 75 | 669 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) |
 | 76 | 780 | [Nicolas Gertner Kilian](https://www.worldcubeassociation.org/persons/2013GERT01) |
 | 77 | 914 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
-| 78 | 1633 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
+| 78 | 1639 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 79 | 1195 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 80 | 680 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) |
 | 81 | 879 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) |
@@ -92,7 +92,7 @@
 | 86 | 779 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
 | 87 | 791 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) |
 | 88 | 687 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) |
-| 89 | 740 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
+| 89 | 745 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 90 | 733 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
 | 91 | 671 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 92 | 1037 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |

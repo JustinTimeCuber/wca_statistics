@@ -1,6 +1,6 @@
 ## Longest time to achieve sub 10 3x3x3 average
 
-*Updated on  3 August 2023*
+*Updated on  6 August 2023*
 
 | Rank | Person | Years |
 | :--- | :--- | ---: |
@@ -41,8 +41,8 @@
 | 35 | [Frieder Klein](https://www.worldcubeassociation.org/persons/2013KLEI01) | 10.43 |
 | 36 | [Fubo Wang (王富博)](https://www.worldcubeassociation.org/persons/2007FUBO01) | 10.37 |
 | 37 | [Amos Tay Swee Hui](https://www.worldcubeassociation.org/persons/2009SWEE01) | 10.33 |
-| 38 | [David Vannucchi](https://www.worldcubeassociation.org/persons/2012VANN01) | 10.31 |
-| 39 | [Michael Gottlieb](https://www.worldcubeassociation.org/persons/2006GOTT01) | 10.31 |
+| 38 | [Michael Gottlieb](https://www.worldcubeassociation.org/persons/2006GOTT01) | 10.31 |
+| 39 | [David Vannucchi](https://www.worldcubeassociation.org/persons/2012VANN01) | 10.31 |
 | 40 | [Anthony Lauro](https://www.worldcubeassociation.org/persons/2012LAUR02) | 10.31 |
 | 41 | [Siddhikant Mishra](https://www.worldcubeassociation.org/persons/2012MISH01) | 10.23 |
 | 42 | [Jeremy Fleischman](https://www.worldcubeassociation.org/persons/2005FLEI01) | 10.18 |
@@ -75,12 +75,12 @@
 | 69 | [Yueh-Lin Tsai (蔡岳霖)](https://www.worldcubeassociation.org/persons/2006TSAI03) | 8.97 |
 | 70 | [Chetan Roger Dhanjal](https://www.worldcubeassociation.org/persons/2014DHAN01) | 8.91 |
 | 71 | [Danang Adianto](https://www.worldcubeassociation.org/persons/2013DANA01) | 8.91 |
-| 72 | [Maximilian Deimel](https://www.worldcubeassociation.org/persons/2010DEIM01) | 8.85 |
-| 73 | [Mohd Ashroof Bin Masri](https://www.worldcubeassociation.org/persons/2009MASR01) | 8.85 |
+| 72 | [Mohd Ashroof Bin Masri](https://www.worldcubeassociation.org/persons/2009MASR01) | 8.85 |
+| 73 | [Maximilian Deimel](https://www.worldcubeassociation.org/persons/2010DEIM01) | 8.85 |
 | 74 | [Yongan Liu (刘永安)](https://www.worldcubeassociation.org/persons/2009LIUY08) | 8.82 |
-| 75 | [Alex Tedeschi](https://www.worldcubeassociation.org/persons/2014TEDE01) | 8.76 |
-| 76 | [Carson Davis](https://www.worldcubeassociation.org/persons/2014DAVI06) | 8.76 |
-| 77 | [Mariano D'Imperio](https://www.worldcubeassociation.org/persons/2009DIMP01) | 8.76 |
+| 75 | [Mariano D'Imperio](https://www.worldcubeassociation.org/persons/2009DIMP01) | 8.76 |
+| 76 | [Alex Tedeschi](https://www.worldcubeassociation.org/persons/2014TEDE01) | 8.76 |
+| 77 | [Carson Davis](https://www.worldcubeassociation.org/persons/2014DAVI06) | 8.76 |
 | 78 | [Choi Yeong-Jun](https://www.worldcubeassociation.org/persons/2013YEON01) | 8.72 |
 | 79 | [Parth Garg](https://www.worldcubeassociation.org/persons/2014GARG01) | 8.70 |
 | 80 | [Altanbagana Altangerel (Алтангэрэл Алтанбагана)](https://www.worldcubeassociation.org/persons/2013ALTA01) | 8.68 |
