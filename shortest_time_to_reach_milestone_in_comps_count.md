@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on  9 August 2023*
+*Updated on 14 August 2023*
 
 
 ### 100 Competitions
@@ -58,25 +58,25 @@
 | Rank | Days | Person |
 | :--- | ---: | :--- |
 | 1 | 271 | [Vishnu Sai Darshan Bhavanasi](https://www.worldcubeassociation.org/persons/2022BHAV01) |
-| 2 | 309 | [Marcus Jormin](https://www.worldcubeassociation.org/persons/2022JORM01) |
-| 3 | 334 | [Michael Amarello](https://www.worldcubeassociation.org/persons/2022AMAR09) |
-| 4 | 365 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
-| 5 | 378 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
-| 6 | 378 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
-| 7 | 386 | [Oliver Hexter](https://www.worldcubeassociation.org/persons/2022HEXT01) |
-| 8 | 392 | [Ibrahim Khanani](https://www.worldcubeassociation.org/persons/2018KHAN27) |
-| 9 | 393 | [Vincent Rylander](https://www.worldcubeassociation.org/persons/2022RYLA01) |
-| 10 | 393 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) |
-| 11 | 400 | [Paul Galioto](https://www.worldcubeassociation.org/persons/2018GALI12) |
-| 12 | 405 | [Curtis Chai](https://www.worldcubeassociation.org/persons/2022CHAI02) |
-| 13 | 408 | [Eric Ostdiek](https://www.worldcubeassociation.org/persons/2022OSTD01) |
-| 14 | 427 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
-| 15 | 428 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) |
-| 16 | 428 | [Justin Sui](https://www.worldcubeassociation.org/persons/2022SUIJ01) |
-| 17 | 434 | [Christofor Gabriel Costea](https://www.worldcubeassociation.org/persons/2022COST03) |
-| 18 | 435 | [Radosław Ciuk](https://www.worldcubeassociation.org/persons/2013CIUK01) |
-| 19 | 441 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
-| 20 | 442 | [Eliana Ozsvath](https://www.worldcubeassociation.org/persons/2022OZSV01) |
+| 2 | 274 | [August Barnard](https://www.worldcubeassociation.org/persons/2022BARN21) |
+| 3 | 309 | [Marcus Jormin](https://www.worldcubeassociation.org/persons/2022JORM01) |
+| 4 | 334 | [Michael Amarello](https://www.worldcubeassociation.org/persons/2022AMAR09) |
+| 5 | 365 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
+| 6 | 378 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
+| 7 | 378 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
+| 8 | 386 | [Oliver Hexter](https://www.worldcubeassociation.org/persons/2022HEXT01) |
+| 9 | 392 | [Ibrahim Khanani](https://www.worldcubeassociation.org/persons/2018KHAN27) |
+| 10 | 393 | [Vincent Rylander](https://www.worldcubeassociation.org/persons/2022RYLA01) |
+| 11 | 393 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) |
+| 12 | 400 | [Paul Galioto](https://www.worldcubeassociation.org/persons/2018GALI12) |
+| 13 | 405 | [Curtis Chai](https://www.worldcubeassociation.org/persons/2022CHAI02) |
+| 14 | 408 | [Eric Ostdiek](https://www.worldcubeassociation.org/persons/2022OSTD01) |
+| 15 | 427 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
+| 16 | 428 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) |
+| 17 | 428 | [Justin Sui](https://www.worldcubeassociation.org/persons/2022SUIJ01) |
+| 18 | 434 | [Christofor Gabriel Costea](https://www.worldcubeassociation.org/persons/2022COST03) |
+| 19 | 435 | [Radosław Ciuk](https://www.worldcubeassociation.org/persons/2013CIUK01) |
+| 20 | 441 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 
 ### 10 Competitions
 

@@ -1,55 +1,55 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on  9 August 2023*
+*Updated on 14 August 2023*
 
 | Rank | Country | Gold | Silver | Bronze | Total |
 | :--- | :--- | :--: | :--: | :--: | :--: |
 | 1 | Hungary | **1349** | 1130 | 966 | 3445 |
-| 2 | Germany | **917** | 891 | 902 | 2710 |
-| 3 | United States | **904** | 769 | 679 | 2352 |
+| 2 | Germany | **920** | 893 | 906 | 2719 |
+| 3 | United States | **908** | 771 | 682 | 2361 |
 | 4 | France | **833** | 714 | 606 | 2153 |
 | 5 | Netherlands | **829** | 671 | 559 | 2059 |
 | 6 | Russia | **729** | 467 | 367 | 1563 |
-| 7 | China | **548** | 502 | 452 | 1502 |
-| 8 | Poland | **511** | 352 | 267 | 1130 |
-| 9 | Malaysia | **377** | 380 | 335 | 1092 |
-| 10 | United Kingdom | **365** | 419 | 417 | 1201 |
+| 7 | China | **550** | 504 | 454 | 1508 |
+| 8 | Poland | **512** | 353 | 267 | 1132 |
+| 9 | Malaysia | **377** | 381 | 335 | 1093 |
+| 10 | United Kingdom | **366** | 420 | 417 | 1203 |
 | 11 | Canada | **352** | 350 | 379 | 1081 |
 | 12 | Denmark | **335** | 289 | 220 | 844 |
-| 13 | Sweden | **301** | 340 | 358 | 999 |
+| 13 | Sweden | **304** | 345 | 360 | 1009 |
 | 14 | Republic of Korea | **286** | 256 | 215 | 757 |
 | 15 | Australia | **286** | 131 | 90 | 507 |
-| 16 | Finland | **256** | 197 | 160 | 613 |
-| 17 | Hong Kong, China | **253** | 280 | 214 | 747 |
+| 16 | Finland | **256** | 199 | 162 | 617 |
+| 17 | Hong Kong, China | **255** | 280 | 215 | 750 |
 | 18 | India | **252** | 203 | 193 | 648 |
 | 19 | Switzerland | **249** | 331 | 280 | 860 |
 | 20 | Argentina | **209** | 156 | 129 | 494 |
 | 21 | Italy | **201** | 192 | 184 | 577 |
-| 22 | Chinese Taipei | **200** | 175 | 171 | 546 |
+| 22 | Chinese Taipei | **200** | 176 | 171 | 547 |
 | 23 | Japan | **199** | 127 | 133 | 459 |
-| 24 | Ukraine | **183** | 193 | 196 | 572 |
-| 25 | Romania | **180** | 123 | 109 | 412 |
+| 24 | Ukraine | **187** | 194 | 196 | 577 |
+| 25 | Romania | **180** | 125 | 112 | 417 |
 | 26 | Spain | **176** | 163 | 195 | 534 |
 | 27 | Indonesia | **158** | 150 | 120 | 428 |
 | 28 | Singapore | **145** | 150 | 159 | 454 |
 | 29 | Peru | **143** | 76 | 89 | 308 |
-| 30 | Ireland | **136** | 74 | 58 | 268 |
+| 30 | Ireland | **136** | 74 | 59 | 269 |
 | 31 | Slovenia | **130** | 163 | 164 | 457 |
 | 32 | Belgium | **128** | 193 | 171 | 492 |
 | 33 | Colombia | **126** | 96 | 84 | 306 |
 | 34 | Austria | **124** | 183 | 198 | 505 |
 | 35 | Latvia | **123** | 184 | 185 | 492 |
 | 36 | Greece | **119** | 144 | 106 | 369 |
-| 37 | Belarus | **108** | 68 | 78 | 254 |
+| 37 | Belarus | **108** | 69 | 78 | 255 |
 | 38 | Czech Republic | **102** | 111 | 121 | 334 |
 | 39 | Kazakhstan | **94** | 85 | 86 | 265 |
 | 40 | Thailand | **77** | 86 | 41 | 204 |
 | 41 | Lithuania | **75** | 73 | 87 | 235 |
 | 42 | Slovakia | **67** | 81 | 85 | 233 |
 | 43 | Philippines | **67** | 80 | 73 | 220 |
-| 44 | Guatemala | **55** | 37 | 41 | 133 |
-| 45 | Norway | **54** | 61 | 79 | 194 |
+| 44 | Norway | **57** | 63 | 80 | 200 |
+| 45 | Guatemala | **55** | 37 | 41 | 133 |
 | 46 | Croatia | **50** | 79 | 59 | 188 |
 | 47 | Vietnam | **50** | 68 | 59 | 177 |
 | 48 | Brazil | **42** | 52 | 35 | 129 |
@@ -66,14 +66,14 @@
 | 59 | Belize | **24** | 6 | 1 | 31 |
 | 60 | Portugal | **23** | 21 | 21 | 65 |
 | 61 | El Salvador | **21** | 24 | 19 | 64 |
-| 62 | Kyrgyzstan | **21** | 17 | 26 | 64 |
+| 62 | Kyrgyzstan | **21** | 21 | 31 | 73 |
 | 63 | Pakistan | **18** | 15 | 13 | 46 |
 | 64 | North Macedonia | **17** | 20 | 27 | 64 |
 | 65 | South Africa | **16** | 18 | 39 | 73 |
 | 66 | Serbia | **15** | 21 | 27 | 63 |
 | 67 | Nicaragua | **14** | 5 | 10 | 29 |
 | 68 | Bulgaria | **12** | 35 | 30 | 77 |
-| 69 | Mexico | **12** | 17 | 20 | 49 |
+| 69 | Mexico | **12** | 18 | 20 | 50 |
 | 70 | Tunisia | **10** | 9 | 7 | 26 |
 | 71 | Turkey | **9** | 12 | 12 | 33 |
 | 72 | Iran | **9** | 9 | 12 | 30 |
@@ -110,11 +110,12 @@
 | 103 | Togo | **0** | 1 | 5 | 6 |
 | 104 | Albania | **0** | 1 | 2 | 3 |
 | 105 | Azerbaijan | **0** | 1 | 1 | 2 |
-| 106 | Syria | **0** | 1 | 0 | 1 |
-| 107 | Côte d'Ivoire | **0** | 0 | 1 | 1 |
-| 108 | Dominican Republic | **0** | 0 | 1 | 1 |
-| 109 | Mauritius | **0** | 0 | 1 | 1 |
-| 110 | Zimbabwe | **0** | 0 | 1 | 1 |
+| 106 | Kenya | **0** | 1 | 1 | 2 |
+| 107 | Syria | **0** | 1 | 0 | 1 |
+| 108 | Côte d'Ivoire | **0** | 0 | 1 | 1 |
+| 109 | Dominican Republic | **0** | 0 | 1 | 1 |
+| 110 | Mauritius | **0** | 0 | 1 | 1 |
+| 111 | Zimbabwe | **0** | 0 | 1 | 1 |
 
 
 <a href="https://github.com/JustinTimeCuber/wca_statistics" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>

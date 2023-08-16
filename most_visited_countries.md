@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on  9 August 2023*
+*Updated on 14 August 2023*
 
 | Rank | Countries | Person |
 | :--- | ---: | :--- |
@@ -18,10 +18,10 @@
 | 12 | 26 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 13 | 26 | [Zoé de Moffarts](https://www.worldcubeassociation.org/persons/2010MOFF02) |
 | 14 | 25 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) |
-| 15 | 25 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
-| 16 | 25 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
-| 17 | 24 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
-| 18 | 24 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 15 | 25 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 16 | 25 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
+| 17 | 25 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
+| 18 | 24 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
 | 19 | 24 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 20 | 23 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
 | 21 | 22 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
@@ -57,13 +57,13 @@
 | 51 | 17 | [Lir Ukaj](https://www.worldcubeassociation.org/persons/2016UKAJ01) |
 | 52 | 17 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) |
 | 53 | 17 | [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) |
-| 54 | 17 | [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) |
-| 55 | 17 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) |
-| 56 | 17 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
-| 57 | 17 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
-| 58 | 17 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) |
-| 59 | 16 | [Bruno Vervoort](https://www.worldcubeassociation.org/persons/2011VERV01) |
-| 60 | 16 | [Jordan Crippa](https://www.worldcubeassociation.org/persons/2019CRIP01) |
+| 54 | 17 | [Jordan Crippa](https://www.worldcubeassociation.org/persons/2019CRIP01) |
+| 55 | 17 | [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) |
+| 56 | 17 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) |
+| 57 | 17 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
+| 58 | 17 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
+| 59 | 17 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) |
+| 60 | 16 | [Bruno Vervoort](https://www.worldcubeassociation.org/persons/2011VERV01) |
 | 61 | 16 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
 | 62 | 16 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) |
 | 63 | 16 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) |

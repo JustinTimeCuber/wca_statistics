@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on  9 August 2023*
+*Updated on 14 August 2023*
 
 
 ### Rubik's Cube
@@ -233,7 +233,7 @@
 
 | Rank | Person | Winned weeks |
 | :--- | :--- | ---: |
-| 1 | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | 54 |
+| 1 | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | 55 |
 | 2 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | 36 |
 | 3 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | 26 |
 | 4 | [Simon Westlund](https://www.worldcubeassociation.org/persons/2008WEST02) | 23 |
@@ -360,7 +360,7 @@
 | :--- | :--- | ---: |
 | 1 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 40 |
 | 2 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 35 |
-| 3 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 21 |
+| 3 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 22 |
 | 4 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) | 16 |
 | 5 | [Oliver Frost](https://www.worldcubeassociation.org/persons/2012FROS01) | 16 |
 | 6 | [Tom Nelson](https://www.worldcubeassociation.org/persons/2013NELS01) | 16 |

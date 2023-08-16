@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on  9 August 2023*
+*Updated on 14 August 2023*
 
 
 ### Rubik's Cube
@@ -147,12 +147,12 @@
 | 2 | 44.52 | [Hiroaki Okamoto (岡本裕陽)](https://www.worldcubeassociation.org/persons/2018OKAM01) |
 | 3 | 44.68 | [Do Hyun Kwon (권도현)](https://www.worldcubeassociation.org/persons/2018KWON01) |
 | 4 | 46.39 | [Lưu Tuấn Sơn](https://www.worldcubeassociation.org/persons/2022SONL01) |
-| 5 | 47.47 | [Tyler Gee](https://www.worldcubeassociation.org/persons/2019GEET02) |
-| 6 | 47.78 | [Ida Putu Sucita Danuartha](https://www.worldcubeassociation.org/persons/2022DANU01) |
-| 7 | 48.15 | [Matías Martínez](https://www.worldcubeassociation.org/persons/2022MART67) |
-| 8 | 48.17 | [Jingqi Zhang](https://www.worldcubeassociation.org/persons/2016ZHAJ08) |
-| 9 | 48.29 | [Lê Phùng Nguyên Khang](https://www.worldcubeassociation.org/persons/2023KHAN41) |
-| 10 | 48.83 | [Anthony Tindal](https://www.worldcubeassociation.org/persons/2022TIND01) |
+| 5 | 47.35 | [Jorge Luis Castillo Carrasco](https://www.worldcubeassociation.org/persons/2019CARR22) |
+| 6 | 47.47 | [Tyler Gee](https://www.worldcubeassociation.org/persons/2019GEET02) |
+| 7 | 47.78 | [Ida Putu Sucita Danuartha](https://www.worldcubeassociation.org/persons/2022DANU01) |
+| 8 | 48.15 | [Matías Martínez](https://www.worldcubeassociation.org/persons/2022MART67) |
+| 9 | 48.17 | [Jingqi Zhang](https://www.worldcubeassociation.org/persons/2016ZHAJ08) |
+| 10 | 48.29 | [Lê Phùng Nguyên Khang](https://www.worldcubeassociation.org/persons/2023KHAN41) |
 
 ### Pyraminx
 
