@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 14 August 2023*
+*Updated on 17 August 2023*
 
 | Rank | Finals | Person |
 | :--- | ---: | :--- |
@@ -14,7 +14,7 @@
 | 8 | 1451 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
 | 9 | 1438 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 | 10 | 1390 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
-| 11 | 1250 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
+| 11 | 1265 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 12 | 1227 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 13 | 1203 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 14 | 1196 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
@@ -37,7 +37,7 @@
 | 31 | 989 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
 | 32 | 989 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) |
 | 33 | 983 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) |
-| 34 | 945 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
+| 34 | 949 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
 | 35 | 936 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
 | 36 | 932 | [Corey Sakowski](https://www.worldcubeassociation.org/persons/2011SAKO01) |
 | 37 | 932 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
@@ -46,14 +46,14 @@
 | 40 | 908 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 41 | 904 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
 | 42 | 904 | [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) |
-| 43 | 892 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
-| 44 | 885 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) |
-| 45 | 881 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
+| 43 | 893 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
+| 44 | 892 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
+| 45 | 885 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) |
 | 46 | 879 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) |
 | 47 | 872 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
-| 48 | 851 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
-| 49 | 847 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
-| 50 | 846 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
+| 48 | 858 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
+| 49 | 851 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
+| 50 | 847 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
 | 51 | 845 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
 | 52 | 843 | [Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02) |
 | 53 | 839 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
@@ -74,12 +74,12 @@
 | 68 | 766 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
 | 69 | 760 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) |
 | 70 | 754 | [Hippolyte Moreau](https://www.worldcubeassociation.org/persons/2008MORE02) |
-| 71 | 753 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) |
-| 72 | 752 | [Ryan Jew](https://www.worldcubeassociation.org/persons/2008JEWR01) |
-| 73 | 750 | [Cendy Cahyo Rahmat](https://www.worldcubeassociation.org/persons/2010RAHM02) |
-| 74 | 747 | [Linus Frész](https://www.worldcubeassociation.org/persons/2011FRES01) |
-| 75 | 746 | [Javier Tirado Ortiz](https://www.worldcubeassociation.org/persons/2009TIRA01) |
-| 76 | 745 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
+| 71 | 753 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
+| 72 | 753 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) |
+| 73 | 752 | [Ryan Jew](https://www.worldcubeassociation.org/persons/2008JEWR01) |
+| 74 | 750 | [Cendy Cahyo Rahmat](https://www.worldcubeassociation.org/persons/2010RAHM02) |
+| 75 | 747 | [Linus Frész](https://www.worldcubeassociation.org/persons/2011FRES01) |
+| 76 | 746 | [Javier Tirado Ortiz](https://www.worldcubeassociation.org/persons/2009TIRA01) |
 | 77 | 745 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |
 | 78 | 736 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 | 79 | 733 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
@@ -88,14 +88,14 @@
 | 82 | 723 | [Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02) |
 | 83 | 720 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) |
 | 84 | 718 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) |
-| 85 | 705 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
-| 86 | 702 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
+| 85 | 705 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
+| 86 | 705 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
 | 87 | 702 | [Akash Rupela](https://www.worldcubeassociation.org/persons/2012RUPE01) |
 | 88 | 695 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) |
 | 89 | 693 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) |
 | 90 | 692 | [Yunqi Ouyang (欧阳韵奇)](https://www.worldcubeassociation.org/persons/2007YUNQ01) |
-| 91 | 690 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) |
-| 92 | 690 | [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) |
+| 91 | 690 | [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) |
+| 92 | 690 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) |
 | 93 | 687 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) |
 | 94 | 681 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) |
 | 95 | 680 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) |

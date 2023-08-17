@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 14 August 2023*
+*Updated on 17 August 2023*
 
 | Rank | Competitions | Person |
 | :--- | ---: | :--- |
@@ -84,8 +84,8 @@
 | 78 | 49 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) |
 | 79 | 48 | [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) |
 | 80 | 48 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
-| 81 | 48 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) |
-| 82 | 47 | [Jernej Omulec](https://www.worldcubeassociation.org/persons/2010OMUL01) |
+| 81 | 48 | [Jernej Omulec](https://www.worldcubeassociation.org/persons/2010OMUL01) |
+| 82 | 48 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) |
 | 83 | 47 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
 | 84 | 47 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
 | 85 | 47 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |

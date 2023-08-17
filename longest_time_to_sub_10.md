@@ -1,6 +1,6 @@
 ## Longest time to achieve sub 10 3x3x3 average
 
-*Updated on 14 August 2023*
+*Updated on 17 August 2023*
 
 | Rank | Person | Years |
 | :--- | :--- | ---: |
@@ -61,8 +61,8 @@
 | 55 | [Daniël Kassab](https://www.worldcubeassociation.org/persons/2012KASS01) | 9.58 |
 | 56 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 9.56 |
 | 57 | [Sutep Nopnatee (สุเทพ นภนที)](https://www.worldcubeassociation.org/persons/2010NOPN01) | 9.54 |
-| 58 | [Gabriel Marczak](https://www.worldcubeassociation.org/persons/2013MARC03) | 9.47 |
-| 59 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | 9.47 |
+| 58 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | 9.47 |
+| 59 | [Gabriel Marczak](https://www.worldcubeassociation.org/persons/2013MARC03) | 9.47 |
 | 60 | [Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02) | 9.45 |
 | 61 | [Evan Brown](https://www.worldcubeassociation.org/persons/2013BROW04) | 9.39 |
 | 62 | [Vegard Seim Karstang](https://www.worldcubeassociation.org/persons/2009SEIM02) | 9.33 |
@@ -70,18 +70,18 @@
 | 64 | [James Donahue](https://www.worldcubeassociation.org/persons/2010DONA01) | 9.18 |
 | 65 | [Zeqin Chen (陈泽钦)](https://www.worldcubeassociation.org/persons/2010CHEN37) | 9.16 |
 | 66 | [Eric Zhao](https://www.worldcubeassociation.org/persons/2010ZHAO19) | 9.06 |
-| 67 | [Darren Siew Ee Yaang (蕭奕暘)](https://www.worldcubeassociation.org/persons/2009SIEW01) | 9.05 |
-| 68 | [José Garrido](https://www.worldcubeassociation.org/persons/2009GARR01) | 9.05 |
+| 67 | [José Garrido](https://www.worldcubeassociation.org/persons/2009GARR01) | 9.05 |
+| 68 | [Darren Siew Ee Yaang (蕭奕暘)](https://www.worldcubeassociation.org/persons/2009SIEW01) | 9.05 |
 | 69 | [Fayyadh Aunilbarr](https://www.worldcubeassociation.org/persons/2010AUNI01) | 9.02 |
 | 70 | [Yueh-Lin Tsai (蔡岳霖)](https://www.worldcubeassociation.org/persons/2006TSAI03) | 8.97 |
 | 71 | [Chetan Roger Dhanjal](https://www.worldcubeassociation.org/persons/2014DHAN01) | 8.91 |
 | 72 | [Danang Adianto](https://www.worldcubeassociation.org/persons/2013DANA01) | 8.91 |
-| 73 | [Maximilian Deimel](https://www.worldcubeassociation.org/persons/2010DEIM01) | 8.85 |
-| 74 | [Mohd Ashroof Bin Masri](https://www.worldcubeassociation.org/persons/2009MASR01) | 8.85 |
+| 73 | [Mohd Ashroof Bin Masri](https://www.worldcubeassociation.org/persons/2009MASR01) | 8.85 |
+| 74 | [Maximilian Deimel](https://www.worldcubeassociation.org/persons/2010DEIM01) | 8.85 |
 | 75 | [Yongan Liu (刘永安)](https://www.worldcubeassociation.org/persons/2009LIUY08) | 8.82 |
 | 76 | [Alex Tedeschi](https://www.worldcubeassociation.org/persons/2014TEDE01) | 8.76 |
-| 77 | [Carson Davis](https://www.worldcubeassociation.org/persons/2014DAVI06) | 8.76 |
-| 78 | [Mariano D'Imperio](https://www.worldcubeassociation.org/persons/2009DIMP01) | 8.76 |
+| 77 | [Mariano D'Imperio](https://www.worldcubeassociation.org/persons/2009DIMP01) | 8.76 |
+| 78 | [Carson Davis](https://www.worldcubeassociation.org/persons/2014DAVI06) | 8.76 |
 | 79 | [Choi Yeong-Jun](https://www.worldcubeassociation.org/persons/2013YEON01) | 8.72 |
 | 80 | [Parth Garg](https://www.worldcubeassociation.org/persons/2014GARG01) | 8.70 |
 | 81 | [Altanbagana Altangerel (Алтангэрэл Алтанбагана)](https://www.worldcubeassociation.org/persons/2013ALTA01) | 8.68 |
@@ -99,10 +99,10 @@
 | 93 | [Amit Schori](https://www.worldcubeassociation.org/persons/2014SCHO03) | 8.49 |
 | 94 | [Jacob Lawty](https://www.worldcubeassociation.org/persons/2015LAWT01) | 8.47 |
 | 95 | [Tim Wong](https://www.worldcubeassociation.org/persons/2007WONG02) | 8.44 |
-| 96 | [Katie Wymbs](https://www.worldcubeassociation.org/persons/2015WYMB01) | 8.43 |
-| 97 | [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) | 8.43 |
-| 98 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) | 8.39 |
-| 99 | [Sebastian Nowicki](https://www.worldcubeassociation.org/persons/2014NOWI01) | 8.39 |
+| 96 | [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) | 8.43 |
+| 97 | [Katie Wymbs](https://www.worldcubeassociation.org/persons/2015WYMB01) | 8.43 |
+| 98 | [Sebastian Nowicki](https://www.worldcubeassociation.org/persons/2014NOWI01) | 8.39 |
+| 99 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) | 8.39 |
 | 100 | [Shenchuan Mao (毛神川)](https://www.worldcubeassociation.org/persons/2011MAOS01) | 8.38 |
 
 
