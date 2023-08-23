@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 20 August 2023*
+*Updated on 23 August 2023*
 
 | Rank | Countries | Person |
 | :--- | ---: | :--- |
@@ -14,10 +14,10 @@
 | 8 | 32 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
 | 9 | 27 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 10 | 27 | [Philippe Schwartz](https://www.worldcubeassociation.org/persons/2018SCHW02) |
-| 11 | 26 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
-| 12 | 26 | [Zoé de Moffarts](https://www.worldcubeassociation.org/persons/2010MOFF02) |
-| 13 | 26 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
-| 14 | 25 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 11 | 26 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 12 | 26 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
+| 13 | 26 | [Zoé de Moffarts](https://www.worldcubeassociation.org/persons/2010MOFF02) |
+| 14 | 26 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 15 | 25 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) |
 | 16 | 25 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 17 | 25 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
