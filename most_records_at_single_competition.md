@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on 26 August 2023*
+*Updated on 29 August 2023*
 
 
 ### World
@@ -11,33 +11,33 @@
 | 2 | 7 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Melbourne Summer 2011](https://www.worldcubeassociation.org/competitions/MelbourneSummer2011/results/by_person#2009ZEMD01) |
 | 3 | 6 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [World Championship 2011](https://www.worldcubeassociation.org/competitions/WC2011/results/by_person#2009ZEMD01) |
 | 4 | 6 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017/results/by_person#2009ZEMD01) |
-| 5 | 5 | [Shotaro Makisumi (牧角章太郎)](https://www.worldcubeassociation.org/persons/2003MAKI01) | [Caltech Spring 2004](https://www.worldcubeassociation.org/competitions/CaltechSpring2004/results/by_person#2003MAKI01) |
-| 6 | 5 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [Belgian Open 2008](https://www.worldcubeassociation.org/competitions/BelgianOpen2008/results/by_person#2005AKKE01) |
+| 5 | 5 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [Belgian Open 2008](https://www.worldcubeassociation.org/competitions/BelgianOpen2008/results/by_person#2005AKKE01) |
+| 6 | 5 | [Shotaro Makisumi (牧角章太郎)](https://www.worldcubeassociation.org/persons/2003MAKI01) | [Caltech Spring 2004](https://www.worldcubeassociation.org/competitions/CaltechSpring2004/results/by_person#2003MAKI01) |
 | 7 | 5 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Kubaroo Open 2011](https://www.worldcubeassociation.org/competitions/KubarooOpen2011/results/by_person#2009ZEMD01) |
 | 8 | 5 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Australian Nationals 2012](https://www.worldcubeassociation.org/competitions/AustralianNationals2012/results/by_person#2009ZEMD01) |
 | 9 | 5 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016/results/by_person#2009ZEMD01) |
-| 10 | 4 | [Chris Hardwick](https://www.worldcubeassociation.org/persons/2003HARD01) | [US Nationals 2004](https://www.worldcubeassociation.org/competitions/US2004/results/by_person#2003HARD01) |
-| 11 | 4 | [Shotaro Makisumi (牧角章太郎)](https://www.worldcubeassociation.org/persons/2003MAKI01) | [Horace Mann 2005](https://www.worldcubeassociation.org/competitions/HoraceMann2005/results/by_person#2003MAKI01) |
-| 12 | 4 | [Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01) | [Euro 2004](https://www.worldcubeassociation.org/competitions/Euro2004/results/by_person#2003POCH01) |
+| 10 | 4 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [Swedish Cube Day 2007](https://www.worldcubeassociation.org/competitions/SwedishCubeDay2007/results/by_person#2005AKKE01) |
+| 11 | 4 | [Hsuan Chang (張璿)](https://www.worldcubeassociation.org/persons/2008CHAN09) | [Taiwan Winter Open 2009](https://www.worldcubeassociation.org/competitions/TaiwanWinterOpen2009/results/by_person#2008CHAN09) |
+| 12 | 4 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | [Polish Nationals 2009](https://www.worldcubeassociation.org/competitions/Poland2009/results/by_person#2006HALC01) |
 | 13 | 4 | [Jaap Scherphuis](https://www.worldcubeassociation.org/persons/2003SCHE01) | [German Open 2004](https://www.worldcubeassociation.org/competitions/GermanOpen2004/results/by_person#2003SCHE01) |
-| 14 | 4 | [Gunnar Kantare Krig](https://www.worldcubeassociation.org/persons/2004KRIG01) | [Svekub 2005](https://www.worldcubeassociation.org/competitions/Svekub2005/results/by_person#2004KRIG01) |
-| 15 | 4 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [Swedish Cube Day 2007](https://www.worldcubeassociation.org/competitions/SwedishCubeDay2007/results/by_person#2005AKKE01) |
+| 14 | 4 | [Chris Hardwick](https://www.worldcubeassociation.org/persons/2003HARD01) | [US Nationals 2004](https://www.worldcubeassociation.org/competitions/US2004/results/by_person#2003HARD01) |
+| 15 | 4 | [Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01) | [Euro 2004](https://www.worldcubeassociation.org/competitions/Euro2004/results/by_person#2003POCH01) |
 | 16 | 4 | [Michael Fung](https://www.worldcubeassociation.org/persons/2005FUNG01) | [Dutch Open 2006](https://www.worldcubeassociation.org/competitions/DutchOpen2006/results/by_person#2005FUNG01) |
 | 17 | 4 | [Anssi Vanhala](https://www.worldcubeassociation.org/persons/2005VANH01) | [SveKub 2006](https://www.worldcubeassociation.org/competitions/Svekub2006/results/by_person#2005VANH01) |
-| 18 | 4 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | [Polish Nationals 2009](https://www.worldcubeassociation.org/competitions/Poland2009/results/by_person#2006HALC01) |
-| 19 | 4 | [Mátyás Kuti](https://www.worldcubeassociation.org/persons/2006KUTI01) | [Czech Open 2007](https://www.worldcubeassociation.org/competitions/CzechOpen2007/results/by_person#2006KUTI01) |
-| 20 | 4 | [Hsuan Chang (張璿)](https://www.worldcubeassociation.org/persons/2008CHAN09) | [Taiwan Winter Open 2009](https://www.worldcubeassociation.org/competitions/TaiwanWinterOpen2009/results/by_person#2008CHAN09) |
+| 18 | 4 | [Shotaro Makisumi (牧角章太郎)](https://www.worldcubeassociation.org/persons/2003MAKI01) | [Horace Mann 2005](https://www.worldcubeassociation.org/competitions/HoraceMann2005/results/by_person#2003MAKI01) |
+| 19 | 4 | [Gunnar Kantare Krig](https://www.worldcubeassociation.org/persons/2004KRIG01) | [Svekub 2005](https://www.worldcubeassociation.org/competitions/Svekub2005/results/by_person#2004KRIG01) |
+| 20 | 4 | [Mátyás Kuti](https://www.worldcubeassociation.org/persons/2006KUTI01) | [Czech Open 2007](https://www.worldcubeassociation.org/competitions/CzechOpen2007/results/by_person#2006KUTI01) |
 | 21 | 4 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Melbourne Winter Open 2011](https://www.worldcubeassociation.org/competitions/MelbourneWinterOpen2011/results/by_person#2009ZEMD01) |
 | 22 | 4 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Australian Nationals 2011](https://www.worldcubeassociation.org/competitions/AustralianNationals2011/results/by_person#2009ZEMD01) |
-| 23 | 4 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Australian Nationals 2013](https://www.worldcubeassociation.org/competitions/AustralianNationals2013/results/by_person#2009ZEMD01) |
-| 24 | 4 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Melbourne Cube Days 2015](https://www.worldcubeassociation.org/competitions/MelbourneCubeDay2015/results/by_person#2009ZEMD01) |
-| 25 | 4 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [London Open 2017](https://www.worldcubeassociation.org/competitions/LondonOpen2017/results/by_person#2009ZEMD01) |
-| 26 | 4 | [Lin Chen (陈霖)](https://www.worldcubeassociation.org/persons/2010CHEN20) | [Hangzhou 2012](https://www.worldcubeassociation.org/competitions/HangzhouOpen2012/results/by_person#2010CHEN20) |
-| 27 | 4 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [SacCubing IV 2018](https://www.worldcubeassociation.org/competitions/SacCubingIV2018/results/by_person#2012PARK03) |
-| 28 | 4 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Houston Winter 2020](https://www.worldcubeassociation.org/competitions/HoustonWinter2020/results/by_person#2012PARK03) |
-| 29 | 4 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Southeast Championship 2022](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2022/results/by_person#2012PARK03) |
-| 30 | 4 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | [Shanghai Winter is Coming 2016](https://www.worldcubeassociation.org/competitions/ShanghaiWinterisComing2016/results/by_person#2013LINK01) |
-| 31 | 4 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [MCC Epsilon 2019](https://www.worldcubeassociation.org/competitions/MichiganCubingClubEpsilon2019/results/by_person#2016CHAP04) |
+| 23 | 4 | [Lin Chen (陈霖)](https://www.worldcubeassociation.org/persons/2010CHEN20) | [Hangzhou 2012](https://www.worldcubeassociation.org/competitions/HangzhouOpen2012/results/by_person#2010CHEN20) |
+| 24 | 4 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Australian Nationals 2013](https://www.worldcubeassociation.org/competitions/AustralianNationals2013/results/by_person#2009ZEMD01) |
+| 25 | 4 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Melbourne Cube Days 2015](https://www.worldcubeassociation.org/competitions/MelbourneCubeDay2015/results/by_person#2009ZEMD01) |
+| 26 | 4 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | [Shanghai Winter is Coming 2016](https://www.worldcubeassociation.org/competitions/ShanghaiWinterisComing2016/results/by_person#2013LINK01) |
+| 27 | 4 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [London Open 2017](https://www.worldcubeassociation.org/competitions/LondonOpen2017/results/by_person#2009ZEMD01) |
+| 28 | 4 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [SacCubing IV 2018](https://www.worldcubeassociation.org/competitions/SacCubingIV2018/results/by_person#2012PARK03) |
+| 29 | 4 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [MCC Epsilon 2019](https://www.worldcubeassociation.org/competitions/MichiganCubingClubEpsilon2019/results/by_person#2016CHAP04) |
+| 30 | 4 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Houston Winter 2020](https://www.worldcubeassociation.org/competitions/HoustonWinter2020/results/by_person#2012PARK03) |
+| 31 | 4 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Southeast Championship 2022](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2022/results/by_person#2012PARK03) |
 
 ### Continental
 
@@ -50,15 +50,15 @@
 | 5 | 14 | [Emile Compion](https://www.worldcubeassociation.org/persons/2007COMP01) | [Toronto Open Fall 2007](https://www.worldcubeassociation.org/competitions/TorontoOpenFall2007/results/by_person#2007COMP01) |
 | 6 | 14 | [Emile Compion](https://www.worldcubeassociation.org/persons/2007COMP01) | [Canadian Open 2007](https://www.worldcubeassociation.org/competitions/CanadianOpen2007/results/by_person#2007COMP01) |
 | 7 | 13 | [Pedro Santos Guimarães](https://www.worldcubeassociation.org/persons/2007GUIM01) | [São Paulo Open 2009](https://www.worldcubeassociation.org/competitions/SaoPauloOpen2009/results/by_person#2007GUIM01) |
-| 8 | 12 | [Emile Compion](https://www.worldcubeassociation.org/persons/2007COMP01) | [Motor City Open 2009](https://www.worldcubeassociation.org/competitions/MotorCityOpen2009/results/by_person#2007COMP01) |
-| 9 | 12 | [Pedro Santos Guimarães](https://www.worldcubeassociation.org/persons/2007GUIM01) | [Minas Open 2008](https://www.worldcubeassociation.org/competitions/MinasOpen2008/results/by_person#2007GUIM01) |
+| 8 | 12 | [Pedro Santos Guimarães](https://www.worldcubeassociation.org/persons/2007GUIM01) | [Minas Open 2008](https://www.worldcubeassociation.org/competitions/MinasOpen2008/results/by_person#2007GUIM01) |
+| 9 | 12 | [Emile Compion](https://www.worldcubeassociation.org/persons/2007COMP01) | [Motor City Open 2009](https://www.worldcubeassociation.org/competitions/MotorCityOpen2009/results/by_person#2007COMP01) |
 | 10 | 12 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [New Zealand Champs 2009](https://www.worldcubeassociation.org/competitions/NewZealandChamps2009/results/by_person#2009ZEMD01) |
 | 11 | 12 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Australian Nationals 2010](https://www.worldcubeassociation.org/competitions/AustralianNationals2010/results/by_person#2009ZEMD01) |
 | 12 | 12 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Asian Championship 2010](https://www.worldcubeassociation.org/competitions/AsianChampionship2010/results/by_person#2009ZEMD01) |
 | 13 | 12 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Melbourne Cube Day 2010](https://www.worldcubeassociation.org/competitions/MelbourneCubeDay2010/results/by_person#2009ZEMD01) |
 | 14 | 12 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [World Championship 2013](https://www.worldcubeassociation.org/competitions/WC2013/results/by_person#2009ZEMD01) |
-| 15 | 11 | [Emile Compion](https://www.worldcubeassociation.org/persons/2007COMP01) | [Canadian Open 2009](https://www.worldcubeassociation.org/competitions/CanadianOpen2009/results/by_person#2007COMP01) |
-| 16 | 11 | [Joshua Li](https://www.worldcubeassociation.org/persons/2007LIJO01) | [Guangdong Open 2007](https://www.worldcubeassociation.org/competitions/GuangdongOpen2007/results/by_person#2007LIJO01) |
+| 15 | 11 | [Joshua Li](https://www.worldcubeassociation.org/persons/2007LIJO01) | [Guangdong Open 2007](https://www.worldcubeassociation.org/competitions/GuangdongOpen2007/results/by_person#2007LIJO01) |
+| 16 | 11 | [Emile Compion](https://www.worldcubeassociation.org/persons/2007COMP01) | [Canadian Open 2009](https://www.worldcubeassociation.org/competitions/CanadianOpen2009/results/by_person#2007COMP01) |
 | 17 | 11 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Melbourne Winter Open 2010](https://www.worldcubeassociation.org/competitions/MelbourneWinterOpen2010/results/by_person#2009ZEMD01) |
 | 18 | 11 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [World Championship 2011](https://www.worldcubeassociation.org/competitions/WC2011/results/by_person#2009ZEMD01) |
 | 19 | 11 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Australian Nationals 2013](https://www.worldcubeassociation.org/competitions/AustralianNationals2013/results/by_person#2009ZEMD01) |
@@ -75,11 +75,11 @@
 | 2 | 25 | [Hilmar Magnusson](https://www.worldcubeassociation.org/persons/2009MAGN02) | [Norwegian Open 2010](https://www.worldcubeassociation.org/competitions/NorwegianOpen2010/results/by_person#2009MAGN02) |
 | 3 | 25 | [Shukrullo Ibragimov](https://www.worldcubeassociation.org/persons/2017IBRA05) | [Tajikistan Open 2019](https://www.worldcubeassociation.org/competitions/TajikistanOpen2019/results/by_person#2017IBRA05) |
 | 4 | 24 | [Lucas Jacobs](https://www.worldcubeassociation.org/persons/2018JACO10) | [Canadian Championship 2019](https://www.worldcubeassociation.org/competitions/CanadianChampionship2019/results/by_person#2018JACO10) |
-| 5 | 23 | [Pablo Nicolás Oshiro Mondoñedo](https://www.worldcubeassociation.org/persons/2010MOND01) | [Castellon Open 2011](https://www.worldcubeassociation.org/competitions/CastellonOpen2011/results/by_person#2010MOND01) |
-| 6 | 23 | [Ivan Vynnyk (Іван Винник)](https://www.worldcubeassociation.org/persons/2010VYNN01) | [MPEI Open 2010](https://www.worldcubeassociation.org/competitions/MPEIOpen2010/results/by_person#2010VYNN01) |
-| 7 | 21 | [Conor Baumann](https://www.worldcubeassociation.org/persons/2009BAUM01) | [Brussels Summer Open 2009](https://www.worldcubeassociation.org/competitions/BrusselsSummerOpen2009/results/by_person#2009BAUM01) |
-| 8 | 21 | [Anatoly Kim](https://www.worldcubeassociation.org/persons/2009KIMA01) | [Russia Open 2010](https://www.worldcubeassociation.org/competitions/RussiaOpen2010/results/by_person#2009KIMA01) |
-| 9 | 21 | [Joel Spang](https://www.worldcubeassociation.org/persons/2009SPAN01) | [Brussels Summer Open 2009](https://www.worldcubeassociation.org/competitions/BrusselsSummerOpen2009/results/by_person#2009SPAN01) |
+| 5 | 23 | [Ivan Vynnyk (Іван Винник)](https://www.worldcubeassociation.org/persons/2010VYNN01) | [MPEI Open 2010](https://www.worldcubeassociation.org/competitions/MPEIOpen2010/results/by_person#2010VYNN01) |
+| 6 | 23 | [Pablo Nicolás Oshiro Mondoñedo](https://www.worldcubeassociation.org/persons/2010MOND01) | [Castellon Open 2011](https://www.worldcubeassociation.org/competitions/CastellonOpen2011/results/by_person#2010MOND01) |
+| 7 | 21 | [Joel Spang](https://www.worldcubeassociation.org/persons/2009SPAN01) | [Brussels Summer Open 2009](https://www.worldcubeassociation.org/competitions/BrusselsSummerOpen2009/results/by_person#2009SPAN01) |
+| 8 | 21 | [Conor Baumann](https://www.worldcubeassociation.org/persons/2009BAUM01) | [Brussels Summer Open 2009](https://www.worldcubeassociation.org/competitions/BrusselsSummerOpen2009/results/by_person#2009BAUM01) |
+| 9 | 21 | [Anatoly Kim](https://www.worldcubeassociation.org/persons/2009KIMA01) | [Russia Open 2010](https://www.worldcubeassociation.org/competitions/RussiaOpen2010/results/by_person#2009KIMA01) |
 | 10 | 21 | [Anup Adhikari](https://www.worldcubeassociation.org/persons/2016ADHI01) | [Indian Nationals 2017](https://www.worldcubeassociation.org/competitions/IndianNationals2017/results/by_person#2016ADHI01) |
 | 11 | 21 | [Benjamin Chetcuti Cauchi](https://www.worldcubeassociation.org/persons/2022CAUC02) | [Norwegian Championship 2022](https://www.worldcubeassociation.org/competitions/NorwegianChampionship2022/results/by_person#2022CAUC02) |
 | 12 | 20 | [Bernett Orlando](https://www.worldcubeassociation.org/persons/2006ORLA01) | [World Championship 2007](https://www.worldcubeassociation.org/competitions/WC2007/results/by_person#2006ORLA01) |
