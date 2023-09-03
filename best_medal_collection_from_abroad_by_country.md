@@ -1,17 +1,17 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on  1 September 2023*
+*Updated on  2 September 2023*
 
 | Rank | Country | Gold | Silver | Bronze | Total |
 | :--- | :--- | :--: | :--: | :--: | :--: |
-| 1 | Hungary | **1362** | 1143 | 973 | 3478 |
-| 2 | United States | **933** | 797 | 703 | 2433 |
-| 3 | Germany | **921** | 897 | 915 | 2733 |
-| 4 | France | **835** | 715 | 610 | 2160 |
+| 1 | Hungary | **1362** | 1144 | 975 | 3481 |
+| 2 | United States | **935** | 797 | 704 | 2436 |
+| 3 | Germany | **923** | 897 | 915 | 2735 |
+| 4 | France | **839** | 719 | 613 | 2171 |
 | 5 | Netherlands | **829** | 671 | 560 | 2060 |
-| 6 | Russia | **729** | 467 | 369 | 1565 |
-| 7 | China | **557** | 507 | 457 | 1521 |
+| 6 | Russia | **729** | 467 | 370 | 1566 |
+| 7 | China | **557** | 508 | 458 | 1523 |
 | 8 | Poland | **521** | 361 | 273 | 1155 |
 | 9 | Malaysia | **378** | 381 | 336 | 1095 |
 | 10 | United Kingdom | **366** | 422 | 419 | 1207 |
@@ -20,12 +20,12 @@
 | 13 | Sweden | **305** | 345 | 361 | 1011 |
 | 14 | Republic of Korea | **287** | 256 | 217 | 760 |
 | 15 | Australia | **287** | 134 | 90 | 511 |
-| 16 | India | **258** | 206 | 195 | 659 |
-| 17 | Hong Kong, China | **256** | 280 | 216 | 752 |
+| 16 | India | **260** | 206 | 195 | 661 |
+| 17 | Hong Kong, China | **258** | 280 | 216 | 754 |
 | 18 | Finland | **256** | 199 | 162 | 617 |
 | 19 | Switzerland | **250** | 335 | 281 | 866 |
 | 20 | Argentina | **209** | 158 | 132 | 499 |
-| 21 | Italy | **203** | 193 | 186 | 582 |
+| 21 | Italy | **203** | 193 | 187 | 583 |
 | 22 | Chinese Taipei | **200** | 176 | 171 | 547 |
 | 23 | Japan | **199** | 127 | 133 | 459 |
 | 24 | Ukraine | **193** | 199 | 200 | 592 |
@@ -45,7 +45,7 @@
 | 38 | Czech Republic | **102** | 111 | 121 | 334 |
 | 39 | Kazakhstan | **95** | 87 | 86 | 268 |
 | 40 | Thailand | **77** | 86 | 41 | 204 |
-| 41 | Slovakia | **75** | 82 | 88 | 245 |
+| 41 | Slovakia | **75** | 82 | 89 | 246 |
 | 42 | Lithuania | **75** | 74 | 87 | 236 |
 | 43 | Philippines | **68** | 80 | 76 | 224 |
 | 44 | Guatemala | **61** | 38 | 42 | 141 |

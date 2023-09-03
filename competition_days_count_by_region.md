@@ -1,22 +1,22 @@
 ## Competition days count by region
 
-*Updated on  1 September 2023*
+*Updated on  2 September 2023*
 
 
 ### World
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.48 | World | 10319 |
+| 1 | 1.48 | World | 10325 |
 
 ### Continents
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.75 | Europe | 3375 |
-| 2 | 1.56 | South America | 1175 |
+| 1 | 1.75 | Europe | 3379 |
+| 2 | 1.56 | South America | 1176 |
 | 3 | 1.47 | Oceania | 449 |
-| 4 | 1.41 | Asia | 2365 |
+| 4 | 1.41 | Asia | 2366 |
 | 5 | 1.25 | Africa | 114 |
 | 6 | 1.21 | North America | 2841 |
 
@@ -25,14 +25,14 @@
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
 | 1 | 2.23 | Hungary | 31 |
-| 2 | 2.10 | Czech Republic | 42 |
+| 2 | 2.07 | Czech Republic | 44 |
 | 3 | 2.06 | Kazakhstan | 35 |
 | 4 | 2.01 | Turkey | 74 |
 | 5 | 2.00 | Belize | 1 |
 | 6 | 2.00 | Liechtenstein | 3 |
 | 7 | 2.00 | Uzbekistan | 15 |
 | 8 | 1.97 | United Kingdom | 178 |
-| 9 | 1.97 | Slovakia | 29 |
+| 9 | 1.93 | Slovakia | 30 |
 | 10 | 1.93 | Belarus | 42 |
 | 11 | 1.93 | Norway | 96 |
 | 12 | 1.92 | Russia | 220 |
@@ -73,14 +73,14 @@
 | 47 | 1.60 | Netherlands | 104 |
 | 48 | 1.58 | India | 483 |
 | 49 | 1.57 | Bolivia | 96 |
-| 50 | 1.57 | Italy | 180 |
+| 50 | 1.57 | Italy | 181 |
 | 51 | 1.54 | Latvia | 24 |
 | 52 | 1.54 | Dominican Republic | 26 |
 | 53 | 1.52 | Malaysia | 75 |
 | 54 | 1.50 | Ghana | 2 |
 | 55 | 1.50 | Greece | 18 |
 | 56 | 1.50 | Nigeria | 4 |
-| 57 | 1.49 | Peru | 173 |
+| 57 | 1.49 | Peru | 174 |
 | 58 | 1.48 | Colombia | 193 |
 | 59 | 1.46 | Israel | 37 |
 | 60 | 1.45 | Costa Rica | 20 |
@@ -94,7 +94,7 @@
 | 68 | 1.38 | Estonia | 50 |
 | 69 | 1.38 | South Africa | 53 |
 | 70 | 1.35 | Paraguay | 23 |
-| 71 | 1.35 | Philippines | 230 |
+| 71 | 1.35 | Philippines | 231 |
 | 72 | 1.34 | Chinese Taipei | 124 |
 | 73 | 1.33 | Panama | 12 |
 | 74 | 1.33 | Tajikistan | 3 |
