@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on  4 September 2023*
+*Updated on  7 September 2023*
 
 
 ### Rubik's Cube
@@ -205,14 +205,14 @@
 | :--- | ---: | :--- |
 | 1 | 7.84 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) |
 | 2 | 8.09 | [Yen-An Chen (陳彥安)](https://www.worldcubeassociation.org/persons/2019CHEY31) |
-| 3 | 10.15 | [Ray Ng Qi Rui (黄启瑞)](https://www.worldcubeassociation.org/persons/2022RUIR01) |
-| 4 | 10.18 | [Brian Kan](https://www.worldcubeassociation.org/persons/2019KANB01) |
-| 5 | 10.52 | [Nikolas Palassis](https://www.worldcubeassociation.org/persons/2019PALA11) |
-| 6 | 10.59 | [David Okoro-Sokoh](https://www.worldcubeassociation.org/persons/2022OKOR01) |
-| 7 | 10.68 | [Lê Phương Thùy](https://www.worldcubeassociation.org/persons/2022THUY01) |
-| 8 | 10.87 | [Diogo Miguel Alves Guerreiro](https://www.worldcubeassociation.org/persons/2019GUER03) |
-| 9 | 11.05 | [Zhiquan Li (李志权)](https://www.worldcubeassociation.org/persons/2019LIZH07) |
-| 10 | 11.44 | [Tatsuya Kusanagi (草彅達也)](https://www.worldcubeassociation.org/persons/2018KUSA02) |
+| 3 | 8.57 | [Bo Ahn-Lewandowski](https://www.worldcubeassociation.org/persons/2020AHNL01) |
+| 4 | 10.15 | [Ray Ng Qi Rui (黄启瑞)](https://www.worldcubeassociation.org/persons/2022RUIR01) |
+| 5 | 10.18 | [Brian Kan](https://www.worldcubeassociation.org/persons/2019KANB01) |
+| 6 | 10.52 | [Nikolas Palassis](https://www.worldcubeassociation.org/persons/2019PALA11) |
+| 7 | 10.59 | [David Okoro-Sokoh](https://www.worldcubeassociation.org/persons/2022OKOR01) |
+| 8 | 10.68 | [Lê Phương Thùy](https://www.worldcubeassociation.org/persons/2022THUY01) |
+| 9 | 10.87 | [Diogo Miguel Alves Guerreiro](https://www.worldcubeassociation.org/persons/2019GUER03) |
+| 10 | 11.05 | [Zhiquan Li (李志权)](https://www.worldcubeassociation.org/persons/2019LIZH07) |
 
 ### 4x4x4 Blindfolded
 
