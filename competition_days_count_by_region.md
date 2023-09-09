@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on  7 September 2023*
+*Updated on  8 September 2023*
 
 
 ### World
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.48 | World | 10358 |
+| 1 | 1.48 | World | 10366 |
 
 ### Continents
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.75 | Europe | 3390 |
-| 2 | 1.55 | South America | 1185 |
+| 1 | 1.75 | Europe | 3392 |
+| 2 | 1.55 | South America | 1187 |
 | 3 | 1.47 | Oceania | 451 |
 | 4 | 1.41 | Asia | 2368 |
 | 5 | 1.25 | Africa | 114 |
-| 6 | 1.21 | North America | 2850 |
+| 6 | 1.21 | North America | 2854 |
 
 ### Countries
 
@@ -39,12 +39,12 @@
 | 13 | 1.91 | Iceland | 11 |
 | 14 | 1.89 | Germany | 198 |
 | 15 | 1.88 | Serbia | 17 |
-| 16 | 1.86 | Lithuania | 22 |
-| 17 | 1.86 | France | 256 |
+| 16 | 1.86 | France | 257 |
+| 17 | 1.86 | Lithuania | 22 |
 | 18 | 1.86 | Croatia | 21 |
 | 19 | 1.85 | Switzerland | 93 |
-| 20 | 1.84 | Mexico | 118 |
-| 21 | 1.84 | Spain | 291 |
+| 20 | 1.84 | Spain | 292 |
+| 21 | 1.84 | Mexico | 118 |
 | 22 | 1.82 | Finland | 111 |
 | 23 | 1.81 | Belgium | 68 |
 | 24 | 1.80 | Bosnia and Herzegovina | 10 |
@@ -80,7 +80,7 @@
 | 54 | 1.52 | Malaysia | 75 |
 | 55 | 1.50 | Ghana | 2 |
 | 56 | 1.50 | Nigeria | 4 |
-| 57 | 1.49 | Peru | 174 |
+| 57 | 1.50 | Peru | 175 |
 | 58 | 1.47 | Colombia | 195 |
 | 59 | 1.45 | Costa Rica | 20 |
 | 60 | 1.45 | Romania | 89 |
@@ -90,9 +90,9 @@
 | 64 | 1.39 | Nepal | 18 |
 | 65 | 1.38 | Jordan | 13 |
 | 66 | 1.38 | Singapore | 39 |
-| 67 | 1.38 | Ecuador | 34 |
-| 68 | 1.38 | Estonia | 50 |
-| 69 | 1.38 | South Africa | 53 |
+| 67 | 1.38 | Estonia | 50 |
+| 68 | 1.38 | South Africa | 53 |
+| 69 | 1.37 | Ecuador | 35 |
 | 70 | 1.35 | Paraguay | 23 |
 | 71 | 1.34 | Philippines | 232 |
 | 72 | 1.34 | Chinese Taipei | 124 |
@@ -115,7 +115,7 @@
 | 89 | 1.17 | Andorra | 6 |
 | 90 | 1.17 | Morocco | 6 |
 | 91 | 1.17 | Tunisia | 24 |
-| 92 | 1.16 | United States | 2275 |
+| 92 | 1.16 | United States | 2279 |
 | 93 | 1.16 | Canada | 299 |
 | 94 | 1.13 | Honduras | 15 |
 | 95 | 1.12 | Azerbaijan | 41 |
