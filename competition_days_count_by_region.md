@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on  8 September 2023*
+*Updated on 10 September 2023*
 
 
 ### World
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.48 | World | 10366 |
+| 1 | 1.48 | World | 10373 |
 
 ### Continents
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.75 | Europe | 3392 |
-| 2 | 1.55 | South America | 1187 |
+| 1 | 1.75 | Europe | 3396 |
+| 2 | 1.55 | South America | 1189 |
 | 3 | 1.47 | Oceania | 451 |
 | 4 | 1.41 | Asia | 2368 |
 | 5 | 1.25 | Africa | 114 |
-| 6 | 1.21 | North America | 2854 |
+| 6 | 1.21 | North America | 2855 |
 
 ### Countries
 
@@ -54,8 +54,8 @@
 | 28 | 1.75 | Austria | 24 |
 | 29 | 1.75 | Palestine | 4 |
 | 30 | 1.75 | Sri Lanka | 4 |
-| 31 | 1.74 | Slovenia | 27 |
-| 32 | 1.74 | Argentina | 69 |
+| 31 | 1.74 | Argentina | 70 |
+| 32 | 1.74 | Slovenia | 27 |
 | 33 | 1.71 | Denmark | 134 |
 | 34 | 1.70 | Ukraine | 117 |
 | 35 | 1.68 | Poland | 382 |
@@ -66,10 +66,10 @@
 | 40 | 1.67 | North Macedonia | 6 |
 | 41 | 1.67 | San Marino | 6 |
 | 42 | 1.64 | Bangladesh | 11 |
-| 43 | 1.62 | Ireland | 42 |
+| 43 | 1.63 | Ireland | 43 |
 | 44 | 1.62 | New Zealand | 89 |
-| 45 | 1.61 | Sweden | 201 |
-| 46 | 1.61 | Indonesia | 193 |
+| 45 | 1.61 | Indonesia | 193 |
+| 46 | 1.61 | Sweden | 203 |
 | 47 | 1.60 | Netherlands | 104 |
 | 48 | 1.58 | India | 483 |
 | 49 | 1.57 | Italy | 181 |
@@ -81,7 +81,7 @@
 | 55 | 1.50 | Ghana | 2 |
 | 56 | 1.50 | Nigeria | 4 |
 | 57 | 1.50 | Peru | 175 |
-| 58 | 1.47 | Colombia | 195 |
+| 58 | 1.47 | Colombia | 196 |
 | 59 | 1.45 | Costa Rica | 20 |
 | 60 | 1.45 | Romania | 89 |
 | 61 | 1.45 | Israel | 38 |
@@ -115,11 +115,11 @@
 | 89 | 1.17 | Andorra | 6 |
 | 90 | 1.17 | Morocco | 6 |
 | 91 | 1.17 | Tunisia | 24 |
-| 92 | 1.16 | United States | 2279 |
+| 92 | 1.16 | United States | 2280 |
 | 93 | 1.16 | Canada | 299 |
 | 94 | 1.13 | Honduras | 15 |
 | 95 | 1.12 | Azerbaijan | 41 |
-| 96 | 1.05 | Georgia | 22 |
+| 96 | 1.04 | Georgia | 23 |
 | 97 | 1.00 | Albania | 3 |
 | 98 | 1.00 | Algeria | 9 |
 | 99 | 1.00 | Angola | 1 |
