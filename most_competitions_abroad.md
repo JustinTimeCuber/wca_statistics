@@ -1,15 +1,15 @@
 ## Most competitions abroad
 
-*Updated on 12 September 2023*
+*Updated on 16 September 2023*
 
 | Rank | Competitions | Person |
 | :--- | ---: | :--- |
-| 1 | 169 | [Maria Oey](https://www.worldcubeassociation.org/persons/2007OEYM01) |
+| 1 | 170 | [Maria Oey](https://www.worldcubeassociation.org/persons/2007OEYM01) |
 | 2 | 159 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 3 | 139 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
 | 4 | 138 | [Callum James Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 5 | 123 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
-| 6 | 122 | [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) |
+| 6 | 123 | [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) |
 | 7 | 120 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 8 | 117 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
 | 9 | 111 | [Ioannis Papadopoulos](https://www.worldcubeassociation.org/persons/2013PAPA01) |
@@ -28,11 +28,11 @@
 | 22 | 86 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 23 | 86 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |
 | 24 | 85 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
-| 25 | 84 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
+| 25 | 85 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
 | 26 | 80 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) |
 | 27 | 79 | [Thomas Mæhle Schmidt](https://www.worldcubeassociation.org/persons/2013SCHM02) |
-| 28 | 79 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
-| 29 | 78 | [Saransh Grover](https://www.worldcubeassociation.org/persons/2014GROV01) |
+| 28 | 79 | [Saransh Grover](https://www.worldcubeassociation.org/persons/2014GROV01) |
+| 29 | 79 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
 | 30 | 74 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 | 31 | 73 | [Sanio Kasumovic](https://www.worldcubeassociation.org/persons/2009KASU01) |
 | 32 | 73 | [Chan Tak Chuen (陳德泉)](https://www.worldcubeassociation.org/persons/2007CHUE01) |
@@ -56,12 +56,12 @@
 | 50 | 60 | [Danny Sungin Park](https://www.worldcubeassociation.org/persons/2015PARK13) |
 | 51 | 60 | [Anders Larsson](https://www.worldcubeassociation.org/persons/2003LARS01) |
 | 52 | 59 | [Mok Man Kit (莫文傑)](https://www.worldcubeassociation.org/persons/2009KITM01) |
-| 53 | 59 | [Yulia Gritsenko](https://www.worldcubeassociation.org/persons/2012SIDO01) |
-| 54 | 58 | [Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01) |
-| 55 | 58 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) |
-| 56 | 57 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) |
-| 57 | 57 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
-| 58 | 57 | [Antonio Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) |
+| 53 | 59 | [Antonio Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) |
+| 54 | 59 | [Yulia Gritsenko](https://www.worldcubeassociation.org/persons/2012SIDO01) |
+| 55 | 58 | [Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01) |
+| 56 | 58 | [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) |
+| 57 | 57 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) |
+| 58 | 57 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 59 | 56 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) |
 | 60 | 56 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 61 | 55 | [Pablo Nicolás Oshiro Mondoñedo](https://www.worldcubeassociation.org/persons/2010MOND01) |
