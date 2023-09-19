@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 16 September 2023*
+*Updated on 19 September 2023*
 
 | Rank | Days | Person |
 | :--- | ---: | :--- |
@@ -358,7 +358,7 @@
 | 351 | 2275 | [Jan Fonš](https://www.worldcubeassociation.org/persons/2017FONS04) |
 | 352 | 2282 | [Timothy Castle](https://www.worldcubeassociation.org/persons/2016CAST48) |
 | 353 | 2310 | [Jacob Posner](https://www.worldcubeassociation.org/persons/2010POSN02) |
-| 354 | 2317 | [Jareth Soong](https://www.worldcubeassociation.org/persons/2016SOON01) |
+| 354 | 2317 | [Jareth Soong Ying Rui (宋颖锐)](https://www.worldcubeassociation.org/persons/2016SOON01) |
 | 355 | 2323 | [Can Mao (毛灿)](https://www.worldcubeassociation.org/persons/2010MAOC01) |
 | 356 | 2323 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) |
 | 357 | 2351 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) |

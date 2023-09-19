@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 16 September 2023*
+*Updated on 19 September 2023*
 
 
 ### Rubik's Cube
@@ -218,16 +218,16 @@
 
 | Rank | Diff | Person | Single | Average | Results |
 | :--- | ---: | :--- | ---: | ---: | :--- |
-| 1 | 4.13 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 4:17.98 | 4:22.11 | [Cambridge Side Events 2023](https://www.worldcubeassociation.org/competitions/CambridgeSideEventsWinter2023/results/by_person#2019ECKE02) |
-| 2 | 5.54 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | 3:56.51 | 4:02.05 | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/by_person#2016SIGG01) |
-| 3 | 6.01 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 2:21.62 | 2:27.63 | [MCC Epsilon 2019](https://www.worldcubeassociation.org/competitions/MichiganCubingClubEpsilon2019/results/by_person#2016CHAP04) |
-| 4 | 7.02 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 6:53.15 | 7:00.17 | [Kidderminster - BBO 2022](https://www.worldcubeassociation.org/competitions/KidderminsterBlindOff2022/results/by_person#2019HIRS01) |
-| 5 | 7.78 | [Shenghai Fang (方胜海)](https://www.worldcubeassociation.org/persons/2016FANG01) | 8:41.99 | 8:49.77 | [Hefei Summer 2019](https://www.worldcubeassociation.org/competitions/HefeiSummer2019/results/by_person#2016FANG01) |
-| 6 | 8.15 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 3:46.56 | 3:54.71 | [Singapore Championship 2018](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2018/results/by_person#2013LINK01) |
-| 7 | 9.79 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 4:00.56 | 4:10.35 | [Wakefield Spring 2023](https://www.worldcubeassociation.org/competitions/WakefieldSpring2023/results/by_person#2019ECKE02) |
-| 8 | 10.00 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) | 13:26.00 | 13:36.00 | [Oculus Cube Open 2023](https://www.worldcubeassociation.org/competitions/OculusCubeOpen2023/results/by_person#2011BANS02) |
-| 9 | 10.05 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 2:39.12 | 2:49.17 | [Selangor Cube Open 2019](https://www.worldcubeassociation.org/competitions/SelangorCubeOpen2019/results/by_person#2013LINK01) |
-| 10 | 11.00 | [Anthony Lauro](https://www.worldcubeassociation.org/persons/2012LAUR02) | 13:45.00 | 13:56.00 | [Blind Is Back LA 2022](https://www.worldcubeassociation.org/competitions/BlindIsBackLA2022/results/by_person#2012LAUR02) |
+| 1 | 2.89 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | 3:51.73 | 3:54.62 | [SacQuiet Fall 2023](https://www.worldcubeassociation.org/competitions/SacQuietFall2023/results/by_person#2016SIGG01) |
+| 2 | 4.13 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 4:17.98 | 4:22.11 | [Cambridge Side Events 2023](https://www.worldcubeassociation.org/competitions/CambridgeSideEventsWinter2023/results/by_person#2019ECKE02) |
+| 3 | 5.54 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) | 3:56.51 | 4:02.05 | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/by_person#2016SIGG01) |
+| 4 | 6.01 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 2:21.62 | 2:27.63 | [MCC Epsilon 2019](https://www.worldcubeassociation.org/competitions/MichiganCubingClubEpsilon2019/results/by_person#2016CHAP04) |
+| 5 | 7.02 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 6:53.15 | 7:00.17 | [Kidderminster - BBO 2022](https://www.worldcubeassociation.org/competitions/KidderminsterBlindOff2022/results/by_person#2019HIRS01) |
+| 6 | 7.78 | [Shenghai Fang (方胜海)](https://www.worldcubeassociation.org/persons/2016FANG01) | 8:41.99 | 8:49.77 | [Hefei Summer 2019](https://www.worldcubeassociation.org/competitions/HefeiSummer2019/results/by_person#2016FANG01) |
+| 7 | 8.15 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 3:46.56 | 3:54.71 | [Singapore Championship 2018](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2018/results/by_person#2013LINK01) |
+| 8 | 9.79 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 4:00.56 | 4:10.35 | [Wakefield Spring 2023](https://www.worldcubeassociation.org/competitions/WakefieldSpring2023/results/by_person#2019ECKE02) |
+| 9 | 10.00 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) | 13:26.00 | 13:36.00 | [Oculus Cube Open 2023](https://www.worldcubeassociation.org/competitions/OculusCubeOpen2023/results/by_person#2011BANS02) |
+| 10 | 10.05 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | 2:39.12 | 2:49.17 | [Selangor Cube Open 2019](https://www.worldcubeassociation.org/competitions/SelangorCubeOpen2019/results/by_person#2013LINK01) |
 
 ### 3x3x3 With Feet
 

@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 16 September 2023*
+*Updated on 19 September 2023*
 
 
 ### Rubik's Cube
@@ -83,15 +83,15 @@
 | Rank | Counting | Peson | Competition |
 | :--- | ---: | :--- | :--- |
 | 1 | 25.35 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Singapore Max 2023](https://www.worldcubeassociation.org/competitions/SingaporeMax2023/results/by_person#2016YONG02) |
-| 2 | 25.69 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Jaqueca Di Tella 2023](https://www.worldcubeassociation.org/competitions/JaquecaDiTella2023/results/by_person#2018LOPE22) |
-| 3 | 26.29 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Berisso al Cubo 2023](https://www.worldcubeassociation.org/competitions/BerissoAlCubo2023/results/by_person#2018LOPE22) |
-| 4 | 26.31 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Nacionales Argentinas 2023](https://www.worldcubeassociation.org/competitions/NacionalesArgentinas2023/results/by_person#2018LOPE22) |
-| 5 | 26.49 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Di Tella Open v2 2023](https://www.worldcubeassociation.org/competitions/DiTellaOpenv22023/results/by_person#2018LOPE22) |
-| 6 | 26.55 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Nacionales Argentinas 2023](https://www.worldcubeassociation.org/competitions/NacionalesArgentinas2023/results/by_person#2018LOPE22) |
-| 7 | 27.07 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Berisso al Cubo 2023](https://www.worldcubeassociation.org/competitions/BerissoAlCubo2023/results/by_person#2018LOPE22) |
-| 8 | 27.20 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Santa Fe Cubea 2023](https://www.worldcubeassociation.org/competitions/SantaFeCubea2023/results/by_person#2018LOPE22) |
-| 9 | 27.22 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Santa Fe Cubea 2023](https://www.worldcubeassociation.org/competitions/SantaFeCubea2023/results/by_person#2018LOPE22) |
-| 10 | 27.26 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Cariló Open 2022](https://www.worldcubeassociation.org/competitions/CariloOpen2022/results/by_person#2018LOPE22) |
+| 2 | 25.57 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Johor Big Cube Challenge 2023](https://www.worldcubeassociation.org/competitions/JohorBigCubeChallenge2023/results/by_person#2016YONG02) |
+| 3 | 25.69 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Jaqueca Di Tella 2023](https://www.worldcubeassociation.org/competitions/JaquecaDiTella2023/results/by_person#2018LOPE22) |
+| 4 | 25.79 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Johor Big Cube Challenge 2023](https://www.worldcubeassociation.org/competitions/JohorBigCubeChallenge2023/results/by_person#2016YONG02) |
+| 5 | 26.29 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Berisso al Cubo 2023](https://www.worldcubeassociation.org/competitions/BerissoAlCubo2023/results/by_person#2018LOPE22) |
+| 6 | 26.31 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Nacionales Argentinas 2023](https://www.worldcubeassociation.org/competitions/NacionalesArgentinas2023/results/by_person#2018LOPE22) |
+| 7 | 26.49 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Di Tella Open v2 2023](https://www.worldcubeassociation.org/competitions/DiTellaOpenv22023/results/by_person#2018LOPE22) |
+| 8 | 26.55 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Nacionales Argentinas 2023](https://www.worldcubeassociation.org/competitions/NacionalesArgentinas2023/results/by_person#2018LOPE22) |
+| 9 | 27.07 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Berisso al Cubo 2023](https://www.worldcubeassociation.org/competitions/BerissoAlCubo2023/results/by_person#2018LOPE22) |
+| 10 | 27.20 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Santa Fe Cubea 2023](https://www.worldcubeassociation.org/competitions/SantaFeCubea2023/results/by_person#2018LOPE22) |
 
 ### Pyraminx
 

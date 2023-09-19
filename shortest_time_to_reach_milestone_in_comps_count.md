@@ -1,32 +1,32 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 16 September 2023*
+*Updated on 19 September 2023*
 
 
 ### 100 Competitions
 
 | Rank | Days | Person |
 | :--- | ---: | :--- |
-| 1 | 883 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
-| 2 | 1646 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
-| 3 | 1646 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
-| 4 | 1701 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
+| 1 | 764 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
+| 2 | 883 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 3 | 1646 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
+| 4 | 1646 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 5 | 1701 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
-| 6 | 1744 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
-| 7 | 1918 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
-| 8 | 2010 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
-| 9 | 2038 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
-| 10 | 2080 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
-| 11 | 2085 | [Livia Kleiner](https://www.worldcubeassociation.org/persons/2013KLEI03) |
-| 12 | 2115 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) |
-| 13 | 2186 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) |
-| 14 | 2192 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) |
-| 15 | 2218 | [Zijia Feng (冯子甲)](https://www.worldcubeassociation.org/persons/2013FENG02) |
-| 16 | 2241 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
-| 17 | 2259 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
-| 18 | 2267 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
-| 19 | 2276 | [Catalina Herrera López](https://www.worldcubeassociation.org/persons/2017LOPE31) |
-| 20 | 2297 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
+| 6 | 1701 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
+| 7 | 1744 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
+| 8 | 1918 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
+| 9 | 2010 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| 10 | 2038 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
+| 11 | 2080 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
+| 12 | 2085 | [Livia Kleiner](https://www.worldcubeassociation.org/persons/2013KLEI03) |
+| 13 | 2115 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) |
+| 14 | 2186 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) |
+| 15 | 2192 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) |
+| 16 | 2218 | [Zijia Feng (冯子甲)](https://www.worldcubeassociation.org/persons/2013FENG02) |
+| 17 | 2241 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
+| 18 | 2259 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
+| 19 | 2267 | [Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01) |
+| 20 | 2276 | [Catalina Herrera López](https://www.worldcubeassociation.org/persons/2017LOPE31) |
 
 ### 50 Competitions
 
@@ -65,8 +65,8 @@
 | 6 | 365 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
 | 7 | 372 | [Nina Ozsvath](https://www.worldcubeassociation.org/persons/2022OZSV03) |
 | 8 | 372 | [Tamar Ozsvath](https://www.worldcubeassociation.org/persons/2022OZSV04) |
-| 9 | 378 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
-| 10 | 378 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
+| 9 | 378 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
+| 10 | 378 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
 | 11 | 386 | [Oliver Hexter](https://www.worldcubeassociation.org/persons/2022HEXT01) |
 | 12 | 392 | [Ibrahim Khanani](https://www.worldcubeassociation.org/persons/2018KHAN27) |
 | 13 | 393 | [Vincent Rylander](https://www.worldcubeassociation.org/persons/2022RYLA01) |
@@ -97,11 +97,11 @@
 | 13 | 148 | [Paul Galioto](https://www.worldcubeassociation.org/persons/2018GALI12) |
 | 14 | 148 | [Agastya Kora](https://www.worldcubeassociation.org/persons/2023KORA01) |
 | 15 | 148 | [Ashrith Kora](https://www.worldcubeassociation.org/persons/2023KORA02) |
-| 16 | 154 | [Carson Clark](https://www.worldcubeassociation.org/persons/2023CLAR02) |
-| 17 | 155 | [Radosław Ciuk](https://www.worldcubeassociation.org/persons/2013CIUK01) |
-| 18 | 155 | [Diego Alfonso](https://www.worldcubeassociation.org/persons/2018ALFO01) |
-| 19 | 155 | [Dongsheng Zeng (曾东生)](https://www.worldcubeassociation.org/persons/2020ZENG03) |
-| 20 | 155 | [Yuetong Zhu (朱玥曈)](https://www.worldcubeassociation.org/persons/2020ZHUY01) |
+| 16 | 149 | [Rahul Bollini](https://www.worldcubeassociation.org/persons/2023BOLL01) |
+| 17 | 154 | [Carson Clark](https://www.worldcubeassociation.org/persons/2023CLAR02) |
+| 18 | 155 | [Radosław Ciuk](https://www.worldcubeassociation.org/persons/2013CIUK01) |
+| 19 | 155 | [Diego Alfonso](https://www.worldcubeassociation.org/persons/2018ALFO01) |
+| 20 | 155 | [Dongsheng Zeng (曾东生)](https://www.worldcubeassociation.org/persons/2020ZENG03) |
 
 ### 5 Competitions
 

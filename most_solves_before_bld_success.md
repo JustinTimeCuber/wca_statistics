@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on 16 September 2023*
+*Updated on 19 September 2023*
 
 
 ### 3x3x3 Blindfolded
@@ -40,18 +40,18 @@
 | 6 | 25 | [Lucas Garron](https://www.worldcubeassociation.org/persons/2006GARR01) |
 | 7 | 25 | [AJ Blair](https://www.worldcubeassociation.org/persons/2009BLAI01) |
 | 8 | 24 | [Vinit Nalhe](https://www.worldcubeassociation.org/persons/2012NALH01) |
-| 9 | 23 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
-| 10 | 22 | [Ben Baron](https://www.worldcubeassociation.org/persons/2016BARO04) |
-| 11 | 21 | [Dan Cohen](https://www.worldcubeassociation.org/persons/2007COHE01) |
-| 12 | 20 | [Joel Ulin](https://www.worldcubeassociation.org/persons/2011ULIN01) |
-| 13 | 19 | [Jeff Park](https://www.worldcubeassociation.org/persons/2015PARK08) |
-| 14 | 19 | [Jacob Oliver Bruun](https://www.worldcubeassociation.org/persons/2018BRUU01) |
-| 15 | 19 | [Timothy Castle](https://www.worldcubeassociation.org/persons/2016CAST48) |
-| 16 | 19 | [Jacob Turrubiartes](https://www.worldcubeassociation.org/persons/2018TURR01) |
-| 17 | 18 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
-| 18 | 18 | [Chris Wall](https://www.worldcubeassociation.org/persons/2011WALL02) |
-| 19 | 18 | [Keenan Johnson](https://www.worldcubeassociation.org/persons/2016JOHN30) |
-| 20 | 18 | [Damian Wilding](https://www.worldcubeassociation.org/persons/2014WILD03) |
+| 9 | 24 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) |
+| 10 | 23 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
+| 11 | 22 | [Ben Baron](https://www.worldcubeassociation.org/persons/2016BARO04) |
+| 12 | 21 | [Dan Cohen](https://www.worldcubeassociation.org/persons/2007COHE01) |
+| 13 | 20 | [Joel Ulin](https://www.worldcubeassociation.org/persons/2011ULIN01) |
+| 14 | 19 | [Jeff Park](https://www.worldcubeassociation.org/persons/2015PARK08) |
+| 15 | 19 | [Jacob Oliver Bruun](https://www.worldcubeassociation.org/persons/2018BRUU01) |
+| 16 | 19 | [Timothy Castle](https://www.worldcubeassociation.org/persons/2016CAST48) |
+| 17 | 19 | [Jacob Turrubiartes](https://www.worldcubeassociation.org/persons/2018TURR01) |
+| 18 | 18 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
+| 19 | 18 | [Chris Wall](https://www.worldcubeassociation.org/persons/2011WALL02) |
+| 20 | 18 | [Keenan Johnson](https://www.worldcubeassociation.org/persons/2016JOHN30) |
 
 ### 5x5x5 Blindfolded
 
