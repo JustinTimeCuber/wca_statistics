@@ -1,6 +1,6 @@
 ## Competitions per year by country
 
-*Updated on 22 September 2023*
+*Updated on 23 September 2023*
 
 | Rank | Competitions per year | Competitions | Years | Country |
 | :--- | ---: | ---: | ---: | :--- |
