@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 25 September 2023*
+*Updated on 28 September 2023*
 
 | Rank | 4th places | Person |
 | :--- | ---: | :--- |
@@ -22,7 +22,7 @@
 | 15 | 118 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
 | 16 | 118 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 17 | 117 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) |
-| 18 | 111 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
+| 18 | 112 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 19 | 111 | [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) |
 | 20 | 107 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 21 | 104 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) |
@@ -57,9 +57,9 @@
 | 50 | 82 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) |
 | 51 | 82 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) |
 | 52 | 82 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
-| 53 | 81 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) |
-| 54 | 81 | [Lucas Déglise](https://www.worldcubeassociation.org/persons/2015DEGL01) |
-| 55 | 80 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) |
+| 53 | 81 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) |
+| 54 | 81 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) |
+| 55 | 81 | [Lucas Déglise](https://www.worldcubeassociation.org/persons/2015DEGL01) |
 | 56 | 80 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) |
 | 57 | 79 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
 | 58 | 79 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
@@ -68,9 +68,9 @@
 | 61 | 79 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) |
 | 62 | 78 | [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) |
 | 63 | 78 | [Nathan Dwyer](https://www.worldcubeassociation.org/persons/2011DWYE02) |
-| 64 | 77 | [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) |
-| 65 | 77 | [Jared Stinson](https://www.worldcubeassociation.org/persons/2014STIN01) |
-| 66 | 76 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
+| 64 | 77 | [Jared Stinson](https://www.worldcubeassociation.org/persons/2014STIN01) |
+| 65 | 77 | [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) |
+| 66 | 77 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
 | 67 | 76 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) |
 | 68 | 76 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
 | 69 | 76 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) |
@@ -99,8 +99,8 @@
 | 92 | 69 | [Nikhil Soares](https://www.worldcubeassociation.org/persons/2015SOAR01) |
 | 93 | 68 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) |
 | 94 | 67 | [Rodrigo Ugarte](https://www.worldcubeassociation.org/persons/2015UGAR01) |
-| 95 | 66 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
-| 96 | 65 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) |
+| 95 | 66 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) |
+| 96 | 66 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
 | 97 | 65 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) |
 | 98 | 65 | [Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03) |
 | 99 | 65 | [John Brechon](https://www.worldcubeassociation.org/persons/2010BREC01) |

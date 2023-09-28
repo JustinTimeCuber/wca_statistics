@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 25 September 2023*
+*Updated on 28 September 2023*
 
 | Rank | WRs | Person |
 | :--- | ---: | :--- |
@@ -95,38 +95,38 @@
 | 89 | 3 | [Dennis Strehlau](https://www.worldcubeassociation.org/persons/2007STRE01) |
 | 90 | 3 | [Dror Vomberg](https://www.worldcubeassociation.org/persons/2003VOMB01) |
 | 91 | 3 | [Ernie Pulchny](https://www.worldcubeassociation.org/persons/2010PULC01) |
-| 92 | 3 | [Gianfranco Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN29) |
-| 93 | 3 | [Giovanni Contardi](https://www.worldcubeassociation.org/persons/2009CONT01) |
-| 94 | 3 | [Haixu Zhang (张海旭)](https://www.worldcubeassociation.org/persons/2008ZHAN06) |
-| 95 | 3 | [Jack Cai](https://www.worldcubeassociation.org/persons/2014CAIJ02) |
-| 96 | 3 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) |
-| 97 | 3 | [Kåre Krig](https://www.worldcubeassociation.org/persons/2004KRIG02) |
-| 98 | 3 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) |
-| 99 | 3 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
-| 100 | 3 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) |
-| 101 | 3 | [Rafał Guzewicz](https://www.worldcubeassociation.org/persons/2006GUZE01) |
-| 102 | 3 | [Rama Temmink](https://www.worldcubeassociation.org/persons/2006TEMM01) |
-| 103 | 3 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
-| 104 | 3 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) |
-| 105 | 3 | [Sebastiano Tronto](https://www.worldcubeassociation.org/persons/2011TRON02) |
-| 106 | 3 | [Tairan Zhong (钟泰然)](https://www.worldcubeassociation.org/persons/2013ZHON04) |
-| 107 | 3 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) |
-| 108 | 3 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
-| 109 | 3 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
-| 110 | 3 | [Yu Sajima (佐島優)](https://www.worldcubeassociation.org/persons/2008SAJI01) |
-| 111 | 2 | [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) |
-| 112 | 2 | [Brandon Harnish](https://www.worldcubeassociation.org/persons/2009HARN01) |
-| 113 | 2 | [Brúnó Bereczki](https://www.worldcubeassociation.org/persons/2008BERE01) |
-| 114 | 2 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
-| 115 | 2 | [Chang Jee-Hoon](https://www.worldcubeassociation.org/persons/2007JEEH01) |
-| 116 | 2 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) |
-| 117 | 2 | [Chester Lian](https://www.worldcubeassociation.org/persons/2009LIAN03) |
-| 118 | 2 | [Dan Dzoan](https://www.worldcubeassociation.org/persons/2006DZOA03) |
-| 119 | 2 | [Dan Knights](https://www.worldcubeassociation.org/persons/2003KNIG01) |
-| 120 | 2 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) |
-| 121 | 2 | [David Woner](https://www.worldcubeassociation.org/persons/2008WONE01) |
-| 122 | 2 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) |
-| 123 | 2 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) |
+| 92 | 3 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) |
+| 93 | 3 | [Gianfranco Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN29) |
+| 94 | 3 | [Giovanni Contardi](https://www.worldcubeassociation.org/persons/2009CONT01) |
+| 95 | 3 | [Haixu Zhang (张海旭)](https://www.worldcubeassociation.org/persons/2008ZHAN06) |
+| 96 | 3 | [Jack Cai](https://www.worldcubeassociation.org/persons/2014CAIJ02) |
+| 97 | 3 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) |
+| 98 | 3 | [Kåre Krig](https://www.worldcubeassociation.org/persons/2004KRIG02) |
+| 99 | 3 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) |
+| 100 | 3 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
+| 101 | 3 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) |
+| 102 | 3 | [Rafał Guzewicz](https://www.worldcubeassociation.org/persons/2006GUZE01) |
+| 103 | 3 | [Rama Temmink](https://www.worldcubeassociation.org/persons/2006TEMM01) |
+| 104 | 3 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
+| 105 | 3 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) |
+| 106 | 3 | [Sebastiano Tronto](https://www.worldcubeassociation.org/persons/2011TRON02) |
+| 107 | 3 | [Tairan Zhong (钟泰然)](https://www.worldcubeassociation.org/persons/2013ZHON04) |
+| 108 | 3 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) |
+| 109 | 3 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) |
+| 110 | 3 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
+| 111 | 3 | [Yu Sajima (佐島優)](https://www.worldcubeassociation.org/persons/2008SAJI01) |
+| 112 | 2 | [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) |
+| 113 | 2 | [Brandon Harnish](https://www.worldcubeassociation.org/persons/2009HARN01) |
+| 114 | 2 | [Brúnó Bereczki](https://www.worldcubeassociation.org/persons/2008BERE01) |
+| 115 | 2 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
+| 116 | 2 | [Chang Jee-Hoon](https://www.worldcubeassociation.org/persons/2007JEEH01) |
+| 117 | 2 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) |
+| 118 | 2 | [Chester Lian](https://www.worldcubeassociation.org/persons/2009LIAN03) |
+| 119 | 2 | [Dan Dzoan](https://www.worldcubeassociation.org/persons/2006DZOA03) |
+| 120 | 2 | [Dan Knights](https://www.worldcubeassociation.org/persons/2003KNIG01) |
+| 121 | 2 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) |
+| 122 | 2 | [David Woner](https://www.worldcubeassociation.org/persons/2008WONE01) |
+| 123 | 2 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) |
 | 124 | 2 | [Gabriel Alejandro Orozco Casillas](https://www.worldcubeassociation.org/persons/2008CASI01) |
 | 125 | 2 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) |
 | 126 | 2 | [Han-Cyun Chen (陳翰群)](https://www.worldcubeassociation.org/persons/2008CHEN06) |
