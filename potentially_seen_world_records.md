@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on  1 October 2023*
+*Updated on  4 October 2023*
 
 | Rank | WRs | Person |
 | :--- | ---: | :--- |
@@ -10,7 +10,7 @@
 | 3 | 214 | [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) |
 | 4 | 179 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 5 | 165 | [Shelley Chang](https://www.worldcubeassociation.org/persons/2004CHAN04) |
-| 6 | 163 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
+| 6 | 164 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
 | 7 | 161 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
 | 8 | 159 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
 | 9 | 138 | [Bob Burton](https://www.worldcubeassociation.org/persons/2003BURT01) |
@@ -31,12 +31,12 @@
 | 24 | 106 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) |
 | 25 | 102 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) |
 | 26 | 102 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) |
-| 27 | 100 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) |
+| 27 | 101 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) |
 | 28 | 99 | [Lucas Garron](https://www.worldcubeassociation.org/persons/2006GARR01) |
 | 29 | 99 | [Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01) |
 | 30 | 99 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) |
-| 31 | 96 | [Gunnar Kantare Krig](https://www.worldcubeassociation.org/persons/2004KRIG01) |
-| 32 | 95 | [Cameron Stollery](https://www.worldcubeassociation.org/persons/2010STOL01) |
+| 31 | 96 | [Cameron Stollery](https://www.worldcubeassociation.org/persons/2010STOL01) |
+| 32 | 96 | [Gunnar Kantare Krig](https://www.worldcubeassociation.org/persons/2004KRIG01) |
 | 33 | 94 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |
 | 34 | 94 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
 | 35 | 93 | [Adam Zamora](https://www.worldcubeassociation.org/persons/2004ZAMO01) |

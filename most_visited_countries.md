@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on  1 October 2023*
+*Updated on  4 October 2023*
 
 | Rank | Countries | Person |
 | :--- | ---: | :--- |
@@ -16,21 +16,21 @@
 | 10 | 28 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 11 | 27 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 12 | 27 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
-| 13 | 26 | [Zoé de Moffarts](https://www.worldcubeassociation.org/persons/2010MOFF02) |
+| 13 | 26 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
 | 14 | 26 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) |
-| 15 | 26 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
+| 15 | 26 | [Zoé de Moffarts](https://www.worldcubeassociation.org/persons/2010MOFF02) |
 | 16 | 26 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 17 | 25 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
 | 18 | 24 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
 | 19 | 24 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
 | 20 | 24 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
-| 21 | 23 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
-| 22 | 23 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
-| 23 | 23 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
-| 24 | 22 | [Sanio Kasumovic](https://www.worldcubeassociation.org/persons/2009KASU01) |
-| 25 | 22 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) |
+| 21 | 23 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
+| 22 | 23 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
+| 23 | 23 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
+| 24 | 23 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
+| 25 | 22 | [Sanio Kasumovic](https://www.worldcubeassociation.org/persons/2009KASU01) |
 | 26 | 22 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) |
-| 27 | 22 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
+| 27 | 22 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) |
 | 28 | 21 | [Leon Schmidtchen](https://www.worldcubeassociation.org/persons/2010SCHM01) |
 | 29 | 21 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
 | 30 | 21 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
