@@ -21,6 +21,7 @@
 - [Delegated competitions per year](delegated_competition_per_year)
 - [Delegates rankings](delegates_rankings)
 - [Fewest competitors contest](fewest_competitors_contest)
+- [Longest amount of time to reach a milestone in competitions count](longest_time_to_reach_milestone_in_comps_count)
 - [Longest competitions path](longest_competitions_path)
 - [Longest current streak of competitions with a personal record done](longest_current_pr_streak)
 - [Longest standing records](longest_standing_records)
