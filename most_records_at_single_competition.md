@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on  4 October 2023*
+*Updated on  7 October 2023*
 
 
 ### World
@@ -568,6 +568,7 @@
 | 347 | 3 | [Ayooluwa Samuel Dada](https://www.worldcubeassociation.org/persons/2019SAMU06) | [Luzon Championship 2023](https://www.worldcubeassociation.org/competitions/LuzonChampionship2023/results/by_person#2019SAMU06) |
 | 348 | 3 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) | [Nacionales Argentinas 2023](https://www.worldcubeassociation.org/competitions/NacionalesArgentinas2023/results/by_person#2017GUTM01) |
 | 349 | 3 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Sandnes Open 2023](https://www.worldcubeassociation.org/competitions/SandnesOpen2023/results/by_person#2016KOLA02) |
+| 350 | 3 | [Daniel Rush](https://www.worldcubeassociation.org/persons/2018RUSH01) | [CubingZA Cape Cubes Spring 2023](https://www.worldcubeassociation.org/competitions/CubingZACapeCubesSpring2023/results/by_person#2018RUSH01) |
 
 ### National
 

@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on  4 October 2023*
+*Updated on  7 October 2023*
 
 
 ### Rubik's Cube
@@ -1050,9 +1050,9 @@
 | 95 | 1:03.21 | [Nguyễn Tường Lâm](https://www.worldcubeassociation.org/persons/2023LAMN03) |
 | 96 | 1:03.26 | [George Fan](https://www.worldcubeassociation.org/persons/2015FANG07) |
 | 97 | 1:03.50 | [Yanjierui Li (李延杰睿)](https://www.worldcubeassociation.org/persons/2017LIYA07) |
-| 98 | 1:03.69 | [Tony An](https://www.worldcubeassociation.org/persons/2016ANTO04) |
-| 99 | 1:03.70 | [Lundrin Achas](https://www.worldcubeassociation.org/persons/2018ACHA01) |
-| 100 | 1:04.00 | [Owen Chester](https://www.worldcubeassociation.org/persons/2016CHES01) |
+| 98 | 1:03.61 | [Dulguun Altankhonkh](https://www.worldcubeassociation.org/persons/2022ALTA01) |
+| 99 | 1:03.69 | [Tony An](https://www.worldcubeassociation.org/persons/2016ANTO04) |
+| 100 | 1:03.70 | [Lundrin Achas](https://www.worldcubeassociation.org/persons/2018ACHA01) |
 
 ### Pyraminx
 

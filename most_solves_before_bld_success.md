@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on  4 October 2023*
+*Updated on  7 October 2023*
 
 
 ### 3x3x3 Blindfolded
@@ -777,8 +777,8 @@
 | 153 | 4 | [Jack Gerring](https://www.worldcubeassociation.org/persons/2012GERR01) |
 | 154 | 4 | [Hafizh Dary Faridhan Hudoyo](https://www.worldcubeassociation.org/persons/2015HUDO01) |
 | 155 | 4 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
-| 156 | 4 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
-| 157 | 4 | [CJ Sheng](https://www.worldcubeassociation.org/persons/2012SHEN02) |
+| 156 | 4 | [CJ Sheng](https://www.worldcubeassociation.org/persons/2012SHEN02) |
+| 157 | 4 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
 | 158 | 4 | [Owen Widdis](https://www.worldcubeassociation.org/persons/2015WIDD01) |
 | 159 | 4 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 160 | 4 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) |
@@ -808,8 +808,8 @@
 | 184 | 4 | [Ang Chin Zhen (洪靖程)](https://www.worldcubeassociation.org/persons/2016ZHEN09) |
 | 185 | 4 | [Joanna Hołdakowska](https://www.worldcubeassociation.org/persons/2016HOLD04) |
 | 186 | 4 | [Sam Sieracki](https://www.worldcubeassociation.org/persons/2017SIER01) |
-| 187 | 4 | [Erik Tjong Kim Sang](https://www.worldcubeassociation.org/persons/2018SANG01) |
-| 188 | 4 | [Tom Stanton-Barnett](https://www.worldcubeassociation.org/persons/2016STAN05) |
+| 187 | 4 | [Tom Stanton-Barnett](https://www.worldcubeassociation.org/persons/2016STAN05) |
+| 188 | 4 | [Erik Tjong Kim Sang](https://www.worldcubeassociation.org/persons/2018SANG01) |
 | 189 | 4 | [Michael Larsen](https://www.worldcubeassociation.org/persons/2017LARS03) |
 | 190 | 4 | [Carson Deibert](https://www.worldcubeassociation.org/persons/2016DEIB01) |
 | 191 | 4 | [Muhammad Saleh Imtiaz](https://www.worldcubeassociation.org/persons/2018IMTI01) |
@@ -819,8 +819,8 @@
 | 195 | 4 | [Thiago Kunrath](https://www.worldcubeassociation.org/persons/2014KUNR01) |
 | 196 | 4 | [Jeremy Sheng](https://www.worldcubeassociation.org/persons/2019SHEN10) |
 | 197 | 4 | [João Vinícius de A. Santos](https://www.worldcubeassociation.org/persons/2016SANT66) |
-| 198 | 4 | [Erlend Ektvedt Fredriksen](https://www.worldcubeassociation.org/persons/2019FRED03) |
-| 199 | 4 | [Jack Love](https://www.worldcubeassociation.org/persons/2018LOVE03) |
+| 198 | 4 | [Jack Love](https://www.worldcubeassociation.org/persons/2018LOVE03) |
+| 199 | 4 | [Erlend Ektvedt Fredriksen](https://www.worldcubeassociation.org/persons/2019FRED03) |
 | 200 | 4 | [Tucker Chamberlain](https://www.worldcubeassociation.org/persons/2018CHAM01) |
 
 

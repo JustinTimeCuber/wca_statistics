@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on  4 October 2023*
+*Updated on  7 October 2023*
 
 
 ### Rubik's Cube
@@ -1017,42 +1017,42 @@
 | 62 | 58.73 | [Xin Lü (吕鑫)](https://www.worldcubeassociation.org/persons/2018LUXI03) |
 | 63 | 58.78 | [Krzysztof Boguszewski](https://www.worldcubeassociation.org/persons/2019BOGU01) |
 | 64 | 58.91 | [Nathan Miles](https://www.worldcubeassociation.org/persons/2019MILE04) |
-| 65 | 59.28 | [Zhitian Chen (陈知湉)](https://www.worldcubeassociation.org/persons/2019CHEZ30) |
-| 66 | 59.49 | [Zhiquan Li (李志权)](https://www.worldcubeassociation.org/persons/2019LIZH07) |
-| 67 | 59.90 | [Joshua Hounslow](https://www.worldcubeassociation.org/persons/2016HOUN01) |
-| 68 | 1:00.16 | [Shoji Nishimura (西村晶司)](https://www.worldcubeassociation.org/persons/2018NISH03) |
-| 69 | 1:00.45 | [Nguyễn Hoàng Thiên Vũ](https://www.worldcubeassociation.org/persons/2019VUNG02) |
-| 70 | 1:00.50 | [Julian Miguel Bata](https://www.worldcubeassociation.org/persons/2017BATA02) |
-| 71 | 1:00.58 | [Shengyuan Ye (叶梓熠)](https://www.worldcubeassociation.org/persons/2021YESH01) |
-| 72 | 1:00.59 | [Juan Pablo García Miranda](https://www.worldcubeassociation.org/persons/2016MIRA12) |
-| 73 | 1:00.64 | [Renfei Dang (党任飞)](https://www.worldcubeassociation.org/persons/2016DANG07) |
-| 74 | 1:00.72 | [Joaquín Infante Medrano](https://www.worldcubeassociation.org/persons/2017MEDR01) |
-| 75 | 1:00.80 | [John Bacouël](https://www.worldcubeassociation.org/persons/2018BACO01) |
-| 76 | 1:00.97 | [Víctor Gálvez](https://www.worldcubeassociation.org/persons/2019GALV10) |
-| 77 | 1:01.02 | [Yiqun Fan (樊轶群)](https://www.worldcubeassociation.org/persons/2010FANY01) |
-| 78 | 1:01.04 | [Alyssa Chi (季家祺)](https://www.worldcubeassociation.org/persons/2018CHIA04) |
-| 79 | 1:01.09 | [Burno Li Chak Kwan (李澤堃)](https://www.worldcubeassociation.org/persons/2017KWAN05) |
-| 80 | 1:01.16 | [Brian Hambeck](https://www.worldcubeassociation.org/persons/2016HAMB02) |
-| 81 | 1:01.30 | [Diego Guzmán Lizárraga](https://www.worldcubeassociation.org/persons/2023LIZA01) |
-| 82 | 1:01.32 | [Brian Kan](https://www.worldcubeassociation.org/persons/2019KANB01) |
-| 83 | 1:01.34 | [Yunhui Zhao (赵云晖)](https://www.worldcubeassociation.org/persons/2019ZHAO44) |
-| 84 | 1:01.71 | [Zhiying Liang (梁芷瑛)](https://www.worldcubeassociation.org/persons/2017LIAN15) |
-| 85 | 1:01.77 | [Christopher Kilgallon](https://www.worldcubeassociation.org/persons/2022KILG02) |
-| 86 | 1:01.86 | [Curtis Chai](https://www.worldcubeassociation.org/persons/2022CHAI02) |
-| 87 | 1:02.10 | [Lim Zhe Xi Zenneth](https://www.worldcubeassociation.org/persons/2019ZENN01) |
-| 88 | 1:02.19 | [Fabian Damke](https://www.worldcubeassociation.org/persons/2018DAMK01) |
-| 89 | 1:02.23 | [Junze Zhao (赵俊泽)](https://www.worldcubeassociation.org/persons/2016ZHAO28) |
-| 90 | 1:02.31 | [Dmytro Kuryltsiv (Дмитро Курильців)](https://www.worldcubeassociation.org/persons/2018KURY02) |
-| 91 | 1:02.44 | [Tian Ying Xi (田盈汐)](https://www.worldcubeassociation.org/persons/2023XITI01) |
-| 92 | 1:02.67 | [Waseem Hoosain](https://www.worldcubeassociation.org/persons/2019HOOS01) |
-| 93 | 1:02.69 | [Silas Breault](https://www.worldcubeassociation.org/persons/2019BREA02) |
-| 94 | 1:02.91 | [Owen Chester](https://www.worldcubeassociation.org/persons/2016CHES01) |
-| 95 | 1:02.95 | [Minjie Ding (丁敏杰)](https://www.worldcubeassociation.org/persons/2016DING06) |
-| 96 | 1:03.14 | [Rahi Mirmonsef](https://www.worldcubeassociation.org/persons/2019MIRM01) |
-| 97 | 1:03.21 | [Alejandro Cisneros Bracho](https://www.worldcubeassociation.org/persons/2017BRAC03) |
-| 98 | 1:03.28 | [Jared Blanco](https://www.worldcubeassociation.org/persons/2021BLAN02) |
-| 99 | 1:03.32 | [Noah Guthrie](https://www.worldcubeassociation.org/persons/2018GUTH01) |
-| 100 | 1:03.34 | [Julian Bürgi](https://www.worldcubeassociation.org/persons/2018BURG15) |
+| 65 | 59.16 | [Dulguun Altankhonkh](https://www.worldcubeassociation.org/persons/2022ALTA01) |
+| 66 | 59.28 | [Zhitian Chen (陈知湉)](https://www.worldcubeassociation.org/persons/2019CHEZ30) |
+| 67 | 59.49 | [Zhiquan Li (李志权)](https://www.worldcubeassociation.org/persons/2019LIZH07) |
+| 68 | 59.90 | [Joshua Hounslow](https://www.worldcubeassociation.org/persons/2016HOUN01) |
+| 69 | 1:00.16 | [Shoji Nishimura (西村晶司)](https://www.worldcubeassociation.org/persons/2018NISH03) |
+| 70 | 1:00.45 | [Nguyễn Hoàng Thiên Vũ](https://www.worldcubeassociation.org/persons/2019VUNG02) |
+| 71 | 1:00.50 | [Julian Miguel Bata](https://www.worldcubeassociation.org/persons/2017BATA02) |
+| 72 | 1:00.58 | [Shengyuan Ye (叶梓熠)](https://www.worldcubeassociation.org/persons/2021YESH01) |
+| 73 | 1:00.59 | [Juan Pablo García Miranda](https://www.worldcubeassociation.org/persons/2016MIRA12) |
+| 74 | 1:00.64 | [Renfei Dang (党任飞)](https://www.worldcubeassociation.org/persons/2016DANG07) |
+| 75 | 1:00.72 | [Joaquín Infante Medrano](https://www.worldcubeassociation.org/persons/2017MEDR01) |
+| 76 | 1:00.80 | [John Bacouël](https://www.worldcubeassociation.org/persons/2018BACO01) |
+| 77 | 1:00.97 | [Víctor Gálvez](https://www.worldcubeassociation.org/persons/2019GALV10) |
+| 78 | 1:01.02 | [Yiqun Fan (樊轶群)](https://www.worldcubeassociation.org/persons/2010FANY01) |
+| 79 | 1:01.04 | [Alyssa Chi (季家祺)](https://www.worldcubeassociation.org/persons/2018CHIA04) |
+| 80 | 1:01.09 | [Burno Li Chak Kwan (李澤堃)](https://www.worldcubeassociation.org/persons/2017KWAN05) |
+| 81 | 1:01.16 | [Brian Hambeck](https://www.worldcubeassociation.org/persons/2016HAMB02) |
+| 82 | 1:01.30 | [Diego Guzmán Lizárraga](https://www.worldcubeassociation.org/persons/2023LIZA01) |
+| 83 | 1:01.32 | [Brian Kan](https://www.worldcubeassociation.org/persons/2019KANB01) |
+| 84 | 1:01.34 | [Yunhui Zhao (赵云晖)](https://www.worldcubeassociation.org/persons/2019ZHAO44) |
+| 85 | 1:01.71 | [Zhiying Liang (梁芷瑛)](https://www.worldcubeassociation.org/persons/2017LIAN15) |
+| 86 | 1:01.77 | [Christopher Kilgallon](https://www.worldcubeassociation.org/persons/2022KILG02) |
+| 87 | 1:01.86 | [Curtis Chai](https://www.worldcubeassociation.org/persons/2022CHAI02) |
+| 88 | 1:02.10 | [Lim Zhe Xi Zenneth](https://www.worldcubeassociation.org/persons/2019ZENN01) |
+| 89 | 1:02.19 | [Fabian Damke](https://www.worldcubeassociation.org/persons/2018DAMK01) |
+| 90 | 1:02.23 | [Junze Zhao (赵俊泽)](https://www.worldcubeassociation.org/persons/2016ZHAO28) |
+| 91 | 1:02.31 | [Dmytro Kuryltsiv (Дмитро Курильців)](https://www.worldcubeassociation.org/persons/2018KURY02) |
+| 92 | 1:02.44 | [Tian Ying Xi (田盈汐)](https://www.worldcubeassociation.org/persons/2023XITI01) |
+| 93 | 1:02.67 | [Waseem Hoosain](https://www.worldcubeassociation.org/persons/2019HOOS01) |
+| 94 | 1:02.69 | [Silas Breault](https://www.worldcubeassociation.org/persons/2019BREA02) |
+| 95 | 1:02.91 | [Owen Chester](https://www.worldcubeassociation.org/persons/2016CHES01) |
+| 96 | 1:02.95 | [Minjie Ding (丁敏杰)](https://www.worldcubeassociation.org/persons/2016DING06) |
+| 97 | 1:03.14 | [Rahi Mirmonsef](https://www.worldcubeassociation.org/persons/2019MIRM01) |
+| 98 | 1:03.21 | [Alejandro Cisneros Bracho](https://www.worldcubeassociation.org/persons/2017BRAC03) |
+| 99 | 1:03.28 | [Jared Blanco](https://www.worldcubeassociation.org/persons/2021BLAN02) |
+| 100 | 1:03.32 | [Noah Guthrie](https://www.worldcubeassociation.org/persons/2018GUTH01) |
 
 ### Pyraminx
 
@@ -1660,7 +1660,7 @@
 | 75 | 26:37.00 | [Ben Yu](https://www.worldcubeassociation.org/persons/2011YUBE01) |
 | 76 | 26:38.00 | [Matthew Sheerin](https://www.worldcubeassociation.org/persons/2009SHEE01) |
 | 77 | 26:47.00 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) |
-| 78 | 27:07.00 | [Chu Yiu On](https://www.worldcubeassociation.org/persons/2022ONCH01) |
+| 78 | 27:07.00 | [Chu Yiu On (朱耀安)](https://www.worldcubeassociation.org/persons/2022ONCH01) |
 | 79 | 27:43.00 | [Andrei Solntsev](https://www.worldcubeassociation.org/persons/2018SOLN01) |
 | 80 | 27:51.00 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) |
 | 81 | 28:01.00 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) |
