@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on  7 October 2023*
+*Updated on 10 October 2023*
 
 | Rank | WRs | Person |
 | :--- | ---: | :--- |
@@ -547,7 +547,7 @@
 | 540 | 29 | [Michał Pawlak](https://www.worldcubeassociation.org/persons/2008PAWL03) |
 | 541 | 29 | [Clara Lafourcade](https://www.worldcubeassociation.org/persons/2014LAFO02) |
 | 542 | 29 | [Wong Kin Lok (黃健樂)](https://www.worldcubeassociation.org/persons/2014LOKW01) |
-| 543 | 29 | [Simone Ohler](https://www.worldcubeassociation.org/persons/2014OHLE01) |
+| 543 | 29 | [Simone Bentlage](https://www.worldcubeassociation.org/persons/2014OHLE01) |
 | 544 | 29 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
 | 545 | 29 | [Adam Vetser](https://www.worldcubeassociation.org/persons/2014VETS01) |
 | 546 | 29 | [Aaron Paskow](https://www.worldcubeassociation.org/persons/2016PASK01) |

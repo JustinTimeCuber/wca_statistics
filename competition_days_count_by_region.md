@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on  7 October 2023*
+*Updated on 10 October 2023*
 
 
 ### World
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.48 | World | 10571 |
+| 1 | 1.48 | World | 10583 |
 
 ### Continents
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.75 | Europe | 3463 |
-| 2 | 1.55 | South America | 1222 |
+| 1 | 1.75 | Europe | 3465 |
+| 2 | 1.55 | South America | 1225 |
 | 3 | 1.47 | Oceania | 463 |
-| 4 | 1.41 | Asia | 2398 |
+| 4 | 1.42 | Asia | 2400 |
 | 5 | 1.24 | Africa | 115 |
-| 6 | 1.21 | North America | 2910 |
+| 6 | 1.21 | North America | 2915 |
 
 ### Countries
 
@@ -44,19 +44,19 @@
 | 18 | 1.85 | Switzerland | 95 |
 | 19 | 1.84 | Finland | 114 |
 | 20 | 1.84 | Spain | 297 |
-| 21 | 1.83 | Mexico | 121 |
+| 21 | 1.84 | Mexico | 122 |
 | 22 | 1.82 | Thailand | 44 |
 | 23 | 1.80 | Bosnia and Herzegovina | 10 |
 | 24 | 1.77 | Guatemala | 52 |
-| 25 | 1.77 | Brazil | 389 |
+| 25 | 1.77 | Brazil | 392 |
 | 26 | 1.76 | Belgium | 72 |
 | 27 | 1.75 | Austria | 24 |
 | 28 | 1.75 | Palestine | 4 |
 | 29 | 1.75 | Sri Lanka | 4 |
 | 30 | 1.74 | Slovenia | 27 |
 | 31 | 1.73 | Argentina | 71 |
-| 32 | 1.71 | Denmark | 137 |
-| 33 | 1.71 | Ukraine | 119 |
+| 32 | 1.71 | Ukraine | 119 |
+| 33 | 1.70 | Denmark | 138 |
 | 34 | 1.68 | Poland | 391 |
 | 35 | 1.67 | Kyrgyzstan | 3 |
 | 36 | 1.67 | Luxembourg | 3 |
@@ -94,8 +94,8 @@
 | 68 | 1.38 | Singapore | 40 |
 | 69 | 1.37 | South Africa | 54 |
 | 70 | 1.37 | Ecuador | 38 |
-| 71 | 1.34 | Chinese Taipei | 124 |
-| 72 | 1.34 | Philippines | 238 |
+| 71 | 1.34 | Chinese Taipei | 125 |
+| 72 | 1.33 | Philippines | 239 |
 | 73 | 1.33 | Hong Kong, China | 18 |
 | 74 | 1.33 | Kuwait | 6 |
 | 75 | 1.33 | Panama | 12 |
@@ -116,11 +116,11 @@
 | 90 | 1.17 | Armenia | 6 |
 | 91 | 1.17 | Morocco | 6 |
 | 92 | 1.17 | Tunisia | 24 |
-| 93 | 1.16 | United States | 2329 |
+| 93 | 1.16 | United States | 2333 |
 | 94 | 1.16 | Canada | 300 |
 | 95 | 1.14 | Azerbaijan | 42 |
 | 96 | 1.13 | Honduras | 15 |
-| 97 | 1.04 | Georgia | 24 |
+| 97 | 1.08 | Georgia | 25 |
 | 98 | 1.00 | Albania | 3 |
 | 99 | 1.00 | Algeria | 9 |
 | 100 | 1.00 | Angola | 1 |
