@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 19 October 2023*
+*Updated on 22 October 2023*
 
 
 ### Rubik's Cube
@@ -1034,24 +1034,24 @@
 | 80 | 5.33 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Stumptown Summer 2023](https://www.worldcubeassociation.org/competitions/StumptownSummer2023/results/by_person#2017AGGA01) |
 | 81 | 5.33 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/by_person#2017AGGA01) |
 | 82 | 5.34 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [Beskidy Side Days 2022](https://www.worldcubeassociation.org/competitions/BeskidySideDays2022/results/by_person#2013KRAS02) |
-| 83 | 5.34 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/by_person#2017SIAU02) |
-| 84 | 5.34 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/by_person#2019BAUM02) |
-| 85 | 5.35 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | [The Battle of Lex-side-ton 2023](https://www.worldcubeassociation.org/competitions/LexingtonSideEvents2023/results/by_person#2014KARN02) |
-| 86 | 5.35 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | [Mid-Atlantic Championship 2023](https://www.worldcubeassociation.org/competitions/MidAtlanticChampionship2023/results/by_person#2014KARN02) |
-| 87 | 5.35 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Kent Summer 2023](https://www.worldcubeassociation.org/competitions/KentSummer2023/results/by_person#2017SIAU02) |
-| 88 | 5.35 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Western Championship 2023](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2023/results/by_person#2017AGGA01) |
-| 89 | 5.35 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Stumptown Summer 2023](https://www.worldcubeassociation.org/competitions/StumptownSummer2023/results/by_person#2017AGGA01) |
-| 90 | 5.36 | [Samuel Fang](https://www.worldcubeassociation.org/persons/2014FANG01) | [Mid-Atlantic Championship 2023](https://www.worldcubeassociation.org/competitions/MidAtlanticChampionship2023/results/by_person#2014FANG01) |
-| 91 | 5.36 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) | [Koalafication Melbourne 2022](https://www.worldcubeassociation.org/competitions/KoalaficationMelbourne2022/results/by_person#2016EPST02) |
-| 92 | 5.36 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [SnoCo Veteran's Weekend B 2022](https://www.worldcubeassociation.org/competitions/SnoCoVeteransWeekendB2022/results/by_person#2017SIAU02) |
-| 93 | 5.36 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [CMT Avon 2023](https://www.worldcubeassociation.org/competitions/CMTAvon2023/results/by_person#2018KHAN26) |
-| 94 | 5.36 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [Cumberland County Cubing 2023](https://www.worldcubeassociation.org/competitions/CumberlandCountyCubing2023/results/by_person#2018KHAN26) |
-| 95 | 5.37 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [CubingUSA Western Champs 2021](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2021/results/by_person#2017SIAU02) |
-| 96 | 5.37 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Kent Summer 2023](https://www.worldcubeassociation.org/competitions/KentSummer2023/results/by_person#2017AGGA01) |
-| 97 | 5.37 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [Texas Championship 2022](https://www.worldcubeassociation.org/competitions/TexasChampionship2022/results/by_person#2019BAUM02) |
-| 98 | 5.38 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | [Gislev Side Events 2019](https://www.worldcubeassociation.org/competitions/GislevSideEvents2019/results/by_person#2014DETL01) |
-| 99 | 5.38 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [School's Out PLU 2022](https://www.worldcubeassociation.org/competitions/SchoolsOutPLU2022/results/by_person#2017SIAU02) |
-| 100 | 5.39 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | [Pittsburgh Summer A 2022](https://www.worldcubeassociation.org/competitions/PittsburghSummerA2022/results/by_person#2014KARN02) |
+| 83 | 5.34 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [Campeonato Brasileiro 2023](https://www.worldcubeassociation.org/competitions/CampeonatoBrasileiro2023/results/by_person#2015CECC01) |
+| 84 | 5.34 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/by_person#2017SIAU02) |
+| 85 | 5.34 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/by_person#2019BAUM02) |
+| 86 | 5.35 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | [The Battle of Lex-side-ton 2023](https://www.worldcubeassociation.org/competitions/LexingtonSideEvents2023/results/by_person#2014KARN02) |
+| 87 | 5.35 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | [Mid-Atlantic Championship 2023](https://www.worldcubeassociation.org/competitions/MidAtlanticChampionship2023/results/by_person#2014KARN02) |
+| 88 | 5.35 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Kent Summer 2023](https://www.worldcubeassociation.org/competitions/KentSummer2023/results/by_person#2017SIAU02) |
+| 89 | 5.35 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Western Championship 2023](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2023/results/by_person#2017AGGA01) |
+| 90 | 5.35 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Stumptown Summer 2023](https://www.worldcubeassociation.org/competitions/StumptownSummer2023/results/by_person#2017AGGA01) |
+| 91 | 5.36 | [Samuel Fang](https://www.worldcubeassociation.org/persons/2014FANG01) | [Mid-Atlantic Championship 2023](https://www.worldcubeassociation.org/competitions/MidAtlanticChampionship2023/results/by_person#2014FANG01) |
+| 92 | 5.36 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) | [Koalafication Melbourne 2022](https://www.worldcubeassociation.org/competitions/KoalaficationMelbourne2022/results/by_person#2016EPST02) |
+| 93 | 5.36 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [SnoCo Veteran's Weekend B 2022](https://www.worldcubeassociation.org/competitions/SnoCoVeteransWeekendB2022/results/by_person#2017SIAU02) |
+| 94 | 5.36 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [CMT Avon 2023](https://www.worldcubeassociation.org/competitions/CMTAvon2023/results/by_person#2018KHAN26) |
+| 95 | 5.36 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [Cumberland County Cubing 2023](https://www.worldcubeassociation.org/competitions/CumberlandCountyCubing2023/results/by_person#2018KHAN26) |
+| 96 | 5.37 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [CubingUSA Western Champs 2021](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2021/results/by_person#2017SIAU02) |
+| 97 | 5.37 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Kent Summer 2023](https://www.worldcubeassociation.org/competitions/KentSummer2023/results/by_person#2017AGGA01) |
+| 98 | 5.37 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [Texas Championship 2022](https://www.worldcubeassociation.org/competitions/TexasChampionship2022/results/by_person#2019BAUM02) |
+| 99 | 5.38 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | [Gislev Side Events 2019](https://www.worldcubeassociation.org/competitions/GislevSideEvents2019/results/by_person#2014DETL01) |
+| 100 | 5.38 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [School's Out PLU 2022](https://www.worldcubeassociation.org/competitions/SchoolsOutPLU2022/results/by_person#2017SIAU02) |
 
 ### 3x3x3 With Feet
 

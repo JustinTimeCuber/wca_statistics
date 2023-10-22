@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 19 October 2023*
+*Updated on 22 October 2023*
 
 | Rank | Countries | Person |
 | :--- | ---: | :--- |
@@ -21,11 +21,11 @@
 | 15 | 26 | [Zoé de Moffarts](https://www.worldcubeassociation.org/persons/2010MOFF02) |
 | 16 | 26 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 17 | 25 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
-| 18 | 24 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
-| 19 | 24 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
-| 20 | 24 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
-| 21 | 23 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
-| 22 | 23 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
+| 18 | 24 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
+| 19 | 24 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
+| 20 | 24 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
+| 21 | 24 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
+| 22 | 23 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 23 | 23 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 24 | 23 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 | 25 | 22 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) |
