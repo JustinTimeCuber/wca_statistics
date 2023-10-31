@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 28 October 2023*
+*Updated on 31 October 2023*
 
 | Rank | Country | Gold | Silver | Bronze | Total |
 | :--- | :--- | :--: | :--: | :--: | :--: |
@@ -41,9 +41,9 @@
 | 34 | Colombia | **131** | 101 | 91 | 323 |
 | 35 | Latvia | **125** | 188 | 189 | 502 |
 | 36 | Greece | **119** | 144 | 106 | 369 |
-| 37 | Belarus | **108** | 69 | 81 | 258 |
+| 37 | Belarus | **108** | 70 | 83 | 261 |
 | 38 | Czech Republic | **103** | 113 | 122 | 338 |
-| 39 | Kazakhstan | **95** | 87 | 86 | 268 |
+| 39 | Kazakhstan | **95** | 88 | 86 | 269 |
 | 40 | Thailand | **86** | 89 | 42 | 217 |
 | 41 | Slovakia | **75** | 85 | 93 | 253 |
 | 42 | Lithuania | **75** | 74 | 87 | 236 |
@@ -59,22 +59,22 @@
 | 52 | Kosovo | **37** | 26 | 22 | 85 |
 | 53 | Uzbekistan | **32** | 29 | 31 | 92 |
 | 54 | Mongolia | **32** | 28 | 26 | 86 |
-| 55 | Venezuela | **31** | 39 | 40 | 110 |
+| 55 | Venezuela | **31** | 41 | 40 | 112 |
 | 56 | New Zealand | **30** | 67 | 53 | 150 |
 | 57 | Chile | **28** | 20 | 17 | 65 |
 | 58 | Costa Rica | **27** | 35 | 28 | 90 |
 | 59 | Belize | **24** | 6 | 1 | 31 |
-| 60 | Portugal | **23** | 21 | 21 | 65 |
-| 61 | Kyrgyzstan | **21** | 24 | 32 | 77 |
+| 60 | Kyrgyzstan | **23** | 25 | 34 | 82 |
+| 61 | Portugal | **23** | 21 | 21 | 65 |
 | 62 | El Salvador | **21** | 24 | 19 | 64 |
 | 63 | Pakistan | **21** | 15 | 15 | 51 |
 | 64 | North Macedonia | **17** | 20 | 27 | 64 |
 | 65 | Serbia | **16** | 24 | 28 | 68 |
 | 66 | South Africa | **16** | 18 | 39 | 73 |
 | 67 | Mexico | **14** | 19 | 22 | 55 |
-| 68 | Nicaragua | **14** | 5 | 10 | 29 |
-| 69 | Bulgaria | **12** | 35 | 33 | 80 |
-| 70 | Iran | **11** | 10 | 12 | 33 |
+| 68 | Iran | **14** | 14 | 12 | 40 |
+| 69 | Nicaragua | **14** | 5 | 10 | 29 |
+| 70 | Bulgaria | **12** | 35 | 33 | 80 |
 | 71 | Tunisia | **10** | 9 | 7 | 26 |
 | 72 | Uruguay | **10** | 6 | 18 | 34 |
 | 73 | Turkey | **9** | 14 | 12 | 35 |
@@ -82,8 +82,8 @@
 | 75 | Nigeria | **8** | 14 | 12 | 34 |
 | 76 | Bolivia | **8** | 9 | 16 | 33 |
 | 77 | Cyprus | **7** | 15 | 14 | 36 |
-| 78 | Georgia | **7** | 10 | 9 | 26 |
-| 79 | Moldova | **7** | 8 | 5 | 20 |
+| 78 | Moldova | **7** | 12 | 7 | 26 |
+| 79 | Georgia | **7** | 10 | 9 | 26 |
 | 80 | Bosnia and Herzegovina | **6** | 17 | 7 | 30 |
 | 81 | Panama | **6** | 7 | 8 | 21 |
 | 82 | Honduras | **6** | 5 | 8 | 19 |
