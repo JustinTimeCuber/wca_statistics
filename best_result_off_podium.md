@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on  1 November 2023*
+*Updated on  4 November 2023*
 
 
 ### Rubik's Cube
@@ -832,17 +832,17 @@
 | 87 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | 26 | **26.67** | [FMC 2019](https://www.worldcubeassociation.org/competitions/FMC2019/results/all#e333fm_f) | 11 |
 | 88 | [Jordi Lleixà López](https://www.worldcubeassociation.org/persons/2023LOPE09) | 26 | **26.67** | [FMC Spanish Championship 2023](https://www.worldcubeassociation.org/competitions/FMCSpanishChampionship2023/results/all#e333fm_f) | 4 |
 | 89 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | 20 | **27.00** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e333fm_f) | 10 |
-| 90 | [Mario Laurent](https://www.worldcubeassociation.org/persons/2008LAUR01) | 23 | **27.00** | [French Championship 2019](https://www.worldcubeassociation.org/competitions/FrenchChampionship2019/results/all#e333fm_f) | 5 |
-| 91 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 23 | **27.00** | [Polish Championship 2022](https://www.worldcubeassociation.org/competitions/PolishChampionship2022/results/all#e333fm_f) | 6 |
-| 92 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | 24 | **27.00** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#e333fm_f) | 8 |
-| 93 | [James Quinn](https://www.worldcubeassociation.org/persons/2016QUIN01) | 24 | **27.00** | [FMC 2019](https://www.worldcubeassociation.org/competitions/FMC2019/results/all#e333fm_f) | 12 |
-| 94 | [Aedan Bryant](https://www.worldcubeassociation.org/persons/2017BRYA06) | 25 | **27.00** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#e333fm_f) | 13 |
-| 95 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) | 25 | **27.00** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#e333fm_f) | 13 |
-| 96 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | 25 | **27.00** | [Ohio State Expo Open 2022](https://www.worldcubeassociation.org/competitions/OhioStateExpoOpen2022/results/all#e333fm_f) | 4 |
-| 97 | [Karam Al-Robaie](https://www.worldcubeassociation.org/persons/2016ALRO01) | 25 | **27.00** | [UK Championship 2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019/results/all#e333fm_f) | 4 |
-| 98 | [Dohyun Kim (김도현)](https://www.worldcubeassociation.org/persons/2013KIMD01) | 25 | **27.00** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e333fm_f) | 11 |
-| 99 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 26 | **27.00** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#e333fm_f) | 9 |
-| 100 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | 26 | **27.00** | [Mental Breakdown Minnesota 2022](https://www.worldcubeassociation.org/competitions/MentalBreakdownMinnesota2022/results/all#e333fm_f) | 4 |
+| 90 | [Vasco Vasconcelos](https://www.worldcubeassociation.org/persons/2008VASC01) | 22 | **27.00** | [Nhood Xperience Side Events 2023](https://www.worldcubeassociation.org/competitions/NhoodXperienceSideEvents2023/results/all#e333fm_f) | 4 |
+| 91 | [Mario Laurent](https://www.worldcubeassociation.org/persons/2008LAUR01) | 23 | **27.00** | [French Championship 2019](https://www.worldcubeassociation.org/competitions/FrenchChampionship2019/results/all#e333fm_f) | 5 |
+| 92 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 23 | **27.00** | [Polish Championship 2022](https://www.worldcubeassociation.org/competitions/PolishChampionship2022/results/all#e333fm_f) | 6 |
+| 93 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | 24 | **27.00** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#e333fm_f) | 8 |
+| 94 | [James Quinn](https://www.worldcubeassociation.org/persons/2016QUIN01) | 24 | **27.00** | [FMC 2019](https://www.worldcubeassociation.org/competitions/FMC2019/results/all#e333fm_f) | 12 |
+| 95 | [Aedan Bryant](https://www.worldcubeassociation.org/persons/2017BRYA06) | 25 | **27.00** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#e333fm_f) | 13 |
+| 96 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) | 25 | **27.00** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#e333fm_f) | 13 |
+| 97 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | 25 | **27.00** | [Ohio State Expo Open 2022](https://www.worldcubeassociation.org/competitions/OhioStateExpoOpen2022/results/all#e333fm_f) | 4 |
+| 98 | [Karam Al-Robaie](https://www.worldcubeassociation.org/persons/2016ALRO01) | 25 | **27.00** | [UK Championship 2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019/results/all#e333fm_f) | 4 |
+| 99 | [Dohyun Kim (김도현)](https://www.worldcubeassociation.org/persons/2013KIMD01) | 25 | **27.00** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e333fm_f) | 11 |
+| 100 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 26 | **27.00** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#e333fm_f) | 9 |
 
 ### 3x3x3 One-Handed
 
