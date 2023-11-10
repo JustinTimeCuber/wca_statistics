@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on  7 November 2023*
+*Updated on 10 November 2023*
 
 
 ### Rubik's Cube
@@ -196,22 +196,22 @@
 | 82 | 1.02 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Slow N Steady Spring 2022](https://www.worldcubeassociation.org/competitions/SlowNSteadySpring2022/results/by_person#2018KHAN28) |
 | 83 | 1.02 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Pretzel Mania 2023](https://www.worldcubeassociation.org/competitions/PretzelMania2023/results/by_person#2018KHAN28) |
 | 84 | 1.02 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Clash at Carlisle Spring 2023](https://www.worldcubeassociation.org/competitions/ClashatCarlisleSpring2023/results/by_person#2018KHAN28) |
-| 85 | 1.03 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | [Legazpi Open 2022](https://www.worldcubeassociation.org/competitions/LegazpiOpen2022/results/by_person#2012PATE01) |
-| 86 | 1.03 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | [Ohio State RPAC Cube Clash 2023](https://www.worldcubeassociation.org/competitions/OhioStateRPACCubeClash2023/results/by_person#2013JOHN10) |
-| 87 | 1.03 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | [Get To The Point 2022](https://www.worldcubeassociation.org/competitions/GetToThePoint2022/results/by_person#2015MACK06) |
-| 88 | 1.03 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Pittsburgh Fall 2021](https://www.worldcubeassociation.org/competitions/PittsburghFall2021/results/by_person#2018KHAN28) |
-| 89 | 1.03 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [North Star Cubing Challenge 2022](https://www.worldcubeassociation.org/competitions/NorthStarCubingChallenge2022/results/by_person#2018KHAN28) |
-| 90 | 1.03 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Port Huron Speedcubing 2022](https://www.worldcubeassociation.org/competitions/PortHuronSpeedcubing2022/results/by_person#2018KHAN28) |
-| 91 | 1.03 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [WCC Western Championship 2022](https://www.worldcubeassociation.org/competitions/WCCWesternChampionship2022/results/by_person#2018KHAN28) |
-| 92 | 1.03 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Clash at Carlisle Spring 2023](https://www.worldcubeassociation.org/competitions/ClashatCarlisleSpring2023/results/by_person#2018KHAN28) |
-| 93 | 1.03 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Mid-Atlantic Championship 2023](https://www.worldcubeassociation.org/competitions/MidAtlanticChampionship2023/results/by_person#2018KHAN28) |
-| 94 | 1.03 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Medan Speedcubing Festival 2023](https://www.worldcubeassociation.org/competitions/MedanSpeedcubingFestival2023/results/by_person#2019WANY36) |
-| 95 | 1.04 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Vestkyst Cubing 2021](https://www.worldcubeassociation.org/competitions/VestkystCubing2021/results/by_person#2013EGDA02) |
-| 96 | 1.04 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | [Minnesota Cube Melt 2022](https://www.worldcubeassociation.org/competitions/MinnesotaCubeMelt2022/results/by_person#2013JOHN10) |
-| 97 | 1.04 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | [Everything in Evanston A 2023](https://www.worldcubeassociation.org/competitions/EverythinginEvanstonA2023/results/by_person#2013JOHN10) |
-| 98 | 1.04 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | [Naperville Summer 2023](https://www.worldcubeassociation.org/competitions/NapervilleSummer2023/results/by_person#2013JOHN10) |
-| 99 | 1.04 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Cape Fear 2022](https://www.worldcubeassociation.org/competitions/CapeFear2022/results/by_person#2018KHAN28) |
-| 100 | 1.04 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Bluegrass Spring 2022](https://www.worldcubeassociation.org/competitions/BluegrassSpring2022/results/by_person#2018KHAN28) |
+| 85 | 1.02 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [ALL1- Pittsburgh 2023](https://www.worldcubeassociation.org/competitions/ALL1Pittsburgh2023/results/by_person#2018KHAN28) |
+| 86 | 1.03 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | [Legazpi Open 2022](https://www.worldcubeassociation.org/competitions/LegazpiOpen2022/results/by_person#2012PATE01) |
+| 87 | 1.03 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | [Ohio State RPAC Cube Clash 2023](https://www.worldcubeassociation.org/competitions/OhioStateRPACCubeClash2023/results/by_person#2013JOHN10) |
+| 88 | 1.03 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | [Get To The Point 2022](https://www.worldcubeassociation.org/competitions/GetToThePoint2022/results/by_person#2015MACK06) |
+| 89 | 1.03 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Pittsburgh Fall 2021](https://www.worldcubeassociation.org/competitions/PittsburghFall2021/results/by_person#2018KHAN28) |
+| 90 | 1.03 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [North Star Cubing Challenge 2022](https://www.worldcubeassociation.org/competitions/NorthStarCubingChallenge2022/results/by_person#2018KHAN28) |
+| 91 | 1.03 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Port Huron Speedcubing 2022](https://www.worldcubeassociation.org/competitions/PortHuronSpeedcubing2022/results/by_person#2018KHAN28) |
+| 92 | 1.03 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [WCC Western Championship 2022](https://www.worldcubeassociation.org/competitions/WCCWesternChampionship2022/results/by_person#2018KHAN28) |
+| 93 | 1.03 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Clash at Carlisle Spring 2023](https://www.worldcubeassociation.org/competitions/ClashatCarlisleSpring2023/results/by_person#2018KHAN28) |
+| 94 | 1.03 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Mid-Atlantic Championship 2023](https://www.worldcubeassociation.org/competitions/MidAtlanticChampionship2023/results/by_person#2018KHAN28) |
+| 95 | 1.03 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Medan Speedcubing Festival 2023](https://www.worldcubeassociation.org/competitions/MedanSpeedcubingFestival2023/results/by_person#2019WANY36) |
+| 96 | 1.04 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Vestkyst Cubing 2021](https://www.worldcubeassociation.org/competitions/VestkystCubing2021/results/by_person#2013EGDA02) |
+| 97 | 1.04 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | [Minnesota Cube Melt 2022](https://www.worldcubeassociation.org/competitions/MinnesotaCubeMelt2022/results/by_person#2013JOHN10) |
+| 98 | 1.04 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | [Everything in Evanston A 2023](https://www.worldcubeassociation.org/competitions/EverythinginEvanstonA2023/results/by_person#2013JOHN10) |
+| 99 | 1.04 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | [Naperville Summer 2023](https://www.worldcubeassociation.org/competitions/NapervilleSummer2023/results/by_person#2013JOHN10) |
+| 100 | 1.04 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Cape Fear 2022](https://www.worldcubeassociation.org/competitions/CapeFear2022/results/by_person#2018KHAN28) |
 
 ### 4x4x4 Cube
 
@@ -691,52 +691,52 @@
 | 52 | 1.48 | [Elyas Eyou](https://www.worldcubeassociation.org/persons/2018EYOU02) | [NZ North Island Champs 2023](https://www.worldcubeassociation.org/competitions/NZNorthIslandChampionship2023/results/by_person#2018EYOU02) |
 | 53 | 1.48 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | [NJIT Spring 2023](https://www.worldcubeassociation.org/competitions/NJITSpring2023/results/by_person#2019MEAD03) |
 | 54 | 1.48 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | [South Deerfield Side Events 2023](https://www.worldcubeassociation.org/competitions/SouthDeerfieldSideEvents2023/results/by_person#2019MEAD03) |
-| 55 | 1.49 | [Livia Kleiner](https://www.worldcubeassociation.org/persons/2013KLEI03) | [NJIT Spring 2023](https://www.worldcubeassociation.org/competitions/NJITSpring2023/results/by_person#2013KLEI03) |
-| 56 | 1.49 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Cube4fun Zawiercie 2022](https://www.worldcubeassociation.org/competitions/Cube4funZawiercie2022/results/by_person#2016KOLA02) |
-| 57 | 1.49 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | [Cashmere Open 2023](https://www.worldcubeassociation.org/competitions/CashmereOpen2023/results/by_person#2018MURR03) |
-| 58 | 1.49 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | [NZ South Island Champs 2023](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2023/results/by_person#2018MURR03) |
-| 59 | 1.50 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Hanoi Summer 2023](https://www.worldcubeassociation.org/competitions/HanoiSummer2023/results/by_person#2019JIAN54) |
-| 60 | 1.50 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | [Fort Wayne Favorites 2023](https://www.worldcubeassociation.org/competitions/FortWayneFavorites2023/results/by_person#2019SHER10) |
-| 61 | 1.50 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | [Cubing by the Kings 2023](https://www.worldcubeassociation.org/competitions/CubingByTheKings2023/results/by_person#2019SHER10) |
-| 62 | 1.50 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | [Washtenaw Fast 'n Late Fall 2023](https://www.worldcubeassociation.org/competitions/WashtenawFastnLateFall2023/results/by_person#2019SHER10) |
-| 63 | 1.50 | [Jonathan Plug](https://www.worldcubeassociation.org/persons/2022PLUG01) | [Alphen Track to Records 24h 2023](https://www.worldcubeassociation.org/competitions/AlphenTracktoRecords24h2023/results/by_person#2022PLUG01) |
-| 64 | 1.51 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Grudziądz Open 2019](https://www.worldcubeassociation.org/competitions/GrudziadzOpen2019/results/by_person#2016KOLA02) |
-| 65 | 1.51 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | [Wisconsin Cubing Marathon 2023](https://www.worldcubeassociation.org/competitions/WisconsinCubingMarathon2023/results/by_person#2016KELL12) |
-| 66 | 1.51 | [Elyas Eyou](https://www.worldcubeassociation.org/persons/2018EYOU02) | [Cashmere Open 2023](https://www.worldcubeassociation.org/competitions/CashmereOpen2023/results/by_person#2018EYOU02) |
-| 67 | 1.51 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | [Washtenaw Qualifier 2023](https://www.worldcubeassociation.org/competitions/WashtenawQualifier2023/results/by_person#2019SHER10) |
-| 68 | 1.51 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | [Fort Wayne Favorites 2023](https://www.worldcubeassociation.org/competitions/FortWayneFavorites2023/results/by_person#2019SHER10) |
-| 69 | 1.51 | [Sebastian Lee](https://www.worldcubeassociation.org/persons/2021LEES01) | [Newcastle Open 2023](https://www.worldcubeassociation.org/competitions/NewcastleOpen2023/results/by_person#2021LEES01) |
-| 70 | 1.52 | [Elijah Brown](https://www.worldcubeassociation.org/persons/2015BROW03) | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/by_person#2015BROW03) |
-| 71 | 1.52 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Cube Factory Częstochowa 2018](https://www.worldcubeassociation.org/competitions/CubeFactoryCzestochowa2018/results/by_person#2016KOLA02) |
-| 72 | 1.52 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | [Cubing up the UP 2023](https://www.worldcubeassociation.org/competitions/CubinguptheUP2023/results/by_person#2016KELL12) |
-| 73 | 1.52 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | [Palmerston North 2023](https://www.worldcubeassociation.org/competitions/PalmerstonNorth2023/results/by_person#2018MURR03) |
-| 74 | 1.52 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | [Energy Cube Koło 2023](https://www.worldcubeassociation.org/competitions/EnergyCubeKolo2023/results/by_person#2018HIBS01) |
-| 75 | 1.52 | [Elyas Eyou](https://www.worldcubeassociation.org/persons/2018EYOU02) | [NZ South Island Champs 2023](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2023/results/by_person#2018EYOU02) |
-| 76 | 1.52 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | [Waterloo Favourites Fall 2023](https://www.worldcubeassociation.org/competitions/WaterlooFavouritesFall2023/results/by_person#2019SHER10) |
-| 77 | 1.52 | [Sebastian Lee](https://www.worldcubeassociation.org/persons/2021LEES01) | [Warm Up Sydney Sunday 2023](https://www.worldcubeassociation.org/competitions/WarmUpSydneySunday2023/results/by_person#2021LEES01) |
-| 78 | 1.53 | [Wesley Allen](https://www.worldcubeassociation.org/persons/2015ALLE03) | [WCA Oceanic Championship 2022](https://www.worldcubeassociation.org/competitions/OC2022/results/by_person#2015ALLE03) |
-| 79 | 1.53 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | [LLS I Bełżyce 2021](https://www.worldcubeassociation.org/competitions/LLSIBelzyce2021/results/by_person#2015GORN01) |
-| 80 | 1.53 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | [FargoDome 2023](https://www.worldcubeassociation.org/competitions/FargoDome2023/results/by_person#2016KELL12) |
-| 81 | 1.53 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | [Twisty Taranaki 2022](https://www.worldcubeassociation.org/competitions/TwistyTaranaki2022/results/by_person#2018MURR03) |
-| 82 | 1.53 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | [Cashmere Open 2023](https://www.worldcubeassociation.org/competitions/CashmereOpen2023/results/by_person#2018MURR03) |
-| 83 | 1.53 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | [Dragon Cubing 2022](https://www.worldcubeassociation.org/competitions/DragonCubing2022/results/by_person#2018HIBS01) |
-| 84 | 1.53 | [Elyas Eyou](https://www.worldcubeassociation.org/persons/2018EYOU02) | [NZ North Island Champs 2023](https://www.worldcubeassociation.org/competitions/NZNorthIslandChampionship2023/results/by_person#2018EYOU02) |
-| 85 | 1.53 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [YJ KL 2023](https://www.worldcubeassociation.org/competitions/YJKL2023/results/by_person#2019JIAN54) |
-| 86 | 1.53 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | [Michigan Speedcubing Spring 2023](https://www.worldcubeassociation.org/competitions/MichiganSpeedcubingSpring2023/results/by_person#2019SHER10) |
-| 87 | 1.53 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | [Flag City Summer 2023](https://www.worldcubeassociation.org/competitions/FlagCitySummer2023/results/by_person#2019SHER10) |
-| 88 | 1.53 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | [OH-io State 2023](https://www.worldcubeassociation.org/competitions/OHioState2023/results/by_person#2019SHER10) |
+| 55 | 1.48 | [Imaad Sohel Ajani](https://www.worldcubeassociation.org/persons/2023AJAN01) | [i.Cube Open 2023](https://www.worldcubeassociation.org/competitions/iCubeOpen2023/results/by_person#2023AJAN01) |
+| 56 | 1.49 | [Livia Kleiner](https://www.worldcubeassociation.org/persons/2013KLEI03) | [NJIT Spring 2023](https://www.worldcubeassociation.org/competitions/NJITSpring2023/results/by_person#2013KLEI03) |
+| 57 | 1.49 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Cube4fun Zawiercie 2022](https://www.worldcubeassociation.org/competitions/Cube4funZawiercie2022/results/by_person#2016KOLA02) |
+| 58 | 1.49 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | [Cashmere Open 2023](https://www.worldcubeassociation.org/competitions/CashmereOpen2023/results/by_person#2018MURR03) |
+| 59 | 1.49 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | [NZ South Island Champs 2023](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2023/results/by_person#2018MURR03) |
+| 60 | 1.50 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Hanoi Summer 2023](https://www.worldcubeassociation.org/competitions/HanoiSummer2023/results/by_person#2019JIAN54) |
+| 61 | 1.50 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | [Fort Wayne Favorites 2023](https://www.worldcubeassociation.org/competitions/FortWayneFavorites2023/results/by_person#2019SHER10) |
+| 62 | 1.50 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | [Cubing by the Kings 2023](https://www.worldcubeassociation.org/competitions/CubingByTheKings2023/results/by_person#2019SHER10) |
+| 63 | 1.50 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | [Washtenaw Fast 'n Late Fall 2023](https://www.worldcubeassociation.org/competitions/WashtenawFastnLateFall2023/results/by_person#2019SHER10) |
+| 64 | 1.50 | [Jonathan Plug](https://www.worldcubeassociation.org/persons/2022PLUG01) | [Alphen Track to Records 24h 2023](https://www.worldcubeassociation.org/competitions/AlphenTracktoRecords24h2023/results/by_person#2022PLUG01) |
+| 65 | 1.51 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Grudziądz Open 2019](https://www.worldcubeassociation.org/competitions/GrudziadzOpen2019/results/by_person#2016KOLA02) |
+| 66 | 1.51 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | [Wisconsin Cubing Marathon 2023](https://www.worldcubeassociation.org/competitions/WisconsinCubingMarathon2023/results/by_person#2016KELL12) |
+| 67 | 1.51 | [Elyas Eyou](https://www.worldcubeassociation.org/persons/2018EYOU02) | [Cashmere Open 2023](https://www.worldcubeassociation.org/competitions/CashmereOpen2023/results/by_person#2018EYOU02) |
+| 68 | 1.51 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | [Washtenaw Qualifier 2023](https://www.worldcubeassociation.org/competitions/WashtenawQualifier2023/results/by_person#2019SHER10) |
+| 69 | 1.51 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | [Fort Wayne Favorites 2023](https://www.worldcubeassociation.org/competitions/FortWayneFavorites2023/results/by_person#2019SHER10) |
+| 70 | 1.51 | [Sebastian Lee](https://www.worldcubeassociation.org/persons/2021LEES01) | [Newcastle Open 2023](https://www.worldcubeassociation.org/competitions/NewcastleOpen2023/results/by_person#2021LEES01) |
+| 71 | 1.52 | [Elijah Brown](https://www.worldcubeassociation.org/persons/2015BROW03) | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/by_person#2015BROW03) |
+| 72 | 1.52 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Cube Factory Częstochowa 2018](https://www.worldcubeassociation.org/competitions/CubeFactoryCzestochowa2018/results/by_person#2016KOLA02) |
+| 73 | 1.52 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | [Cubing up the UP 2023](https://www.worldcubeassociation.org/competitions/CubinguptheUP2023/results/by_person#2016KELL12) |
+| 74 | 1.52 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | [Palmerston North 2023](https://www.worldcubeassociation.org/competitions/PalmerstonNorth2023/results/by_person#2018MURR03) |
+| 75 | 1.52 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | [Energy Cube Koło 2023](https://www.worldcubeassociation.org/competitions/EnergyCubeKolo2023/results/by_person#2018HIBS01) |
+| 76 | 1.52 | [Elyas Eyou](https://www.worldcubeassociation.org/persons/2018EYOU02) | [NZ South Island Champs 2023](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2023/results/by_person#2018EYOU02) |
+| 77 | 1.52 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | [Waterloo Favourites Fall 2023](https://www.worldcubeassociation.org/competitions/WaterlooFavouritesFall2023/results/by_person#2019SHER10) |
+| 78 | 1.52 | [Sebastian Lee](https://www.worldcubeassociation.org/persons/2021LEES01) | [Warm Up Sydney Sunday 2023](https://www.worldcubeassociation.org/competitions/WarmUpSydneySunday2023/results/by_person#2021LEES01) |
+| 79 | 1.53 | [Wesley Allen](https://www.worldcubeassociation.org/persons/2015ALLE03) | [WCA Oceanic Championship 2022](https://www.worldcubeassociation.org/competitions/OC2022/results/by_person#2015ALLE03) |
+| 80 | 1.53 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | [LLS I Bełżyce 2021](https://www.worldcubeassociation.org/competitions/LLSIBelzyce2021/results/by_person#2015GORN01) |
+| 81 | 1.53 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | [FargoDome 2023](https://www.worldcubeassociation.org/competitions/FargoDome2023/results/by_person#2016KELL12) |
+| 82 | 1.53 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | [Twisty Taranaki 2022](https://www.worldcubeassociation.org/competitions/TwistyTaranaki2022/results/by_person#2018MURR03) |
+| 83 | 1.53 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | [Cashmere Open 2023](https://www.worldcubeassociation.org/competitions/CashmereOpen2023/results/by_person#2018MURR03) |
+| 84 | 1.53 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | [Dragon Cubing 2022](https://www.worldcubeassociation.org/competitions/DragonCubing2022/results/by_person#2018HIBS01) |
+| 85 | 1.53 | [Elyas Eyou](https://www.worldcubeassociation.org/persons/2018EYOU02) | [NZ North Island Champs 2023](https://www.worldcubeassociation.org/competitions/NZNorthIslandChampionship2023/results/by_person#2018EYOU02) |
+| 86 | 1.53 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [YJ KL 2023](https://www.worldcubeassociation.org/competitions/YJKL2023/results/by_person#2019JIAN54) |
+| 87 | 1.53 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | [Michigan Speedcubing Spring 2023](https://www.worldcubeassociation.org/competitions/MichiganSpeedcubingSpring2023/results/by_person#2019SHER10) |
+| 88 | 1.53 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | [Flag City Summer 2023](https://www.worldcubeassociation.org/competitions/FlagCitySummer2023/results/by_person#2019SHER10) |
 | 89 | 1.53 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | [OH-io State 2023](https://www.worldcubeassociation.org/competitions/OHioState2023/results/by_person#2019SHER10) |
-| 90 | 1.53 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | [Edinburgh Summer 2023](https://www.worldcubeassociation.org/competitions/EdinburghSummer2023/results/by_person#2022PART02) |
-| 91 | 1.54 | [Elijah Brown](https://www.worldcubeassociation.org/persons/2015BROW03) | [Cubing in the Valley 2023](https://www.worldcubeassociation.org/competitions/CubingintheValley2023/results/by_person#2015BROW03) |
-| 92 | 1.54 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | [Hobcaw Cubing 2023](https://www.worldcubeassociation.org/competitions/HobcawCubing2023/results/by_person#2017NIEL03) |
-| 93 | 1.54 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | [Opawa Open 2022](https://www.worldcubeassociation.org/competitions/OpawaOpen2022/results/by_person#2018MURR03) |
-| 94 | 1.54 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | [Cashmere Open 2023](https://www.worldcubeassociation.org/competitions/CashmereOpen2023/results/by_person#2018MURR03) |
-| 95 | 1.54 | [Davelno Danish Raziq](https://www.worldcubeassociation.org/persons/2018RAZI02) | [Indonesian Championship 2022](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2022/results/by_person#2018RAZI02) |
-| 96 | 1.54 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Chengdu Flash Cube Open 2023](https://www.worldcubeassociation.org/competitions/ChengduFlashCubeOpen2023/results/by_person#2019JIAN54) |
-| 97 | 1.54 | [Sebastian Lee](https://www.worldcubeassociation.org/persons/2021LEES01) | [WCA Oceanic Championship 2022](https://www.worldcubeassociation.org/competitions/OC2022/results/by_person#2021LEES01) |
-| 98 | 1.54 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | [Bolton Spring 2023](https://www.worldcubeassociation.org/competitions/BoltonSpring2023/results/by_person#2022PART02) |
-| 99 | 1.55 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | [Gem City 2022](https://www.worldcubeassociation.org/competitions/GemCity2022/results/by_person#2015KAME02) |
-| 100 | 1.55 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | [Heartland Championship 2023](https://www.worldcubeassociation.org/competitions/HeartlandChampionship2023/results/by_person#2016KELL12) |
+| 90 | 1.53 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | [OH-io State 2023](https://www.worldcubeassociation.org/competitions/OHioState2023/results/by_person#2019SHER10) |
+| 91 | 1.53 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | [Edinburgh Summer 2023](https://www.worldcubeassociation.org/competitions/EdinburghSummer2023/results/by_person#2022PART02) |
+| 92 | 1.54 | [Elijah Brown](https://www.worldcubeassociation.org/persons/2015BROW03) | [Cubing in the Valley 2023](https://www.worldcubeassociation.org/competitions/CubingintheValley2023/results/by_person#2015BROW03) |
+| 93 | 1.54 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | [Hobcaw Cubing 2023](https://www.worldcubeassociation.org/competitions/HobcawCubing2023/results/by_person#2017NIEL03) |
+| 94 | 1.54 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | [Opawa Open 2022](https://www.worldcubeassociation.org/competitions/OpawaOpen2022/results/by_person#2018MURR03) |
+| 95 | 1.54 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | [Cashmere Open 2023](https://www.worldcubeassociation.org/competitions/CashmereOpen2023/results/by_person#2018MURR03) |
+| 96 | 1.54 | [Davelno Danish Raziq](https://www.worldcubeassociation.org/persons/2018RAZI02) | [Indonesian Championship 2022](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2022/results/by_person#2018RAZI02) |
+| 97 | 1.54 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Chengdu Flash Cube Open 2023](https://www.worldcubeassociation.org/competitions/ChengduFlashCubeOpen2023/results/by_person#2019JIAN54) |
+| 98 | 1.54 | [Sebastian Lee](https://www.worldcubeassociation.org/persons/2021LEES01) | [WCA Oceanic Championship 2022](https://www.worldcubeassociation.org/competitions/OC2022/results/by_person#2021LEES01) |
+| 99 | 1.54 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | [Bolton Spring 2023](https://www.worldcubeassociation.org/competitions/BoltonSpring2023/results/by_person#2022PART02) |
+| 100 | 1.55 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | [Gem City 2022](https://www.worldcubeassociation.org/competitions/GemCity2022/results/by_person#2015KAME02) |
 
 ### Rubik's Clock
 
