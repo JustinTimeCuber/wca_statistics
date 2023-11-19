@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 17 November 2023*
+*Updated on 19 November 2023*
 
 
 ### Rubik's Cube
@@ -1199,7 +1199,7 @@
 | 34 | 6.73 | [Kobe Rodriguez](https://www.worldcubeassociation.org/persons/2017RODR72) |
 | 35 | 6.74 | [Thanapon Ponchai (ธนพล พลชัย)](https://www.worldcubeassociation.org/persons/2017PONC04) |
 | 36 | 6.75 | [Jonathan Pelser](https://www.worldcubeassociation.org/persons/2022PELS01) |
-| 37 | 6.76 | [Quinlan Maloney](https://www.worldcubeassociation.org/persons/2023MALO01) |
+| 37 | 6.76 | [Quinn Maloney](https://www.worldcubeassociation.org/persons/2023MALO01) |
 | 38 | 6.76 | [Drew Duong](https://www.worldcubeassociation.org/persons/2022DUON08) |
 | 39 | 6.81 | [Christopher Fandrich](https://www.worldcubeassociation.org/persons/2019FAND01) |
 | 40 | 6.83 | [Viswath Kumaraa Kesavaraj](https://www.worldcubeassociation.org/persons/2018KESA02) |

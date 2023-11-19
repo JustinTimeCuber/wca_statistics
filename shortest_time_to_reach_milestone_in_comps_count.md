@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 17 November 2023*
+*Updated on 19 November 2023*
 
 
 ### 100 Competitions
@@ -427,8 +427,8 @@
 | 8 | 334 | [Michael Amarello](https://www.worldcubeassociation.org/persons/2022AMAR09) |
 | 9 | 359 | [Ruby Lu](https://www.worldcubeassociation.org/persons/2022LURU01) |
 | 10 | 365 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
-| 11 | 372 | [Tamar Ozsvath](https://www.worldcubeassociation.org/persons/2022OZSV04) |
-| 12 | 372 | [Nina Ozsvath](https://www.worldcubeassociation.org/persons/2022OZSV03) |
+| 11 | 372 | [Nina Ozsvath](https://www.worldcubeassociation.org/persons/2022OZSV03) |
+| 12 | 372 | [Tamar Ozsvath](https://www.worldcubeassociation.org/persons/2022OZSV04) |
 | 13 | 377 | [Ludwig Ivarsson](https://www.worldcubeassociation.org/persons/2022IVAR01) |
 | 14 | 378 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
 | 15 | 378 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
@@ -747,9 +747,9 @@
 | 123 | 211 | [Jakub Rezmer-Dywan](https://www.worldcubeassociation.org/persons/2022REZM01) |
 | 124 | 211 | [Doriane Robbe](https://www.worldcubeassociation.org/persons/2022ROBB03) |
 | 125 | 211 | [Filip Błaszkowicz](https://www.worldcubeassociation.org/persons/2022BLAS03) |
-| 126 | 211 | [Simon Tiger Houben](https://www.worldcubeassociation.org/persons/2022HOUB01) |
-| 127 | 211 | [Tamar Ozsvath](https://www.worldcubeassociation.org/persons/2022OZSV04) |
-| 128 | 211 | [Nina Ozsvath](https://www.worldcubeassociation.org/persons/2022OZSV03) |
+| 126 | 211 | [Nina Ozsvath](https://www.worldcubeassociation.org/persons/2022OZSV03) |
+| 127 | 211 | [Simon Tiger Houben](https://www.worldcubeassociation.org/persons/2022HOUB01) |
+| 128 | 211 | [Tamar Ozsvath](https://www.worldcubeassociation.org/persons/2022OZSV04) |
 | 129 | 211 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) |
 | 130 | 211 | [Michal Černý](https://www.worldcubeassociation.org/persons/2022CERN03) |
 | 131 | 211 | [Christian Crea](https://www.worldcubeassociation.org/persons/2023CREA02) |

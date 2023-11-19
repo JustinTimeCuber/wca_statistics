@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 1000 single are taken into account.*
-*Updated on 17 November 2023*
+*Updated on 19 November 2023*
 
 
 ### Rubik's Cube
@@ -1058,9 +1058,9 @@
 
 | Rank | Ao5 | Person | Times |
 | :--- | ---: | :--- | :--- |
-| 1 | 1.42 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | 1.50, 1.38, 3.53, 1.21, 1.40 |
-| 2 | 1.46 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | 1.27, 1.38, 1.18, 3.32, 1.73 |
-| 3 | 1.48 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | 1.61, 1.28, 2.82, 1.49, 1.34 |
+| 1 | 1.27 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | 1.08, 1.18, 1.40, 2.57, 1.25 |
+| 2 | 1.42 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | 1.50, 1.38, 3.53, 1.21, 1.40 |
+| 3 | 1.46 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | 1.27, 1.38, 1.18, 3.32, 1.73 |
 | 4 | 1.53 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | 2.02, 1.53, 1.54, 1.32, 1.54 |
 | 5 | 1.53 | [Elyas Eyou](https://www.worldcubeassociation.org/persons/2018EYOU02) | 1.49, 3.96, 1.56, 1.55, 1.46 |
 | 6 | 1.53 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | 1.67, 1.40, 3.36, 1.54, 1.38 |
@@ -1564,12 +1564,12 @@
 | 84 | 4:42.33 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | 4:33.73, 4:41.22, DNF, 4:45.54, 4:40.24 |
 | 85 | 4:46.78 | [Dieter Amberger](https://www.worldcubeassociation.org/persons/2016AMBE02) | 4:10.39, 4:35.40, DNF, 4:28.85, 5:16.09 |
 | 86 | 4:46.92 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | 4:23.05, DNF, 4:26.04, 4:58.84, 4:55.89 |
-| 87 | 4:57.54 | [Eddy Deturche](https://www.worldcubeassociation.org/persons/2014DETU01) | 4:20.49, 3:50.26, 5:30.12, 5:49.14, 5:02.03 |
-| 88 | 4:58.34 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | 4:17.44, 6:11.99, DNF, 4:25.60, 3:18.15 |
-| 89 | 4:59.46 | [Shawn Lee Zhi Xuan (李致轩)](https://www.worldcubeassociation.org/persons/2017XUAN03) | 5:25.57, 4:57.02, 4:59.84, 5:01.53, 4:39.38 |
-| 90 | 5:02.28 | [Andreas Pohl](https://www.worldcubeassociation.org/persons/2012POHL01) | 4:33.88, DNF, 5:00.43, 3:40.16, 5:32.53 |
-| 91 | 5:05.11 | [Minhyun Kim (김민현)](https://www.worldcubeassociation.org/persons/2007MINH01) | 5:30.73, 4:26.35, 5:15.46, 5:48.56, 4:29.15 |
-| 92 | 5:14.16 | [Abner Brijesh](https://www.worldcubeassociation.org/persons/2016BRIJ01) | 5:46.04, 5:13.91, 4:42.55, DNF, 4:10.41 |
+| 87 | 4:52.43 | [Abner Brijesh](https://www.worldcubeassociation.org/persons/2016BRIJ01) | 5:13.91, 4:42.55, DNF, 4:10.41, 4:40.83 |
+| 88 | 4:57.54 | [Eddy Deturche](https://www.worldcubeassociation.org/persons/2014DETU01) | 4:20.49, 3:50.26, 5:30.12, 5:49.14, 5:02.03 |
+| 89 | 4:58.34 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | 4:17.44, 6:11.99, DNF, 4:25.60, 3:18.15 |
+| 90 | 4:59.46 | [Shawn Lee Zhi Xuan (李致轩)](https://www.worldcubeassociation.org/persons/2017XUAN03) | 5:25.57, 4:57.02, 4:59.84, 5:01.53, 4:39.38 |
+| 91 | 5:02.28 | [Andreas Pohl](https://www.worldcubeassociation.org/persons/2012POHL01) | 4:33.88, DNF, 5:00.43, 3:40.16, 5:32.53 |
+| 92 | 5:05.11 | [Minhyun Kim (김민현)](https://www.worldcubeassociation.org/persons/2007MINH01) | 5:30.73, 4:26.35, 5:15.46, 5:48.56, 4:29.15 |
 | 93 | 5:14.36 | [Luca Chiandotto](https://www.worldcubeassociation.org/persons/2022CHIA04) | 5:10.10, 5:52.71, 5:40.30, 4:52.69, 4:27.72 |
 | 94 | 5:14.75 | [Paul Taylor](https://www.worldcubeassociation.org/persons/2016TAYL02) | DNF, 5:15.63, 4:34.54, 5:25.79, 5:02.85 |
 | 95 | 5:17.92 | [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) | 4:11.05, 6:22.00, 5:20.71, DNF, 3:54.11 |

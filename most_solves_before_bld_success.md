@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on 17 November 2023*
+*Updated on 19 November 2023*
 
 
 ### 3x3x3 Blindfolded
@@ -797,11 +797,11 @@
 | 173 | 4 | [Zhifang Xi (席之枋)](https://www.worldcubeassociation.org/persons/2016XIZH01) |
 | 174 | 4 | [Adolfo Ortega Tecuapacho](https://www.worldcubeassociation.org/persons/2017TECU01) |
 | 175 | 4 | [Samuel Hernandez Castro](https://www.worldcubeassociation.org/persons/2016CAST31) |
-| 176 | 4 | [Alex Davani](https://www.worldcubeassociation.org/persons/2013DAVA01) |
-| 177 | 4 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
+| 176 | 4 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
+| 177 | 4 | [Alex Davani](https://www.worldcubeassociation.org/persons/2013DAVA01) |
 | 178 | 4 | [Noel Kim](https://www.worldcubeassociation.org/persons/2016KIMN02) |
-| 179 | 4 | [Nikita Razzamazov (Никита Раззама́зов)](https://www.worldcubeassociation.org/persons/2016RAZZ01) |
-| 180 | 4 | [Andy Wong](https://www.worldcubeassociation.org/persons/2017WONG13) |
+| 179 | 4 | [Andy Wong](https://www.worldcubeassociation.org/persons/2017WONG13) |
+| 180 | 4 | [Nikita Razzamazov (Никита Раззама́зов)](https://www.worldcubeassociation.org/persons/2016RAZZ01) |
 | 181 | 4 | [Pessi Ansaranta](https://www.worldcubeassociation.org/persons/2016ANSA02) |
 | 182 | 4 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) |
 | 183 | 4 | [Anirudh Sureshram](https://www.worldcubeassociation.org/persons/2014SURE11) |
