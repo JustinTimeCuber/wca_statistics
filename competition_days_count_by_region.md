@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 22 November 2023*
+*Updated on 25 November 2023*
 
 
 ### World
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.48 | World | 10864 |
+| 1 | 1.48 | World | 10877 |
 
 ### Continents
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.75 | Europe | 3545 |
-| 2 | 1.54 | South America | 1268 |
+| 1 | 1.75 | Europe | 3546 |
+| 2 | 1.54 | South America | 1269 |
 | 3 | 1.48 | Oceania | 470 |
-| 4 | 1.42 | Asia | 2440 |
+| 4 | 1.42 | Asia | 2446 |
 | 5 | 1.24 | Africa | 124 |
-| 6 | 1.20 | North America | 3017 |
+| 6 | 1.20 | North America | 3022 |
 
 ### Countries
 
@@ -27,10 +27,10 @@
 | 1 | 2.14 | Hungary | 35 |
 | 2 | 2.06 | Czech Republic | 47 |
 | 3 | 2.06 | Uzbekistan | 16 |
-| 4 | 2.05 | Kazakhstan | 40 |
+| 4 | 2.05 | Kazakhstan | 41 |
 | 5 | 2.00 | Liechtenstein | 3 |
 | 6 | 2.00 | Sri Lanka | 6 |
-| 7 | 2.00 | Turkey | 79 |
+| 7 | 1.99 | Turkey | 80 |
 | 8 | 1.96 | United Kingdom | 193 |
 | 9 | 1.93 | Belarus | 42 |
 | 10 | 1.92 | Russia | 220 |
@@ -71,7 +71,7 @@
 | 45 | 1.60 | Greece | 20 |
 | 46 | 1.60 | Nigeria | 5 |
 | 47 | 1.60 | Sweden | 216 |
-| 48 | 1.59 | India | 491 |
+| 48 | 1.59 | India | 492 |
 | 49 | 1.58 | Bangladesh | 12 |
 | 50 | 1.56 | Italy | 188 |
 | 51 | 1.56 | Bolivia | 102 |
@@ -86,7 +86,7 @@
 | 60 | 1.45 | Israel | 38 |
 | 61 | 1.44 | Australia | 377 |
 | 62 | 1.42 | Nepal | 19 |
-| 63 | 1.42 | Colombia | 229 |
+| 63 | 1.42 | Colombia | 230 |
 | 64 | 1.40 | Singapore | 43 |
 | 65 | 1.38 | Bulgaria | 13 |
 | 66 | 1.38 | Ecuador | 39 |
@@ -98,15 +98,15 @@
 | 72 | 1.33 | Hong Kong, China | 18 |
 | 73 | 1.33 | Kuwait | 6 |
 | 74 | 1.33 | Tajikistan | 3 |
-| 75 | 1.33 | Philippines | 244 |
-| 76 | 1.33 | Vietnam | 58 |
+| 75 | 1.33 | Vietnam | 58 |
+| 76 | 1.33 | Philippines | 245 |
 | 77 | 1.32 | Republic of Korea | 81 |
 | 78 | 1.31 | United Arab Emirates | 16 |
 | 79 | 1.30 | Venezuela | 67 |
 | 80 | 1.29 | Bahrain | 7 |
 | 81 | 1.29 | Panama | 14 |
 | 82 | 1.27 | Chile | 104 |
-| 83 | 1.26 | China | 620 |
+| 83 | 1.26 | China | 623 |
 | 84 | 1.24 | Mongolia | 25 |
 | 85 | 1.22 | Portugal | 18 |
 | 86 | 1.21 | Japan | 222 |
@@ -117,7 +117,7 @@
 | 91 | 1.17 | Morocco | 6 |
 | 92 | 1.17 | Tunisia | 24 |
 | 93 | 1.16 | Canada | 313 |
-| 94 | 1.16 | United States | 2416 |
+| 94 | 1.16 | United States | 2421 |
 | 95 | 1.14 | Azerbaijan | 42 |
 | 96 | 1.12 | Honduras | 16 |
 | 97 | 1.08 | Georgia | 26 |
