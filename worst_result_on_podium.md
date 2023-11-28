@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on 25 November 2023*
+*Updated on 28 November 2023*
 
 
 ### Rubik's Cube
@@ -912,42 +912,42 @@
 | 62 | [Lars Petrus](https://www.worldcubeassociation.org/persons/1982PETR01) | 58.50 | **1:01.92** | [Northern CA 2005](https://www.worldcubeassociation.org/competitions/NorthernCA2005/results/podiums#e333oh) | 3 |
 | 63 | [Rohan Sohonee](https://www.worldcubeassociation.org/persons/2011SOHO01) | 53.36 | **1:01.41** | [Engineer Open 2011](https://www.worldcubeassociation.org/competitions/EngineerOpen2011/results/podiums#e333oh) | 3 |
 | 64 | [Dhanayush Raninga](https://www.worldcubeassociation.org/persons/2010RANI01) | 48.55 | **1:00.43** | [Shaastra Cube Open 2010](https://www.worldcubeassociation.org/competitions/ShaastraOpen2010/results/podiums#e333oh) | 3 |
-| 65 | [Magnus Claesson](https://www.worldcubeassociation.org/persons/2007CLAE01) | 40.81 | **1:00.32** | [Sandö Open 2009](https://www.worldcubeassociation.org/competitions/SandoOpen2009/results/podiums#e333oh) | 3 |
-| 66 | [Luciano David Rosales Gomez](https://www.worldcubeassociation.org/persons/2023GOME56) | 50.18 | **1:00.30** | [Tierra del Fuego 2023](https://www.worldcubeassociation.org/competitions/TierradelFuego2023/results/podiums#e333oh) | 3 |
-| 67 | [Taha Ben Salah](https://www.worldcubeassociation.org/persons/2015SALA03) | 41.27 | **1:00.25** | [Tunisia Summer Open 2015](https://www.worldcubeassociation.org/competitions/TunisiaSummerOpen2015/results/podiums#e333oh) | 1 |
-| 68 | [Youcef Kouadria](https://www.worldcubeassociation.org/persons/2016KOUA01) | 54.74 | **1:00.00** | [Setif Spring Open 2018](https://www.worldcubeassociation.org/competitions/SetifSpringOpen2018/results/podiums#e333oh) | 3 |
-| 69 | [Ghabryel Barroso Moraes](https://www.worldcubeassociation.org/persons/2023MORA71) | 48.69 | **59.89** | [Rondon Cube 2023](https://www.worldcubeassociation.org/competitions/RondonCube2023/results/podiums#e333oh) | 3 |
-| 70 | [Uriel Brian Romero](https://www.worldcubeassociation.org/persons/2023ROME22) | 39.59 | **59.47** | [Tierra del Fuego 2023](https://www.worldcubeassociation.org/competitions/TierradelFuego2023/results/podiums#e333oh) | 2 |
-| 71 | [Thaynara Santana de Oliveira](https://www.worldcubeassociation.org/persons/2011OLIV03) | 38.94 | **58.85** | [II Aracaju Open 2014](https://www.worldcubeassociation.org/competitions/AracajuOpen2014/results/podiums#e333oh) | 3 |
-| 72 | [Juan Arturo Rosillo Moreno](https://www.worldcubeassociation.org/persons/2010MORE02) | 54.84 | **58.52** | [Toluca 2010](https://www.worldcubeassociation.org/competitions/Toluca2010/results/podiums#e333oh) | 3 |
-| 73 | [Joshua Brungar](https://www.worldcubeassociation.org/persons/2009BRUN03) | 45.55 | **58.48** | [Waikato Autumn Open 2010](https://www.worldcubeassociation.org/competitions/WaikatoAutumnOpen2010/results/podiums#e333oh) | 2 |
-| 74 | [David Calvo Vivas](https://www.worldcubeassociation.org/persons/2005CALV02) | 53.77 | **58.39** | [Spain 2005](https://www.worldcubeassociation.org/competitions/Spain2005/results/podiums#e333oh) | 1 |
-| 75 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) | 48.83 | **58.39** | [Swedish Open 2006](https://www.worldcubeassociation.org/competitions/SwedishOpen2006/results/podiums#e333oh) | 3 |
-| 76 | [Kåre Krig](https://www.worldcubeassociation.org/persons/2004KRIG02) | 53.36 | **58.34** | [Swedish CubeDay 2005](https://www.worldcubeassociation.org/competitions/SwedishCubeday2005/results/podiums#e333oh) | 2 |
-| 77 | [Warren Liao](https://www.worldcubeassociation.org/persons/2005LIAO01) | 44.58 | **58.16** | [Northern CA 2005](https://www.worldcubeassociation.org/competitions/NorthernCA2005/results/podiums#e333oh) | 2 |
-| 78 | [Daniel Alber Ninaquispe Corales](https://www.worldcubeassociation.org/persons/2011CORA01) | 50.43 | **58.12** | [Arequipa Open 2011](https://www.worldcubeassociation.org/competitions/ArequipaOpen2011/results/podiums#e333oh) | 1 |
-| 79 | [Anthony Brooks](https://www.worldcubeassociation.org/persons/2008SEAR01) | 49.09 | **57.85** | [Austin Open 2008](https://www.worldcubeassociation.org/competitions/AustinOpen2008/results/podiums#e333oh) | 1 |
-| 80 | [Logan Swofford](https://www.worldcubeassociation.org/persons/2008SWOF01) | 44.86 | **57.85** | [Austin Spring 2009](https://www.worldcubeassociation.org/competitions/AustinSpring2009/results/podiums#e333oh) | 3 |
-| 81 | [Moez Boussarsar](https://www.worldcubeassociation.org/persons/2015BOUS02) | 47.15 | **57.63** | [Tunisia Winter Open 2015](https://www.worldcubeassociation.org/competitions/TunisiaWinterOpen2015/results/podiums#e333oh) | 1 |
-| 82 | [Lee Pappas](https://www.worldcubeassociation.org/persons/2009PAPP01) | 50.66 | **57.52** | [Aurora Summer 2009](https://www.worldcubeassociation.org/competitions/AuroraSummer2009/results/podiums#e333oh) | 3 |
-| 83 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) | 55.46 | **57.40** | [Netherlands 2006](https://www.worldcubeassociation.org/competitions/Netherlands2006/results/podiums#e333oh) | 3 |
-| 84 | [Kiyoshi Takahashi](https://www.worldcubeassociation.org/persons/2007TAKA01) | 47.91 | **56.95** | [Norwegian Open 2008](https://www.worldcubeassociation.org/competitions/NorwegianOpen2008/results/podiums#e333oh) | 3 |
-| 85 | [Rahul Kadukar](https://www.worldcubeassociation.org/persons/2009KADU01) | 45.18 | **56.95** | [Delhi Open 2010](https://www.worldcubeassociation.org/competitions/DelhiOpen2010/results/podiums#e333oh) | 2 |
-| 86 | [Aditya Sasikumar](https://www.worldcubeassociation.org/persons/2009SASI01) | 44.49 | **56.91** | [Amrita Cube Open 2013](https://www.worldcubeassociation.org/competitions/AmritaCubeOpen2013/results/podiums#e333oh) | 3 |
-| 87 | [Abdesalam Derdour](https://www.worldcubeassociation.org/persons/2014DERD01) | 44.82 | **56.86** | [Algers Summer Open 2016](https://www.worldcubeassociation.org/competitions/AlgersSummerOpen2016/results/podiums#e333oh) | 3 |
-| 88 | [Harish Chandramouleeswaran](https://www.worldcubeassociation.org/persons/2010CHAN13) | 51.19 | **56.73** | [Cube Challenge Quark 2015](https://www.worldcubeassociation.org/competitions/CubingChallengeQuark2015/results/podiums#e333oh) | 2 |
-| 89 | [Sergio Yagüe Carpio](https://www.worldcubeassociation.org/persons/2013CARP02) | 51.31 | **56.72** | [Gijón Open 2014](https://www.worldcubeassociation.org/competitions/GijonOpen2014/results/podiums#e333oh) | 3 |
-| 90 | [Anup Adhikari](https://www.worldcubeassociation.org/persons/2016ADHI01) | 49.29 | **56.54** | [Nepal Open 2016](https://www.worldcubeassociation.org/competitions/NepalOpen2016/results/podiums#e333oh) | 3 |
-| 91 | [Taha Ben Salah](https://www.worldcubeassociation.org/persons/2015SALA03) | 31.37 | **56.46** | [Tunisia Spring Open 2015](https://www.worldcubeassociation.org/competitions/TunisiaSpringOpen2015/results/podiums#e333oh) | 1 |
-| 92 | [Rishi Kumar](https://www.worldcubeassociation.org/persons/2004KUMA01) | 48.61 | **56.41** | [Caltech Fall 2004](https://www.worldcubeassociation.org/competitions/CaltechFall2004/results/podiums#e333oh) | 3 |
-| 93 | [Michael Atkinson](https://www.worldcubeassociation.org/persons/2003ATKI01) | 50.77 | **56.31** | [Idaho Open 2005](https://www.worldcubeassociation.org/competitions/IdahoOpen2005/results/podiums#e333oh) | 2 |
-| 94 | [Frank Morris](https://www.worldcubeassociation.org/persons/2003MORR01) | 55.33 | **55.73** | [Idaho Open 2005](https://www.worldcubeassociation.org/competitions/IdahoOpen2005/results/podiums#e333oh) | 1 |
-| 95 | [Abdul Darries](https://www.worldcubeassociation.org/persons/2016DARR02) | 48.21 | **55.59** | [Speedcubes Cape Town 2017](https://www.worldcubeassociation.org/competitions/SpeedcubesCapeTown2017/results/podiums#e333oh) | 2 |
-| 96 | [Rahul Kadukar](https://www.worldcubeassociation.org/persons/2009KADU01) | 47.97 | **54.83** | [Axis Open 2010](https://www.worldcubeassociation.org/competitions/AxisOpen2010/results/podiums#e333oh) | 2 |
-| 97 | [Nabarun Deka](https://www.worldcubeassociation.org/persons/2013DEKA01) | 44.61 | **54.18** | [Techniche Cube Open 2013](https://www.worldcubeassociation.org/competitions/TechnicheCubeOpen2013/results/podiums#e333oh) | 3 |
-| 98 | [Angelo Mauricio Adasme Alfaro](https://www.worldcubeassociation.org/persons/2009ALFA02) | 42.96 | **54.15** | [Cuberos.cl Open 2010](https://www.worldcubeassociation.org/competitions/CuberosOpen2010/results/podiums#e333oh) | 3 |
-| 99 | [Hong Tan Lam](https://www.worldcubeassociation.org/persons/2008LAMH01) | 48.41 | **53.87** | [Norwegian Open 2008](https://www.worldcubeassociation.org/competitions/NorwegianOpen2008/results/podiums#e333oh) | 2 |
-| 100 | [David Aguila](https://www.worldcubeassociation.org/persons/2005AGUI01) | 45.96 | **53.78** | [Florida Open 2007](https://www.worldcubeassociation.org/competitions/FloridaOpen2007/results/podiums#e333oh) | 3 |
+| 65 | [Cristopher Alejandro Rincón Cuadros](https://www.worldcubeassociation.org/persons/2023CUAD02) | 40.79 | **1:00.33** | [CBC Capitanejo II 2023](https://www.worldcubeassociation.org/competitions/CBCCapitanejoII2023/results/podiums#e333oh) | 3 |
+| 66 | [Magnus Claesson](https://www.worldcubeassociation.org/persons/2007CLAE01) | 40.81 | **1:00.32** | [Sandö Open 2009](https://www.worldcubeassociation.org/competitions/SandoOpen2009/results/podiums#e333oh) | 3 |
+| 67 | [Luciano David Rosales Gomez](https://www.worldcubeassociation.org/persons/2023GOME56) | 50.18 | **1:00.30** | [Tierra del Fuego 2023](https://www.worldcubeassociation.org/competitions/TierradelFuego2023/results/podiums#e333oh) | 3 |
+| 68 | [Taha Ben Salah](https://www.worldcubeassociation.org/persons/2015SALA03) | 41.27 | **1:00.25** | [Tunisia Summer Open 2015](https://www.worldcubeassociation.org/competitions/TunisiaSummerOpen2015/results/podiums#e333oh) | 1 |
+| 69 | [Youcef Kouadria](https://www.worldcubeassociation.org/persons/2016KOUA01) | 54.74 | **1:00.00** | [Setif Spring Open 2018](https://www.worldcubeassociation.org/competitions/SetifSpringOpen2018/results/podiums#e333oh) | 3 |
+| 70 | [Ghabryel Barroso Moraes](https://www.worldcubeassociation.org/persons/2023MORA71) | 48.69 | **59.89** | [Rondon Cube 2023](https://www.worldcubeassociation.org/competitions/RondonCube2023/results/podiums#e333oh) | 3 |
+| 71 | [Uriel Brian Romero](https://www.worldcubeassociation.org/persons/2023ROME22) | 39.59 | **59.47** | [Tierra del Fuego 2023](https://www.worldcubeassociation.org/competitions/TierradelFuego2023/results/podiums#e333oh) | 2 |
+| 72 | [Thaynara Santana de Oliveira](https://www.worldcubeassociation.org/persons/2011OLIV03) | 38.94 | **58.85** | [II Aracaju Open 2014](https://www.worldcubeassociation.org/competitions/AracajuOpen2014/results/podiums#e333oh) | 3 |
+| 73 | [Juan Arturo Rosillo Moreno](https://www.worldcubeassociation.org/persons/2010MORE02) | 54.84 | **58.52** | [Toluca 2010](https://www.worldcubeassociation.org/competitions/Toluca2010/results/podiums#e333oh) | 3 |
+| 74 | [Joshua Brungar](https://www.worldcubeassociation.org/persons/2009BRUN03) | 45.55 | **58.48** | [Waikato Autumn Open 2010](https://www.worldcubeassociation.org/competitions/WaikatoAutumnOpen2010/results/podiums#e333oh) | 2 |
+| 75 | [David Calvo Vivas](https://www.worldcubeassociation.org/persons/2005CALV02) | 53.77 | **58.39** | [Spain 2005](https://www.worldcubeassociation.org/competitions/Spain2005/results/podiums#e333oh) | 1 |
+| 76 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) | 48.83 | **58.39** | [Swedish Open 2006](https://www.worldcubeassociation.org/competitions/SwedishOpen2006/results/podiums#e333oh) | 3 |
+| 77 | [Kåre Krig](https://www.worldcubeassociation.org/persons/2004KRIG02) | 53.36 | **58.34** | [Swedish CubeDay 2005](https://www.worldcubeassociation.org/competitions/SwedishCubeday2005/results/podiums#e333oh) | 2 |
+| 78 | [Warren Liao](https://www.worldcubeassociation.org/persons/2005LIAO01) | 44.58 | **58.16** | [Northern CA 2005](https://www.worldcubeassociation.org/competitions/NorthernCA2005/results/podiums#e333oh) | 2 |
+| 79 | [Daniel Alber Ninaquispe Corales](https://www.worldcubeassociation.org/persons/2011CORA01) | 50.43 | **58.12** | [Arequipa Open 2011](https://www.worldcubeassociation.org/competitions/ArequipaOpen2011/results/podiums#e333oh) | 1 |
+| 80 | [Anthony Brooks](https://www.worldcubeassociation.org/persons/2008SEAR01) | 49.09 | **57.85** | [Austin Open 2008](https://www.worldcubeassociation.org/competitions/AustinOpen2008/results/podiums#e333oh) | 1 |
+| 81 | [Logan Swofford](https://www.worldcubeassociation.org/persons/2008SWOF01) | 44.86 | **57.85** | [Austin Spring 2009](https://www.worldcubeassociation.org/competitions/AustinSpring2009/results/podiums#e333oh) | 3 |
+| 82 | [Moez Boussarsar](https://www.worldcubeassociation.org/persons/2015BOUS02) | 47.15 | **57.63** | [Tunisia Winter Open 2015](https://www.worldcubeassociation.org/competitions/TunisiaWinterOpen2015/results/podiums#e333oh) | 1 |
+| 83 | [Lee Pappas](https://www.worldcubeassociation.org/persons/2009PAPP01) | 50.66 | **57.52** | [Aurora Summer 2009](https://www.worldcubeassociation.org/competitions/AuroraSummer2009/results/podiums#e333oh) | 3 |
+| 84 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) | 55.46 | **57.40** | [Netherlands 2006](https://www.worldcubeassociation.org/competitions/Netherlands2006/results/podiums#e333oh) | 3 |
+| 85 | [Kiyoshi Takahashi](https://www.worldcubeassociation.org/persons/2007TAKA01) | 47.91 | **56.95** | [Norwegian Open 2008](https://www.worldcubeassociation.org/competitions/NorwegianOpen2008/results/podiums#e333oh) | 3 |
+| 86 | [Rahul Kadukar](https://www.worldcubeassociation.org/persons/2009KADU01) | 45.18 | **56.95** | [Delhi Open 2010](https://www.worldcubeassociation.org/competitions/DelhiOpen2010/results/podiums#e333oh) | 2 |
+| 87 | [Aditya Sasikumar](https://www.worldcubeassociation.org/persons/2009SASI01) | 44.49 | **56.91** | [Amrita Cube Open 2013](https://www.worldcubeassociation.org/competitions/AmritaCubeOpen2013/results/podiums#e333oh) | 3 |
+| 88 | [Abdesalam Derdour](https://www.worldcubeassociation.org/persons/2014DERD01) | 44.82 | **56.86** | [Algers Summer Open 2016](https://www.worldcubeassociation.org/competitions/AlgersSummerOpen2016/results/podiums#e333oh) | 3 |
+| 89 | [Harish Chandramouleeswaran](https://www.worldcubeassociation.org/persons/2010CHAN13) | 51.19 | **56.73** | [Cube Challenge Quark 2015](https://www.worldcubeassociation.org/competitions/CubingChallengeQuark2015/results/podiums#e333oh) | 2 |
+| 90 | [Sergio Yagüe Carpio](https://www.worldcubeassociation.org/persons/2013CARP02) | 51.31 | **56.72** | [Gijón Open 2014](https://www.worldcubeassociation.org/competitions/GijonOpen2014/results/podiums#e333oh) | 3 |
+| 91 | [Anup Adhikari](https://www.worldcubeassociation.org/persons/2016ADHI01) | 49.29 | **56.54** | [Nepal Open 2016](https://www.worldcubeassociation.org/competitions/NepalOpen2016/results/podiums#e333oh) | 3 |
+| 92 | [Taha Ben Salah](https://www.worldcubeassociation.org/persons/2015SALA03) | 31.37 | **56.46** | [Tunisia Spring Open 2015](https://www.worldcubeassociation.org/competitions/TunisiaSpringOpen2015/results/podiums#e333oh) | 1 |
+| 93 | [Rishi Kumar](https://www.worldcubeassociation.org/persons/2004KUMA01) | 48.61 | **56.41** | [Caltech Fall 2004](https://www.worldcubeassociation.org/competitions/CaltechFall2004/results/podiums#e333oh) | 3 |
+| 94 | [Michael Atkinson](https://www.worldcubeassociation.org/persons/2003ATKI01) | 50.77 | **56.31** | [Idaho Open 2005](https://www.worldcubeassociation.org/competitions/IdahoOpen2005/results/podiums#e333oh) | 2 |
+| 95 | [Frank Morris](https://www.worldcubeassociation.org/persons/2003MORR01) | 55.33 | **55.73** | [Idaho Open 2005](https://www.worldcubeassociation.org/competitions/IdahoOpen2005/results/podiums#e333oh) | 1 |
+| 96 | [Abdul Darries](https://www.worldcubeassociation.org/persons/2016DARR02) | 48.21 | **55.59** | [Speedcubes Cape Town 2017](https://www.worldcubeassociation.org/competitions/SpeedcubesCapeTown2017/results/podiums#e333oh) | 2 |
+| 97 | [Rahul Kadukar](https://www.worldcubeassociation.org/persons/2009KADU01) | 47.97 | **54.83** | [Axis Open 2010](https://www.worldcubeassociation.org/competitions/AxisOpen2010/results/podiums#e333oh) | 2 |
+| 98 | [Nabarun Deka](https://www.worldcubeassociation.org/persons/2013DEKA01) | 44.61 | **54.18** | [Techniche Cube Open 2013](https://www.worldcubeassociation.org/competitions/TechnicheCubeOpen2013/results/podiums#e333oh) | 3 |
+| 99 | [Angelo Mauricio Adasme Alfaro](https://www.worldcubeassociation.org/persons/2009ALFA02) | 42.96 | **54.15** | [Cuberos.cl Open 2010](https://www.worldcubeassociation.org/competitions/CuberosOpen2010/results/podiums#e333oh) | 3 |
+| 100 | [Hong Tan Lam](https://www.worldcubeassociation.org/persons/2008LAMH01) | 48.41 | **53.87** | [Norwegian Open 2008](https://www.worldcubeassociation.org/competitions/NorwegianOpen2008/results/podiums#e333oh) | 2 |
 
 ### Megaminx
 
