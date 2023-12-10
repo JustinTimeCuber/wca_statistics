@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on  7 December 2023*
+*Updated on 10 December 2023*
 
 
 ### Rubik's Cube
@@ -421,8 +421,8 @@
 | 96 | 26 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [Cube4fun in Dębica 2022](https://www.worldcubeassociation.org/competitions/Cube4funDebica2022) |
 | 97 | 26 | [Szabolcs Szántai](https://www.worldcubeassociation.org/persons/2016SZAN01) | [Lužice No-Cutoff Special 2023](https://www.worldcubeassociation.org/competitions/LuziceNoCutoffSpecial2023) |
 | 98 | 26 | [Roxy Behrle](https://www.worldcubeassociation.org/persons/2018BEHR01) | [ALL1- Pittsburgh 2023](https://www.worldcubeassociation.org/competitions/ALL1Pittsburgh2023) |
-| 99 | 26 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) | [Prague NxNxN 2023](https://www.worldcubeassociation.org/competitions/PragueNxNxN2023) |
-| 100 | 25 | [Dmitry Kryuzban](https://www.worldcubeassociation.org/persons/2010KRYU01) | [PSU Winter 2017](https://www.worldcubeassociation.org/competitions/PSUWinter2017) |
+| 99 | 26 | [Carson Widjaja](https://www.worldcubeassociation.org/persons/2018WIDJ01) | [Lake Placid 2023](https://www.worldcubeassociation.org/competitions/LakePlacid2023) |
+| 100 | 26 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) | [Prague NxNxN 2023](https://www.worldcubeassociation.org/competitions/PragueNxNxN2023) |
 
 ### 6x6x6 Cube
 
@@ -1051,8 +1051,8 @@
 | 96 | 17 | [Shubham Maharana](https://www.worldcubeassociation.org/persons/2016MAHA07) | [Growel's 101 Cube Open 2023](https://www.worldcubeassociation.org/competitions/Growels101CubeOpen2023) |
 | 97 | 17 | [Diego Alfonso](https://www.worldcubeassociation.org/persons/2018ALFO01) | [Gesté Barrière Open 2021](https://www.worldcubeassociation.org/competitions/GesteBarriereOpen2021) |
 | 98 | 17 | [Alejandro Restrepo Echeverri](https://www.worldcubeassociation.org/persons/2017ECHE04) | [El Carmen de Viboral 2023](https://www.worldcubeassociation.org/competitions/ElCarmendeViboral2023) |
-| 99 | 17 | [Saisabari Ramesh](https://www.worldcubeassociation.org/persons/2021RAME01) | [Northampton Fall A 2023](https://www.worldcubeassociation.org/competitions/NorthamptonFallA2023) |
-| 100 | 16 | [Asia Konvittayayotin (เอเชีย กรวิทยโยธิน)](https://www.worldcubeassociation.org/persons/2009KONV01) | [Bangkok Open 2019](https://www.worldcubeassociation.org/competitions/BangkokOpen2019) |
+| 99 | 17 | [Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01) | [Jacksonville Winter 2023](https://www.worldcubeassociation.org/competitions/JacksonvilleWinter2023) |
+| 100 | 17 | [Saisabari Ramesh](https://www.worldcubeassociation.org/persons/2021RAME01) | [Northampton Fall A 2023](https://www.worldcubeassociation.org/competitions/NorthamptonFallA2023) |
 
 ### Pyraminx
 
@@ -1065,99 +1065,99 @@
 | 5 | 50 | [Hanneke Rijks](https://www.worldcubeassociation.org/persons/2008RIJK01) | [Tunisia Open 2014](https://www.worldcubeassociation.org/competitions/TunisiaOpen2014) |
 | 6 | 49 | [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) | [Ho'oholo in Honolulu 2023](https://www.worldcubeassociation.org/competitions/HooholoinHonolulu2023) |
 | 7 | 45 | [Adrián Martínez Macías](https://www.worldcubeassociation.org/persons/2013MACI01) | [CC El Muelle Open 2019](https://www.worldcubeassociation.org/competitions/CCElMuelleOpen2019) |
-| 8 | 43 | [Aleksander Arefiew](https://www.worldcubeassociation.org/persons/2016AREF01) | [Giżycko Open 2023](https://www.worldcubeassociation.org/competitions/GizyckoOpen2023) |
-| 9 | 42 | [Bhargav Narasimhan](https://www.worldcubeassociation.org/persons/2011NARA02) | [Drishti Cube Open 2018](https://www.worldcubeassociation.org/competitions/DrishtiCubeOpen2018) |
-| 10 | 42 | [Hannah Minas](https://www.worldcubeassociation.org/persons/2017MINA04) | [Macedonian Nationals 2019](https://www.worldcubeassociation.org/competitions/MacedonianNationals2019) |
-| 11 | 41 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | [Faaborg Open 2019](https://www.worldcubeassociation.org/competitions/FaaborgOpen2019) |
-| 12 | 41 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) | [Charleston Spring 2018](https://www.worldcubeassociation.org/competitions/CharlestonSpring2018) |
-| 13 | 40 | [Shubham Maharana](https://www.worldcubeassociation.org/persons/2016MAHA07) | [Pune Cube Fiesta 2023](https://www.worldcubeassociation.org/competitions/PuneCubeFiesta2023) |
-| 14 | 40 | [Antto Pitkänen](https://www.worldcubeassociation.org/persons/2017PITK01) | [Itämeri 2023](https://www.worldcubeassociation.org/competitions/Itameri2023) |
-| 15 | 40 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | [Torrelavega Open 2023](https://www.worldcubeassociation.org/competitions/TorrelavegaOpen2023) |
-| 16 | 39 | [Javier Tirado Ortiz](https://www.worldcubeassociation.org/persons/2009TIRA01) | [Aspe Open 2013](https://www.worldcubeassociation.org/competitions/AspeOpen2013) |
-| 17 | 38 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) | [Morocco Autumn 2018](https://www.worldcubeassociation.org/competitions/MoroccoAutumn2018) |
-| 18 | 36 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | [1 AVG 2013](https://www.worldcubeassociation.org/competitions/1AVG2013) |
-| 19 | 36 | [Oscar Alberto Ceballos Contreras](https://www.worldcubeassociation.org/persons/2013CONT01) | [Legends of Rubik 2016](https://www.worldcubeassociation.org/competitions/LegendsofRubik2016) |
-| 20 | 36 | [Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01) | [Rally In The Valley 2017](https://www.worldcubeassociation.org/competitions/RallyInTheValley2017) |
-| 21 | 35 | [Timothy Castle](https://www.worldcubeassociation.org/persons/2016CAST48) | [Cubing on Par B 2023](https://www.worldcubeassociation.org/competitions/CubingonParB2023) |
-| 22 | 34 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) | [Manaus Open 2014](https://www.worldcubeassociation.org/competitions/ManausOpen2014) |
-| 23 | 34 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | [CFL Domaniewice 2019](https://www.worldcubeassociation.org/competitions/CFLDomaniewice2019) |
-| 24 | 33 | [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) | [Hong Kong Championship 2023](https://www.worldcubeassociation.org/competitions/HongKongChampionship2023) |
-| 25 | 33 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [BCCC A 2021](https://www.worldcubeassociation.org/competitions/BCCubingComebackA2021) |
-| 26 | 33 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | [Cube4fun Bełżyce 2023](https://www.worldcubeassociation.org/competitions/Cube4funBelzyceMultiEvents2023) |
-| 27 | 32 | [Hunor Bózsing](https://www.worldcubeassociation.org/persons/2009BOZS01) | [B.O.N.D. Open 2015](https://www.worldcubeassociation.org/competitions/BONDOpen2015) |
-| 28 | 32 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | [Tierra del Fuego 2023](https://www.worldcubeassociation.org/competitions/TierradelFuego2023) |
-| 29 | 31 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) | [First Ecuador Open 2017](https://www.worldcubeassociation.org/competitions/FirstEcuadorOpen2017) |
-| 30 | 31 | [Zheng Chen (陈政)](https://www.worldcubeassociation.org/persons/2012CHEN41) | [Yancheng Spring 2019](https://www.worldcubeassociation.org/competitions/YanchengSpring2019) |
-| 31 | 31 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | [Welsh Open 2019](https://www.worldcubeassociation.org/competitions/WelshOpen2019) |
-| 32 | 31 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | [Trondheim Cube Week 2023](https://www.worldcubeassociation.org/competitions/TrondheimCubeWeek2023) |
-| 33 | 30 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) | [Jambi Cube Festival 2019](https://www.worldcubeassociation.org/competitions/JambiCubeFestival2019) |
-| 34 | 30 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) | [Moldova Open 2020](https://www.worldcubeassociation.org/competitions/MoldovaOpen2020) |
-| 35 | 29 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | [Belgian Open 2011](https://www.worldcubeassociation.org/competitions/BelgianOpen2011) |
-| 36 | 29 | [José Antonio Gaete Rozas-Peña](https://www.worldcubeassociation.org/persons/2017GAET01) | [Olimpiadas de la Mente 2023](https://www.worldcubeassociation.org/competitions/OlimpiadasdelaMente2023) |
-| 37 | 28 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | [Byczy Cube Race 2017](https://www.worldcubeassociation.org/competitions/ByczyCubeRace2017) |
-| 38 | 28 | [Elian Beguec](https://www.worldcubeassociation.org/persons/2014BEGU01) | [Speedcub'Eirb Winter Open 2019](https://www.worldcubeassociation.org/competitions/SpeedcubEirbWinterOpen2019) |
-| 39 | 28 | [Nitin Nathan](https://www.worldcubeassociation.org/persons/2015NATH02) | [VSVN Cube Open 2019](https://www.worldcubeassociation.org/competitions/VSVNCubeOpen2019) |
-| 40 | 28 | [Jason Ostdiek](https://www.worldcubeassociation.org/persons/2017OSTD02) | [Bay Area Speedcubin' 41 2023](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin412023) |
-| 41 | 27 | [Akula Pavan Kumar](https://www.worldcubeassociation.org/persons/2011KUMA01) | [Jharkhand Cube Open 2020](https://www.worldcubeassociation.org/competitions/JharkhandCubeOpen2020) |
-| 42 | 27 | [Yilin Miao (苗宜琳)](https://www.worldcubeassociation.org/persons/2015MIAO02) | [Heze Open 2019](https://www.worldcubeassociation.org/competitions/HezeOpen2019) |
-| 43 | 27 | [Simon Nilsson](https://www.worldcubeassociation.org/persons/2015NILS02) | [Frösö Cubing 2022](https://www.worldcubeassociation.org/competitions/FrosoCubing2022) |
-| 44 | 27 | [Noah Paredes](https://www.worldcubeassociation.org/persons/2016PARE03) | [Cubing At Sea 2020](https://www.worldcubeassociation.org/competitions/CubingAtSea2020) |
-| 45 | 27 | [Dominic Lumsden](https://www.worldcubeassociation.org/persons/2016LUMS01) | [Xlingen Open 2019](https://www.worldcubeassociation.org/competitions/XlingenOpen2019) |
-| 46 | 27 | [Alejandro Restrepo Echeverri](https://www.worldcubeassociation.org/persons/2017ECHE04) | [75 por Ciento Bogotá 2023](https://www.worldcubeassociation.org/competitions/75porCientoBogota2023) |
-| 47 | 26 | [Laura Tarrés Gimeno](https://www.worldcubeassociation.org/persons/2015GIME02) | [Basauri Open 2021](https://www.worldcubeassociation.org/competitions/BasauriOpen2021) |
-| 48 | 26 | [Anatolii Turenko (Анатолий Туренко)](https://www.worldcubeassociation.org/persons/2018TURE01) | [Azerbaijan Nationals 2023](https://www.worldcubeassociation.org/competitions/AzerbaijanNationals2023) |
-| 49 | 25 | [Moritz Karl](https://www.worldcubeassociation.org/persons/2008KARL02) | [Franconia Winter 2013](https://www.worldcubeassociation.org/competitions/FranconiaWinter2013) |
-| 50 | 25 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Carnegie Mellon Fall 2014](https://www.worldcubeassociation.org/competitions/CMUFall2014) |
-| 51 | 25 | [Naren Ramesh](https://www.worldcubeassociation.org/persons/2015RAME02) | [Bengaluru Winter Open 2018](https://www.worldcubeassociation.org/competitions/BengaluruOpen2018) |
-| 52 | 25 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | [SSL 4 Sundsvall 2019](https://www.worldcubeassociation.org/competitions/SSL4Sundsvall2019) |
-| 53 | 25 | [Austin Chen](https://www.worldcubeassociation.org/persons/2015CHEN20) | [Bay Area Speedcubin' 19 2019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin192019) |
-| 54 | 25 | [Samuel Eklund-Hanna](https://www.worldcubeassociation.org/persons/2019EKLU01) | [Fyris NxNxN 'n Side 2023](https://www.worldcubeassociation.org/competitions/FyrisNxNxNnSide2023) |
-| 55 | 25 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | [Cube4fun in Warsaw 2023](https://www.worldcubeassociation.org/competitions/Cube4funinWarsaw2023) |
-| 56 | 24 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) | [Gijón Open 2014](https://www.worldcubeassociation.org/competitions/GijonOpen2014) |
-| 57 | 24 | [Gaurav Taneja](https://www.worldcubeassociation.org/persons/2010TANE01) | [Ignus Open 2015](https://www.worldcubeassociation.org/competitions/IgnusOpen2015) |
-| 58 | 24 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | [CFL Domaniewice 2018](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueDomaniewice2018) |
-| 59 | 24 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | [ABHC 2018](https://www.worldcubeassociation.org/competitions/ABHC2018) |
-| 60 | 24 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | [Aarhus Spring 2019](https://www.worldcubeassociation.org/competitions/AarhusSpring2019) |
-| 61 | 24 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | [AUA Open 2021](https://www.worldcubeassociation.org/competitions/AUAOpen2021) |
-| 62 | 24 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Wyoming Summer 2019](https://www.worldcubeassociation.org/competitions/WyomingSummer2019) |
-| 63 | 24 | [Adrien Auvray Matyn](https://www.worldcubeassociation.org/persons/2018MATY02) | [Southernmost Solving 2023](https://www.worldcubeassociation.org/competitions/SouthernmostSolving2023) |
-| 64 | 24 | [Ronnie Jinxuan Zhu (朱缙轩)](https://www.worldcubeassociation.org/persons/2021ZHUR03) | [Lördagskuben Skillingaryd 2023](https://www.worldcubeassociation.org/competitions/LordagskubenSkillingaryd2023) |
-| 65 | 23 | [Antoine Piau](https://www.worldcubeassociation.org/persons/2008PIAU01) | [Champagne Open 2014](https://www.worldcubeassociation.org/competitions/ChampagneOpen2014) |
-| 66 | 23 | [Cameron Stollery](https://www.worldcubeassociation.org/persons/2010STOL01) | [Lifestyle Seasons Winter 2015](https://www.worldcubeassociation.org/competitions/LifestyleSeasonsWinter2015) |
-| 67 | 23 | [Kevin Vanegas Diaz](https://www.worldcubeassociation.org/persons/2012DIAZ03) | [Regreso a Clases Bogotá 2023](https://www.worldcubeassociation.org/competitions/RegresoaClasesBogota2023) |
-| 68 | 23 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | [CDJ 2016](https://www.worldcubeassociation.org/competitions/CitedesJeux2016) |
-| 69 | 23 | [Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03) | [Ecuador Nationals 2018](https://www.worldcubeassociation.org/competitions/EcuadorNationals2018) |
-| 70 | 23 | [Siddharth Manchkanti](https://www.worldcubeassociation.org/persons/2014MANC03) | [Bay Area Speedcubin' 24 2020](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin242020) |
-| 71 | 23 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | [Milwaukee First 2022](https://www.worldcubeassociation.org/competitions/MilwaukeeFirst2022) |
-| 72 | 23 | [Toni Beljo](https://www.worldcubeassociation.org/persons/2015BELJ01) | [Welcome Back Jönköping 2020](https://www.worldcubeassociation.org/competitions/WelcomeBackJonkoping2020) |
-| 73 | 23 | [Saisabari Ramesh](https://www.worldcubeassociation.org/persons/2021RAME01) | [Quick in Quincy 2023](https://www.worldcubeassociation.org/competitions/QuickinQuincy2023) |
-| 74 | 23 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | [Mikołajki Open 2023](https://www.worldcubeassociation.org/competitions/MikolajkiOpen2023) |
-| 75 | 22 | [Darren Siew Ee Yaang (蕭奕暘)](https://www.worldcubeassociation.org/persons/2009SIEW01) | [Medan Lunar New Year 2019](https://www.worldcubeassociation.org/competitions/MedanLunarNewYear2019) |
-| 76 | 22 | [Andy Denney](https://www.worldcubeassociation.org/persons/2013DENN01) | [I Hope I Qualify 2018](https://www.worldcubeassociation.org/competitions/IHopeIQualify2018) |
-| 77 | 22 | [Jeffrey Draper](https://www.worldcubeassociation.org/persons/2014DRAP01) | [Sherwood Park Summer 2017](https://www.worldcubeassociation.org/competitions/SherwoodParkSummer2017) |
-| 78 | 22 | [Rafael Antonio Sanchez](https://www.worldcubeassociation.org/persons/2014SANC19) | [Cubing & Books Caracas 2023](https://www.worldcubeassociation.org/competitions/CubingBooksCaracas2023) |
-| 79 | 22 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [Oregon Championship 2019](https://www.worldcubeassociation.org/competitions/OregonChampionship2019) |
-| 80 | 22 | [Fabian Andrey Montenegro Barrero](https://www.worldcubeassociation.org/persons/2017BARR18) | [Tres en Línea Bogotá 2022](https://www.worldcubeassociation.org/competitions/TresenLineaBogota2022) |
-| 81 | 22 | [Ash Black](https://www.worldcubeassociation.org/persons/2017BLAC06) | [Sleepless in Seattle 2023](https://www.worldcubeassociation.org/competitions/SleeplessinSeattle2023) |
-| 82 | 22 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | [Ljubljana Open 2019](https://www.worldcubeassociation.org/competitions/LjubljanaOpen2019) |
-| 83 | 22 | [Jacob Schwartz](https://www.worldcubeassociation.org/persons/2021SCHW01) | [Mystic Cubikon 2023](https://www.worldcubeassociation.org/competitions/MysticCubikon2023) |
-| 84 | 21 | [Chunyu Zhang (张春雨)](https://www.worldcubeassociation.org/persons/2011ZHAN24) | [Nanchang Open 2015](https://www.worldcubeassociation.org/competitions/NanchangOpen2015) |
-| 85 | 21 | [Kevin Costello III](https://www.worldcubeassociation.org/persons/2012COST01) | [Melrose Spring 2015](https://www.worldcubeassociation.org/competitions/MelroseSpring2015) |
-| 86 | 21 | [Thomas Kohann](https://www.worldcubeassociation.org/persons/2014KOHA01) | [Utah's CGE 2019](https://www.worldcubeassociation.org/competitions/UtahsCGE2019) |
-| 87 | 21 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | [Kharkiv Winter 2017](https://www.worldcubeassociation.org/competitions/KharkivWinter2017) |
-| 88 | 21 | [Jhonatan Reategui](https://www.worldcubeassociation.org/persons/2016REAT01) | [San Juan Cubing 2023](https://www.worldcubeassociation.org/competitions/SanJuanCubing2023) |
-| 89 | 21 | [Wesley Allen](https://www.worldcubeassociation.org/persons/2015ALLE03) | [Brilliant Ballarat 2022](https://www.worldcubeassociation.org/competitions/BrilliantBallarat2022) |
-| 90 | 21 | [Leithian Riggenbach](https://www.worldcubeassociation.org/persons/2013RIGG01) | [TCG Summer Arequipa 2022](https://www.worldcubeassociation.org/competitions/TCGSummerArequipa2022) |
-| 91 | 21 | [Gaurav Bachani](https://www.worldcubeassociation.org/persons/2017BACH09) | [Cubing Returns Raipur 2022](https://www.worldcubeassociation.org/competitions/CubingReturnsRaipur2022) |
-| 92 | 21 | [Pep Edén](https://www.worldcubeassociation.org/persons/2021EDEN01) | [Jönköpingsligan Final 2023](https://www.worldcubeassociation.org/competitions/JonkopingsliganFinalTattoo2023) |
-| 93 | 20 | [Jure Gregorc](https://www.worldcubeassociation.org/persons/2010GREG01) | [Bosnia and Herzegovina Open 2016](https://www.worldcubeassociation.org/competitions/BosniaandHerzegovinaOpen2016) |
-| 94 | 20 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) | [Toronto Spring 2015](https://www.worldcubeassociation.org/competitions/TorontoOpenSpring2015) |
-| 95 | 20 | [Joshua Broderick Phillips](https://www.worldcubeassociation.org/persons/2014PHIL02) | [QQQ 2018](https://www.worldcubeassociation.org/competitions/QuabbinQualifier2018) |
-| 96 | 20 | [Victor Glyrskov](https://www.worldcubeassociation.org/persons/2014GLYR01) | [Herrljunga Open 2023](https://www.worldcubeassociation.org/competitions/HerrljungaOpen2023) |
-| 97 | 20 | [Mateusz Gil](https://www.worldcubeassociation.org/persons/2013GILM01) | [GLS Cup Final 2018](https://www.worldcubeassociation.org/competitions/GLSCupFinal2018) |
-| 98 | 20 | [Olivier van Luijk](https://www.worldcubeassociation.org/persons/2016LUIJ01) | [Dutch Nationals 2019](https://www.worldcubeassociation.org/competitions/DutchNationals2019) |
-| 99 | 20 | [Oleksandr Seniuk (Олександр Сенюк)](https://www.worldcubeassociation.org/persons/2017SENI01) | [U24 Open September 2022](https://www.worldcubeassociation.org/competitions/U24OpenSeptember2022) |
-| 100 | 20 | [Raymos Castillo](https://www.worldcubeassociation.org/persons/2017CAST41) | [Twisters in Tulsa 2023](https://www.worldcubeassociation.org/competitions/TwistersinTulsa2023) |
+| 8 | 43 | [Szabolcs Szántai](https://www.worldcubeassociation.org/persons/2016SZAN01) | [Kőbánya Advent 2023](https://www.worldcubeassociation.org/competitions/KobanyaAdvent2023) |
+| 9 | 43 | [Aleksander Arefiew](https://www.worldcubeassociation.org/persons/2016AREF01) | [Giżycko Open 2023](https://www.worldcubeassociation.org/competitions/GizyckoOpen2023) |
+| 10 | 42 | [Bhargav Narasimhan](https://www.worldcubeassociation.org/persons/2011NARA02) | [Drishti Cube Open 2018](https://www.worldcubeassociation.org/competitions/DrishtiCubeOpen2018) |
+| 11 | 42 | [Hannah Minas](https://www.worldcubeassociation.org/persons/2017MINA04) | [Macedonian Nationals 2019](https://www.worldcubeassociation.org/competitions/MacedonianNationals2019) |
+| 12 | 41 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | [Faaborg Open 2019](https://www.worldcubeassociation.org/competitions/FaaborgOpen2019) |
+| 13 | 41 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) | [Charleston Spring 2018](https://www.worldcubeassociation.org/competitions/CharlestonSpring2018) |
+| 14 | 40 | [Shubham Maharana](https://www.worldcubeassociation.org/persons/2016MAHA07) | [Pune Cube Fiesta 2023](https://www.worldcubeassociation.org/competitions/PuneCubeFiesta2023) |
+| 15 | 40 | [Antto Pitkänen](https://www.worldcubeassociation.org/persons/2017PITK01) | [Itämeri 2023](https://www.worldcubeassociation.org/competitions/Itameri2023) |
+| 16 | 40 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | [Torrelavega Open 2023](https://www.worldcubeassociation.org/competitions/TorrelavegaOpen2023) |
+| 17 | 39 | [Javier Tirado Ortiz](https://www.worldcubeassociation.org/persons/2009TIRA01) | [Aspe Open 2013](https://www.worldcubeassociation.org/competitions/AspeOpen2013) |
+| 18 | 38 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) | [Morocco Autumn 2018](https://www.worldcubeassociation.org/competitions/MoroccoAutumn2018) |
+| 19 | 36 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | [1 AVG 2013](https://www.worldcubeassociation.org/competitions/1AVG2013) |
+| 20 | 36 | [Oscar Alberto Ceballos Contreras](https://www.worldcubeassociation.org/persons/2013CONT01) | [Legends of Rubik 2016](https://www.worldcubeassociation.org/competitions/LegendsofRubik2016) |
+| 21 | 36 | [Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01) | [Rally In The Valley 2017](https://www.worldcubeassociation.org/competitions/RallyInTheValley2017) |
+| 22 | 35 | [Timothy Castle](https://www.worldcubeassociation.org/persons/2016CAST48) | [Cubing on Par B 2023](https://www.worldcubeassociation.org/competitions/CubingonParB2023) |
+| 23 | 34 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) | [Manaus Open 2014](https://www.worldcubeassociation.org/competitions/ManausOpen2014) |
+| 24 | 34 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | [CFL Domaniewice 2019](https://www.worldcubeassociation.org/competitions/CFLDomaniewice2019) |
+| 25 | 33 | [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) | [Hong Kong Championship 2023](https://www.worldcubeassociation.org/competitions/HongKongChampionship2023) |
+| 26 | 33 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [BCCC A 2021](https://www.worldcubeassociation.org/competitions/BCCubingComebackA2021) |
+| 27 | 33 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | [Cube4fun Bełżyce 2023](https://www.worldcubeassociation.org/competitions/Cube4funBelzyceMultiEvents2023) |
+| 28 | 32 | [Hunor Bózsing](https://www.worldcubeassociation.org/persons/2009BOZS01) | [B.O.N.D. Open 2015](https://www.worldcubeassociation.org/competitions/BONDOpen2015) |
+| 29 | 32 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | [Tierra del Fuego 2023](https://www.worldcubeassociation.org/competitions/TierradelFuego2023) |
+| 30 | 31 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) | [First Ecuador Open 2017](https://www.worldcubeassociation.org/competitions/FirstEcuadorOpen2017) |
+| 31 | 31 | [Zheng Chen (陈政)](https://www.worldcubeassociation.org/persons/2012CHEN41) | [Yancheng Spring 2019](https://www.worldcubeassociation.org/competitions/YanchengSpring2019) |
+| 32 | 31 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | [Welsh Open 2019](https://www.worldcubeassociation.org/competitions/WelshOpen2019) |
+| 33 | 31 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | [Trondheim Cube Week 2023](https://www.worldcubeassociation.org/competitions/TrondheimCubeWeek2023) |
+| 34 | 30 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) | [Jambi Cube Festival 2019](https://www.worldcubeassociation.org/competitions/JambiCubeFestival2019) |
+| 35 | 30 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) | [Moldova Open 2020](https://www.worldcubeassociation.org/competitions/MoldovaOpen2020) |
+| 36 | 29 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | [Belgian Open 2011](https://www.worldcubeassociation.org/competitions/BelgianOpen2011) |
+| 37 | 29 | [José Antonio Gaete Rozas-Peña](https://www.worldcubeassociation.org/persons/2017GAET01) | [Olimpiadas de la Mente 2023](https://www.worldcubeassociation.org/competitions/OlimpiadasdelaMente2023) |
+| 38 | 28 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | [Byczy Cube Race 2017](https://www.worldcubeassociation.org/competitions/ByczyCubeRace2017) |
+| 39 | 28 | [Elian Beguec](https://www.worldcubeassociation.org/persons/2014BEGU01) | [Speedcub'Eirb Winter Open 2019](https://www.worldcubeassociation.org/competitions/SpeedcubEirbWinterOpen2019) |
+| 40 | 28 | [Nitin Nathan](https://www.worldcubeassociation.org/persons/2015NATH02) | [VSVN Cube Open 2019](https://www.worldcubeassociation.org/competitions/VSVNCubeOpen2019) |
+| 41 | 28 | [Jason Ostdiek](https://www.worldcubeassociation.org/persons/2017OSTD02) | [Bay Area Speedcubin' 41 2023](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin412023) |
+| 42 | 27 | [Akula Pavan Kumar](https://www.worldcubeassociation.org/persons/2011KUMA01) | [Jharkhand Cube Open 2020](https://www.worldcubeassociation.org/competitions/JharkhandCubeOpen2020) |
+| 43 | 27 | [Yilin Miao (苗宜琳)](https://www.worldcubeassociation.org/persons/2015MIAO02) | [Heze Open 2019](https://www.worldcubeassociation.org/competitions/HezeOpen2019) |
+| 44 | 27 | [Simon Nilsson](https://www.worldcubeassociation.org/persons/2015NILS02) | [Frösö Cubing 2022](https://www.worldcubeassociation.org/competitions/FrosoCubing2022) |
+| 45 | 27 | [Noah Paredes](https://www.worldcubeassociation.org/persons/2016PARE03) | [Cubing At Sea 2020](https://www.worldcubeassociation.org/competitions/CubingAtSea2020) |
+| 46 | 27 | [Dominic Lumsden](https://www.worldcubeassociation.org/persons/2016LUMS01) | [Xlingen Open 2019](https://www.worldcubeassociation.org/competitions/XlingenOpen2019) |
+| 47 | 27 | [Alejandro Restrepo Echeverri](https://www.worldcubeassociation.org/persons/2017ECHE04) | [75 por Ciento Bogotá 2023](https://www.worldcubeassociation.org/competitions/75porCientoBogota2023) |
+| 48 | 26 | [Laura Tarrés Gimeno](https://www.worldcubeassociation.org/persons/2015GIME02) | [Basauri Open 2021](https://www.worldcubeassociation.org/competitions/BasauriOpen2021) |
+| 49 | 26 | [Anatolii Turenko (Анатолий Туренко)](https://www.worldcubeassociation.org/persons/2018TURE01) | [Azerbaijan Nationals 2023](https://www.worldcubeassociation.org/competitions/AzerbaijanNationals2023) |
+| 50 | 25 | [Moritz Karl](https://www.worldcubeassociation.org/persons/2008KARL02) | [Franconia Winter 2013](https://www.worldcubeassociation.org/competitions/FranconiaWinter2013) |
+| 51 | 25 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Carnegie Mellon Fall 2014](https://www.worldcubeassociation.org/competitions/CMUFall2014) |
+| 52 | 25 | [Naren Ramesh](https://www.worldcubeassociation.org/persons/2015RAME02) | [Bengaluru Winter Open 2018](https://www.worldcubeassociation.org/competitions/BengaluruOpen2018) |
+| 53 | 25 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | [SSL 4 Sundsvall 2019](https://www.worldcubeassociation.org/competitions/SSL4Sundsvall2019) |
+| 54 | 25 | [Austin Chen](https://www.worldcubeassociation.org/persons/2015CHEN20) | [Bay Area Speedcubin' 19 2019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin192019) |
+| 55 | 25 | [Samuel Eklund-Hanna](https://www.worldcubeassociation.org/persons/2019EKLU01) | [Fyris NxNxN 'n Side 2023](https://www.worldcubeassociation.org/competitions/FyrisNxNxNnSide2023) |
+| 56 | 25 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | [Cube4fun in Warsaw 2023](https://www.worldcubeassociation.org/competitions/Cube4funinWarsaw2023) |
+| 57 | 24 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) | [Gijón Open 2014](https://www.worldcubeassociation.org/competitions/GijonOpen2014) |
+| 58 | 24 | [Gaurav Taneja](https://www.worldcubeassociation.org/persons/2010TANE01) | [Ignus Open 2015](https://www.worldcubeassociation.org/competitions/IgnusOpen2015) |
+| 59 | 24 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | [CFL Domaniewice 2018](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueDomaniewice2018) |
+| 60 | 24 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | [ABHC 2018](https://www.worldcubeassociation.org/competitions/ABHC2018) |
+| 61 | 24 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | [Aarhus Spring 2019](https://www.worldcubeassociation.org/competitions/AarhusSpring2019) |
+| 62 | 24 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | [AUA Open 2021](https://www.worldcubeassociation.org/competitions/AUAOpen2021) |
+| 63 | 24 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Wyoming Summer 2019](https://www.worldcubeassociation.org/competitions/WyomingSummer2019) |
+| 64 | 24 | [Adrien Auvray Matyn](https://www.worldcubeassociation.org/persons/2018MATY02) | [Southernmost Solving 2023](https://www.worldcubeassociation.org/competitions/SouthernmostSolving2023) |
+| 65 | 24 | [Ronnie Jinxuan Zhu (朱缙轩)](https://www.worldcubeassociation.org/persons/2021ZHUR03) | [Lördagskuben Skillingaryd 2023](https://www.worldcubeassociation.org/competitions/LordagskubenSkillingaryd2023) |
+| 66 | 23 | [Antoine Piau](https://www.worldcubeassociation.org/persons/2008PIAU01) | [Champagne Open 2014](https://www.worldcubeassociation.org/competitions/ChampagneOpen2014) |
+| 67 | 23 | [Cameron Stollery](https://www.worldcubeassociation.org/persons/2010STOL01) | [Lifestyle Seasons Winter 2015](https://www.worldcubeassociation.org/competitions/LifestyleSeasonsWinter2015) |
+| 68 | 23 | [Kevin Vanegas Diaz](https://www.worldcubeassociation.org/persons/2012DIAZ03) | [Regreso a Clases Bogotá 2023](https://www.worldcubeassociation.org/competitions/RegresoaClasesBogota2023) |
+| 69 | 23 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | [CDJ 2016](https://www.worldcubeassociation.org/competitions/CitedesJeux2016) |
+| 70 | 23 | [Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03) | [Ecuador Nationals 2018](https://www.worldcubeassociation.org/competitions/EcuadorNationals2018) |
+| 71 | 23 | [Siddharth Manchkanti](https://www.worldcubeassociation.org/persons/2014MANC03) | [Bay Area Speedcubin' 24 2020](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin242020) |
+| 72 | 23 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | [Milwaukee First 2022](https://www.worldcubeassociation.org/competitions/MilwaukeeFirst2022) |
+| 73 | 23 | [Toni Beljo](https://www.worldcubeassociation.org/persons/2015BELJ01) | [Welcome Back Jönköping 2020](https://www.worldcubeassociation.org/competitions/WelcomeBackJonkoping2020) |
+| 74 | 23 | [Saisabari Ramesh](https://www.worldcubeassociation.org/persons/2021RAME01) | [Quick in Quincy 2023](https://www.worldcubeassociation.org/competitions/QuickinQuincy2023) |
+| 75 | 23 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | [Mikołajki Open 2023](https://www.worldcubeassociation.org/competitions/MikolajkiOpen2023) |
+| 76 | 22 | [Darren Siew Ee Yaang (蕭奕暘)](https://www.worldcubeassociation.org/persons/2009SIEW01) | [Medan Lunar New Year 2019](https://www.worldcubeassociation.org/competitions/MedanLunarNewYear2019) |
+| 77 | 22 | [Andy Denney](https://www.worldcubeassociation.org/persons/2013DENN01) | [I Hope I Qualify 2018](https://www.worldcubeassociation.org/competitions/IHopeIQualify2018) |
+| 78 | 22 | [Jeffrey Draper](https://www.worldcubeassociation.org/persons/2014DRAP01) | [Sherwood Park Summer 2017](https://www.worldcubeassociation.org/competitions/SherwoodParkSummer2017) |
+| 79 | 22 | [Rafael Antonio Sanchez](https://www.worldcubeassociation.org/persons/2014SANC19) | [Cubing & Books Caracas 2023](https://www.worldcubeassociation.org/competitions/CubingBooksCaracas2023) |
+| 80 | 22 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [Oregon Championship 2019](https://www.worldcubeassociation.org/competitions/OregonChampionship2019) |
+| 81 | 22 | [Fabian Andrey Montenegro Barrero](https://www.worldcubeassociation.org/persons/2017BARR18) | [Tres en Línea Bogotá 2022](https://www.worldcubeassociation.org/competitions/TresenLineaBogota2022) |
+| 82 | 22 | [Ash Black](https://www.worldcubeassociation.org/persons/2017BLAC06) | [Sleepless in Seattle 2023](https://www.worldcubeassociation.org/competitions/SleeplessinSeattle2023) |
+| 83 | 22 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | [Ljubljana Open 2019](https://www.worldcubeassociation.org/competitions/LjubljanaOpen2019) |
+| 84 | 22 | [Jacob Schwartz](https://www.worldcubeassociation.org/persons/2021SCHW01) | [Mystic Cubikon 2023](https://www.worldcubeassociation.org/competitions/MysticCubikon2023) |
+| 85 | 21 | [Chunyu Zhang (张春雨)](https://www.worldcubeassociation.org/persons/2011ZHAN24) | [Nanchang Open 2015](https://www.worldcubeassociation.org/competitions/NanchangOpen2015) |
+| 86 | 21 | [Kevin Costello III](https://www.worldcubeassociation.org/persons/2012COST01) | [Melrose Spring 2015](https://www.worldcubeassociation.org/competitions/MelroseSpring2015) |
+| 87 | 21 | [Thomas Kohann](https://www.worldcubeassociation.org/persons/2014KOHA01) | [Utah's CGE 2019](https://www.worldcubeassociation.org/competitions/UtahsCGE2019) |
+| 88 | 21 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | [Kharkiv Winter 2017](https://www.worldcubeassociation.org/competitions/KharkivWinter2017) |
+| 89 | 21 | [Jhonatan Reategui](https://www.worldcubeassociation.org/persons/2016REAT01) | [San Juan Cubing 2023](https://www.worldcubeassociation.org/competitions/SanJuanCubing2023) |
+| 90 | 21 | [Wesley Allen](https://www.worldcubeassociation.org/persons/2015ALLE03) | [Brilliant Ballarat 2022](https://www.worldcubeassociation.org/competitions/BrilliantBallarat2022) |
+| 91 | 21 | [Leithian Riggenbach](https://www.worldcubeassociation.org/persons/2013RIGG01) | [TCG Summer Arequipa 2022](https://www.worldcubeassociation.org/competitions/TCGSummerArequipa2022) |
+| 92 | 21 | [Gaurav Bachani](https://www.worldcubeassociation.org/persons/2017BACH09) | [Cubing Returns Raipur 2022](https://www.worldcubeassociation.org/competitions/CubingReturnsRaipur2022) |
+| 93 | 21 | [Pep Edén](https://www.worldcubeassociation.org/persons/2021EDEN01) | [Jönköpingsligan Final 2023](https://www.worldcubeassociation.org/competitions/JonkopingsliganFinalTattoo2023) |
+| 94 | 20 | [Jure Gregorc](https://www.worldcubeassociation.org/persons/2010GREG01) | [Bosnia and Herzegovina Open 2016](https://www.worldcubeassociation.org/competitions/BosniaandHerzegovinaOpen2016) |
+| 95 | 20 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) | [Toronto Spring 2015](https://www.worldcubeassociation.org/competitions/TorontoOpenSpring2015) |
+| 96 | 20 | [Joshua Broderick Phillips](https://www.worldcubeassociation.org/persons/2014PHIL02) | [QQQ 2018](https://www.worldcubeassociation.org/competitions/QuabbinQualifier2018) |
+| 97 | 20 | [Victor Glyrskov](https://www.worldcubeassociation.org/persons/2014GLYR01) | [Herrljunga Open 2023](https://www.worldcubeassociation.org/competitions/HerrljungaOpen2023) |
+| 98 | 20 | [Mateusz Gil](https://www.worldcubeassociation.org/persons/2013GILM01) | [GLS Cup Final 2018](https://www.worldcubeassociation.org/competitions/GLSCupFinal2018) |
+| 99 | 20 | [Olivier van Luijk](https://www.worldcubeassociation.org/persons/2016LUIJ01) | [Dutch Nationals 2019](https://www.worldcubeassociation.org/competitions/DutchNationals2019) |
+| 100 | 20 | [Oleksandr Seniuk (Олександр Сенюк)](https://www.worldcubeassociation.org/persons/2017SENI01) | [U24 Open September 2022](https://www.worldcubeassociation.org/competitions/U24OpenSeptember2022) |
 
 ### Rubik's Clock
 
@@ -1671,8 +1671,8 @@
 | 86 | 5 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | [Kidderminster Summer BBO 2022](https://www.worldcubeassociation.org/competitions/KidderminsterSummerBBO2022) |
 | 87 | 5 | [Mikus Lembergs](https://www.worldcubeassociation.org/persons/2017LEMB02) | [Lithuanian Nationals 2023](https://www.worldcubeassociation.org/competitions/LithuanianNationals2023) |
 | 88 | 5 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | [Buccaneer Bonanza 2022](https://www.worldcubeassociation.org/competitions/BuccaneerBonanza2022) |
-| 89 | 5 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) | [Poznań Mental Breakdown 2022](https://www.worldcubeassociation.org/competitions/PoznanMentalBreakdown2022) |
-| 90 | 5 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) | [Big 'n Blind Szczecinek 2023](https://www.worldcubeassociation.org/competitions/BignBlindSzczecinek2023) |
+| 89 | 5 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) | [Big 'n Blind Szczecinek 2023](https://www.worldcubeassociation.org/competitions/BignBlindSzczecinek2023) |
+| 90 | 5 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) | [Poznań Mental Breakdown 2022](https://www.worldcubeassociation.org/competitions/PoznanMentalBreakdown2022) |
 | 91 | 5 | [Jacob Turrubiartes](https://www.worldcubeassociation.org/persons/2018TURR01) | [Please Be Quiet Evanston 2023](https://www.worldcubeassociation.org/competitions/PleaseBeQuietEvanston2023) |
 | 92 | 5 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | [Weston-super-Mare Autumn 2022](https://www.worldcubeassociation.org/competitions/WestonsuperMareAutumn2022) |
 | 93 | 5 | [Draco Tong](https://www.worldcubeassociation.org/persons/2020TONG02) | [Washtenaw Spring A 2023](https://www.worldcubeassociation.org/competitions/WashtenawSpringA2023) |
