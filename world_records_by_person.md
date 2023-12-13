@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 10 December 2023*
+*Updated on 13 December 2023*
 
 | Rank | WRs | Person |
 | :--- | ---: | :--- |
@@ -26,10 +26,10 @@
 | 20 | 12 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) |
 | 21 | 12 | [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) |
 | 22 | 10 | [Gunnar Kantare Krig](https://www.worldcubeassociation.org/persons/2004KRIG01) |
-| 23 | 10 | [Ryan Patricio](https://www.worldcubeassociation.org/persons/2004PATR01) |
-| 24 | 10 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
-| 25 | 9 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) |
-| 26 | 9 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) |
+| 23 | 10 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) |
+| 24 | 10 | [Ryan Patricio](https://www.worldcubeassociation.org/persons/2004PATR01) |
+| 25 | 10 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
+| 26 | 9 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) |
 | 27 | 9 | [Yohei Oka (岡要平)](https://www.worldcubeassociation.org/persons/2006OKAY01) |
 | 28 | 8 | [Bingliang Li (李炳良)](https://www.worldcubeassociation.org/persons/2008LIBI01) |
 | 29 | 8 | [Jaap Scherphuis](https://www.worldcubeassociation.org/persons/2003SCHE01) |
