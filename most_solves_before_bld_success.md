@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on 13 December 2023*
+*Updated on 16 December 2023*
 
 
 ### 3x3x3 Blindfolded
@@ -438,7 +438,7 @@
 | 19 | 17 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
 | 20 | 16 | [Hannah Minas](https://www.worldcubeassociation.org/persons/2017MINA04) |
 | 21 | 16 | [Vladimir Sergeev](https://www.worldcubeassociation.org/persons/2017SERG03) |
-| 22 | 15 | [Deni Mintsaev (Дени Минцаев)](https://www.worldcubeassociation.org/persons/2013MINT01) |
+| 22 | 15 | [Deni Mintsaev](https://www.worldcubeassociation.org/persons/2013MINT01) |
 | 23 | 15 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 24 | 15 | [Keenan Johnson](https://www.worldcubeassociation.org/persons/2016JOHN30) |
 | 25 | 15 | [Jacob Oliver Bruun](https://www.worldcubeassociation.org/persons/2018BRUU01) |
@@ -818,8 +818,8 @@
 | 194 | 4 | [Erik Tjong Kim Sang](https://www.worldcubeassociation.org/persons/2018SANG01) |
 | 195 | 4 | [Tom Stanton-Barnett](https://www.worldcubeassociation.org/persons/2016STAN05) |
 | 196 | 4 | [Michael Larsen](https://www.worldcubeassociation.org/persons/2017LARS03) |
-| 197 | 4 | [Carson Deibert](https://www.worldcubeassociation.org/persons/2016DEIB01) |
-| 198 | 4 | [Muhammad Saleh Imtiaz](https://www.worldcubeassociation.org/persons/2018IMTI01) |
+| 197 | 4 | [Muhammad Saleh Imtiaz](https://www.worldcubeassociation.org/persons/2018IMTI01) |
+| 198 | 4 | [Carson Deibert](https://www.worldcubeassociation.org/persons/2016DEIB01) |
 | 199 | 4 | [Jesús Tadeo Perez Cardona](https://www.worldcubeassociation.org/persons/2016CARD01) |
 | 200 | 4 | [Axel Uriel Sánchez Zúñiga](https://www.worldcubeassociation.org/persons/2017ZUNI05) |
 

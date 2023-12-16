@@ -1,24 +1,24 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 13 December 2023*
+*Updated on 16 December 2023*
 
 | Rank | Country | Gold | Silver | Bronze | Total |
 | :--- | :--- | :--: | :--: | :--: | :--: |
 | 1 | Hungary | **1388** | 1160 | 993 | 3541 |
 | 2 | Germany | **993** | 950 | 957 | 2900 |
-| 3 | United States | **988** | 828 | 734 | 2550 |
+| 3 | United States | **991** | 830 | 738 | 2559 |
 | 4 | France | **907** | 782 | 659 | 2348 |
 | 5 | Netherlands | **893** | 706 | 594 | 2193 |
 | 6 | Russia | **821** | 498 | 390 | 1709 |
-| 7 | China | **627** | 584 | 525 | 1736 |
+| 7 | China | **629** | 586 | 526 | 1741 |
 | 8 | Poland | **557** | 371 | 279 | 1207 |
 | 9 | Malaysia | **392** | 390 | 351 | 1133 |
 | 10 | United Kingdom | **381** | 438 | 430 | 1249 |
-| 11 | Canada | **363** | 369 | 396 | 1128 |
+| 11 | Canada | **364** | 369 | 397 | 1130 |
 | 12 | Denmark | **346** | 294 | 234 | 874 |
 | 13 | Sweden | **306** | 348 | 361 | 1015 |
-| 14 | Republic of Korea | **304** | 268 | 234 | 806 |
+| 14 | Republic of Korea | **304** | 268 | 236 | 808 |
 | 15 | Australia | **289** | 136 | 91 | 516 |
 | 16 | India | **281** | 224 | 225 | 730 |
 | 17 | Hong Kong, China | **278** | 300 | 227 | 805 |
@@ -42,7 +42,7 @@
 | 35 | Latvia | **132** | 197 | 200 | 529 |
 | 36 | Greece | **119** | 144 | 106 | 369 |
 | 37 | Belarus | **111** | 71 | 85 | 267 |
-| 38 | Czech Republic | **105** | 113 | 122 | 340 |
+| 38 | Czech Republic | **106** | 115 | 122 | 343 |
 | 39 | Kazakhstan | **102** | 96 | 91 | 289 |
 | 40 | Thailand | **86** | 89 | 43 | 218 |
 | 41 | Slovakia | **79** | 89 | 98 | 266 |
@@ -57,9 +57,9 @@
 | 50 | Jordan | **40** | 9 | 15 | 64 |
 | 51 | Israel | **39** | 34 | 41 | 114 |
 | 52 | Kosovo | **37** | 27 | 22 | 86 |
-| 53 | Mongolia | **32** | 30 | 29 | 91 |
-| 54 | Uzbekistan | **32** | 29 | 31 | 92 |
-| 55 | Venezuela | **31** | 44 | 41 | 116 |
+| 53 | Venezuela | **33** | 47 | 41 | 121 |
+| 54 | Mongolia | **32** | 30 | 29 | 91 |
+| 55 | Uzbekistan | **32** | 29 | 31 | 92 |
 | 56 | New Zealand | **30** | 67 | 53 | 150 |
 | 57 | Chile | **28** | 20 | 19 | 67 |
 | 58 | Costa Rica | **27** | 35 | 28 | 90 |
@@ -80,8 +80,8 @@
 | 73 | Nigeria | **9** | 15 | 12 | 36 |
 | 74 | Turkey | **9** | 14 | 14 | 37 |
 | 75 | Kuwait | **9** | 8 | 17 | 34 |
-| 76 | Bolivia | **8** | 9 | 16 | 33 |
-| 77 | Cyprus | **7** | 15 | 15 | 37 |
+| 76 | Cyprus | **8** | 17 | 16 | 41 |
+| 77 | Bolivia | **8** | 9 | 16 | 33 |
 | 78 | Moldova | **7** | 12 | 7 | 26 |
 | 79 | Georgia | **7** | 10 | 9 | 26 |
 | 80 | Bosnia and Herzegovina | **6** | 17 | 7 | 30 |

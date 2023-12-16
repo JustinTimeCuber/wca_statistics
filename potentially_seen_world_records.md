@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 13 December 2023*
+*Updated on 16 December 2023*
 
 | Rank | WRs | Person |
 | :--- | ---: | :--- |
@@ -688,7 +688,7 @@
 | 681 | 25 | [Steven Wintringham](https://www.worldcubeassociation.org/persons/2015WINT02) |
 | 682 | 25 | [Lucas Wesche](https://www.worldcubeassociation.org/persons/2012WESC01) |
 | 683 | 25 | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) |
-| 684 | 25 | [Deni Mintsaev (Дени Минцаев)](https://www.worldcubeassociation.org/persons/2013MINT01) |
+| 684 | 25 | [Deni Mintsaev](https://www.worldcubeassociation.org/persons/2013MINT01) |
 | 685 | 25 | [Thomas Mæhle Schmidt](https://www.worldcubeassociation.org/persons/2013SCHM02) |
 | 686 | 25 | [Bo Wang (王擘)](https://www.worldcubeassociation.org/persons/2013WANG69) |
 | 687 | 25 | [Yanfeng Zhu (朱艳枫)](https://www.worldcubeassociation.org/persons/2013ZHUY02) |

@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 13 December 2023*
+*Updated on 16 December 2023*
 
 | Rank | Days | Person |
 | :--- | ---: | :--- |
@@ -331,7 +331,7 @@
 | 324 | 1937 | [Feilong Tang (唐飞龙)](https://www.worldcubeassociation.org/persons/2013TANG07) |
 | 325 | 1938 | [Mikus Lembergs](https://www.worldcubeassociation.org/persons/2017LEMB02) |
 | 326 | 1960 | [Danny Buschert](https://www.worldcubeassociation.org/persons/2017BUSC03) |
-| 327 | 1974 | [Deni Mintsaev (Дени Минцаев)](https://www.worldcubeassociation.org/persons/2013MINT01) |
+| 327 | 1974 | [Deni Mintsaev](https://www.worldcubeassociation.org/persons/2013MINT01) |
 | 328 | 1980 | [Ethan Pride](https://www.worldcubeassociation.org/persons/2014PRID01) |
 | 329 | 1988 | [Harry Owen](https://www.worldcubeassociation.org/persons/2017OWEN01) |
 | 330 | 1989 | [Pavlo Bondar (Павло Бондар)](https://www.worldcubeassociation.org/persons/2018BOND03) |
