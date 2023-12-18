@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 16 December 2023*
+*Updated on 17 December 2023*
 
 
 ### Rubik's Cube
@@ -485,48 +485,48 @@
 | 56 | 8.65 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [A Bruin Cube Day 2022](https://www.worldcubeassociation.org/competitions/ABruinCubeDay2022/results/by_person#2012PARK03) |
 | 57 | 8.65 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [AZCubing Winter 2022](https://www.worldcubeassociation.org/competitions/AZCubingWinter2022/results/by_person#2012PARK03) |
 | 58 | 8.65 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [BASC 50 - Berkeley 2023](https://www.worldcubeassociation.org/competitions/BASC50Berkeley2023/results/by_person#2017GARR05) |
-| 59 | 8.66 | [Zhouheng Sun (孙舟横)](https://www.worldcubeassociation.org/persons/2008SUNZ01) | [Western Championship 2023](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2023/results/by_person#2008SUNZ01) |
-| 60 | 8.66 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [A Bruin Cube Day 2022](https://www.worldcubeassociation.org/competitions/ABruinCubeDay2022/results/by_person#2012PARK03) |
-| 61 | 8.66 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Weston-super-Mare Open 2022](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2022/results/by_person#2012PONC02) |
-| 62 | 8.67 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Cal Poly SLO Spring 2022](https://www.worldcubeassociation.org/competitions/CalPolySLOSpring2022/results/by_person#2012PARK03) |
-| 63 | 8.67 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Puzzling in Providence 2023](https://www.worldcubeassociation.org/competitions/PuzzlinginProvidence2023/results/by_person#2012PONC02) |
-| 64 | 8.68 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Oregon Championship 2022](https://www.worldcubeassociation.org/competitions/OregonChampionship2022/results/by_person#2012PARK03) |
-| 65 | 8.69 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Circle City Supercharged 2022](https://www.worldcubeassociation.org/competitions/CircleCitySupercharged2022/results/by_person#2012PARK03) |
-| 66 | 8.70 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Melbourne Cube Days 2019](https://www.worldcubeassociation.org/competitions/MelbourneCubeDays2019/results/by_person#2009ZEMD01) |
-| 67 | 8.70 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Western Championship 2023](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2023/results/by_person#2012PARK03) |
-| 68 | 8.70 | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) | [Visayas Championship 2023](https://www.worldcubeassociation.org/competitions/VisayasChampionship2023/results/by_person#2017VILL41) |
-| 69 | 8.71 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Corona Summer 2023](https://www.worldcubeassociation.org/competitions/CoronaSummer2023/results/by_person#2012PARK03) |
-| 70 | 8.71 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [BASC 50 - Berkeley 2023](https://www.worldcubeassociation.org/competitions/BASC50Berkeley2023/results/by_person#2017GARR05) |
-| 71 | 8.72 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | [New England Championship 2023](https://www.worldcubeassociation.org/competitions/NewEnglandChampionship2023/results/by_person#2014SEBA01) |
-| 72 | 8.72 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | [NZ South Island Champs 2023](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2023/results/by_person#2019RAMO05) |
-| 73 | 8.74 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Niskayuna Nimble Fingers 2023](https://www.worldcubeassociation.org/competitions/NiskayunaNimbleFingers2023/results/by_person#2012PONC02) |
-| 74 | 8.74 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | [Lyttelton Spring 2021](https://www.worldcubeassociation.org/competitions/LytteltonSpring2021/results/by_person#2019RAMO05) |
-| 75 | 8.74 | [Magnus Lensch](https://www.worldcubeassociation.org/persons/2019LENS01) | [Bremium Cubing 2023](https://www.worldcubeassociation.org/competitions/BremiumCubing2023/results/by_person#2019LENS01) |
-| 76 | 8.76 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Oregon Championship 2022](https://www.worldcubeassociation.org/competitions/OregonChampionship2022/results/by_person#2012PARK03) |
-| 77 | 8.76 | [Antonio Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) | [Berkeley Winter B 2023](https://www.worldcubeassociation.org/competitions/BerkeleyWinterB2023/results/by_person#2017TUNG13) |
-| 78 | 8.76 | [Magnus Lensch](https://www.worldcubeassociation.org/persons/2019LENS01) | [Rhein-Neckar Autumn 2023](https://www.worldcubeassociation.org/competitions/RheinNeckarAutumn2023/results/by_person#2019LENS01) |
-| 79 | 8.76 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Stevenage June 2023](https://www.worldcubeassociation.org/competitions/StevenageJune2023/results/by_person#2020ARCH01) |
-| 80 | 8.78 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Babylon Summer 2022](https://www.worldcubeassociation.org/competitions/BabylonSummer2022/results/by_person#2012PONC02) |
-| 81 | 8.78 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Don't Fail Kinsale 2023](https://www.worldcubeassociation.org/competitions/DontFailKinsale2023/results/by_person#2012PONC02) |
-| 82 | 8.79 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Florida Spring B 2022](https://www.worldcubeassociation.org/competitions/FloridaSpringB2022/results/by_person#2012PARK03) |
-| 83 | 8.79 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Wakefield Open 2022](https://www.worldcubeassociation.org/competitions/WakefieldOpen2022/results/by_person#2012PONC02) |
-| 84 | 8.79 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | [Sens Open 2023](https://www.worldcubeassociation.org/competitions/SensOpen2023/results/by_person#2014SEBA01) |
-| 85 | 8.79 | [Antonio Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) | [Berkeley Winter B 2023](https://www.worldcubeassociation.org/competitions/BerkeleyWinterB2023/results/by_person#2017TUNG13) |
-| 86 | 8.80 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Berkeley Summer 2018](https://www.worldcubeassociation.org/competitions/BerkeleySummer2018/results/by_person#2012PARK03) |
-| 87 | 8.80 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | [NZ South Island Champs 2023](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2023/results/by_person#2019RAMO05) |
-| 88 | 8.81 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Swoop In And Solve Oxford 2023](https://www.worldcubeassociation.org/competitions/SwoopInAndSolveOxford2023/results/by_person#2017GARR05) |
-| 89 | 8.82 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Missoula 2021](https://www.worldcubeassociation.org/competitions/Missoula2021/results/by_person#2012PARK03) |
-| 90 | 8.83 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [WCC Western Championship 2022](https://www.worldcubeassociation.org/competitions/WCCWesternChampionship2022/results/by_person#2012PARK03) |
-| 91 | 8.83 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | [Norwegian Championship 2022](https://www.worldcubeassociation.org/competitions/NorwegianChampionship2022/results/by_person#2014SEBA01) |
-| 92 | 8.83 | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) | [WCC Speedcubing Open 2023](https://www.worldcubeassociation.org/competitions/WCCSpeedcubingOpen2023/results/by_person#2017VILL41) |
-| 93 | 8.84 | [Zhouheng Sun (孙舟横)](https://www.worldcubeassociation.org/persons/2008SUNZ01) | [Davis Fall 2023](https://www.worldcubeassociation.org/competitions/DavisFall2023/results/by_person#2008SUNZ01) |
-| 94 | 8.84 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Baztan Open 2022](https://www.worldcubeassociation.org/competitions/BaztanOpen2022/results/by_person#2012PONC02) |
-| 95 | 8.84 | [Magnus Lensch](https://www.worldcubeassociation.org/persons/2019LENS01) | [Franconia Mini Open A 2023](https://www.worldcubeassociation.org/competitions/FranconiaMiniOpenA2023/results/by_person#2019LENS01) |
-| 96 | 8.85 | [Zhouheng Sun (孙舟横)](https://www.worldcubeassociation.org/persons/2008SUNZ01) | [UCSD For Hemophilia 2023](https://www.worldcubeassociation.org/competitions/UCSDForHemophilia2023/results/by_person#2008SUNZ01) |
-| 97 | 8.85 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Swoop In And Solve Oxford 2023](https://www.worldcubeassociation.org/competitions/SwoopInAndSolveOxford2023/results/by_person#2017GARR05) |
-| 98 | 8.86 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Stevenage Spring 2022](https://www.worldcubeassociation.org/competitions/StevenageSpring2022/results/by_person#2012PONC02) |
-| 99 | 8.86 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Nacionales Argentinas 2023](https://www.worldcubeassociation.org/competitions/NacionalesArgentinas2023/results/by_person#2017GOLU01) |
-| 100 | 8.86 | [Antonio Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) | [BASC 46 LIVE - SSF 2023](https://www.worldcubeassociation.org/competitions/BASC46LIVESSF2023/results/by_person#2017TUNG13) |
+| 59 | 8.65 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | [SLS Grudzień 2023](https://www.worldcubeassociation.org/competitions/SLSGrudzien2023/results/by_person#2019KARP03) |
+| 60 | 8.66 | [Zhouheng Sun (孙舟横)](https://www.worldcubeassociation.org/persons/2008SUNZ01) | [Western Championship 2023](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2023/results/by_person#2008SUNZ01) |
+| 61 | 8.66 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [A Bruin Cube Day 2022](https://www.worldcubeassociation.org/competitions/ABruinCubeDay2022/results/by_person#2012PARK03) |
+| 62 | 8.66 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Weston-super-Mare Open 2022](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2022/results/by_person#2012PONC02) |
+| 63 | 8.67 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Cal Poly SLO Spring 2022](https://www.worldcubeassociation.org/competitions/CalPolySLOSpring2022/results/by_person#2012PARK03) |
+| 64 | 8.67 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Puzzling in Providence 2023](https://www.worldcubeassociation.org/competitions/PuzzlinginProvidence2023/results/by_person#2012PONC02) |
+| 65 | 8.68 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Oregon Championship 2022](https://www.worldcubeassociation.org/competitions/OregonChampionship2022/results/by_person#2012PARK03) |
+| 66 | 8.69 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Circle City Supercharged 2022](https://www.worldcubeassociation.org/competitions/CircleCitySupercharged2022/results/by_person#2012PARK03) |
+| 67 | 8.70 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Melbourne Cube Days 2019](https://www.worldcubeassociation.org/competitions/MelbourneCubeDays2019/results/by_person#2009ZEMD01) |
+| 68 | 8.70 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Western Championship 2023](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2023/results/by_person#2012PARK03) |
+| 69 | 8.70 | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) | [Visayas Championship 2023](https://www.worldcubeassociation.org/competitions/VisayasChampionship2023/results/by_person#2017VILL41) |
+| 70 | 8.71 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Corona Summer 2023](https://www.worldcubeassociation.org/competitions/CoronaSummer2023/results/by_person#2012PARK03) |
+| 71 | 8.71 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [BASC 50 - Berkeley 2023](https://www.worldcubeassociation.org/competitions/BASC50Berkeley2023/results/by_person#2017GARR05) |
+| 72 | 8.72 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | [New England Championship 2023](https://www.worldcubeassociation.org/competitions/NewEnglandChampionship2023/results/by_person#2014SEBA01) |
+| 73 | 8.72 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | [NZ South Island Champs 2023](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2023/results/by_person#2019RAMO05) |
+| 74 | 8.74 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Niskayuna Nimble Fingers 2023](https://www.worldcubeassociation.org/competitions/NiskayunaNimbleFingers2023/results/by_person#2012PONC02) |
+| 75 | 8.74 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | [Lyttelton Spring 2021](https://www.worldcubeassociation.org/competitions/LytteltonSpring2021/results/by_person#2019RAMO05) |
+| 76 | 8.74 | [Magnus Lensch](https://www.worldcubeassociation.org/persons/2019LENS01) | [Bremium Cubing 2023](https://www.worldcubeassociation.org/competitions/BremiumCubing2023/results/by_person#2019LENS01) |
+| 77 | 8.76 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Oregon Championship 2022](https://www.worldcubeassociation.org/competitions/OregonChampionship2022/results/by_person#2012PARK03) |
+| 78 | 8.76 | [Antonio Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) | [Berkeley Winter B 2023](https://www.worldcubeassociation.org/competitions/BerkeleyWinterB2023/results/by_person#2017TUNG13) |
+| 79 | 8.76 | [Magnus Lensch](https://www.worldcubeassociation.org/persons/2019LENS01) | [Rhein-Neckar Autumn 2023](https://www.worldcubeassociation.org/competitions/RheinNeckarAutumn2023/results/by_person#2019LENS01) |
+| 80 | 8.76 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Stevenage June 2023](https://www.worldcubeassociation.org/competitions/StevenageJune2023/results/by_person#2020ARCH01) |
+| 81 | 8.78 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Babylon Summer 2022](https://www.worldcubeassociation.org/competitions/BabylonSummer2022/results/by_person#2012PONC02) |
+| 82 | 8.78 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Don't Fail Kinsale 2023](https://www.worldcubeassociation.org/competitions/DontFailKinsale2023/results/by_person#2012PONC02) |
+| 83 | 8.79 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Florida Spring B 2022](https://www.worldcubeassociation.org/competitions/FloridaSpringB2022/results/by_person#2012PARK03) |
+| 84 | 8.79 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Wakefield Open 2022](https://www.worldcubeassociation.org/competitions/WakefieldOpen2022/results/by_person#2012PONC02) |
+| 85 | 8.79 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | [Sens Open 2023](https://www.worldcubeassociation.org/competitions/SensOpen2023/results/by_person#2014SEBA01) |
+| 86 | 8.79 | [Antonio Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) | [Berkeley Winter B 2023](https://www.worldcubeassociation.org/competitions/BerkeleyWinterB2023/results/by_person#2017TUNG13) |
+| 87 | 8.80 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Berkeley Summer 2018](https://www.worldcubeassociation.org/competitions/BerkeleySummer2018/results/by_person#2012PARK03) |
+| 88 | 8.80 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | [NZ South Island Champs 2023](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2023/results/by_person#2019RAMO05) |
+| 89 | 8.81 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Swoop In And Solve Oxford 2023](https://www.worldcubeassociation.org/competitions/SwoopInAndSolveOxford2023/results/by_person#2017GARR05) |
+| 90 | 8.82 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Missoula 2021](https://www.worldcubeassociation.org/competitions/Missoula2021/results/by_person#2012PARK03) |
+| 91 | 8.83 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [WCC Western Championship 2022](https://www.worldcubeassociation.org/competitions/WCCWesternChampionship2022/results/by_person#2012PARK03) |
+| 92 | 8.83 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | [Norwegian Championship 2022](https://www.worldcubeassociation.org/competitions/NorwegianChampionship2022/results/by_person#2014SEBA01) |
+| 93 | 8.83 | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) | [WCC Speedcubing Open 2023](https://www.worldcubeassociation.org/competitions/WCCSpeedcubingOpen2023/results/by_person#2017VILL41) |
+| 94 | 8.84 | [Zhouheng Sun (孙舟横)](https://www.worldcubeassociation.org/persons/2008SUNZ01) | [Davis Fall 2023](https://www.worldcubeassociation.org/competitions/DavisFall2023/results/by_person#2008SUNZ01) |
+| 95 | 8.84 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Baztan Open 2022](https://www.worldcubeassociation.org/competitions/BaztanOpen2022/results/by_person#2012PONC02) |
+| 96 | 8.84 | [Magnus Lensch](https://www.worldcubeassociation.org/persons/2019LENS01) | [Franconia Mini Open A 2023](https://www.worldcubeassociation.org/competitions/FranconiaMiniOpenA2023/results/by_person#2019LENS01) |
+| 97 | 8.85 | [Zhouheng Sun (孙舟横)](https://www.worldcubeassociation.org/persons/2008SUNZ01) | [UCSD For Hemophilia 2023](https://www.worldcubeassociation.org/competitions/UCSDForHemophilia2023/results/by_person#2008SUNZ01) |
+| 98 | 8.85 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Swoop In And Solve Oxford 2023](https://www.worldcubeassociation.org/competitions/SwoopInAndSolveOxford2023/results/by_person#2017GARR05) |
+| 99 | 8.86 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Stevenage Spring 2022](https://www.worldcubeassociation.org/competitions/StevenageSpring2022/results/by_person#2012PONC02) |
+| 100 | 8.86 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Nacionales Argentinas 2023](https://www.worldcubeassociation.org/competitions/NacionalesArgentinas2023/results/by_person#2017GOLU01) |
 
 ### Megaminx
 

@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 16 December 2023*
+*Updated on 17 December 2023*
 
 
 ### Rubik's Cube
@@ -758,8 +758,8 @@
 | 13 | 26 | [Jihun Yang (양지훈)](https://www.worldcubeassociation.org/persons/2021YANG27) |
 | 14 | 26 | [CJ Brooke](https://www.worldcubeassociation.org/persons/2022BROO02) |
 | 15 | 26 | [Jordi Lleixà López](https://www.worldcubeassociation.org/persons/2023LOPE09) |
-| 16 | 27 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) |
-| 17 | 27 | [David Woner](https://www.worldcubeassociation.org/persons/2008WONE01) |
+| 16 | 27 | [David Woner](https://www.worldcubeassociation.org/persons/2008WONE01) |
+| 17 | 27 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) |
 | 18 | 27 | [Claudio Müller](https://www.worldcubeassociation.org/persons/2010MLLE01) |
 | 19 | 27 | [Tan Yan Shun](https://www.worldcubeassociation.org/persons/2016SHUN03) |
 | 20 | 27 | [AJ Kamal](https://www.worldcubeassociation.org/persons/2016KAMA04) |
