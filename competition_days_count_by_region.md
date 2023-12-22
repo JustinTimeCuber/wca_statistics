@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 19 December 2023*
+*Updated on 22 December 2023*
 
 
 ### World
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.48 | World | 11039 |
+| 1 | 1.48 | World | 11066 |
 
 ### Continents
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.74 | Europe | 3613 |
-| 2 | 1.54 | South America | 1286 |
-| 3 | 1.48 | Oceania | 481 |
-| 4 | 1.42 | Asia | 2464 |
-| 5 | 1.25 | Africa | 125 |
-| 6 | 1.21 | North America | 3070 |
+| 1 | 1.74 | Europe | 3623 |
+| 2 | 1.54 | South America | 1291 |
+| 3 | 1.48 | Oceania | 483 |
+| 4 | 1.42 | Asia | 2468 |
+| 5 | 1.25 | Africa | 126 |
+| 6 | 1.21 | North America | 3075 |
 
 ### Countries
 
@@ -27,7 +27,7 @@
 | 1 | 2.14 | Hungary | 35 |
 | 2 | 2.06 | Czech Republic | 47 |
 | 3 | 2.06 | Uzbekistan | 16 |
-| 4 | 2.05 | Kazakhstan | 42 |
+| 4 | 2.05 | Kazakhstan | 43 |
 | 5 | 2.00 | Liechtenstein | 3 |
 | 6 | 2.00 | Sri Lanka | 6 |
 | 7 | 1.99 | Turkey | 80 |
@@ -37,11 +37,11 @@
 | 11 | 1.92 | Lithuania | 24 |
 | 12 | 1.91 | Slovakia | 32 |
 | 13 | 1.90 | Germany | 207 |
-| 14 | 1.90 | Norway | 105 |
-| 15 | 1.89 | Serbia | 19 |
+| 14 | 1.89 | Serbia | 19 |
+| 15 | 1.89 | Norway | 106 |
 | 16 | 1.87 | France | 267 |
 | 17 | 1.86 | Croatia | 21 |
-| 18 | 1.85 | Spain | 308 |
+| 18 | 1.85 | Spain | 309 |
 | 19 | 1.85 | Switzerland | 98 |
 | 20 | 1.83 | Finland | 120 |
 | 21 | 1.83 | Iceland | 12 |
@@ -50,31 +50,31 @@
 | 24 | 1.82 | Thailand | 49 |
 | 25 | 1.80 | Guatemala | 54 |
 | 26 | 1.77 | Belgium | 73 |
-| 27 | 1.76 | Brazil | 407 |
+| 27 | 1.76 | Brazil | 408 |
 | 28 | 1.76 | Slovenia | 29 |
 | 29 | 1.75 | Austria | 24 |
 | 30 | 1.75 | Palestine | 4 |
 | 31 | 1.73 | Argentina | 73 |
-| 32 | 1.70 | Ukraine | 121 |
-| 33 | 1.70 | Denmark | 142 |
-| 34 | 1.68 | Poland | 406 |
+| 32 | 1.70 | Ukraine | 122 |
+| 33 | 1.69 | Denmark | 143 |
+| 34 | 1.68 | Poland | 409 |
 | 35 | 1.67 | Kyrgyzstan | 3 |
 | 36 | 1.67 | Luxembourg | 3 |
 | 37 | 1.67 | Montenegro | 3 |
 | 38 | 1.67 | North Macedonia | 6 |
 | 39 | 1.67 | San Marino | 6 |
-| 40 | 1.64 | New Zealand | 98 |
-| 41 | 1.64 | Iran | 36 |
+| 40 | 1.64 | Iran | 36 |
+| 41 | 1.64 | New Zealand | 99 |
 | 42 | 1.61 | Indonesia | 199 |
 | 43 | 1.61 | Ireland | 49 |
 | 44 | 1.60 | Greece | 20 |
 | 45 | 1.60 | Nigeria | 5 |
 | 46 | 1.60 | Netherlands | 109 |
-| 47 | 1.59 | India | 498 |
+| 47 | 1.59 | India | 499 |
 | 48 | 1.58 | Bangladesh | 12 |
 | 49 | 1.57 | Italy | 190 |
-| 50 | 1.56 | Sweden | 234 |
-| 51 | 1.56 | Bolivia | 102 |
+| 50 | 1.56 | Sweden | 236 |
+| 51 | 1.56 | Bolivia | 104 |
 | 52 | 1.54 | Malaysia | 79 |
 | 53 | 1.54 | Dominican Republic | 26 |
 | 54 | 1.50 | Peru | 185 |
@@ -83,11 +83,11 @@
 | 57 | 1.50 | Latvia | 26 |
 | 58 | 1.48 | Costa Rica | 21 |
 | 59 | 1.45 | Romania | 100 |
-| 60 | 1.44 | Australia | 383 |
+| 60 | 1.44 | Australia | 384 |
 | 61 | 1.42 | Nepal | 19 |
 | 62 | 1.41 | Israel | 41 |
-| 63 | 1.41 | Colombia | 236 |
-| 64 | 1.40 | Singapore | 43 |
+| 63 | 1.40 | Colombia | 238 |
+| 64 | 1.39 | Singapore | 44 |
 | 65 | 1.38 | Bulgaria | 13 |
 | 66 | 1.38 | Ecuador | 39 |
 | 67 | 1.38 | Jordan | 13 |
@@ -107,7 +107,7 @@
 | 81 | 1.29 | Panama | 14 |
 | 82 | 1.26 | Chile | 106 |
 | 83 | 1.26 | China | 624 |
-| 84 | 1.24 | Mongolia | 25 |
+| 84 | 1.23 | Mongolia | 26 |
 | 85 | 1.22 | Portugal | 18 |
 | 86 | 1.21 | Japan | 223 |
 | 87 | 1.20 | Uruguay | 46 |
@@ -117,10 +117,10 @@
 | 91 | 1.17 | Morocco | 6 |
 | 92 | 1.17 | Tunisia | 24 |
 | 93 | 1.16 | Canada | 315 |
-| 94 | 1.16 | United States | 2465 |
+| 94 | 1.16 | United States | 2470 |
 | 95 | 1.14 | Azerbaijan | 42 |
 | 96 | 1.12 | Honduras | 16 |
-| 97 | 1.08 | Georgia | 26 |
+| 97 | 1.07 | Georgia | 27 |
 | 98 | 1.00 | Albania | 3 |
 | 99 | 1.00 | Algeria | 9 |
 | 100 | 1.00 | Angola | 1 |
@@ -128,7 +128,7 @@
 | 102 | 1.00 | Cuba | 1 |
 | 103 | 1.00 | Cyprus | 9 |
 | 104 | 1.00 | Egypt | 6 |
-| 105 | 1.00 | Kenya | 7 |
+| 105 | 1.00 | Kenya | 8 |
 | 106 | 1.00 | Kosovo | 3 |
 | 107 | 1.00 | Macau, China | 1 |
 | 108 | 1.00 | Madagascar | 1 |

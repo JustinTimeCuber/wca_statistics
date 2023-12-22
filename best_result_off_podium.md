@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 19 December 2023*
+*Updated on 22 December 2023*
 
 
 ### Rubik's Cube
@@ -790,7 +790,7 @@
 | 45 | [Andrew Nathenson](https://www.worldcubeassociation.org/persons/2011NATH02) | 23 | **26.00** | [FMC Americas 2019](https://www.worldcubeassociation.org/competitions/FMCAmericas2019/results/all#e333fm_f) | 4 |
 | 46 | [Vincent Trang](https://www.worldcubeassociation.org/persons/2019TRAN10) | 23 | **26.00** | [FMC Anglo America 2023](https://www.worldcubeassociation.org/competitions/FMCAngloAmerica2023/results/all#e333fm_f) | 5 |
 | 47 | [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) | 23 | **26.00** | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023/results/all#e333fm_f) | 6 |
-| 48 | [Kacper Rafalski](https://www.worldcubeassociation.org/persons/2017RAFA02) | 23 | **26.00** | [Szansa Cubing Open Warsaw 2021](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2021/results/all#e333fm_f) | 6 |
+| 48 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) | 23 | **26.00** | [Szansa Cubing Open Warsaw 2021](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2021/results/all#e333fm_f) | 6 |
 | 49 | [Cyprian Kalbarczyk](https://www.worldcubeassociation.org/persons/2016KALB01) | 24 | **26.00** | [3 FMC Rounds in Rzeszów 2023](https://www.worldcubeassociation.org/competitions/3FMCRoundsinRzeszow2023/results/all#e333fm_f) | 4 |
 | 50 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 24 | **26.00** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#e333fm_f) | 11 |
 | 51 | [Ujjawal Pabreja](https://www.worldcubeassociation.org/persons/2015PABR01) | 24 | **26.00** | [FMC Asia 2019](https://www.worldcubeassociation.org/competitions/FMCAsia2019/results/all#e333fm_f) | 5 |
@@ -1149,15 +1149,15 @@
 | 89 | [Livia Kleiner](https://www.worldcubeassociation.org/persons/2013KLEI03) | 2.47 | **2.71** | [Liberty Science Center Open 2019](https://www.worldcubeassociation.org/competitions/LibertyScienceCenterOpen2019/results/all#epyram_f) | 4 |
 | 90 | [Marko Striyeshyn](https://www.worldcubeassociation.org/persons/2014STRI01) | 2.49 | **2.71** | [Speed Days Kielce 2017](https://www.worldcubeassociation.org/competitions/SpeedDaysKielce2017/results/all#epyram_f) | 4 |
 | 91 | [Giovanni Centili](https://www.worldcubeassociation.org/persons/2018CENT02) | 2.63 | **2.71** | [Italian Championship 2023](https://www.worldcubeassociation.org/competitions/ItalianChampionship2023/results/all#epyram_f) | 5 |
-| 92 | [Daniel Porter](https://www.worldcubeassociation.org/persons/2017PORT04) | 2.02 | **2.72** | [GA Cubers Return B 2021](https://www.worldcubeassociation.org/competitions/GACubersReturnB2021/results/all#epyram_f) | 5 |
-| 93 | [Tobiasz Urbanowicz](https://www.worldcubeassociation.org/persons/2019URBA01) | 2.49 | **2.72** | [GLS I 2023](https://www.worldcubeassociation.org/competitions/GLSI2023/results/all#epyram_f) | 4 |
-| 94 | [Owen Yepeng Sun (孙叶芃)](https://www.worldcubeassociation.org/persons/2017SUNY01) | 2.18 | **2.73** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#epyram_f) | 13 |
-| 95 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | 2.25 | **2.73** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#epyram_f) | 14 |
-| 96 | [Evan Wright](https://www.worldcubeassociation.org/persons/2017WRIG03) | 1.88 | **2.74** | [Cubing by the Kings 2023](https://www.worldcubeassociation.org/competitions/CubingByTheKings2023/results/all#epyram_f) | 5 |
-| 97 | [Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01) | 1.99 | **2.74** | [Southeast Championship 2022](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2022/results/all#epyram_f) | 7 |
-| 98 | [Maciej Jabłoński](https://www.worldcubeassociation.org/persons/2017JABL01) | 2.09 | **2.74** | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023/results/all#epyram_f) | 9 |
-| 99 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 2.21 | **2.74** | [Get to Work Chicagoland 2023](https://www.worldcubeassociation.org/competitions/GetToWorkChicagoland2023/results/all#epyram_f) | 5 |
-| 100 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 2.28 | **2.74** | [Dragon Cubing 2022](https://www.worldcubeassociation.org/competitions/DragonCubing2022/results/all#epyram_f) | 8 |
+| 92 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 1.47 | **2.72** | [Washtenaw Autumn 2023](https://www.worldcubeassociation.org/competitions/WashtenawAutumn2023/results/all#epyram_f) | 4 |
+| 93 | [Daniel Porter](https://www.worldcubeassociation.org/persons/2017PORT04) | 2.02 | **2.72** | [GA Cubers Return B 2021](https://www.worldcubeassociation.org/competitions/GACubersReturnB2021/results/all#epyram_f) | 5 |
+| 94 | [Tobiasz Urbanowicz](https://www.worldcubeassociation.org/persons/2019URBA01) | 2.49 | **2.72** | [GLS I 2023](https://www.worldcubeassociation.org/competitions/GLSI2023/results/all#epyram_f) | 4 |
+| 95 | [Owen Yepeng Sun (孙叶芃)](https://www.worldcubeassociation.org/persons/2017SUNY01) | 2.18 | **2.73** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#epyram_f) | 13 |
+| 96 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | 2.25 | **2.73** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#epyram_f) | 14 |
+| 97 | [Evan Wright](https://www.worldcubeassociation.org/persons/2017WRIG03) | 1.88 | **2.74** | [Cubing by the Kings 2023](https://www.worldcubeassociation.org/competitions/CubingByTheKings2023/results/all#epyram_f) | 5 |
+| 98 | [Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01) | 1.99 | **2.74** | [Southeast Championship 2022](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2022/results/all#epyram_f) | 7 |
+| 99 | [Maciej Jabłoński](https://www.worldcubeassociation.org/persons/2017JABL01) | 2.09 | **2.74** | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023/results/all#epyram_f) | 9 |
+| 100 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 2.21 | **2.74** | [Get to Work Chicagoland 2023](https://www.worldcubeassociation.org/competitions/GetToWorkChicagoland2023/results/all#epyram_f) | 5 |
 
 ### Rubik's Clock
 

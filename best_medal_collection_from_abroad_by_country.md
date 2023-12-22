@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 19 December 2023*
+*Updated on 22 December 2023*
 
 | Rank | Country | Gold | Silver | Bronze | Total |
 | :--- | :--- | :--: | :--: | :--: | :--: |
@@ -15,8 +15,8 @@
 | 8 | Poland | **557** | 371 | 279 | 1207 |
 | 9 | Malaysia | **392** | 390 | 356 | 1138 |
 | 10 | United Kingdom | **382** | 438 | 431 | 1251 |
-| 11 | Canada | **364** | 370 | 398 | 1132 |
-| 12 | Denmark | **346** | 294 | 234 | 874 |
+| 11 | Canada | **365** | 371 | 400 | 1136 |
+| 12 | Denmark | **347** | 294 | 234 | 875 |
 | 13 | Republic of Korea | **312** | 273 | 240 | 825 |
 | 14 | Sweden | **306** | 348 | 361 | 1015 |
 | 15 | Australia | **289** | 136 | 91 | 516 |
@@ -31,7 +31,7 @@
 | 24 | Japan | **201** | 135 | 137 | 473 |
 | 25 | Romania | **195** | 137 | 122 | 454 |
 | 26 | Spain | **180** | 170 | 200 | 550 |
-| 27 | Singapore | **169** | 173 | 181 | 523 |
+| 27 | Singapore | **169** | 173 | 182 | 524 |
 | 28 | Indonesia | **168** | 155 | 124 | 447 |
 | 29 | Austria | **148** | 213 | 215 | 576 |
 | 30 | Peru | **143** | 76 | 92 | 311 |
@@ -57,10 +57,10 @@
 | 50 | Jordan | **40** | 9 | 15 | 64 |
 | 51 | Israel | **39** | 34 | 41 | 114 |
 | 52 | Kosovo | **37** | 27 | 22 | 86 |
-| 53 | Venezuela | **33** | 47 | 41 | 121 |
-| 54 | Mongolia | **32** | 30 | 29 | 91 |
-| 55 | Uzbekistan | **32** | 29 | 31 | 92 |
-| 56 | New Zealand | **30** | 67 | 53 | 150 |
+| 53 | New Zealand | **34** | 68 | 53 | 155 |
+| 54 | Venezuela | **33** | 47 | 41 | 121 |
+| 55 | Mongolia | **32** | 30 | 29 | 91 |
+| 56 | Uzbekistan | **32** | 29 | 31 | 92 |
 | 57 | Chile | **28** | 20 | 19 | 67 |
 | 58 | Costa Rica | **27** | 35 | 28 | 90 |
 | 59 | Serbia | **25** | 33 | 33 | 91 |
