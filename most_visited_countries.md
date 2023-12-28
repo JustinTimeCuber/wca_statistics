@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 25 December 2023*
+*Updated on 28 December 2023*
 
 | Rank | Countries | Person |
 | :--- | ---: | :--- |
@@ -27,9 +27,9 @@
 | 21 | 24 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
 | 22 | 24 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 23 | 23 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
-| 24 | 23 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
-| 25 | 23 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
-| 26 | 22 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) |
+| 24 | 23 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) |
+| 25 | 23 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
+| 26 | 23 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
 | 27 | 22 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) |
 | 28 | 22 | [Nora Akkersdijk](https://www.worldcubeassociation.org/persons/2009CHRI03) |
 | 29 | 22 | [Sanio Kasumovic](https://www.worldcubeassociation.org/persons/2009KASU01) |

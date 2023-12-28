@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 25 December 2023*
+*Updated on 28 December 2023*
 
 | Rank | Person | Gold | Silver | Bronze | Total |
 | :--- | :--- | :--: | :--: | :--: | :--: |
@@ -182,7 +182,7 @@
 | 175 | [Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68) | **18** | 22 | 8 | 48 |
 | 176 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) | **18** | 19 | 25 | 62 |
 | 177 | [Linus Buck](https://www.worldcubeassociation.org/persons/2016BUCK01) | **18** | 18 | 16 | 52 |
-| 178 | [Mihir Narayan](https://www.worldcubeassociation.org/persons/2018NARA14) | **18** | 5 | 5 | 28 |
+| 178 | [Mihir Narayan](https://www.worldcubeassociation.org/persons/2018NARA14) | **18** | 6 | 6 | 30 |
 | 179 | [Ben Baron](https://www.worldcubeassociation.org/persons/2016BARO04) | **18** | 5 | 3 | 26 |
 | 180 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **17** | 24 | 20 | 61 |
 | 181 | [Remo Pihel](https://www.worldcubeassociation.org/persons/2017PIHE01) | **17** | 21 | 12 | 50 |
