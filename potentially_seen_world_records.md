@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 31 December 2023*
+*Updated on  1 January 2024*
 
 | Rank | WRs | Person |
 | :--- | ---: | :--- |
@@ -193,7 +193,7 @@
 | 186 | 49 | [Arifumi Fushimi (伏見有史)](https://www.worldcubeassociation.org/persons/2009FUSH01) |
 | 187 | 49 | [Brandon Harnish](https://www.worldcubeassociation.org/persons/2009HARN01) |
 | 188 | 49 | [Claude Cantin](https://www.worldcubeassociation.org/persons/2012CANT01) |
-| 189 | 49 | [Jiekang Pan (潘杰康)](https://www.worldcubeassociation.org/persons/2012PANJ02) |
+| 189 | 49 | [Jack Pan (潘杰康)](https://www.worldcubeassociation.org/persons/2012PANJ02) |
 | 190 | 49 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 191 | 49 | [Ryosuke Mondo (門戸良介)](https://www.worldcubeassociation.org/persons/2006MOND01) |
 | 192 | 49 | [Chan Tak Chuen (陳德泉)](https://www.worldcubeassociation.org/persons/2007CHUE01) |
