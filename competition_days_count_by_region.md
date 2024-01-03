@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on  1 January 2024*
+*Updated on  2 January 2024*
 
 
 ### World
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.48 | World | 11140 |
+| 1 | 1.48 | World | 11148 |
 
 ### Continents
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.74 | Europe | 3645 |
-| 2 | 1.54 | South America | 1304 |
+| 1 | 1.74 | Europe | 3646 |
+| 2 | 1.53 | South America | 1306 |
 | 3 | 1.47 | Oceania | 487 |
-| 4 | 1.42 | Asia | 2482 |
+| 4 | 1.42 | Asia | 2483 |
 | 5 | 1.24 | Africa | 127 |
-| 6 | 1.21 | North America | 3095 |
+| 6 | 1.20 | North America | 3099 |
 
 ### Countries
 
@@ -31,7 +31,7 @@
 | 5 | 2.00 | Liechtenstein | 3 |
 | 6 | 2.00 | Sri Lanka | 6 |
 | 7 | 1.99 | Turkey | 81 |
-| 8 | 1.95 | United Kingdom | 197 |
+| 8 | 1.95 | United Kingdom | 198 |
 | 9 | 1.93 | Belarus | 42 |
 | 10 | 1.92 | Russia | 220 |
 | 11 | 1.92 | Lithuania | 25 |
@@ -68,7 +68,7 @@
 | 42 | 1.61 | Indonesia | 201 |
 | 43 | 1.60 | Greece | 20 |
 | 44 | 1.60 | Netherlands | 109 |
-| 45 | 1.59 | India | 505 |
+| 45 | 1.59 | India | 506 |
 | 46 | 1.58 | Bangladesh | 12 |
 | 47 | 1.57 | San Marino | 7 |
 | 48 | 1.57 | Italy | 191 |
@@ -85,7 +85,7 @@
 | 59 | 1.45 | Romania | 100 |
 | 60 | 1.43 | Australia | 388 |
 | 61 | 1.42 | Nepal | 19 |
-| 62 | 1.40 | Colombia | 241 |
+| 62 | 1.40 | Colombia | 243 |
 | 63 | 1.39 | Israel | 44 |
 | 64 | 1.39 | Singapore | 44 |
 | 65 | 1.38 | Ecuador | 39 |
@@ -116,8 +116,8 @@
 | 90 | 1.17 | Armenia | 6 |
 | 91 | 1.17 | Morocco | 6 |
 | 92 | 1.17 | Tunisia | 24 |
-| 93 | 1.16 | United States | 2483 |
-| 94 | 1.16 | Canada | 321 |
+| 93 | 1.16 | United States | 2486 |
+| 94 | 1.16 | Canada | 322 |
 | 95 | 1.14 | Azerbaijan | 42 |
 | 96 | 1.12 | Honduras | 16 |
 | 97 | 1.07 | Georgia | 27 |

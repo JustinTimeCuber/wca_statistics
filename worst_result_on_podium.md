@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on  1 January 2024*
+*Updated on  2 January 2024*
 
 
 ### Rubik's Cube
@@ -1550,7 +1550,7 @@
 | 70 | [Allyson Dias de Lima](https://www.worldcubeassociation.org/persons/2011LIMA01) | **25:36.00** |  | [São Paulo Open 2014](https://www.worldcubeassociation.org/competitions/SPOpen2014/results/podiums#e444bf) | 1 |
 | 71 | [Sam Porter](https://www.worldcubeassociation.org/persons/2018PORT06) | **25:35.00** | DNF | [PBQuIdaho 2023](https://www.worldcubeassociation.org/competitions/PBQuIdahoWinter2023/results/podiums#e444bf) | 3 |
 | 72 | [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) | **25:31.00** | DNF | [Polish Open 2019](https://www.worldcubeassociation.org/competitions/PolishOpen2019/results/podiums#e444bf) | 3 |
-| 73 | [Daniel M. James](https://www.worldcubeassociation.org/persons/2012JAME04) | **25:30.00** | DNF | [CET Cubing Paradox 2017](https://www.worldcubeassociation.org/competitions/CETCubingParadox2017/results/podiums#e444bf) | 3 |
+| 73 | [Daniel James](https://www.worldcubeassociation.org/persons/2012JAME04) | **25:30.00** | DNF | [CET Cubing Paradox 2017](https://www.worldcubeassociation.org/competitions/CETCubingParadox2017/results/podiums#e444bf) | 3 |
 | 74 | [Vinit Nalhe](https://www.worldcubeassociation.org/persons/2012NALH01) | **25:26.00** | DNF | [Euskadi Open Portugalete 2018](https://www.worldcubeassociation.org/competitions/EuskadiOpenPortugalete2018/results/podiums#e444bf) | 3 |
 | 75 | [Adrian Roșu](https://www.worldcubeassociation.org/persons/2012ADRI01) | **25:17.00** | DNF | [Cannes Open 2015](https://www.worldcubeassociation.org/competitions/CannesOpen2015/results/podiums#e444bf) | 3 |
 | 76 | [Samuel Hernandez Castro](https://www.worldcubeassociation.org/persons/2016CAST31) | **25:12.00** | DNF | [Silence in Tlaxcala 2019](https://www.worldcubeassociation.org/competitions/SilenceinTlaxcala2019/results/podiums#e444bf) | 2 |
