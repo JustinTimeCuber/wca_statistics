@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 1000 single are taken into account.*
-*Updated on  4 January 2024*
+*Updated on  7 January 2024*
 
 
 ### Rubik's Cube
@@ -301,11 +301,11 @@
 | 81 | 27.98 | [Mulun Yin (阴目仑)](https://www.worldcubeassociation.org/persons/2009YINM01) | 33.30, 25.41, 28.68, 30.19, 27.85, 27.38, 23.60, 28.41, 30.68, 29.85, 25.49, 25.87 |
 | 82 | 28.04 | [Natthaphat Mahtani (ณัฐภัทร จี มาทานี)](https://www.worldcubeassociation.org/persons/2011MAHT02) | 26.13, 25.57, 28.31, 32.64, 31.46, 28.88, 26.94, 28.56, 29.50, 25.84, 23.19, 29.22 |
 | 83 | 28.04 | [He-Ping Zheng (鄭和平)](https://www.worldcubeassociation.org/persons/2015ZHEN20) | 34.01, 28.15, 25.13, 29.59, 28.52, 27.99, 28.55, 28.10, 26.37, 27.86, 27.09, 28.23 |
-| 84 | 28.08 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | 27.41, 27.78, 29.42, 29.08, 24.41, 31.28, 28.54, 32.09, 28.25, 27.69, 26.94, 23.74 |
-| 85 | 28.12 | [Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01) | 22.95, 23.79, 29.96, 25.65, 33.87, 29.45, 30.81, 30.54, 25.39, 28.24, 28.36, 29.07 |
-| 86 | 28.14 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | 26.00, 29.03, 26.62, 34.35, 30.42, 34.43, 28.35, 27.26, 25.78, 25.96, 27.64, 23.90 |
-| 87 | 28.14 | [Claudio Matias Cancino Bruna](https://www.worldcubeassociation.org/persons/2019BRUN02) | 26.74, 24.74, 25.64, 30.55, 31.53, 30.05, 34.58, 26.44, 27.68, 27.94, 28.53, 26.37 |
-| 88 | 28.15 | [Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09) | 28.90, 31.21, 31.55, 26.99, 27.35, 27.27, 26.41, 26.52, 32.01, 28.48, 26.89, 26.10 |
+| 84 | 28.04 | [Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09) | 27.43, 28.97, 30.22, 27.86, 25.40, 26.87, 31.80, 29.10, 23.20, 32.33, 28.54, 24.29 |
+| 85 | 28.08 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | 27.41, 27.78, 29.42, 29.08, 24.41, 31.28, 28.54, 32.09, 28.25, 27.69, 26.94, 23.74 |
+| 86 | 28.12 | [Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01) | 22.95, 23.79, 29.96, 25.65, 33.87, 29.45, 30.81, 30.54, 25.39, 28.24, 28.36, 29.07 |
+| 87 | 28.14 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | 26.00, 29.03, 26.62, 34.35, 30.42, 34.43, 28.35, 27.26, 25.78, 25.96, 27.64, 23.90 |
+| 88 | 28.14 | [Claudio Matias Cancino Bruna](https://www.worldcubeassociation.org/persons/2019BRUN02) | 26.74, 24.74, 25.64, 30.55, 31.53, 30.05, 34.58, 26.44, 27.68, 27.94, 28.53, 26.37 |
 | 89 | 28.17 | [Carson Widjaja](https://www.worldcubeassociation.org/persons/2018WIDJ01) | 33.66, 29.07, 28.24, 28.13, 32.09, 29.57, 28.56, 26.54, 26.50, 27.54, 25.34, 25.50 |
 | 90 | 28.17 | [Omar Ellabban](https://www.worldcubeassociation.org/persons/2018ELLA01) | 28.21, 28.96, 27.39, 26.12, 30.40, 32.52, 26.55, 29.32, 29.03, 28.73, 25.95, 26.99 |
 | 91 | 28.21 | [Asia Konvittayayotin (เอเชีย กรวิทยโยธิน)](https://www.worldcubeassociation.org/persons/2009KONV01) | 30.70, 28.36, 28.05, 28.35, 27.51, 25.01, 26.41, 29.35, 31.05, 29.78, 26.68, 27.00 |

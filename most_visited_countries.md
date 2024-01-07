@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on  4 January 2024*
+*Updated on  7 January 2024*
 
 | Rank | Countries | Person |
 | :--- | ---: | :--- |
@@ -803,7 +803,7 @@
 | 797 | 5 | [Fanny Pousset](https://www.worldcubeassociation.org/persons/2016POUS01) |
 | 798 | 5 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) |
 | 799 | 5 | [Kotaro Terada (寺田晃太朗)](https://www.worldcubeassociation.org/persons/2010TERA01) |
-| 800 | 5 | [Chung Yeung Ho (鍾養浩)](https://www.worldcubeassociation.org/persons/2017HOJE01) |
+| 800 | 5 | [Jerry Chung (鍾養浩)](https://www.worldcubeassociation.org/persons/2017HOJE01) |
 | 801 | 5 | [Carlos Carneros Torner](https://www.worldcubeassociation.org/persons/2013TORN02) |
 | 802 | 5 | [Dmitry Kryuzban](https://www.worldcubeassociation.org/persons/2010KRYU01) |
 | 803 | 5 | [Dalibor Mrška](https://www.worldcubeassociation.org/persons/2014MRSK01) |

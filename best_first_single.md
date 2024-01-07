@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on  4 January 2024*
+*Updated on  7 January 2024*
 
 
 ### Rubik's Cube
@@ -816,8 +816,8 @@
 | 71 | 30 | [Joshua Hounslow](https://www.worldcubeassociation.org/persons/2016HOUN01) |
 | 72 | 30 | [Yap Jia Yang](https://www.worldcubeassociation.org/persons/2016YANG84) |
 | 73 | 30 | [Daniel Alejandro Torres Moreno](https://www.worldcubeassociation.org/persons/2018MORE19) |
-| 74 | 30 | [Theo Hall](https://www.worldcubeassociation.org/persons/2017HALL06) |
-| 75 | 30 | [Stephen Waller](https://www.worldcubeassociation.org/persons/2017WALL12) |
+| 74 | 30 | [Stephen Waller](https://www.worldcubeassociation.org/persons/2017WALL12) |
+| 75 | 30 | [Theo Hall](https://www.worldcubeassociation.org/persons/2017HALL06) |
 | 76 | 30 | [Alon Ron](https://www.worldcubeassociation.org/persons/2017RONA02) |
 | 77 | 30 | [Tee Kai Yang](https://www.worldcubeassociation.org/persons/2017YANG59) |
 | 78 | 30 | [Conor Sullivan](https://www.worldcubeassociation.org/persons/2018SULL05) |

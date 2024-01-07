@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on  4 January 2024*
+*Updated on  7 January 2024*
 
 | Rank | Competitions | Person |
 | :--- | ---: | :--- |
@@ -56,9 +56,9 @@
 | 50 | 64 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 51 | 63 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) |
 | 52 | 62 | [Mok Man Kit (莫文傑)](https://www.worldcubeassociation.org/persons/2009KITM01) |
-| 53 | 61 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
-| 54 | 61 | [Abdullah Gulab](https://www.worldcubeassociation.org/persons/2014GULA02) |
-| 55 | 61 | [Danny Sungin Park](https://www.worldcubeassociation.org/persons/2015PARK13) |
+| 53 | 62 | [Danny Sungin Park](https://www.worldcubeassociation.org/persons/2015PARK13) |
+| 54 | 61 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 55 | 61 | [Abdullah Gulab](https://www.worldcubeassociation.org/persons/2014GULA02) |
 | 56 | 60 | [Anders Larsson](https://www.worldcubeassociation.org/persons/2003LARS01) |
 | 57 | 60 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) |
 | 58 | 60 | [Yulia Gritsenko](https://www.worldcubeassociation.org/persons/2012SIDO01) |
@@ -207,18 +207,18 @@
 | 201 | 32 | [Hongyuan Fu (傅泓源)](https://www.worldcubeassociation.org/persons/2017FUHO01) |
 | 202 | 32 | [Vilius Ribinskas](https://www.worldcubeassociation.org/persons/2015RIBI01) |
 | 203 | 32 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) |
-| 204 | 32 | [Zuhair Raiyan Khan](https://www.worldcubeassociation.org/persons/2021KHAN05) |
-| 205 | 31 | [Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02) |
-| 206 | 31 | [Joël van Noort](https://www.worldcubeassociation.org/persons/2004NOOR01) |
-| 207 | 31 | [Ronnie Jinxuan Zhu (朱缙轩)](https://www.worldcubeassociation.org/persons/2021ZHUR03) |
-| 208 | 31 | [Darja Makurina](https://www.worldcubeassociation.org/persons/2014MAKU02) |
-| 209 | 31 | [David Lim](https://www.worldcubeassociation.org/persons/2010LIMD01) |
-| 210 | 31 | [Putian Ye](https://www.worldcubeassociation.org/persons/2021YEPU01) |
-| 211 | 31 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
-| 212 | 31 | [Roberts Dreijers](https://www.worldcubeassociation.org/persons/2018DREI02) |
-| 213 | 31 | [Carlo Glod](https://www.worldcubeassociation.org/persons/2017GLOD01) |
-| 214 | 31 | [Zhouheng Sun (孙舟横)](https://www.worldcubeassociation.org/persons/2008SUNZ01) |
-| 215 | 31 | [Guanda Fu (符冠达)](https://www.worldcubeassociation.org/persons/2010FUGU01) |
+| 204 | 32 | [Guanda Fu (符冠达)](https://www.worldcubeassociation.org/persons/2010FUGU01) |
+| 205 | 32 | [Zuhair Raiyan Khan](https://www.worldcubeassociation.org/persons/2021KHAN05) |
+| 206 | 31 | [Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02) |
+| 207 | 31 | [Joël van Noort](https://www.worldcubeassociation.org/persons/2004NOOR01) |
+| 208 | 31 | [Ronnie Jinxuan Zhu (朱缙轩)](https://www.worldcubeassociation.org/persons/2021ZHUR03) |
+| 209 | 31 | [Darja Makurina](https://www.worldcubeassociation.org/persons/2014MAKU02) |
+| 210 | 31 | [David Lim](https://www.worldcubeassociation.org/persons/2010LIMD01) |
+| 211 | 31 | [Putian Ye](https://www.worldcubeassociation.org/persons/2021YEPU01) |
+| 212 | 31 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
+| 213 | 31 | [Roberts Dreijers](https://www.worldcubeassociation.org/persons/2018DREI02) |
+| 214 | 31 | [Carlo Glod](https://www.worldcubeassociation.org/persons/2017GLOD01) |
+| 215 | 31 | [Zhouheng Sun (孙舟横)](https://www.worldcubeassociation.org/persons/2008SUNZ01) |
 | 216 | 30 | [Elias Lampert](https://www.worldcubeassociation.org/persons/2021LAMP01) |
 | 217 | 30 | [Joy Liou Liu (刘丽欧)](https://www.worldcubeassociation.org/persons/2017LIUJ21) |
 | 218 | 30 | [Qi Qu (曲祺)](https://www.worldcubeassociation.org/persons/2013QUQI01) |
@@ -547,7 +547,7 @@
 | 541 | 17 | [Aayush Sriram Bharadwaj](https://www.worldcubeassociation.org/persons/2018BHAR02) |
 | 542 | 17 | [Robin Kwant](https://www.worldcubeassociation.org/persons/2008KWAN04) |
 | 543 | 17 | [Pasquale Lombardozzi](https://www.worldcubeassociation.org/persons/2008LOMB01) |
-| 544 | 17 | [Chung Yeung Ho (鍾養浩)](https://www.worldcubeassociation.org/persons/2017HOJE01) |
+| 544 | 17 | [Jerry Chung (鍾養浩)](https://www.worldcubeassociation.org/persons/2017HOJE01) |
 | 545 | 17 | [Barnabás Turi](https://www.worldcubeassociation.org/persons/2009TURI01) |
 | 546 | 17 | [Renato Stopic](https://www.worldcubeassociation.org/persons/2014STOP01) |
 | 547 | 17 | [Fabian Settelen](https://www.worldcubeassociation.org/persons/2015SETT01) |

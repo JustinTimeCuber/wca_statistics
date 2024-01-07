@@ -1,6 +1,6 @@
 ## Longest streak of competitions with a personal record done
 
-*Updated on  4 January 2024*
+*Updated on  7 January 2024*
 
 | Rank | Competitions | Person | Started at | Ended at |
 | :--- | ---: | :--- | :--- | :--- |
@@ -307,7 +307,7 @@
 | 301 | 34 | [Jaime Calzado Gomez](https://www.worldcubeassociation.org/persons/2018GOME06) | [Guildford Open 2018](https://www.worldcubeassociation.org/competitions/GuildfordOpen2018) | [X-Madrid Open 2023](https://www.worldcubeassociation.org/competitions/XMadridOpen2023) |
 | 302 | 34 | [Lucas Nieuwland](https://www.worldcubeassociation.org/persons/2018NIEU01) | [Oakville Limited Spring 2018](https://www.worldcubeassociation.org/competitions/OakvilleLimitedSpring2018) | [Richmond Hill 2022](https://www.worldcubeassociation.org/competitions/RichmondHill2022) |
 | 303 | 34 | [Kate Grahame](https://www.worldcubeassociation.org/persons/2018GRAH05) | [UCSD Winter 2020](https://www.worldcubeassociation.org/competitions/UCSDWinter2020) | [Naperville Summer 2023](https://www.worldcubeassociation.org/competitions/NapervilleSummer2023) |
-| 304 | 34 | [Carl Overbye](https://www.worldcubeassociation.org/persons/2018OVER04) | [Sioux Falls Summer 2018](https://www.worldcubeassociation.org/competitions/SiouxFallsSummer2018) |  |
+| 304 | 34 | [Carl Overbye](https://www.worldcubeassociation.org/persons/2018OVER04) | [Sioux Falls Summer 2018](https://www.worldcubeassociation.org/competitions/SiouxFallsSummer2018) | [MN Meetup III Thursday 2024](https://www.worldcubeassociation.org/competitions/MinnesotaMeetupIIIThursday2024) |
 | 305 | 34 | [Lucas Kuczaj](https://www.worldcubeassociation.org/persons/2018KUCZ01) | [Canada's Best in the West 2018](https://www.worldcubeassociation.org/competitions/CanadasBestInTheWest2018) |  |
 | 306 | 34 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | [Grudziądz Open 2019](https://www.worldcubeassociation.org/competitions/GrudziadzOpen2019) | [GLS V 2023](https://www.worldcubeassociation.org/competitions/GLSV2023) |
 | 307 | 34 | [Pep Edén](https://www.worldcubeassociation.org/persons/2021EDEN01) | [Swedish Championship 2021](https://www.worldcubeassociation.org/competitions/SwedishChampionship2021) |  |
@@ -527,7 +527,7 @@
 | 521 | 30 | [Ryan Waite](https://www.worldcubeassociation.org/persons/2018WAIT02) | [BA Fall Cube Fest 2018](https://www.worldcubeassociation.org/competitions/BAFallCubeFest2018) | [New Hampshire Spring 2023](https://www.worldcubeassociation.org/competitions/NewHampshireSpring2023) |
 | 522 | 30 | [Anatolii Turenko (Анатолий Туренко)](https://www.worldcubeassociation.org/persons/2018TURE01) | [Welcome to Academy 2018](https://www.worldcubeassociation.org/competitions/WelcometoAcademy2018) |  |
 | 523 | 30 | [Peri Le Dain](https://www.worldcubeassociation.org/persons/2018DAIN02) | [Odd Day in Sydney 2018](https://www.worldcubeassociation.org/competitions/OddDayinSydney2018) | [Northside Spring Saturday 2022](https://www.worldcubeassociation.org/competitions/NorthsideSpringSaturday2022) |
-| 524 | 30 | [MinGwan Yeo (여민관)](https://www.worldcubeassociation.org/persons/2018MING07) | [Busan Winter 2018](https://www.worldcubeassociation.org/competitions/BusanWinter2018) |  |
+| 524 | 30 | [MinGwan Yeo (여민관)](https://www.worldcubeassociation.org/persons/2018MING07) | [Busan Winter 2018](https://www.worldcubeassociation.org/competitions/BusanWinter2018) | [Seoul Open 2024](https://www.worldcubeassociation.org/competitions/SeoulOpen2024) |
 | 525 | 30 | [Teodor Bergman](https://www.worldcubeassociation.org/persons/2019BERG08) | [Norwegian Championship 2019](https://www.worldcubeassociation.org/competitions/NorwegianChampionship2019) |  |
 | 526 | 30 | [Oliver Michael Sitja Sichel](https://www.worldcubeassociation.org/persons/2019SICH01) | [Rocky Mountain Spring 2019](https://www.worldcubeassociation.org/competitions/RockyMountainSpring2019) | [USAFA Flyby Cubing 2023](https://www.worldcubeassociation.org/competitions/USAFAFlybyCubing2023) |
 | 527 | 30 | [Jack Maddigan](https://www.worldcubeassociation.org/persons/2020MADD02) | [Wellington Mind Games 2020](https://www.worldcubeassociation.org/competitions/WellingtonMindGames2020) |  |
@@ -585,7 +585,7 @@
 | 579 | 29 | [Lucas O'Connell](https://www.worldcubeassociation.org/persons/2016OCON02) | [Palmerston North 2016](https://www.worldcubeassociation.org/competitions/PalmerstonNorth2016) |  |
 | 580 | 29 | [Daniel Evans](https://www.worldcubeassociation.org/persons/2016EVAN06) | [British Summer Open 2019](https://www.worldcubeassociation.org/competitions/BritishSummerOpen2019) | [Newham Side Events Winter 2023](https://www.worldcubeassociation.org/competitions/NewhamSideEventsWinter2023) |
 | 581 | 29 | [Timothy Castle](https://www.worldcubeassociation.org/persons/2016CAST48) | [Berkeley Fall 2016](https://www.worldcubeassociation.org/competitions/BerkeleyFall2016) | [Rose City 2019](https://www.worldcubeassociation.org/competitions/RoseCity2019) |
-| 582 | 29 | [Brody Meschke](https://www.worldcubeassociation.org/persons/2016MESC01) | [Sioux Fall 2019](https://www.worldcubeassociation.org/competitions/SiouxFall2019) |  |
+| 582 | 29 | [Brody Meschke](https://www.worldcubeassociation.org/persons/2016MESC01) | [Sioux Fall 2019](https://www.worldcubeassociation.org/competitions/SiouxFall2019) | [MN Meetup III Wednesday 2024](https://www.worldcubeassociation.org/competitions/MinnesotaMeetupIIIWednesday2024) |
 | 583 | 29 | [Nipun Kisari](https://www.worldcubeassociation.org/persons/2017KISA01) | [Monument Mountain Winter 2017](https://www.worldcubeassociation.org/competitions/MonumentMountainWinter2017) |  |
 | 584 | 29 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | [HanMaDang 2017](https://www.worldcubeassociation.org/competitions/3x3x3HanMaDang2017) | [Cubing Korea 2019](https://www.worldcubeassociation.org/competitions/CubingKorea2019) |
 | 585 | 29 | [Clancy Caster](https://www.worldcubeassociation.org/persons/2017CAST08) | [Keep Portland Weird 2017](https://www.worldcubeassociation.org/competitions/KeepPortlandWeird2017) |  |
@@ -690,8 +690,8 @@
 | 684 | 28 | [Joel Lundström](https://www.worldcubeassociation.org/persons/2017LUND06) | [SSL 2 Stockholm 2017](https://www.worldcubeassociation.org/competitions/SSL2Stockholm2017) | [Södertälje Autumn 2022](https://www.worldcubeassociation.org/competitions/SodertaljeAutumn2022) |
 | 685 | 28 | [Amiel Engel](https://www.worldcubeassociation.org/persons/2017ENGE01) | [Zuidplas Open 2017](https://www.worldcubeassociation.org/competitions/ZuidplasOpen2017) |  |
 | 686 | 28 | [Fabian Andrey Montenegro Barrero](https://www.worldcubeassociation.org/persons/2017BARR18) | [Torneo Tadeo Summer 2017](https://www.worldcubeassociation.org/competitions/TorneoTadeoSummer2017) | [75 por Ciento Bogotá 2023](https://www.worldcubeassociation.org/competitions/75porCientoBogota2023) |
-| 687 | 28 | [Destin Shulfer](https://www.worldcubeassociation.org/persons/2017SHUL03) | [Wiscube 2017](https://www.worldcubeassociation.org/competitions/Wiscube2017) |  |
-| 688 | 28 | [Antto Pitkänen](https://www.worldcubeassociation.org/persons/2017PITK01) | [Kirkkonummi Open 2017](https://www.worldcubeassociation.org/competitions/KirkkonummiOpen2017) | [Gulf Of Finland 2022](https://www.worldcubeassociation.org/competitions/GulfOfFinland2022) |
+| 687 | 28 | [Antto Pitkänen](https://www.worldcubeassociation.org/persons/2017PITK01) | [Kirkkonummi Open 2017](https://www.worldcubeassociation.org/competitions/KirkkonummiOpen2017) | [Gulf Of Finland 2022](https://www.worldcubeassociation.org/competitions/GulfOfFinland2022) |
+| 688 | 28 | [Destin Shulfer](https://www.worldcubeassociation.org/persons/2017SHUL03) | [Wiscube 2017](https://www.worldcubeassociation.org/competitions/Wiscube2017) |  |
 | 689 | 28 | [Ruimin Yan (颜瑞民)](https://www.worldcubeassociation.org/persons/2017YANR02) | [New Jersey Championship 2018](https://www.worldcubeassociation.org/competitions/NewJersey2018) |  |
 | 690 | 28 | [Ian Southa](https://www.worldcubeassociation.org/persons/2018SOUT01) | [North Star Cubing Challenge 2018](https://www.worldcubeassociation.org/competitions/NorthStarCubingChallenge2018) | [Cubetcha 2022](https://www.worldcubeassociation.org/competitions/Cubetcha2022) |
 | 691 | 28 | [Laura Freitas Martín](https://www.worldcubeassociation.org/persons/2018MART18) | [Imaginalia Open 2018](https://www.worldcubeassociation.org/competitions/ImaginaliaOpen2018) | [Madrid Norte Open 2022](https://www.worldcubeassociation.org/competitions/MadridNorteOpen2022) |

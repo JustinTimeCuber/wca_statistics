@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on  4 January 2024*
+*Updated on  7 January 2024*
 
 
 ### 100 Competitions
@@ -645,8 +645,8 @@
 | 21 | 154 | [Carson Clark](https://www.worldcubeassociation.org/persons/2023CLAR02) |
 | 22 | 155 | [Radosław Ciuk](https://www.worldcubeassociation.org/persons/2013CIUK01) |
 | 23 | 155 | [Diego Alfonso](https://www.worldcubeassociation.org/persons/2018ALFO01) |
-| 24 | 155 | [Dongsheng Zeng (曾东生)](https://www.worldcubeassociation.org/persons/2020ZENG03) |
-| 25 | 155 | [Yuetong Zhu (朱玥曈)](https://www.worldcubeassociation.org/persons/2020ZHUY01) |
+| 24 | 155 | [Yuetong Zhu (朱玥曈)](https://www.worldcubeassociation.org/persons/2020ZHUY01) |
+| 25 | 155 | [Dongsheng Zeng (曾东生)](https://www.worldcubeassociation.org/persons/2020ZENG03) |
 | 26 | 155 | [Tomasz Szubert](https://www.worldcubeassociation.org/persons/2022SZUB02) |
 | 27 | 155 | [Daniel Stempin](https://www.worldcubeassociation.org/persons/2023STEM03) |
 | 28 | 155 | [Jhustin Charry Moreno](https://www.worldcubeassociation.org/persons/2023MORE20) |
@@ -830,8 +830,8 @@
 | 1 | 43 | [Antoni Rumowski](https://www.worldcubeassociation.org/persons/2014RUMO01) |
 | 2 | 43 | [Tomasz Szubert](https://www.worldcubeassociation.org/persons/2022SZUB02) |
 | 3 | 49 | [Santhosh Sabarinathan](https://www.worldcubeassociation.org/persons/2018SABA02) |
-| 4 | 49 | [Mauro Yesid Dávila Dávila](https://www.worldcubeassociation.org/persons/2023DAVI58) |
-| 5 | 49 | [Jacob Maya Zapata](https://www.worldcubeassociation.org/persons/2023ZAPA10) |
+| 4 | 49 | [Jacob Maya Zapata](https://www.worldcubeassociation.org/persons/2023ZAPA10) |
+| 5 | 49 | [Mauro Yesid Dávila Dávila](https://www.worldcubeassociation.org/persons/2023DAVI58) |
 | 6 | 50 | [Mohan Sehgal](https://www.worldcubeassociation.org/persons/2023SEHG01) |
 | 7 | 50 | [Benson Kim](https://www.worldcubeassociation.org/persons/2023KIMB02) |
 | 8 | 50 | [Griffin Kim](https://www.worldcubeassociation.org/persons/2023KIMG01) |
@@ -944,8 +944,8 @@
 | 115 | 78 | [Kohen Tassone](https://www.worldcubeassociation.org/persons/2020TASS01) |
 | 116 | 78 | [Lucas Vojkovic](https://www.worldcubeassociation.org/persons/2020VOJK01) |
 | 117 | 78 | [Stephen Cooper](https://www.worldcubeassociation.org/persons/2020COOP01) |
-| 118 | 78 | [Sheng Li (李圣)](https://www.worldcubeassociation.org/persons/2020LISH02) |
-| 119 | 78 | [Yuetong Zhu (朱玥曈)](https://www.worldcubeassociation.org/persons/2020ZHUY01) |
+| 118 | 78 | [Yuetong Zhu (朱玥曈)](https://www.worldcubeassociation.org/persons/2020ZHUY01) |
+| 119 | 78 | [Sheng Li (李圣)](https://www.worldcubeassociation.org/persons/2020LISH02) |
 | 120 | 78 | [Huanhuan Zhang (张欢欢)](https://www.worldcubeassociation.org/persons/2021ZHAN11) |
 | 121 | 78 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) |
 | 122 | 78 | [Felix Prim](https://www.worldcubeassociation.org/persons/2022PRIM01) |
