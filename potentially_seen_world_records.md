@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on  7 January 2024*
+*Updated on 10 January 2024*
 
 | Rank | WRs | Person |
 | :--- | ---: | :--- |
@@ -242,7 +242,7 @@
 | 235 | 44 | [Mika Muranushi (村主美佳)](https://www.worldcubeassociation.org/persons/2006MURA01) |
 | 236 | 44 | [Sarah Strong](https://www.worldcubeassociation.org/persons/2007STRO01) |
 | 237 | 44 | [Elijah Brown](https://www.worldcubeassociation.org/persons/2015BROW03) |
-| 238 | 44 | [Danny Sungin Park](https://www.worldcubeassociation.org/persons/2015PARK13) |
+| 238 | 44 | [Danny Sungin Park (박성인)](https://www.worldcubeassociation.org/persons/2015PARK13) |
 | 239 | 44 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) |
 | 240 | 44 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
 | 241 | 44 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) |
