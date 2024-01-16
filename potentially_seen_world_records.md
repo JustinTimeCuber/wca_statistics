@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 13 January 2024*
+*Updated on 16 January 2024*
 
 | Rank | WRs | Person |
 | :--- | ---: | :--- |
@@ -208,7 +208,7 @@
 | 201 | 48 | [Masayuki Akimoto (秋元正行)](https://www.worldcubeassociation.org/persons/2003AKIM01) |
 | 202 | 48 | [Christophe Woittequand](https://www.worldcubeassociation.org/persons/2005WOIT01) |
 | 203 | 48 | [Choi Goho (최고호)](https://www.worldcubeassociation.org/persons/2007GOHO01) |
-| 204 | 48 | [Eva Kato](https://www.worldcubeassociation.org/persons/2013KATO01) |
+| 204 | 48 | [Eva Kato (加藤映葉)](https://www.worldcubeassociation.org/persons/2013KATO01) |
 | 205 | 48 | [Livia Kleiner](https://www.worldcubeassociation.org/persons/2013KLEI03) |
 | 206 | 48 | [Tairan Zhong (钟泰然)](https://www.worldcubeassociation.org/persons/2013ZHON04) |
 | 207 | 48 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) |
