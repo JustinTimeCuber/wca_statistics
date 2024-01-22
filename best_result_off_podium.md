@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 19 January 2024*
+*Updated on 22 January 2024*
 
 
 ### Rubik's Cube
@@ -1379,9 +1379,9 @@
 | 4 | [Samuel Fang](https://www.worldcubeassociation.org/persons/2014FANG01) | 4.45 | **6.83** | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/all#esq1_f) | 4 |
 | 5 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | 5.70 | **6.84** | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/all#esq1_f) | 5 |
 | 6 | [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) | 6.13 | **6.99** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#esq1_f) | 5 |
-| 7 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | 5.61 | **7.06** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#esq1_f) | 6 |
-| 8 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 5.79 | **7.07** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#esq1_f) | 4 |
-| 9 | [Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09) | 6.65 | **7.13** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#esq1_f) | 7 |
+| 7 | [Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09) | 4.92 | **7.04** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#esq1_f) | 6 |
+| 8 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | 5.61 | **7.06** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#esq1_f) | 7 |
+| 9 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 5.79 | **7.07** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#esq1_f) | 4 |
 | 10 | [Makoto Takaoka (高岡誠)](https://www.worldcubeassociation.org/persons/2013TAKA02) | 6.80 | **7.21** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#esq1_f) | 8 |
 | 11 | [Anshu Chennuru](https://www.worldcubeassociation.org/persons/2016CHEN53) | 5.44 | **7.28** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#esq1_f) | 6 |
 | 12 | [Yi-Ho Hsueh (薛以和)](https://www.worldcubeassociation.org/persons/2016HSUE01) | 6.79 | **7.28** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#esq1_f) | 9 |

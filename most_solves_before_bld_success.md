@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on 19 January 2024*
+*Updated on 22 January 2024*
 
 
 ### 3x3x3 Blindfolded
@@ -777,8 +777,8 @@
 | 153 | 4 | [Prakhar Gupta](https://www.worldcubeassociation.org/persons/2014GUPT09) |
 | 154 | 4 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) |
 | 155 | 4 | [Chen Zhang (张晨)](https://www.worldcubeassociation.org/persons/2013ZHAN10) |
-| 156 | 4 | [Will Callan](https://www.worldcubeassociation.org/persons/2012CALL01) |
-| 157 | 4 | [Micki Kanaiya Harning](https://www.worldcubeassociation.org/persons/2014HARN01) |
+| 156 | 4 | [Micki Kanaiya Harning](https://www.worldcubeassociation.org/persons/2014HARN01) |
+| 157 | 4 | [Will Callan](https://www.worldcubeassociation.org/persons/2012CALL01) |
 | 158 | 4 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
 | 159 | 4 | [Claudio Bentivoglio](https://www.worldcubeassociation.org/persons/2014BENT01) |
 | 160 | 4 | [Donghong Lin (林东泓)](https://www.worldcubeassociation.org/persons/2015LIND05) |
@@ -786,8 +786,8 @@
 | 162 | 4 | [Hafizh Dary Faridhan Hudoyo](https://www.worldcubeassociation.org/persons/2015HUDO01) |
 | 163 | 4 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
 | 164 | 4 | [CJ Sheng](https://www.worldcubeassociation.org/persons/2012SHEN02) |
-| 165 | 4 | [Mickaël Paquer](https://www.worldcubeassociation.org/persons/2013PAQU01) |
-| 166 | 4 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
+| 165 | 4 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
+| 166 | 4 | [Mickaël Paquer](https://www.worldcubeassociation.org/persons/2013PAQU01) |
 | 167 | 4 | [Owen Widdis](https://www.worldcubeassociation.org/persons/2015WIDD01) |
 | 168 | 4 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 169 | 4 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) |
