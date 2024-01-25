@@ -1,12 +1,12 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 23 January 2024*
+*Updated on 25 January 2024*
 
 | Rank | Country | Gold | Silver | Bronze | Total |
 | :--- | :--- | :--: | :--: | :--: | :--: |
 | 1 | Hungary | **1389** | 1164 | 997 | 3550 |
-| 2 | United States | **1011** | 848 | 754 | 2613 |
+| 2 | United States | **1011** | 849 | 755 | 2615 |
 | 3 | Germany | **996** | 957 | 968 | 2921 |
 | 4 | France | **918** | 790 | 668 | 2376 |
 | 5 | Netherlands | **894** | 710 | 594 | 2198 |
@@ -70,8 +70,8 @@
 | 63 | El Salvador | **21** | 24 | 19 | 64 |
 | 64 | Pakistan | **21** | 15 | 16 | 52 |
 | 65 | North Macedonia | **17** | 20 | 27 | 64 |
-| 66 | South Africa | **16** | 19 | 40 | 75 |
-| 67 | Iran | **16** | 18 | 16 | 50 |
+| 66 | Iran | **17** | 18 | 16 | 51 |
+| 67 | South Africa | **16** | 19 | 40 | 75 |
 | 68 | Mexico | **14** | 19 | 25 | 58 |
 | 69 | Nicaragua | **14** | 5 | 10 | 29 |
 | 70 | Bulgaria | **12** | 35 | 33 | 80 |
