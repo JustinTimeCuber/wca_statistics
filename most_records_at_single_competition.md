@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on 25 January 2024*
+*Updated on 28 January 2024*
 
 
 ### World
@@ -420,6 +420,7 @@
 | 198 | 4 | [Daniel Rush](https://www.worldcubeassociation.org/persons/2018RUSH01) | [CubingZA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingZANationalChampionship2023/results/by_person#2018RUSH01) |
 | 199 | 4 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Big Time Manila 2023](https://www.worldcubeassociation.org/competitions/BigTimeManila2023/results/by_person#2013NAHM01) |
 | 200 | 4 | [Daniel Rush](https://www.worldcubeassociation.org/persons/2018RUSH01) | [CubingZA Challenge 2023](https://www.worldcubeassociation.org/competitions/CubingZACapeCubesChallenge2023/results/by_person#2018RUSH01) |
+| 201 | 4 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Melbourne Summer 2024](https://www.worldcubeassociation.org/competitions/MelbourneSummer2024/results/by_person#2016KOLA02) |
 
 ### National
 
