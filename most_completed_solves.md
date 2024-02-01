@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 31 January 2024*
+*Updated on  1 February 2024*
 
 
 ### Competition
@@ -231,7 +231,7 @@
 | 17 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **10761** | 11194 |
 | 18 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | **10704** | 11128 |
 | 19 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **10567** | 11381 |
-| 20 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) | **10440** | 10775 |
+| 20 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) | **10503** | 10840 |
 | 21 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) | **10305** | 10917 |
 | 22 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | **10264** | 10451 |
 | 23 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | **10094** | 10679 |
@@ -252,8 +252,8 @@
 | 38 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) | **9092** | 9317 |
 | 39 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **8926** | 9203 |
 | 40 | [Callum James Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02) | **8921** | 9452 |
-| 41 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) | **8872** | 9396 |
-| 42 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) | **8837** | 9201 |
+| 41 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) | **8892** | 9256 |
+| 42 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) | **8872** | 9396 |
 | 43 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | **8682** | 9215 |
 | 44 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) | **8669** | 8964 |
 | 45 | [Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02) | **8585** | 8982 |
@@ -272,7 +272,7 @@
 | 58 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) | **7959** | 8353 |
 | 59 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | **7926** | 8200 |
 | 60 | [Nicolas Gertner Kilian](https://www.worldcubeassociation.org/persons/2013GERT01) | **7873** | 8362 |
-| 61 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) | **7799** | 8079 |
+| 61 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) | **7840** | 8120 |
 | 62 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | **7793** | 8481 |
 | 63 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | **7780** | 8021 |
 | 64 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | **7737** | 8035 |
@@ -337,10 +337,10 @@
 | 123 | [Bhargav Narasimhan](https://www.worldcubeassociation.org/persons/2011NARA02) | **6306** | 6623 |
 | 124 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) | **6281** | 6482 |
 | 125 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | **6278** | 6804 |
-| 126 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | **6247** | 6580 |
-| 127 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) | **6242** | 6531 |
-| 128 | [Akash Rupela](https://www.worldcubeassociation.org/persons/2012RUPE01) | **6224** | 6442 |
-| 129 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **6216** | 6344 |
+| 126 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | **6249** | 6377 |
+| 127 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | **6247** | 6580 |
+| 128 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) | **6242** | 6531 |
+| 129 | [Akash Rupela](https://www.worldcubeassociation.org/persons/2012RUPE01) | **6224** | 6442 |
 | 130 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | **6208** | 6517 |
 | 131 | [Ulrik Bredland](https://www.worldcubeassociation.org/persons/2012BRED01) | **6142** | 6216 |
 | 132 | [Abdelhak Kaddour](https://www.worldcubeassociation.org/persons/2010KADD01) | **6135** | 6237 |
@@ -417,10 +417,10 @@
 
 | Rank |  | Solves | Attempts |
 | :--- | :--- | ---: | ---: |
-| 1 | United States | **3870665** | 4058335 |
+| 1 | United States | **3873024** | 4060852 |
 | 2 | China | **1233818** | 1294469 |
 | 3 | Poland | **898538** | 945716 |
-| 4 | India | **762510** | 802447 |
+| 4 | India | **764079** | 804045 |
 | 5 | Australia | **724606** | 763873 |
 | 6 | United Kingdom | **644960** | 678618 |
 | 7 | Spain | **614189** | 643841 |
@@ -430,7 +430,7 @@
 | 11 | Brazil | **432538** | 452398 |
 | 12 | Russia | **430990** | 455777 |
 | 13 | Sweden | **338505** | 356342 |
-| 14 | Colombia | **328189** | 344837 |
+| 14 | Colombia | **330491** | 347199 |
 | 15 | Italy | **307963** | 324608 |
 | 16 | Philippines | **303166** | 315220 |
 | 17 | Netherlands | **265592** | 276587 |
@@ -449,9 +449,9 @@
 | 30 | Finland | **150725** | 156973 |
 | 31 | Belgium | **149736** | 156622 |
 | 32 | Czech Republic | **126150** | 131881 |
-| 33 | Chile | **120277** | 126781 |
-| 34 | Bolivia | **118738** | 122959 |
-| 35 | Ireland | **118030** | 123722 |
+| 33 | Ireland | **121793** | 127646 |
+| 34 | Chile | **120277** | 126781 |
+| 35 | Bolivia | **118738** | 122959 |
 | 36 | Hungary | **116283** | 121849 |
 | 37 | Romania | **111695** | 116526 |
 | 38 | Argentina | **107483** | 112927 |
@@ -541,10 +541,10 @@
 
 | Rank |  | Solves | Attempts |
 | :--- | :--- | ---: | ---: |
-| 1 | Europe | **6943413** | 7290764 |
-| 2 | North America | **4850421** | 5080941 |
-| 3 | Asia | **3923108** | 4111360 |
-| 4 | South America | **1496441** | 1566485 |
+| 1 | Europe | **6947176** | 7294688 |
+| 2 | North America | **4852780** | 5083458 |
+| 3 | Asia | **3924677** | 4112958 |
+| 4 | South America | **1498743** | 1568847 |
 | 5 | Oceania | **891381** | 938930 |
 | 6 | Africa | **104117** | 108917 |
 | 7 | Multiple Continents | **1895** | 2562 |
@@ -566,7 +566,7 @@
 | 11 | 2012 | **388118** | 410674 |
 | 12 | 2021 | **370731** | 387779 |
 | 13 | 2011 | **333789** | 355339 |
-| 14 | 2024 | **284114** | 297575 |
+| 14 | 2024 | **294107** | 307976 |
 | 15 | 2010 | **259785** | 277151 |
 | 16 | 2009 | **172080** | 183266 |
 | 17 | 2008 | **86491** | 92666 |
@@ -581,26 +581,26 @@
 
 | Rank |  | Solves | Attempts |
 | :--- | :--- | ---: | ---: |
-| 1 | 3x3x3 Cube | **5671929** | 5797656 |
-| 2 | 2x2x2 Cube | **3161820** | 3243356 |
-| 3 | Pyraminx | **2001829** | 2055304 |
-| 4 | 4x4x4 Cube | **1645231** | 1709954 |
-| 5 | 3x3x3 One-Handed | **1519806** | 1571563 |
-| 6 | Skewb | **1229456** | 1262325 |
-| 7 | 5x5x5 Cube | **839534** | 866812 |
-| 8 | Megaminx | **521080** | 545009 |
-| 9 | Square-1 | **488379** | 510181 |
+| 1 | 3x3x3 Cube | **5674758** | 5800553 |
+| 2 | 2x2x2 Cube | **3163914** | 3245516 |
+| 3 | Pyraminx | **2003449** | 2056963 |
+| 4 | 4x4x4 Cube | **1645940** | 1710691 |
+| 5 | 3x3x3 One-Handed | **1520883** | 1572683 |
+| 6 | Skewb | **1230188** | 1263075 |
+| 7 | 5x5x5 Cube | **839661** | 866947 |
+| 8 | Megaminx | **521464** | 545413 |
+| 9 | Square-1 | **488488** | 510295 |
 | 10 | Clock | **385324** | 446724 |
-| 11 | 6x6x6 Cube | **186774** | 194099 |
-| 12 | 7x7x7 Cube | **153029** | 160048 |
-| 13 | 3x3x3 Blindfolded | **124648** | 345762 |
+| 11 | 6x6x6 Cube | **186905** | 194232 |
+| 12 | 7x7x7 Cube | **153107** | 160127 |
+| 13 | 3x3x3 Blindfolded | **124687** | 345875 |
 | 14 | Magic | **78268** | 86498 |
-| 15 | 3x3x3 Fewest Moves | **76375** | 107484 |
+| 15 | 3x3x3 Fewest Moves | **76425** | 107545 |
 | 16 | 3x3x3 With Feet | **51884** | 56650 |
 | 17 | Master Magic | **39964** | 41445 |
-| 18 | 3x3x3 Multi-Blind | **19987** | 34791 |
-| 19 | 4x4x4 Blindfolded | **10740** | 42060 |
-| 20 | 5x5x5 Blindfolded | **4314** | 21647 |
+| 18 | 3x3x3 Multi-Blind | **19997** | 34804 |
+| 19 | 4x4x4 Blindfolded | **10744** | 42082 |
+| 20 | 5x5x5 Blindfolded | **4314** | 21651 |
 | 21 | 3x3x3 Multi-Blind Old Style | **405** | 591 |
 
 

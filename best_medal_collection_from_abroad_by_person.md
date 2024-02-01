@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 31 January 2024*
+*Updated on  1 February 2024*
 
 | Rank | Person | Gold | Silver | Bronze | Total |
 | :--- | :--- | :--: | :--: | :--: | :--: |
@@ -181,12 +181,12 @@
 | 174 | [Mantas Urbanavičius](https://www.worldcubeassociation.org/persons/2017URBA01) | **19** | 2 | 2 | 23 |
 | 175 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | **18** | 25 | 23 | 66 |
 | 176 | [Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68) | **18** | 22 | 8 | 48 |
-| 177 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) | **18** | 19 | 25 | 62 |
-| 178 | [Linus Buck](https://www.worldcubeassociation.org/persons/2016BUCK01) | **18** | 18 | 16 | 52 |
-| 179 | [Mihir Narayan](https://www.worldcubeassociation.org/persons/2018NARA14) | **18** | 6 | 6 | 30 |
-| 180 | [Ben Baron](https://www.worldcubeassociation.org/persons/2016BARO04) | **18** | 5 | 3 | 26 |
-| 181 | [Remo Pihel](https://www.worldcubeassociation.org/persons/2017PIHE01) | **17** | 23 | 13 | 53 |
-| 182 | [Advay Sant](https://www.worldcubeassociation.org/persons/2015SANT44) | **17** | 20 | 15 | 52 |
+| 177 | [Advay Sant](https://www.worldcubeassociation.org/persons/2015SANT44) | **18** | 21 | 15 | 54 |
+| 178 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) | **18** | 19 | 25 | 62 |
+| 179 | [Linus Buck](https://www.worldcubeassociation.org/persons/2016BUCK01) | **18** | 18 | 16 | 52 |
+| 180 | [Mihir Narayan](https://www.worldcubeassociation.org/persons/2018NARA14) | **18** | 6 | 6 | 30 |
+| 181 | [Ben Baron](https://www.worldcubeassociation.org/persons/2016BARO04) | **18** | 5 | 3 | 26 |
+| 182 | [Remo Pihel](https://www.worldcubeassociation.org/persons/2017PIHE01) | **17** | 23 | 13 | 53 |
 | 183 | [Hari Anirudh](https://www.worldcubeassociation.org/persons/2013ANIR01) | **17** | 18 | 10 | 45 |
 | 184 | [Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01) | **17** | 17 | 15 | 49 |
 | 185 | [Rama Temmink](https://www.worldcubeassociation.org/persons/2006TEMM01) | **17** | 12 | 12 | 41 |

@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 31 January 2024*
+*Updated on  1 February 2024*
 
 
 ### 200 Competitions
@@ -746,7 +746,7 @@
 | 33 | 161 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
 | 34 | 161 | [Ibrahim Khanani](https://www.worldcubeassociation.org/persons/2018KHAN27) |
 | 35 | 161 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
-| 36 | 161 | [Richard Casey](https://www.worldcubeassociation.org/persons/2023CASE06) |
+| 36 | 161 | [Rich Casey](https://www.worldcubeassociation.org/persons/2023CASE06) |
 | 37 | 162 | [Justin Sui](https://www.worldcubeassociation.org/persons/2022SUIJ01) |
 | 38 | 162 | [Kyle Kayden Hayles](https://www.worldcubeassociation.org/persons/2022HAYL02) |
 | 39 | 162 | [Jeshua Emmanuel Avendaño](https://www.worldcubeassociation.org/persons/2023AVEN01) |
@@ -795,8 +795,8 @@
 | 82 | 184 | [Andersen Katsev](https://www.worldcubeassociation.org/persons/2023KATS04) |
 | 83 | 189 | [Christofor Gabriel Costea](https://www.worldcubeassociation.org/persons/2022COST03) |
 | 84 | 190 | [Zack Rubio](https://www.worldcubeassociation.org/persons/2022RUBI10) |
-| 85 | 190 | [Jon Larruzea Marijuan](https://www.worldcubeassociation.org/persons/2023MARI07) |
-| 86 | 190 | [Dominic Shoji](https://www.worldcubeassociation.org/persons/2023SHOJ01) |
+| 85 | 190 | [Dominic Shoji](https://www.worldcubeassociation.org/persons/2023SHOJ01) |
+| 86 | 190 | [Jon Larruzea Marijuan](https://www.worldcubeassociation.org/persons/2023MARI07) |
 | 87 | 190 | [Alexander Pastirčák](https://www.worldcubeassociation.org/persons/2023PAST01) |
 | 88 | 190 | [Truman Clack](https://www.worldcubeassociation.org/persons/2023CLAC02) |
 | 89 | 191 | [Ishaan Bansal](https://www.worldcubeassociation.org/persons/2023BANS03) |

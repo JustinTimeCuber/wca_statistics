@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 31 January 2024*
+*Updated on  1 February 2024*
 
 
 ### Rubik's Cube
@@ -212,7 +212,7 @@
 | 97 | 3.28 | [Felipe Baltierra](https://www.worldcubeassociation.org/persons/2018BALT03) |
 | 98 | 3.28 | [Nipun Das](https://www.worldcubeassociation.org/persons/2017DASN01) |
 | 99 | 3.28 | [Erfan Dehghani (عرفان دهقانی)](https://www.worldcubeassociation.org/persons/2023DEHG02) |
-| 100 | 3.28 | [Peixin Wu (吴佩馨)](https://www.worldcubeassociation.org/persons/2023WUPE02) |
+| 100 | 3.28 | [Zean Zhou (周泽安)](https://www.worldcubeassociation.org/persons/2023ZHOU27) |
 
 ### 4x4x4 Cube
 

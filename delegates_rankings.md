@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only present delegates are taken into account.*
-*Updated on 31 January 2024*
+*Updated on  1 February 2024*
 
 
 ### Rubik's Cube - Single
@@ -2102,7 +2102,7 @@
 | 97 | [Matt Hudon](https://www.worldcubeassociation.org/persons/2018HUDO01) | **1:01.71** | Canada | [Gros Jouets à Montréal 2023](https://www.worldcubeassociation.org/competitions/GrosJouetsaMontreal2023) | 1:00.73, 1:05.86, 58.54, 58.15, 1:09.80 |
 | 98 | [Vianne Chang](https://www.worldcubeassociation.org/persons/2017CHAN47) | **1:02.02** | Canada | [Vancouver Pride 2023](https://www.worldcubeassociation.org/competitions/VancouverPride2023) | 1:01.33, 1:03.38, 1:15.23, 1:01.36, 58.49 |
 | 99 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) | **1:02.09** | Italy | [Parthenope Back to School 2023](https://www.worldcubeassociation.org/competitions/ParthenopeOpenBacktoSchool2023) | 1:05.81, 1:02.00, 58.22, 58.46, DNF |
-| 100 | [Pedro Miranda Moreira](https://www.worldcubeassociation.org/persons/2014MORE05) | **1:02.28** | Brazil | [Sun City Open 2019](https://www.worldcubeassociation.org/competitions/SunCityOpen2019) | 58.74, 1:07.32, 1:00.14, 1:04.37, 1:02.33 |
+| 100 | [Manuel Popayán](https://www.worldcubeassociation.org/persons/2017POPA01) | **1:02.17** | Colombia | [Oasis de Castilla 2024](https://www.worldcubeassociation.org/competitions/OasisdeCastilla2024) | 1:03.92, 1:07.96, 1:01.52, 1:01.08, 57.58 |
 
 ### Pyraminx - Single
 
