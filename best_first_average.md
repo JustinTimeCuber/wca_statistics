@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 11 February 2024*
+*Updated on 13 February 2024*
 
 
 ### Rubik's Cube
@@ -92,22 +92,22 @@
 | 82 | 9.18 | [Trần Hoàng Bảo Nam](https://www.worldcubeassociation.org/persons/2022NAMT03) |
 | 83 | 9.18 | [Yudai Naito (内藤悠大)](https://www.worldcubeassociation.org/persons/2023NAIT01) |
 | 84 | 9.19 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
-| 85 | 9.23 | [Biện Nguyễn Vinh Hiển](https://www.worldcubeassociation.org/persons/2022HIEN01) |
-| 86 | 9.24 | [Nguyễn Thành Đạt](https://www.worldcubeassociation.org/persons/2020DATN02) |
-| 87 | 9.25 | [Akhil Vikram](https://www.worldcubeassociation.org/persons/2023VIKR02) |
-| 88 | 9.25 | [Tian Xia (夏天)](https://www.worldcubeassociation.org/persons/2023XIAT01) |
-| 89 | 9.26 | [Mark Cheung](https://www.worldcubeassociation.org/persons/2017CHEU01) |
-| 90 | 9.26 | [Chenyuheng Zhang (张陈禹衡)](https://www.worldcubeassociation.org/persons/2024ZHAN08) |
-| 91 | 9.28 | [Koen Shao Zhen Feng](https://www.worldcubeassociation.org/persons/2023FENG08) |
-| 92 | 9.28 | [Gavriel Johann Arcilla](https://www.worldcubeassociation.org/persons/2023ARCI02) |
-| 93 | 9.29 | [Truong Tan Minh](https://www.worldcubeassociation.org/persons/2022MINH27) |
-| 94 | 9.29 | [Stacy Nicole Viray Mabalot](https://www.worldcubeassociation.org/persons/2023MABA01) |
-| 95 | 9.30 | [Maxwell Haoyuan Wu](https://www.worldcubeassociation.org/persons/2023WUMA01) |
-| 96 | 9.31 | [Enoch Tangprasittipol](https://www.worldcubeassociation.org/persons/2023TANG15) |
-| 97 | 9.31 | [Yuheng Luo (罗御恒)](https://www.worldcubeassociation.org/persons/2023LUOY01) |
-| 98 | 9.32 | [Chengnuo Han (韩承诺)](https://www.worldcubeassociation.org/persons/2021HANC01) |
-| 99 | 9.32 | [Zhongcheng Shen (谌重丞)](https://www.worldcubeassociation.org/persons/2024SHEN02) |
-| 100 | 9.34 | [Nguyễn Hoàng Hải](https://www.worldcubeassociation.org/persons/2022HAIN03) |
+| 85 | 9.19 | [Nathan Nguyen](https://www.worldcubeassociation.org/persons/2024NGUY09) |
+| 86 | 9.23 | [Biện Nguyễn Vinh Hiển](https://www.worldcubeassociation.org/persons/2022HIEN01) |
+| 87 | 9.24 | [Nguyễn Thành Đạt](https://www.worldcubeassociation.org/persons/2020DATN02) |
+| 88 | 9.25 | [Akhil Vikram](https://www.worldcubeassociation.org/persons/2023VIKR02) |
+| 89 | 9.25 | [Tian Xia (夏天)](https://www.worldcubeassociation.org/persons/2023XIAT01) |
+| 90 | 9.26 | [Mark Cheung](https://www.worldcubeassociation.org/persons/2017CHEU01) |
+| 91 | 9.26 | [Chenyuheng Zhang (张陈禹衡)](https://www.worldcubeassociation.org/persons/2024ZHAN08) |
+| 92 | 9.28 | [Koen Shao Zhen Feng](https://www.worldcubeassociation.org/persons/2023FENG08) |
+| 93 | 9.28 | [Gavriel Johann Arcilla](https://www.worldcubeassociation.org/persons/2023ARCI02) |
+| 94 | 9.29 | [Truong Tan Minh](https://www.worldcubeassociation.org/persons/2022MINH27) |
+| 95 | 9.29 | [Stacy Nicole Viray Mabalot](https://www.worldcubeassociation.org/persons/2023MABA01) |
+| 96 | 9.30 | [Maxwell Haoyuan Wu](https://www.worldcubeassociation.org/persons/2023WUMA01) |
+| 97 | 9.31 | [Enoch Tangprasittipol](https://www.worldcubeassociation.org/persons/2023TANG15) |
+| 98 | 9.31 | [Yuheng Luo (罗御恒)](https://www.worldcubeassociation.org/persons/2023LUOY01) |
+| 99 | 9.32 | [Chengnuo Han (韩承诺)](https://www.worldcubeassociation.org/persons/2021HANC01) |
+| 100 | 9.32 | [Zhongcheng Shen (谌重丞)](https://www.worldcubeassociation.org/persons/2024SHEN02) |
 
 ### 2x2x2 Cube
 
@@ -373,8 +373,8 @@
 | 48 | 1:10.40 | [Yijun Yin (尹伊珺)](https://www.worldcubeassociation.org/persons/2023YINY02) |
 | 49 | 1:10.41 | [Andrew Y. Feng](https://www.worldcubeassociation.org/persons/2020FENG02) |
 | 50 | 1:10.42 | [Jose Oswaldo Ayala Velazquez](https://www.worldcubeassociation.org/persons/2023VELA09) |
-| 51 | 1:10.56 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) |
-| 52 | 1:10.56 | [Tô Kim Thành](https://www.worldcubeassociation.org/persons/2023THAN15) |
+| 51 | 1:10.56 | [Tô Kim Thành](https://www.worldcubeassociation.org/persons/2023THAN15) |
+| 52 | 1:10.56 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) |
 | 53 | 1:10.60 | [Zhangshuai Zhou (周章率)](https://www.worldcubeassociation.org/persons/2019ZHOU51) |
 | 54 | 1:10.75 | [Shangwen Li (李尚文)](https://www.worldcubeassociation.org/persons/2018LISH14) |
 | 55 | 1:10.78 | [Nguyễn Thành Thái](https://www.worldcubeassociation.org/persons/2019THAI01) |
@@ -1501,13 +1501,14 @@
 | 21 | 14:34.00 | [Logan Smith](https://www.worldcubeassociation.org/persons/2021SMIT14) |
 | 22 | 14:50.00 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
 | 23 | 15:53.00 | [Aiki Yaginuma (柳沼愛輝)](https://www.worldcubeassociation.org/persons/2022YAGI03) |
-| 24 | 16:47.00 | [Mayur Ukey](https://www.worldcubeassociation.org/persons/2014UKEY01) |
-| 25 | 18:35.00 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |
-| 26 | 18:39.00 | [Ming Dao Ting](https://www.worldcubeassociation.org/persons/2018TING05) |
-| 27 | 20:15.00 | [Benjamin Schmutter](https://www.worldcubeassociation.org/persons/2019SCHM05) |
-| 28 | 20:32.00 | [Mateo Tiul](https://www.worldcubeassociation.org/persons/2013TIUL01) |
-| 29 | 21:05.00 | [Daniel Kottenstette](https://www.worldcubeassociation.org/persons/2012KOTT01) |
-| 30 | 22:05.00 | [Preston Duke](https://www.worldcubeassociation.org/persons/2018DUKE01) |
+| 24 | 15:57.00 | [Ian Moore](https://www.worldcubeassociation.org/persons/2019MOOR11) |
+| 25 | 16:47.00 | [Mayur Ukey](https://www.worldcubeassociation.org/persons/2014UKEY01) |
+| 26 | 18:35.00 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |
+| 27 | 18:39.00 | [Ming Dao Ting](https://www.worldcubeassociation.org/persons/2018TING05) |
+| 28 | 20:15.00 | [Benjamin Schmutter](https://www.worldcubeassociation.org/persons/2019SCHM05) |
+| 29 | 20:32.00 | [Mateo Tiul](https://www.worldcubeassociation.org/persons/2013TIUL01) |
+| 30 | 21:05.00 | [Daniel Kottenstette](https://www.worldcubeassociation.org/persons/2012KOTT01) |
+| 31 | 22:05.00 | [Preston Duke](https://www.worldcubeassociation.org/persons/2018DUKE01) |
 
 ### 5x5x5 Blindfolded
 
@@ -1815,8 +1816,8 @@
 | 79 | 3.37 | [Yang Yang (杨洋)](https://www.worldcubeassociation.org/persons/2011YANG10) |
 | 80 | 3.38 | [Markus Pirzer](https://www.worldcubeassociation.org/persons/2006PIRZ01) |
 | 81 | 3.38 | [Lo Chun Lok (盧雋樂)](https://www.worldcubeassociation.org/persons/2008LOKL01) |
-| 82 | 3.38 | [Nicolas Bodmer](https://www.worldcubeassociation.org/persons/2010BODM01) |
-| 83 | 3.38 | [Kai Gabriel](https://www.worldcubeassociation.org/persons/2010GABR01) |
+| 82 | 3.38 | [Kai Gabriel](https://www.worldcubeassociation.org/persons/2010GABR01) |
+| 83 | 3.38 | [Nicolas Bodmer](https://www.worldcubeassociation.org/persons/2010BODM01) |
 | 84 | 3.38 | [Denis Uglov](https://www.worldcubeassociation.org/persons/2010UGLO01) |
 | 85 | 3.38 | [Young Joon Kim (김영준)](https://www.worldcubeassociation.org/persons/2011KIMY01) |
 | 86 | 3.39 | [Alan Pablo Luja Anguiano](https://www.worldcubeassociation.org/persons/2011ANGU01) |

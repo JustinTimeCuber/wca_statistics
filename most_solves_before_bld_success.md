@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on 11 February 2024*
+*Updated on 13 February 2024*
 
 
 ### 3x3x3 Blindfolded
@@ -406,12 +406,12 @@
 | 192 | 8 | [Matheus Casassa Viana](https://www.worldcubeassociation.org/persons/2017VIAN01) |
 | 193 | 8 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) |
 | 194 | 8 | [Cian-Jyun Yang (楊謙君)](https://www.worldcubeassociation.org/persons/2019YANG94) |
-| 195 | 7 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) |
-| 196 | 7 | [Gilberto Caracciolo Morelli](https://www.worldcubeassociation.org/persons/2008CARA01) |
-| 197 | 7 | [Zane Carney](https://www.worldcubeassociation.org/persons/2010CARN01) |
-| 198 | 7 | [Jonathan Midjord Shapira](https://www.worldcubeassociation.org/persons/2010SHAP01) |
-| 199 | 7 | [Amos Tay Swee Hui](https://www.worldcubeassociation.org/persons/2009SWEE01) |
-| 200 | 7 | [John Brechon](https://www.worldcubeassociation.org/persons/2010BREC01) |
+| 195 | 8 | [Iker Carrasco Ruiz](https://www.worldcubeassociation.org/persons/2016RUIZ05) |
+| 196 | 7 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) |
+| 197 | 7 | [Gilberto Caracciolo Morelli](https://www.worldcubeassociation.org/persons/2008CARA01) |
+| 198 | 7 | [Zane Carney](https://www.worldcubeassociation.org/persons/2010CARN01) |
+| 199 | 7 | [Jonathan Midjord Shapira](https://www.worldcubeassociation.org/persons/2010SHAP01) |
+| 200 | 7 | [Amos Tay Swee Hui](https://www.worldcubeassociation.org/persons/2009SWEE01) |
 
 ### 5x5x5 Blindfolded
 
@@ -787,9 +787,9 @@
 | 163 | 4 | [Jack Gerring](https://www.worldcubeassociation.org/persons/2012GERR01) |
 | 164 | 4 | [Hafizh Dary Faridhan Hudoyo](https://www.worldcubeassociation.org/persons/2015HUDO01) |
 | 165 | 4 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
-| 166 | 4 | [CJ Sheng](https://www.worldcubeassociation.org/persons/2012SHEN02) |
-| 167 | 4 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
-| 168 | 4 | [Mickaël Paquer](https://www.worldcubeassociation.org/persons/2013PAQU01) |
+| 166 | 4 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
+| 167 | 4 | [Mickaël Paquer](https://www.worldcubeassociation.org/persons/2013PAQU01) |
+| 168 | 4 | [CJ Sheng](https://www.worldcubeassociation.org/persons/2012SHEN02) |
 | 169 | 4 | [Owen Widdis](https://www.worldcubeassociation.org/persons/2015WIDD01) |
 | 170 | 4 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 171 | 4 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) |
@@ -808,8 +808,8 @@
 | 184 | 4 | [Noel Kim](https://www.worldcubeassociation.org/persons/2016KIMN02) |
 | 185 | 4 | [Nikita Razzamazov (Никита Раззама́зов)](https://www.worldcubeassociation.org/persons/2016RAZZ01) |
 | 186 | 4 | [Andy Wong](https://www.worldcubeassociation.org/persons/2017WONG13) |
-| 187 | 4 | [Pessi Ansaranta](https://www.worldcubeassociation.org/persons/2016ANSA02) |
-| 188 | 4 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) |
+| 187 | 4 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) |
+| 188 | 4 | [Pessi Ansaranta](https://www.worldcubeassociation.org/persons/2016ANSA02) |
 | 189 | 4 | [Anirudh Sureshram](https://www.worldcubeassociation.org/persons/2014SURE11) |
 | 190 | 4 | [Erik Bitvai](https://www.worldcubeassociation.org/persons/2015BITV01) |
 | 191 | 4 | [Timothy Huynh](https://www.worldcubeassociation.org/persons/2017HUYN02) |
@@ -819,8 +819,8 @@
 | 195 | 4 | [Ang Chin Zhen (洪靖程)](https://www.worldcubeassociation.org/persons/2016ZHEN09) |
 | 196 | 4 | [Joanna Hołdakowska](https://www.worldcubeassociation.org/persons/2016HOLD04) |
 | 197 | 4 | [Sam Sieracki](https://www.worldcubeassociation.org/persons/2017SIER01) |
-| 198 | 4 | [Erik Tjong Kim Sang](https://www.worldcubeassociation.org/persons/2018SANG01) |
-| 199 | 4 | [Tom Stanton-Barnett](https://www.worldcubeassociation.org/persons/2016STAN05) |
+| 198 | 4 | [Tom Stanton-Barnett](https://www.worldcubeassociation.org/persons/2016STAN05) |
+| 199 | 4 | [Erik Tjong Kim Sang](https://www.worldcubeassociation.org/persons/2018SANG01) |
 | 200 | 4 | [Michael Larsen](https://www.worldcubeassociation.org/persons/2017LARS03) |
 
 

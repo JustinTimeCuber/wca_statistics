@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 11 February 2024*
+*Updated on 13 February 2024*
 
 
 ### 200 Competitions
@@ -887,9 +887,9 @@
 | 173 | 218 | [Daniel Ng](https://www.worldcubeassociation.org/persons/2022NGDA01) |
 | 174 | 218 | [Michael (陈佳伟)](https://www.worldcubeassociation.org/persons/2022MICH13) |
 | 175 | 218 | [Santino Signorile](https://www.worldcubeassociation.org/persons/2022SIGN01) |
-| 176 | 218 | [Jakub Łebkowski](https://www.worldcubeassociation.org/persons/2023LEBK01) |
-| 177 | 218 | [Harry Ma](https://www.worldcubeassociation.org/persons/2023MAHA01) |
-| 178 | 218 | [Hayden Ma](https://www.worldcubeassociation.org/persons/2023MAHA02) |
+| 176 | 218 | [Hayden Ma](https://www.worldcubeassociation.org/persons/2023MAHA02) |
+| 177 | 218 | [Jakub Łebkowski](https://www.worldcubeassociation.org/persons/2023LEBK01) |
+| 178 | 218 | [Harry Ma](https://www.worldcubeassociation.org/persons/2023MAHA01) |
 | 179 | 218 | [Eetu Lae](https://www.worldcubeassociation.org/persons/2023LAEE01) |
 | 180 | 218 | [Ahilan Arumugam](https://www.worldcubeassociation.org/persons/2023ARUM01) |
 | 181 | 218 | [Matei Corjos](https://www.worldcubeassociation.org/persons/2023CORJ01) |
