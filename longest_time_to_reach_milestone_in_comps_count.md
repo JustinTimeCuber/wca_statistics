@@ -1,6 +1,6 @@
 ## Longest amount of time to reach a milestone in competitions count
 
-*Updated on 16 February 2024*
+*Updated on 19 February 2024*
 
 
 ### 200 Competitions
@@ -478,7 +478,7 @@
 | 174 | 3411 | [David Adams](https://www.worldcubeassociation.org/persons/2009ADAM01) |
 | 175 | 3410 | [Gilberto Caracciolo Morelli](https://www.worldcubeassociation.org/persons/2008CARA01) |
 | 176 | 3410 | [Tommaso Zoffoli](https://www.worldcubeassociation.org/persons/2008ZOFF01) |
-| 177 | 3397 | [Jefferson Andres Durango Argaez](https://www.worldcubeassociation.org/persons/2014ARGA02) |
+| 177 | 3397 | [Jefferson Durango](https://www.worldcubeassociation.org/persons/2014ARGA02) |
 | 178 | 3397 | [James Donahue](https://www.worldcubeassociation.org/persons/2010DONA01) |
 | 179 | 3397 | [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) |
 | 180 | 3397 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |

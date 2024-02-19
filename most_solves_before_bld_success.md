@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on 16 February 2024*
+*Updated on 19 February 2024*
 
 
 ### 3x3x3 Blindfolded
@@ -341,7 +341,7 @@
 | 127 | 9 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 128 | 9 | [Hiroki Iwashita (岩下大輝)](https://www.worldcubeassociation.org/persons/2012IWAS01) |
 | 129 | 9 | [Ramses Amaya](https://www.worldcubeassociation.org/persons/2014AMAY01) |
-| 130 | 9 | [Jefferson Andres Durango Argaez](https://www.worldcubeassociation.org/persons/2014ARGA02) |
+| 130 | 9 | [Jefferson Durango](https://www.worldcubeassociation.org/persons/2014ARGA02) |
 | 131 | 9 | [Jing Jia (贾婧)](https://www.worldcubeassociation.org/persons/2016JIAJ01) |
 | 132 | 9 | [Shant Tonoyan](https://www.worldcubeassociation.org/persons/2016TONO01) |
 | 133 | 9 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
@@ -803,13 +803,13 @@
 | 179 | 4 | [Zhifang Xi (席之枋)](https://www.worldcubeassociation.org/persons/2016XIZH01) |
 | 180 | 4 | [Adolfo Ortega Tecuapacho](https://www.worldcubeassociation.org/persons/2017TECU01) |
 | 181 | 4 | [Samuel Hernandez Castro](https://www.worldcubeassociation.org/persons/2016CAST31) |
-| 182 | 4 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
-| 183 | 4 | [Alex Davani](https://www.worldcubeassociation.org/persons/2013DAVA01) |
+| 182 | 4 | [Alex Davani](https://www.worldcubeassociation.org/persons/2013DAVA01) |
+| 183 | 4 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
 | 184 | 4 | [Noel Kim](https://www.worldcubeassociation.org/persons/2016KIMN02) |
-| 185 | 4 | [Andy Wong](https://www.worldcubeassociation.org/persons/2017WONG13) |
-| 186 | 4 | [Nikita Razzamazov (Никита Раззама́зов)](https://www.worldcubeassociation.org/persons/2016RAZZ01) |
-| 187 | 4 | [Pessi Ansaranta](https://www.worldcubeassociation.org/persons/2016ANSA02) |
-| 188 | 4 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) |
+| 185 | 4 | [Nikita Razzamazov (Никита Раззама́зов)](https://www.worldcubeassociation.org/persons/2016RAZZ01) |
+| 186 | 4 | [Andy Wong](https://www.worldcubeassociation.org/persons/2017WONG13) |
+| 187 | 4 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) |
+| 188 | 4 | [Pessi Ansaranta](https://www.worldcubeassociation.org/persons/2016ANSA02) |
 | 189 | 4 | [Anirudh Sureshram](https://www.worldcubeassociation.org/persons/2014SURE11) |
 | 190 | 4 | [Erik Bitvai](https://www.worldcubeassociation.org/persons/2015BITV01) |
 | 191 | 4 | [Timothy Huynh](https://www.worldcubeassociation.org/persons/2017HUYN02) |
