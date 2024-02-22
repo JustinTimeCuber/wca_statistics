@@ -1,6 +1,6 @@
 ## Current world records count by country
 
-*Updated on 19 February 2024*
+*Updated on 22 February 2024*
 
 | Rank | WRs | Country | People |
 | :--- | ---: | :--- | :--- |
@@ -8,10 +8,10 @@
 | 2 | 4 | China | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36), [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) |
 | 3 | 2 | Argentina | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) |
 | 4 | 2 | India | [Mohammed Aiman Koli](https://www.worldcubeassociation.org/persons/2017KOLI01), [Neil Gour](https://www.worldcubeassociation.org/persons/2022GOUR01) |
-| 5 | 1 | Germany | [Tim Habermaas](https://www.worldcubeassociation.org/persons/2007HABE01) |
-| 6 | 1 | Italy | [Sebastiano Tronto](https://www.worldcubeassociation.org/persons/2011TRON02) |
-| 7 | 1 | Malaysia | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) |
-| 8 | 1 | Norway | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |
+| 5 | 1 | Canada | [Dilshawn Sidhu](https://www.worldcubeassociation.org/persons/2018SIDH02) |
+| 6 | 1 | Germany | [Tim Habermaas](https://www.worldcubeassociation.org/persons/2007HABE01) |
+| 7 | 1 | Italy | [Sebastiano Tronto](https://www.worldcubeassociation.org/persons/2011TRON02) |
+| 8 | 1 | Malaysia | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) |
 | 9 | 1 | Poland | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) |
 | 10 | 1 | Republic of Korea | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) |
 | 11 | 1 | Singapore | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) |

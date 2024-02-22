@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 19 February 2024*
+*Updated on 22 February 2024*
 
 | Rank | WRs | Person |
 | :--- | ---: | :--- |
@@ -314,9 +314,9 @@
 | 307 | 39 | [Yinghao Wang (王鹰豪)](https://www.worldcubeassociation.org/persons/2010WANG07) |
 | 308 | 39 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
 | 309 | 39 | [Marcel Peters](https://www.worldcubeassociation.org/persons/2012PETE03) |
-| 310 | 39 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
-| 311 | 38 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
-| 312 | 38 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) |
+| 310 | 39 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) |
+| 311 | 39 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
+| 312 | 38 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 313 | 38 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) |
 | 314 | 38 | [Felix Lee](https://www.worldcubeassociation.org/persons/2008LEEF01) |
 | 315 | 38 | [Marek Wójtowicz](https://www.worldcubeassociation.org/persons/2008WOJT01) |
