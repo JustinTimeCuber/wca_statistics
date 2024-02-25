@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 22 February 2024*
+*Updated on 25 February 2024*
 
 
 ### Rubik's Cube
@@ -1340,34 +1340,34 @@
 | 70 | [Bálint Csengő](https://www.worldcubeassociation.org/persons/2019CSEN01) | 2.97 | **3.25** | [Hungarian Open 2023](https://www.worldcubeassociation.org/competitions/HungarianOpen2023/results/all#eskewb_f) | 5 |
 | 71 | [Zongyang Li (李宗阳)](https://www.worldcubeassociation.org/persons/2013LIZO01) | 2.68 | **3.26** | [WCA Asian Championship 2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018/results/all#eskewb_f) | 5 |
 | 72 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 2.82 | **3.27** | [Warsaw Cube Masters 2023](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2023/results/all#eskewb_f) | 4 |
-| 73 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 2.18 | **3.28** | [Dubuque Winter 2023](https://www.worldcubeassociation.org/competitions/DubuqueWinter2023/results/all#eskewb_f) | 4 |
-| 74 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 2.52 | **3.28** | [Warsaw Cube Masters 2023](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2023/results/all#eskewb_f) | 5 |
-| 75 | [Emilio Alberto Rodríguez Jiménez](https://www.worldcubeassociation.org/persons/2018JIME14) | 1.94 | **3.29** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#eskewb_f) | 8 |
-| 76 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 2.47 | **3.29** | [Great Lakes Championship 2019](https://www.worldcubeassociation.org/competitions/GreatLakesChampionship2019/results/all#eskewb_f) | 4 |
-| 77 | [Shiyou Gu (顾释友)](https://www.worldcubeassociation.org/persons/2021GUSH01) | 2.73 | **3.29** | [Hefei Winter Open 2023](https://www.worldcubeassociation.org/competitions/HefeiWinterOpen2023/results/all#eskewb_f) | 5 |
-| 78 | [Aiden Bartlett](https://www.worldcubeassociation.org/persons/2015BART05) | 2.53 | **3.30** | [Canadian Championship 2023](https://www.worldcubeassociation.org/competitions/CanadianChampionship2023/results/all#eskewb_f) | 6 |
-| 79 | [Rui Ma (马睿)](https://www.worldcubeassociation.org/persons/2017MARU05) | 3.15 | **3.31** | [Guangzhou Panyu Afternoon 2021](https://www.worldcubeassociation.org/competitions/GuangzhouPanyuAfternoon2021/results/all#eskewb_f) | 4 |
-| 80 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | 1.86 | **3.32** | [Polish Championship 2022](https://www.worldcubeassociation.org/competitions/PolishChampionship2022/results/all#eskewb_f) | 4 |
-| 81 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | 2.09 | **3.32** | [Cube4fun Bielsko-Biała 2022](https://www.worldcubeassociation.org/competitions/Cube4funBielskoBiala2022/results/all#eskewb_f) | 4 |
-| 82 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 2.34 | **3.32** | [Milwaukee Cubing Mania 2024](https://www.worldcubeassociation.org/competitions/MilwaukeeCubingMania2024/results/all#eskewb_f) | 5 |
-| 83 | [Tyler Johnson](https://www.worldcubeassociation.org/persons/2017JOHN09) | 2.44 | **3.32** | [Frozen Lake Minnesota 2023](https://www.worldcubeassociation.org/competitions/FrozenLakeMinnesota2023/results/all#eskewb_f) | 5 |
-| 84 | [Cian-Jyun Yang (楊謙君)](https://www.worldcubeassociation.org/persons/2019YANG94) | 2.71 | **3.32** | [MYHM Singapore Championship 2024](https://www.worldcubeassociation.org/competitions/MYHMSingaporeChampionship2024/results/all#eskewb_f) | 5 |
-| 85 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 1.33 | **3.33** | [Cube4fun Bełżyce 2023](https://www.worldcubeassociation.org/competitions/Cube4funBelzyceMultiEvents2023/results/all#eskewb_f) | 4 |
-| 86 | [Livia Kleiner](https://www.worldcubeassociation.org/persons/2013KLEI03) | 1.91 | **3.33** | [Skewbadelphia Winter 2020](https://www.worldcubeassociation.org/competitions/SkewbadelphiaWinter2020/results/all#eskewb_f) | 4 |
-| 87 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) | 2.16 | **3.33** | [Polish Nationals 2017](https://www.worldcubeassociation.org/competitions/PolishNationals2017/results/all#eskewb_f) | 4 |
-| 88 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | 2.46 | **3.33** | [Kewbz UK Championship 2022](https://www.worldcubeassociation.org/competitions/KewbzUKChampionship2022/results/all#eskewb_f) | 6 |
-| 89 | [Henry Tang Kun Chung (鄧貫中)](https://www.worldcubeassociation.org/persons/2016CHUN07) | 2.94 | **3.33** | [Changsha Open 2023](https://www.worldcubeassociation.org/competitions/ChangshaOpen2023/results/all#eskewb_f) | 4 |
-| 90 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 1.86 | **3.34** | [Cube4fun Bielsko-Biała 2022](https://www.worldcubeassociation.org/competitions/Cube4funBielskoBiala2022/results/all#eskewb_f) | 5 |
-| 91 | [Tyler Johnson](https://www.worldcubeassociation.org/persons/2017JOHN09) | 2.50 | **3.34** | [Minnesota Slice 2023](https://www.worldcubeassociation.org/competitions/MinnesotaSlice2023/results/all#eskewb_f) | 4 |
-| 92 | [Héctor Haro Guerrero](https://www.worldcubeassociation.org/persons/2018GUER09) | 2.70 | **3.34** | [Spanish Championship 2023](https://www.worldcubeassociation.org/competitions/SpanishChampionship2023/results/all#eskewb_f) | 6 |
-| 93 | [Eric Zahid López Parra](https://www.worldcubeassociation.org/persons/2018PARR02) | 3.03 | **3.34** | [Mexican Championship 2023](https://www.worldcubeassociation.org/competitions/MexicanChampionship2023/results/all#eskewb_f) | 4 |
-| 94 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 1.25 | **3.35** | [Cube4fun Bełżyce 2023](https://www.worldcubeassociation.org/competitions/Cube4funBelzyceMultiEvents2023/results/all#eskewb_f) | 5 |
-| 95 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 2.63 | **3.35** | [North Star Cubing Challenge 2022](https://www.worldcubeassociation.org/competitions/NorthStarCubingChallenge2022/results/all#eskewb_f) | 5 |
-| 96 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | 2.44 | **3.36** | [Energy Cube Tomaszów 2023](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2023/results/all#eskewb_f) | 4 |
-| 97 | [Jakub Grzybowski](https://www.worldcubeassociation.org/persons/2017GRZY02) | 2.73 | **3.36** | [Cube4fun Bielsko-Biała 2022](https://www.worldcubeassociation.org/competitions/Cube4funBielskoBiala2022/results/all#eskewb_f) | 6 |
-| 98 | [Léo Bailly](https://www.worldcubeassociation.org/persons/2015BAIL04) | 2.86 | **3.36** | [WCA Euro 2018](https://www.worldcubeassociation.org/competitions/Euro2018/results/all#eskewb_f) | 5 |
-| 99 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) | 3.13 | **3.36** | [Pretzel Mania 2022](https://www.worldcubeassociation.org/competitions/PretzelMania2022/results/all#eskewb_f) | 4 |
-| 100 | [Arhaan Sareen](https://www.worldcubeassociation.org/persons/2017SARE03) | 1.67 | **3.37** | [Canadian Championship 2023](https://www.worldcubeassociation.org/competitions/CanadianChampionship2023/results/all#eskewb_f) | 7 |
+| 73 | [Ang Zhen Zhou](https://www.worldcubeassociation.org/persons/2017ZHOU01) | 2.88 | **3.27** | [Twist & Fries Johor Bahru 2024](https://www.worldcubeassociation.org/competitions/TwistFriesJohorBahru2024/results/all#eskewb_f) | 4 |
+| 74 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 2.18 | **3.28** | [Dubuque Winter 2023](https://www.worldcubeassociation.org/competitions/DubuqueWinter2023/results/all#eskewb_f) | 4 |
+| 75 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 2.52 | **3.28** | [Warsaw Cube Masters 2023](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2023/results/all#eskewb_f) | 5 |
+| 76 | [Emilio Alberto Rodríguez Jiménez](https://www.worldcubeassociation.org/persons/2018JIME14) | 1.94 | **3.29** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#eskewb_f) | 8 |
+| 77 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 2.47 | **3.29** | [Great Lakes Championship 2019](https://www.worldcubeassociation.org/competitions/GreatLakesChampionship2019/results/all#eskewb_f) | 4 |
+| 78 | [Shiyou Gu (顾释友)](https://www.worldcubeassociation.org/persons/2021GUSH01) | 2.73 | **3.29** | [Hefei Winter Open 2023](https://www.worldcubeassociation.org/competitions/HefeiWinterOpen2023/results/all#eskewb_f) | 5 |
+| 79 | [Aiden Bartlett](https://www.worldcubeassociation.org/persons/2015BART05) | 2.53 | **3.30** | [Canadian Championship 2023](https://www.worldcubeassociation.org/competitions/CanadianChampionship2023/results/all#eskewb_f) | 6 |
+| 80 | [Rui Ma (马睿)](https://www.worldcubeassociation.org/persons/2017MARU05) | 3.15 | **3.31** | [Guangzhou Panyu Afternoon 2021](https://www.worldcubeassociation.org/competitions/GuangzhouPanyuAfternoon2021/results/all#eskewb_f) | 4 |
+| 81 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | 1.86 | **3.32** | [Polish Championship 2022](https://www.worldcubeassociation.org/competitions/PolishChampionship2022/results/all#eskewb_f) | 4 |
+| 82 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | 2.09 | **3.32** | [Cube4fun Bielsko-Biała 2022](https://www.worldcubeassociation.org/competitions/Cube4funBielskoBiala2022/results/all#eskewb_f) | 4 |
+| 83 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 2.34 | **3.32** | [Milwaukee Cubing Mania 2024](https://www.worldcubeassociation.org/competitions/MilwaukeeCubingMania2024/results/all#eskewb_f) | 5 |
+| 84 | [Tyler Johnson](https://www.worldcubeassociation.org/persons/2017JOHN09) | 2.44 | **3.32** | [Frozen Lake Minnesota 2023](https://www.worldcubeassociation.org/competitions/FrozenLakeMinnesota2023/results/all#eskewb_f) | 5 |
+| 85 | [Cian-Jyun Yang (楊謙君)](https://www.worldcubeassociation.org/persons/2019YANG94) | 2.71 | **3.32** | [MYHM Singapore Championship 2024](https://www.worldcubeassociation.org/competitions/MYHMSingaporeChampionship2024/results/all#eskewb_f) | 5 |
+| 86 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 1.33 | **3.33** | [Cube4fun Bełżyce 2023](https://www.worldcubeassociation.org/competitions/Cube4funBelzyceMultiEvents2023/results/all#eskewb_f) | 4 |
+| 87 | [Livia Kleiner](https://www.worldcubeassociation.org/persons/2013KLEI03) | 1.91 | **3.33** | [Skewbadelphia Winter 2020](https://www.worldcubeassociation.org/competitions/SkewbadelphiaWinter2020/results/all#eskewb_f) | 4 |
+| 88 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) | 2.16 | **3.33** | [Polish Nationals 2017](https://www.worldcubeassociation.org/competitions/PolishNationals2017/results/all#eskewb_f) | 4 |
+| 89 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | 2.46 | **3.33** | [Kewbz UK Championship 2022](https://www.worldcubeassociation.org/competitions/KewbzUKChampionship2022/results/all#eskewb_f) | 6 |
+| 90 | [Henry Tang Kun Chung (鄧貫中)](https://www.worldcubeassociation.org/persons/2016CHUN07) | 2.94 | **3.33** | [Changsha Open 2023](https://www.worldcubeassociation.org/competitions/ChangshaOpen2023/results/all#eskewb_f) | 4 |
+| 91 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 1.86 | **3.34** | [Cube4fun Bielsko-Biała 2022](https://www.worldcubeassociation.org/competitions/Cube4funBielskoBiala2022/results/all#eskewb_f) | 5 |
+| 92 | [Tyler Johnson](https://www.worldcubeassociation.org/persons/2017JOHN09) | 2.50 | **3.34** | [Minnesota Slice 2023](https://www.worldcubeassociation.org/competitions/MinnesotaSlice2023/results/all#eskewb_f) | 4 |
+| 93 | [Héctor Haro Guerrero](https://www.worldcubeassociation.org/persons/2018GUER09) | 2.70 | **3.34** | [Spanish Championship 2023](https://www.worldcubeassociation.org/competitions/SpanishChampionship2023/results/all#eskewb_f) | 6 |
+| 94 | [Eric Zahid López Parra](https://www.worldcubeassociation.org/persons/2018PARR02) | 3.03 | **3.34** | [Mexican Championship 2023](https://www.worldcubeassociation.org/competitions/MexicanChampionship2023/results/all#eskewb_f) | 4 |
+| 95 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 1.25 | **3.35** | [Cube4fun Bełżyce 2023](https://www.worldcubeassociation.org/competitions/Cube4funBelzyceMultiEvents2023/results/all#eskewb_f) | 5 |
+| 96 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) | 2.63 | **3.35** | [North Star Cubing Challenge 2022](https://www.worldcubeassociation.org/competitions/NorthStarCubingChallenge2022/results/all#eskewb_f) | 5 |
+| 97 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | 2.44 | **3.36** | [Energy Cube Tomaszów 2023](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2023/results/all#eskewb_f) | 4 |
+| 98 | [Jakub Grzybowski](https://www.worldcubeassociation.org/persons/2017GRZY02) | 2.73 | **3.36** | [Cube4fun Bielsko-Biała 2022](https://www.worldcubeassociation.org/competitions/Cube4funBielskoBiala2022/results/all#eskewb_f) | 6 |
+| 99 | [Léo Bailly](https://www.worldcubeassociation.org/persons/2015BAIL04) | 2.86 | **3.36** | [WCA Euro 2018](https://www.worldcubeassociation.org/competitions/Euro2018/results/all#eskewb_f) | 5 |
+| 100 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) | 3.13 | **3.36** | [Pretzel Mania 2022](https://www.worldcubeassociation.org/competitions/PretzelMania2022/results/all#eskewb_f) | 4 |
 
 ### Square-1
 
