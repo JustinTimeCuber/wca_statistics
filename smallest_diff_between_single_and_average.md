@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 25 February 2024*
+*Updated on 28 February 2024*
 
 
 ### Rubik's Cube
@@ -701,7 +701,7 @@
 | 61 | 0.48 | [Elliott Kobelansky](https://www.worldcubeassociation.org/persons/2019KOBE03) | 16.71 | 17.19 | [Maine Spring 2022](https://www.worldcubeassociation.org/competitions/MaineSpring2022/results/by_person#2019KOBE03) |
 | 62 | 0.48 | [Rodrigo Zarate](https://www.worldcubeassociation.org/persons/2014ZARA01) | 31.76 | 32.24 | [Beijing Winter 2019](https://www.worldcubeassociation.org/competitions/BeijingWinter2019/results/by_person#2014ZARA01) |
 | 63 | 0.48 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | 1:33.96 | 1:34.44 | [Chester Open 2019](https://www.worldcubeassociation.org/competitions/ChesterOpen2019/results/by_person#2010CHAN20) |
-| 64 | 0.49 | [David Karalli](https://www.worldcubeassociation.org/persons/2020KARA01) | 26.82 | 27.31 | [Please Be Quiet Reno Summer 2023](https://www.worldcubeassociation.org/competitions/PleaseBeQuietRenoSummer2023/results/by_person#2020KARA01) |
+| 64 | 0.49 | [David Karalli (داود قراعلي)](https://www.worldcubeassociation.org/persons/2020KARA01) | 26.82 | 27.31 | [Please Be Quiet Reno Summer 2023](https://www.worldcubeassociation.org/competitions/PleaseBeQuietRenoSummer2023/results/by_person#2020KARA01) |
 | 65 | 0.49 | [Jiawen Wu (吴嘉文)](https://www.worldcubeassociation.org/persons/2010WUJI01) | 1:20.30 | 1:20.79 | [Shanghai Spring 2014](https://www.worldcubeassociation.org/competitions/ShanghaiSpring2014/results/by_person#2010WUJI01) |
 | 66 | 0.50 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 18.89 | 19.39 | [Michigan Cubing Club Delta 2019](https://www.worldcubeassociation.org/competitions/MichiganCubingClubDelta2019/results/by_person#2016CHAP04) |
 | 67 | 0.50 | [Nicolas Campanario](https://www.worldcubeassociation.org/persons/2022CAMP02) | 25.04 | 25.54 | [Santa Fe Cubea 2023](https://www.worldcubeassociation.org/competitions/SantaFeCubea2023/results/by_person#2022CAMP02) |
@@ -1535,7 +1535,7 @@
 | 55 | 35.00 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 15:27.00 | 16:02.00 | [All Rounders in Stobierna 2023](https://www.worldcubeassociation.org/competitions/AllRoundersinStobierna2023/results/by_person#2014MILE01) |
 | 56 | 37.00 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) | 13:11.00 | 13:48.00 | [Cubetcha 2019](https://www.worldcubeassociation.org/competitions/Cubetcha2019/results/by_person#2011FERA01) |
 | 57 | 38.00 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | 13:49.00 | 14:27.00 | [Portland in a Pyra Tree 2019](https://www.worldcubeassociation.org/competitions/PortlandinaPyraTree2019/results/by_person#2017SIAU02) |
-| 58 | 40.00 | [David Karalli](https://www.worldcubeassociation.org/persons/2020KARA01) | 16:19.00 | 16:59.00 | [SacQuiet Fall 2023](https://www.worldcubeassociation.org/competitions/SacQuietFall2023/results/by_person#2020KARA01) |
+| 58 | 40.00 | [David Karalli (داود قراعلي)](https://www.worldcubeassociation.org/persons/2020KARA01) | 16:19.00 | 16:59.00 | [SacQuiet Fall 2023](https://www.worldcubeassociation.org/competitions/SacQuietFall2023/results/by_person#2020KARA01) |
 | 59 | 41.00 | [Takayuki Tanaka (田中隆喜)](https://www.worldcubeassociation.org/persons/2014TANA01) | 19:57.00 | 20:38.00 | [Cube Camp in Kanazawa 2019](https://www.worldcubeassociation.org/competitions/CubeCampinKanazawa2019/results/by_person#2014TANA01) |
 | 60 | 41.43 | [Jia-Hong Lu (陸嘉宏)](https://www.worldcubeassociation.org/persons/2007LUJI01) | 8:11.97 | 8:53.40 | [Taiwan Championship 2017](https://www.worldcubeassociation.org/competitions/TaiwanChampionship2017/results/by_person#2007LUJI01) |
 | 61 | 42.00 | [Shenghai Fang (方胜海)](https://www.worldcubeassociation.org/persons/2016FANG01) | 10:12.00 | 10:54.00 | [Xi'an Cherry Blossom 2017](https://www.worldcubeassociation.org/competitions/XianCherryBlossom2017/results/by_person#2016FANG01) |
