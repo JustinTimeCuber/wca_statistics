@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 28 February 2024*
+*Updated on  1 March 2024*
 
 | Rank | Country | Gold | Silver | Bronze | Total |
 | :--- | :--- | :--: | :--: | :--: | :--: |
@@ -10,14 +10,14 @@
 | 3 | United States | **1027** | 858 | 767 | 2652 |
 | 4 | France | **934** | 804 | 682 | 2420 |
 | 5 | Netherlands | **912** | 725 | 602 | 2239 |
-| 6 | Russia | **847** | 504 | 397 | 1748 |
+| 6 | Russia | **847** | 504 | 398 | 1749 |
 | 7 | China | **665** | 616 | 560 | 1841 |
-| 8 | Poland | **585** | 384 | 295 | 1264 |
-| 9 | Malaysia | **404** | 403 | 371 | 1178 |
-| 10 | United Kingdom | **389** | 447 | 435 | 1271 |
+| 8 | Poland | **590** | 384 | 295 | 1269 |
+| 9 | Malaysia | **404** | 403 | 372 | 1179 |
+| 10 | United Kingdom | **391** | 449 | 437 | 1277 |
 | 11 | Canada | **372** | 380 | 409 | 1161 |
 | 12 | Denmark | **351** | 296 | 236 | 883 |
-| 13 | Republic of Korea | **325** | 279 | 252 | 856 |
+| 13 | Republic of Korea | **326** | 284 | 251 | 861 |
 | 14 | Sweden | **307** | 352 | 364 | 1023 |
 | 15 | Hong Kong, China | **294** | 316 | 240 | 850 |
 | 16 | Australia | **290** | 136 | 92 | 518 |
@@ -32,7 +32,7 @@
 | 25 | Romania | **201** | 147 | 127 | 475 |
 | 26 | Spain | **181** | 172 | 200 | 553 |
 | 27 | Singapore | **175** | 178 | 186 | 539 |
-| 28 | Indonesia | **170** | 157 | 130 | 457 |
+| 28 | Indonesia | **170** | 157 | 131 | 458 |
 | 29 | Austria | **153** | 223 | 221 | 597 |
 | 30 | Latvia | **144** | 212 | 214 | 570 |
 | 31 | Ireland | **144** | 77 | 62 | 283 |
@@ -47,8 +47,8 @@
 | 40 | Thailand | **86** | 89 | 44 | 219 |
 | 41 | Slovakia | **79** | 89 | 98 | 266 |
 | 42 | Lithuania | **76** | 74 | 88 | 238 |
-| 43 | Philippines | **70** | 87 | 82 | 239 |
-| 44 | Norway | **68** | 80 | 96 | 244 |
+| 43 | Norway | **71** | 82 | 97 | 250 |
+| 44 | Philippines | **70** | 87 | 82 | 239 |
 | 45 | Guatemala | **61** | 38 | 42 | 141 |
 | 46 | Vietnam | **60** | 83 | 71 | 214 |
 | 47 | Croatia | **58** | 92 | 72 | 222 |

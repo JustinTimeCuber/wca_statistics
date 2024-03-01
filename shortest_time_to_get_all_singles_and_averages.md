@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on 28 February 2024*
+*Updated on  1 March 2024*
 
 | Rank | Days | Person |
 | :--- | ---: | :--- |
@@ -12,7 +12,7 @@
 | 5 | 426 | [Michael Tripodi](https://www.worldcubeassociation.org/persons/2021TRIP01) |
 | 6 | 496 | [Yifan Wang (王逸帆)](https://www.worldcubeassociation.org/persons/2017WANY29) |
 | 7 | 665 | [Jason White](https://www.worldcubeassociation.org/persons/2016WHIT16) |
-| 8 | 861 | [Wenjie Xu (徐文杰)](https://www.worldcubeassociation.org/persons/2016XUWE02) |
+| 8 | 861 | [Sora Wenjie Xu (徐文杰)](https://www.worldcubeassociation.org/persons/2016XUWE02) |
 | 9 | 917 | [Cedric Meysing](https://www.worldcubeassociation.org/persons/2017MEYS02) |
 | 10 | 924 | [Conan Mo](https://www.worldcubeassociation.org/persons/2020MOCO01) |
 | 11 | 929 | [Hill Pong Yong Feng](https://www.worldcubeassociation.org/persons/2017FENG10) |

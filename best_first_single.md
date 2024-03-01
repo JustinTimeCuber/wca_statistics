@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 28 February 2024*
+*Updated on  1 March 2024*
 
 
 ### Rubik's Cube
@@ -1052,7 +1052,7 @@
 | 97 | 1:01.86 | [Curtis Chai](https://www.worldcubeassociation.org/persons/2022CHAI02) |
 | 98 | 1:01.94 | [Thomas Liao](https://www.worldcubeassociation.org/persons/2017LIAO09) |
 | 99 | 1:02.10 | [Lim Zhe Xi Zenneth](https://www.worldcubeassociation.org/persons/2019ZENN01) |
-| 100 | 1:02.19 | [Fabian Damke](https://www.worldcubeassociation.org/persons/2018DAMK01) |
+| 100 | 1:02.17 | [Alex McIntosh](https://www.worldcubeassociation.org/persons/2013MCIN01) |
 
 ### Pyraminx
 
