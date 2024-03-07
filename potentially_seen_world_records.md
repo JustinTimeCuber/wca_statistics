@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on  4 March 2024*
+*Updated on  7 March 2024*
 
 | Rank | WRs | Person |
 | :--- | ---: | :--- |
@@ -73,13 +73,13 @@
 | 66 | 76 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 67 | 75 | [Guus Razoux Schultz](https://www.worldcubeassociation.org/persons/1982RAZO01) |
 | 68 | 75 | [Frank Morris](https://www.worldcubeassociation.org/persons/2003MORR01) |
-| 69 | 74 | [Tim Major](https://www.worldcubeassociation.org/persons/2010MAJO01) |
-| 70 | 74 | [Fangyuan Chang (常方圆)](https://www.worldcubeassociation.org/persons/2009CHAN04) |
-| 71 | 73 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) |
-| 72 | 73 | [Paweł Włoszek](https://www.worldcubeassociation.org/persons/2006WLOS01) |
-| 73 | 73 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) |
-| 74 | 73 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) |
-| 75 | 73 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) |
+| 69 | 75 | [Fangyuan Chang (常方圆)](https://www.worldcubeassociation.org/persons/2009CHAN04) |
+| 70 | 74 | [Tim Major](https://www.worldcubeassociation.org/persons/2010MAJO01) |
+| 71 | 73 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) |
+| 72 | 73 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) |
+| 73 | 73 | [Paweł Włoszek](https://www.worldcubeassociation.org/persons/2006WLOS01) |
+| 74 | 73 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) |
+| 75 | 73 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) |
 | 76 | 72 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
 | 77 | 71 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) |
 | 78 | 71 | [Peter Still](https://www.worldcubeassociation.org/persons/2005STIL01) |
@@ -432,18 +432,18 @@
 | 425 | 33 | [Chau Ka Wai (周嘉偉)](https://www.worldcubeassociation.org/persons/2008WAIC01) |
 | 426 | 33 | [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01) |
 | 427 | 33 | [John Eppley](https://www.worldcubeassociation.org/persons/2014EPPL01) |
-| 428 | 32 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) |
-| 429 | 32 | [Will Hamilton](https://www.worldcubeassociation.org/persons/2014HAMI02) |
-| 430 | 32 | [Anthony Lafourcade](https://www.worldcubeassociation.org/persons/2014LAFO01) |
-| 431 | 32 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
-| 432 | 32 | [Lin Chen (陈霖)](https://www.worldcubeassociation.org/persons/2010CHEN20) |
-| 433 | 32 | [Yulun Wu (吴宇伦)](https://www.worldcubeassociation.org/persons/2010WUYU02) |
-| 434 | 32 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) |
-| 435 | 32 | [James Macdiarmid](https://www.worldcubeassociation.org/persons/2015MACD03) |
-| 436 | 32 | [Julianna Bennett](https://www.worldcubeassociation.org/persons/2013BENN03) |
-| 437 | 32 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) |
-| 438 | 32 | [Jakub Wojtaszewski](https://www.worldcubeassociation.org/persons/2013WOJT02) |
-| 439 | 32 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
+| 428 | 32 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
+| 429 | 32 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) |
+| 430 | 32 | [Will Hamilton](https://www.worldcubeassociation.org/persons/2014HAMI02) |
+| 431 | 32 | [Anthony Lafourcade](https://www.worldcubeassociation.org/persons/2014LAFO01) |
+| 432 | 32 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
+| 433 | 32 | [Lin Chen (陈霖)](https://www.worldcubeassociation.org/persons/2010CHEN20) |
+| 434 | 32 | [Yulun Wu (吴宇伦)](https://www.worldcubeassociation.org/persons/2010WUYU02) |
+| 435 | 32 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) |
+| 436 | 32 | [James Macdiarmid](https://www.worldcubeassociation.org/persons/2015MACD03) |
+| 437 | 32 | [Julianna Bennett](https://www.worldcubeassociation.org/persons/2013BENN03) |
+| 438 | 32 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) |
+| 439 | 32 | [Jakub Wojtaszewski](https://www.worldcubeassociation.org/persons/2013WOJT02) |
 | 440 | 32 | [Xiaobo Jin (金晓波)](https://www.worldcubeassociation.org/persons/2008JINX01) |
 | 441 | 32 | [Niki Placskó](https://www.worldcubeassociation.org/persons/2008PLAC01) |
 | 442 | 32 | [Kuo-Hau Wu (吳國豪)](https://www.worldcubeassociation.org/persons/2008WUKU01) |
@@ -674,18 +674,18 @@
 | 667 | 26 | [Piti Pichedpan (ปิติ พิเชษฐพันธ์)](https://www.worldcubeassociation.org/persons/2009PICH01) |
 | 668 | 26 | [Wenjing Wang (王文静)](https://www.worldcubeassociation.org/persons/2014WANG22) |
 | 669 | 26 | [Jason White](https://www.worldcubeassociation.org/persons/2016WHIT16) |
-| 670 | 26 | [Andres Rodriguez](https://www.worldcubeassociation.org/persons/2015RODR01) |
-| 671 | 26 | [Will Russo](https://www.worldcubeassociation.org/persons/2015RUSS03) |
-| 672 | 26 | [Owen Widdis](https://www.worldcubeassociation.org/persons/2015WIDD01) |
-| 673 | 26 | [Cailyn Hoover](https://www.worldcubeassociation.org/persons/2016HOOV01) |
-| 674 | 26 | [Malte Ihlefeld](https://www.worldcubeassociation.org/persons/2016IHLE01) |
-| 675 | 26 | [Zavian Valedon](https://www.worldcubeassociation.org/persons/2016VALE01) |
-| 676 | 26 | [Christopher Yen](https://www.worldcubeassociation.org/persons/2016YENC01) |
-| 677 | 26 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) |
-| 678 | 25 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) |
-| 679 | 25 | [Zachary Ochs](https://www.worldcubeassociation.org/persons/2016OCHS01) |
-| 680 | 25 | [Stanisław Dąbrowski](https://www.worldcubeassociation.org/persons/2016DABR03) |
-| 681 | 25 | [Tripp Peters](https://www.worldcubeassociation.org/persons/2017PETE04) |
+| 670 | 26 | [Tripp Peters](https://www.worldcubeassociation.org/persons/2017PETE04) |
+| 671 | 26 | [Andres Rodriguez](https://www.worldcubeassociation.org/persons/2015RODR01) |
+| 672 | 26 | [Will Russo](https://www.worldcubeassociation.org/persons/2015RUSS03) |
+| 673 | 26 | [Owen Widdis](https://www.worldcubeassociation.org/persons/2015WIDD01) |
+| 674 | 26 | [Cailyn Hoover](https://www.worldcubeassociation.org/persons/2016HOOV01) |
+| 675 | 26 | [Malte Ihlefeld](https://www.worldcubeassociation.org/persons/2016IHLE01) |
+| 676 | 26 | [Zavian Valedon](https://www.worldcubeassociation.org/persons/2016VALE01) |
+| 677 | 26 | [Christopher Yen](https://www.worldcubeassociation.org/persons/2016YENC01) |
+| 678 | 26 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) |
+| 679 | 26 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) |
+| 680 | 25 | [Zachary Ochs](https://www.worldcubeassociation.org/persons/2016OCHS01) |
+| 681 | 25 | [Stanisław Dąbrowski](https://www.worldcubeassociation.org/persons/2016DABR03) |
 | 682 | 25 | [Steven Wintringham](https://www.worldcubeassociation.org/persons/2015WINT02) |
 | 683 | 25 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) |
 | 684 | 25 | [Tommy Kiprillis](https://www.worldcubeassociation.org/persons/2014KIPR01) |
