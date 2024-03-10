@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on  7 March 2024*
+*Updated on 10 March 2024*
 
 | Rank | Countries | Person |
 | :--- | ---: | :--- |
@@ -71,10 +71,10 @@
 | 65 | 17 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 66 | 17 | [Eddy Deturche](https://www.worldcubeassociation.org/persons/2014DETU01) |
 | 67 | 17 | [Maxim Chechnev](https://www.worldcubeassociation.org/persons/2011CHEC01) |
-| 68 | 16 | [Simone Santarsiero](https://www.worldcubeassociation.org/persons/2009SANT01) |
-| 69 | 16 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
-| 70 | 16 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) |
-| 71 | 16 | [Hongyuan Fu (傅泓源)](https://www.worldcubeassociation.org/persons/2017FUHO01) |
+| 68 | 17 | [Hongyuan Fu (傅泓源)](https://www.worldcubeassociation.org/persons/2017FUHO01) |
+| 69 | 16 | [Simone Santarsiero](https://www.worldcubeassociation.org/persons/2009SANT01) |
+| 70 | 16 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
+| 71 | 16 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) |
 | 72 | 16 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) |
 | 73 | 15 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) |
 | 74 | 15 | [Radu Făciu](https://www.worldcubeassociation.org/persons/2009FACI01) |

@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on  7 March 2024*
+*Updated on 10 March 2024*
 
 
 ### Rubik's Cube
@@ -313,11 +313,11 @@
 | 93 | [Sei Sugama (洲鎌星)](https://www.worldcubeassociation.org/persons/2010SUGA01) | 25.02 | **28.39** | [WCA Asian Championship 2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018/results/all#e444_f) | 7 |
 | 94 | [Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12) | 27.83 | **28.39** | [Taoyuan Airport Cube Day 2023](https://www.worldcubeassociation.org/competitions/TaoyuanAirportCubeDay2023/results/all#e444_f) | 4 |
 | 95 | [Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09) | 26.86 | **28.43** | [Korean Championship 2023](https://www.worldcubeassociation.org/competitions/KoreanChampionship2023/results/all#e444_f) | 4 |
-| 96 | [Angela Braganza](https://www.worldcubeassociation.org/persons/2015BRAG01) | 24.52 | **28.45** | [WCA Oceanic Championship 2022](https://www.worldcubeassociation.org/competitions/OC2022/results/all#e444_f) | 4 |
-| 97 | [Jinseo Hong](https://www.worldcubeassociation.org/persons/2017HONG17) | 26.65 | **28.45** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#e444_f) | 8 |
-| 98 | [Morgan Yeh](https://www.worldcubeassociation.org/persons/2017YEHM01) | 26.88 | **28.45** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#e444_f) | 12 |
-| 99 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 25.53 | **28.46** | [CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/all#e444_f) | 5 |
-| 100 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 25.91 | **28.48** | [Weston-super-Mare Open 2018](https://www.worldcubeassociation.org/competitions/WSMO2018/results/all#e444_f) | 4 |
+| 96 | [Yi-Ho Hsueh (薛以和)](https://www.worldcubeassociation.org/persons/2016HSUE01) | 27.46 | **28.43** | [Taichung Open 2024](https://www.worldcubeassociation.org/competitions/TaichungOpen2024/results/all#e444_f) | 4 |
+| 97 | [Angela Braganza](https://www.worldcubeassociation.org/persons/2015BRAG01) | 24.52 | **28.45** | [WCA Oceanic Championship 2022](https://www.worldcubeassociation.org/competitions/OC2022/results/all#e444_f) | 4 |
+| 98 | [Jinseo Hong](https://www.worldcubeassociation.org/persons/2017HONG17) | 26.65 | **28.45** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#e444_f) | 8 |
+| 99 | [Morgan Yeh](https://www.worldcubeassociation.org/persons/2017YEHM01) | 26.88 | **28.45** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#e444_f) | 12 |
+| 100 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 25.53 | **28.46** | [CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/all#e444_f) | 5 |
 
 ### 5x5x5 Cube
 
@@ -993,7 +993,7 @@
 | 38 | [Ao Nogami (野上碧)](https://www.worldcubeassociation.org/persons/2019NOGA01) | 36.44 | **39.90** | [Singapore Championship 2023](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2023/results/all#eminx_f) | 5 |
 | 39 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 37.04 | **39.92** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#eminx_f) | 15 |
 | 40 | [Andy Denney](https://www.worldcubeassociation.org/persons/2013DENN01) | 33.65 | **40.31** | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all#eminx_f) | 6 |
-| 41 | [Choi Hyo-jin (최효진)](https://www.worldcubeassociation.org/persons/2017HYOJ01) | 39.14 | **40.37** | [Seoul Summer 2022](https://www.worldcubeassociation.org/competitions/SeoulSummer2022/results/all#eminx_f) | 4 |
+| 41 | [Choi Hyo-Jin (최효진)](https://www.worldcubeassociation.org/persons/2017HYOJ01) | 39.14 | **40.37** | [Seoul Summer 2022](https://www.worldcubeassociation.org/competitions/SeoulSummer2022/results/all#eminx_f) | 4 |
 | 42 | [Bartłomiej Krokos](https://www.worldcubeassociation.org/persons/2017KROK01) | 37.67 | **40.50** | [Dębica Cubing Winter 2024](https://www.worldcubeassociation.org/competitions/DebicaCubingWinter2024/results/all#eminx_f) | 4 |
 | 43 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 35.35 | **40.82** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#eminx_f) | 16 |
 | 44 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 36.95 | **40.85** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#eminx_f) | 8 |
@@ -1608,7 +1608,7 @@
 | 23 | [Theodore Chan](https://www.worldcubeassociation.org/persons/2016CHAN25) | **7:34.88** | DNF | [Singapore Championship 2023](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2023/results/all#e555bf_f) | 4 |
 | 24 | [Sebastiano Tronto](https://www.worldcubeassociation.org/persons/2011TRON02) | **7:36.70** | DNF | [WCA Euro 2018](https://www.worldcubeassociation.org/competitions/Euro2018/results/all#e555bf_f) | 6 |
 | 25 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) | **7:44.90** | DNF | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017/results/all#e555bf_f) | 4 |
-| 26 | [Naoto Shinagawa (品川直登)](https://www.worldcubeassociation.org/persons/2017SHIN02) | **7:49.54** | DNF | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e555bf_f) | 12 |
+| 26 | [Naoto Kobayashi (小林直登)](https://www.worldcubeassociation.org/persons/2017SHIN02) | **7:49.54** | DNF | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e555bf_f) | 12 |
 | 27 | [Josh Weimer](https://www.worldcubeassociation.org/persons/2016WEIM01) | **7:50.10** | DNF | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#e555bf_f) | 5 |
 | 28 | [Yucheng Chen (陈裕铖)](https://www.worldcubeassociation.org/persons/2015CHEN49) | **7:50.12** | DNF | [China Championship 2019](https://www.worldcubeassociation.org/competitions/ChinaChampionship2019/results/all#e555bf_f) | 4 |
 | 29 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) | **7:51.27** | DNF | [WCA Euro 2018](https://www.worldcubeassociation.org/competitions/Euro2018/results/all#e555bf_f) | 7 |
