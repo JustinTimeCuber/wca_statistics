@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 20 March 2024*
+*Updated on 22 March 2024*
 
 
 ### Rubik's Cube
@@ -1242,27 +1242,27 @@
 | 77 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) | 4.75 | **5.57** | [Niner Nation Open 2023](https://www.worldcubeassociation.org/competitions/NinerNationOpen2023/results/all#eclock_f) | 4 |
 | 78 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | 4.17 | **5.58** | [Dębica Cubing Winter 2024](https://www.worldcubeassociation.org/competitions/DebicaCubingWinter2024/results/all#eclock_f) | 5 |
 | 79 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | 4.46 | **5.58** | [Cubes on the Bayside Spring 2024](https://www.worldcubeassociation.org/competitions/CubesontheBaysideSpring2024/results/all#eclock_c) | 4 |
-| 80 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 4.70 | **5.58** | [Ice Cubing Szczecinek 2024](https://www.worldcubeassociation.org/competitions/IceCubingSzczecinek2024/results/all#eclock_f) | 9 |
-| 81 | [Brayden Thompson](https://www.worldcubeassociation.org/persons/2022THOM14) | 4.88 | **5.58** | [Naperville Summer 2023](https://www.worldcubeassociation.org/competitions/NapervilleSummer2023/results/all#eclock_f) | 4 |
-| 82 | [Cameron Miller](https://www.worldcubeassociation.org/persons/2018MILL08) | 4.99 | **5.58** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#eclock_f) | 13 |
-| 83 | [Kevin Min](https://www.worldcubeassociation.org/persons/2015MINK04) | 5.08 | **5.58** | [Cuber Jackets Fall 2023](https://www.worldcubeassociation.org/competitions/CuberJacketsFall2023/results/all#eclock_f) | 4 |
-| 84 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | 5.11 | **5.58** | [Three Attempts Chicago 2022](https://www.worldcubeassociation.org/competitions/ThreeAttemptsChicago2022/results/all#eclock_f) | 4 |
-| 85 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 4.60 | **5.59** | [Dragon Cubing II 2023](https://www.worldcubeassociation.org/competitions/DragonCubingII2023/results/all#eclock_f) | 4 |
-| 86 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | 5.20 | **5.60** | [North Star Cubing Challenge 2024](https://www.worldcubeassociation.org/competitions/NorthStarCubingChallenge2024/results/all#eclock_f) | 5 |
-| 87 | [Max Walaszek](https://www.worldcubeassociation.org/persons/2018WALA01) | 4.91 | **5.61** | [Naperville Winter B 2022](https://www.worldcubeassociation.org/competitions/NapervilleWinterB2022/results/all#eclock_f) | 4 |
-| 88 | [Fiona Bao](https://www.worldcubeassociation.org/persons/2022BAOF01) | 4.50 | **5.62** | [Cuber Jackets Fall 2023](https://www.worldcubeassociation.org/competitions/CuberJacketsFall2023/results/all#eclock_f) | 5 |
-| 89 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) | 4.93 | **5.62** | [Dutch Nationals 2023](https://www.worldcubeassociation.org/competitions/DutchNationals2023/results/all#eclock_c) | 6 |
-| 90 | [Junqi Feng (冯骏骐)](https://www.worldcubeassociation.org/persons/2015FENG12) | 4.80 | **5.63** | [Australian Nationals 2023](https://www.worldcubeassociation.org/competitions/AustralianNationals2023/results/all#eclock_f) | 4 |
-| 91 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 4.77 | **5.64** | [Pyraminx in Pewaukee 2023](https://www.worldcubeassociation.org/competitions/PyraminxinPewaukee2023/results/all#eclock_f) | 4 |
-| 92 | [Luis Garcia](https://www.worldcubeassociation.org/persons/2022GARC01) | 4.69 | **5.65** | [Beat the Clock Westminster 2024](https://www.worldcubeassociation.org/competitions/BeattheClockWestminster2024/results/all#eclock_f) | 7 |
-| 93 | [Elyas Eyou](https://www.worldcubeassociation.org/persons/2018EYOU02) | 4.53 | **5.67** | [NZ South Island Champs 2023](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2023/results/all#eclock_f) | 4 |
-| 94 | [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) | 4.75 | **5.67** | [Beskid Cubing 2023](https://www.worldcubeassociation.org/competitions/BeskidCubing2023/results/all#eclock_f) | 5 |
-| 95 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 4.14 | **5.68** | [Naperville Summer 2023](https://www.worldcubeassociation.org/competitions/NapervilleSummer2023/results/all#eclock_f) | 5 |
-| 96 | [Luis Kleinheinz](https://www.worldcubeassociation.org/persons/2017KLEI02) | 4.61 | **5.68** | [24 Hours in Flen 2023](https://www.worldcubeassociation.org/competitions/24HoursinFlen2023/results/all#eclock_f) | 5 |
-| 97 | [Elyas Eyou](https://www.worldcubeassociation.org/persons/2018EYOU02) | 4.92 | **5.68** | [New Zealand Nationals 2023](https://www.worldcubeassociation.org/competitions/NewZealandNationals2023/results/all#eclock_f) | 4 |
-| 98 | [Conan Mo](https://www.worldcubeassociation.org/persons/2020MOCO01) | 5.07 | **5.68** | [Olsztyn Open 2023](https://www.worldcubeassociation.org/competitions/OlsztynOpen2023/results/all#eclock_f) | 5 |
-| 99 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | 5.47 | **5.68** | [Swallow Spring 2023](https://www.worldcubeassociation.org/competitions/SwallowSpring2023/results/all#eclock_f) | 5 |
-| 100 | [Lucas Kuczaj](https://www.worldcubeassociation.org/persons/2018KUCZ01) | 4.66 | **5.69** | [Texas Championship 2023](https://www.worldcubeassociation.org/competitions/TexasChampionship2023/results/all#eclock_f) | 4 |
+| 80 | [Harsha Paladugu](https://www.worldcubeassociation.org/persons/2017PALA08) | 4.52 | **5.58** | [Ohio State Madness 2024](https://www.worldcubeassociation.org/competitions/OhioStateWeekendofMadness2024/results/all#eclock_f) | 4 |
+| 81 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 4.70 | **5.58** | [Ice Cubing Szczecinek 2024](https://www.worldcubeassociation.org/competitions/IceCubingSzczecinek2024/results/all#eclock_f) | 9 |
+| 82 | [Brayden Thompson](https://www.worldcubeassociation.org/persons/2022THOM14) | 4.88 | **5.58** | [Naperville Summer 2023](https://www.worldcubeassociation.org/competitions/NapervilleSummer2023/results/all#eclock_f) | 4 |
+| 83 | [Cameron Miller](https://www.worldcubeassociation.org/persons/2018MILL08) | 4.99 | **5.58** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#eclock_f) | 13 |
+| 84 | [Kevin Min](https://www.worldcubeassociation.org/persons/2015MINK04) | 5.08 | **5.58** | [Cuber Jackets Fall 2023](https://www.worldcubeassociation.org/competitions/CuberJacketsFall2023/results/all#eclock_f) | 4 |
+| 85 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | 5.11 | **5.58** | [Three Attempts Chicago 2022](https://www.worldcubeassociation.org/competitions/ThreeAttemptsChicago2022/results/all#eclock_f) | 4 |
+| 86 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 4.60 | **5.59** | [Dragon Cubing II 2023](https://www.worldcubeassociation.org/competitions/DragonCubingII2023/results/all#eclock_f) | 4 |
+| 87 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | 5.20 | **5.60** | [North Star Cubing Challenge 2024](https://www.worldcubeassociation.org/competitions/NorthStarCubingChallenge2024/results/all#eclock_f) | 5 |
+| 88 | [Max Walaszek](https://www.worldcubeassociation.org/persons/2018WALA01) | 4.91 | **5.61** | [Naperville Winter B 2022](https://www.worldcubeassociation.org/competitions/NapervilleWinterB2022/results/all#eclock_f) | 4 |
+| 89 | [Fiona Bao](https://www.worldcubeassociation.org/persons/2022BAOF01) | 4.50 | **5.62** | [Cuber Jackets Fall 2023](https://www.worldcubeassociation.org/competitions/CuberJacketsFall2023/results/all#eclock_f) | 5 |
+| 90 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) | 4.93 | **5.62** | [Dutch Nationals 2023](https://www.worldcubeassociation.org/competitions/DutchNationals2023/results/all#eclock_c) | 6 |
+| 91 | [Junqi Feng (冯骏骐)](https://www.worldcubeassociation.org/persons/2015FENG12) | 4.80 | **5.63** | [Australian Nationals 2023](https://www.worldcubeassociation.org/competitions/AustralianNationals2023/results/all#eclock_f) | 4 |
+| 92 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 4.77 | **5.64** | [Pyraminx in Pewaukee 2023](https://www.worldcubeassociation.org/competitions/PyraminxinPewaukee2023/results/all#eclock_f) | 4 |
+| 93 | [Luis Garcia](https://www.worldcubeassociation.org/persons/2022GARC01) | 4.69 | **5.65** | [Beat the Clock Westminster 2024](https://www.worldcubeassociation.org/competitions/BeattheClockWestminster2024/results/all#eclock_f) | 7 |
+| 94 | [Elyas Eyou](https://www.worldcubeassociation.org/persons/2018EYOU02) | 4.53 | **5.67** | [NZ South Island Champs 2023](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2023/results/all#eclock_f) | 4 |
+| 95 | [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) | 4.75 | **5.67** | [Beskid Cubing 2023](https://www.worldcubeassociation.org/competitions/BeskidCubing2023/results/all#eclock_f) | 5 |
+| 96 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 4.14 | **5.68** | [Naperville Summer 2023](https://www.worldcubeassociation.org/competitions/NapervilleSummer2023/results/all#eclock_f) | 5 |
+| 97 | [Luis Kleinheinz](https://www.worldcubeassociation.org/persons/2017KLEI02) | 4.61 | **5.68** | [24 Hours in Flen 2023](https://www.worldcubeassociation.org/competitions/24HoursinFlen2023/results/all#eclock_f) | 5 |
+| 98 | [Elyas Eyou](https://www.worldcubeassociation.org/persons/2018EYOU02) | 4.92 | **5.68** | [New Zealand Nationals 2023](https://www.worldcubeassociation.org/competitions/NewZealandNationals2023/results/all#eclock_f) | 4 |
+| 99 | [Conan Mo](https://www.worldcubeassociation.org/persons/2020MOCO01) | 5.07 | **5.68** | [Olsztyn Open 2023](https://www.worldcubeassociation.org/competitions/OlsztynOpen2023/results/all#eclock_f) | 5 |
+| 100 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | 5.47 | **5.68** | [Swallow Spring 2023](https://www.worldcubeassociation.org/competitions/SwallowSpring2023/results/all#eclock_f) | 5 |
 
 ### Skewb
 

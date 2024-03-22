@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 20 March 2024*
+*Updated on 22 March 2024*
 
 
 ### Rubik's Cube
@@ -1653,20 +1653,20 @@
 | 41 | [Weston Mizumoto](https://www.worldcubeassociation.org/persons/2008MIZU01) | 5 |
 | 42 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 5 |
 | 43 | [Morten Arborg](https://www.worldcubeassociation.org/persons/2010ARBO01) | 5 |
-| 44 | [Shotaro Makisumi (牧角章太郎)](https://www.worldcubeassociation.org/persons/2003MAKI01) | 4 |
-| 45 | [Anssi Vanhala](https://www.worldcubeassociation.org/persons/2005VANH01) | 4 |
-| 46 | [Thibaut Jacquinot](https://www.worldcubeassociation.org/persons/2006JACQ01) | 4 |
-| 47 | [Phillip Espinoza](https://www.worldcubeassociation.org/persons/2007ESPI01) | 4 |
-| 48 | [Shuhei Omura (大村周平)](https://www.worldcubeassociation.org/persons/2007OMUR01) | 4 |
-| 49 | [Collin Burns](https://www.worldcubeassociation.org/persons/2010BURN01) | 4 |
-| 50 | [Alexey Polyashov](https://www.worldcubeassociation.org/persons/2010POLY01) | 4 |
-| 51 | [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) | 4 |
-| 52 | [Bhargav Narasimhan](https://www.worldcubeassociation.org/persons/2011NARA02) | 4 |
-| 53 | [Dmitry Zvyagintsev](https://www.worldcubeassociation.org/persons/2011ZVYA01) | 4 |
-| 54 | [Kian Mansour](https://www.worldcubeassociation.org/persons/2015MANS03) | 4 |
-| 55 | [Tee Kai Yang](https://www.worldcubeassociation.org/persons/2017YANG59) | 4 |
-| 56 | [Yibo Wang (王奕博)](https://www.worldcubeassociation.org/persons/2018WANG39) | 4 |
-| 57 | [Magnus Lensch](https://www.worldcubeassociation.org/persons/2019LENS01) | 4 |
+| 44 | [Magnus Lensch](https://www.worldcubeassociation.org/persons/2019LENS01) | 5 |
+| 45 | [Shotaro Makisumi (牧角章太郎)](https://www.worldcubeassociation.org/persons/2003MAKI01) | 4 |
+| 46 | [Anssi Vanhala](https://www.worldcubeassociation.org/persons/2005VANH01) | 4 |
+| 47 | [Thibaut Jacquinot](https://www.worldcubeassociation.org/persons/2006JACQ01) | 4 |
+| 48 | [Phillip Espinoza](https://www.worldcubeassociation.org/persons/2007ESPI01) | 4 |
+| 49 | [Shuhei Omura (大村周平)](https://www.worldcubeassociation.org/persons/2007OMUR01) | 4 |
+| 50 | [Collin Burns](https://www.worldcubeassociation.org/persons/2010BURN01) | 4 |
+| 51 | [Alexey Polyashov](https://www.worldcubeassociation.org/persons/2010POLY01) | 4 |
+| 52 | [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) | 4 |
+| 53 | [Bhargav Narasimhan](https://www.worldcubeassociation.org/persons/2011NARA02) | 4 |
+| 54 | [Dmitry Zvyagintsev](https://www.worldcubeassociation.org/persons/2011ZVYA01) | 4 |
+| 55 | [Kian Mansour](https://www.worldcubeassociation.org/persons/2015MANS03) | 4 |
+| 56 | [Tee Kai Yang](https://www.worldcubeassociation.org/persons/2017YANG59) | 4 |
+| 57 | [Yibo Wang (王奕博)](https://www.worldcubeassociation.org/persons/2018WANG39) | 4 |
 | 58 | [Justin Adsuara](https://www.worldcubeassociation.org/persons/2007ADSU01) | 3 |
 | 59 | [Harris Chan](https://www.worldcubeassociation.org/persons/2007CHAN07) | 3 |
 | 60 | [Dan Cohen](https://www.worldcubeassociation.org/persons/2007COHE01) | 3 |
@@ -1853,21 +1853,21 @@
 | 36 | [Kamil Zieliński](https://www.worldcubeassociation.org/persons/2008ZIEL01) | 5 |
 | 37 | [Krzysztof Natusiewicz](https://www.worldcubeassociation.org/persons/2011NATU01) | 5 |
 | 38 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) | 5 |
-| 39 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) | 5 |
-| 40 | [Heewon Seo](https://www.worldcubeassociation.org/persons/2017SEOH01) | 5 |
-| 41 | [Gunnar Kantare Krig](https://www.worldcubeassociation.org/persons/2004KRIG01) | 4 |
-| 42 | [Daniel Hayes](https://www.worldcubeassociation.org/persons/2005HAYE01) | 4 |
-| 43 | [Takumi Yoshida (吉田匠)](https://www.worldcubeassociation.org/persons/2007YOSH01) | 4 |
-| 44 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) | 4 |
-| 45 | [Gomain Ngernseng (โกเมน เงินเส็ง)](https://www.worldcubeassociation.org/persons/2009NGER01) | 4 |
-| 46 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 4 |
-| 47 | [Leopoldo Andrés Ibarra Fuentes](https://www.worldcubeassociation.org/persons/2010FUEN01) | 4 |
-| 48 | [Jaka Wahyu Hidayat](https://www.worldcubeassociation.org/persons/2010HIDA01) | 4 |
-| 49 | [Chris Wall](https://www.worldcubeassociation.org/persons/2011WALL02) | 4 |
-| 50 | [Phillip Lewicki](https://www.worldcubeassociation.org/persons/2012LEWI01) | 4 |
-| 51 | [Victor Rafael Ortiz Villaseñor](https://www.worldcubeassociation.org/persons/2013VILL01) | 4 |
-| 52 | [Ray Bai](https://www.worldcubeassociation.org/persons/2014BAIR01) | 4 |
-| 53 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) | 4 |
+| 39 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) | 5 |
+| 40 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) | 5 |
+| 41 | [Heewon Seo](https://www.worldcubeassociation.org/persons/2017SEOH01) | 5 |
+| 42 | [Gunnar Kantare Krig](https://www.worldcubeassociation.org/persons/2004KRIG01) | 4 |
+| 43 | [Daniel Hayes](https://www.worldcubeassociation.org/persons/2005HAYE01) | 4 |
+| 44 | [Takumi Yoshida (吉田匠)](https://www.worldcubeassociation.org/persons/2007YOSH01) | 4 |
+| 45 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) | 4 |
+| 46 | [Gomain Ngernseng (โกเมน เงินเส็ง)](https://www.worldcubeassociation.org/persons/2009NGER01) | 4 |
+| 47 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 4 |
+| 48 | [Leopoldo Andrés Ibarra Fuentes](https://www.worldcubeassociation.org/persons/2010FUEN01) | 4 |
+| 49 | [Jaka Wahyu Hidayat](https://www.worldcubeassociation.org/persons/2010HIDA01) | 4 |
+| 50 | [Chris Wall](https://www.worldcubeassociation.org/persons/2011WALL02) | 4 |
+| 51 | [Phillip Lewicki](https://www.worldcubeassociation.org/persons/2012LEWI01) | 4 |
+| 52 | [Victor Rafael Ortiz Villaseñor](https://www.worldcubeassociation.org/persons/2013VILL01) | 4 |
+| 53 | [Ray Bai](https://www.worldcubeassociation.org/persons/2014BAIR01) | 4 |
 | 54 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | 4 |
 | 55 | [Gergely Novotni](https://www.worldcubeassociation.org/persons/2016NOVO01) | 4 |
 | 56 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 4 |
@@ -2266,10 +2266,10 @@
 | 39 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 6 |
 | 40 | [Vishwa Sankar](https://www.worldcubeassociation.org/persons/2017SANK04) | 6 |
 | 41 | [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) | 6 |
-| 42 | [Yu Sajima (佐島優)](https://www.worldcubeassociation.org/persons/2008SAJI01) | 5 |
-| 43 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 5 |
-| 44 | [Silas Starling](https://www.worldcubeassociation.org/persons/2017STAR04) | 5 |
-| 45 | [Reed W. Richardson](https://www.worldcubeassociation.org/persons/2021RICH02) | 5 |
+| 42 | [Reed W. Richardson](https://www.worldcubeassociation.org/persons/2021RICH02) | 6 |
+| 43 | [Yu Sajima (佐島優)](https://www.worldcubeassociation.org/persons/2008SAJI01) | 5 |
+| 44 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 5 |
+| 45 | [Silas Starling](https://www.worldcubeassociation.org/persons/2017STAR04) | 5 |
 | 46 | [Gunnar Kantare Krig](https://www.worldcubeassociation.org/persons/2004KRIG01) | 4 |
 | 47 | [Rafał Studnicki](https://www.worldcubeassociation.org/persons/2005STUD01) | 4 |
 | 48 | [Gábor Szabó](https://www.worldcubeassociation.org/persons/2005SZAB02) | 4 |
@@ -2423,8 +2423,8 @@
 | 196 | [Mykhailo Akhunov (Михайло Ахунов)](https://www.worldcubeassociation.org/persons/2017AKHU02) | 1 |
 | 197 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 1 |
 | 198 | [Nachuan Sun (孙纳川)](https://www.worldcubeassociation.org/persons/2017SUNN02) | 1 |
-| 199 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) | 1 |
-| 200 | [Oliver Castledine](https://www.worldcubeassociation.org/persons/2018CAST08) | 1 |
+| 199 | [Oliver Castledine](https://www.worldcubeassociation.org/persons/2018CAST08) | 1 |
+| 200 | [Darby Lee](https://www.worldcubeassociation.org/persons/2018LEED03) | 1 |
 
 ### Skewb
 

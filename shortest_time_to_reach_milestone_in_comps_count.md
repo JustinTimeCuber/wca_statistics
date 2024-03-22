@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 20 March 2024*
+*Updated on 22 March 2024*
 
 
 ### 200 Competitions
@@ -701,8 +701,8 @@
 | 183 | 631 | [Aileen Vo](https://www.worldcubeassociation.org/persons/2021VOAI01) |
 | 184 | 631 | [Caleb Retik](https://www.worldcubeassociation.org/persons/2022RETI01) |
 | 185 | 638 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
-| 186 | 638 | [Guanbo Wang (王冠博)](https://www.worldcubeassociation.org/persons/2018WANG35) |
-| 187 | 638 | [Yibo Wang (王奕博)](https://www.worldcubeassociation.org/persons/2018WANG39) |
+| 186 | 638 | [Yibo Wang (王奕博)](https://www.worldcubeassociation.org/persons/2018WANG39) |
+| 187 | 638 | [Guanbo Wang (王冠博)](https://www.worldcubeassociation.org/persons/2018WANG35) |
 | 188 | 638 | [Teemu Jokela](https://www.worldcubeassociation.org/persons/2021JOKE01) |
 | 189 | 638 | [Eric A. Peterson](https://www.worldcubeassociation.org/persons/2022PETE03) |
 | 190 | 638 | [Przemysław Malinowski](https://www.worldcubeassociation.org/persons/2022MALI01) |
@@ -901,9 +901,9 @@
 | 178 | 218 | [Daniel Ng](https://www.worldcubeassociation.org/persons/2022NGDA01) |
 | 179 | 218 | [Michael (陈佳伟)](https://www.worldcubeassociation.org/persons/2022MICH13) |
 | 180 | 218 | [Santino Signorile](https://www.worldcubeassociation.org/persons/2022SIGN01) |
-| 181 | 218 | [Harry Ma](https://www.worldcubeassociation.org/persons/2023MAHA01) |
-| 182 | 218 | [Hayden Ma](https://www.worldcubeassociation.org/persons/2023MAHA02) |
-| 183 | 218 | [Jakub Łebkowski](https://www.worldcubeassociation.org/persons/2023LEBK01) |
+| 181 | 218 | [Jakub Łebkowski](https://www.worldcubeassociation.org/persons/2023LEBK01) |
+| 182 | 218 | [Harry Ma](https://www.worldcubeassociation.org/persons/2023MAHA01) |
+| 183 | 218 | [Hayden Ma](https://www.worldcubeassociation.org/persons/2023MAHA02) |
 | 184 | 218 | [Eetu Lae](https://www.worldcubeassociation.org/persons/2023LAEE01) |
 | 185 | 218 | [Ahilan Arumugam](https://www.worldcubeassociation.org/persons/2023ARUM01) |
 | 186 | 218 | [Matei Corjos](https://www.worldcubeassociation.org/persons/2023CORJ01) |
@@ -1035,9 +1035,9 @@
 | 107 | 77 | [Edward Leung](https://www.worldcubeassociation.org/persons/2019LEUN05) |
 | 108 | 77 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) |
 | 109 | 77 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) |
-| 110 | 77 | [Evan Zhou](https://www.worldcubeassociation.org/persons/2022ZHOU04) |
-| 111 | 77 | [Joseph Mangapot](https://www.worldcubeassociation.org/persons/2022MANG01) |
-| 112 | 77 | [Patrick Shi](https://www.worldcubeassociation.org/persons/2022SHIP01) |
+| 110 | 77 | [Joseph Mangapot](https://www.worldcubeassociation.org/persons/2022MANG01) |
+| 111 | 77 | [Patrick Shi](https://www.worldcubeassociation.org/persons/2022SHIP01) |
+| 112 | 77 | [Evan Zhou](https://www.worldcubeassociation.org/persons/2022ZHOU04) |
 | 113 | 77 | [Katsumasa Hamaguchi](https://www.worldcubeassociation.org/persons/2022HAMA02) |
 | 114 | 77 | [Heleen van der Ree](https://www.worldcubeassociation.org/persons/2022REEH01) |
 | 115 | 77 | [Benton Tolley](https://www.worldcubeassociation.org/persons/2023TOLL02) |
