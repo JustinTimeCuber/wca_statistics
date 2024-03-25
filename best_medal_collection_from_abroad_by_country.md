@@ -1,19 +1,19 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 22 March 2024*
+*Updated on 25 March 2024*
 
 | Rank | Country | Gold | Silver | Bronze | Total |
 | :--- | :--- | :--: | :--: | :--: | :--: |
 | 1 | Hungary | **1402** | 1175 | 1012 | 3589 |
-| 2 | Germany | **1049** | 989 | 1003 | 3041 |
+| 2 | Germany | **1050** | 990 | 1003 | 3043 |
 | 3 | United States | **1046** | 865 | 776 | 2687 |
 | 4 | France | **937** | 804 | 686 | 2427 |
 | 5 | Netherlands | **913** | 728 | 604 | 2245 |
 | 6 | Russia | **867** | 510 | 400 | 1777 |
 | 7 | China | **664** | 622 | 566 | 1852 |
-| 8 | Poland | **594** | 384 | 295 | 1273 |
-| 9 | Malaysia | **405** | 405 | 372 | 1182 |
+| 8 | Poland | **595** | 386 | 295 | 1276 |
+| 9 | Malaysia | **405** | 406 | 373 | 1184 |
 | 10 | United Kingdom | **400** | 458 | 438 | 1296 |
 | 11 | Canada | **372** | 385 | 412 | 1169 |
 | 12 | Denmark | **354** | 298 | 238 | 890 |
@@ -21,12 +21,12 @@
 | 14 | Sweden | **307** | 352 | 364 | 1023 |
 | 15 | Hong Kong, China | **298** | 316 | 243 | 857 |
 | 16 | Australia | **290** | 136 | 92 | 518 |
-| 17 | India | **286** | 255 | 250 | 791 |
-| 18 | Switzerland | **279** | 389 | 304 | 972 |
+| 17 | India | **286** | 255 | 251 | 792 |
+| 18 | Switzerland | **279** | 390 | 305 | 974 |
 | 19 | Finland | **275** | 211 | 175 | 661 |
 | 20 | Italy | **235** | 222 | 209 | 666 |
 | 21 | Argentina | **233** | 172 | 143 | 548 |
-| 22 | Ukraine | **230** | 241 | 254 | 725 |
+| 22 | Ukraine | **230** | 244 | 254 | 728 |
 | 23 | Chinese Taipei | **214** | 185 | 183 | 582 |
 | 24 | Romania | **203** | 148 | 128 | 479 |
 | 25 | Japan | **202** | 138 | 137 | 477 |
@@ -50,7 +50,7 @@
 | 43 | Norway | **74** | 83 | 100 | 257 |
 | 44 | Philippines | **70** | 87 | 86 | 243 |
 | 45 | Guatemala | **61** | 38 | 42 | 141 |
-| 46 | Vietnam | **60** | 85 | 71 | 216 |
+| 46 | Vietnam | **60** | 86 | 72 | 218 |
 | 47 | Croatia | **58** | 94 | 74 | 226 |
 | 48 | Brazil | **56** | 68 | 40 | 164 |
 | 49 | Estonia | **50** | 54 | 45 | 149 |
@@ -64,10 +64,10 @@
 | 57 | Chile | **29** | 22 | 20 | 71 |
 | 58 | Costa Rica | **27** | 35 | 28 | 90 |
 | 59 | Serbia | **26** | 34 | 34 | 94 |
-| 60 | Kyrgyzstan | **24** | 31 | 36 | 91 |
-| 61 | Belize | **24** | 6 | 1 | 31 |
-| 62 | Portugal | **23** | 23 | 24 | 70 |
-| 63 | Iran | **22** | 21 | 18 | 61 |
+| 60 | Iran | **26** | 22 | 20 | 68 |
+| 61 | Kyrgyzstan | **25** | 34 | 37 | 96 |
+| 62 | Belize | **24** | 6 | 1 | 31 |
+| 63 | Portugal | **23** | 23 | 24 | 70 |
 | 64 | El Salvador | **21** | 24 | 19 | 64 |
 | 65 | Pakistan | **21** | 15 | 16 | 52 |
 | 66 | North Macedonia | **17** | 20 | 27 | 64 |
@@ -107,18 +107,19 @@
 | 100 | Oman | **1** | 2 | 3 | 6 |
 | 101 | Algeria | **1** | 1 | 11 | 13 |
 | 102 | United Arab Emirates | **1** | 0 | 2 | 3 |
-| 103 | Cuba | **1** | 0 | 0 | 1 |
-| 104 | Albania | **0** | 3 | 2 | 5 |
-| 105 | Saint Kitts and Nevis | **0** | 3 | 0 | 3 |
-| 106 | Azerbaijan | **0** | 2 | 3 | 5 |
-| 107 | Dominican Republic | **0** | 2 | 2 | 4 |
-| 108 | Syria | **0** | 2 | 0 | 2 |
-| 109 | Togo | **0** | 1 | 5 | 6 |
-| 110 | Zimbabwe | **0** | 1 | 3 | 4 |
-| 111 | Kenya | **0** | 1 | 1 | 2 |
-| 112 | Nepal | **0** | 1 | 0 | 1 |
-| 113 | Côte d'Ivoire | **0** | 0 | 1 | 1 |
-| 114 | Mauritius | **0** | 0 | 1 | 1 |
+| 103 | Andorra | **1** | 0 | 0 | 1 |
+| 104 | Cuba | **1** | 0 | 0 | 1 |
+| 105 | Albania | **0** | 3 | 2 | 5 |
+| 106 | Saint Kitts and Nevis | **0** | 3 | 0 | 3 |
+| 107 | Azerbaijan | **0** | 2 | 3 | 5 |
+| 108 | Dominican Republic | **0** | 2 | 2 | 4 |
+| 109 | Syria | **0** | 2 | 0 | 2 |
+| 110 | Togo | **0** | 1 | 5 | 6 |
+| 111 | Zimbabwe | **0** | 1 | 3 | 4 |
+| 112 | Kenya | **0** | 1 | 1 | 2 |
+| 113 | Nepal | **0** | 1 | 0 | 1 |
+| 114 | Côte d'Ivoire | **0** | 0 | 1 | 1 |
+| 115 | Mauritius | **0** | 0 | 1 | 1 |
 
 
 <a href="https://github.com/JustinTimeCuber/wca_statistics" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>
