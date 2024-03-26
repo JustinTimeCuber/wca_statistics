@@ -1,3 +1,4 @@
+This is a fork of [Jonatan Klosko's WCA statistics page](https://jonatanklosko.github.io/wca_statistics/) that I (Justin Barker) created to implement some small tweaks and extra statistics. See the [GitHub page](https://github.com/JustinTimeCuber/wca_statistics) for more information.
 - [Average event count by competition](average_event_count_by_competition)
 - [Average of 5](average_of_5)
 - [Average of 12](average_of_12)
@@ -33,6 +34,7 @@
 - [Most 4th places](most_4th_places)
 - [Most attended competitions in a single month](most_attended_competitions_in_single_month)
 - [Most attended competitions in a single week](most_attended_competitions_in_single_week)
+- [Most attended competitions in a single year](most_attended_competitions_in_single_year)
 - [Most competitions abroad](most_competitions_abroad)
 - [Most competitions before winning](most_competitions_before_winning)
 - [Most completed solves](most_completed_solves)
