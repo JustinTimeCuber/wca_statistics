@@ -5,6 +5,7 @@ This is a fork of [Jonatan Klosko's WCA statistics page](https://jonatanklosko.g
 - [Average of 25](average_of_25)
 - [Average of 50](average_of_50)
 - [Average of 100](average_of_100)
+- [Average of 1000](average_of_1000)
 - [Best first average](best_first_average)
 - [Best first single](best_first_single)
 - [Best medal collection from abroad by country](best_medal_collection_from_abroad_by_country)
