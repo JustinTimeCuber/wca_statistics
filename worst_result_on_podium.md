@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on 25 March 2024*
+*Updated on 28 March 2024*
 
 
 ### Rubik's Cube
@@ -791,7 +791,7 @@
 | 46 | [Alexandre Toledo Guillén](https://www.worldcubeassociation.org/persons/2005TOLE01) | 45 | **51.00** | [Molina Open 2014](https://www.worldcubeassociation.org/competitions/MolinaOpen2014/results/podiums#e333fm) | 2 |
 | 47 | [Jurgens Filiaggi](https://www.worldcubeassociation.org/persons/2013FILI01) | 49 | **50.67** | [ULA Rubiks 2014](https://www.worldcubeassociation.org/competitions/ULARubiks2014/results/podiums#e333fm) | 2 |
 | 48 | [Matthew Dickman](https://www.worldcubeassociation.org/persons/2013DICK01) | 48 | **50.67** | [Eugene 3x3 Mania 2017](https://www.worldcubeassociation.org/competitions/Eugene3x3Mania2017/results/podiums#e333fm) | 3 |
-| 49 | [CC Connolly](https://www.worldcubeassociation.org/persons/2017CONN04) | 46 | **50.67** | [DFW With A Twist 2019](https://www.worldcubeassociation.org/competitions/DFWWithATwist2019/results/podiums#e333fm) | 2 |
+| 49 | [Catherine Connolly](https://www.worldcubeassociation.org/persons/2017CONN04) | 46 | **50.67** | [DFW With A Twist 2019](https://www.worldcubeassociation.org/competitions/DFWWithATwist2019/results/podiums#e333fm) | 2 |
 | 50 | [Neil Gour](https://www.worldcubeassociation.org/persons/2022GOUR01) | 45 | **50.67** | [Side Events Bangalore Jan 2024](https://www.worldcubeassociation.org/competitions/SideEventsBangaloreJan2024/results/podiums#e333fm) | 2 |
 | 51 | [Nikita Nifatov (Никита Нифатов)](https://www.worldcubeassociation.org/persons/2018NIFA01) | 38 | **50.67** | [Udmurtia Open 2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019/results/podiums#e333fm) | 3 |
 | 52 | [Claudio Andre Gomez Villca](https://www.worldcubeassociation.org/persons/2017VILL42) | 48 | **50.33** | [Por el Honor 2018](https://www.worldcubeassociation.org/competitions/PorelHonor2018/results/podiums#e333fm) | 3 |
