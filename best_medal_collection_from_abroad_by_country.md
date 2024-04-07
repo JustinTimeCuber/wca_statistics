@@ -1,27 +1,27 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on  5 April 2024*
+*Updated on  7 April 2024*
 
 | Rank | Country | Gold | Silver | Bronze | Total |
 | :--- | :--- | :--: | :--: | :--: | :--: |
 | 1 | Hungary | **1402** | 1175 | 1013 | 3590 |
-| 2 | Germany | **1061** | 1002 | 1016 | 3079 |
-| 3 | United States | **1060** | 874 | 781 | 2715 |
+| 2 | United States | **1062** | 878 | 784 | 2724 |
+| 3 | Germany | **1061** | 1003 | 1016 | 3080 |
 | 4 | France | **937** | 806 | 687 | 2430 |
-| 5 | Netherlands | **924** | 734 | 610 | 2268 |
+| 5 | Netherlands | **927** | 734 | 611 | 2272 |
 | 6 | Russia | **873** | 516 | 401 | 1790 |
-| 7 | China | **673** | 632 | 571 | 1876 |
+| 7 | China | **674** | 633 | 572 | 1879 |
 | 8 | Poland | **596** | 387 | 295 | 1278 |
 | 9 | Malaysia | **405** | 406 | 377 | 1188 |
 | 10 | United Kingdom | **400** | 458 | 438 | 1296 |
-| 11 | Canada | **374** | 385 | 413 | 1172 |
+| 11 | Canada | **375** | 386 | 413 | 1174 |
 | 12 | Denmark | **354** | 299 | 238 | 891 |
 | 13 | Republic of Korea | **332** | 289 | 255 | 876 |
 | 14 | Sweden | **307** | 352 | 364 | 1023 |
 | 15 | Hong Kong, China | **299** | 318 | 246 | 863 |
 | 16 | Australia | **290** | 136 | 92 | 518 |
-| 17 | India | **288** | 260 | 255 | 803 |
+| 17 | India | **288** | 260 | 256 | 804 |
 | 18 | Switzerland | **279** | 395 | 307 | 981 |
 | 19 | Finland | **275** | 211 | 175 | 661 |
 | 20 | Italy | **237** | 225 | 210 | 672 |
@@ -43,7 +43,7 @@
 | 36 | Greece | **120** | 148 | 110 | 378 |
 | 37 | Czech Republic | **111** | 118 | 130 | 359 |
 | 38 | Belarus | **111** | 74 | 88 | 273 |
-| 39 | Kazakhstan | **109** | 105 | 99 | 313 |
+| 39 | Kazakhstan | **109** | 105 | 101 | 315 |
 | 40 | Thailand | **86** | 90 | 45 | 221 |
 | 41 | Slovakia | **79** | 91 | 99 | 269 |
 | 42 | Lithuania | **76** | 74 | 88 | 238 |
@@ -83,7 +83,7 @@
 | 76 | Kuwait | **9** | 8 | 18 | 35 |
 | 77 | Bosnia and Herzegovina | **8** | 21 | 11 | 40 |
 | 78 | Cyprus | **8** | 18 | 16 | 42 |
-| 79 | Morocco | **8** | 8 | 12 | 28 |
+| 79 | Morocco | **8** | 11 | 12 | 31 |
 | 80 | Moldova | **7** | 12 | 7 | 26 |
 | 81 | Georgia | **7** | 10 | 9 | 26 |
 | 82 | Panama | **7** | 7 | 8 | 22 |

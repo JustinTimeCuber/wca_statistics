@@ -1,22 +1,22 @@
 ## Competition days count by region
 
-*Updated on  5 April 2024*
+*Updated on  7 April 2024*
 
 
 ### World
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.47 | World | 11944 |
+| 1 | 1.47 | World | 11950 |
 
 ### Continents
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.74 | Europe | 3900 |
-| 2 | 1.52 | South America | 1427 |
+| 1 | 1.74 | Europe | 3903 |
+| 2 | 1.52 | South America | 1429 |
 | 3 | 1.47 | Oceania | 529 |
-| 4 | 1.42 | Asia | 2603 |
+| 4 | 1.42 | Asia | 2604 |
 | 5 | 1.27 | Africa | 136 |
 | 6 | 1.21 | North America | 3349 |
 
@@ -29,7 +29,7 @@
 | 3 | 2.00 | Kazakhstan | 47 |
 | 4 | 2.00 | Liechtenstein | 3 |
 | 5 | 2.00 | Uzbekistan | 19 |
-| 6 | 1.94 | Turkey | 88 |
+| 6 | 1.94 | Turkey | 89 |
 | 7 | 1.93 | United Kingdom | 218 |
 | 8 | 1.93 | Belarus | 42 |
 | 9 | 1.92 | Russia | 220 |
@@ -49,7 +49,7 @@
 | 23 | 1.78 | Guatemala | 55 |
 | 24 | 1.78 | Sri Lanka | 9 |
 | 25 | 1.77 | Iceland | 13 |
-| 26 | 1.76 | Brazil | 442 |
+| 26 | 1.76 | Brazil | 443 |
 | 27 | 1.75 | Belgium | 77 |
 | 28 | 1.75 | Kyrgyzstan | 4 |
 | 29 | 1.75 | Palestine | 4 |
@@ -57,12 +57,12 @@
 | 31 | 1.71 | Austria | 28 |
 | 32 | 1.71 | Argentina | 78 |
 | 33 | 1.70 | Poland | 436 |
-| 34 | 1.70 | Ukraine | 128 |
+| 34 | 1.69 | Ukraine | 129 |
 | 35 | 1.67 | Greece | 24 |
 | 36 | 1.67 | Luxembourg | 3 |
 | 37 | 1.67 | North Macedonia | 6 |
 | 38 | 1.64 | Ireland | 58 |
-| 39 | 1.64 | Denmark | 157 |
+| 39 | 1.63 | Denmark | 158 |
 | 40 | 1.63 | Iran | 38 |
 | 41 | 1.63 | New Zealand | 108 |
 | 42 | 1.61 | Indonesia | 208 |
@@ -74,7 +74,7 @@
 | 48 | 1.56 | Sweden | 256 |
 | 49 | 1.54 | Dominican Republic | 26 |
 | 50 | 1.53 | Bolivia | 112 |
-| 51 | 1.51 | Malaysia | 86 |
+| 51 | 1.51 | Malaysia | 87 |
 | 52 | 1.51 | Peru | 196 |
 | 53 | 1.50 | Belize | 2 |
 | 54 | 1.50 | Ghana | 2 |
@@ -105,8 +105,8 @@
 | 79 | 1.29 | Venezuela | 70 |
 | 80 | 1.27 | Panama | 15 |
 | 81 | 1.25 | China | 634 |
-| 82 | 1.25 | Chile | 120 |
-| 83 | 1.25 | Kuwait | 8 |
+| 82 | 1.25 | Kuwait | 8 |
+| 83 | 1.25 | Chile | 121 |
 | 84 | 1.23 | Uruguay | 48 |
 | 85 | 1.22 | Bahrain | 9 |
 | 86 | 1.21 | Japan | 226 |

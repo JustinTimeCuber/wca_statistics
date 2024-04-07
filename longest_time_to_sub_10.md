@@ -1,6 +1,6 @@
 ## Longest time to achieve sub 10 3x3x3 average
 
-*Updated on  5 April 2024*
+*Updated on  7 April 2024*
 
 | Rank | Person | Years |
 | :--- | :--- | ---: |
@@ -965,8 +965,8 @@
 | 959 | [Nguyễn Xuân Đức](https://www.worldcubeassociation.org/persons/2017DUCN01) | 4.91 |
 | 960 | [Griffin Clem](https://www.worldcubeassociation.org/persons/2018CLEM05) | 4.91 |
 | 961 | [David Brady](https://www.worldcubeassociation.org/persons/2018BRAD07) | 4.91 |
-| 962 | [Jinxuan Ni (倪锦旋)](https://www.worldcubeassociation.org/persons/2019NIJI01) | 4.91 |
-| 963 | [Konrad Kowalski](https://www.worldcubeassociation.org/persons/2018KOWA05) | 4.91 |
+| 962 | [Konrad Kowalski](https://www.worldcubeassociation.org/persons/2018KOWA05) | 4.91 |
+| 963 | [Jinxuan Ni (倪锦旋)](https://www.worldcubeassociation.org/persons/2019NIJI01) | 4.91 |
 | 964 | [Gabriel Barrios](https://www.worldcubeassociation.org/persons/2014BARR02) | 4.91 |
 | 965 | [Arhaan Sareen](https://www.worldcubeassociation.org/persons/2017SARE03) | 4.91 |
 | 966 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 4.90 |
@@ -977,10 +977,10 @@
 | 971 | [Johan Svensson](https://www.worldcubeassociation.org/persons/2011SVEN02) | 4.89 |
 | 972 | [Louis de Mendonça](https://www.worldcubeassociation.org/persons/2013MEND03) | 4.89 |
 | 973 | [Dylan Johnston](https://www.worldcubeassociation.org/persons/2018JOHN34) | 4.88 |
-| 974 | [Guy Taragano](https://www.worldcubeassociation.org/persons/2019TARA03) | 4.88 |
-| 975 | [Ethan Zhuang](https://www.worldcubeassociation.org/persons/2018ZHUA10) | 4.88 |
-| 976 | [Brandon Villadolid](https://www.worldcubeassociation.org/persons/2019VILL03) | 4.87 |
-| 977 | [Elliott Perkins](https://www.worldcubeassociation.org/persons/2018PERK01) | 4.87 |
+| 974 | [Ethan Zhuang](https://www.worldcubeassociation.org/persons/2018ZHUA10) | 4.88 |
+| 975 | [Guy Taragano](https://www.worldcubeassociation.org/persons/2019TARA03) | 4.88 |
+| 976 | [Elliott Perkins](https://www.worldcubeassociation.org/persons/2018PERK01) | 4.87 |
+| 977 | [Brandon Villadolid](https://www.worldcubeassociation.org/persons/2019VILL03) | 4.87 |
 | 978 | [MinGwan Yeo (여민관)](https://www.worldcubeassociation.org/persons/2018MING07) | 4.87 |
 | 979 | [Theo Mayer](https://www.worldcubeassociation.org/persons/2012MAYE01) | 4.87 |
 | 980 | [Leo Lindqvist](https://www.worldcubeassociation.org/persons/2017LIND01) | 4.87 |
@@ -989,8 +989,8 @@
 | 983 | [Isaac Lai Yin Chung](https://www.worldcubeassociation.org/persons/2015LAII01) | 4.87 |
 | 984 | [AJ Le](https://www.worldcubeassociation.org/persons/2018LEAJ01) | 4.85 |
 | 985 | [Jacob Miko Tan (陈在元)](https://www.worldcubeassociation.org/persons/2018TANJ05) | 4.85 |
-| 986 | [Alen Alimzhanov (Ален Алимжанов)](https://www.worldcubeassociation.org/persons/2019ALIM02) | 4.85 |
-| 987 | [Fikri Ahmad Nabigha](https://www.worldcubeassociation.org/persons/2018NABI03) | 4.85 |
+| 986 | [Fikri Ahmad Nabigha](https://www.worldcubeassociation.org/persons/2018NABI03) | 4.85 |
+| 987 | [Alen Alimzhanov (Ален Алимжанов)](https://www.worldcubeassociation.org/persons/2019ALIM02) | 4.85 |
 | 988 | [Dawid Jasiński](https://www.worldcubeassociation.org/persons/2014JASI01) | 4.85 |
 | 989 | [Xiaojie Jiang (蒋孝杰)](https://www.worldcubeassociation.org/persons/2011JIAN15) | 4.85 |
 | 990 | [Miguel Alonso Gil](https://www.worldcubeassociation.org/persons/2017GILM01) | 4.85 |
