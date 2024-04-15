@@ -21,7 +21,6 @@ This is a fork of [Jonatan Klosko's WCA statistics page](https://jonatanklosko.g
 - [Current world records count by country](current_world_records_by_country)
 - [DNF rate by event](dnf_rate_by_event)
 - [Delegated competitions per year](delegated_competition_per_year)
-- [Delegates rankings](delegates_rankings)
 - [Fewest competitors contest](fewest_competitors_contest)
 - [Longest amount of time to reach a milestone in competitions count](longest_time_to_reach_milestone_in_comps_count)
 - [Longest competitions path](longest_competitions_path)
