@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 13 April 2024*
+*Updated on 16 April 2024*
 
 | Rank | WRs | Person |
 | :--- | ---: | :--- |
@@ -25,9 +25,9 @@
 | 19 | 13 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) |
 | 20 | 12 | [Lin Chen (陈霖)](https://www.worldcubeassociation.org/persons/2010CHEN20) |
 | 21 | 12 | [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) |
-| 22 | 11 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
-| 23 | 10 | [Gunnar Kantare Krig](https://www.worldcubeassociation.org/persons/2004KRIG01) |
-| 24 | 10 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) |
+| 22 | 11 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) |
+| 23 | 11 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
+| 24 | 10 | [Gunnar Kantare Krig](https://www.worldcubeassociation.org/persons/2004KRIG01) |
 | 25 | 10 | [Ryan Patricio](https://www.worldcubeassociation.org/persons/2004PATR01) |
 | 26 | 9 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) |
 | 27 | 9 | [Yohei Oka (岡要平)](https://www.worldcubeassociation.org/persons/2006OKAY01) |
