@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  1 May 2024*
+*Updated on  4 May 2024*
 
 
 ### Rubik's Cube
@@ -91,23 +91,23 @@
 | 81 | 0.06 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | 10.41 | 10.47 | [Newcastle-under-Lyme Open 2017](https://www.worldcubeassociation.org/competitions/NewcastleunderLyme2017/results/by_person#2009LIUE01) |
 | 82 | 0.06 | [Antoine Piau](https://www.worldcubeassociation.org/persons/2008PIAU01) | 10.84 | 10.90 | [DYC 2015](https://www.worldcubeassociation.org/competitions/DYCOpen2015/results/by_person#2008PIAU01) |
 | 83 | 0.06 | [Damjan Sredojević](https://www.worldcubeassociation.org/persons/2019SRED01) | 10.87 | 10.93 | [Back To Belgrade 2021](https://www.worldcubeassociation.org/competitions/BackToBelgrade2021/results/by_person#2019SRED01) |
-| 84 | 0.06 | [Shukrullo Ibragimov](https://www.worldcubeassociation.org/persons/2017IBRA05) | 11.22 | 11.28 | [Tashkent Open 2022](https://www.worldcubeassociation.org/competitions/TashkentOpen2022/results/by_person#2017IBRA05) |
-| 85 | 0.06 | [Andrew Thomas Salazar Pacilan](https://www.worldcubeassociation.org/persons/2022PACI02) | 11.25 | 11.31 | [Dumaguete Cube Rendezvous 2023](https://www.worldcubeassociation.org/competitions/DumagueteCubeRendezvous2023/results/by_person#2022PACI02) |
-| 86 | 0.06 | [Fredrik Abildgaard Trondhjem](https://www.worldcubeassociation.org/persons/2011TRON01) | 11.99 | 12.05 | [Østervang Open 2022](https://www.worldcubeassociation.org/competitions/OstervangOpen2022/results/by_person#2011TRON01) |
-| 87 | 0.06 | [Paweł Tomal](https://www.worldcubeassociation.org/persons/2013TOMA01) | 12.27 | 12.33 | [Krakow Cubing Spree 2014](https://www.worldcubeassociation.org/competitions/KrakowCubingSpree2014/results/by_person#2013TOMA01) |
-| 88 | 0.06 | [Vedanth Bharadwaj](https://www.worldcubeassociation.org/persons/2021BHAR01) | 12.82 | 12.88 | [SacCubing XII 2022](https://www.worldcubeassociation.org/competitions/SacCubingXII2022/results/by_person#2021BHAR01) |
-| 89 | 0.06 | [Sarvesh Pillay](https://www.worldcubeassociation.org/persons/2016PILL04) | 13.05 | 13.11 | [Batam Rainy Speedcubing 2017](https://www.worldcubeassociation.org/competitions/BatamRainySpeedcubing2017/results/by_person#2016PILL04) |
-| 90 | 0.06 | [Zhengkai Xu (徐正凯)](https://www.worldcubeassociation.org/persons/2016XUZH06) | 14.42 | 14.48 | [Yancheng Spring 2019](https://www.worldcubeassociation.org/competitions/YanchengSpring2019/results/by_person#2016XUZH06) |
-| 91 | 0.06 | [Ziang Yan (晏子昂)](https://www.worldcubeassociation.org/persons/2017YANZ01) | 14.53 | 14.59 | [Wuhan Chuyun Spring 2017](https://www.worldcubeassociation.org/competitions/WuhanChuyunSpring2017/results/by_person#2017YANZ01) |
-| 92 | 0.06 | [Nadia Ghadban Gimeno](https://www.worldcubeassociation.org/persons/2017GIME01) | 14.57 | 14.63 | [UCLM Cuenca Open 2020](https://www.worldcubeassociation.org/competitions/UCLMCuencaOpen2020/results/by_person#2017GIME01) |
-| 93 | 0.06 | [Bali Catur Pengembara](https://www.worldcubeassociation.org/persons/2010PENG08) | 15.02 | 15.08 | [Indonesian Championship 2016](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2016/results/by_person#2010PENG08) |
-| 94 | 0.06 | [Santiago Rodríguez](https://www.worldcubeassociation.org/persons/2011RODR11) | 15.58 | 15.64 | [Montevideo Open 2014](https://www.worldcubeassociation.org/competitions/MontevideoOpen2014/results/by_person#2011RODR11) |
-| 95 | 0.06 | [Ruiyi Gao (高瑞意)](https://www.worldcubeassociation.org/persons/2018GAOR03) | 16.41 | 16.47 | [Beijing Winter 2019](https://www.worldcubeassociation.org/competitions/BeijingWinter2019/results/by_person#2018GAOR03) |
-| 96 | 0.06 | [Filip Ugovšek](https://www.worldcubeassociation.org/persons/2019UGOV01) | 22.20 | 22.26 | [Speedcubing Slovakia 2022](https://www.worldcubeassociation.org/competitions/SpeedcubingSlovakia2022/results/by_person#2019UGOV01) |
-| 97 | 0.06 | [Muhammad Iril Khairul Anam](https://www.worldcubeassociation.org/persons/2009ANAM01) | 29.46 | 29.52 | [Jakarta Speedcubing 2011](https://www.worldcubeassociation.org/competitions/JakartaSpeedcubing2011/results/by_person#2009ANAM01) |
-| 98 | 0.07 | [Ben Zhao](https://www.worldcubeassociation.org/persons/2017ZHAO79) | 6.57 | 6.64 | [Iowa Fall 2022](https://www.worldcubeassociation.org/competitions/IowaFall2022/results/by_person#2017ZHAO79) |
-| 99 | 0.07 | [Tarak Sai Musunuri](https://www.worldcubeassociation.org/persons/2019MUSU02) | 7.79 | 7.86 | [DC Winter Open 2024](https://www.worldcubeassociation.org/competitions/DCWinterOpen2024/results/by_person#2019MUSU02) |
-| 100 | 0.07 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 7.88 | 7.95 | [Dublin Open 2017](https://www.worldcubeassociation.org/competitions/DublinOpen2017/results/by_person#2012BEAH01) |
+| 84 | 0.06 | [José Miguel Beguiristain](https://www.worldcubeassociation.org/persons/2019BEGU01) | 10.96 | 11.02 | [Urnieta Open 2024](https://www.worldcubeassociation.org/competitions/UrnietaOpen2024/results/by_person#2019BEGU01) |
+| 85 | 0.06 | [Shukrullo Ibragimov](https://www.worldcubeassociation.org/persons/2017IBRA05) | 11.22 | 11.28 | [Tashkent Open 2022](https://www.worldcubeassociation.org/competitions/TashkentOpen2022/results/by_person#2017IBRA05) |
+| 86 | 0.06 | [Andrew Thomas Salazar Pacilan](https://www.worldcubeassociation.org/persons/2022PACI02) | 11.25 | 11.31 | [Dumaguete Cube Rendezvous 2023](https://www.worldcubeassociation.org/competitions/DumagueteCubeRendezvous2023/results/by_person#2022PACI02) |
+| 87 | 0.06 | [Fredrik Abildgaard Trondhjem](https://www.worldcubeassociation.org/persons/2011TRON01) | 11.99 | 12.05 | [Østervang Open 2022](https://www.worldcubeassociation.org/competitions/OstervangOpen2022/results/by_person#2011TRON01) |
+| 88 | 0.06 | [Paweł Tomal](https://www.worldcubeassociation.org/persons/2013TOMA01) | 12.27 | 12.33 | [Krakow Cubing Spree 2014](https://www.worldcubeassociation.org/competitions/KrakowCubingSpree2014/results/by_person#2013TOMA01) |
+| 89 | 0.06 | [Vedanth Bharadwaj](https://www.worldcubeassociation.org/persons/2021BHAR01) | 12.82 | 12.88 | [SacCubing XII 2022](https://www.worldcubeassociation.org/competitions/SacCubingXII2022/results/by_person#2021BHAR01) |
+| 90 | 0.06 | [Sarvesh Pillay](https://www.worldcubeassociation.org/persons/2016PILL04) | 13.05 | 13.11 | [Batam Rainy Speedcubing 2017](https://www.worldcubeassociation.org/competitions/BatamRainySpeedcubing2017/results/by_person#2016PILL04) |
+| 91 | 0.06 | [Zhengkai Xu (徐正凯)](https://www.worldcubeassociation.org/persons/2016XUZH06) | 14.42 | 14.48 | [Yancheng Spring 2019](https://www.worldcubeassociation.org/competitions/YanchengSpring2019/results/by_person#2016XUZH06) |
+| 92 | 0.06 | [Ziang Yan (晏子昂)](https://www.worldcubeassociation.org/persons/2017YANZ01) | 14.53 | 14.59 | [Wuhan Chuyun Spring 2017](https://www.worldcubeassociation.org/competitions/WuhanChuyunSpring2017/results/by_person#2017YANZ01) |
+| 93 | 0.06 | [Nadia Ghadban Gimeno](https://www.worldcubeassociation.org/persons/2017GIME01) | 14.57 | 14.63 | [UCLM Cuenca Open 2020](https://www.worldcubeassociation.org/competitions/UCLMCuencaOpen2020/results/by_person#2017GIME01) |
+| 94 | 0.06 | [Bali Catur Pengembara](https://www.worldcubeassociation.org/persons/2010PENG08) | 15.02 | 15.08 | [Indonesian Championship 2016](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2016/results/by_person#2010PENG08) |
+| 95 | 0.06 | [Santiago Rodríguez](https://www.worldcubeassociation.org/persons/2011RODR11) | 15.58 | 15.64 | [Montevideo Open 2014](https://www.worldcubeassociation.org/competitions/MontevideoOpen2014/results/by_person#2011RODR11) |
+| 96 | 0.06 | [Ruiyi Gao (高瑞意)](https://www.worldcubeassociation.org/persons/2018GAOR03) | 16.41 | 16.47 | [Beijing Winter 2019](https://www.worldcubeassociation.org/competitions/BeijingWinter2019/results/by_person#2018GAOR03) |
+| 97 | 0.06 | [Filip Ugovšek](https://www.worldcubeassociation.org/persons/2019UGOV01) | 22.20 | 22.26 | [Speedcubing Slovakia 2022](https://www.worldcubeassociation.org/competitions/SpeedcubingSlovakia2022/results/by_person#2019UGOV01) |
+| 98 | 0.06 | [Muhammad Iril Khairul Anam](https://www.worldcubeassociation.org/persons/2009ANAM01) | 29.46 | 29.52 | [Jakarta Speedcubing 2011](https://www.worldcubeassociation.org/competitions/JakartaSpeedcubing2011/results/by_person#2009ANAM01) |
+| 99 | 0.07 | [Ben Zhao](https://www.worldcubeassociation.org/persons/2017ZHAO79) | 6.57 | 6.64 | [Iowa Fall 2022](https://www.worldcubeassociation.org/competitions/IowaFall2022/results/by_person#2017ZHAO79) |
+| 100 | 0.07 | [Tarak Sai Musunuri](https://www.worldcubeassociation.org/persons/2019MUSU02) | 7.79 | 7.86 | [DC Winter Open 2024](https://www.worldcubeassociation.org/competitions/DCWinterOpen2024/results/by_person#2019MUSU02) |
 
 ### 2x2x2 Cube
 
@@ -1352,22 +1352,22 @@
 | 82 | 0.24 | [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) | 6.80 | 7.04 | [Utah Snowball Bash 2023](https://www.worldcubeassociation.org/competitions/UtahSnowballBash2023/results/by_person#2014NIEL03) |
 | 83 | 0.24 | [Alexander Weiden](https://www.worldcubeassociation.org/persons/2019WEID04) | 7.72 | 7.96 | [Slopeside Solving 2022](https://www.worldcubeassociation.org/competitions/SlopesideSolving2022/results/by_person#2019WEID04) |
 | 84 | 0.24 | [Ethan Yeh](https://www.worldcubeassociation.org/persons/2020YEHE01) | 8.63 | 8.87 | [Thankful for Cubing RPV 2023](https://www.worldcubeassociation.org/competitions/ThankfulforCubingRPV2023/results/by_person#2020YEHE01) |
-| 85 | 0.24 | [Rui-Jun Liu (劉睿鈞)](https://www.worldcubeassociation.org/persons/2011LIUR02) | 10.44 | 10.68 | [Cube Camp in Kanazawa 2016](https://www.worldcubeassociation.org/competitions/CubeCampinKanazawa2016/results/by_person#2011LIUR02) |
-| 86 | 0.24 | [Mihir A. Rai](https://www.worldcubeassociation.org/persons/2019RAIM03) | 11.14 | 11.38 | [UW or U Don't 2023](https://www.worldcubeassociation.org/competitions/UWorUDont2023/results/by_person#2019RAIM03) |
-| 87 | 0.24 | [Chuan He (何川)](https://www.worldcubeassociation.org/persons/2018HECH05) | 11.86 | 12.10 | [Special Puzzles Guangzhou 2019](https://www.worldcubeassociation.org/competitions/SpecialPuzzlesinGuangzhou2019/results/by_person#2018HECH05) |
-| 88 | 0.24 | [Yurii Riabov (Юрій Рябов)](https://www.worldcubeassociation.org/persons/2018RIAB01) | 12.07 | 12.31 | [Ukrainian Open 2023](https://www.worldcubeassociation.org/competitions/UkrainianOpen2023/results/by_person#2018RIAB01) |
-| 89 | 0.24 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) | 13.57 | 13.81 | [Wakefield Spring 2023](https://www.worldcubeassociation.org/competitions/WakefieldSpring2023/results/by_person#2016MORA24) |
-| 90 | 0.24 | [Timo Norrkniivilä](https://www.worldcubeassociation.org/persons/2017NORR01) | 19.50 | 19.74 | [Nordic Championship 2019](https://www.worldcubeassociation.org/competitions/NordicChampionship2019/results/by_person#2017NORR01) |
-| 91 | 0.25 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | 5.15 | 5.40 | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/by_person#2017AGGA01) |
-| 92 | 0.25 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 5.44 | 5.69 | [Square-Fun in Bloomsburg 2023](https://www.worldcubeassociation.org/competitions/SquareFuninBloomsburg2023/results/by_person#2018KHAN26) |
-| 93 | 0.25 | [Alessandro Ricci](https://www.worldcubeassociation.org/persons/2018RICC02) | 6.01 | 6.26 | [Italian Championship 2022](https://www.worldcubeassociation.org/competitions/ItalianChampionship2022/results/by_person#2018RICC02) |
-| 94 | 0.25 | [Felipe Maierowicz](https://www.worldcubeassociation.org/persons/2019MAIE01) | 6.95 | 7.20 | [Nacionales Argentinas 2023](https://www.worldcubeassociation.org/competitions/NacionalesArgentinas2023/results/by_person#2019MAIE01) |
-| 95 | 0.25 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) | 7.40 | 7.65 | [Welcome Back Texas 2021](https://www.worldcubeassociation.org/competitions/WelcomeBackTexas2021/results/by_person#2016GOTT01) |
-| 96 | 0.25 | [Cameron Miller (梅克龍)](https://www.worldcubeassociation.org/persons/2018MILL08) | 7.67 | 7.92 | [BASC 45 - Berkeley Time 2023](https://www.worldcubeassociation.org/competitions/BASC45BerkeleyTime2023/results/by_person#2018MILL08) |
-| 97 | 0.25 | [Zijia Feng (冯子甲)](https://www.worldcubeassociation.org/persons/2013FENG02) | 9.05 | 9.30 | [Shenzhen 10th Anniversary 2019](https://www.worldcubeassociation.org/competitions/Shenzhen10thAnniversary2019/results/by_person#2013FENG02) |
-| 98 | 0.25 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | 9.55 | 9.80 | [FECA Open 2017](https://www.worldcubeassociation.org/competitions/FECAOpen2017/results/by_person#2015CECC01) |
-| 99 | 0.25 | [Maksymilian Misiak](https://www.worldcubeassociation.org/persons/2017MISI01) | 9.63 | 9.88 | [BrizZon Side Open 2021](https://www.worldcubeassociation.org/competitions/BrizZonSideOpen2021/results/by_person#2017MISI01) |
-| 100 | 0.25 | [Ayden Dincher](https://www.worldcubeassociation.org/persons/2022DINC01) | 11.65 | 11.90 | [South Jersey Speedsolving 2023](https://www.worldcubeassociation.org/competitions/SouthJerseySpeedsolving2023/results/by_person#2022DINC01) |
+| 85 | 0.24 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | 9.01 | 9.25 | [SL 432: Fel Färg i Ankeborg 2024](https://www.worldcubeassociation.org/competitions/SL432FelFargiAnkeborg2024/results/by_person#2021ELIA01) |
+| 86 | 0.24 | [Rui-Jun Liu (劉睿鈞)](https://www.worldcubeassociation.org/persons/2011LIUR02) | 10.44 | 10.68 | [Cube Camp in Kanazawa 2016](https://www.worldcubeassociation.org/competitions/CubeCampinKanazawa2016/results/by_person#2011LIUR02) |
+| 87 | 0.24 | [Mihir A. Rai](https://www.worldcubeassociation.org/persons/2019RAIM03) | 11.14 | 11.38 | [UW or U Don't 2023](https://www.worldcubeassociation.org/competitions/UWorUDont2023/results/by_person#2019RAIM03) |
+| 88 | 0.24 | [Chuan He (何川)](https://www.worldcubeassociation.org/persons/2018HECH05) | 11.86 | 12.10 | [Special Puzzles Guangzhou 2019](https://www.worldcubeassociation.org/competitions/SpecialPuzzlesinGuangzhou2019/results/by_person#2018HECH05) |
+| 89 | 0.24 | [Yurii Riabov (Юрій Рябов)](https://www.worldcubeassociation.org/persons/2018RIAB01) | 12.07 | 12.31 | [Ukrainian Open 2023](https://www.worldcubeassociation.org/competitions/UkrainianOpen2023/results/by_person#2018RIAB01) |
+| 90 | 0.24 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) | 13.57 | 13.81 | [Wakefield Spring 2023](https://www.worldcubeassociation.org/competitions/WakefieldSpring2023/results/by_person#2016MORA24) |
+| 91 | 0.24 | [Timo Norrkniivilä](https://www.worldcubeassociation.org/persons/2017NORR01) | 19.50 | 19.74 | [Nordic Championship 2019](https://www.worldcubeassociation.org/competitions/NordicChampionship2019/results/by_person#2017NORR01) |
+| 92 | 0.25 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | 5.15 | 5.40 | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/by_person#2017AGGA01) |
+| 93 | 0.25 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 5.44 | 5.69 | [Square-Fun in Bloomsburg 2023](https://www.worldcubeassociation.org/competitions/SquareFuninBloomsburg2023/results/by_person#2018KHAN26) |
+| 94 | 0.25 | [Alessandro Ricci](https://www.worldcubeassociation.org/persons/2018RICC02) | 6.01 | 6.26 | [Italian Championship 2022](https://www.worldcubeassociation.org/competitions/ItalianChampionship2022/results/by_person#2018RICC02) |
+| 95 | 0.25 | [Felipe Maierowicz](https://www.worldcubeassociation.org/persons/2019MAIE01) | 6.95 | 7.20 | [Nacionales Argentinas 2023](https://www.worldcubeassociation.org/competitions/NacionalesArgentinas2023/results/by_person#2019MAIE01) |
+| 96 | 0.25 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) | 7.40 | 7.65 | [Welcome Back Texas 2021](https://www.worldcubeassociation.org/competitions/WelcomeBackTexas2021/results/by_person#2016GOTT01) |
+| 97 | 0.25 | [Cameron Miller (梅克龍)](https://www.worldcubeassociation.org/persons/2018MILL08) | 7.67 | 7.92 | [BASC 45 - Berkeley Time 2023](https://www.worldcubeassociation.org/competitions/BASC45BerkeleyTime2023/results/by_person#2018MILL08) |
+| 98 | 0.25 | [Zijia Feng (冯子甲)](https://www.worldcubeassociation.org/persons/2013FENG02) | 9.05 | 9.30 | [Shenzhen 10th Anniversary 2019](https://www.worldcubeassociation.org/competitions/Shenzhen10thAnniversary2019/results/by_person#2013FENG02) |
+| 99 | 0.25 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | 9.55 | 9.80 | [FECA Open 2017](https://www.worldcubeassociation.org/competitions/FECAOpen2017/results/by_person#2015CECC01) |
+| 100 | 0.25 | [Maksymilian Misiak](https://www.worldcubeassociation.org/persons/2017MISI01) | 9.63 | 9.88 | [BrizZon Side Open 2021](https://www.worldcubeassociation.org/competitions/BrizZonSideOpen2021/results/by_person#2017MISI01) |
 
 ### 4x4x4 Blindfolded
 

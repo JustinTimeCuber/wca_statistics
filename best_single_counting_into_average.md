@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on  1 May 2024*
+*Updated on  4 May 2024*
 
 
 ### Rubik's Cube
@@ -506,27 +506,27 @@
 | 77 | 8.63 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [UCSD For Hemophilia 2023](https://www.worldcubeassociation.org/competitions/UCSDForHemophilia2023/results/by_person#2012PARK03) |
 | 78 | 8.63 | [Fahmi Aulia Rachman](https://www.worldcubeassociation.org/persons/2016RACH01) | [PSKG Premiere Cubing 2024](https://www.worldcubeassociation.org/competitions/PSKGPremiereCubing2024/results/by_person#2016RACH01) |
 | 79 | 8.63 | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) | [Metro Speedcubing Open 2023](https://www.worldcubeassociation.org/competitions/MetroSpeedcubingOpen2023/results/by_person#2017VILL41) |
-| 80 | 8.64 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Turn Around Tassie 2020](https://www.worldcubeassociation.org/competitions/TurnAroundTassie2020/results/by_person#2009ZEMD01) |
-| 81 | 8.65 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [A Bruin Cube Day 2022](https://www.worldcubeassociation.org/competitions/ABruinCubeDay2022/results/by_person#2012PARK03) |
-| 82 | 8.65 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [AZCubing Winter 2022](https://www.worldcubeassociation.org/competitions/AZCubingWinter2022/results/by_person#2012PARK03) |
-| 83 | 8.65 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [BASC 50 - Berkeley 2023](https://www.worldcubeassociation.org/competitions/BASC50Berkeley2023/results/by_person#2017GARR05) |
-| 84 | 8.65 | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) | [Beginner's SampaLuck 2024](https://www.worldcubeassociation.org/competitions/BeginnersSampaLuck2024/results/by_person#2017VILL41) |
-| 85 | 8.65 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | [SLS Grudzień 2023](https://www.worldcubeassociation.org/competitions/SLSGrudzien2023/results/by_person#2019KARP03) |
-| 86 | 8.66 | [Zhouheng Sun (孙舟横)](https://www.worldcubeassociation.org/persons/2008SUNZ01) | [Western Championship 2023](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2023/results/by_person#2008SUNZ01) |
-| 87 | 8.66 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [A Bruin Cube Day 2022](https://www.worldcubeassociation.org/competitions/ABruinCubeDay2022/results/by_person#2012PARK03) |
-| 88 | 8.66 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Weston-super-Mare Open 2022](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2022/results/by_person#2012PONC02) |
-| 89 | 8.66 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Gem City First in Flight 2024](https://www.worldcubeassociation.org/competitions/GemCityFirstinFlight2024/results/by_person#2017GARR05) |
-| 90 | 8.67 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Cal Poly SLO Spring 2022](https://www.worldcubeassociation.org/competitions/CalPolySLOSpring2022/results/by_person#2012PARK03) |
-| 91 | 8.67 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [USC Cubing 2024](https://www.worldcubeassociation.org/competitions/USCCubing2024/results/by_person#2012PARK03) |
-| 92 | 8.67 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Puzzling in Providence 2023](https://www.worldcubeassociation.org/competitions/PuzzlinginProvidence2023/results/by_person#2012PONC02) |
-| 93 | 8.67 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Honolulu Liʻiliʻi 2024](https://www.worldcubeassociation.org/competitions/HonoluluLiiliiaIkeMaka2024/results/by_person#2017GARR05) |
-| 94 | 8.68 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Oregon Championship 2022](https://www.worldcubeassociation.org/competitions/OregonChampionship2022/results/by_person#2012PARK03) |
-| 95 | 8.68 | [Magnus Lensch](https://www.worldcubeassociation.org/persons/2019LENS01) | [Rhein-Neckar Beginners 2024](https://www.worldcubeassociation.org/competitions/RheinNeckarBeginners2024/results/by_person#2019LENS01) |
-| 96 | 8.69 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Circle City Supercharged 2022](https://www.worldcubeassociation.org/competitions/CircleCitySupercharged2022/results/by_person#2012PARK03) |
-| 97 | 8.69 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Manchester Winter 2024](https://www.worldcubeassociation.org/competitions/ManchesterWinter2024/results/by_person#2020ARCH01) |
-| 98 | 8.70 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Melbourne Cube Days 2019](https://www.worldcubeassociation.org/competitions/MelbourneCubeDays2019/results/by_person#2009ZEMD01) |
-| 99 | 8.70 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Western Championship 2023](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2023/results/by_person#2012PARK03) |
-| 100 | 8.70 | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) | [Visayas Championship 2023](https://www.worldcubeassociation.org/competitions/VisayasChampionship2023/results/by_person#2017VILL41) |
+| 80 | 8.63 | [Crimson Arradaza](https://www.worldcubeassociation.org/persons/2023ARRA01) | [Luzon Championship 2024](https://www.worldcubeassociation.org/competitions/LuzonChampionship2024/results/by_person#2023ARRA01) |
+| 81 | 8.64 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Turn Around Tassie 2020](https://www.worldcubeassociation.org/competitions/TurnAroundTassie2020/results/by_person#2009ZEMD01) |
+| 82 | 8.65 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [A Bruin Cube Day 2022](https://www.worldcubeassociation.org/competitions/ABruinCubeDay2022/results/by_person#2012PARK03) |
+| 83 | 8.65 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [AZCubing Winter 2022](https://www.worldcubeassociation.org/competitions/AZCubingWinter2022/results/by_person#2012PARK03) |
+| 84 | 8.65 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [BASC 50 - Berkeley 2023](https://www.worldcubeassociation.org/competitions/BASC50Berkeley2023/results/by_person#2017GARR05) |
+| 85 | 8.65 | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) | [Beginner's SampaLuck 2024](https://www.worldcubeassociation.org/competitions/BeginnersSampaLuck2024/results/by_person#2017VILL41) |
+| 86 | 8.65 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | [SLS Grudzień 2023](https://www.worldcubeassociation.org/competitions/SLSGrudzien2023/results/by_person#2019KARP03) |
+| 87 | 8.66 | [Zhouheng Sun (孙舟横)](https://www.worldcubeassociation.org/persons/2008SUNZ01) | [Western Championship 2023](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2023/results/by_person#2008SUNZ01) |
+| 88 | 8.66 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [A Bruin Cube Day 2022](https://www.worldcubeassociation.org/competitions/ABruinCubeDay2022/results/by_person#2012PARK03) |
+| 89 | 8.66 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Weston-super-Mare Open 2022](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2022/results/by_person#2012PONC02) |
+| 90 | 8.66 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Gem City First in Flight 2024](https://www.worldcubeassociation.org/competitions/GemCityFirstinFlight2024/results/by_person#2017GARR05) |
+| 91 | 8.67 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Cal Poly SLO Spring 2022](https://www.worldcubeassociation.org/competitions/CalPolySLOSpring2022/results/by_person#2012PARK03) |
+| 92 | 8.67 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [USC Cubing 2024](https://www.worldcubeassociation.org/competitions/USCCubing2024/results/by_person#2012PARK03) |
+| 93 | 8.67 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Puzzling in Providence 2023](https://www.worldcubeassociation.org/competitions/PuzzlinginProvidence2023/results/by_person#2012PONC02) |
+| 94 | 8.67 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Honolulu Liʻiliʻi 2024](https://www.worldcubeassociation.org/competitions/HonoluluLiiliiaIkeMaka2024/results/by_person#2017GARR05) |
+| 95 | 8.68 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Oregon Championship 2022](https://www.worldcubeassociation.org/competitions/OregonChampionship2022/results/by_person#2012PARK03) |
+| 96 | 8.68 | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) | [Luzon Championship 2024](https://www.worldcubeassociation.org/competitions/LuzonChampionship2024/results/by_person#2017VILL41) |
+| 97 | 8.68 | [Magnus Lensch](https://www.worldcubeassociation.org/persons/2019LENS01) | [Rhein-Neckar Beginners 2024](https://www.worldcubeassociation.org/competitions/RheinNeckarBeginners2024/results/by_person#2019LENS01) |
+| 98 | 8.69 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Circle City Supercharged 2022](https://www.worldcubeassociation.org/competitions/CircleCitySupercharged2022/results/by_person#2012PARK03) |
+| 99 | 8.69 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Manchester Winter 2024](https://www.worldcubeassociation.org/competitions/ManchesterWinter2024/results/by_person#2020ARCH01) |
+| 100 | 8.70 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Melbourne Cube Days 2019](https://www.worldcubeassociation.org/competitions/MelbourneCubeDays2019/results/by_person#2009ZEMD01) |
 
 ### Megaminx
 
