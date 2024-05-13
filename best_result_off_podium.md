@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 10 May 2024*
+*Updated on 13 May 2024*
 
 
 ### Rubik's Cube
@@ -700,44 +700,44 @@
 | 60 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | **22.47** | 24.56 | [Dragon Side Open 2022](https://www.worldcubeassociation.org/competitions/DragonSideOpen2022/results/all#e333bf_f) | 4 |
 | 61 | [Calix Tang](https://www.worldcubeassociation.org/persons/2015TANG04) | **22.49** | DNF | [Triton Tricubealon 2024](https://www.worldcubeassociation.org/competitions/TritonTricubealon2024/results/all#e333bf_f) | 4 |
 | 62 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | **22.57** | DNF | [Solving In Sale 2024](https://www.worldcubeassociation.org/competitions/SolvingInSale2024/results/all#e333bf_f) | 4 |
-| 63 | [Neel Gore](https://www.worldcubeassociation.org/persons/2016GORE02) | **22.61** | 28.94 | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e333bf_f) | 11 |
-| 64 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | **22.77** | DNF | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#e333bf_f) | 5 |
-| 65 | [Christopher Sun](https://www.worldcubeassociation.org/persons/2017SUNC02) | **22.78** | DNF | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#e333bf_f) | 8 |
-| 66 | [Yiwei Liu (刘伊玮)](https://www.worldcubeassociation.org/persons/2012LIUY03) | **22.82** | 25.88 | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021/results/all#e333bf_f) | 5 |
-| 67 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **22.84** | DNF | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#e333bf_f) | 9 |
-| 68 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | **22.85** | DNF | [Energy Cube Tomaszów 2023](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2023/results/all#e333bf_f) | 4 |
-| 69 | [Ayden Kainalu A. Bueno](https://www.worldcubeassociation.org/persons/2023BUEN02) | **22.90** | DNF | [Kenmore Mini B 2024](https://www.worldcubeassociation.org/competitions/KenmoreMiniB2024/results/all#e333bf_f) | 4 |
-| 70 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) | **22.91** | DNF | [Cube Factory Summer 2023](https://www.worldcubeassociation.org/competitions/CubeFactorySummer2023/results/all#e333bf_f) | 4 |
-| 71 | [Kamil Michalak](https://www.worldcubeassociation.org/persons/2016MICH01) | **22.94** | DNF | [Polish Championship 2022](https://www.worldcubeassociation.org/competitions/PolishChampionship2022/results/all#e333bf_f) | 6 |
-| 72 | [Chih-Chuan Yang (楊智全)](https://www.worldcubeassociation.org/persons/2018YANG92) | **22.94** | DNF | [Singapore Championship 2023](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2023/results/all#e333bf_f) | 4 |
-| 73 | [Yiwei Liu (刘伊玮)](https://www.worldcubeassociation.org/persons/2012LIUY03) | **22.94** | DNF | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e333bf_f) | 12 |
-| 74 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) | **22.99** | DNF | [Energy Cube Tomaszów 2023](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2023/results/all#e333bf_f) | 5 |
-| 75 | [Ethan Davis](https://www.worldcubeassociation.org/persons/2016DAVI02) | **23.00** | DNF | [Canadian Championship 2023](https://www.worldcubeassociation.org/competitions/CanadianChampionship2023/results/all#e333bf_f) | 5 |
-| 76 | [Neel Gore](https://www.worldcubeassociation.org/persons/2016GORE02) | **23.00** | DNF | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all#e333bf_f) | 5 |
-| 77 | [Will Cerne](https://www.worldcubeassociation.org/persons/2015CERN01) | **23.03** | DNF | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#e333bf_f) | 10 |
-| 78 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | **23.04** | DNF | [Abierto de La Matanza 2024](https://www.worldcubeassociation.org/competitions/AbiertodeLaMatanza2024/results/all#e333bf_f) | 4 |
-| 79 | [Jack Cai](https://www.worldcubeassociation.org/persons/2014CAIJ02) | **23.07** | DNF | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e333bf_f) | 13 |
-| 80 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | **23.16** | 26.03 | [Di Tella Inspira 2024](https://www.worldcubeassociation.org/competitions/DiTellaInspira2024/results/all#e333bf_f) | 4 |
-| 81 | [Jens Haber](https://www.worldcubeassociation.org/persons/2018HABE02) | **23.26** | 23.50 | [Elsass Open 2019](https://www.worldcubeassociation.org/competitions/ElsassOpen2019/results/all#e333bf_f) | 4 |
-| 82 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | **23.32** | 23.46 | [BrizZon Side Open V 2023](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenV2023/results/all#e333bf_f) | 4 |
-| 83 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) | **23.35** | 29.20 | [Dragon Side Open 2022](https://www.worldcubeassociation.org/competitions/DragonSideOpen2022/results/all#e333bf_f) | 5 |
-| 84 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) | **23.37** | DNF | [Dragon Side Open 2022](https://www.worldcubeassociation.org/competitions/DragonSideOpen2022/results/all#e333bf_f) | 6 |
-| 85 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) | **23.39** | 24.49 | [4BLD in a Madison Hall 2023](https://www.worldcubeassociation.org/competitions/4BLDinaMadisonHall2023/results/all#e333bf_f) | 4 |
-| 86 | [Yiwei Liu (刘伊玮)](https://www.worldcubeassociation.org/persons/2012LIUY03) | **23.39** | DNF | [Tianjin Summer Solstice 2021](https://www.worldcubeassociation.org/competitions/TianjinSummerSolstice2021/results/all#e333bf_f) | 4 |
-| 87 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | **23.45** | 25.34 | [Trondheim Mental Breakdown 2022](https://www.worldcubeassociation.org/competitions/TrondheimMentalBreakdown2022/results/all#e333bf_f) | 4 |
-| 88 | [Michael Tripodi](https://www.worldcubeassociation.org/persons/2021TRIP01) | **23.47** | DNF | [WCA Oceanic Championship 2022](https://www.worldcubeassociation.org/competitions/OC2022/results/all#e333bf_f) | 5 |
-| 89 | [Martin Fröhlich](https://www.worldcubeassociation.org/persons/2023FROH01) | **23.50** | DNF | [Ljubljana Blind Open 2024](https://www.worldcubeassociation.org/competitions/LjubljanaBlindOpen2024/results/all#e333bf_f) | 4 |
-| 90 | [Theodore Chan](https://www.worldcubeassociation.org/persons/2016CHAN25) | **23.52** | 27.99 | [Please Be Quiet Bukit Jalil 2023](https://www.worldcubeassociation.org/competitions/PleaseBeQuietBukitJalil2023/results/all#e333bf_f) | 6 |
-| 91 | [Stanisław Szyszka](https://www.worldcubeassociation.org/persons/2016SZYS02) | **23.52** | DNF | [BrizZon Side Open III 2023](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenIII2023/results/all#e333bf_f) | 4 |
-| 92 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) | **23.59** | DNF | [Bishop's Stortford Spring 2023](https://www.worldcubeassociation.org/competitions/BishopsStortfordSpringBBO2023/results/all#e333bf_f) | 4 |
-| 93 | [Šimon Borovský](https://www.worldcubeassociation.org/persons/2019BORO03) | **23.59** | DNF | [Ljubljana Blind Open 2024](https://www.worldcubeassociation.org/competitions/LjubljanaBlindOpen2024/results/all#e333bf_f) | 5 |
-| 94 | [Tam Quan](https://www.worldcubeassociation.org/persons/2016QUAN03) | **23.62** | DNF | [WCA Oceanic Championship 2022](https://www.worldcubeassociation.org/competitions/OC2022/results/all#e333bf_f) | 6 |
-| 95 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | **23.69** | DNF | [Gdańsk Goes Quiet 2024](https://www.worldcubeassociation.org/competitions/GdanskGoesQuiet2024/results/all#e333bf_f) | 4 |
-| 96 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | **23.69** | DNF | [Kewbz UK Championship 2022](https://www.worldcubeassociation.org/competitions/KewbzUKChampionship2022/results/all#e333bf_f) | 5 |
-| 97 | [Fletcher Berry](https://www.worldcubeassociation.org/persons/2018BERR01) | **23.79** | DNF | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#e333bf_f) | 8 |
-| 98 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) | **23.83** | DNF | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#e333bf_f) | 11 |
-| 99 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **23.87** | 24.11 | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e333bf_f) | 14 |
-| 100 | [Ishaan Agrawal](https://www.worldcubeassociation.org/persons/2015AGRA03) | **23.97** | DNF | [Longhorn Cube Day 2017](https://www.worldcubeassociation.org/competitions/LonghornCubeDay2017/results/all#e333bf_f) | 5 |
+| 63 | [Simon Praschl](https://www.worldcubeassociation.org/persons/2021PRAS02) | **22.61** | 23.67 | [BF Vienna Day 2024](https://www.worldcubeassociation.org/competitions/BFViennaDay2024/results/all#e333bf_f) | 4 |
+| 64 | [Neel Gore](https://www.worldcubeassociation.org/persons/2016GORE02) | **22.61** | 28.94 | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e333bf_f) | 11 |
+| 65 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | **22.77** | DNF | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#e333bf_f) | 5 |
+| 66 | [Christopher Sun](https://www.worldcubeassociation.org/persons/2017SUNC02) | **22.78** | DNF | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#e333bf_f) | 8 |
+| 67 | [Yiwei Liu (刘伊玮)](https://www.worldcubeassociation.org/persons/2012LIUY03) | **22.82** | 25.88 | [Guangdong Open 2021](https://www.worldcubeassociation.org/competitions/GuangdongOpen2021/results/all#e333bf_f) | 5 |
+| 68 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **22.84** | DNF | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#e333bf_f) | 9 |
+| 69 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | **22.85** | DNF | [Energy Cube Tomaszów 2023](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2023/results/all#e333bf_f) | 4 |
+| 70 | [Ayden Kainalu A. Bueno](https://www.worldcubeassociation.org/persons/2023BUEN02) | **22.90** | DNF | [Kenmore Mini B 2024](https://www.worldcubeassociation.org/competitions/KenmoreMiniB2024/results/all#e333bf_f) | 4 |
+| 71 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) | **22.91** | DNF | [Cube Factory Summer 2023](https://www.worldcubeassociation.org/competitions/CubeFactorySummer2023/results/all#e333bf_f) | 4 |
+| 72 | [Kamil Michalak](https://www.worldcubeassociation.org/persons/2016MICH01) | **22.94** | DNF | [Polish Championship 2022](https://www.worldcubeassociation.org/competitions/PolishChampionship2022/results/all#e333bf_f) | 6 |
+| 73 | [Chih-Chuan Yang (楊智全)](https://www.worldcubeassociation.org/persons/2018YANG92) | **22.94** | DNF | [Singapore Championship 2023](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2023/results/all#e333bf_f) | 4 |
+| 74 | [Yiwei Liu (刘伊玮)](https://www.worldcubeassociation.org/persons/2012LIUY03) | **22.94** | DNF | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e333bf_f) | 12 |
+| 75 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) | **22.99** | DNF | [Energy Cube Tomaszów 2023](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2023/results/all#e333bf_f) | 5 |
+| 76 | [Ethan Davis](https://www.worldcubeassociation.org/persons/2016DAVI02) | **23.00** | DNF | [Canadian Championship 2023](https://www.worldcubeassociation.org/competitions/CanadianChampionship2023/results/all#e333bf_f) | 5 |
+| 77 | [Neel Gore](https://www.worldcubeassociation.org/persons/2016GORE02) | **23.00** | DNF | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all#e333bf_f) | 5 |
+| 78 | [Will Cerne](https://www.worldcubeassociation.org/persons/2015CERN01) | **23.03** | DNF | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#e333bf_f) | 10 |
+| 79 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | **23.04** | DNF | [Abierto de La Matanza 2024](https://www.worldcubeassociation.org/competitions/AbiertodeLaMatanza2024/results/all#e333bf_f) | 4 |
+| 80 | [Jack Cai](https://www.worldcubeassociation.org/persons/2014CAIJ02) | **23.07** | DNF | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e333bf_f) | 13 |
+| 81 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | **23.16** | 26.03 | [Di Tella Inspira 2024](https://www.worldcubeassociation.org/competitions/DiTellaInspira2024/results/all#e333bf_f) | 4 |
+| 82 | [Jens Haber](https://www.worldcubeassociation.org/persons/2018HABE02) | **23.26** | 23.50 | [Elsass Open 2019](https://www.worldcubeassociation.org/competitions/ElsassOpen2019/results/all#e333bf_f) | 4 |
+| 83 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | **23.32** | 23.46 | [BrizZon Side Open V 2023](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenV2023/results/all#e333bf_f) | 4 |
+| 84 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) | **23.35** | 29.20 | [Dragon Side Open 2022](https://www.worldcubeassociation.org/competitions/DragonSideOpen2022/results/all#e333bf_f) | 5 |
+| 85 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) | **23.37** | DNF | [Dragon Side Open 2022](https://www.worldcubeassociation.org/competitions/DragonSideOpen2022/results/all#e333bf_f) | 6 |
+| 86 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) | **23.39** | 24.49 | [4BLD in a Madison Hall 2023](https://www.worldcubeassociation.org/competitions/4BLDinaMadisonHall2023/results/all#e333bf_f) | 4 |
+| 87 | [Yiwei Liu (刘伊玮)](https://www.worldcubeassociation.org/persons/2012LIUY03) | **23.39** | DNF | [Tianjin Summer Solstice 2021](https://www.worldcubeassociation.org/competitions/TianjinSummerSolstice2021/results/all#e333bf_f) | 4 |
+| 88 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | **23.45** | 25.34 | [Trondheim Mental Breakdown 2022](https://www.worldcubeassociation.org/competitions/TrondheimMentalBreakdown2022/results/all#e333bf_f) | 4 |
+| 89 | [Michael Tripodi](https://www.worldcubeassociation.org/persons/2021TRIP01) | **23.47** | DNF | [WCA Oceanic Championship 2022](https://www.worldcubeassociation.org/competitions/OC2022/results/all#e333bf_f) | 5 |
+| 90 | [Martin Fröhlich](https://www.worldcubeassociation.org/persons/2023FROH01) | **23.50** | DNF | [Ljubljana Blind Open 2024](https://www.worldcubeassociation.org/competitions/LjubljanaBlindOpen2024/results/all#e333bf_f) | 4 |
+| 91 | [Theodore Chan](https://www.worldcubeassociation.org/persons/2016CHAN25) | **23.52** | 27.99 | [Please Be Quiet Bukit Jalil 2023](https://www.worldcubeassociation.org/competitions/PleaseBeQuietBukitJalil2023/results/all#e333bf_f) | 6 |
+| 92 | [Stanisław Szyszka](https://www.worldcubeassociation.org/persons/2016SZYS02) | **23.52** | DNF | [BrizZon Side Open III 2023](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenIII2023/results/all#e333bf_f) | 4 |
+| 93 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) | **23.59** | DNF | [Bishop's Stortford Spring 2023](https://www.worldcubeassociation.org/competitions/BishopsStortfordSpringBBO2023/results/all#e333bf_f) | 4 |
+| 94 | [Šimon Borovský](https://www.worldcubeassociation.org/persons/2019BORO03) | **23.59** | DNF | [Ljubljana Blind Open 2024](https://www.worldcubeassociation.org/competitions/LjubljanaBlindOpen2024/results/all#e333bf_f) | 5 |
+| 95 | [Tam Quan](https://www.worldcubeassociation.org/persons/2016QUAN03) | **23.62** | DNF | [WCA Oceanic Championship 2022](https://www.worldcubeassociation.org/competitions/OC2022/results/all#e333bf_f) | 6 |
+| 96 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | **23.69** | DNF | [Gdańsk Goes Quiet 2024](https://www.worldcubeassociation.org/competitions/GdanskGoesQuiet2024/results/all#e333bf_f) | 4 |
+| 97 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | **23.69** | DNF | [Kewbz UK Championship 2022](https://www.worldcubeassociation.org/competitions/KewbzUKChampionship2022/results/all#e333bf_f) | 5 |
+| 98 | [Fletcher Berry](https://www.worldcubeassociation.org/persons/2018BERR01) | **23.79** | DNF | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#e333bf_f) | 8 |
+| 99 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) | **23.83** | DNF | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#e333bf_f) | 11 |
+| 100 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **23.87** | 24.11 | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e333bf_f) | 14 |
 
 ### 3x3x3 Fewest Moves
 
