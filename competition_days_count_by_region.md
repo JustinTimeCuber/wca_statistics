@@ -7,18 +7,18 @@
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.47 | World | 12219 |
+| 1 | 1.47 | World | 12222 |
 
 ### Continents
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.73 | Europe | 3981 |
+| 1 | 1.74 | Europe | 3982 |
 | 2 | 1.51 | South America | 1464 |
 | 3 | 1.47 | Oceania | 545 |
 | 4 | 1.41 | Asia | 2664 |
 | 5 | 1.29 | Africa | 139 |
-| 6 | 1.20 | North America | 3426 |
+| 6 | 1.20 | North America | 3428 |
 
 ### Countries
 
@@ -41,7 +41,7 @@
 | 15 | 1.87 | Slovakia | 38 |
 | 16 | 1.85 | Finland | 132 |
 | 17 | 1.84 | Thailand | 58 |
-| 18 | 1.84 | Spain | 336 |
+| 18 | 1.84 | Spain | 337 |
 | 19 | 1.84 | Croatia | 25 |
 | 20 | 1.83 | Bosnia and Herzegovina | 12 |
 | 21 | 1.83 | Switzerland | 107 |
@@ -116,7 +116,7 @@
 | 90 | 1.17 | Andorra | 6 |
 | 91 | 1.17 | Morocco | 6 |
 | 92 | 1.17 | Tunisia | 24 |
-| 93 | 1.16 | United States | 2759 |
+| 93 | 1.16 | United States | 2761 |
 | 94 | 1.16 | Canada | 354 |
 | 95 | 1.14 | Azerbaijan | 43 |
 | 96 | 1.12 | Honduras | 16 |
