@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 1000 single are taken into account.*
-*Updated on 31 May 2024*
+*Updated on  1 June 2024*
 
 
 ### Rubik's Cube
@@ -763,8 +763,8 @@
 | 18 | 22.00 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 19, 24, 20, 34, 22 |
 | 19 | 22.33 | [Sebastiano Tronto](https://www.worldcubeassociation.org/persons/2011TRON02) | 23, 20, DNF, 22, 22 |
 | 20 | 22.33 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) | DNF, 22, 23, 22, 22 |
-| 21 | 22.33 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | 20, 23, 30, 23, 21 |
-| 22 | 22.33 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) | 20, 26, 20, 25, 22 |
+| 21 | 22.33 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) | 20, 26, 20, 25, 22 |
+| 22 | 22.33 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | 20, 23, 30, 23, 21 |
 | 23 | 22.33 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | 21, DNF, 23, 19, 23 |
 | 24 | 22.33 | [Krish Shah-Nathwani](https://www.worldcubeassociation.org/persons/2015SHAH09) | 23, 19, 24, 22, 22 |
 | 25 | 22.33 | [Lewis Isom](https://www.worldcubeassociation.org/persons/2018ISOM02) | 23, 23, 24, 21, 21 |

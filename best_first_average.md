@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 31 May 2024*
+*Updated on  1 June 2024*
 
 
 ### Rubik's Cube
@@ -936,18 +936,18 @@
 | 86 | 16.71 | [Guanjian Liang (梁观健)](https://www.worldcubeassociation.org/persons/2019LIAN22) |
 | 87 | 16.73 | [Chih-Jia Lin (林志嘉)](https://www.worldcubeassociation.org/persons/2020LINC05) |
 | 88 | 16.74 | [Ziv Ng](https://www.worldcubeassociation.org/persons/2023NGZI01) |
-| 89 | 16.77 | [Nguyễn Hùng Khánh](https://www.worldcubeassociation.org/persons/2018KHAN34) |
-| 90 | 16.78 | [Jiahao Zhu](https://www.worldcubeassociation.org/persons/2023ZHUJ01) |
-| 91 | 16.81 | [Jason Wong](https://www.worldcubeassociation.org/persons/2023WONG17) |
-| 92 | 16.81 | [Bhuvanesh Ganta](https://www.worldcubeassociation.org/persons/2019GANT05) |
-| 93 | 16.85 | [Xin Lu (陆鑫)](https://www.worldcubeassociation.org/persons/2024LUXI01) |
-| 94 | 16.87 | [Emmanuel Kao](https://www.worldcubeassociation.org/persons/2022KAOE01) |
-| 95 | 16.89 | [Xyruss Gatchalian](https://www.worldcubeassociation.org/persons/2019GATC01) |
-| 96 | 16.89 | [Yusuke Koakutsu (小圷悠介)](https://www.worldcubeassociation.org/persons/2023KOAK01) |
-| 97 | 16.90 | [Eduardo José Poveda Rojas](https://www.worldcubeassociation.org/persons/2017ROJA17) |
-| 98 | 16.90 | [Yu Wang (王誉)](https://www.worldcubeassociation.org/persons/2017WANY04) |
-| 99 | 16.91 | [Trần Đình Anh](https://www.worldcubeassociation.org/persons/2019ANHT01) |
-| 100 | 16.92 | [Jostin Alvarez](https://www.worldcubeassociation.org/persons/2017ALVA27) |
+| 89 | 16.75 | [Abby Anaya](https://www.worldcubeassociation.org/persons/2017ANAY01) |
+| 90 | 16.77 | [Nguyễn Hùng Khánh](https://www.worldcubeassociation.org/persons/2018KHAN34) |
+| 91 | 16.78 | [Jiahao Zhu](https://www.worldcubeassociation.org/persons/2023ZHUJ01) |
+| 92 | 16.81 | [Jason Wong](https://www.worldcubeassociation.org/persons/2023WONG17) |
+| 93 | 16.81 | [Bhuvanesh Ganta](https://www.worldcubeassociation.org/persons/2019GANT05) |
+| 94 | 16.85 | [Xin Lu (陆鑫)](https://www.worldcubeassociation.org/persons/2024LUXI01) |
+| 95 | 16.87 | [Emmanuel Kao](https://www.worldcubeassociation.org/persons/2022KAOE01) |
+| 96 | 16.89 | [Xyruss Gatchalian](https://www.worldcubeassociation.org/persons/2019GATC01) |
+| 97 | 16.89 | [Yusuke Koakutsu (小圷悠介)](https://www.worldcubeassociation.org/persons/2023KOAK01) |
+| 98 | 16.90 | [Eduardo José Poveda Rojas](https://www.worldcubeassociation.org/persons/2017ROJA17) |
+| 99 | 16.90 | [Yu Wang (王誉)](https://www.worldcubeassociation.org/persons/2017WANY04) |
+| 100 | 16.91 | [Trần Đình Anh](https://www.worldcubeassociation.org/persons/2019ANHT01) |
 
 ### Megaminx
 

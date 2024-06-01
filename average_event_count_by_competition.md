@@ -1,7 +1,7 @@
 ## Average event count by competition
 
 *Note: In other words, average number of events competitors participated in.*
-*Updated on 31 May 2024*
+*Updated on  1 June 2024*
 
 | Rank | Competition | Average event count | Competitors | Country |
 | :--- | :--- | ---: | ---: | :--- |
@@ -382,629 +382,629 @@
 | 375 | [Sébra Open 2016](https://www.worldcubeassociation.org/competitions/SebraOpen2016) | 7.25 | 36 | Germany |
 | 376 | [Flen Christmas Sleepover 2018](https://www.worldcubeassociation.org/competitions/FlenChristmasSleepover2018) | 7.25 | 48 | Sweden |
 | 377 | [Granada Open 2012](https://www.worldcubeassociation.org/competitions/GranadaOpen2012) | 7.25 | 36 | Spain |
-| 378 | [Peterborough Summer 2023](https://www.worldcubeassociation.org/competitions/PeterboroughSummer2023) | 7.25 | 57 | United Kingdom |
-| 379 | [Lyon Last Layer Open 2023](https://www.worldcubeassociation.org/competitions/LyonLastLayerOpen2023) | 7.24 | 100 | France |
-| 380 | [CFL Santa Claus Cube Race 2017](https://www.worldcubeassociation.org/competitions/CFLSantaClausCubeRace2017) | 7.23 | 98 | Poland |
-| 381 | [La Montagne Open 2012](https://www.worldcubeassociation.org/competitions/LaMontagneOpen2012) | 7.23 | 30 | France |
-| 382 | [N8W8 Summer 2015](https://www.worldcubeassociation.org/competitions/N8W8Summer2015) | 7.23 | 43 | Belgium |
-| 383 | [Chambéry Cube 2018](https://www.worldcubeassociation.org/competitions/ChamberyCube2018) | 7.22 | 49 | France |
-| 384 | [Eat Sleep Cube Repeat 2014](https://www.worldcubeassociation.org/competitions/EatSleepCubeRepeat2014) | 7.22 | 49 | Netherlands |
+| 378 | [The New School Medellín 2024](https://www.worldcubeassociation.org/competitions/TheNewSchoolMedellin2024) | 7.25 | 20 | Colombia |
+| 379 | [Peterborough Summer 2023](https://www.worldcubeassociation.org/competitions/PeterboroughSummer2023) | 7.25 | 57 | United Kingdom |
+| 380 | [Lyon Last Layer Open 2023](https://www.worldcubeassociation.org/competitions/LyonLastLayerOpen2023) | 7.24 | 100 | France |
+| 381 | [CFL Santa Claus Cube Race 2017](https://www.worldcubeassociation.org/competitions/CFLSantaClausCubeRace2017) | 7.23 | 98 | Poland |
+| 382 | [La Montagne Open 2012](https://www.worldcubeassociation.org/competitions/LaMontagneOpen2012) | 7.23 | 30 | France |
+| 383 | [N8W8 Summer 2015](https://www.worldcubeassociation.org/competitions/N8W8Summer2015) | 7.23 | 43 | Belgium |
+| 384 | [Chambéry Cube 2018](https://www.worldcubeassociation.org/competitions/ChamberyCube2018) | 7.22 | 49 | France |
 | 385 | [Tofta Summer Open 2023](https://www.worldcubeassociation.org/competitions/ToftaSummerOpen2023) | 7.22 | 49 | Sweden |
-| 386 | [Danish Championship 2023](https://www.worldcubeassociation.org/competitions/DanishChampionship2023) | 7.22 | 154 | Denmark |
-| 387 | [SSL 3 Kungsbacka 2017](https://www.worldcubeassociation.org/competitions/SSL3Kungsbacka2017) | 7.22 | 83 | Sweden |
-| 388 | [FSUbers 5.0 2024](https://www.worldcubeassociation.org/competitions/FSUbers502024) | 7.22 | 79 | United States |
-| 389 | [DSF Generalforsamlingen 2022](https://www.worldcubeassociation.org/competitions/DSFGeneralforsamlingen2022) | 7.21 | 42 | Denmark |
-| 390 | [NZSIC 2022](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2022) | 7.21 | 56 | New Zealand |
-| 391 | [Italian Championship 2021](https://www.worldcubeassociation.org/competitions/ItalianChampionship2021) | 7.21 | 136 | Italy |
-| 392 | [Colorado Qualifier 2019](https://www.worldcubeassociation.org/competitions/ColoradoQualifier2019) | 7.21 | 94 | United States |
-| 393 | [SH Open 2013](https://www.worldcubeassociation.org/competitions/SHOpen2013) | 7.21 | 33 | Germany |
-| 394 | [German Side Events 2021](https://www.worldcubeassociation.org/competitions/GermanSideEvents2021) | 7.21 | 52 | Germany |
-| 395 | [Diñs Open 2011](https://www.worldcubeassociation.org/competitions/DinsOpen2011) | 7.21 | 19 | France |
-| 396 | [Swedish Championship 2023](https://www.worldcubeassociation.org/competitions/SwedishChampionship2023) | 7.21 | 205 | Sweden |
-| 397 | [Speed Cubing Fest Pachuca 2023](https://www.worldcubeassociation.org/competitions/SpeedCubingFestPachuca2023) | 7.21 | 139 | Mexico |
-| 398 | [Tallinn Open 2022](https://www.worldcubeassociation.org/competitions/TallinnOpen2022) | 7.21 | 48 | Estonia |
-| 399 | [Baia Mare North Open 2018](https://www.worldcubeassociation.org/competitions/BaiaMareNorthOpen2018) | 7.21 | 24 | Romania |
-| 400 | [Polish Championship 2021](https://www.worldcubeassociation.org/competitions/PolishChampionship2021) | 7.20 | 127 | Poland |
-| 401 | [Washington Championship 2023](https://www.worldcubeassociation.org/competitions/WashingtonChampionship2023) | 7.20 | 140 | United States |
-| 402 | [Nacionales Argentinas 2022](https://www.worldcubeassociation.org/competitions/NacionalesArgentinas2022) | 7.19 | 68 | Argentina |
-| 403 | [Swisscubing Cup Finale 2022](https://www.worldcubeassociation.org/competitions/SwisscubingCupFinale2022) | 7.19 | 116 | Switzerland |
-| 404 | [Pittsburgh Fall 2022](https://www.worldcubeassociation.org/competitions/PittsburghFall2022) | 7.19 | 96 | United States |
-| 405 | [Puy de Dôme Open 2019](https://www.worldcubeassociation.org/competitions/PuydeDomeOpen2019) | 7.19 | 27 | France |
-| 406 | [Swiss Nationals 2023](https://www.worldcubeassociation.org/competitions/SwissNationals2023) | 7.18 | 105 | Switzerland |
-| 407 | [Dallas Fort Worth 2018](https://www.worldcubeassociation.org/competitions/DallasFortWorth2018) | 7.18 | 50 | United States |
-| 408 | [Heartland Championship 2023](https://www.worldcubeassociation.org/competitions/HeartlandChampionship2023) | 7.18 | 152 | United States |
-| 409 | [Polish Nationals 2010](https://www.worldcubeassociation.org/competitions/PolishNationals2010) | 7.18 | 62 | Poland |
-| 410 | [Sotenäs Summer Solving 2023](https://www.worldcubeassociation.org/competitions/SotenasSummerSolving2023) | 7.17 | 24 | Sweden |
-| 411 | [Frejus Open 2022](https://www.worldcubeassociation.org/competitions/FrejusOpen2022) | 7.17 | 54 | France |
-| 412 | [French Championship 2019](https://www.worldcubeassociation.org/competitions/FrenchChampionship2019) | 7.16 | 183 | France |
-| 413 | [Helsinki Open 2020](https://www.worldcubeassociation.org/competitions/HelsinkiOpen2020) | 7.16 | 50 | Finland |
-| 414 | [Polish Open 2018](https://www.worldcubeassociation.org/competitions/PolishOpen2018) | 7.16 | 153 | Poland |
-| 415 | [Benelux Open 2009](https://www.worldcubeassociation.org/competitions/BeneluxOpen2009) | 7.16 | 45 | Netherlands |
-| 416 | [Belgian Open 2010](https://www.worldcubeassociation.org/competitions/BelgianOpen2010) | 7.15 | 65 | Belgium |
-| 417 | [Hudiksvall Open 2023](https://www.worldcubeassociation.org/competitions/HudiksvallOpen2023) | 7.15 | 26 | Sweden |
-| 418 | [Heartland Champs 2018](https://www.worldcubeassociation.org/competitions/HeartlandChampionships2018) | 7.15 | 161 | United States |
-| 419 | [Hungarian Open 2010](https://www.worldcubeassociation.org/competitions/HungarianOpen2010) | 7.15 | 89 | Hungary |
-| 420 | [Rocky Mountain Championship 2023](https://www.worldcubeassociation.org/competitions/RockyMountainChampionship2023) | 7.15 | 288 | United States |
-| 421 | [Spain 2018](https://www.worldcubeassociation.org/competitions/Spain2018) | 7.14 | 141 | Spain |
-| 422 | [Slovenian Open 2015](https://www.worldcubeassociation.org/competitions/SlovenianOpen2015) | 7.14 | 44 | Slovenia |
-| 423 | [Estonian Open 2012](https://www.worldcubeassociation.org/competitions/EstonianOpen2012) | 7.14 | 22 | Estonia |
-| 424 | [German Open 2017](https://www.worldcubeassociation.org/competitions/GermanOpen2017) | 7.14 | 103 | Germany |
-| 425 | [Franconia Open 2014](https://www.worldcubeassociation.org/competitions/FranconiaOpen2014) | 7.14 | 37 | Germany |
-| 426 | [Cubing Kazakhstan Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingKazakhstanNationals2023) | 7.14 | 37 | Kazakhstan |
-| 427 | [Rocky Top 2019](https://www.worldcubeassociation.org/competitions/RockyTop2019) | 7.13 | 82 | United States |
-| 428 | [Melbourne Summer 2024](https://www.worldcubeassociation.org/competitions/MelbourneSummer2024) | 7.13 | 382 | Australia |
-| 429 | [Liechtenstein Open 2019](https://www.worldcubeassociation.org/competitions/LiechtensteinOpen2019) | 7.13 | 60 | Liechtenstein |
-| 430 | [Indonesian Championship 2018](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2018) | 7.13 | 60 | Indonesia |
-| 431 | [Solving In Sale 2024](https://www.worldcubeassociation.org/competitions/SolvingInSale2024) | 7.13 | 77 | Australia |
-| 432 | [B.O.N.D. Open 2017](https://www.worldcubeassociation.org/competitions/BONDOpen2017) | 7.13 | 54 | Slovakia |
-| 433 | [HDC I - Måløv Park 2022](https://www.worldcubeassociation.org/competitions/HDCIMalovPark2022) | 7.13 | 39 | Denmark |
-| 434 | [Luxembourg Open 2018](https://www.worldcubeassociation.org/competitions/LuxembourgOpen2018) | 7.13 | 63 | Luxembourg |
-| 435 | [Slovenian Open 2013](https://www.worldcubeassociation.org/competitions/SlovenianOpen2013) | 7.12 | 40 | Slovenia |
-| 436 | [Spanish Championship 2019](https://www.worldcubeassociation.org/competitions/SpanishChampionship2019) | 7.12 | 112 | Spain |
-| 437 | [Eastwood Cubing 2024](https://www.worldcubeassociation.org/competitions/EastwoodCubing2024) | 7.12 | 108 | United States |
-| 438 | [Potablava Open 2022](https://www.worldcubeassociation.org/competitions/PotablavaOpen2022) | 7.12 | 50 | Spain |
-| 439 | [Mallorca Open 2014](https://www.worldcubeassociation.org/competitions/Mallorca2014) | 7.12 | 17 | Spain |
-| 440 | [Czech Open 2007](https://www.worldcubeassociation.org/competitions/CzechOpen2007) | 7.12 | 26 | Czech Republic |
-| 441 | [Indian Nationals 2023](https://www.worldcubeassociation.org/competitions/IndianNationals2023) | 7.12 | 78 | India |
-| 442 | [Great Lakes Championship 2019](https://www.worldcubeassociation.org/competitions/GreatLakesChampionship2019) | 7.12 | 182 | United States |
-| 443 | [Zvornik Open 2023](https://www.worldcubeassociation.org/competitions/ZvornikOpen2023) | 7.12 | 26 | Bosnia and Herzegovina |
-| 444 | [French Open 2013](https://www.worldcubeassociation.org/competitions/FrenchOpen2013) | 7.11 | 53 | France |
-| 445 | [Industrial Cube 2012](https://www.worldcubeassociation.org/competitions/IndustrialCube2012) | 7.11 | 36 | Poland |
-| 446 | [Dragon Cubing 2019](https://www.worldcubeassociation.org/competitions/DragonCubing2019) | 7.11 | 109 | Poland |
-| 447 | [Southeast Championship 2022](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2022) | 7.11 | 274 | United States |
-| 448 | [Spørring Cube Days 2011](https://www.worldcubeassociation.org/competitions/SporringCubeDays2011) | 7.11 | 19 | Denmark |
-| 449 | [De Wilg Open 2014](https://www.worldcubeassociation.org/competitions/DeWilgOpen2014) | 7.11 | 38 | Belgium |
-| 450 | [Frankfurt Cube Days 2017](https://www.worldcubeassociation.org/competitions/FrankfurtCubeDays2017) | 7.10 | 105 | Germany |
-| 451 | [Batam Open 2018](https://www.worldcubeassociation.org/competitions/BatamOpen2018) | 7.10 | 29 | Indonesia |
-| 452 | [Nelidovo Open 2013](https://www.worldcubeassociation.org/competitions/NelidovoOpen2013) | 7.10 | 59 | Russia |
-| 453 | [Ural Winter 2014](https://www.worldcubeassociation.org/competitions/UralWinter2014) | 7.10 | 21 | Russia |
-| 454 | [Western Championship 2023](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2023) | 7.09 | 269 | United States |
-| 455 | [Rubik Zacatecas 2017](https://www.worldcubeassociation.org/competitions/RZOpen2017) | 7.09 | 97 | Mexico |
-| 456 | [Valborg Cubing 2019](https://www.worldcubeassociation.org/competitions/ValborgCubing2019) | 7.09 | 44 | Sweden |
-| 457 | [UNIVR Open 2023](https://www.worldcubeassociation.org/competitions/UNIVROpen2023) | 7.09 | 45 | Brazil |
-| 458 | [Weston-super-Mare Open 2022](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2022) | 7.09 | 82 | United Kingdom |
-| 459 | [Polish Nationals 2012](https://www.worldcubeassociation.org/competitions/PolishNationals2012) | 7.08 | 71 | Poland |
-| 460 | [Šiauliai-Tilžė Open 2017](https://www.worldcubeassociation.org/competitions/SiauliaiTilzeOpen2017) | 7.08 | 25 | Lithuania |
-| 461 | [Bački Petrovac Open 2019](https://www.worldcubeassociation.org/competitions/BackiPetrovacOpen2019) | 7.08 | 51 | Serbia |
-| 462 | [Side Events Bangalore Feb 2024](https://www.worldcubeassociation.org/competitions/SideEventsBangaloreFeb2024) | 7.08 | 26 | India |
-| 463 | [DSF Generalforsamlingen 2024](https://www.worldcubeassociation.org/competitions/DSFGeneralforsamlingen2024) | 7.08 | 78 | Denmark |
-| 464 | [Vårgårda Open 2012](https://www.worldcubeassociation.org/competitions/VargardaOpen2012) | 7.08 | 53 | Sweden |
-| 465 | [Pulmapelipäivät 2023](https://www.worldcubeassociation.org/competitions/Pulmapelipaivat2023) | 7.08 | 40 | Finland |
-| 466 | [Naoned Open 2011](https://www.worldcubeassociation.org/competitions/NaonedOpen2011) | 7.07 | 14 | France |
-| 467 | [Puy de Dome Open 2011](https://www.worldcubeassociation.org/competitions/PuydeDomeOpen2011) | 7.07 | 15 | France |
-| 468 | [Ural Winter 2015](https://www.worldcubeassociation.org/competitions/UralWinter2015) | 7.07 | 15 | Russia |
-| 469 | [AG Championship 2017](https://www.worldcubeassociation.org/competitions/AGChampionship2017) | 7.07 | 45 | Indonesia |
-| 470 | [Euro 2010](https://www.worldcubeassociation.org/competitions/Euro2010) | 7.07 | 227 | Hungary |
-| 471 | [Stockholmsligan Easter 2023](https://www.worldcubeassociation.org/competitions/StockholmsliganEasterSpecial2023) | 7.06 | 35 | Sweden |
-| 472 | [Rahn Education Leipzig 2023](https://www.worldcubeassociation.org/competitions/RahnEducationLeipzig2023) | 7.06 | 106 | Germany |
-| 473 | [Sabah Cube Open 2019](https://www.worldcubeassociation.org/competitions/SabahCubeOpen2019) | 7.05 | 55 | Malaysia |
-| 474 | [Bratislava Christmas Cubing 2022](https://www.worldcubeassociation.org/competitions/BratislavaChristmasCubing2022) | 7.05 | 57 | Slovakia |
-| 475 | [Swedish Championship 2011](https://www.worldcubeassociation.org/competitions/SwedishChampionship2011) | 7.05 | 77 | Sweden |
-| 476 | [Autotalo All Events 2023](https://www.worldcubeassociation.org/competitions/AutotaloAllEvents2023) | 7.05 | 20 | Finland |
-| 477 | [Czech Championship 2023](https://www.worldcubeassociation.org/competitions/CzechChampionship2023) | 7.05 | 126 | Czech Republic |
-| 478 | [Hungarian Open 2011](https://www.worldcubeassociation.org/competitions/HungarianOpen2011) | 7.05 | 110 | Hungary |
-| 479 | [Estonian Open 2020](https://www.worldcubeassociation.org/competitions/EstonianOpen2020) | 7.04 | 48 | Estonia |
-| 480 | [Radomsko Cube Theory 2015](https://www.worldcubeassociation.org/competitions/Radomsko2015) | 7.04 | 102 | Poland |
-| 481 | [German Nationals 2016](https://www.worldcubeassociation.org/competitions/GermanNationals2016) | 7.04 | 128 | Germany |
-| 482 | [Flag City Summer 2023](https://www.worldcubeassociation.org/competitions/FlagCitySummer2023) | 7.04 | 106 | United States |
-| 483 | [Barby Cube 2024](https://www.worldcubeassociation.org/competitions/BarbyCube2024) | 7.03 | 119 | France |
-| 484 | [ŚLS Zawiercie 2017](https://www.worldcubeassociation.org/competitions/SLSZawiercie2017) | 7.03 | 121 | Poland |
-| 485 | [Quijote Open 2019](https://www.worldcubeassociation.org/competitions/QuijoteOpen2019) | 7.03 | 33 | Spain |
-| 486 | [Osijek Open 2015](https://www.worldcubeassociation.org/competitions/OsijekOpen2015) | 7.03 | 34 | Croatia |
-| 487 | [Florida Fall 2021](https://www.worldcubeassociation.org/competitions/FloridaFall2021) | 7.03 | 38 | United States |
-| 488 | [Dragon Cubing 2018](https://www.worldcubeassociation.org/competitions/DragonCubing2018) | 7.02 | 93 | Poland |
-| 489 | [Vilnius Winter Open 2023](https://www.worldcubeassociation.org/competitions/VilniusWinterOpen2023) | 7.02 | 48 | Lithuania |
-| 490 | [Austrian Open 2013](https://www.worldcubeassociation.org/competitions/AustrianOpen2013) | 7.02 | 52 | Austria |
-| 491 | [Italian Championship 2023](https://www.worldcubeassociation.org/competitions/ItalianChampionship2023) | 7.02 | 260 | Italy |
-| 492 | [Little Village Open 2022](https://www.worldcubeassociation.org/competitions/LittleVillageOpen2022) | 7.02 | 56 | Switzerland |
-| 493 | [Medan April Fools Open 2018](https://www.worldcubeassociation.org/competitions/MedanAFO2018) | 7.00 | 23 | Indonesia |
-| 494 | [Heartland Championship 2022](https://www.worldcubeassociation.org/competitions/HeartlandChampionship2022) | 7.00 | 159 | United States |
-| 495 | [No Triangle in Dębica 2023](https://www.worldcubeassociation.org/competitions/NoTriangleinDebica2023) | 7.00 | 47 | Poland |
-| 496 | [Pão de Queijo Open 2022](https://www.worldcubeassociation.org/competitions/PaodeQueijoOpen2022) | 7.00 | 22 | Brazil |
-| 497 | [San Marino Nationals 2018](https://www.worldcubeassociation.org/competitions/SanMarinoNationals2018) | 7.00 | 24 | San Marino |
-| 498 | [Sens Open 2018](https://www.worldcubeassociation.org/competitions/SensOpen2018) | 7.00 | 69 | France |
-| 499 | [Skips in Brest 2015](https://www.worldcubeassociation.org/competitions/SkipsinBrest2015) | 7.00 | 48 | Belarus |
-| 500 | [Anime Adventure III 2023](https://www.worldcubeassociation.org/competitions/AutotaloAnimeAdventureIII2023) | 7.00 | 27 | Finland |
-| 501 | [Basauri Open 2014](https://www.worldcubeassociation.org/competitions/BasauriOpen2014) | 7.00 | 25 | Spain |
-| 502 | [Cubing Heredia 2019](https://www.worldcubeassociation.org/competitions/CubingHeredia2019) | 7.00 | 57 | Costa Rica |
-| 503 | [Warsaw Cube Masters 2015](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2015) | 6.99 | 111 | Poland |
-| 504 | [Croatian Nationals 2023](https://www.worldcubeassociation.org/competitions/CroatianNationals2023) | 6.99 | 74 | Croatia |
-| 505 | [Frankfurt Cube Days 2015](https://www.worldcubeassociation.org/competitions/FrankfurtCubeDays2015) | 6.99 | 67 | Germany |
-| 506 | [New Year's in the Dolomites 2023](https://www.worldcubeassociation.org/competitions/NewYearsintheDolomites2023) | 6.98 | 48 | Italy |
-| 507 | [Dutch Open 2011](https://www.worldcubeassociation.org/competitions/DutchOpen2011) | 6.98 | 95 | Netherlands |
-| 508 | [RNSEA 2023](https://www.worldcubeassociation.org/competitions/RNSEA2023) | 6.98 | 44 | Germany |
-| 509 | [Belgian Open 2008](https://www.worldcubeassociation.org/competitions/BelgianOpen2008) | 6.98 | 41 | Belgium |
-| 510 | [Norwegian Championship 2022](https://www.worldcubeassociation.org/competitions/NorwegianChampionship2022) | 6.97 | 199 | Norway |
-| 511 | [Hessen Open 2012](https://www.worldcubeassociation.org/competitions/HessenOpen2012) | 6.97 | 77 | Germany |
-| 512 | [Horse City 2021](https://www.worldcubeassociation.org/competitions/HorseCity2021) | 6.97 | 38 | Ukraine |
-| 513 | [Guildford Summer Open 2011](https://www.worldcubeassociation.org/competitions/GuildfordSummerOpen2011) | 6.97 | 37 | United Kingdom |
-| 514 | [Munich Open 2012](https://www.worldcubeassociation.org/competitions/MunichOpen2012) | 6.97 | 73 | Germany |
-| 515 | [Hessen Open 2015](https://www.worldcubeassociation.org/competitions/HessenOpen2015) | 6.97 | 71 | Germany |
-| 516 | [Eastside Side Events 2024](https://www.worldcubeassociation.org/competitions/EastsideSideEvents2024) | 6.97 | 71 | Australia |
-| 517 | [PSKubing 2017](https://www.worldcubeassociation.org/competitions/PSKubing2017) | 6.97 | 64 | Germany |
-| 518 | [Borlänge Open 2024](https://www.worldcubeassociation.org/competitions/BorlangeOpen2024) | 6.97 | 29 | Sweden |
-| 519 | [Kensington May Upstairs 2024](https://www.worldcubeassociation.org/competitions/KensingtonMayUpstairs2024) | 6.96 | 26 | Australia |
-| 520 | [Big Cube Krasnik 2014](https://www.worldcubeassociation.org/competitions/BigCubeKrasnik2014) | 6.96 | 51 | Poland |
-| 521 | [Speed Days Kraśnik 2017](https://www.worldcubeassociation.org/competitions/SpeedDaysKrasnik2017) | 6.96 | 49 | Poland |
-| 522 | [Bratislava Open 2015](https://www.worldcubeassociation.org/competitions/BratislavaOpen2015) | 6.96 | 48 | Slovakia |
-| 523 | [Stockholm VRG 2021](https://www.worldcubeassociation.org/competitions/StockholmVRG2021) | 6.96 | 45 | Sweden |
-| 524 | [Deutsche Cube Days Helsinki 2024](https://www.worldcubeassociation.org/competitions/DeutscheCubeDaysHelsinki2024) | 6.95 | 88 | Finland |
-| 525 | [Sun City Open 2019](https://www.worldcubeassociation.org/competitions/SunCityOpen2019) | 6.95 | 21 | Brazil |
-| 526 | [Aarhus Open 2012](https://www.worldcubeassociation.org/competitions/AarhusOpen2012) | 6.95 | 20 | Denmark |
-| 527 | [Osório Guri Cubing 2024](https://www.worldcubeassociation.org/competitions/OsorioGuriCubing2024) | 6.95 | 39 | Brazil |
-| 528 | [Barby Cube 73 2017](https://www.worldcubeassociation.org/competitions/BarbyCube732017) | 6.94 | 52 | France |
-| 529 | [Slovenia Nationals 2018](https://www.worldcubeassociation.org/competitions/SloveniaNationals2018) | 6.94 | 52 | Slovenia |
-| 530 | [Rheinland-Pfalz Open 2022](https://www.worldcubeassociation.org/competitions/RheinlandPfalzOpen2022) | 6.94 | 81 | Germany |
-| 531 | [Indonesian Championship 2016](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2016) | 6.94 | 64 | Indonesia |
-| 532 | [Cubo Uai BH Open 2019](https://www.worldcubeassociation.org/competitions/CuboUaiBHOpen2019) | 6.94 | 32 | Brazil |
-| 533 | [Countless Cubes Chicago B 2024](https://www.worldcubeassociation.org/competitions/CountlessCubesChicagoB2024) | 6.93 | 45 | United States |
-| 534 | [Erciyes Weekend 2018](https://www.worldcubeassociation.org/competitions/ErciyesWeekend2018) | 6.93 | 14 | Turkey |
-| 535 | [West Visayas Championship 2019](https://www.worldcubeassociation.org/competitions/WestVisayasChampionship2019) | 6.93 | 28 | Philippines |
-| 536 | [Melgar Summer 2018](https://www.worldcubeassociation.org/competitions/MelgarSummer2018) | 6.93 | 42 | Colombia |
-| 537 | [Swedish Decathlon Challenge 2019](https://www.worldcubeassociation.org/competitions/SwedishDecathlonChallenge2019) | 6.92 | 40 | Sweden |
-| 538 | [Ljubljana Open 2017](https://www.worldcubeassociation.org/competitions/LjubljanaOpen2017) | 6.92 | 38 | Slovenia |
-| 539 | [Berlin Open 2014](https://www.worldcubeassociation.org/competitions/BerlinOpen2014) | 6.92 | 38 | Germany |
-| 540 | [Toulon Open 2017](https://www.worldcubeassociation.org/competitions/ToulonOpen2017) | 6.92 | 37 | France |
-| 541 | [Italian Open 2017](https://www.worldcubeassociation.org/competitions/ItalianOpen2017) | 6.92 | 74 | Italy |
-| 542 | [German Open 2016](https://www.worldcubeassociation.org/competitions/GermanOpen2016) | 6.92 | 86 | Germany |
-| 543 | [Imaginalia Open 2018](https://www.worldcubeassociation.org/competitions/ImaginaliaOpen2018) | 6.92 | 60 | Spain |
-| 544 | [Celebes 2012](https://www.worldcubeassociation.org/competitions/Celebes2012) | 6.92 | 24 | Indonesia |
-| 545 | [Finnish Championship 2017](https://www.worldcubeassociation.org/competitions/FinnishChampionship2017) | 6.91 | 70 | Finland |
-| 546 | [PärNuti Cubing 2022](https://www.worldcubeassociation.org/competitions/ParNutiCubing2022) | 6.91 | 34 | Estonia |
-| 547 | [Santa Fe Open 2022](https://www.worldcubeassociation.org/competitions/SantaFeOpen2022) | 6.91 | 45 | Argentina |
-| 548 | [France 2018](https://www.worldcubeassociation.org/competitions/France2018) | 6.91 | 213 | France |
-| 549 | [France 2016](https://www.worldcubeassociation.org/competitions/France2016) | 6.91 | 76 | France |
-| 550 | [Oxford Open 2014](https://www.worldcubeassociation.org/competitions/OxfordOpen2014) | 6.91 | 43 | United Kingdom |
-| 551 | [Swedish Championship 2018](https://www.worldcubeassociation.org/competitions/SwedishChampionship2018) | 6.91 | 148 | Sweden |
-| 552 | [Italian Championship 2016](https://www.worldcubeassociation.org/competitions/ItalianChampionship2016) | 6.90 | 104 | Italy |
-| 553 | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022) | 6.90 | 266 | United States |
-| 554 | [Aarhus Christmas 2019](https://www.worldcubeassociation.org/competitions/AarhusChristmas2019) | 6.90 | 50 | Denmark |
-| 555 | [Energy Cube Tomaszów 2023](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2023) | 6.90 | 140 | Poland |
-| 556 | [Franconia Winter 2014](https://www.worldcubeassociation.org/competitions/FranconiaWinter2014) | 6.90 | 30 | Germany |
-| 557 | [Ehte Cube Days 2023](https://www.worldcubeassociation.org/competitions/EhteCubeDays2023) | 6.90 | 49 | Estonia |
-| 558 | [West Coast 2: Mölnlycke 2024](https://www.worldcubeassociation.org/competitions/WestCoast2Molnlycke2024) | 6.90 | 49 | Sweden |
-| 559 | [Wrocław Open 2019](https://www.worldcubeassociation.org/competitions/WroclawOpen2019) | 6.90 | 98 | Poland |
-| 560 | [Vännäs & Friends 2022](https://www.worldcubeassociation.org/competitions/VannasFriends2022) | 6.89 | 38 | Sweden |
-| 561 | [Fargo Fall 2018](https://www.worldcubeassociation.org/competitions/FargoFall2018) | 6.89 | 37 | United States |
-| 562 | [GamMa Spring 2022](https://www.worldcubeassociation.org/competitions/GamMaSpring2022) | 6.89 | 74 | Germany |
-| 563 | [Danish Open 2016](https://www.worldcubeassociation.org/competitions/DanishOpen2016) | 6.89 | 55 | Denmark |
-| 564 | [French Championship 2023](https://www.worldcubeassociation.org/competitions/FrenchChampionship2023) | 6.89 | 280 | France |
-| 565 | [Italian Open 2015](https://www.worldcubeassociation.org/competitions/ItalianOpen2015) | 6.89 | 70 | Italy |
-| 566 | [Brno Open 2019](https://www.worldcubeassociation.org/competitions/BrnoOpen2019) | 6.88 | 52 | Czech Republic |
-| 567 | [Northern Irish Open 2013](https://www.worldcubeassociation.org/competitions/NorthernIrishOpen2013) | 6.88 | 17 | United Kingdom |
-| 568 | [LLS VII Final 2018](https://www.worldcubeassociation.org/competitions/LLSVIIFinal2018) | 6.88 | 49 | Poland |
-| 569 | [Sormet Jäässä Järvenpäässä 2023](https://www.worldcubeassociation.org/competitions/SormetJaassaJarvenpaassa2023) | 6.88 | 57 | Finland |
-| 570 | [Ledgewood Winter Open 2017](https://www.worldcubeassociation.org/competitions/LedgewoodWinterOpen2017) | 6.88 | 40 | United States |
-| 571 | [Trieste Open 2013](https://www.worldcubeassociation.org/competitions/TriesteOpen2013) | 6.88 | 16 | Italy |
-| 572 | [Sant Valentí a Parets 2023](https://www.worldcubeassociation.org/competitions/SantValentiParets2023) | 6.87 | 94 | Spain |
-| 573 | [Hasselt Open 2014](https://www.worldcubeassociation.org/competitions/HasseltOpen2014) | 6.87 | 39 | Belgium |
-| 574 | [Polish Nationals 2011](https://www.worldcubeassociation.org/competitions/PolishNationals2011) | 6.87 | 62 | Poland |
-| 575 | [Tårnby Cube Træf 2018](https://www.worldcubeassociation.org/competitions/TarnbyCubeTraef2018) | 6.87 | 84 | Denmark |
-| 576 | [Weston-super-Mare Autumn 2022](https://www.worldcubeassociation.org/competitions/WestonsuperMareAutumn2022) | 6.86 | 81 | United Kingdom |
-| 577 | [Oulu Open 2018](https://www.worldcubeassociation.org/competitions/OuluOpen2018) | 6.86 | 29 | Finland |
-| 578 | [Düsseldorf Open 2011](https://www.worldcubeassociation.org/competitions/DusseldorfOpen2011) | 6.86 | 65 | Germany |
-| 579 | [Come Back to Landvetter 2024](https://www.worldcubeassociation.org/competitions/ComeBacktoLandvetter2024) | 6.86 | 50 | Sweden |
-| 580 | [Finnish Championship 2022](https://www.worldcubeassociation.org/competitions/FinnishChampionship2022) | 6.86 | 71 | Finland |
-| 581 | [German Nationals 2015](https://www.worldcubeassociation.org/competitions/GermanNationals2015) | 6.86 | 134 | Germany |
-| 582 | [Hessen Open 2014](https://www.worldcubeassociation.org/competitions/HessenOpen2014) | 6.86 | 63 | Germany |
-| 583 | [Bosnia and Herzegovina Open 2016](https://www.worldcubeassociation.org/competitions/BosniaandHerzegovinaOpen2016) | 6.86 | 28 | Bosnia and Herzegovina |
-| 584 | [British Summer Open 2019](https://www.worldcubeassociation.org/competitions/BritishSummerOpen2019) | 6.86 | 166 | United Kingdom |
-| 585 | [Empire State Spring Special 2024](https://www.worldcubeassociation.org/competitions/EmpireStateSpringSpecial2024) | 6.85 | 34 | United States |
-| 586 | [Velilla Open 2024](https://www.worldcubeassociation.org/competitions/VelillaOpen2024) | 6.85 | 61 | Spain |
-| 587 | [Boston University Winter 2019](https://www.worldcubeassociation.org/competitions/BUWinter2019) | 6.85 | 114 | United States |
-| 588 | [Tassin-la-Demi-Cube Open 2019](https://www.worldcubeassociation.org/competitions/TassinlaDemiCubeOpen2019) | 6.85 | 67 | France |
-| 589 | [Ural Open 2014](https://www.worldcubeassociation.org/competitions/UralOpen2014) | 6.85 | 20 | Russia |
-| 590 | [Cubelonia 2016](https://www.worldcubeassociation.org/competitions/Cubelonia2016) | 6.85 | 93 | Germany |
-| 591 | [New Zealand Nationals 2017](https://www.worldcubeassociation.org/competitions/NewZealandNationals2017) | 6.85 | 86 | New Zealand |
-| 592 | [Budapest Back to School 2023](https://www.worldcubeassociation.org/competitions/BudapestBacktoSchool2023) | 6.85 | 79 | Hungary |
-| 593 | [Ural Open 2016](https://www.worldcubeassociation.org/competitions/UralOpen2016) | 6.85 | 26 | Russia |
-| 594 | [Quijote Open 2016](https://www.worldcubeassociation.org/competitions/QuijoteOpen2016) | 6.85 | 65 | Spain |
-| 595 | [Sigulda Open 2023](https://www.worldcubeassociation.org/competitions/SiguldaOpen2023) | 6.84 | 51 | Latvia |
-| 596 | [Mérida Summer 2016](https://www.worldcubeassociation.org/competitions/MeridaSummer2016) | 6.84 | 25 | Venezuela |
-| 597 | [Tapiola Winter Open 2019](https://www.worldcubeassociation.org/competitions/TapiolaWinterOpen2019) | 6.84 | 37 | Finland |
-| 598 | [Frankivsk Open 2019](https://www.worldcubeassociation.org/competitions/FrankivskOpen2019) | 6.84 | 43 | Ukraine |
-| 599 | [Euro 2014](https://www.worldcubeassociation.org/competitions/Euro2014) | 6.84 | 269 | Denmark |
-| 600 | [France 2017](https://www.worldcubeassociation.org/competitions/France2017) | 6.84 | 182 | France |
-| 601 | [Urnieta Open 2019](https://www.worldcubeassociation.org/competitions/UrnietaOpen2019) | 6.83 | 30 | Spain |
-| 602 | [Zeeland Open 2013](https://www.worldcubeassociation.org/competitions/ZeelandOpen2013) | 6.83 | 24 | Netherlands |
-| 603 | [Pão de Queijo Open 2023](https://www.worldcubeassociation.org/competitions/PaodeQueijoOpen2023) | 6.83 | 29 | Brazil |
-| 604 | [Aarhus Spring 2019](https://www.worldcubeassociation.org/competitions/AarhusSpring2019) | 6.83 | 46 | Denmark |
-| 605 | [Rheinland-Pfalz Open 2023](https://www.worldcubeassociation.org/competitions/RheinlandPfalzOpen2023) | 6.82 | 80 | Germany |
-| 606 | [Kuutionvääntelyt 2024](https://www.worldcubeassociation.org/competitions/KirkkonummenKuutionvaantelyt2024) | 6.82 | 97 | Finland |
-| 607 | [Arctic Open 2018](https://www.worldcubeassociation.org/competitions/ArcticOpen2018) | 6.82 | 17 | Norway |
-| 608 | [TKTK Workday Cubing II 2023](https://www.worldcubeassociation.org/competitions/TKTKWorkdayCubingII2023) | 6.82 | 17 | Estonia |
-| 609 | [Cube4fun in Biała Rawska 2024](https://www.worldcubeassociation.org/competitions/Cube4funinBialaRawska2024) | 6.82 | 72 | Poland |
-| 610 | [Oregon Championship 2022](https://www.worldcubeassociation.org/competitions/OregonChampionship2022) | 6.82 | 94 | United States |
-| 611 | [Burabay Open 2024](https://www.worldcubeassociation.org/competitions/BurabayOpen2024) | 6.82 | 11 | Kazakhstan |
-| 612 | [Dutch Masters 2008](https://www.worldcubeassociation.org/competitions/DutchMasters2008) | 6.82 | 60 | Netherlands |
-| 613 | [Latvian Open 2018](https://www.worldcubeassociation.org/competitions/LatvianOpen2018) | 6.82 | 76 | Latvia |
-| 614 | [Carnegie Mellon Winter 2014](https://www.worldcubeassociation.org/competitions/CMUWinter2014) | 6.81 | 27 | United States |
-| 615 | [Latvian Open 2014](https://www.worldcubeassociation.org/competitions/LatvianOpen2014) | 6.81 | 16 | Latvia |
-| 616 | [Czech Open 2017](https://www.worldcubeassociation.org/competitions/CzechOpen2017) | 6.81 | 37 | Czech Republic |
-| 617 | [Musée suisse du jeu 2017](https://www.worldcubeassociation.org/competitions/Museesuissedujeu2017) | 6.81 | 58 | Switzerland |
-| 618 | [Oslo Open 2023](https://www.worldcubeassociation.org/competitions/OsloOpen2023) | 6.80 | 110 | Norway |
-| 619 | [Tajikistan Open 2019](https://www.worldcubeassociation.org/competitions/TajikistanOpen2019) | 6.80 | 15 | Tajikistan |
-| 620 | [Wyoming Summer 2019](https://www.worldcubeassociation.org/competitions/WyomingSummer2019) | 6.80 | 30 | United States |
-| 621 | [Rochester Fall 2022](https://www.worldcubeassociation.org/competitions/RochesterFall2022) | 6.80 | 124 | United States |
-| 622 | [PSKubing 2016](https://www.worldcubeassociation.org/competitions/PSKubing2016) | 6.80 | 64 | Germany |
-| 623 | [Cuthberts Open 2014](https://www.worldcubeassociation.org/competitions/CuthbertsOpen2014) | 6.79 | 63 | United Kingdom |
-| 624 | [Italian Open 2012](https://www.worldcubeassociation.org/competitions/ItalianOpen2012) | 6.79 | 53 | Italy |
-| 625 | [Lithuanian Open 2013](https://www.worldcubeassociation.org/competitions/LithuanianOpen2013) | 6.79 | 19 | Lithuania |
-| 626 | [Volga Nizhny Novgorod 2020](https://www.worldcubeassociation.org/competitions/VolgaNizhnyNovgorod2020) | 6.79 | 71 | Russia |
-| 627 | [SPB Open 2014](https://www.worldcubeassociation.org/competitions/SPBOpen2014) | 6.79 | 28 | Russia |
-| 628 | [Puy de Dome Open 2010](https://www.worldcubeassociation.org/competitions/PuyDeDomeOpen2010) | 6.78 | 9 | France |
-| 629 | [Austrian Open 2014](https://www.worldcubeassociation.org/competitions/AustrianOpen2014) | 6.78 | 36 | Austria |
-| 630 | [Bilbao Open 2019](https://www.worldcubeassociation.org/competitions/BilbaoOpen2019) | 6.78 | 72 | Spain |
-| 631 | [Odsherred Forårscubing 2022](https://www.worldcubeassociation.org/competitions/OdsherredForarscubing2022) | 6.78 | 58 | Denmark |
-| 632 | [Swedish Championship 2019](https://www.worldcubeassociation.org/competitions/SwedishChampionship2019) | 6.77 | 182 | Sweden |
-| 633 | [MIR Open 2013](https://www.worldcubeassociation.org/competitions/MIROpen2013) | 6.77 | 31 | Spain |
-| 634 | [Lithuanian Open 2016](https://www.worldcubeassociation.org/competitions/LithuanianOpen2016) | 6.77 | 22 | Lithuania |
-| 635 | [Estonian Open 2023](https://www.worldcubeassociation.org/competitions/EstonianOpen2023) | 6.77 | 61 | Estonia |
-| 636 | [Erfurt Open 2013](https://www.worldcubeassociation.org/competitions/ErfurtOpen2013) | 6.77 | 26 | Germany |
-| 637 | [Northeast Championship 2018](https://www.worldcubeassociation.org/competitions/NortheastChampionship2018) | 6.77 | 150 | United States |
-| 638 | [Oslo Open 2022](https://www.worldcubeassociation.org/competitions/OsloOpen2022) | 6.76 | 68 | Norway |
-| 639 | [Nancy Open 2017](https://www.worldcubeassociation.org/competitions/NancyOpen2017) | 6.76 | 89 | France |
-| 640 | [Champagne Open 2018](https://www.worldcubeassociation.org/competitions/ChampagneOpen2018) | 6.76 | 105 | France |
-| 641 | [Aguascalientes Summer 2016](https://www.worldcubeassociation.org/competitions/AguascalientesSummer2016) | 6.76 | 92 | Mexico |
-| 642 | [Baztan Open 2022](https://www.worldcubeassociation.org/competitions/BaztanOpen2022) | 6.76 | 46 | Spain |
-| 643 | [Warszawa Open 2012](https://www.worldcubeassociation.org/competitions/WarsawaOpen2012) | 6.76 | 71 | Poland |
-| 644 | [Ballerup Open 2013](https://www.worldcubeassociation.org/competitions/BallerupOpen2013) | 6.76 | 29 | Denmark |
-| 645 | [Feltre Winter Open 2024](https://www.worldcubeassociation.org/competitions/FeltreWinterOpen2024) | 6.76 | 58 | Italy |
-| 646 | [Munich Open 2015](https://www.worldcubeassociation.org/competitions/MunichOpen2015) | 6.76 | 82 | Germany |
-| 647 | [Turnin' Offaly Fast 2024](https://www.worldcubeassociation.org/competitions/TurninOffalyFast2024) | 6.76 | 98 | Ireland |
-| 648 | [NZ South Island Champ 2024](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2024) | 6.75 | 61 | New Zealand |
-| 649 | [Project Kedzierzyn-Kozle 2021](https://www.worldcubeassociation.org/competitions/ProjectKedzierzynKozle2021) | 6.75 | 73 | Poland |
-| 650 | [Tajikistan Open 2018](https://www.worldcubeassociation.org/competitions/TajikistanOpen2018) | 6.75 | 12 | Tajikistan |
-| 651 | [Sébra Open 2014](https://www.worldcubeassociation.org/competitions/SebraOpen2014) | 6.75 | 28 | Germany |
-| 652 | [Swedish Cubedays 2010](https://www.worldcubeassociation.org/competitions/SwedishCubedays2010) | 6.75 | 44 | Sweden |
-| 653 | [Itämeri 2023](https://www.worldcubeassociation.org/competitions/Itameri2023) | 6.75 | 12 | Finland |
-| 654 | [Dutch Winter 2017](https://www.worldcubeassociation.org/competitions/DutchWinter2017) | 6.74 | 47 | Netherlands |
-| 655 | [Polish Nationals 2017](https://www.worldcubeassociation.org/competitions/PolishNationals2017) | 6.74 | 190 | Poland |
-| 656 | [Warsaw Cube Masters 2023](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2023) | 6.74 | 147 | Poland |
-| 657 | [Clockeborg 2024](https://www.worldcubeassociation.org/competitions/Clockeborg2024) | 6.74 | 50 | Sweden |
-| 658 | [Munich Open 2013](https://www.worldcubeassociation.org/competitions/MunichOpen2013) | 6.74 | 111 | Germany |
-| 659 | [Nottingham Summer 2014](https://www.worldcubeassociation.org/competitions/NottinghamSummer2014) | 6.73 | 49 | United Kingdom |
-| 660 | [Kaliska Open 2015](https://www.worldcubeassociation.org/competitions/KaliskaOpen2015) | 6.73 | 64 | Poland |
-| 661 | [N8W8 Summer 2014](https://www.worldcubeassociation.org/competitions/N8W8Summer2014) | 6.73 | 45 | Belgium |
-| 662 | [Elista Lyceum 2019](https://www.worldcubeassociation.org/competitions/ElistaLyceum2019) | 6.73 | 30 | Russia |
-| 663 | [Sandnes Open 2020](https://www.worldcubeassociation.org/competitions/SandnesOpen2020) | 6.73 | 30 | Norway |
-| 664 | [Barcelona Winter Open 2012](https://www.worldcubeassociation.org/competitions/BarcelonaWinterOpen2012) | 6.73 | 30 | Spain |
-| 665 | [Belgrade Summer 2022](https://www.worldcubeassociation.org/competitions/BelgradeSummer2022) | 6.73 | 45 | Serbia |
-| 666 | [Quetzal Cubing 2019](https://www.worldcubeassociation.org/competitions/QuetzalCubing2019) | 6.73 | 56 | Mexico |
-| 667 | [Nyköping Winter Cubing 2023](https://www.worldcubeassociation.org/competitions/NykopingWinterCubing2023) | 6.73 | 70 | Sweden |
-| 668 | [Fredericia Open 2011](https://www.worldcubeassociation.org/competitions/FredericiaOpen2011) | 6.73 | 22 | Denmark |
-| 669 | [Plentzia Open 2017](https://www.worldcubeassociation.org/competitions/PlentziaOpen2017) | 6.72 | 40 | Spain |
-| 670 | [Serbian Championship 2022](https://www.worldcubeassociation.org/competitions/SerbianChampionship2022) | 6.72 | 47 | Serbia |
-| 671 | [Italian Open 2010](https://www.worldcubeassociation.org/competitions/CubeNRoll2010) | 6.72 | 61 | Italy |
-| 672 | [Belgian Open 2009](https://www.worldcubeassociation.org/competitions/BelgianOpen2009) | 6.72 | 46 | Belgium |
-| 673 | [Uzbekistan All Events 2019](https://www.worldcubeassociation.org/competitions/UzbekistanAllEvents2019) | 6.72 | 53 | Uzbekistan |
-| 674 | [Nizhny Novgorod Spring Open 2019](https://www.worldcubeassociation.org/competitions/NizhnyNovgorodSpringOpen2019) | 6.71 | 63 | Russia |
-| 675 | [CUCEI Open 2015](https://www.worldcubeassociation.org/competitions/CUCEI2015) | 6.71 | 52 | Mexico |
-| 676 | [US Nationals 2012](https://www.worldcubeassociation.org/competitions/USNationals2012) | 6.71 | 259 | United States |
-| 677 | [Slovenian Open 2017](https://www.worldcubeassociation.org/competitions/SlovenianOpen2017) | 6.71 | 55 | Slovenia |
-| 678 | [Zonhoven Open 2014](https://www.worldcubeassociation.org/competitions/ZonhovenOpen2014) | 6.71 | 48 | Belgium |
-| 679 | [Cube Factory League Final 2019](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueFinal2019) | 6.71 | 41 | Poland |
-| 680 | [Kirkkonummi Open 2014](https://www.worldcubeassociation.org/competitions/KirkkonummiOpen2014) | 6.71 | 17 | Finland |
-| 681 | [Weston-super-Mare Open 2017](https://www.worldcubeassociation.org/competitions/WSMO2017) | 6.70 | 105 | United Kingdom |
-| 682 | [SPB Summer Open 2015](https://www.worldcubeassociation.org/competitions/SPBSummerOpen2015) | 6.70 | 44 | Russia |
-| 683 | [Tietomaa Open 2022](https://www.worldcubeassociation.org/competitions/TietomaaOpen2022) | 6.70 | 27 | Finland |
-| 684 | [Tres Estrellas 2023](https://www.worldcubeassociation.org/competitions/TresEstrellas2023) | 6.70 | 57 | Argentina |
-| 685 | [Canada's Best in the West 2024](https://www.worldcubeassociation.org/competitions/CanadasBestintheWest2024) | 6.70 | 144 | Canada |
-| 686 | [La Vall d'Uixó Open 2018](https://www.worldcubeassociation.org/competitions/LaValldUixoOpen2018) | 6.70 | 43 | Spain |
-| 687 | [Osijek Re-Open 2021](https://www.worldcubeassociation.org/competitions/OsijekReOpen2021) | 6.69 | 26 | Croatia |
-| 688 | [Every Event Éire 2019](https://www.worldcubeassociation.org/competitions/EveryEventEire2019) | 6.69 | 97 | Ireland |
-| 689 | [Semarang Fun Cube 2011](https://www.worldcubeassociation.org/competitions/SemarangFunCube2011) | 6.69 | 58 | Indonesia |
-| 690 | [Annuntia Open 2019](https://www.worldcubeassociation.org/competitions/AnnuntiaOpen2019) | 6.69 | 96 | Belgium |
-| 691 | [Staszic Open 2017](https://www.worldcubeassociation.org/competitions/StaszicOpen2017) | 6.68 | 85 | Poland |
-| 692 | [Bogotá Championship 2019](https://www.worldcubeassociation.org/competitions/BogotaChampionship2019) | 6.68 | 77 | Colombia |
-| 693 | [UK Masters 2009](https://www.worldcubeassociation.org/competitions/UKMasters2009) | 6.68 | 40 | United Kingdom |
-| 694 | [Elsass Open 2018](https://www.worldcubeassociation.org/competitions/ElsassOpen2018) | 6.67 | 104 | France |
-| 695 | [Austrian Open 2017](https://www.worldcubeassociation.org/competitions/AustrianOpen2017) | 6.67 | 61 | Austria |
-| 696 | [Sanlo 2017](https://www.worldcubeassociation.org/competitions/ClassicSanLorenzov42017) | 6.67 | 61 | Argentina |
-| 697 | [North Carolina Championship 2023](https://www.worldcubeassociation.org/competitions/NorthCarolinaChampionship2023) | 6.67 | 183 | United States |
-| 698 | [Washington Championship 2020](https://www.worldcubeassociation.org/competitions/WashingtonChampionship2020) | 6.67 | 128 | United States |
-| 699 | [East German Open 2010](https://www.worldcubeassociation.org/competitions/EastGermanOpen2010) | 6.67 | 57 | Germany |
-| 700 | [Prague Open 2024](https://www.worldcubeassociation.org/competitions/PragueOpen2024) | 6.67 | 84 | Czech Republic |
-| 701 | [Cube Factory Częstochowa 2018](https://www.worldcubeassociation.org/competitions/CubeFactoryCzestochowa2018) | 6.67 | 69 | Poland |
-| 702 | [Soares Herdy Open 2024](https://www.worldcubeassociation.org/competitions/SoaresHerdyOpen2024) | 6.67 | 21 | Brazil |
-| 703 | [Swedish Open 2010](https://www.worldcubeassociation.org/competitions/SwedishOpen2010) | 6.67 | 66 | Sweden |
-| 704 | [French Championship 2024](https://www.worldcubeassociation.org/competitions/FrenchChampionship2024) | 6.66 | 280 | France |
-| 705 | [Australian Nationals 2018](https://www.worldcubeassociation.org/competitions/AustralianNationals2018) | 6.66 | 199 | Australia |
-| 706 | [US Nationals 2011](https://www.worldcubeassociation.org/competitions/USNationals2011) | 6.66 | 204 | United States |
-| 707 | [Norrkubing 2019](https://www.worldcubeassociation.org/competitions/Norrkubing2019) | 6.66 | 59 | Sweden |
-| 708 | [Vilnius Amanita 2023](https://www.worldcubeassociation.org/competitions/VilniusAmanita2023) | 6.66 | 35 | Lithuania |
-| 709 | [Manchester Open 2019](https://www.worldcubeassociation.org/competitions/ManchesterOpen2019) | 6.65 | 144 | United Kingdom |
-| 710 | [Pasuruan Open 2012](https://www.worldcubeassociation.org/competitions/PasuruanOpen2012) | 6.65 | 20 | Indonesia |
-| 711 | [Hessen Open 2016](https://www.worldcubeassociation.org/competitions/HessenOpen2016) | 6.65 | 97 | Germany |
-| 712 | [Opentrópolis CEFET 2024](https://www.worldcubeassociation.org/competitions/OpentropolisCEFET2024) | 6.65 | 37 | Brazil |
-| 713 | [Classic City 4 Charity 2017](https://www.worldcubeassociation.org/competitions/ClassicCity4Charity2017) | 6.65 | 37 | United States |
-| 714 | [Šiauliai Autumn Open 2017](https://www.worldcubeassociation.org/competitions/SiauliaiAutumnOpen2017) | 6.65 | 34 | Lithuania |
-| 715 | [Barby Cube 2022](https://www.worldcubeassociation.org/competitions/BarbyCube2022) | 6.65 | 65 | France |
-| 716 | [Barby Cube 2023](https://www.worldcubeassociation.org/competitions/BarbyCube2023) | 6.64 | 90 | France |
-| 717 | [Osijek Open 2024](https://www.worldcubeassociation.org/competitions/OsijekOpen2024) | 6.64 | 59 | Croatia |
-| 718 | [FNSM 2015](https://www.worldcubeassociation.org/competitions/FNSMOpen2015) | 6.64 | 42 | Mexico |
-| 719 | [SST Kielce 2021](https://www.worldcubeassociation.org/competitions/SSTKielce2021) | 6.64 | 81 | Poland |
-| 720 | [Kharkiv Cubefall 2021](https://www.worldcubeassociation.org/competitions/KharkivCubefall2021) | 6.64 | 67 | Ukraine |
-| 721 | [Dublin Summer Sunday 2023](https://www.worldcubeassociation.org/competitions/DublinSummerSolvingSunday2023) | 6.64 | 75 | Ireland |
-| 722 | [Turkish Nationals 2023](https://www.worldcubeassociation.org/competitions/TurkishNationals2023) | 6.64 | 50 | Turkey |
-| 723 | [Prague Open 2015](https://www.worldcubeassociation.org/competitions/PragueOpen2015) | 6.64 | 61 | Czech Republic |
-| 724 | [Cube4fun Bełżyce 2022](https://www.worldcubeassociation.org/competitions/Cube4funBelzyce2022) | 6.64 | 108 | Poland |
-| 725 | [Italian Championship 2012](https://www.worldcubeassociation.org/competitions/ItalianChampionship2012) | 6.64 | 47 | Italy |
-| 726 | [Italian Championship 2011](https://www.worldcubeassociation.org/competitions/ItalianChampionship2011) | 6.64 | 44 | Italy |
-| 727 | [Pittsburgh Fall 2019](https://www.worldcubeassociation.org/competitions/PittsburghFall2019) | 6.64 | 55 | United States |
-| 728 | [France 2013](https://www.worldcubeassociation.org/competitions/France2013) | 6.64 | 66 | France |
-| 729 | [Belgian Open 2011](https://www.worldcubeassociation.org/competitions/BelgianOpen2011) | 6.63 | 41 | Belgium |
-| 730 | [Olsztyn Open 2023](https://www.worldcubeassociation.org/competitions/OlsztynOpen2023) | 6.63 | 73 | Poland |
-| 731 | [Banja Luka Open 2022](https://www.worldcubeassociation.org/competitions/BanjaLukaOpen2022) | 6.63 | 43 | Bosnia and Herzegovina |
-| 732 | [Slovakian Summer 2018](https://www.worldcubeassociation.org/competitions/SlovakianSummer2018) | 6.63 | 51 | Slovakia |
-| 733 | [Glasgow Autumn 2023](https://www.worldcubeassociation.org/competitions/GlasgowAutumn2023) | 6.63 | 161 | United Kingdom |
-| 734 | [Wyoming Jackalope Dash 2018](https://www.worldcubeassociation.org/competitions/WyomingJackalopeDash2018) | 6.62 | 16 | United States |
-| 735 | [Cronos Querétaro 2023](https://www.worldcubeassociation.org/competitions/CronosQueretaro2023) | 6.62 | 112 | Mexico |
-| 736 | [Malang Cube 2012](https://www.worldcubeassociation.org/competitions/MalangCubeDay2012) | 6.62 | 24 | Indonesia |
-| 737 | [Harrow Spring 2015](https://www.worldcubeassociation.org/competitions/HarrowSpring2015) | 6.62 | 61 | United Kingdom |
-| 738 | [Basauri Open 2022](https://www.worldcubeassociation.org/competitions/BasauriOpen2022) | 6.62 | 50 | Spain |
-| 739 | [Exeter Open 2016](https://www.worldcubeassociation.org/competitions/ExeterOpen2016) | 6.62 | 50 | United Kingdom |
-| 740 | [San Marino Nationals 2019](https://www.worldcubeassociation.org/competitions/SanMarinoNationals2019) | 6.62 | 50 | San Marino |
-| 741 | [Champagne Open 2016](https://www.worldcubeassociation.org/competitions/ChampagneOpen2016) | 6.62 | 84 | France |
-| 742 | [Rocky Top 2017](https://www.worldcubeassociation.org/competitions/RockyTop2017) | 6.62 | 63 | United States |
-| 743 | [Estonian Open 2018](https://www.worldcubeassociation.org/competitions/EstonianOpen2018) | 6.62 | 55 | Estonia |
-| 744 | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023) | 6.62 | 198 | Poland |
-| 745 | [US Nationals 2016](https://www.worldcubeassociation.org/competitions/USNationals2016) | 6.62 | 534 | United States |
-| 746 | [Vilnius Open 2016](https://www.worldcubeassociation.org/competitions/VilniusOpen2016) | 6.62 | 26 | Lithuania |
-| 747 | [Osijek Open 2022](https://www.worldcubeassociation.org/competitions/OsijekOpen2022) | 6.62 | 39 | Croatia |
-| 748 | [Edinburgh Open 2013](https://www.worldcubeassociation.org/competitions/EdinburghOpen2013) | 6.62 | 39 | United Kingdom |
-| 749 | [Southeast Texas Winter 2019](https://www.worldcubeassociation.org/competitions/SoutheastTexasWinter2019) | 6.62 | 65 | United States |
-| 750 | [London Open 2017](https://www.worldcubeassociation.org/competitions/LondonOpen2017) | 6.61 | 163 | United Kingdom |
-| 751 | [Franconia Winter 2023](https://www.worldcubeassociation.org/competitions/FranconiaWinter2023) | 6.61 | 75 | Germany |
-| 752 | [Galeries Lafayette Open 2010](https://www.worldcubeassociation.org/competitions/GaleriesLafayetteOpen2010) | 6.61 | 41 | France |
-| 753 | [Prenacionales Colombia 2024](https://www.worldcubeassociation.org/competitions/PrenacionalesColombia2024) | 6.61 | 41 | Colombia |
-| 754 | [Basauri Open 2011](https://www.worldcubeassociation.org/competitions/BasauriOpen2011) | 6.61 | 23 | Spain |
-| 755 | [Ohio State Madness 2024](https://www.worldcubeassociation.org/competitions/OhioStateWeekendofMadness2024) | 6.61 | 79 | United States |
-| 756 | [Nhood Sevilla Open 2023](https://www.worldcubeassociation.org/competitions/NhoodSevillaOpen2023) | 6.61 | 38 | Spain |
-| 757 | [Austrian Open 2019](https://www.worldcubeassociation.org/competitions/AustrianOpen2019) | 6.60 | 80 | Austria |
-| 758 | [Szokolya Open 2023](https://www.worldcubeassociation.org/competitions/SzokolyaOpen2023) | 6.60 | 60 | Hungary |
-| 759 | [Castelbelforte Cube Battle 2011](https://www.worldcubeassociation.org/competitions/Castelbelforte2011) | 6.60 | 20 | Italy |
-| 760 | [Florida Returns 2021](https://www.worldcubeassociation.org/competitions/FloridaReturns2021) | 6.60 | 40 | United States |
-| 761 | [Cube4fun Cubers Eve 2023](https://www.worldcubeassociation.org/competitions/Cube4funCubersEve2023) | 6.60 | 112 | Poland |
-| 762 | [Euskadi Open Portugalete 2018](https://www.worldcubeassociation.org/competitions/EuskadiOpenPortugalete2018) | 6.60 | 57 | Spain |
-| 763 | [Cube Camp in Kanazawa 2012](https://www.worldcubeassociation.org/competitions/CubeCampKanazawa2012) | 6.60 | 47 | Japan |
-| 764 | [Getafe Vuelve 2019](https://www.worldcubeassociation.org/competitions/GetafeVuelve2019) | 6.60 | 89 | Spain |
-| 765 | [Hessen Open 2024](https://www.worldcubeassociation.org/competitions/HessenOpen2024) | 6.60 | 84 | Germany |
-| 766 | [Tassie Summer 2024](https://www.worldcubeassociation.org/competitions/TassieSummer2024) | 6.59 | 64 | Australia |
-| 767 | [Franconia Open 2013](https://www.worldcubeassociation.org/competitions/FranconiaOpen2013) | 6.59 | 59 | Germany |
-| 768 | [Cube4fun Lublin in Staszic 2023](https://www.worldcubeassociation.org/competitions/Cube4funLublininStaszic2023) | 6.59 | 54 | Poland |
-| 769 | [Barby Cube Automne 2017](https://www.worldcubeassociation.org/competitions/BarbyCubeAutomne2017) | 6.59 | 61 | France |
-| 770 | [Speedcubing Slovakia 2022](https://www.worldcubeassociation.org/competitions/SpeedcubingSlovakia2022) | 6.59 | 39 | Slovakia |
-| 771 | [WGC Open 2014](https://www.worldcubeassociation.org/competitions/WelwynGardenCity2014) | 6.59 | 68 | United Kingdom |
-| 772 | [SPB Open 2013](https://www.worldcubeassociation.org/competitions/SaintPetersburgOpen2013) | 6.58 | 36 | Russia |
-| 773 | [Caucasus Open 2023](https://www.worldcubeassociation.org/competitions/CaucasusOpen2023) | 6.58 | 36 | Georgia |
-| 774 | [Indonesian Open 2011](https://www.worldcubeassociation.org/competitions/IndonesianOpen2011) | 6.58 | 122 | Indonesia |
-| 775 | [Rubik Zamora 2017](https://www.worldcubeassociation.org/competitions/RubikZamora2017) | 6.58 | 55 | Mexico |
-| 776 | [Jeju Open 2017](https://www.worldcubeassociation.org/competitions/JejuOpen2017) | 6.58 | 31 | Republic of Korea |
-| 777 | [Cube Camp in Kanazawa 2010](https://www.worldcubeassociation.org/competitions/CubeCampKanazawa2010) | 6.58 | 38 | Japan |
-| 778 | [CVDB Open 2017](https://www.worldcubeassociation.org/competitions/CVDBOpen2017) | 6.58 | 26 | Spain |
-| 779 | [Rahn Education Open 2024](https://www.worldcubeassociation.org/competitions/RahnEducationOpen2024) | 6.58 | 106 | Germany |
-| 780 | [Rocky Top 2021](https://www.worldcubeassociation.org/competitions/RockyTop2021) | 6.57 | 89 | United States |
-| 781 | [Serbian Championship 2023](https://www.worldcubeassociation.org/competitions/SerbianChampionship2023) | 6.57 | 63 | Serbia |
-| 782 | [Big 'n Blind Szczecinek 2023](https://www.worldcubeassociation.org/competitions/BignBlindSzczecinek2023) | 6.57 | 63 | Poland |
-| 783 | [Castle Mania Niepołomice 2024](https://www.worldcubeassociation.org/competitions/CastleManiaNiepolomice2024) | 6.57 | 58 | Poland |
-| 784 | [Dębica Cubing Winter 2024](https://www.worldcubeassociation.org/competitions/DebicaCubingWinter2024) | 6.57 | 58 | Poland |
-| 785 | [Italian Championship 2014](https://www.worldcubeassociation.org/competitions/ItalianChampionship2014) | 6.57 | 60 | Italy |
-| 786 | [Pittsburgh Open 2018](https://www.worldcubeassociation.org/competitions/PittsburghOpen2018) | 6.56 | 39 | United States |
-| 787 | [Nowa Sól Open 2024](https://www.worldcubeassociation.org/competitions/NowaSolOpen2024) | 6.56 | 94 | Poland |
-| 788 | [Jawa Timur Open 2014](https://www.worldcubeassociation.org/competitions/JawaTimurOpen2014) | 6.56 | 16 | Indonesia |
-| 789 | [Swedish Cubedays 2011](https://www.worldcubeassociation.org/competitions/SwedishCubedays2011) | 6.56 | 36 | Sweden |
-| 790 | [LLS Meeting Days 2018](https://www.worldcubeassociation.org/competitions/LLSMeetingDays2018) | 6.55 | 38 | Poland |
-| 791 | [Carlisle Summer 2022](https://www.worldcubeassociation.org/competitions/CarlisleSummer2022) | 6.55 | 78 | United Kingdom |
-| 792 | [Skillcon 2018](https://www.worldcubeassociation.org/competitions/Skillcon2018) | 6.55 | 49 | United States |
-| 793 | [Beat the Clock Sabaneta 2023](https://www.worldcubeassociation.org/competitions/BeattheClockSabaneta2023) | 6.55 | 33 | Colombia |
-| 794 | [Australian Nationals 2011](https://www.worldcubeassociation.org/competitions/AustralianNationals2011) | 6.54 | 35 | Australia |
-| 795 | [Bucharest Cubing Days 2021](https://www.worldcubeassociation.org/competitions/BucharestCubingDays2021) | 6.54 | 24 | Romania |
-| 796 | [Człuchów Panzer Cube 2014](https://www.worldcubeassociation.org/competitions/CzluchowPanzerCube2014) | 6.54 | 63 | Poland |
-| 797 | [Michigan 2019](https://www.worldcubeassociation.org/competitions/Michigan2019) | 6.54 | 102 | United States |
-| 798 | [KubeKings Weekend 2015](https://www.worldcubeassociation.org/competitions/KubeKingsWeekend2015) | 6.54 | 26 | Spain |
-| 799 | [PST LLS Lublin 2020](https://www.worldcubeassociation.org/competitions/PSTLLSLublin2020) | 6.54 | 69 | Poland |
-| 800 | [Colombia Nationals 2018](https://www.worldcubeassociation.org/competitions/ColombiaNationals2018) | 6.54 | 125 | Colombia |
-| 801 | [Frankfurt Cube Days 2014](https://www.worldcubeassociation.org/competitions/FrankfurtCubeDays2014) | 6.53 | 77 | Germany |
-| 802 | [Pittsburgh Fall 2021](https://www.worldcubeassociation.org/competitions/PittsburghFall2021) | 6.53 | 100 | United States |
-| 803 | [Grudziadz Open 2013](https://www.worldcubeassociation.org/competitions/GrudziadzOpen2013) | 6.53 | 68 | Poland |
-| 804 | [5x5 on Madison Ice 2023](https://www.worldcubeassociation.org/competitions/5x5onMadisonIce2023) | 6.53 | 53 | United States |
-| 805 | [ŚLS Sosnowiec 2015](https://www.worldcubeassociation.org/competitions/SLSSosnowiec2015) | 6.53 | 106 | Poland |
-| 806 | [Ural Autumn 2015](https://www.worldcubeassociation.org/competitions/UralAutumn2015) | 6.53 | 19 | Russia |
-| 807 | [Slovenian Nationals 2022](https://www.worldcubeassociation.org/competitions/SlovenianNationals2022) | 6.53 | 78 | Slovenia |
-| 808 | [Royal Corner Twist 2018](https://www.worldcubeassociation.org/competitions/RoyalCornerTwist2018) | 6.52 | 86 | Sweden |
-| 809 | [Kölner Kubing 2023](https://www.worldcubeassociation.org/competitions/KoelnerKubing2023) | 6.52 | 90 | Germany |
-| 810 | [Flen - Stora Manschetten 2021](https://www.worldcubeassociation.org/competitions/FlenStoraManschetten2021) | 6.52 | 23 | Sweden |
-| 811 | [Ternopil Science Cubing 2023](https://www.worldcubeassociation.org/competitions/TSC2023) | 6.52 | 48 | Ukraine |
-| 812 | [Bulacan Open 2009](https://www.worldcubeassociation.org/competitions/BulacanOpen2009) | 6.52 | 25 | Philippines |
-| 813 | [Schleswig-Holstein Open 2012](https://www.worldcubeassociation.org/competitions/SHOpen2012) | 6.52 | 25 | Germany |
-| 814 | [Blind Open 2011](https://www.worldcubeassociation.org/competitions/BlindOpen2011) | 6.52 | 25 | France |
-| 815 | [Zonhoven Open 2013](https://www.worldcubeassociation.org/competitions/ZonhovenOpen2013) | 6.52 | 58 | Belgium |
-| 816 | [Swedish Championship 2012](https://www.worldcubeassociation.org/competitions/SwedishChampionship2012) | 6.52 | 66 | Sweden |
-| 817 | [Benelux Open 2008](https://www.worldcubeassociation.org/competitions/BeneluxOpen2008) | 6.51 | 35 | Netherlands |
-| 818 | [CUDES Cali 2020](https://www.worldcubeassociation.org/competitions/CUDESCali2020) | 6.51 | 35 | Colombia |
-| 819 | [Mariupol Open 2018](https://www.worldcubeassociation.org/competitions/MariupolOpen2018) | 6.51 | 39 | Ukraine |
-| 820 | [Great Lakes Championship 2022](https://www.worldcubeassociation.org/competitions/GreatLakesChampionship2022) | 6.51 | 197 | United States |
-| 821 | [Dontrien Open 2022](https://www.worldcubeassociation.org/competitions/DontrienOpen2022) | 6.51 | 45 | France |
-| 822 | [LLS V Final 2019](https://www.worldcubeassociation.org/competitions/LLSVFinal2019) | 6.51 | 51 | Poland |
-| 823 | [Zurich Open 2018](https://www.worldcubeassociation.org/competitions/ZurichOpen2018) | 6.51 | 73 | Switzerland |
-| 824 | [Bremium Cubing 2019](https://www.worldcubeassociation.org/competitions/BremiumCubing2019) | 6.51 | 79 | Germany |
-| 825 | [Nacionales Fénix Colombia 2021](https://www.worldcubeassociation.org/competitions/NacionalesFenixColombia2021) | 6.51 | 89 | Colombia |
-| 826 | [Masovian Open 2015](https://www.worldcubeassociation.org/competitions/MasovianOpen2015) | 6.50 | 38 | Poland |
-| 827 | [Mirá Ve 2017](https://www.worldcubeassociation.org/competitions/MiraVe2017) | 6.50 | 40 | Colombia |
-| 828 | [German Nationals 2014](https://www.worldcubeassociation.org/competitions/GermanNationals2014) | 6.50 | 120 | Germany |
-| 829 | [Side Events Bangalore March 2024](https://www.worldcubeassociation.org/competitions/SideEventsBangaloreMarch2024) | 6.50 | 26 | India |
-| 830 | [Swisscubing Cup IV 2020](https://www.worldcubeassociation.org/competitions/SwisscubingCupIV2020) | 6.50 | 56 | Switzerland |
-| 831 | [Uberlandia Open 2011](https://www.worldcubeassociation.org/competitions/UberlandiaOpen2011) | 6.50 | 22 | Brazil |
-| 832 | [Czech Open 2014](https://www.worldcubeassociation.org/competitions/CzechOpen2014) | 6.50 | 60 | Czech Republic |
-| 833 | [Cubing in HD 2023](https://www.worldcubeassociation.org/competitions/CubinginHD2023) | 6.50 | 131 | Germany |
-| 834 | [SSL 4 Mora 2017](https://www.worldcubeassociation.org/competitions/SSL4Mora2017) | 6.49 | 57 | Sweden |
-| 835 | [Dnepr Skips 2015](https://www.worldcubeassociation.org/competitions/DneprSkips2015) | 6.49 | 57 | Ukraine |
-| 836 | [Vienna Fasching 2024](https://www.worldcubeassociation.org/competitions/ViennaFasching2024) | 6.49 | 57 | Austria |
-| 837 | [Aguascalientes Summer 2015](https://www.worldcubeassociation.org/competitions/AguasCalientesSummer2015) | 6.49 | 47 | Mexico |
-| 838 | [La Massana 2021](https://www.worldcubeassociation.org/competitions/LaMassana2021) | 6.49 | 39 | Andorra |
-| 839 | [Slovenian Nationals 2023](https://www.worldcubeassociation.org/competitions/SlovenianNationals2023) | 6.49 | 115 | Slovenia |
-| 840 | [Bogotá Open 2021](https://www.worldcubeassociation.org/competitions/BogotaOpen2021) | 6.49 | 74 | Colombia |
-| 841 | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016) | 6.49 | 500 | Czech Republic |
-| 842 | [VSU Open 2016](https://www.worldcubeassociation.org/competitions/VSUOpen2016) | 6.49 | 35 | Belarus |
-| 843 | [Tunas Open 2022](https://www.worldcubeassociation.org/competitions/TunasOpen2022) | 6.49 | 68 | Mexico |
-| 844 | [Brasileiro 2018](https://www.worldcubeassociation.org/competitions/Brasileiro2018) | 6.48 | 66 | Brazil |
-| 845 | [South Italian Open 2009](https://www.worldcubeassociation.org/competitions/SouthItalianOpen2009) | 6.48 | 29 | Italy |
-| 846 | [Cubing Ekat Open 2021](https://www.worldcubeassociation.org/competitions/CubingEkatOpen2021) | 6.48 | 85 | Russia |
-| 847 | [German Open 2013](https://www.worldcubeassociation.org/competitions/GermanOpen2013) | 6.48 | 56 | Germany |
-| 848 | [Galanta Open 2009](https://www.worldcubeassociation.org/competitions/GalantaOpen2009) | 6.48 | 54 | Slovakia |
-| 849 | [German Open 2012](https://www.worldcubeassociation.org/competitions/GermanOpen2012) | 6.48 | 108 | Germany |
-| 850 | [First Chamal'Open 2010](https://www.worldcubeassociation.org/competitions/FirstChamalOpen2010) | 6.48 | 25 | France |
-| 851 | [SESC Camaquã 2017](https://www.worldcubeassociation.org/competitions/SESCCamaqua2017) | 6.48 | 25 | Brazil |
-| 852 | [Nacionales Argentinas 2019](https://www.worldcubeassociation.org/competitions/NacionalesArgentinas2019) | 6.48 | 50 | Argentina |
-| 853 | [Open de Lumes 2023](https://www.worldcubeassociation.org/competitions/OpendeLumes2023) | 6.48 | 75 | France |
-| 854 | [Etna Open 2019](https://www.worldcubeassociation.org/competitions/EtnaOpen2019) | 6.48 | 67 | Italy |
-| 855 | [Nantes Open 2008](https://www.worldcubeassociation.org/competitions/NantesOpen2008) | 6.48 | 44 | France |
-| 856 | [Oklahoma 2020](https://www.worldcubeassociation.org/competitions/Oklahoma2020) | 6.48 | 21 | United States |
-| 857 | [Medan 10th Anniversary 2019](https://www.worldcubeassociation.org/competitions/Medan10thAnniversary2019) | 6.47 | 32 | Indonesia |
-| 858 | [Pulmapelipäivät 2018](https://www.worldcubeassociation.org/competitions/Pulmapelipaivat2018) | 6.47 | 30 | Finland |
-| 859 | [Shakarim Open 2023](https://www.worldcubeassociation.org/competitions/ShakarimOpen2023) | 6.47 | 15 | Kazakhstan |
-| 860 | [Roble Cubing Open 2019](https://www.worldcubeassociation.org/competitions/RobleCubingOpen2019) | 6.47 | 73 | Mexico |
-| 861 | [Finnish Championship 2018](https://www.worldcubeassociation.org/competitions/FinnishChampionship2018) | 6.46 | 69 | Finland |
-| 862 | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022) | 6.46 | 550 | Denmark |
-| 863 | [Australian Nationals 2012](https://www.worldcubeassociation.org/competitions/AustralianNationals2012) | 6.46 | 41 | Australia |
-| 864 | [Pennsylvania 2018](https://www.worldcubeassociation.org/competitions/Pennsylvania2018) | 6.46 | 162 | United States |
-| 865 | [ÅF Swedish Cube Open 2016](https://www.worldcubeassociation.org/competitions/AFSwedishCubeOpen2016) | 6.46 | 93 | Sweden |
-| 866 | [Turkish Summer 2020](https://www.worldcubeassociation.org/competitions/TurkishSummer2020) | 6.46 | 26 | Turkey |
-| 867 | [New England Championship 2023](https://www.worldcubeassociation.org/competitions/NewEnglandChampionship2023) | 6.46 | 294 | United States |
-| 868 | [Munich Open 2018](https://www.worldcubeassociation.org/competitions/MunichOpen2018) | 6.46 | 144 | Germany |
-| 869 | [Welcome Back Jönköping 2020](https://www.worldcubeassociation.org/competitions/WelcomeBackJonkoping2020) | 6.46 | 24 | Sweden |
-| 870 | [Sides Bahia 2018](https://www.worldcubeassociation.org/competitions/SidesBahia2018) | 6.46 | 24 | Brazil |
-| 871 | [Astana Open 2023](https://www.worldcubeassociation.org/competitions/AstanaOpen2023) | 6.46 | 24 | Kazakhstan |
-| 872 | [Norwegian Championship 2021](https://www.worldcubeassociation.org/competitions/NorwegianChampionship2021) | 6.46 | 107 | Norway |
-| 873 | [Kalmar Cubing 2023](https://www.worldcubeassociation.org/competitions/KalmarCubing2023) | 6.46 | 35 | Sweden |
-| 874 | [Kaunas Open 2018](https://www.worldcubeassociation.org/competitions/KaunasOpen2018) | 6.46 | 46 | Lithuania |
-| 875 | [Athens Summer Omega 2016](https://www.worldcubeassociation.org/competitions/AthensSummerOmega2016) | 6.45 | 55 | United States |
-| 876 | [Medan Open 2018](https://www.worldcubeassociation.org/competitions/MedanOpen2018) | 6.45 | 33 | Indonesia |
-| 877 | [Monterotondo Open 2015](https://www.worldcubeassociation.org/competitions/MonterotondoOpen2015) | 6.45 | 33 | Italy |
-| 878 | [Virginia Championship 2023](https://www.worldcubeassociation.org/competitions/VirginiaChampionship2023) | 6.45 | 268 | United States |
-| 879 | [Tübingen Open 2016](https://www.worldcubeassociation.org/competitions/TubingenOpen2016) | 6.45 | 51 | Germany |
-| 880 | [Energy Cube Koło 2023](https://www.worldcubeassociation.org/competitions/EnergyCubeKolo2023) | 6.45 | 136 | Poland |
-| 881 | [Tietomaa Open 2019](https://www.worldcubeassociation.org/competitions/TietomaaOpen2019) | 6.45 | 29 | Finland |
-| 882 | [Salento Cubing Open 2020](https://www.worldcubeassociation.org/competitions/SalentoCubingOpen2020) | 6.45 | 47 | Italy |
-| 883 | [SSL VIII Jönköping 2023](https://www.worldcubeassociation.org/competitions/SSLVIIIJonkoping2023) | 6.45 | 65 | Sweden |
-| 884 | [Abrakadabra Magic 2015](https://www.worldcubeassociation.org/competitions/AbrakadabraMagic2015) | 6.44 | 25 | Venezuela |
-| 885 | [Rhein-Neckar Open 2022](https://www.worldcubeassociation.org/competitions/RheinNeckarOpen2022) | 6.44 | 107 | Germany |
-| 886 | [Silesian Cubing Pawłowice 2023](https://www.worldcubeassociation.org/competitions/SilesianCubingPawlowice2023) | 6.44 | 98 | Poland |
-| 887 | [Arizona Championship 2024](https://www.worldcubeassociation.org/competitions/ArizonaChampionship2024) | 6.44 | 103 | United States |
-| 888 | [Prague Open 2016](https://www.worldcubeassociation.org/competitions/PragueOpen2016) | 6.44 | 62 | Czech Republic |
-| 889 | [Chelles Open 2017](https://www.worldcubeassociation.org/competitions/ChellesOpen2017) | 6.44 | 62 | France |
-| 890 | [PSU Winter 2017](https://www.worldcubeassociation.org/competitions/PSUWinter2017) | 6.43 | 23 | Belarus |
-| 891 | [Polish Championship 2022](https://www.worldcubeassociation.org/competitions/PolishChampionship2022) | 6.43 | 148 | Poland |
-| 892 | [LLS III Zamość 2021](https://www.worldcubeassociation.org/competitions/LLSIIIZamosc2021) | 6.43 | 72 | Poland |
-| 893 | [Lemgo Open 2010](https://www.worldcubeassociation.org/competitions/LemgoOpen2010) | 6.43 | 49 | Germany |
-| 894 | [New Zealand Nationals 2023](https://www.worldcubeassociation.org/competitions/NewZealandNationals2023) | 6.43 | 161 | New Zealand |
-| 895 | [PLS Autumn Reda 2014](https://www.worldcubeassociation.org/competitions/PLSAutumnReda2014) | 6.43 | 42 | Poland |
-| 896 | [Deep South Cape Town 2024](https://www.worldcubeassociation.org/competitions/DeepSouthCapeTown2024) | 6.43 | 14 | South Africa |
-| 897 | [Gen. Trias Open III 2024](https://www.worldcubeassociation.org/competitions/GenTriasSpeedcubingOpenIII2024) | 6.42 | 40 | Philippines |
-| 898 | [Gernika Open 2015](https://www.worldcubeassociation.org/competitions/GernikaOpen2015) | 6.42 | 33 | Spain |
-| 899 | [Great Lakes Championship 2018](https://www.worldcubeassociation.org/competitions/GreatLakesChampionship2018) | 6.42 | 191 | United States |
-| 900 | [Typhoon Open 2012](https://www.worldcubeassociation.org/competitions/TyphoonOpen2012) | 6.42 | 26 | France |
-| 901 | [Bednary Open 2023](https://www.worldcubeassociation.org/competitions/BednaryOpen2023) | 6.42 | 50 | Poland |
-| 902 | [Pekalongan Open 2018](https://www.worldcubeassociation.org/competitions/PekalonganOpen2018) | 6.42 | 31 | Indonesia |
-| 903 | [Italian Open 2011](https://www.worldcubeassociation.org/competitions/ItalianOpen2011) | 6.42 | 31 | Italy |
-| 904 | [Tula Open 2014](https://www.worldcubeassociation.org/competitions/TulaOpen2014) | 6.42 | 74 | Russia |
-| 905 | [Tunas Open 2019](https://www.worldcubeassociation.org/competitions/TunasOpen2019) | 6.42 | 115 | Mexico |
-| 906 | [Irish Championship 2022](https://www.worldcubeassociation.org/competitions/IrishChampionship2022) | 6.42 | 175 | Ireland |
-| 907 | [US Nationals 2010](https://www.worldcubeassociation.org/competitions/USNationals2010) | 6.41 | 227 | United States |
-| 908 | [Björneborg Weekend 2023](https://www.worldcubeassociation.org/competitions/BjorneborgWeekend2023) | 6.41 | 34 | Sweden |
-| 909 | [Szokolya Mental Breakdown 2023](https://www.worldcubeassociation.org/competitions/SzokolyaMentalBreakdown2023) | 6.41 | 17 | Hungary |
-| 910 | [Eretum IV 2023](https://www.worldcubeassociation.org/competitions/EretumIV2023) | 6.41 | 51 | Italy |
-| 911 | [Kaohsiung Winter Open 2022](https://www.worldcubeassociation.org/competitions/KaohsiungWinterOpen2022) | 6.41 | 73 | Chinese Taipei |
-| 912 | [NW Champs 2017](https://www.worldcubeassociation.org/competitions/NorthwestChampionships2017) | 6.41 | 173 | United States |
-| 913 | [Euro 2008](https://www.worldcubeassociation.org/competitions/Euro2008) | 6.41 | 117 | Spain |
-| 914 | [Budapest Spring 2024](https://www.worldcubeassociation.org/competitions/BudapestSpring2024) | 6.41 | 76 | Hungary |
-| 915 | [Ticino Open 2018](https://www.worldcubeassociation.org/competitions/TicinoOpen2018) | 6.41 | 27 | Switzerland |
-| 916 | [SSL V Uppsala 2023](https://www.worldcubeassociation.org/competitions/SSLVUppsala2023) | 6.41 | 54 | Sweden |
-| 917 | [SSL III Stockholm 2023](https://www.worldcubeassociation.org/competitions/SSLIIIStockholm2023) | 6.41 | 64 | Sweden |
-| 918 | [1 AVG 2013](https://www.worldcubeassociation.org/competitions/1AVG2013) | 6.41 | 32 | Netherlands |
-| 919 | [Latvian Open 2016](https://www.worldcubeassociation.org/competitions/LatvianOpen2016) | 6.41 | 32 | Latvia |
-| 920 | [Northeast Championship 2019](https://www.worldcubeassociation.org/competitions/NortheastChampionship2019) | 6.40 | 233 | United States |
-| 921 | [Cube An Dro 2019](https://www.worldcubeassociation.org/competitions/CubeAnDro2019) | 6.40 | 62 | France |
-| 922 | [Chojnice Open 2014](https://www.worldcubeassociation.org/competitions/ChojniceOpen2014) | 6.40 | 77 | Poland |
-| 923 | [German Open 2011](https://www.worldcubeassociation.org/competitions/GermanOpen2011) | 6.40 | 127 | Germany |
-| 924 | [El Masnou Open 2024](https://www.worldcubeassociation.org/competitions/ElMasnouOpen2024) | 6.40 | 50 | Spain |
-| 925 | [Puzzling Plaza in Salo 2023](https://www.worldcubeassociation.org/competitions/PuzzlingPlazainSalo2023) | 6.40 | 55 | Finland |
-| 926 | [Idéale Nabeul Open 2019](https://www.worldcubeassociation.org/competitions/IdealeNabeulOpen2019) | 6.40 | 15 | Tunisia |
-| 927 | [Silesia Open 2012](https://www.worldcubeassociation.org/competitions/SilesiaOpen2012) | 6.40 | 60 | Poland |
-| 928 | [Classic San Lorenzo Open 2016](https://www.worldcubeassociation.org/competitions/ClassicSanLorenzoOpen2016) | 6.40 | 60 | Argentina |
-| 929 | [Solving in Sale 2023](https://www.worldcubeassociation.org/competitions/SolvinginSale2023) | 6.40 | 73 | Australia |
-| 930 | [Beyond Zacatecas 2019](https://www.worldcubeassociation.org/competitions/BeyondZacatecas2019) | 6.40 | 68 | Mexico |
-| 931 | [JukiMods Baztan Open 2019](https://www.worldcubeassociation.org/competitions/JukiModsBaztanOpen2019) | 6.39 | 38 | Spain |
-| 932 | [Champagne Open 2019](https://www.worldcubeassociation.org/competitions/ChampagneOpen2019) | 6.39 | 109 | France |
-| 933 | [DSF Generalforsamlingen 2023](https://www.worldcubeassociation.org/competitions/DSFGeneralforsamlingen2023) | 6.39 | 59 | Denmark |
-| 934 | [Danish Open 2009](https://www.worldcubeassociation.org/competitions/DanishOpen2009) | 6.39 | 31 | Denmark |
-| 935 | [Vilnius Spring Open 2023](https://www.worldcubeassociation.org/competitions/VilniusSpringOpen2023) | 6.38 | 39 | Lithuania |
-| 936 | [Polish Open 2015](https://www.worldcubeassociation.org/competitions/PolishOpen2015) | 6.38 | 168 | Poland |
-| 937 | [Kristianstad Open 2009](https://www.worldcubeassociation.org/competitions/KristianstadOpen2009) | 6.38 | 32 | Sweden |
-| 938 | [Budapest ReOpen 2022](https://www.worldcubeassociation.org/competitions/BudapestReOpen2022) | 6.37 | 115 | Hungary |
-| 939 | [Peterborough Open 2018](https://www.worldcubeassociation.org/competitions/PeterboroughOpen2018) | 6.37 | 99 | United Kingdom |
-| 940 | [German Open 2009](https://www.worldcubeassociation.org/competitions/GermanOpen2009) | 6.37 | 86 | Germany |
-| 941 | [Finnish Championship 2021](https://www.worldcubeassociation.org/competitions/FinnishChampionship2021) | 6.37 | 78 | Finland |
-| 942 | [50 and Counting Ireland 2024](https://www.worldcubeassociation.org/competitions/50andCountingIreland2024) | 6.37 | 97 | Ireland |
-| 943 | [Dublin Open 2017](https://www.worldcubeassociation.org/competitions/DublinOpen2017) | 6.37 | 62 | Ireland |
-| 944 | [PAWS 2022](https://www.worldcubeassociation.org/competitions/PuzzlesAtWisconsinSpring2022) | 6.37 | 65 | United States |
-| 945 | [Guadalajara 2017](https://www.worldcubeassociation.org/competitions/Guadalajara2017) | 6.37 | 147 | Mexico |
-| 946 | [Ark 2018](https://www.worldcubeassociation.org/competitions/Ark2018) | 6.37 | 60 | Finland |
-| 947 | [Polish Open 2010](https://www.worldcubeassociation.org/competitions/PolishOpen2010) | 6.37 | 52 | Poland |
-| 948 | [Italian Championship 2018](https://www.worldcubeassociation.org/competitions/ItalianChampionship2018) | 6.36 | 146 | Italy |
-| 949 | [Serbian Championship 2024](https://www.worldcubeassociation.org/competitions/SerbianChampionship2024) | 6.36 | 69 | Serbia |
-| 950 | [Polish Open 2013](https://www.worldcubeassociation.org/competitions/PolishOpen2013) | 6.36 | 64 | Poland |
-| 951 | [Southern Championship 2019](https://www.worldcubeassociation.org/competitions/SouthernChampionship2019) | 6.36 | 167 | United States |
-| 952 | [Rocky Top 2018](https://www.worldcubeassociation.org/competitions/RockyTop2018) | 6.36 | 81 | United States |
-| 953 | [Peterborough Open 2017](https://www.worldcubeassociation.org/competitions/PeterboroughOpen2017) | 6.35 | 79 | United Kingdom |
-| 954 | [Odessa Open 2017](https://www.worldcubeassociation.org/competitions/OdessaOpen2017) | 6.35 | 48 | Ukraine |
-| 955 | [Northern Lights Open 2018](https://www.worldcubeassociation.org/competitions/NorthernLightsOpen2018) | 6.35 | 17 | Finland |
-| 956 | [Cuthberts Open 2013](https://www.worldcubeassociation.org/competitions/CuthbertsOpen2013) | 6.35 | 51 | United Kingdom |
-| 957 | [Melbourne Summer 2019](https://www.worldcubeassociation.org/competitions/MelbourneSummer2019) | 6.35 | 125 | Australia |
-| 958 | [Full Steps in Brest 2016](https://www.worldcubeassociation.org/competitions/FullStepsinBrest2016) | 6.35 | 54 | Belarus |
-| 959 | [Bozeman Cubing 2024](https://www.worldcubeassociation.org/competitions/BozemanCubing2024) | 6.35 | 23 | United States |
-| 960 | [Back To Belgrade 2021](https://www.worldcubeassociation.org/competitions/BackToBelgrade2021) | 6.34 | 29 | Serbia |
-| 961 | [Bucaramanga Cultural 2017](https://www.worldcubeassociation.org/competitions/BucaramangaCultural2017) | 6.34 | 58 | Colombia |
-| 962 | [Gernika Open 2014](https://www.worldcubeassociation.org/competitions/GernikaOpen2014) | 6.34 | 29 | Spain |
-| 963 | [Swedish Decathlon Challenge 2017](https://www.worldcubeassociation.org/competitions/SwedishDecathlonChallenge2017) | 6.34 | 61 | Sweden |
-| 964 | [Polish Open 2017](https://www.worldcubeassociation.org/competitions/PolishOpen2017) | 6.34 | 131 | Poland |
-| 965 | [Toulon Open 2018](https://www.worldcubeassociation.org/competitions/ToulonOpen2018) | 6.34 | 38 | France |
-| 966 | [Colorado Cubing Weekend 2022](https://www.worldcubeassociation.org/competitions/ColoradoCubingWeekend2022) | 6.34 | 76 | United States |
-| 967 | [Prague Open 2023](https://www.worldcubeassociation.org/competitions/PragueOpen2023) | 6.34 | 79 | Czech Republic |
-| 968 | [K:nummen Kuutionvääntelyt 2022](https://www.worldcubeassociation.org/competitions/KnummenKuutionvaantelyt2022) | 6.34 | 91 | Finland |
-| 969 | [Gbg Summer Cubing 2022](https://www.worldcubeassociation.org/competitions/GbgSummerCubing2022) | 6.34 | 47 | Sweden |
-| 970 | [ABHC 2017](https://www.worldcubeassociation.org/competitions/ABHC2017) | 6.34 | 97 | United Kingdom |
-| 971 | [Only Cube Open 2017](https://www.worldcubeassociation.org/competitions/OnlyCubeOpen2017) | 6.33 | 90 | France |
-| 972 | [Pecel Cube Weekend 2018](https://www.worldcubeassociation.org/competitions/PecelCubeWeekend2018) | 6.33 | 21 | Indonesia |
-| 973 | [Chelles Open 2020](https://www.worldcubeassociation.org/competitions/ChellesOpen2020) | 6.33 | 93 | France |
-| 974 | [Estonian Open 2011](https://www.worldcubeassociation.org/competitions/EstonianOpen2011) | 6.33 | 24 | Estonia |
-| 975 | [Zonhoven Autumn Open 2018](https://www.worldcubeassociation.org/competitions/ZonhovenAutumnOpen2018) | 6.33 | 72 | Belgium |
-| 976 | [Tbilisi October Open 2023](https://www.worldcubeassociation.org/competitions/TbilisiOctoberOpen2023) | 6.33 | 15 | Georgia |
-| 977 | [Estonian Open 2022](https://www.worldcubeassociation.org/competitions/EstonianOpen2022) | 6.33 | 79 | Estonia |
-| 978 | [SacCubing XIII 2023](https://www.worldcubeassociation.org/competitions/SacCubingXIII2023) | 6.33 | 146 | United States |
-| 979 | [Michigan 2023](https://www.worldcubeassociation.org/competitions/Michigan2023) | 6.33 | 198 | United States |
-| 980 | [Osijek Open 2020](https://www.worldcubeassociation.org/competitions/OsijekOpen2020) | 6.33 | 55 | Croatia |
-| 981 | [Ohio State Mini Sunday 2023](https://www.worldcubeassociation.org/competitions/OhioStateMiniSunday2023) | 6.33 | 52 | United States |
-| 982 | [Slovenian Nationals 2019](https://www.worldcubeassociation.org/competitions/SlovenianNationals2019) | 6.33 | 52 | Slovenia |
-| 983 | [Champagne Open 2017](https://www.worldcubeassociation.org/competitions/ChampagneOpen2017) | 6.32 | 96 | France |
-| 984 | [Cheste 2019](https://www.worldcubeassociation.org/competitions/Cheste2019) | 6.32 | 31 | Spain |
-| 985 | [CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018) | 6.32 | 634 | United States |
-| 986 | [Italian Championship 2013](https://www.worldcubeassociation.org/competitions/ItalianChampionship2013) | 6.32 | 56 | Italy |
-| 987 | [Estonian Open 2019](https://www.worldcubeassociation.org/competitions/EstonianOpen2019) | 6.32 | 53 | Estonia |
-| 988 | [Tofta Autumn Open 2023](https://www.worldcubeassociation.org/competitions/ToftaAutumnOpen2023) | 6.32 | 53 | Sweden |
-| 989 | [Croatian Open 2011](https://www.worldcubeassociation.org/competitions/CroatianOpen2011) | 6.32 | 50 | Croatia |
-| 990 | [Weston-super-Mare Open 2018](https://www.worldcubeassociation.org/competitions/WSMO2018) | 6.32 | 132 | United Kingdom |
-| 991 | [Weston-super-Mare Open 2019](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2019) | 6.32 | 114 | United Kingdom |
-| 992 | [Glacier National Park Open 2023](https://www.worldcubeassociation.org/competitions/GlacierNationalParkOpen2023) | 6.32 | 19 | United States |
-| 993 | [Dutch Open 2018](https://www.worldcubeassociation.org/competitions/DutchOpen2018) | 6.32 | 92 | Netherlands |
-| 994 | [Florida 2019](https://www.worldcubeassociation.org/competitions/Florida2019) | 6.32 | 92 | United States |
-| 995 | [Ogulin Open 2024](https://www.worldcubeassociation.org/competitions/OgulinOpen2024) | 6.32 | 73 | Croatia |
-| 996 | [Energy Cube Konin 2023](https://www.worldcubeassociation.org/competitions/EnergyCubeKonin2023) | 6.31 | 143 | Poland |
-| 997 | [Caracolí Open 2018](https://www.worldcubeassociation.org/competitions/CaracoliOpen2018) | 6.31 | 35 | Colombia |
-| 998 | [Norwegian Championship 2019](https://www.worldcubeassociation.org/competitions/NorwegianChampionship2019) | 6.31 | 102 | Norway |
-| 999 | [N8W8 Summer 2013](https://www.worldcubeassociation.org/competitions/N8W8Summer2013) | 6.31 | 51 | Belgium |
-| 1000 | [Cubing in the Clouds 2023](https://www.worldcubeassociation.org/competitions/CubingintheClouds2023) | 6.31 | 64 | United States |
+| 386 | [Eat Sleep Cube Repeat 2014](https://www.worldcubeassociation.org/competitions/EatSleepCubeRepeat2014) | 7.22 | 49 | Netherlands |
+| 387 | [Danish Championship 2023](https://www.worldcubeassociation.org/competitions/DanishChampionship2023) | 7.22 | 154 | Denmark |
+| 388 | [SSL 3 Kungsbacka 2017](https://www.worldcubeassociation.org/competitions/SSL3Kungsbacka2017) | 7.22 | 83 | Sweden |
+| 389 | [FSUbers 5.0 2024](https://www.worldcubeassociation.org/competitions/FSUbers502024) | 7.22 | 79 | United States |
+| 390 | [DSF Generalforsamlingen 2022](https://www.worldcubeassociation.org/competitions/DSFGeneralforsamlingen2022) | 7.21 | 42 | Denmark |
+| 391 | [NZSIC 2022](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2022) | 7.21 | 56 | New Zealand |
+| 392 | [Italian Championship 2021](https://www.worldcubeassociation.org/competitions/ItalianChampionship2021) | 7.21 | 136 | Italy |
+| 393 | [Colorado Qualifier 2019](https://www.worldcubeassociation.org/competitions/ColoradoQualifier2019) | 7.21 | 94 | United States |
+| 394 | [SH Open 2013](https://www.worldcubeassociation.org/competitions/SHOpen2013) | 7.21 | 33 | Germany |
+| 395 | [German Side Events 2021](https://www.worldcubeassociation.org/competitions/GermanSideEvents2021) | 7.21 | 52 | Germany |
+| 396 | [Diñs Open 2011](https://www.worldcubeassociation.org/competitions/DinsOpen2011) | 7.21 | 19 | France |
+| 397 | [Swedish Championship 2023](https://www.worldcubeassociation.org/competitions/SwedishChampionship2023) | 7.21 | 205 | Sweden |
+| 398 | [Speed Cubing Fest Pachuca 2023](https://www.worldcubeassociation.org/competitions/SpeedCubingFestPachuca2023) | 7.21 | 139 | Mexico |
+| 399 | [Tallinn Open 2022](https://www.worldcubeassociation.org/competitions/TallinnOpen2022) | 7.21 | 48 | Estonia |
+| 400 | [Baia Mare North Open 2018](https://www.worldcubeassociation.org/competitions/BaiaMareNorthOpen2018) | 7.21 | 24 | Romania |
+| 401 | [Polish Championship 2021](https://www.worldcubeassociation.org/competitions/PolishChampionship2021) | 7.20 | 127 | Poland |
+| 402 | [Washington Championship 2023](https://www.worldcubeassociation.org/competitions/WashingtonChampionship2023) | 7.20 | 140 | United States |
+| 403 | [Nacionales Argentinas 2022](https://www.worldcubeassociation.org/competitions/NacionalesArgentinas2022) | 7.19 | 68 | Argentina |
+| 404 | [Swisscubing Cup Finale 2022](https://www.worldcubeassociation.org/competitions/SwisscubingCupFinale2022) | 7.19 | 116 | Switzerland |
+| 405 | [Pittsburgh Fall 2022](https://www.worldcubeassociation.org/competitions/PittsburghFall2022) | 7.19 | 96 | United States |
+| 406 | [Puy de Dôme Open 2019](https://www.worldcubeassociation.org/competitions/PuydeDomeOpen2019) | 7.19 | 27 | France |
+| 407 | [Swiss Nationals 2023](https://www.worldcubeassociation.org/competitions/SwissNationals2023) | 7.18 | 105 | Switzerland |
+| 408 | [Dallas Fort Worth 2018](https://www.worldcubeassociation.org/competitions/DallasFortWorth2018) | 7.18 | 50 | United States |
+| 409 | [Heartland Championship 2023](https://www.worldcubeassociation.org/competitions/HeartlandChampionship2023) | 7.18 | 152 | United States |
+| 410 | [Polish Nationals 2010](https://www.worldcubeassociation.org/competitions/PolishNationals2010) | 7.18 | 62 | Poland |
+| 411 | [Sotenäs Summer Solving 2023](https://www.worldcubeassociation.org/competitions/SotenasSummerSolving2023) | 7.17 | 24 | Sweden |
+| 412 | [Frejus Open 2022](https://www.worldcubeassociation.org/competitions/FrejusOpen2022) | 7.17 | 54 | France |
+| 413 | [French Championship 2019](https://www.worldcubeassociation.org/competitions/FrenchChampionship2019) | 7.16 | 183 | France |
+| 414 | [Helsinki Open 2020](https://www.worldcubeassociation.org/competitions/HelsinkiOpen2020) | 7.16 | 50 | Finland |
+| 415 | [Polish Open 2018](https://www.worldcubeassociation.org/competitions/PolishOpen2018) | 7.16 | 153 | Poland |
+| 416 | [Benelux Open 2009](https://www.worldcubeassociation.org/competitions/BeneluxOpen2009) | 7.16 | 45 | Netherlands |
+| 417 | [Belgian Open 2010](https://www.worldcubeassociation.org/competitions/BelgianOpen2010) | 7.15 | 65 | Belgium |
+| 418 | [Hudiksvall Open 2023](https://www.worldcubeassociation.org/competitions/HudiksvallOpen2023) | 7.15 | 26 | Sweden |
+| 419 | [Heartland Champs 2018](https://www.worldcubeassociation.org/competitions/HeartlandChampionships2018) | 7.15 | 161 | United States |
+| 420 | [Hungarian Open 2010](https://www.worldcubeassociation.org/competitions/HungarianOpen2010) | 7.15 | 89 | Hungary |
+| 421 | [Rocky Mountain Championship 2023](https://www.worldcubeassociation.org/competitions/RockyMountainChampionship2023) | 7.15 | 288 | United States |
+| 422 | [Spain 2018](https://www.worldcubeassociation.org/competitions/Spain2018) | 7.14 | 141 | Spain |
+| 423 | [Slovenian Open 2015](https://www.worldcubeassociation.org/competitions/SlovenianOpen2015) | 7.14 | 44 | Slovenia |
+| 424 | [Estonian Open 2012](https://www.worldcubeassociation.org/competitions/EstonianOpen2012) | 7.14 | 22 | Estonia |
+| 425 | [German Open 2017](https://www.worldcubeassociation.org/competitions/GermanOpen2017) | 7.14 | 103 | Germany |
+| 426 | [Franconia Open 2014](https://www.worldcubeassociation.org/competitions/FranconiaOpen2014) | 7.14 | 37 | Germany |
+| 427 | [Cubing Kazakhstan Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingKazakhstanNationals2023) | 7.14 | 37 | Kazakhstan |
+| 428 | [Rocky Top 2019](https://www.worldcubeassociation.org/competitions/RockyTop2019) | 7.13 | 82 | United States |
+| 429 | [Melbourne Summer 2024](https://www.worldcubeassociation.org/competitions/MelbourneSummer2024) | 7.13 | 382 | Australia |
+| 430 | [Liechtenstein Open 2019](https://www.worldcubeassociation.org/competitions/LiechtensteinOpen2019) | 7.13 | 60 | Liechtenstein |
+| 431 | [Indonesian Championship 2018](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2018) | 7.13 | 60 | Indonesia |
+| 432 | [Solving In Sale 2024](https://www.worldcubeassociation.org/competitions/SolvingInSale2024) | 7.13 | 77 | Australia |
+| 433 | [B.O.N.D. Open 2017](https://www.worldcubeassociation.org/competitions/BONDOpen2017) | 7.13 | 54 | Slovakia |
+| 434 | [HDC I - Måløv Park 2022](https://www.worldcubeassociation.org/competitions/HDCIMalovPark2022) | 7.13 | 39 | Denmark |
+| 435 | [Luxembourg Open 2018](https://www.worldcubeassociation.org/competitions/LuxembourgOpen2018) | 7.13 | 63 | Luxembourg |
+| 436 | [Slovenian Open 2013](https://www.worldcubeassociation.org/competitions/SlovenianOpen2013) | 7.12 | 40 | Slovenia |
+| 437 | [Spanish Championship 2019](https://www.worldcubeassociation.org/competitions/SpanishChampionship2019) | 7.12 | 112 | Spain |
+| 438 | [Eastwood Cubing 2024](https://www.worldcubeassociation.org/competitions/EastwoodCubing2024) | 7.12 | 108 | United States |
+| 439 | [Potablava Open 2022](https://www.worldcubeassociation.org/competitions/PotablavaOpen2022) | 7.12 | 50 | Spain |
+| 440 | [Mallorca Open 2014](https://www.worldcubeassociation.org/competitions/Mallorca2014) | 7.12 | 17 | Spain |
+| 441 | [Czech Open 2007](https://www.worldcubeassociation.org/competitions/CzechOpen2007) | 7.12 | 26 | Czech Republic |
+| 442 | [Indian Nationals 2023](https://www.worldcubeassociation.org/competitions/IndianNationals2023) | 7.12 | 78 | India |
+| 443 | [Great Lakes Championship 2019](https://www.worldcubeassociation.org/competitions/GreatLakesChampionship2019) | 7.12 | 182 | United States |
+| 444 | [Zvornik Open 2023](https://www.worldcubeassociation.org/competitions/ZvornikOpen2023) | 7.12 | 26 | Bosnia and Herzegovina |
+| 445 | [French Open 2013](https://www.worldcubeassociation.org/competitions/FrenchOpen2013) | 7.11 | 53 | France |
+| 446 | [Industrial Cube 2012](https://www.worldcubeassociation.org/competitions/IndustrialCube2012) | 7.11 | 36 | Poland |
+| 447 | [Dragon Cubing 2019](https://www.worldcubeassociation.org/competitions/DragonCubing2019) | 7.11 | 109 | Poland |
+| 448 | [Southeast Championship 2022](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2022) | 7.11 | 274 | United States |
+| 449 | [Spørring Cube Days 2011](https://www.worldcubeassociation.org/competitions/SporringCubeDays2011) | 7.11 | 19 | Denmark |
+| 450 | [De Wilg Open 2014](https://www.worldcubeassociation.org/competitions/DeWilgOpen2014) | 7.11 | 38 | Belgium |
+| 451 | [Frankfurt Cube Days 2017](https://www.worldcubeassociation.org/competitions/FrankfurtCubeDays2017) | 7.10 | 105 | Germany |
+| 452 | [Batam Open 2018](https://www.worldcubeassociation.org/competitions/BatamOpen2018) | 7.10 | 29 | Indonesia |
+| 453 | [Nelidovo Open 2013](https://www.worldcubeassociation.org/competitions/NelidovoOpen2013) | 7.10 | 59 | Russia |
+| 454 | [Ural Winter 2014](https://www.worldcubeassociation.org/competitions/UralWinter2014) | 7.10 | 21 | Russia |
+| 455 | [Western Championship 2023](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2023) | 7.09 | 269 | United States |
+| 456 | [Rubik Zacatecas 2017](https://www.worldcubeassociation.org/competitions/RZOpen2017) | 7.09 | 97 | Mexico |
+| 457 | [Valborg Cubing 2019](https://www.worldcubeassociation.org/competitions/ValborgCubing2019) | 7.09 | 44 | Sweden |
+| 458 | [UNIVR Open 2023](https://www.worldcubeassociation.org/competitions/UNIVROpen2023) | 7.09 | 45 | Brazil |
+| 459 | [Weston-super-Mare Open 2022](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2022) | 7.09 | 82 | United Kingdom |
+| 460 | [Polish Nationals 2012](https://www.worldcubeassociation.org/competitions/PolishNationals2012) | 7.08 | 71 | Poland |
+| 461 | [Šiauliai-Tilžė Open 2017](https://www.worldcubeassociation.org/competitions/SiauliaiTilzeOpen2017) | 7.08 | 25 | Lithuania |
+| 462 | [Bački Petrovac Open 2019](https://www.worldcubeassociation.org/competitions/BackiPetrovacOpen2019) | 7.08 | 51 | Serbia |
+| 463 | [Side Events Bangalore Feb 2024](https://www.worldcubeassociation.org/competitions/SideEventsBangaloreFeb2024) | 7.08 | 26 | India |
+| 464 | [DSF Generalforsamlingen 2024](https://www.worldcubeassociation.org/competitions/DSFGeneralforsamlingen2024) | 7.08 | 78 | Denmark |
+| 465 | [Vårgårda Open 2012](https://www.worldcubeassociation.org/competitions/VargardaOpen2012) | 7.08 | 53 | Sweden |
+| 466 | [Pulmapelipäivät 2023](https://www.worldcubeassociation.org/competitions/Pulmapelipaivat2023) | 7.08 | 40 | Finland |
+| 467 | [Naoned Open 2011](https://www.worldcubeassociation.org/competitions/NaonedOpen2011) | 7.07 | 14 | France |
+| 468 | [Puy de Dome Open 2011](https://www.worldcubeassociation.org/competitions/PuydeDomeOpen2011) | 7.07 | 15 | France |
+| 469 | [Ural Winter 2015](https://www.worldcubeassociation.org/competitions/UralWinter2015) | 7.07 | 15 | Russia |
+| 470 | [AG Championship 2017](https://www.worldcubeassociation.org/competitions/AGChampionship2017) | 7.07 | 45 | Indonesia |
+| 471 | [Euro 2010](https://www.worldcubeassociation.org/competitions/Euro2010) | 7.07 | 227 | Hungary |
+| 472 | [Stockholmsligan Easter 2023](https://www.worldcubeassociation.org/competitions/StockholmsliganEasterSpecial2023) | 7.06 | 35 | Sweden |
+| 473 | [Rahn Education Leipzig 2023](https://www.worldcubeassociation.org/competitions/RahnEducationLeipzig2023) | 7.06 | 106 | Germany |
+| 474 | [Sabah Cube Open 2019](https://www.worldcubeassociation.org/competitions/SabahCubeOpen2019) | 7.05 | 55 | Malaysia |
+| 475 | [Bratislava Christmas Cubing 2022](https://www.worldcubeassociation.org/competitions/BratislavaChristmasCubing2022) | 7.05 | 57 | Slovakia |
+| 476 | [Swedish Championship 2011](https://www.worldcubeassociation.org/competitions/SwedishChampionship2011) | 7.05 | 77 | Sweden |
+| 477 | [Autotalo All Events 2023](https://www.worldcubeassociation.org/competitions/AutotaloAllEvents2023) | 7.05 | 20 | Finland |
+| 478 | [Czech Championship 2023](https://www.worldcubeassociation.org/competitions/CzechChampionship2023) | 7.05 | 126 | Czech Republic |
+| 479 | [Hungarian Open 2011](https://www.worldcubeassociation.org/competitions/HungarianOpen2011) | 7.05 | 110 | Hungary |
+| 480 | [Estonian Open 2020](https://www.worldcubeassociation.org/competitions/EstonianOpen2020) | 7.04 | 48 | Estonia |
+| 481 | [Radomsko Cube Theory 2015](https://www.worldcubeassociation.org/competitions/Radomsko2015) | 7.04 | 102 | Poland |
+| 482 | [German Nationals 2016](https://www.worldcubeassociation.org/competitions/GermanNationals2016) | 7.04 | 128 | Germany |
+| 483 | [Flag City Summer 2023](https://www.worldcubeassociation.org/competitions/FlagCitySummer2023) | 7.04 | 106 | United States |
+| 484 | [Barby Cube 2024](https://www.worldcubeassociation.org/competitions/BarbyCube2024) | 7.03 | 119 | France |
+| 485 | [ŚLS Zawiercie 2017](https://www.worldcubeassociation.org/competitions/SLSZawiercie2017) | 7.03 | 121 | Poland |
+| 486 | [Quijote Open 2019](https://www.worldcubeassociation.org/competitions/QuijoteOpen2019) | 7.03 | 33 | Spain |
+| 487 | [Osijek Open 2015](https://www.worldcubeassociation.org/competitions/OsijekOpen2015) | 7.03 | 34 | Croatia |
+| 488 | [Florida Fall 2021](https://www.worldcubeassociation.org/competitions/FloridaFall2021) | 7.03 | 38 | United States |
+| 489 | [Dragon Cubing 2018](https://www.worldcubeassociation.org/competitions/DragonCubing2018) | 7.02 | 93 | Poland |
+| 490 | [Vilnius Winter Open 2023](https://www.worldcubeassociation.org/competitions/VilniusWinterOpen2023) | 7.02 | 48 | Lithuania |
+| 491 | [Austrian Open 2013](https://www.worldcubeassociation.org/competitions/AustrianOpen2013) | 7.02 | 52 | Austria |
+| 492 | [Italian Championship 2023](https://www.worldcubeassociation.org/competitions/ItalianChampionship2023) | 7.02 | 260 | Italy |
+| 493 | [Little Village Open 2022](https://www.worldcubeassociation.org/competitions/LittleVillageOpen2022) | 7.02 | 56 | Switzerland |
+| 494 | [Medan April Fools Open 2018](https://www.worldcubeassociation.org/competitions/MedanAFO2018) | 7.00 | 23 | Indonesia |
+| 495 | [Heartland Championship 2022](https://www.worldcubeassociation.org/competitions/HeartlandChampionship2022) | 7.00 | 159 | United States |
+| 496 | [No Triangle in Dębica 2023](https://www.worldcubeassociation.org/competitions/NoTriangleinDebica2023) | 7.00 | 47 | Poland |
+| 497 | [Pão de Queijo Open 2022](https://www.worldcubeassociation.org/competitions/PaodeQueijoOpen2022) | 7.00 | 22 | Brazil |
+| 498 | [San Marino Nationals 2018](https://www.worldcubeassociation.org/competitions/SanMarinoNationals2018) | 7.00 | 24 | San Marino |
+| 499 | [Sens Open 2018](https://www.worldcubeassociation.org/competitions/SensOpen2018) | 7.00 | 69 | France |
+| 500 | [Skips in Brest 2015](https://www.worldcubeassociation.org/competitions/SkipsinBrest2015) | 7.00 | 48 | Belarus |
+| 501 | [Anime Adventure III 2023](https://www.worldcubeassociation.org/competitions/AutotaloAnimeAdventureIII2023) | 7.00 | 27 | Finland |
+| 502 | [Basauri Open 2014](https://www.worldcubeassociation.org/competitions/BasauriOpen2014) | 7.00 | 25 | Spain |
+| 503 | [Cubing Heredia 2019](https://www.worldcubeassociation.org/competitions/CubingHeredia2019) | 7.00 | 57 | Costa Rica |
+| 504 | [Warsaw Cube Masters 2015](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2015) | 6.99 | 111 | Poland |
+| 505 | [Croatian Nationals 2023](https://www.worldcubeassociation.org/competitions/CroatianNationals2023) | 6.99 | 74 | Croatia |
+| 506 | [Frankfurt Cube Days 2015](https://www.worldcubeassociation.org/competitions/FrankfurtCubeDays2015) | 6.99 | 67 | Germany |
+| 507 | [New Year's in the Dolomites 2023](https://www.worldcubeassociation.org/competitions/NewYearsintheDolomites2023) | 6.98 | 48 | Italy |
+| 508 | [Dutch Open 2011](https://www.worldcubeassociation.org/competitions/DutchOpen2011) | 6.98 | 95 | Netherlands |
+| 509 | [RNSEA 2023](https://www.worldcubeassociation.org/competitions/RNSEA2023) | 6.98 | 44 | Germany |
+| 510 | [Belgian Open 2008](https://www.worldcubeassociation.org/competitions/BelgianOpen2008) | 6.98 | 41 | Belgium |
+| 511 | [Norwegian Championship 2022](https://www.worldcubeassociation.org/competitions/NorwegianChampionship2022) | 6.97 | 199 | Norway |
+| 512 | [Hessen Open 2012](https://www.worldcubeassociation.org/competitions/HessenOpen2012) | 6.97 | 77 | Germany |
+| 513 | [Horse City 2021](https://www.worldcubeassociation.org/competitions/HorseCity2021) | 6.97 | 38 | Ukraine |
+| 514 | [Guildford Summer Open 2011](https://www.worldcubeassociation.org/competitions/GuildfordSummerOpen2011) | 6.97 | 37 | United Kingdom |
+| 515 | [Munich Open 2012](https://www.worldcubeassociation.org/competitions/MunichOpen2012) | 6.97 | 73 | Germany |
+| 516 | [Hessen Open 2015](https://www.worldcubeassociation.org/competitions/HessenOpen2015) | 6.97 | 71 | Germany |
+| 517 | [Eastside Side Events 2024](https://www.worldcubeassociation.org/competitions/EastsideSideEvents2024) | 6.97 | 71 | Australia |
+| 518 | [PSKubing 2017](https://www.worldcubeassociation.org/competitions/PSKubing2017) | 6.97 | 64 | Germany |
+| 519 | [Borlänge Open 2024](https://www.worldcubeassociation.org/competitions/BorlangeOpen2024) | 6.97 | 29 | Sweden |
+| 520 | [Kensington May Upstairs 2024](https://www.worldcubeassociation.org/competitions/KensingtonMayUpstairs2024) | 6.96 | 26 | Australia |
+| 521 | [Big Cube Krasnik 2014](https://www.worldcubeassociation.org/competitions/BigCubeKrasnik2014) | 6.96 | 51 | Poland |
+| 522 | [Speed Days Kraśnik 2017](https://www.worldcubeassociation.org/competitions/SpeedDaysKrasnik2017) | 6.96 | 49 | Poland |
+| 523 | [Bratislava Open 2015](https://www.worldcubeassociation.org/competitions/BratislavaOpen2015) | 6.96 | 48 | Slovakia |
+| 524 | [Stockholm VRG 2021](https://www.worldcubeassociation.org/competitions/StockholmVRG2021) | 6.96 | 45 | Sweden |
+| 525 | [Deutsche Cube Days Helsinki 2024](https://www.worldcubeassociation.org/competitions/DeutscheCubeDaysHelsinki2024) | 6.95 | 88 | Finland |
+| 526 | [Sun City Open 2019](https://www.worldcubeassociation.org/competitions/SunCityOpen2019) | 6.95 | 21 | Brazil |
+| 527 | [Aarhus Open 2012](https://www.worldcubeassociation.org/competitions/AarhusOpen2012) | 6.95 | 20 | Denmark |
+| 528 | [Osório Guri Cubing 2024](https://www.worldcubeassociation.org/competitions/OsorioGuriCubing2024) | 6.95 | 39 | Brazil |
+| 529 | [Barby Cube 73 2017](https://www.worldcubeassociation.org/competitions/BarbyCube732017) | 6.94 | 52 | France |
+| 530 | [Slovenia Nationals 2018](https://www.worldcubeassociation.org/competitions/SloveniaNationals2018) | 6.94 | 52 | Slovenia |
+| 531 | [Rheinland-Pfalz Open 2022](https://www.worldcubeassociation.org/competitions/RheinlandPfalzOpen2022) | 6.94 | 81 | Germany |
+| 532 | [Indonesian Championship 2016](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2016) | 6.94 | 64 | Indonesia |
+| 533 | [Cubo Uai BH Open 2019](https://www.worldcubeassociation.org/competitions/CuboUaiBHOpen2019) | 6.94 | 32 | Brazil |
+| 534 | [Countless Cubes Chicago B 2024](https://www.worldcubeassociation.org/competitions/CountlessCubesChicagoB2024) | 6.93 | 45 | United States |
+| 535 | [Erciyes Weekend 2018](https://www.worldcubeassociation.org/competitions/ErciyesWeekend2018) | 6.93 | 14 | Turkey |
+| 536 | [West Visayas Championship 2019](https://www.worldcubeassociation.org/competitions/WestVisayasChampionship2019) | 6.93 | 28 | Philippines |
+| 537 | [Melgar Summer 2018](https://www.worldcubeassociation.org/competitions/MelgarSummer2018) | 6.93 | 42 | Colombia |
+| 538 | [Swedish Decathlon Challenge 2019](https://www.worldcubeassociation.org/competitions/SwedishDecathlonChallenge2019) | 6.92 | 40 | Sweden |
+| 539 | [Ljubljana Open 2017](https://www.worldcubeassociation.org/competitions/LjubljanaOpen2017) | 6.92 | 38 | Slovenia |
+| 540 | [Berlin Open 2014](https://www.worldcubeassociation.org/competitions/BerlinOpen2014) | 6.92 | 38 | Germany |
+| 541 | [Toulon Open 2017](https://www.worldcubeassociation.org/competitions/ToulonOpen2017) | 6.92 | 37 | France |
+| 542 | [Italian Open 2017](https://www.worldcubeassociation.org/competitions/ItalianOpen2017) | 6.92 | 74 | Italy |
+| 543 | [German Open 2016](https://www.worldcubeassociation.org/competitions/GermanOpen2016) | 6.92 | 86 | Germany |
+| 544 | [Imaginalia Open 2018](https://www.worldcubeassociation.org/competitions/ImaginaliaOpen2018) | 6.92 | 60 | Spain |
+| 545 | [Celebes 2012](https://www.worldcubeassociation.org/competitions/Celebes2012) | 6.92 | 24 | Indonesia |
+| 546 | [Finnish Championship 2017](https://www.worldcubeassociation.org/competitions/FinnishChampionship2017) | 6.91 | 70 | Finland |
+| 547 | [PärNuti Cubing 2022](https://www.worldcubeassociation.org/competitions/ParNutiCubing2022) | 6.91 | 34 | Estonia |
+| 548 | [Santa Fe Open 2022](https://www.worldcubeassociation.org/competitions/SantaFeOpen2022) | 6.91 | 45 | Argentina |
+| 549 | [France 2018](https://www.worldcubeassociation.org/competitions/France2018) | 6.91 | 213 | France |
+| 550 | [France 2016](https://www.worldcubeassociation.org/competitions/France2016) | 6.91 | 76 | France |
+| 551 | [Oxford Open 2014](https://www.worldcubeassociation.org/competitions/OxfordOpen2014) | 6.91 | 43 | United Kingdom |
+| 552 | [Swedish Championship 2018](https://www.worldcubeassociation.org/competitions/SwedishChampionship2018) | 6.91 | 148 | Sweden |
+| 553 | [Italian Championship 2016](https://www.worldcubeassociation.org/competitions/ItalianChampionship2016) | 6.90 | 104 | Italy |
+| 554 | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022) | 6.90 | 266 | United States |
+| 555 | [Aarhus Christmas 2019](https://www.worldcubeassociation.org/competitions/AarhusChristmas2019) | 6.90 | 50 | Denmark |
+| 556 | [Energy Cube Tomaszów 2023](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2023) | 6.90 | 140 | Poland |
+| 557 | [Franconia Winter 2014](https://www.worldcubeassociation.org/competitions/FranconiaWinter2014) | 6.90 | 30 | Germany |
+| 558 | [Ehte Cube Days 2023](https://www.worldcubeassociation.org/competitions/EhteCubeDays2023) | 6.90 | 49 | Estonia |
+| 559 | [West Coast 2: Mölnlycke 2024](https://www.worldcubeassociation.org/competitions/WestCoast2Molnlycke2024) | 6.90 | 49 | Sweden |
+| 560 | [Wrocław Open 2019](https://www.worldcubeassociation.org/competitions/WroclawOpen2019) | 6.90 | 98 | Poland |
+| 561 | [Vännäs & Friends 2022](https://www.worldcubeassociation.org/competitions/VannasFriends2022) | 6.89 | 38 | Sweden |
+| 562 | [Fargo Fall 2018](https://www.worldcubeassociation.org/competitions/FargoFall2018) | 6.89 | 37 | United States |
+| 563 | [GamMa Spring 2022](https://www.worldcubeassociation.org/competitions/GamMaSpring2022) | 6.89 | 74 | Germany |
+| 564 | [Danish Open 2016](https://www.worldcubeassociation.org/competitions/DanishOpen2016) | 6.89 | 55 | Denmark |
+| 565 | [French Championship 2023](https://www.worldcubeassociation.org/competitions/FrenchChampionship2023) | 6.89 | 280 | France |
+| 566 | [Italian Open 2015](https://www.worldcubeassociation.org/competitions/ItalianOpen2015) | 6.89 | 70 | Italy |
+| 567 | [Brno Open 2019](https://www.worldcubeassociation.org/competitions/BrnoOpen2019) | 6.88 | 52 | Czech Republic |
+| 568 | [Northern Irish Open 2013](https://www.worldcubeassociation.org/competitions/NorthernIrishOpen2013) | 6.88 | 17 | United Kingdom |
+| 569 | [LLS VII Final 2018](https://www.worldcubeassociation.org/competitions/LLSVIIFinal2018) | 6.88 | 49 | Poland |
+| 570 | [Sormet Jäässä Järvenpäässä 2023](https://www.worldcubeassociation.org/competitions/SormetJaassaJarvenpaassa2023) | 6.88 | 57 | Finland |
+| 571 | [Ledgewood Winter Open 2017](https://www.worldcubeassociation.org/competitions/LedgewoodWinterOpen2017) | 6.88 | 40 | United States |
+| 572 | [Trieste Open 2013](https://www.worldcubeassociation.org/competitions/TriesteOpen2013) | 6.88 | 16 | Italy |
+| 573 | [Sant Valentí a Parets 2023](https://www.worldcubeassociation.org/competitions/SantValentiParets2023) | 6.87 | 94 | Spain |
+| 574 | [Hasselt Open 2014](https://www.worldcubeassociation.org/competitions/HasseltOpen2014) | 6.87 | 39 | Belgium |
+| 575 | [Polish Nationals 2011](https://www.worldcubeassociation.org/competitions/PolishNationals2011) | 6.87 | 62 | Poland |
+| 576 | [Tårnby Cube Træf 2018](https://www.worldcubeassociation.org/competitions/TarnbyCubeTraef2018) | 6.87 | 84 | Denmark |
+| 577 | [Weston-super-Mare Autumn 2022](https://www.worldcubeassociation.org/competitions/WestonsuperMareAutumn2022) | 6.86 | 81 | United Kingdom |
+| 578 | [Oulu Open 2018](https://www.worldcubeassociation.org/competitions/OuluOpen2018) | 6.86 | 29 | Finland |
+| 579 | [Düsseldorf Open 2011](https://www.worldcubeassociation.org/competitions/DusseldorfOpen2011) | 6.86 | 65 | Germany |
+| 580 | [Come Back to Landvetter 2024](https://www.worldcubeassociation.org/competitions/ComeBacktoLandvetter2024) | 6.86 | 50 | Sweden |
+| 581 | [Finnish Championship 2022](https://www.worldcubeassociation.org/competitions/FinnishChampionship2022) | 6.86 | 71 | Finland |
+| 582 | [German Nationals 2015](https://www.worldcubeassociation.org/competitions/GermanNationals2015) | 6.86 | 134 | Germany |
+| 583 | [Hessen Open 2014](https://www.worldcubeassociation.org/competitions/HessenOpen2014) | 6.86 | 63 | Germany |
+| 584 | [Bosnia and Herzegovina Open 2016](https://www.worldcubeassociation.org/competitions/BosniaandHerzegovinaOpen2016) | 6.86 | 28 | Bosnia and Herzegovina |
+| 585 | [British Summer Open 2019](https://www.worldcubeassociation.org/competitions/BritishSummerOpen2019) | 6.86 | 166 | United Kingdom |
+| 586 | [Empire State Spring Special 2024](https://www.worldcubeassociation.org/competitions/EmpireStateSpringSpecial2024) | 6.85 | 34 | United States |
+| 587 | [Velilla Open 2024](https://www.worldcubeassociation.org/competitions/VelillaOpen2024) | 6.85 | 61 | Spain |
+| 588 | [Boston University Winter 2019](https://www.worldcubeassociation.org/competitions/BUWinter2019) | 6.85 | 114 | United States |
+| 589 | [Tassin-la-Demi-Cube Open 2019](https://www.worldcubeassociation.org/competitions/TassinlaDemiCubeOpen2019) | 6.85 | 67 | France |
+| 590 | [Ural Open 2014](https://www.worldcubeassociation.org/competitions/UralOpen2014) | 6.85 | 20 | Russia |
+| 591 | [Cubelonia 2016](https://www.worldcubeassociation.org/competitions/Cubelonia2016) | 6.85 | 93 | Germany |
+| 592 | [New Zealand Nationals 2017](https://www.worldcubeassociation.org/competitions/NewZealandNationals2017) | 6.85 | 86 | New Zealand |
+| 593 | [Budapest Back to School 2023](https://www.worldcubeassociation.org/competitions/BudapestBacktoSchool2023) | 6.85 | 79 | Hungary |
+| 594 | [Ural Open 2016](https://www.worldcubeassociation.org/competitions/UralOpen2016) | 6.85 | 26 | Russia |
+| 595 | [Quijote Open 2016](https://www.worldcubeassociation.org/competitions/QuijoteOpen2016) | 6.85 | 65 | Spain |
+| 596 | [Sigulda Open 2023](https://www.worldcubeassociation.org/competitions/SiguldaOpen2023) | 6.84 | 51 | Latvia |
+| 597 | [Mérida Summer 2016](https://www.worldcubeassociation.org/competitions/MeridaSummer2016) | 6.84 | 25 | Venezuela |
+| 598 | [Tapiola Winter Open 2019](https://www.worldcubeassociation.org/competitions/TapiolaWinterOpen2019) | 6.84 | 37 | Finland |
+| 599 | [Frankivsk Open 2019](https://www.worldcubeassociation.org/competitions/FrankivskOpen2019) | 6.84 | 43 | Ukraine |
+| 600 | [Euro 2014](https://www.worldcubeassociation.org/competitions/Euro2014) | 6.84 | 269 | Denmark |
+| 601 | [France 2017](https://www.worldcubeassociation.org/competitions/France2017) | 6.84 | 182 | France |
+| 602 | [Urnieta Open 2019](https://www.worldcubeassociation.org/competitions/UrnietaOpen2019) | 6.83 | 30 | Spain |
+| 603 | [Zeeland Open 2013](https://www.worldcubeassociation.org/competitions/ZeelandOpen2013) | 6.83 | 24 | Netherlands |
+| 604 | [Pão de Queijo Open 2023](https://www.worldcubeassociation.org/competitions/PaodeQueijoOpen2023) | 6.83 | 29 | Brazil |
+| 605 | [Aarhus Spring 2019](https://www.worldcubeassociation.org/competitions/AarhusSpring2019) | 6.83 | 46 | Denmark |
+| 606 | [Rheinland-Pfalz Open 2023](https://www.worldcubeassociation.org/competitions/RheinlandPfalzOpen2023) | 6.82 | 80 | Germany |
+| 607 | [Kuutionvääntelyt 2024](https://www.worldcubeassociation.org/competitions/KirkkonummenKuutionvaantelyt2024) | 6.82 | 97 | Finland |
+| 608 | [Arctic Open 2018](https://www.worldcubeassociation.org/competitions/ArcticOpen2018) | 6.82 | 17 | Norway |
+| 609 | [TKTK Workday Cubing II 2023](https://www.worldcubeassociation.org/competitions/TKTKWorkdayCubingII2023) | 6.82 | 17 | Estonia |
+| 610 | [Cube4fun in Biała Rawska 2024](https://www.worldcubeassociation.org/competitions/Cube4funinBialaRawska2024) | 6.82 | 72 | Poland |
+| 611 | [Oregon Championship 2022](https://www.worldcubeassociation.org/competitions/OregonChampionship2022) | 6.82 | 94 | United States |
+| 612 | [Burabay Open 2024](https://www.worldcubeassociation.org/competitions/BurabayOpen2024) | 6.82 | 11 | Kazakhstan |
+| 613 | [Dutch Masters 2008](https://www.worldcubeassociation.org/competitions/DutchMasters2008) | 6.82 | 60 | Netherlands |
+| 614 | [Latvian Open 2018](https://www.worldcubeassociation.org/competitions/LatvianOpen2018) | 6.82 | 76 | Latvia |
+| 615 | [Carnegie Mellon Winter 2014](https://www.worldcubeassociation.org/competitions/CMUWinter2014) | 6.81 | 27 | United States |
+| 616 | [Latvian Open 2014](https://www.worldcubeassociation.org/competitions/LatvianOpen2014) | 6.81 | 16 | Latvia |
+| 617 | [Czech Open 2017](https://www.worldcubeassociation.org/competitions/CzechOpen2017) | 6.81 | 37 | Czech Republic |
+| 618 | [Musée suisse du jeu 2017](https://www.worldcubeassociation.org/competitions/Museesuissedujeu2017) | 6.81 | 58 | Switzerland |
+| 619 | [Oslo Open 2023](https://www.worldcubeassociation.org/competitions/OsloOpen2023) | 6.80 | 110 | Norway |
+| 620 | [Tajikistan Open 2019](https://www.worldcubeassociation.org/competitions/TajikistanOpen2019) | 6.80 | 15 | Tajikistan |
+| 621 | [Wyoming Summer 2019](https://www.worldcubeassociation.org/competitions/WyomingSummer2019) | 6.80 | 30 | United States |
+| 622 | [Rochester Fall 2022](https://www.worldcubeassociation.org/competitions/RochesterFall2022) | 6.80 | 124 | United States |
+| 623 | [PSKubing 2016](https://www.worldcubeassociation.org/competitions/PSKubing2016) | 6.80 | 64 | Germany |
+| 624 | [Cuthberts Open 2014](https://www.worldcubeassociation.org/competitions/CuthbertsOpen2014) | 6.79 | 63 | United Kingdom |
+| 625 | [Italian Open 2012](https://www.worldcubeassociation.org/competitions/ItalianOpen2012) | 6.79 | 53 | Italy |
+| 626 | [Lithuanian Open 2013](https://www.worldcubeassociation.org/competitions/LithuanianOpen2013) | 6.79 | 19 | Lithuania |
+| 627 | [Volga Nizhny Novgorod 2020](https://www.worldcubeassociation.org/competitions/VolgaNizhnyNovgorod2020) | 6.79 | 71 | Russia |
+| 628 | [SPB Open 2014](https://www.worldcubeassociation.org/competitions/SPBOpen2014) | 6.79 | 28 | Russia |
+| 629 | [Puy de Dome Open 2010](https://www.worldcubeassociation.org/competitions/PuyDeDomeOpen2010) | 6.78 | 9 | France |
+| 630 | [Austrian Open 2014](https://www.worldcubeassociation.org/competitions/AustrianOpen2014) | 6.78 | 36 | Austria |
+| 631 | [Bilbao Open 2019](https://www.worldcubeassociation.org/competitions/BilbaoOpen2019) | 6.78 | 72 | Spain |
+| 632 | [Odsherred Forårscubing 2022](https://www.worldcubeassociation.org/competitions/OdsherredForarscubing2022) | 6.78 | 58 | Denmark |
+| 633 | [Swedish Championship 2019](https://www.worldcubeassociation.org/competitions/SwedishChampionship2019) | 6.77 | 182 | Sweden |
+| 634 | [MIR Open 2013](https://www.worldcubeassociation.org/competitions/MIROpen2013) | 6.77 | 31 | Spain |
+| 635 | [Lithuanian Open 2016](https://www.worldcubeassociation.org/competitions/LithuanianOpen2016) | 6.77 | 22 | Lithuania |
+| 636 | [Estonian Open 2023](https://www.worldcubeassociation.org/competitions/EstonianOpen2023) | 6.77 | 61 | Estonia |
+| 637 | [Erfurt Open 2013](https://www.worldcubeassociation.org/competitions/ErfurtOpen2013) | 6.77 | 26 | Germany |
+| 638 | [Northeast Championship 2018](https://www.worldcubeassociation.org/competitions/NortheastChampionship2018) | 6.77 | 150 | United States |
+| 639 | [Oslo Open 2022](https://www.worldcubeassociation.org/competitions/OsloOpen2022) | 6.76 | 68 | Norway |
+| 640 | [Nancy Open 2017](https://www.worldcubeassociation.org/competitions/NancyOpen2017) | 6.76 | 89 | France |
+| 641 | [Champagne Open 2018](https://www.worldcubeassociation.org/competitions/ChampagneOpen2018) | 6.76 | 105 | France |
+| 642 | [Aguascalientes Summer 2016](https://www.worldcubeassociation.org/competitions/AguascalientesSummer2016) | 6.76 | 92 | Mexico |
+| 643 | [Baztan Open 2022](https://www.worldcubeassociation.org/competitions/BaztanOpen2022) | 6.76 | 46 | Spain |
+| 644 | [Warszawa Open 2012](https://www.worldcubeassociation.org/competitions/WarsawaOpen2012) | 6.76 | 71 | Poland |
+| 645 | [Ballerup Open 2013](https://www.worldcubeassociation.org/competitions/BallerupOpen2013) | 6.76 | 29 | Denmark |
+| 646 | [Feltre Winter Open 2024](https://www.worldcubeassociation.org/competitions/FeltreWinterOpen2024) | 6.76 | 58 | Italy |
+| 647 | [Munich Open 2015](https://www.worldcubeassociation.org/competitions/MunichOpen2015) | 6.76 | 82 | Germany |
+| 648 | [Turnin' Offaly Fast 2024](https://www.worldcubeassociation.org/competitions/TurninOffalyFast2024) | 6.76 | 98 | Ireland |
+| 649 | [NZ South Island Champ 2024](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2024) | 6.75 | 61 | New Zealand |
+| 650 | [Project Kedzierzyn-Kozle 2021](https://www.worldcubeassociation.org/competitions/ProjectKedzierzynKozle2021) | 6.75 | 73 | Poland |
+| 651 | [Tajikistan Open 2018](https://www.worldcubeassociation.org/competitions/TajikistanOpen2018) | 6.75 | 12 | Tajikistan |
+| 652 | [Sébra Open 2014](https://www.worldcubeassociation.org/competitions/SebraOpen2014) | 6.75 | 28 | Germany |
+| 653 | [Swedish Cubedays 2010](https://www.worldcubeassociation.org/competitions/SwedishCubedays2010) | 6.75 | 44 | Sweden |
+| 654 | [Itämeri 2023](https://www.worldcubeassociation.org/competitions/Itameri2023) | 6.75 | 12 | Finland |
+| 655 | [Dutch Winter 2017](https://www.worldcubeassociation.org/competitions/DutchWinter2017) | 6.74 | 47 | Netherlands |
+| 656 | [Polish Nationals 2017](https://www.worldcubeassociation.org/competitions/PolishNationals2017) | 6.74 | 190 | Poland |
+| 657 | [Warsaw Cube Masters 2023](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2023) | 6.74 | 147 | Poland |
+| 658 | [Clockeborg 2024](https://www.worldcubeassociation.org/competitions/Clockeborg2024) | 6.74 | 50 | Sweden |
+| 659 | [Munich Open 2013](https://www.worldcubeassociation.org/competitions/MunichOpen2013) | 6.74 | 111 | Germany |
+| 660 | [Nottingham Summer 2014](https://www.worldcubeassociation.org/competitions/NottinghamSummer2014) | 6.73 | 49 | United Kingdom |
+| 661 | [Kaliska Open 2015](https://www.worldcubeassociation.org/competitions/KaliskaOpen2015) | 6.73 | 64 | Poland |
+| 662 | [N8W8 Summer 2014](https://www.worldcubeassociation.org/competitions/N8W8Summer2014) | 6.73 | 45 | Belgium |
+| 663 | [Elista Lyceum 2019](https://www.worldcubeassociation.org/competitions/ElistaLyceum2019) | 6.73 | 30 | Russia |
+| 664 | [Sandnes Open 2020](https://www.worldcubeassociation.org/competitions/SandnesOpen2020) | 6.73 | 30 | Norway |
+| 665 | [Barcelona Winter Open 2012](https://www.worldcubeassociation.org/competitions/BarcelonaWinterOpen2012) | 6.73 | 30 | Spain |
+| 666 | [Belgrade Summer 2022](https://www.worldcubeassociation.org/competitions/BelgradeSummer2022) | 6.73 | 45 | Serbia |
+| 667 | [Quetzal Cubing 2019](https://www.worldcubeassociation.org/competitions/QuetzalCubing2019) | 6.73 | 56 | Mexico |
+| 668 | [Nyköping Winter Cubing 2023](https://www.worldcubeassociation.org/competitions/NykopingWinterCubing2023) | 6.73 | 70 | Sweden |
+| 669 | [Fredericia Open 2011](https://www.worldcubeassociation.org/competitions/FredericiaOpen2011) | 6.73 | 22 | Denmark |
+| 670 | [Plentzia Open 2017](https://www.worldcubeassociation.org/competitions/PlentziaOpen2017) | 6.72 | 40 | Spain |
+| 671 | [Serbian Championship 2022](https://www.worldcubeassociation.org/competitions/SerbianChampionship2022) | 6.72 | 47 | Serbia |
+| 672 | [Italian Open 2010](https://www.worldcubeassociation.org/competitions/CubeNRoll2010) | 6.72 | 61 | Italy |
+| 673 | [Belgian Open 2009](https://www.worldcubeassociation.org/competitions/BelgianOpen2009) | 6.72 | 46 | Belgium |
+| 674 | [Uzbekistan All Events 2019](https://www.worldcubeassociation.org/competitions/UzbekistanAllEvents2019) | 6.72 | 53 | Uzbekistan |
+| 675 | [Nizhny Novgorod Spring Open 2019](https://www.worldcubeassociation.org/competitions/NizhnyNovgorodSpringOpen2019) | 6.71 | 63 | Russia |
+| 676 | [CUCEI Open 2015](https://www.worldcubeassociation.org/competitions/CUCEI2015) | 6.71 | 52 | Mexico |
+| 677 | [US Nationals 2012](https://www.worldcubeassociation.org/competitions/USNationals2012) | 6.71 | 259 | United States |
+| 678 | [Slovenian Open 2017](https://www.worldcubeassociation.org/competitions/SlovenianOpen2017) | 6.71 | 55 | Slovenia |
+| 679 | [Zonhoven Open 2014](https://www.worldcubeassociation.org/competitions/ZonhovenOpen2014) | 6.71 | 48 | Belgium |
+| 680 | [Cube Factory League Final 2019](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueFinal2019) | 6.71 | 41 | Poland |
+| 681 | [Kirkkonummi Open 2014](https://www.worldcubeassociation.org/competitions/KirkkonummiOpen2014) | 6.71 | 17 | Finland |
+| 682 | [Weston-super-Mare Open 2017](https://www.worldcubeassociation.org/competitions/WSMO2017) | 6.70 | 105 | United Kingdom |
+| 683 | [SPB Summer Open 2015](https://www.worldcubeassociation.org/competitions/SPBSummerOpen2015) | 6.70 | 44 | Russia |
+| 684 | [Tietomaa Open 2022](https://www.worldcubeassociation.org/competitions/TietomaaOpen2022) | 6.70 | 27 | Finland |
+| 685 | [Tres Estrellas 2023](https://www.worldcubeassociation.org/competitions/TresEstrellas2023) | 6.70 | 57 | Argentina |
+| 686 | [Canada's Best in the West 2024](https://www.worldcubeassociation.org/competitions/CanadasBestintheWest2024) | 6.70 | 144 | Canada |
+| 687 | [La Vall d'Uixó Open 2018](https://www.worldcubeassociation.org/competitions/LaValldUixoOpen2018) | 6.70 | 43 | Spain |
+| 688 | [Osijek Re-Open 2021](https://www.worldcubeassociation.org/competitions/OsijekReOpen2021) | 6.69 | 26 | Croatia |
+| 689 | [Every Event Éire 2019](https://www.worldcubeassociation.org/competitions/EveryEventEire2019) | 6.69 | 97 | Ireland |
+| 690 | [Semarang Fun Cube 2011](https://www.worldcubeassociation.org/competitions/SemarangFunCube2011) | 6.69 | 58 | Indonesia |
+| 691 | [Annuntia Open 2019](https://www.worldcubeassociation.org/competitions/AnnuntiaOpen2019) | 6.69 | 96 | Belgium |
+| 692 | [Staszic Open 2017](https://www.worldcubeassociation.org/competitions/StaszicOpen2017) | 6.68 | 85 | Poland |
+| 693 | [Bogotá Championship 2019](https://www.worldcubeassociation.org/competitions/BogotaChampionship2019) | 6.68 | 77 | Colombia |
+| 694 | [UK Masters 2009](https://www.worldcubeassociation.org/competitions/UKMasters2009) | 6.68 | 40 | United Kingdom |
+| 695 | [Elsass Open 2018](https://www.worldcubeassociation.org/competitions/ElsassOpen2018) | 6.67 | 104 | France |
+| 696 | [Austrian Open 2017](https://www.worldcubeassociation.org/competitions/AustrianOpen2017) | 6.67 | 61 | Austria |
+| 697 | [Sanlo 2017](https://www.worldcubeassociation.org/competitions/ClassicSanLorenzov42017) | 6.67 | 61 | Argentina |
+| 698 | [North Carolina Championship 2023](https://www.worldcubeassociation.org/competitions/NorthCarolinaChampionship2023) | 6.67 | 183 | United States |
+| 699 | [Washington Championship 2020](https://www.worldcubeassociation.org/competitions/WashingtonChampionship2020) | 6.67 | 128 | United States |
+| 700 | [East German Open 2010](https://www.worldcubeassociation.org/competitions/EastGermanOpen2010) | 6.67 | 57 | Germany |
+| 701 | [Prague Open 2024](https://www.worldcubeassociation.org/competitions/PragueOpen2024) | 6.67 | 84 | Czech Republic |
+| 702 | [Cube Factory Częstochowa 2018](https://www.worldcubeassociation.org/competitions/CubeFactoryCzestochowa2018) | 6.67 | 69 | Poland |
+| 703 | [Soares Herdy Open 2024](https://www.worldcubeassociation.org/competitions/SoaresHerdyOpen2024) | 6.67 | 21 | Brazil |
+| 704 | [Swedish Open 2010](https://www.worldcubeassociation.org/competitions/SwedishOpen2010) | 6.67 | 66 | Sweden |
+| 705 | [French Championship 2024](https://www.worldcubeassociation.org/competitions/FrenchChampionship2024) | 6.66 | 280 | France |
+| 706 | [Australian Nationals 2018](https://www.worldcubeassociation.org/competitions/AustralianNationals2018) | 6.66 | 199 | Australia |
+| 707 | [US Nationals 2011](https://www.worldcubeassociation.org/competitions/USNationals2011) | 6.66 | 204 | United States |
+| 708 | [Norrkubing 2019](https://www.worldcubeassociation.org/competitions/Norrkubing2019) | 6.66 | 59 | Sweden |
+| 709 | [Vilnius Amanita 2023](https://www.worldcubeassociation.org/competitions/VilniusAmanita2023) | 6.66 | 35 | Lithuania |
+| 710 | [Manchester Open 2019](https://www.worldcubeassociation.org/competitions/ManchesterOpen2019) | 6.65 | 144 | United Kingdom |
+| 711 | [Pasuruan Open 2012](https://www.worldcubeassociation.org/competitions/PasuruanOpen2012) | 6.65 | 20 | Indonesia |
+| 712 | [Hessen Open 2016](https://www.worldcubeassociation.org/competitions/HessenOpen2016) | 6.65 | 97 | Germany |
+| 713 | [Opentrópolis CEFET 2024](https://www.worldcubeassociation.org/competitions/OpentropolisCEFET2024) | 6.65 | 37 | Brazil |
+| 714 | [Classic City 4 Charity 2017](https://www.worldcubeassociation.org/competitions/ClassicCity4Charity2017) | 6.65 | 37 | United States |
+| 715 | [Šiauliai Autumn Open 2017](https://www.worldcubeassociation.org/competitions/SiauliaiAutumnOpen2017) | 6.65 | 34 | Lithuania |
+| 716 | [Barby Cube 2022](https://www.worldcubeassociation.org/competitions/BarbyCube2022) | 6.65 | 65 | France |
+| 717 | [Barby Cube 2023](https://www.worldcubeassociation.org/competitions/BarbyCube2023) | 6.64 | 90 | France |
+| 718 | [Osijek Open 2024](https://www.worldcubeassociation.org/competitions/OsijekOpen2024) | 6.64 | 59 | Croatia |
+| 719 | [FNSM 2015](https://www.worldcubeassociation.org/competitions/FNSMOpen2015) | 6.64 | 42 | Mexico |
+| 720 | [SST Kielce 2021](https://www.worldcubeassociation.org/competitions/SSTKielce2021) | 6.64 | 81 | Poland |
+| 721 | [Kharkiv Cubefall 2021](https://www.worldcubeassociation.org/competitions/KharkivCubefall2021) | 6.64 | 67 | Ukraine |
+| 722 | [Dublin Summer Sunday 2023](https://www.worldcubeassociation.org/competitions/DublinSummerSolvingSunday2023) | 6.64 | 75 | Ireland |
+| 723 | [Turkish Nationals 2023](https://www.worldcubeassociation.org/competitions/TurkishNationals2023) | 6.64 | 50 | Turkey |
+| 724 | [Prague Open 2015](https://www.worldcubeassociation.org/competitions/PragueOpen2015) | 6.64 | 61 | Czech Republic |
+| 725 | [Cube4fun Bełżyce 2022](https://www.worldcubeassociation.org/competitions/Cube4funBelzyce2022) | 6.64 | 108 | Poland |
+| 726 | [Italian Championship 2012](https://www.worldcubeassociation.org/competitions/ItalianChampionship2012) | 6.64 | 47 | Italy |
+| 727 | [Italian Championship 2011](https://www.worldcubeassociation.org/competitions/ItalianChampionship2011) | 6.64 | 44 | Italy |
+| 728 | [Pittsburgh Fall 2019](https://www.worldcubeassociation.org/competitions/PittsburghFall2019) | 6.64 | 55 | United States |
+| 729 | [France 2013](https://www.worldcubeassociation.org/competitions/France2013) | 6.64 | 66 | France |
+| 730 | [Belgian Open 2011](https://www.worldcubeassociation.org/competitions/BelgianOpen2011) | 6.63 | 41 | Belgium |
+| 731 | [Olsztyn Open 2023](https://www.worldcubeassociation.org/competitions/OlsztynOpen2023) | 6.63 | 73 | Poland |
+| 732 | [Banja Luka Open 2022](https://www.worldcubeassociation.org/competitions/BanjaLukaOpen2022) | 6.63 | 43 | Bosnia and Herzegovina |
+| 733 | [Slovakian Summer 2018](https://www.worldcubeassociation.org/competitions/SlovakianSummer2018) | 6.63 | 51 | Slovakia |
+| 734 | [Glasgow Autumn 2023](https://www.worldcubeassociation.org/competitions/GlasgowAutumn2023) | 6.63 | 161 | United Kingdom |
+| 735 | [Wyoming Jackalope Dash 2018](https://www.worldcubeassociation.org/competitions/WyomingJackalopeDash2018) | 6.62 | 16 | United States |
+| 736 | [Cronos Querétaro 2023](https://www.worldcubeassociation.org/competitions/CronosQueretaro2023) | 6.62 | 112 | Mexico |
+| 737 | [Malang Cube 2012](https://www.worldcubeassociation.org/competitions/MalangCubeDay2012) | 6.62 | 24 | Indonesia |
+| 738 | [Harrow Spring 2015](https://www.worldcubeassociation.org/competitions/HarrowSpring2015) | 6.62 | 61 | United Kingdom |
+| 739 | [Basauri Open 2022](https://www.worldcubeassociation.org/competitions/BasauriOpen2022) | 6.62 | 50 | Spain |
+| 740 | [Exeter Open 2016](https://www.worldcubeassociation.org/competitions/ExeterOpen2016) | 6.62 | 50 | United Kingdom |
+| 741 | [San Marino Nationals 2019](https://www.worldcubeassociation.org/competitions/SanMarinoNationals2019) | 6.62 | 50 | San Marino |
+| 742 | [Champagne Open 2016](https://www.worldcubeassociation.org/competitions/ChampagneOpen2016) | 6.62 | 84 | France |
+| 743 | [Rocky Top 2017](https://www.worldcubeassociation.org/competitions/RockyTop2017) | 6.62 | 63 | United States |
+| 744 | [Estonian Open 2018](https://www.worldcubeassociation.org/competitions/EstonianOpen2018) | 6.62 | 55 | Estonia |
+| 745 | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023) | 6.62 | 198 | Poland |
+| 746 | [US Nationals 2016](https://www.worldcubeassociation.org/competitions/USNationals2016) | 6.62 | 534 | United States |
+| 747 | [Vilnius Open 2016](https://www.worldcubeassociation.org/competitions/VilniusOpen2016) | 6.62 | 26 | Lithuania |
+| 748 | [Osijek Open 2022](https://www.worldcubeassociation.org/competitions/OsijekOpen2022) | 6.62 | 39 | Croatia |
+| 749 | [Edinburgh Open 2013](https://www.worldcubeassociation.org/competitions/EdinburghOpen2013) | 6.62 | 39 | United Kingdom |
+| 750 | [Southeast Texas Winter 2019](https://www.worldcubeassociation.org/competitions/SoutheastTexasWinter2019) | 6.62 | 65 | United States |
+| 751 | [London Open 2017](https://www.worldcubeassociation.org/competitions/LondonOpen2017) | 6.61 | 163 | United Kingdom |
+| 752 | [Franconia Winter 2023](https://www.worldcubeassociation.org/competitions/FranconiaWinter2023) | 6.61 | 75 | Germany |
+| 753 | [Galeries Lafayette Open 2010](https://www.worldcubeassociation.org/competitions/GaleriesLafayetteOpen2010) | 6.61 | 41 | France |
+| 754 | [Prenacionales Colombia 2024](https://www.worldcubeassociation.org/competitions/PrenacionalesColombia2024) | 6.61 | 41 | Colombia |
+| 755 | [Basauri Open 2011](https://www.worldcubeassociation.org/competitions/BasauriOpen2011) | 6.61 | 23 | Spain |
+| 756 | [Ohio State Madness 2024](https://www.worldcubeassociation.org/competitions/OhioStateWeekendofMadness2024) | 6.61 | 79 | United States |
+| 757 | [Nhood Sevilla Open 2023](https://www.worldcubeassociation.org/competitions/NhoodSevillaOpen2023) | 6.61 | 38 | Spain |
+| 758 | [Austrian Open 2019](https://www.worldcubeassociation.org/competitions/AustrianOpen2019) | 6.60 | 80 | Austria |
+| 759 | [Szokolya Open 2023](https://www.worldcubeassociation.org/competitions/SzokolyaOpen2023) | 6.60 | 60 | Hungary |
+| 760 | [Castelbelforte Cube Battle 2011](https://www.worldcubeassociation.org/competitions/Castelbelforte2011) | 6.60 | 20 | Italy |
+| 761 | [Florida Returns 2021](https://www.worldcubeassociation.org/competitions/FloridaReturns2021) | 6.60 | 40 | United States |
+| 762 | [Cube4fun Cubers Eve 2023](https://www.worldcubeassociation.org/competitions/Cube4funCubersEve2023) | 6.60 | 112 | Poland |
+| 763 | [Euskadi Open Portugalete 2018](https://www.worldcubeassociation.org/competitions/EuskadiOpenPortugalete2018) | 6.60 | 57 | Spain |
+| 764 | [Cube Camp in Kanazawa 2012](https://www.worldcubeassociation.org/competitions/CubeCampKanazawa2012) | 6.60 | 47 | Japan |
+| 765 | [Getafe Vuelve 2019](https://www.worldcubeassociation.org/competitions/GetafeVuelve2019) | 6.60 | 89 | Spain |
+| 766 | [Hessen Open 2024](https://www.worldcubeassociation.org/competitions/HessenOpen2024) | 6.60 | 84 | Germany |
+| 767 | [Tassie Summer 2024](https://www.worldcubeassociation.org/competitions/TassieSummer2024) | 6.59 | 64 | Australia |
+| 768 | [Franconia Open 2013](https://www.worldcubeassociation.org/competitions/FranconiaOpen2013) | 6.59 | 59 | Germany |
+| 769 | [Cube4fun Lublin in Staszic 2023](https://www.worldcubeassociation.org/competitions/Cube4funLublininStaszic2023) | 6.59 | 54 | Poland |
+| 770 | [Barby Cube Automne 2017](https://www.worldcubeassociation.org/competitions/BarbyCubeAutomne2017) | 6.59 | 61 | France |
+| 771 | [Speedcubing Slovakia 2022](https://www.worldcubeassociation.org/competitions/SpeedcubingSlovakia2022) | 6.59 | 39 | Slovakia |
+| 772 | [WGC Open 2014](https://www.worldcubeassociation.org/competitions/WelwynGardenCity2014) | 6.59 | 68 | United Kingdom |
+| 773 | [SPB Open 2013](https://www.worldcubeassociation.org/competitions/SaintPetersburgOpen2013) | 6.58 | 36 | Russia |
+| 774 | [Caucasus Open 2023](https://www.worldcubeassociation.org/competitions/CaucasusOpen2023) | 6.58 | 36 | Georgia |
+| 775 | [Indonesian Open 2011](https://www.worldcubeassociation.org/competitions/IndonesianOpen2011) | 6.58 | 122 | Indonesia |
+| 776 | [Rubik Zamora 2017](https://www.worldcubeassociation.org/competitions/RubikZamora2017) | 6.58 | 55 | Mexico |
+| 777 | [Jeju Open 2017](https://www.worldcubeassociation.org/competitions/JejuOpen2017) | 6.58 | 31 | Republic of Korea |
+| 778 | [Cube Camp in Kanazawa 2010](https://www.worldcubeassociation.org/competitions/CubeCampKanazawa2010) | 6.58 | 38 | Japan |
+| 779 | [CVDB Open 2017](https://www.worldcubeassociation.org/competitions/CVDBOpen2017) | 6.58 | 26 | Spain |
+| 780 | [Rahn Education Open 2024](https://www.worldcubeassociation.org/competitions/RahnEducationOpen2024) | 6.58 | 106 | Germany |
+| 781 | [Rocky Top 2021](https://www.worldcubeassociation.org/competitions/RockyTop2021) | 6.57 | 89 | United States |
+| 782 | [Serbian Championship 2023](https://www.worldcubeassociation.org/competitions/SerbianChampionship2023) | 6.57 | 63 | Serbia |
+| 783 | [Big 'n Blind Szczecinek 2023](https://www.worldcubeassociation.org/competitions/BignBlindSzczecinek2023) | 6.57 | 63 | Poland |
+| 784 | [Castle Mania Niepołomice 2024](https://www.worldcubeassociation.org/competitions/CastleManiaNiepolomice2024) | 6.57 | 58 | Poland |
+| 785 | [Dębica Cubing Winter 2024](https://www.worldcubeassociation.org/competitions/DebicaCubingWinter2024) | 6.57 | 58 | Poland |
+| 786 | [Italian Championship 2014](https://www.worldcubeassociation.org/competitions/ItalianChampionship2014) | 6.57 | 60 | Italy |
+| 787 | [Pittsburgh Open 2018](https://www.worldcubeassociation.org/competitions/PittsburghOpen2018) | 6.56 | 39 | United States |
+| 788 | [Nowa Sól Open 2024](https://www.worldcubeassociation.org/competitions/NowaSolOpen2024) | 6.56 | 94 | Poland |
+| 789 | [Jawa Timur Open 2014](https://www.worldcubeassociation.org/competitions/JawaTimurOpen2014) | 6.56 | 16 | Indonesia |
+| 790 | [Swedish Cubedays 2011](https://www.worldcubeassociation.org/competitions/SwedishCubedays2011) | 6.56 | 36 | Sweden |
+| 791 | [LLS Meeting Days 2018](https://www.worldcubeassociation.org/competitions/LLSMeetingDays2018) | 6.55 | 38 | Poland |
+| 792 | [Carlisle Summer 2022](https://www.worldcubeassociation.org/competitions/CarlisleSummer2022) | 6.55 | 78 | United Kingdom |
+| 793 | [Skillcon 2018](https://www.worldcubeassociation.org/competitions/Skillcon2018) | 6.55 | 49 | United States |
+| 794 | [Beat the Clock Sabaneta 2023](https://www.worldcubeassociation.org/competitions/BeattheClockSabaneta2023) | 6.55 | 33 | Colombia |
+| 795 | [Australian Nationals 2011](https://www.worldcubeassociation.org/competitions/AustralianNationals2011) | 6.54 | 35 | Australia |
+| 796 | [Bucharest Cubing Days 2021](https://www.worldcubeassociation.org/competitions/BucharestCubingDays2021) | 6.54 | 24 | Romania |
+| 797 | [Człuchów Panzer Cube 2014](https://www.worldcubeassociation.org/competitions/CzluchowPanzerCube2014) | 6.54 | 63 | Poland |
+| 798 | [Michigan 2019](https://www.worldcubeassociation.org/competitions/Michigan2019) | 6.54 | 102 | United States |
+| 799 | [KubeKings Weekend 2015](https://www.worldcubeassociation.org/competitions/KubeKingsWeekend2015) | 6.54 | 26 | Spain |
+| 800 | [PST LLS Lublin 2020](https://www.worldcubeassociation.org/competitions/PSTLLSLublin2020) | 6.54 | 69 | Poland |
+| 801 | [Colombia Nationals 2018](https://www.worldcubeassociation.org/competitions/ColombiaNationals2018) | 6.54 | 125 | Colombia |
+| 802 | [Frankfurt Cube Days 2014](https://www.worldcubeassociation.org/competitions/FrankfurtCubeDays2014) | 6.53 | 77 | Germany |
+| 803 | [Pittsburgh Fall 2021](https://www.worldcubeassociation.org/competitions/PittsburghFall2021) | 6.53 | 100 | United States |
+| 804 | [Grudziadz Open 2013](https://www.worldcubeassociation.org/competitions/GrudziadzOpen2013) | 6.53 | 68 | Poland |
+| 805 | [5x5 on Madison Ice 2023](https://www.worldcubeassociation.org/competitions/5x5onMadisonIce2023) | 6.53 | 53 | United States |
+| 806 | [ŚLS Sosnowiec 2015](https://www.worldcubeassociation.org/competitions/SLSSosnowiec2015) | 6.53 | 106 | Poland |
+| 807 | [Ural Autumn 2015](https://www.worldcubeassociation.org/competitions/UralAutumn2015) | 6.53 | 19 | Russia |
+| 808 | [Slovenian Nationals 2022](https://www.worldcubeassociation.org/competitions/SlovenianNationals2022) | 6.53 | 78 | Slovenia |
+| 809 | [Royal Corner Twist 2018](https://www.worldcubeassociation.org/competitions/RoyalCornerTwist2018) | 6.52 | 86 | Sweden |
+| 810 | [Kölner Kubing 2023](https://www.worldcubeassociation.org/competitions/KoelnerKubing2023) | 6.52 | 90 | Germany |
+| 811 | [Flen - Stora Manschetten 2021](https://www.worldcubeassociation.org/competitions/FlenStoraManschetten2021) | 6.52 | 23 | Sweden |
+| 812 | [Ternopil Science Cubing 2023](https://www.worldcubeassociation.org/competitions/TSC2023) | 6.52 | 48 | Ukraine |
+| 813 | [Bulacan Open 2009](https://www.worldcubeassociation.org/competitions/BulacanOpen2009) | 6.52 | 25 | Philippines |
+| 814 | [Schleswig-Holstein Open 2012](https://www.worldcubeassociation.org/competitions/SHOpen2012) | 6.52 | 25 | Germany |
+| 815 | [Blind Open 2011](https://www.worldcubeassociation.org/competitions/BlindOpen2011) | 6.52 | 25 | France |
+| 816 | [Zonhoven Open 2013](https://www.worldcubeassociation.org/competitions/ZonhovenOpen2013) | 6.52 | 58 | Belgium |
+| 817 | [Swedish Championship 2012](https://www.worldcubeassociation.org/competitions/SwedishChampionship2012) | 6.52 | 66 | Sweden |
+| 818 | [Benelux Open 2008](https://www.worldcubeassociation.org/competitions/BeneluxOpen2008) | 6.51 | 35 | Netherlands |
+| 819 | [CUDES Cali 2020](https://www.worldcubeassociation.org/competitions/CUDESCali2020) | 6.51 | 35 | Colombia |
+| 820 | [Mariupol Open 2018](https://www.worldcubeassociation.org/competitions/MariupolOpen2018) | 6.51 | 39 | Ukraine |
+| 821 | [Great Lakes Championship 2022](https://www.worldcubeassociation.org/competitions/GreatLakesChampionship2022) | 6.51 | 197 | United States |
+| 822 | [Dontrien Open 2022](https://www.worldcubeassociation.org/competitions/DontrienOpen2022) | 6.51 | 45 | France |
+| 823 | [LLS V Final 2019](https://www.worldcubeassociation.org/competitions/LLSVFinal2019) | 6.51 | 51 | Poland |
+| 824 | [Zurich Open 2018](https://www.worldcubeassociation.org/competitions/ZurichOpen2018) | 6.51 | 73 | Switzerland |
+| 825 | [Bremium Cubing 2019](https://www.worldcubeassociation.org/competitions/BremiumCubing2019) | 6.51 | 79 | Germany |
+| 826 | [Nacionales Fénix Colombia 2021](https://www.worldcubeassociation.org/competitions/NacionalesFenixColombia2021) | 6.51 | 89 | Colombia |
+| 827 | [Masovian Open 2015](https://www.worldcubeassociation.org/competitions/MasovianOpen2015) | 6.50 | 38 | Poland |
+| 828 | [Mirá Ve 2017](https://www.worldcubeassociation.org/competitions/MiraVe2017) | 6.50 | 40 | Colombia |
+| 829 | [German Nationals 2014](https://www.worldcubeassociation.org/competitions/GermanNationals2014) | 6.50 | 120 | Germany |
+| 830 | [Side Events Bangalore March 2024](https://www.worldcubeassociation.org/competitions/SideEventsBangaloreMarch2024) | 6.50 | 26 | India |
+| 831 | [Swisscubing Cup IV 2020](https://www.worldcubeassociation.org/competitions/SwisscubingCupIV2020) | 6.50 | 56 | Switzerland |
+| 832 | [Uberlandia Open 2011](https://www.worldcubeassociation.org/competitions/UberlandiaOpen2011) | 6.50 | 22 | Brazil |
+| 833 | [Czech Open 2014](https://www.worldcubeassociation.org/competitions/CzechOpen2014) | 6.50 | 60 | Czech Republic |
+| 834 | [Cubing in HD 2023](https://www.worldcubeassociation.org/competitions/CubinginHD2023) | 6.50 | 131 | Germany |
+| 835 | [SSL 4 Mora 2017](https://www.worldcubeassociation.org/competitions/SSL4Mora2017) | 6.49 | 57 | Sweden |
+| 836 | [Dnepr Skips 2015](https://www.worldcubeassociation.org/competitions/DneprSkips2015) | 6.49 | 57 | Ukraine |
+| 837 | [Vienna Fasching 2024](https://www.worldcubeassociation.org/competitions/ViennaFasching2024) | 6.49 | 57 | Austria |
+| 838 | [Aguascalientes Summer 2015](https://www.worldcubeassociation.org/competitions/AguasCalientesSummer2015) | 6.49 | 47 | Mexico |
+| 839 | [La Massana 2021](https://www.worldcubeassociation.org/competitions/LaMassana2021) | 6.49 | 39 | Andorra |
+| 840 | [Slovenian Nationals 2023](https://www.worldcubeassociation.org/competitions/SlovenianNationals2023) | 6.49 | 115 | Slovenia |
+| 841 | [Bogotá Open 2021](https://www.worldcubeassociation.org/competitions/BogotaOpen2021) | 6.49 | 74 | Colombia |
+| 842 | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016) | 6.49 | 500 | Czech Republic |
+| 843 | [VSU Open 2016](https://www.worldcubeassociation.org/competitions/VSUOpen2016) | 6.49 | 35 | Belarus |
+| 844 | [Tunas Open 2022](https://www.worldcubeassociation.org/competitions/TunasOpen2022) | 6.49 | 68 | Mexico |
+| 845 | [Brasileiro 2018](https://www.worldcubeassociation.org/competitions/Brasileiro2018) | 6.48 | 66 | Brazil |
+| 846 | [South Italian Open 2009](https://www.worldcubeassociation.org/competitions/SouthItalianOpen2009) | 6.48 | 29 | Italy |
+| 847 | [Cubing Ekat Open 2021](https://www.worldcubeassociation.org/competitions/CubingEkatOpen2021) | 6.48 | 85 | Russia |
+| 848 | [German Open 2013](https://www.worldcubeassociation.org/competitions/GermanOpen2013) | 6.48 | 56 | Germany |
+| 849 | [Galanta Open 2009](https://www.worldcubeassociation.org/competitions/GalantaOpen2009) | 6.48 | 54 | Slovakia |
+| 850 | [German Open 2012](https://www.worldcubeassociation.org/competitions/GermanOpen2012) | 6.48 | 108 | Germany |
+| 851 | [First Chamal'Open 2010](https://www.worldcubeassociation.org/competitions/FirstChamalOpen2010) | 6.48 | 25 | France |
+| 852 | [SESC Camaquã 2017](https://www.worldcubeassociation.org/competitions/SESCCamaqua2017) | 6.48 | 25 | Brazil |
+| 853 | [Nacionales Argentinas 2019](https://www.worldcubeassociation.org/competitions/NacionalesArgentinas2019) | 6.48 | 50 | Argentina |
+| 854 | [Open de Lumes 2023](https://www.worldcubeassociation.org/competitions/OpendeLumes2023) | 6.48 | 75 | France |
+| 855 | [Etna Open 2019](https://www.worldcubeassociation.org/competitions/EtnaOpen2019) | 6.48 | 67 | Italy |
+| 856 | [Nantes Open 2008](https://www.worldcubeassociation.org/competitions/NantesOpen2008) | 6.48 | 44 | France |
+| 857 | [Oklahoma 2020](https://www.worldcubeassociation.org/competitions/Oklahoma2020) | 6.48 | 21 | United States |
+| 858 | [Medan 10th Anniversary 2019](https://www.worldcubeassociation.org/competitions/Medan10thAnniversary2019) | 6.47 | 32 | Indonesia |
+| 859 | [Pulmapelipäivät 2018](https://www.worldcubeassociation.org/competitions/Pulmapelipaivat2018) | 6.47 | 30 | Finland |
+| 860 | [Shakarim Open 2023](https://www.worldcubeassociation.org/competitions/ShakarimOpen2023) | 6.47 | 15 | Kazakhstan |
+| 861 | [Roble Cubing Open 2019](https://www.worldcubeassociation.org/competitions/RobleCubingOpen2019) | 6.47 | 73 | Mexico |
+| 862 | [Finnish Championship 2018](https://www.worldcubeassociation.org/competitions/FinnishChampionship2018) | 6.46 | 69 | Finland |
+| 863 | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022) | 6.46 | 550 | Denmark |
+| 864 | [Australian Nationals 2012](https://www.worldcubeassociation.org/competitions/AustralianNationals2012) | 6.46 | 41 | Australia |
+| 865 | [Pennsylvania 2018](https://www.worldcubeassociation.org/competitions/Pennsylvania2018) | 6.46 | 162 | United States |
+| 866 | [ÅF Swedish Cube Open 2016](https://www.worldcubeassociation.org/competitions/AFSwedishCubeOpen2016) | 6.46 | 93 | Sweden |
+| 867 | [Turkish Summer 2020](https://www.worldcubeassociation.org/competitions/TurkishSummer2020) | 6.46 | 26 | Turkey |
+| 868 | [New England Championship 2023](https://www.worldcubeassociation.org/competitions/NewEnglandChampionship2023) | 6.46 | 294 | United States |
+| 869 | [Munich Open 2018](https://www.worldcubeassociation.org/competitions/MunichOpen2018) | 6.46 | 144 | Germany |
+| 870 | [Welcome Back Jönköping 2020](https://www.worldcubeassociation.org/competitions/WelcomeBackJonkoping2020) | 6.46 | 24 | Sweden |
+| 871 | [Sides Bahia 2018](https://www.worldcubeassociation.org/competitions/SidesBahia2018) | 6.46 | 24 | Brazil |
+| 872 | [Astana Open 2023](https://www.worldcubeassociation.org/competitions/AstanaOpen2023) | 6.46 | 24 | Kazakhstan |
+| 873 | [Norwegian Championship 2021](https://www.worldcubeassociation.org/competitions/NorwegianChampionship2021) | 6.46 | 107 | Norway |
+| 874 | [Kalmar Cubing 2023](https://www.worldcubeassociation.org/competitions/KalmarCubing2023) | 6.46 | 35 | Sweden |
+| 875 | [Kaunas Open 2018](https://www.worldcubeassociation.org/competitions/KaunasOpen2018) | 6.46 | 46 | Lithuania |
+| 876 | [Athens Summer Omega 2016](https://www.worldcubeassociation.org/competitions/AthensSummerOmega2016) | 6.45 | 55 | United States |
+| 877 | [Medan Open 2018](https://www.worldcubeassociation.org/competitions/MedanOpen2018) | 6.45 | 33 | Indonesia |
+| 878 | [Monterotondo Open 2015](https://www.worldcubeassociation.org/competitions/MonterotondoOpen2015) | 6.45 | 33 | Italy |
+| 879 | [Virginia Championship 2023](https://www.worldcubeassociation.org/competitions/VirginiaChampionship2023) | 6.45 | 268 | United States |
+| 880 | [Tübingen Open 2016](https://www.worldcubeassociation.org/competitions/TubingenOpen2016) | 6.45 | 51 | Germany |
+| 881 | [Energy Cube Koło 2023](https://www.worldcubeassociation.org/competitions/EnergyCubeKolo2023) | 6.45 | 136 | Poland |
+| 882 | [Tietomaa Open 2019](https://www.worldcubeassociation.org/competitions/TietomaaOpen2019) | 6.45 | 29 | Finland |
+| 883 | [Salento Cubing Open 2020](https://www.worldcubeassociation.org/competitions/SalentoCubingOpen2020) | 6.45 | 47 | Italy |
+| 884 | [SSL VIII Jönköping 2023](https://www.worldcubeassociation.org/competitions/SSLVIIIJonkoping2023) | 6.45 | 65 | Sweden |
+| 885 | [Abrakadabra Magic 2015](https://www.worldcubeassociation.org/competitions/AbrakadabraMagic2015) | 6.44 | 25 | Venezuela |
+| 886 | [Rhein-Neckar Open 2022](https://www.worldcubeassociation.org/competitions/RheinNeckarOpen2022) | 6.44 | 107 | Germany |
+| 887 | [Silesian Cubing Pawłowice 2023](https://www.worldcubeassociation.org/competitions/SilesianCubingPawlowice2023) | 6.44 | 98 | Poland |
+| 888 | [Arizona Championship 2024](https://www.worldcubeassociation.org/competitions/ArizonaChampionship2024) | 6.44 | 103 | United States |
+| 889 | [Prague Open 2016](https://www.worldcubeassociation.org/competitions/PragueOpen2016) | 6.44 | 62 | Czech Republic |
+| 890 | [Chelles Open 2017](https://www.worldcubeassociation.org/competitions/ChellesOpen2017) | 6.44 | 62 | France |
+| 891 | [PSU Winter 2017](https://www.worldcubeassociation.org/competitions/PSUWinter2017) | 6.43 | 23 | Belarus |
+| 892 | [Polish Championship 2022](https://www.worldcubeassociation.org/competitions/PolishChampionship2022) | 6.43 | 148 | Poland |
+| 893 | [LLS III Zamość 2021](https://www.worldcubeassociation.org/competitions/LLSIIIZamosc2021) | 6.43 | 72 | Poland |
+| 894 | [Lemgo Open 2010](https://www.worldcubeassociation.org/competitions/LemgoOpen2010) | 6.43 | 49 | Germany |
+| 895 | [New Zealand Nationals 2023](https://www.worldcubeassociation.org/competitions/NewZealandNationals2023) | 6.43 | 161 | New Zealand |
+| 896 | [PLS Autumn Reda 2014](https://www.worldcubeassociation.org/competitions/PLSAutumnReda2014) | 6.43 | 42 | Poland |
+| 897 | [Deep South Cape Town 2024](https://www.worldcubeassociation.org/competitions/DeepSouthCapeTown2024) | 6.43 | 14 | South Africa |
+| 898 | [Gen. Trias Open III 2024](https://www.worldcubeassociation.org/competitions/GenTriasSpeedcubingOpenIII2024) | 6.42 | 40 | Philippines |
+| 899 | [Gernika Open 2015](https://www.worldcubeassociation.org/competitions/GernikaOpen2015) | 6.42 | 33 | Spain |
+| 900 | [Great Lakes Championship 2018](https://www.worldcubeassociation.org/competitions/GreatLakesChampionship2018) | 6.42 | 191 | United States |
+| 901 | [Typhoon Open 2012](https://www.worldcubeassociation.org/competitions/TyphoonOpen2012) | 6.42 | 26 | France |
+| 902 | [Bednary Open 2023](https://www.worldcubeassociation.org/competitions/BednaryOpen2023) | 6.42 | 50 | Poland |
+| 903 | [Pekalongan Open 2018](https://www.worldcubeassociation.org/competitions/PekalonganOpen2018) | 6.42 | 31 | Indonesia |
+| 904 | [Italian Open 2011](https://www.worldcubeassociation.org/competitions/ItalianOpen2011) | 6.42 | 31 | Italy |
+| 905 | [Tula Open 2014](https://www.worldcubeassociation.org/competitions/TulaOpen2014) | 6.42 | 74 | Russia |
+| 906 | [Tunas Open 2019](https://www.worldcubeassociation.org/competitions/TunasOpen2019) | 6.42 | 115 | Mexico |
+| 907 | [Irish Championship 2022](https://www.worldcubeassociation.org/competitions/IrishChampionship2022) | 6.42 | 175 | Ireland |
+| 908 | [US Nationals 2010](https://www.worldcubeassociation.org/competitions/USNationals2010) | 6.41 | 227 | United States |
+| 909 | [Björneborg Weekend 2023](https://www.worldcubeassociation.org/competitions/BjorneborgWeekend2023) | 6.41 | 34 | Sweden |
+| 910 | [Szokolya Mental Breakdown 2023](https://www.worldcubeassociation.org/competitions/SzokolyaMentalBreakdown2023) | 6.41 | 17 | Hungary |
+| 911 | [Eretum IV 2023](https://www.worldcubeassociation.org/competitions/EretumIV2023) | 6.41 | 51 | Italy |
+| 912 | [Kaohsiung Winter Open 2022](https://www.worldcubeassociation.org/competitions/KaohsiungWinterOpen2022) | 6.41 | 73 | Chinese Taipei |
+| 913 | [NW Champs 2017](https://www.worldcubeassociation.org/competitions/NorthwestChampionships2017) | 6.41 | 173 | United States |
+| 914 | [Euro 2008](https://www.worldcubeassociation.org/competitions/Euro2008) | 6.41 | 117 | Spain |
+| 915 | [Budapest Spring 2024](https://www.worldcubeassociation.org/competitions/BudapestSpring2024) | 6.41 | 76 | Hungary |
+| 916 | [Ticino Open 2018](https://www.worldcubeassociation.org/competitions/TicinoOpen2018) | 6.41 | 27 | Switzerland |
+| 917 | [SSL V Uppsala 2023](https://www.worldcubeassociation.org/competitions/SSLVUppsala2023) | 6.41 | 54 | Sweden |
+| 918 | [SSL III Stockholm 2023](https://www.worldcubeassociation.org/competitions/SSLIIIStockholm2023) | 6.41 | 64 | Sweden |
+| 919 | [1 AVG 2013](https://www.worldcubeassociation.org/competitions/1AVG2013) | 6.41 | 32 | Netherlands |
+| 920 | [Latvian Open 2016](https://www.worldcubeassociation.org/competitions/LatvianOpen2016) | 6.41 | 32 | Latvia |
+| 921 | [Northeast Championship 2019](https://www.worldcubeassociation.org/competitions/NortheastChampionship2019) | 6.40 | 233 | United States |
+| 922 | [Cube An Dro 2019](https://www.worldcubeassociation.org/competitions/CubeAnDro2019) | 6.40 | 62 | France |
+| 923 | [Chojnice Open 2014](https://www.worldcubeassociation.org/competitions/ChojniceOpen2014) | 6.40 | 77 | Poland |
+| 924 | [German Open 2011](https://www.worldcubeassociation.org/competitions/GermanOpen2011) | 6.40 | 127 | Germany |
+| 925 | [El Masnou Open 2024](https://www.worldcubeassociation.org/competitions/ElMasnouOpen2024) | 6.40 | 50 | Spain |
+| 926 | [Puzzling Plaza in Salo 2023](https://www.worldcubeassociation.org/competitions/PuzzlingPlazainSalo2023) | 6.40 | 55 | Finland |
+| 927 | [Idéale Nabeul Open 2019](https://www.worldcubeassociation.org/competitions/IdealeNabeulOpen2019) | 6.40 | 15 | Tunisia |
+| 928 | [Silesia Open 2012](https://www.worldcubeassociation.org/competitions/SilesiaOpen2012) | 6.40 | 60 | Poland |
+| 929 | [Classic San Lorenzo Open 2016](https://www.worldcubeassociation.org/competitions/ClassicSanLorenzoOpen2016) | 6.40 | 60 | Argentina |
+| 930 | [Solving in Sale 2023](https://www.worldcubeassociation.org/competitions/SolvinginSale2023) | 6.40 | 73 | Australia |
+| 931 | [Beyond Zacatecas 2019](https://www.worldcubeassociation.org/competitions/BeyondZacatecas2019) | 6.40 | 68 | Mexico |
+| 932 | [JukiMods Baztan Open 2019](https://www.worldcubeassociation.org/competitions/JukiModsBaztanOpen2019) | 6.39 | 38 | Spain |
+| 933 | [Champagne Open 2019](https://www.worldcubeassociation.org/competitions/ChampagneOpen2019) | 6.39 | 109 | France |
+| 934 | [DSF Generalforsamlingen 2023](https://www.worldcubeassociation.org/competitions/DSFGeneralforsamlingen2023) | 6.39 | 59 | Denmark |
+| 935 | [Danish Open 2009](https://www.worldcubeassociation.org/competitions/DanishOpen2009) | 6.39 | 31 | Denmark |
+| 936 | [Vilnius Spring Open 2023](https://www.worldcubeassociation.org/competitions/VilniusSpringOpen2023) | 6.38 | 39 | Lithuania |
+| 937 | [Polish Open 2015](https://www.worldcubeassociation.org/competitions/PolishOpen2015) | 6.38 | 168 | Poland |
+| 938 | [Kristianstad Open 2009](https://www.worldcubeassociation.org/competitions/KristianstadOpen2009) | 6.38 | 32 | Sweden |
+| 939 | [Budapest ReOpen 2022](https://www.worldcubeassociation.org/competitions/BudapestReOpen2022) | 6.37 | 115 | Hungary |
+| 940 | [Peterborough Open 2018](https://www.worldcubeassociation.org/competitions/PeterboroughOpen2018) | 6.37 | 99 | United Kingdom |
+| 941 | [German Open 2009](https://www.worldcubeassociation.org/competitions/GermanOpen2009) | 6.37 | 86 | Germany |
+| 942 | [Finnish Championship 2021](https://www.worldcubeassociation.org/competitions/FinnishChampionship2021) | 6.37 | 78 | Finland |
+| 943 | [50 and Counting Ireland 2024](https://www.worldcubeassociation.org/competitions/50andCountingIreland2024) | 6.37 | 97 | Ireland |
+| 944 | [Dublin Open 2017](https://www.worldcubeassociation.org/competitions/DublinOpen2017) | 6.37 | 62 | Ireland |
+| 945 | [PAWS 2022](https://www.worldcubeassociation.org/competitions/PuzzlesAtWisconsinSpring2022) | 6.37 | 65 | United States |
+| 946 | [Guadalajara 2017](https://www.worldcubeassociation.org/competitions/Guadalajara2017) | 6.37 | 147 | Mexico |
+| 947 | [Ark 2018](https://www.worldcubeassociation.org/competitions/Ark2018) | 6.37 | 60 | Finland |
+| 948 | [Polish Open 2010](https://www.worldcubeassociation.org/competitions/PolishOpen2010) | 6.37 | 52 | Poland |
+| 949 | [Italian Championship 2018](https://www.worldcubeassociation.org/competitions/ItalianChampionship2018) | 6.36 | 146 | Italy |
+| 950 | [Serbian Championship 2024](https://www.worldcubeassociation.org/competitions/SerbianChampionship2024) | 6.36 | 69 | Serbia |
+| 951 | [Polish Open 2013](https://www.worldcubeassociation.org/competitions/PolishOpen2013) | 6.36 | 64 | Poland |
+| 952 | [Southern Championship 2019](https://www.worldcubeassociation.org/competitions/SouthernChampionship2019) | 6.36 | 167 | United States |
+| 953 | [Rocky Top 2018](https://www.worldcubeassociation.org/competitions/RockyTop2018) | 6.36 | 81 | United States |
+| 954 | [Peterborough Open 2017](https://www.worldcubeassociation.org/competitions/PeterboroughOpen2017) | 6.35 | 79 | United Kingdom |
+| 955 | [Odessa Open 2017](https://www.worldcubeassociation.org/competitions/OdessaOpen2017) | 6.35 | 48 | Ukraine |
+| 956 | [Northern Lights Open 2018](https://www.worldcubeassociation.org/competitions/NorthernLightsOpen2018) | 6.35 | 17 | Finland |
+| 957 | [Cuthberts Open 2013](https://www.worldcubeassociation.org/competitions/CuthbertsOpen2013) | 6.35 | 51 | United Kingdom |
+| 958 | [Melbourne Summer 2019](https://www.worldcubeassociation.org/competitions/MelbourneSummer2019) | 6.35 | 125 | Australia |
+| 959 | [Full Steps in Brest 2016](https://www.worldcubeassociation.org/competitions/FullStepsinBrest2016) | 6.35 | 54 | Belarus |
+| 960 | [Bozeman Cubing 2024](https://www.worldcubeassociation.org/competitions/BozemanCubing2024) | 6.35 | 23 | United States |
+| 961 | [Back To Belgrade 2021](https://www.worldcubeassociation.org/competitions/BackToBelgrade2021) | 6.34 | 29 | Serbia |
+| 962 | [Bucaramanga Cultural 2017](https://www.worldcubeassociation.org/competitions/BucaramangaCultural2017) | 6.34 | 58 | Colombia |
+| 963 | [Gernika Open 2014](https://www.worldcubeassociation.org/competitions/GernikaOpen2014) | 6.34 | 29 | Spain |
+| 964 | [Swedish Decathlon Challenge 2017](https://www.worldcubeassociation.org/competitions/SwedishDecathlonChallenge2017) | 6.34 | 61 | Sweden |
+| 965 | [Polish Open 2017](https://www.worldcubeassociation.org/competitions/PolishOpen2017) | 6.34 | 131 | Poland |
+| 966 | [Toulon Open 2018](https://www.worldcubeassociation.org/competitions/ToulonOpen2018) | 6.34 | 38 | France |
+| 967 | [Colorado Cubing Weekend 2022](https://www.worldcubeassociation.org/competitions/ColoradoCubingWeekend2022) | 6.34 | 76 | United States |
+| 968 | [Prague Open 2023](https://www.worldcubeassociation.org/competitions/PragueOpen2023) | 6.34 | 79 | Czech Republic |
+| 969 | [K:nummen Kuutionvääntelyt 2022](https://www.worldcubeassociation.org/competitions/KnummenKuutionvaantelyt2022) | 6.34 | 91 | Finland |
+| 970 | [Gbg Summer Cubing 2022](https://www.worldcubeassociation.org/competitions/GbgSummerCubing2022) | 6.34 | 47 | Sweden |
+| 971 | [ABHC 2017](https://www.worldcubeassociation.org/competitions/ABHC2017) | 6.34 | 97 | United Kingdom |
+| 972 | [Only Cube Open 2017](https://www.worldcubeassociation.org/competitions/OnlyCubeOpen2017) | 6.33 | 90 | France |
+| 973 | [Pecel Cube Weekend 2018](https://www.worldcubeassociation.org/competitions/PecelCubeWeekend2018) | 6.33 | 21 | Indonesia |
+| 974 | [Chelles Open 2020](https://www.worldcubeassociation.org/competitions/ChellesOpen2020) | 6.33 | 93 | France |
+| 975 | [Estonian Open 2011](https://www.worldcubeassociation.org/competitions/EstonianOpen2011) | 6.33 | 24 | Estonia |
+| 976 | [Zonhoven Autumn Open 2018](https://www.worldcubeassociation.org/competitions/ZonhovenAutumnOpen2018) | 6.33 | 72 | Belgium |
+| 977 | [Tbilisi October Open 2023](https://www.worldcubeassociation.org/competitions/TbilisiOctoberOpen2023) | 6.33 | 15 | Georgia |
+| 978 | [Estonian Open 2022](https://www.worldcubeassociation.org/competitions/EstonianOpen2022) | 6.33 | 79 | Estonia |
+| 979 | [SacCubing XIII 2023](https://www.worldcubeassociation.org/competitions/SacCubingXIII2023) | 6.33 | 146 | United States |
+| 980 | [Michigan 2023](https://www.worldcubeassociation.org/competitions/Michigan2023) | 6.33 | 198 | United States |
+| 981 | [Osijek Open 2020](https://www.worldcubeassociation.org/competitions/OsijekOpen2020) | 6.33 | 55 | Croatia |
+| 982 | [Ohio State Mini Sunday 2023](https://www.worldcubeassociation.org/competitions/OhioStateMiniSunday2023) | 6.33 | 52 | United States |
+| 983 | [Slovenian Nationals 2019](https://www.worldcubeassociation.org/competitions/SlovenianNationals2019) | 6.33 | 52 | Slovenia |
+| 984 | [Champagne Open 2017](https://www.worldcubeassociation.org/competitions/ChampagneOpen2017) | 6.32 | 96 | France |
+| 985 | [Cheste 2019](https://www.worldcubeassociation.org/competitions/Cheste2019) | 6.32 | 31 | Spain |
+| 986 | [CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018) | 6.32 | 634 | United States |
+| 987 | [Italian Championship 2013](https://www.worldcubeassociation.org/competitions/ItalianChampionship2013) | 6.32 | 56 | Italy |
+| 988 | [Estonian Open 2019](https://www.worldcubeassociation.org/competitions/EstonianOpen2019) | 6.32 | 53 | Estonia |
+| 989 | [Tofta Autumn Open 2023](https://www.worldcubeassociation.org/competitions/ToftaAutumnOpen2023) | 6.32 | 53 | Sweden |
+| 990 | [Croatian Open 2011](https://www.worldcubeassociation.org/competitions/CroatianOpen2011) | 6.32 | 50 | Croatia |
+| 991 | [Weston-super-Mare Open 2018](https://www.worldcubeassociation.org/competitions/WSMO2018) | 6.32 | 132 | United Kingdom |
+| 992 | [Weston-super-Mare Open 2019](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2019) | 6.32 | 114 | United Kingdom |
+| 993 | [Glacier National Park Open 2023](https://www.worldcubeassociation.org/competitions/GlacierNationalParkOpen2023) | 6.32 | 19 | United States |
+| 994 | [Dutch Open 2018](https://www.worldcubeassociation.org/competitions/DutchOpen2018) | 6.32 | 92 | Netherlands |
+| 995 | [Florida 2019](https://www.worldcubeassociation.org/competitions/Florida2019) | 6.32 | 92 | United States |
+| 996 | [Ogulin Open 2024](https://www.worldcubeassociation.org/competitions/OgulinOpen2024) | 6.32 | 73 | Croatia |
+| 997 | [Energy Cube Konin 2023](https://www.worldcubeassociation.org/competitions/EnergyCubeKonin2023) | 6.31 | 143 | Poland |
+| 998 | [Caracolí Open 2018](https://www.worldcubeassociation.org/competitions/CaracoliOpen2018) | 6.31 | 35 | Colombia |
+| 999 | [Norwegian Championship 2019](https://www.worldcubeassociation.org/competitions/NorwegianChampionship2019) | 6.31 | 102 | Norway |
+| 1000 | [N8W8 Summer 2013](https://www.worldcubeassociation.org/competitions/N8W8Summer2013) | 6.31 | 51 | Belgium |
 
 
 <a href="https://github.com/JustinTimeCuber/wca_statistics" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>

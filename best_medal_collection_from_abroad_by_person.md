@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 31 May 2024*
+*Updated on  1 June 2024*
 
 | Rank | Person | Gold | Silver | Bronze | Total |
 | :--- | :--- | :--: | :--: | :--: | :--: |
@@ -385,7 +385,7 @@
 | 378 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) | **8** | 15 | 11 | 34 |
 | 379 | [Aarush Vasanadu](https://www.worldcubeassociation.org/persons/2019VASA02) | **8** | 14 | 13 | 35 |
 | 380 | [Linus Frész](https://www.worldcubeassociation.org/persons/2011FRES01) | **8** | 13 | 6 | 27 |
-| 381 | [Yuyang Zhen (甄禹扬)](https://www.worldcubeassociation.org/persons/2013ZHEN11) | **8** | 12 | 7 | 27 |
+| 381 | [Yuyang Zhen (甄禹扬)](https://www.worldcubeassociation.org/persons/2013ZHEN11) | **8** | 12 | 8 | 28 |
 | 382 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | **8** | 12 | 4 | 24 |
 | 383 | [Nikita Loika](https://www.worldcubeassociation.org/persons/2013LOYK01) | **8** | 11 | 11 | 30 |
 | 384 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) | **8** | 11 | 9 | 28 |
