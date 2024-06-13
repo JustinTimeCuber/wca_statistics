@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on 10 June 2024*
+*Updated on 13 June 2024*
 
 
 ### Rubik's Cube
@@ -1538,7 +1538,7 @@
 | 58 | [Donna Krueger](https://www.worldcubeassociation.org/persons/2016KRUE03) | **26:45.00** | DNF | [Hilliard Hippocampus 2023](https://www.worldcubeassociation.org/competitions/HilliardHippocampus2023/results/podiums#e444bf) | 3 |
 | 59 | [Alex Walker](https://www.worldcubeassociation.org/persons/2014WALK05) | **26:45.00** | DNF | [Colorado Brain Freeze 2023](https://www.worldcubeassociation.org/competitions/ColoradoBrainFreeze2023/results/podiums#e444bf) | 3 |
 | 60 | [Ole Nikolai Gjerset](https://www.worldcubeassociation.org/persons/2011GJER02) | **26:40.00** | DNF | [Trondheim Euro Qualifiers 2022](https://www.worldcubeassociation.org/competitions/TrondheimEuroQualifiers2022/results/podiums#e444bf) | 3 |
-| 61 | [Matheus Casassa Viana](https://www.worldcubeassociation.org/persons/2017VIAN01) | **26:34.00** | DNF | [Big Cubata BLD II 2023](https://www.worldcubeassociation.org/competitions/BigCubataBLDII2023/results/podiums#e444bf) | 3 |
+| 61 | [Matheus Casassa](https://www.worldcubeassociation.org/persons/2017VIAN01) | **26:34.00** | DNF | [Big Cubata BLD II 2023](https://www.worldcubeassociation.org/competitions/BigCubataBLDII2023/results/podiums#e444bf) | 3 |
 | 62 | [István Márián](https://www.worldcubeassociation.org/persons/2010MARI02) | **26:28.00** | DNF | [Hungarian Open 2014](https://www.worldcubeassociation.org/competitions/HungarianOpen2014/results/podiums#e444bf) | 2 |
 | 63 | [Javier Tirado Ortiz](https://www.worldcubeassociation.org/persons/2009TIRA01) | **26:25.00** | DNF | [Murcia Open 2013](https://www.worldcubeassociation.org/competitions/MurciaOpen2013/results/podiums#e444bf) | 2 |
 | 64 | [Blai Solernou Lòpez](https://www.worldcubeassociation.org/persons/2012LAPE01) | **26:16.00** | DNF | [Montgròs Open 2015](https://www.worldcubeassociation.org/competitions/MontgrosOpen2015/results/podiums#e444bf) | 1 |

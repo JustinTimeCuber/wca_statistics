@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 10 June 2024*
+*Updated on 13 June 2024*
 
 | Rank | WRs | Person |
 | :--- | ---: | :--- |
@@ -67,29 +67,29 @@
 | 61 | 5 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |
 | 62 | 4 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
 | 63 | 4 | [Brandon Lin (林博浩)](https://www.worldcubeassociation.org/persons/2011LINB01) |
-| 64 | 4 | [Chris Dzoan](https://www.worldcubeassociation.org/persons/2006DZOA02) |
-| 65 | 4 | [Craig Bouchard](https://www.worldcubeassociation.org/persons/2005BOUC01) |
-| 66 | 4 | [Frédérick Badie](https://www.worldcubeassociation.org/persons/2003BADI01) |
-| 67 | 4 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) |
-| 68 | 4 | [Hsuan Chang (張璿)](https://www.worldcubeassociation.org/persons/2008CHAN09) |
-| 69 | 4 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) |
-| 70 | 4 | [Keisuke Hiraya (平谷啓輔)](https://www.worldcubeassociation.org/persons/2007HIRA02) |
-| 71 | 4 | [Lucas Etter](https://www.worldcubeassociation.org/persons/2011ETTE01) |
-| 72 | 4 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
-| 73 | 4 | [Łukasz Ciałoń](https://www.worldcubeassociation.org/persons/2005CIAL02) |
-| 74 | 4 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
-| 75 | 4 | [Michael Fung](https://www.worldcubeassociation.org/persons/2005FUNG01) |
-| 76 | 4 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) |
-| 77 | 4 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) |
-| 78 | 4 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) |
-| 79 | 4 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) |
-| 80 | 4 | [Sam Zhixiao Wang (王志骁)](https://www.worldcubeassociation.org/persons/2009WANG19) |
-| 81 | 4 | [Simon Westlund](https://www.worldcubeassociation.org/persons/2008WEST02) |
-| 82 | 4 | [Yuki Hayashi (林祐樹)](https://www.worldcubeassociation.org/persons/2005HAYA01) |
-| 83 | 3 | [Alexander Ooms](https://www.worldcubeassociation.org/persons/2005OOMS01) |
-| 84 | 3 | [Alexander Yu](https://www.worldcubeassociation.org/persons/2007YUAL01) |
-| 85 | 3 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) |
-| 86 | 3 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
+| 64 | 4 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
+| 65 | 4 | [Chris Dzoan](https://www.worldcubeassociation.org/persons/2006DZOA02) |
+| 66 | 4 | [Craig Bouchard](https://www.worldcubeassociation.org/persons/2005BOUC01) |
+| 67 | 4 | [Frédérick Badie](https://www.worldcubeassociation.org/persons/2003BADI01) |
+| 68 | 4 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) |
+| 69 | 4 | [Hsuan Chang (張璿)](https://www.worldcubeassociation.org/persons/2008CHAN09) |
+| 70 | 4 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) |
+| 71 | 4 | [Keisuke Hiraya (平谷啓輔)](https://www.worldcubeassociation.org/persons/2007HIRA02) |
+| 72 | 4 | [Lucas Etter](https://www.worldcubeassociation.org/persons/2011ETTE01) |
+| 73 | 4 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
+| 74 | 4 | [Łukasz Ciałoń](https://www.worldcubeassociation.org/persons/2005CIAL02) |
+| 75 | 4 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
+| 76 | 4 | [Michael Fung](https://www.worldcubeassociation.org/persons/2005FUNG01) |
+| 77 | 4 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) |
+| 78 | 4 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) |
+| 79 | 4 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) |
+| 80 | 4 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) |
+| 81 | 4 | [Sam Zhixiao Wang (王志骁)](https://www.worldcubeassociation.org/persons/2009WANG19) |
+| 82 | 4 | [Simon Westlund](https://www.worldcubeassociation.org/persons/2008WEST02) |
+| 83 | 4 | [Yuki Hayashi (林祐樹)](https://www.worldcubeassociation.org/persons/2005HAYA01) |
+| 84 | 3 | [Alexander Ooms](https://www.worldcubeassociation.org/persons/2005OOMS01) |
+| 85 | 3 | [Alexander Yu](https://www.worldcubeassociation.org/persons/2007YUAL01) |
+| 86 | 3 | [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02) |
 | 87 | 3 | [Christopher Olson](https://www.worldcubeassociation.org/persons/2009OLSO01) |
 | 88 | 3 | [Claes Hedin](https://www.worldcubeassociation.org/persons/2009HEDI01) |
 | 89 | 3 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
