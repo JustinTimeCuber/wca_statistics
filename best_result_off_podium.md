@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 13 June 2024*
+*Updated on 16 June 2024*
 
 
 ### Rubik's Cube
@@ -1225,44 +1225,44 @@
 | 60 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | 3.76 | **5.16** | [Wakefield Autumn 2023](https://www.worldcubeassociation.org/competitions/WakefieldAutumn2023/results/all#eclock_f) | 4 |
 | 61 | [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) | 3.19 | **5.17** | [Cube4fun in Bełchatów 2024](https://www.worldcubeassociation.org/competitions/Cube4funinBelchatow2024/results/all#eclock_f) | 4 |
 | 62 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 4.91 | **5.17** | [Dragon Cubing 2023](https://www.worldcubeassociation.org/competitions/DragonCubing2023/results/all#eclock_f) | 4 |
-| 63 | [Filip Brokos](https://www.worldcubeassociation.org/persons/2022BROK03) | 4.81 | **5.19** | [Energy Cube Konin 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeKonin2024/results/all#eclock_f) | 5 |
-| 64 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | 4.56 | **5.20** | [Singapore Special 2024](https://www.worldcubeassociation.org/competitions/SingaporeSpecial2024/results/all#eclock_f) | 4 |
-| 65 | [Nathan Rahn](https://www.worldcubeassociation.org/persons/2021RAHN01) | 4.00 | **5.21** | [Elite in Eagan 2024](https://www.worldcubeassociation.org/competitions/EliteinEagan2024/results/all#eclock_f) | 4 |
-| 66 | [Shaun Mack](https://www.worldcubeassociation.org/persons/2018MACK04) | 4.03 | **5.21** | [It's About Time Bloomsburg 2024](https://www.worldcubeassociation.org/competitions/ItsAboutTimeBloomsburg2024/results/all#eclock_f) | 4 |
-| 67 | [Radosław Michałek](https://www.worldcubeassociation.org/persons/2021MICH03) | 4.12 | **5.23** | [Beskid Cubing 2023](https://www.worldcubeassociation.org/competitions/BeskidCubing2023/results/all#eclock_f) | 4 |
-| 68 | [Conan Mo](https://www.worldcubeassociation.org/persons/2020MOCO01) | 4.63 | **5.23** | [Please Be Quiet Brisbane 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQuietBrisbane2024/results/all#eclock_f) | 5 |
-| 69 | [Benedek Szepesi-Réder](https://www.worldcubeassociation.org/persons/2022SZEP01) | 2.99 | **5.24** | [Swedish Championship 2024](https://www.worldcubeassociation.org/competitions/SwedishChampionship2024/results/all#eclock_f) | 7 |
-| 70 | [Teru Umene](https://www.worldcubeassociation.org/persons/2018UMEN01) | 3.72 | **5.24** | [Lente Spring 2024](https://www.worldcubeassociation.org/competitions/LenteSpring2024/results/all#eclock_f) | 4 |
-| 71 | [Mick Boekema](https://www.worldcubeassociation.org/persons/2022BOEK01) | 2.96 | **5.25** | [Lente Spring 2024](https://www.worldcubeassociation.org/competitions/LenteSpring2024/results/all#eclock_f) | 5 |
-| 72 | [Oliver Castledine](https://www.worldcubeassociation.org/persons/2018CAST08) | 3.22 | **5.26** | [Wakefield Autumn 2023](https://www.worldcubeassociation.org/competitions/WakefieldAutumn2023/results/all#eclock_f) | 5 |
-| 73 | [Ryan Michael Breen](https://www.worldcubeassociation.org/persons/2017BREE02) | 4.13 | **5.26** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#eclock_f) | 9 |
-| 74 | [Filip Brokos](https://www.worldcubeassociation.org/persons/2022BROK03) | 4.24 | **5.26** | [Ice Cubing Szczecinek 2024](https://www.worldcubeassociation.org/competitions/IceCubingSzczecinek2024/results/all#eclock_f) | 5 |
-| 75 | [Oliver Castledine](https://www.worldcubeassociation.org/persons/2018CAST08) | 3.29 | **5.27** | [Crewe Spring 2024](https://www.worldcubeassociation.org/competitions/CreweSpring2024/results/all#eclock_f) | 5 |
-| 76 | [Kris Lim](https://www.worldcubeassociation.org/persons/2022LIMK01) | 4.07 | **5.28** | [Manchester Spring 2024](https://www.worldcubeassociation.org/competitions/ManchesterSpring2024/results/all#eclock_c) | 4 |
-| 77 | [Ryan Michael Breen](https://www.worldcubeassociation.org/persons/2017BREE02) | 4.27 | **5.28** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#eclock_f) | 4 |
-| 78 | [NJ Kim](https://www.worldcubeassociation.org/persons/2022KIMN01) | 4.16 | **5.29** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#eclock_f) | 10 |
-| 79 | [Sigurd Volan Håvik](https://www.worldcubeassociation.org/persons/2022HAVI03) | 4.23 | **5.29** | [Flatåsen Open 2024](https://www.worldcubeassociation.org/competitions/FlatasenOpen2024/results/all#eclock_f) | 4 |
-| 80 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | 4.48 | **5.29** | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023/results/all#eclock_f) | 9 |
-| 81 | [Lucas Nieuwland](https://www.worldcubeassociation.org/persons/2018NIEU01) | 4.52 | **5.29** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#eclock_f) | 5 |
-| 82 | [Evan Millsap](https://www.worldcubeassociation.org/persons/2022MILL05) | 4.85 | **5.30** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#eclock_f) | 11 |
-| 83 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 4.73 | **5.31** | [Ice Cubing Szczecinek 2024](https://www.worldcubeassociation.org/competitions/IceCubingSzczecinek2024/results/all#eclock_f) | 6 |
-| 84 | [Mats Walker](https://www.worldcubeassociation.org/persons/2021WALK02) | 4.47 | **5.33** | [Bavarian Open 2023](https://www.worldcubeassociation.org/competitions/BavarianOpen2023/results/all#eclock_f) | 4 |
-| 85 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 5.21 | **5.33** | [Cube4fun Jarosław 2024](https://www.worldcubeassociation.org/competitions/Cube4funLowLimitsJaroslaw2024/results/all#eclock_f) | 4 |
-| 86 | [Ethan Cho](https://www.worldcubeassociation.org/persons/2018CHOE02) | 4.98 | **5.34** | [Swallow Spring 2023](https://www.worldcubeassociation.org/competitions/SwallowSpring2023/results/all#eclock_f) | 4 |
-| 87 | [Reed W. Richardson](https://www.worldcubeassociation.org/persons/2021RICH02) | 3.23 | **5.35** | [GCU Winter 2024](https://www.worldcubeassociation.org/competitions/GCUWinter2024/results/all#eclock_f) | 4 |
-| 88 | [Ronan de Rooij](https://www.worldcubeassociation.org/persons/2019ROOI02) | 4.69 | **5.35** | [Dutch Nationals 2023](https://www.worldcubeassociation.org/competitions/DutchNationals2023/results/all#eclock_c) | 4 |
-| 89 | [Aedan Bryant](https://www.worldcubeassociation.org/persons/2017BRYA06) | 4.98 | **5.35** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#eclock_f) | 12 |
-| 90 | [Tamar Ozsvath](https://www.worldcubeassociation.org/persons/2022OZSV04) | 4.24 | **5.37** | [Don't Pop Princeton 2024](https://www.worldcubeassociation.org/competitions/DontPopPrinceton2024/results/all#eclock_f) | 6 |
-| 91 | [Jakub Dolata](https://www.worldcubeassociation.org/persons/2020DOLA01) | 4.68 | **5.37** | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023/results/all#eclock_f) | 10 |
-| 92 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) | 4.00 | **5.38** | [Olsztyn Open 2023](https://www.worldcubeassociation.org/competitions/OlsztynOpen2023/results/all#eclock_f) | 4 |
-| 93 | [Ethan Wang](https://www.worldcubeassociation.org/persons/2022WANG29) | 4.14 | **5.38** | [Singapore Special 2024](https://www.worldcubeassociation.org/competitions/SingaporeSpecial2024/results/all#eclock_f) | 5 |
-| 94 | [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) | 4.74 | **5.38** | [Dragon Cubing 2023](https://www.worldcubeassociation.org/competitions/DragonCubing2023/results/all#eclock_f) | 5 |
-| 95 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 4.62 | **5.40** | [Energy Cube Tomaszów 2023](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2023/results/all#eclock_f) | 6 |
-| 96 | [Bashy Carrillo](https://www.worldcubeassociation.org/persons/2018CARR07) | 5.05 | **5.40** | [Wisconsin Qualifier 2024](https://www.worldcubeassociation.org/competitions/WisconsinQualifier2024/results/all#eclock_f) | 4 |
-| 97 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 4.13 | **5.41** | [Wakefield Autumn 2023](https://www.worldcubeassociation.org/competitions/WakefieldAutumn2023/results/all#eclock_f) | 6 |
-| 98 | [Akash Sreedharan](https://www.worldcubeassociation.org/persons/2019SREE06) | 4.39 | **5.42** | [Singapore Special 2024](https://www.worldcubeassociation.org/competitions/SingaporeSpecial2024/results/all#eclock_f) | 6 |
-| 99 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | 3.72 | **5.43** | [Beachside Auckland 2024](https://www.worldcubeassociation.org/competitions/BeachsideAuckland2024/results/all#eclock_f) | 4 |
-| 100 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 4.70 | **5.43** | [3BLD on a Madison MoNona 2024](https://www.worldcubeassociation.org/competitions/3BLDonaMadisonMoNona2024/results/all#eclock_f) | 5 |
+| 63 | [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) | 4.18 | **5.19** | [Concord Summer 2024](https://www.worldcubeassociation.org/competitions/ConcordSummer2024/results/all#eclock_f) | 4 |
+| 64 | [Filip Brokos](https://www.worldcubeassociation.org/persons/2022BROK03) | 4.81 | **5.19** | [Energy Cube Konin 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeKonin2024/results/all#eclock_f) | 5 |
+| 65 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | 4.56 | **5.20** | [Singapore Special 2024](https://www.worldcubeassociation.org/competitions/SingaporeSpecial2024/results/all#eclock_f) | 4 |
+| 66 | [Nathan Rahn](https://www.worldcubeassociation.org/persons/2021RAHN01) | 4.00 | **5.21** | [Elite in Eagan 2024](https://www.worldcubeassociation.org/competitions/EliteinEagan2024/results/all#eclock_f) | 4 |
+| 67 | [Shaun Mack](https://www.worldcubeassociation.org/persons/2018MACK04) | 4.03 | **5.21** | [It's About Time Bloomsburg 2024](https://www.worldcubeassociation.org/competitions/ItsAboutTimeBloomsburg2024/results/all#eclock_f) | 4 |
+| 68 | [Radosław Michałek](https://www.worldcubeassociation.org/persons/2021MICH03) | 4.12 | **5.23** | [Beskid Cubing 2023](https://www.worldcubeassociation.org/competitions/BeskidCubing2023/results/all#eclock_f) | 4 |
+| 69 | [Conan Mo](https://www.worldcubeassociation.org/persons/2020MOCO01) | 4.63 | **5.23** | [Please Be Quiet Brisbane 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQuietBrisbane2024/results/all#eclock_f) | 5 |
+| 70 | [Benedek Szepesi-Réder](https://www.worldcubeassociation.org/persons/2022SZEP01) | 2.99 | **5.24** | [Swedish Championship 2024](https://www.worldcubeassociation.org/competitions/SwedishChampionship2024/results/all#eclock_f) | 7 |
+| 71 | [Teru Umene](https://www.worldcubeassociation.org/persons/2018UMEN01) | 3.72 | **5.24** | [Lente Spring 2024](https://www.worldcubeassociation.org/competitions/LenteSpring2024/results/all#eclock_f) | 4 |
+| 72 | [Mick Boekema](https://www.worldcubeassociation.org/persons/2022BOEK01) | 2.96 | **5.25** | [Lente Spring 2024](https://www.worldcubeassociation.org/competitions/LenteSpring2024/results/all#eclock_f) | 5 |
+| 73 | [Oliver Castledine](https://www.worldcubeassociation.org/persons/2018CAST08) | 3.22 | **5.26** | [Wakefield Autumn 2023](https://www.worldcubeassociation.org/competitions/WakefieldAutumn2023/results/all#eclock_f) | 5 |
+| 74 | [Ryan Michael Breen](https://www.worldcubeassociation.org/persons/2017BREE02) | 4.13 | **5.26** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#eclock_f) | 9 |
+| 75 | [Filip Brokos](https://www.worldcubeassociation.org/persons/2022BROK03) | 4.24 | **5.26** | [Ice Cubing Szczecinek 2024](https://www.worldcubeassociation.org/competitions/IceCubingSzczecinek2024/results/all#eclock_f) | 5 |
+| 76 | [Oliver Castledine](https://www.worldcubeassociation.org/persons/2018CAST08) | 3.29 | **5.27** | [Crewe Spring 2024](https://www.worldcubeassociation.org/competitions/CreweSpring2024/results/all#eclock_f) | 5 |
+| 77 | [Kris Lim](https://www.worldcubeassociation.org/persons/2022LIMK01) | 4.07 | **5.28** | [Manchester Spring 2024](https://www.worldcubeassociation.org/competitions/ManchesterSpring2024/results/all#eclock_c) | 4 |
+| 78 | [Ryan Michael Breen](https://www.worldcubeassociation.org/persons/2017BREE02) | 4.27 | **5.28** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#eclock_f) | 4 |
+| 79 | [NJ Kim](https://www.worldcubeassociation.org/persons/2022KIMN01) | 4.16 | **5.29** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#eclock_f) | 10 |
+| 80 | [Sigurd Volan Håvik](https://www.worldcubeassociation.org/persons/2022HAVI03) | 4.23 | **5.29** | [Flatåsen Open 2024](https://www.worldcubeassociation.org/competitions/FlatasenOpen2024/results/all#eclock_f) | 4 |
+| 81 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | 4.48 | **5.29** | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023/results/all#eclock_f) | 9 |
+| 82 | [Lucas Nieuwland](https://www.worldcubeassociation.org/persons/2018NIEU01) | 4.52 | **5.29** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#eclock_f) | 5 |
+| 83 | [Evan Millsap](https://www.worldcubeassociation.org/persons/2022MILL05) | 4.85 | **5.30** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#eclock_f) | 11 |
+| 84 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 4.73 | **5.31** | [Ice Cubing Szczecinek 2024](https://www.worldcubeassociation.org/competitions/IceCubingSzczecinek2024/results/all#eclock_f) | 6 |
+| 85 | [Mats Walker](https://www.worldcubeassociation.org/persons/2021WALK02) | 4.47 | **5.33** | [Bavarian Open 2023](https://www.worldcubeassociation.org/competitions/BavarianOpen2023/results/all#eclock_f) | 4 |
+| 86 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 5.21 | **5.33** | [Cube4fun Jarosław 2024](https://www.worldcubeassociation.org/competitions/Cube4funLowLimitsJaroslaw2024/results/all#eclock_f) | 4 |
+| 87 | [Ethan Cho](https://www.worldcubeassociation.org/persons/2018CHOE02) | 4.98 | **5.34** | [Swallow Spring 2023](https://www.worldcubeassociation.org/competitions/SwallowSpring2023/results/all#eclock_f) | 4 |
+| 88 | [Reed W. Richardson](https://www.worldcubeassociation.org/persons/2021RICH02) | 3.23 | **5.35** | [GCU Winter 2024](https://www.worldcubeassociation.org/competitions/GCUWinter2024/results/all#eclock_f) | 4 |
+| 89 | [Ronan de Rooij](https://www.worldcubeassociation.org/persons/2019ROOI02) | 4.69 | **5.35** | [Dutch Nationals 2023](https://www.worldcubeassociation.org/competitions/DutchNationals2023/results/all#eclock_c) | 4 |
+| 90 | [Aedan Bryant](https://www.worldcubeassociation.org/persons/2017BRYA06) | 4.98 | **5.35** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#eclock_f) | 12 |
+| 91 | [Tamar Ozsvath](https://www.worldcubeassociation.org/persons/2022OZSV04) | 4.24 | **5.37** | [Don't Pop Princeton 2024](https://www.worldcubeassociation.org/competitions/DontPopPrinceton2024/results/all#eclock_f) | 6 |
+| 92 | [Jakub Dolata](https://www.worldcubeassociation.org/persons/2020DOLA01) | 4.68 | **5.37** | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023/results/all#eclock_f) | 10 |
+| 93 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) | 4.00 | **5.38** | [Olsztyn Open 2023](https://www.worldcubeassociation.org/competitions/OlsztynOpen2023/results/all#eclock_f) | 4 |
+| 94 | [Ethan Wang](https://www.worldcubeassociation.org/persons/2022WANG29) | 4.14 | **5.38** | [Singapore Special 2024](https://www.worldcubeassociation.org/competitions/SingaporeSpecial2024/results/all#eclock_f) | 5 |
+| 95 | [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) | 4.74 | **5.38** | [Dragon Cubing 2023](https://www.worldcubeassociation.org/competitions/DragonCubing2023/results/all#eclock_f) | 5 |
+| 96 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 4.62 | **5.40** | [Energy Cube Tomaszów 2023](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2023/results/all#eclock_f) | 6 |
+| 97 | [Bashy Carrillo](https://www.worldcubeassociation.org/persons/2018CARR07) | 5.05 | **5.40** | [Wisconsin Qualifier 2024](https://www.worldcubeassociation.org/competitions/WisconsinQualifier2024/results/all#eclock_f) | 4 |
+| 98 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 4.13 | **5.41** | [Wakefield Autumn 2023](https://www.worldcubeassociation.org/competitions/WakefieldAutumn2023/results/all#eclock_f) | 6 |
+| 99 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 4.49 | **5.41** | [Ostróda Open 2024](https://www.worldcubeassociation.org/competitions/OstrodaOpen2024/results/all#eclock_f) | 4 |
+| 100 | [Akash Sreedharan](https://www.worldcubeassociation.org/persons/2019SREE06) | 4.39 | **5.42** | [Singapore Special 2024](https://www.worldcubeassociation.org/competitions/SingaporeSpecial2024/results/all#eclock_f) | 6 |
 
 ### Skewb
 
