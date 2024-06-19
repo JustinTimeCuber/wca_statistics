@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 16 June 2024*
+*Updated on 19 June 2024*
 
 | Rank | WRs | Person |
 | :--- | ---: | :--- |
@@ -52,19 +52,19 @@
 | 46 | 6 | [Edouard Chambon](https://www.worldcubeassociation.org/persons/2004CHAM01) |
 | 47 | 6 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 48 | 6 | [Frank Morris](https://www.worldcubeassociation.org/persons/2003MORR01) |
-| 49 | 6 | [Rami Sbahi](https://www.worldcubeassociation.org/persons/2011SBAH01) |
-| 50 | 6 | [Takayuki Ookusa (大艸尊之)](https://www.worldcubeassociation.org/persons/2006OOKU01) |
-| 51 | 6 | [Yumu Tabuchi (田渕雄夢)](https://www.worldcubeassociation.org/persons/2006TABU02) |
-| 52 | 5 | [Bob Burton](https://www.worldcubeassociation.org/persons/2003BURT01) |
-| 53 | 5 | [Gabriel Pereira Campanha](https://www.worldcubeassociation.org/persons/2012CAMP03) |
-| 54 | 5 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
-| 55 | 5 | [Grzegorz Prusak](https://www.worldcubeassociation.org/persons/2006PRUS01) |
-| 56 | 5 | [Jeff Park](https://www.worldcubeassociation.org/persons/2015PARK08) |
-| 57 | 5 | [Máté Horváth](https://www.worldcubeassociation.org/persons/2007HORV01) |
-| 58 | 5 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
-| 59 | 5 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
-| 60 | 5 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) |
-| 61 | 5 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |
+| 49 | 6 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |
+| 50 | 6 | [Rami Sbahi](https://www.worldcubeassociation.org/persons/2011SBAH01) |
+| 51 | 6 | [Takayuki Ookusa (大艸尊之)](https://www.worldcubeassociation.org/persons/2006OOKU01) |
+| 52 | 6 | [Yumu Tabuchi (田渕雄夢)](https://www.worldcubeassociation.org/persons/2006TABU02) |
+| 53 | 5 | [Bob Burton](https://www.worldcubeassociation.org/persons/2003BURT01) |
+| 54 | 5 | [Gabriel Pereira Campanha](https://www.worldcubeassociation.org/persons/2012CAMP03) |
+| 55 | 5 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
+| 56 | 5 | [Grzegorz Prusak](https://www.worldcubeassociation.org/persons/2006PRUS01) |
+| 57 | 5 | [Jeff Park](https://www.worldcubeassociation.org/persons/2015PARK08) |
+| 58 | 5 | [Máté Horváth](https://www.worldcubeassociation.org/persons/2007HORV01) |
+| 59 | 5 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
+| 60 | 5 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
+| 61 | 5 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) |
 | 62 | 4 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
 | 63 | 4 | [Brandon Lin (林博浩)](https://www.worldcubeassociation.org/persons/2011LINB01) |
 | 64 | 4 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
