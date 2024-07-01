@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 28 June 2024*
+*Updated on  1 July 2024*
 
 
 ### Rubik's Cube
@@ -915,8 +915,8 @@
 | 65 | 16.37 | [Zachary Walden](https://www.worldcubeassociation.org/persons/2018WALD04) |
 | 66 | 16.40 | [Giyoon Lim (임기윤)](https://www.worldcubeassociation.org/persons/2022LIMG01) |
 | 67 | 16.41 | [Zyx Orcine](https://www.worldcubeassociation.org/persons/2015ORCI01) |
-| 68 | 16.41 | [Yuxuan Li (李雨轩)](https://www.worldcubeassociation.org/persons/2024LIYU03) |
-| 69 | 16.41 | [Yiming Zuo (左一鸣)](https://www.worldcubeassociation.org/persons/2019ZUOY02) |
+| 68 | 16.41 | [Yiming Zuo (左一鸣)](https://www.worldcubeassociation.org/persons/2019ZUOY02) |
+| 69 | 16.41 | [Yuxuan Li (李雨轩)](https://www.worldcubeassociation.org/persons/2024LIYU03) |
 | 70 | 16.43 | [Md Tafsirul Islam](https://www.worldcubeassociation.org/persons/2022ISLA04) |
 | 71 | 16.44 | [Alexander Tolstov (Александр Толстов)](https://www.worldcubeassociation.org/persons/2019TOLS01) |
 | 72 | 16.47 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) |
@@ -1767,8 +1767,8 @@
 | 25 | 2.88 | [Fachri Padmaridho](https://www.worldcubeassociation.org/persons/2011PADM01) |
 | 26 | 2.91 | [Rudy](https://www.worldcubeassociation.org/persons/2012RUDY01) |
 | 27 | 2.93 | [Van Tien Trung Vu](https://www.worldcubeassociation.org/persons/2010VUVA01) |
-| 28 | 2.93 | [Jinwoo Choi (최진우)](https://www.worldcubeassociation.org/persons/2012CHOI08) |
-| 29 | 2.93 | [Kim Weon Bin (김원빈)](https://www.worldcubeassociation.org/persons/2012BINK01) |
+| 28 | 2.93 | [Kim Weon Bin (김원빈)](https://www.worldcubeassociation.org/persons/2012BINK01) |
+| 29 | 2.93 | [Jinwoo Choi (최진우)](https://www.worldcubeassociation.org/persons/2012CHOI08) |
 | 30 | 2.94 | [Bartłomiej Różalski](https://www.worldcubeassociation.org/persons/2011ROZA02) |
 | 31 | 2.95 | [Haokun Wang (王皓琨)](https://www.worldcubeassociation.org/persons/2010WANG52) |
 | 32 | 2.96 | [Ke Pan (潘轲)](https://www.worldcubeassociation.org/persons/2010PANK01) |
@@ -1821,8 +1821,8 @@
 | 79 | 3.37 | [Yang Yang (杨洋)](https://www.worldcubeassociation.org/persons/2011YANG10) |
 | 80 | 3.38 | [Markus Pirzer](https://www.worldcubeassociation.org/persons/2006PIRZ01) |
 | 81 | 3.38 | [Lo Chun Lok (盧雋樂)](https://www.worldcubeassociation.org/persons/2008LOKL01) |
-| 82 | 3.38 | [Nicolas Bodmer](https://www.worldcubeassociation.org/persons/2010BODM01) |
-| 83 | 3.38 | [Kai Gabriel](https://www.worldcubeassociation.org/persons/2010GABR01) |
+| 82 | 3.38 | [Kai Gabriel](https://www.worldcubeassociation.org/persons/2010GABR01) |
+| 83 | 3.38 | [Nicolas Bodmer](https://www.worldcubeassociation.org/persons/2010BODM01) |
 | 84 | 3.38 | [Denis Uglov](https://www.worldcubeassociation.org/persons/2010UGLO01) |
 | 85 | 3.38 | [Young Joon Kim (김영준)](https://www.worldcubeassociation.org/persons/2011KIMY01) |
 | 86 | 3.39 | [Alan Pablo Luja Anguiano](https://www.worldcubeassociation.org/persons/2011ANGU01) |
