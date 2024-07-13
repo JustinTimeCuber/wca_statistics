@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 10 July 2024*
+*Updated on 13 July 2024*
 
 | Rank | WRs | Person |
 | :--- | ---: | :--- |
@@ -65,28 +65,28 @@
 | 59 | 5 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 60 | 5 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
 | 61 | 5 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) |
-| 62 | 4 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
-| 63 | 4 | [Brandon Lin (林博浩)](https://www.worldcubeassociation.org/persons/2011LINB01) |
-| 64 | 4 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
-| 65 | 4 | [Chris Dzoan](https://www.worldcubeassociation.org/persons/2006DZOA02) |
-| 66 | 4 | [Craig Bouchard](https://www.worldcubeassociation.org/persons/2005BOUC01) |
-| 67 | 4 | [Frédérick Badie](https://www.worldcubeassociation.org/persons/2003BADI01) |
-| 68 | 4 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) |
-| 69 | 4 | [Hsuan Chang (張璿)](https://www.worldcubeassociation.org/persons/2008CHAN09) |
-| 70 | 4 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) |
-| 71 | 4 | [Keisuke Hiraya (平谷啓輔)](https://www.worldcubeassociation.org/persons/2007HIRA02) |
-| 72 | 4 | [Lucas Etter](https://www.worldcubeassociation.org/persons/2011ETTE01) |
-| 73 | 4 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
-| 74 | 4 | [Łukasz Ciałoń](https://www.worldcubeassociation.org/persons/2005CIAL02) |
-| 75 | 4 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
-| 76 | 4 | [Michael Fung](https://www.worldcubeassociation.org/persons/2005FUNG01) |
-| 77 | 4 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) |
-| 78 | 4 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) |
-| 79 | 4 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) |
-| 80 | 4 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) |
-| 81 | 4 | [Sam Zhixiao Wang (王志骁)](https://www.worldcubeassociation.org/persons/2009WANG19) |
-| 82 | 4 | [Simon Westlund](https://www.worldcubeassociation.org/persons/2008WEST02) |
-| 83 | 4 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) |
+| 62 | 5 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) |
+| 63 | 4 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
+| 64 | 4 | [Brandon Lin (林博浩)](https://www.worldcubeassociation.org/persons/2011LINB01) |
+| 65 | 4 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
+| 66 | 4 | [Chris Dzoan](https://www.worldcubeassociation.org/persons/2006DZOA02) |
+| 67 | 4 | [Craig Bouchard](https://www.worldcubeassociation.org/persons/2005BOUC01) |
+| 68 | 4 | [Frédérick Badie](https://www.worldcubeassociation.org/persons/2003BADI01) |
+| 69 | 4 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) |
+| 70 | 4 | [Hsuan Chang (張璿)](https://www.worldcubeassociation.org/persons/2008CHAN09) |
+| 71 | 4 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) |
+| 72 | 4 | [Keisuke Hiraya (平谷啓輔)](https://www.worldcubeassociation.org/persons/2007HIRA02) |
+| 73 | 4 | [Lucas Etter](https://www.worldcubeassociation.org/persons/2011ETTE01) |
+| 74 | 4 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
+| 75 | 4 | [Łukasz Ciałoń](https://www.worldcubeassociation.org/persons/2005CIAL02) |
+| 76 | 4 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
+| 77 | 4 | [Michael Fung](https://www.worldcubeassociation.org/persons/2005FUNG01) |
+| 78 | 4 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) |
+| 79 | 4 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) |
+| 80 | 4 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) |
+| 81 | 4 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) |
+| 82 | 4 | [Sam Zhixiao Wang (王志骁)](https://www.worldcubeassociation.org/persons/2009WANG19) |
+| 83 | 4 | [Simon Westlund](https://www.worldcubeassociation.org/persons/2008WEST02) |
 | 84 | 4 | [Yuki Hayashi (林祐樹)](https://www.worldcubeassociation.org/persons/2005HAYA01) |
 | 85 | 3 | [Alexander Ooms](https://www.worldcubeassociation.org/persons/2005OOMS01) |
 | 86 | 3 | [Alexander Yu](https://www.worldcubeassociation.org/persons/2007YUAL01) |
