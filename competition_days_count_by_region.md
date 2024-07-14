@@ -7,18 +7,18 @@
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.47 | World | 12613 |
+| 1 | 1.47 | World | 12617 |
 
 ### Continents
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.73 | Europe | 4113 |
-| 2 | 1.50 | South America | 1525 |
+| 1 | 1.73 | Europe | 4114 |
+| 2 | 1.50 | South America | 1527 |
 | 3 | 1.47 | Oceania | 560 |
 | 4 | 1.41 | Asia | 2735 |
 | 5 | 1.30 | Africa | 145 |
-| 6 | 1.21 | North America | 3535 |
+| 6 | 1.21 | North America | 3536 |
 
 ### Countries
 
@@ -40,7 +40,7 @@
 | 14 | 1.87 | France | 290 |
 | 15 | 1.87 | Slovakia | 39 |
 | 16 | 1.87 | Finland | 137 |
-| 17 | 1.85 | Spain | 348 |
+| 17 | 1.85 | Spain | 349 |
 | 18 | 1.85 | Switzerland | 113 |
 | 19 | 1.85 | Bosnia and Herzegovina | 13 |
 | 20 | 1.84 | Croatia | 25 |
@@ -95,9 +95,9 @@
 | 69 | 1.36 | Vietnam | 66 |
 | 70 | 1.35 | Ecuador | 48 |
 | 71 | 1.34 | Paraguay | 29 |
-| 72 | 1.33 | Colombia | 321 |
-| 73 | 1.33 | Panama | 18 |
-| 74 | 1.33 | Tajikistan | 3 |
+| 72 | 1.33 | Panama | 18 |
+| 73 | 1.33 | Tajikistan | 3 |
+| 74 | 1.33 | Colombia | 323 |
 | 75 | 1.32 | Hong Kong, China | 19 |
 | 76 | 1.31 | Philippines | 289 |
 | 77 | 1.31 | Republic of Korea | 97 |
@@ -116,7 +116,7 @@
 | 90 | 1.19 | Mongolia | 32 |
 | 91 | 1.18 | El Salvador | 33 |
 | 92 | 1.17 | Tunisia | 24 |
-| 93 | 1.16 | United States | 2843 |
+| 93 | 1.16 | United States | 2844 |
 | 94 | 1.16 | Canada | 362 |
 | 95 | 1.13 | Azerbaijan | 45 |
 | 96 | 1.12 | Honduras | 17 |
