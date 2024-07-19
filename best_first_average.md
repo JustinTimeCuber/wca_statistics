@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 16 July 2024*
+*Updated on 19 July 2024*
 
 
 ### Rubik's Cube
@@ -917,8 +917,8 @@
 | 67 | 16.37 | [Zachary Walden](https://www.worldcubeassociation.org/persons/2018WALD04) |
 | 68 | 16.40 | [Giyoon Lim (임기윤)](https://www.worldcubeassociation.org/persons/2022LIMG01) |
 | 69 | 16.41 | [Zyx Orcine](https://www.worldcubeassociation.org/persons/2015ORCI01) |
-| 70 | 16.41 | [Yiming Zuo (左一鸣)](https://www.worldcubeassociation.org/persons/2019ZUOY02) |
-| 71 | 16.41 | [Yuxuan Li (李雨轩)](https://www.worldcubeassociation.org/persons/2024LIYU03) |
+| 70 | 16.41 | [Yuxuan Li (李雨轩)](https://www.worldcubeassociation.org/persons/2024LIYU03) |
+| 71 | 16.41 | [Yiming Zuo (左一鸣)](https://www.worldcubeassociation.org/persons/2019ZUOY02) |
 | 72 | 16.43 | [Md Tafsirul Islam](https://www.worldcubeassociation.org/persons/2022ISLA04) |
 | 73 | 16.44 | [Alexander Tolstov (Александр Толстов)](https://www.worldcubeassociation.org/persons/2019TOLS01) |
 | 74 | 16.47 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) |
@@ -942,12 +942,12 @@
 | 92 | 16.71 | [Guanjian Liang (梁观健)](https://www.worldcubeassociation.org/persons/2019LIAN22) |
 | 93 | 16.73 | [Chih-Jia Lin (林志嘉)](https://www.worldcubeassociation.org/persons/2020LINC05) |
 | 94 | 16.74 | [Ziv Ng](https://www.worldcubeassociation.org/persons/2023NGZI01) |
-| 95 | 16.75 | [Abby Anaya](https://www.worldcubeassociation.org/persons/2017ANAY01) |
-| 96 | 16.77 | [Nguyễn Hùng Khánh](https://www.worldcubeassociation.org/persons/2018KHAN34) |
-| 97 | 16.78 | [Jiahao Zhu](https://www.worldcubeassociation.org/persons/2023ZHUJ01) |
-| 98 | 16.81 | [Jason Wong](https://www.worldcubeassociation.org/persons/2023WONG17) |
-| 99 | 16.81 | [Bhuvanesh Ganta](https://www.worldcubeassociation.org/persons/2019GANT05) |
-| 100 | 16.85 | [Xin Lu (陆鑫)](https://www.worldcubeassociation.org/persons/2024LUXI01) |
+| 95 | 16.74 | [Franciszek Syguła](https://www.worldcubeassociation.org/persons/2022SYGU01) |
+| 96 | 16.75 | [Abby Anaya](https://www.worldcubeassociation.org/persons/2017ANAY01) |
+| 97 | 16.77 | [Nguyễn Hùng Khánh](https://www.worldcubeassociation.org/persons/2018KHAN34) |
+| 98 | 16.78 | [Jiahao Zhu](https://www.worldcubeassociation.org/persons/2023ZHUJ01) |
+| 99 | 16.81 | [Jason Wong](https://www.worldcubeassociation.org/persons/2023WONG17) |
+| 100 | 16.81 | [Bhuvanesh Ganta](https://www.worldcubeassociation.org/persons/2019GANT05) |
 
 ### Megaminx
 
@@ -1767,8 +1767,8 @@
 | 25 | 2.88 | [Fachri Padmaridho](https://www.worldcubeassociation.org/persons/2011PADM01) |
 | 26 | 2.91 | [Rudy](https://www.worldcubeassociation.org/persons/2012RUDY01) |
 | 27 | 2.93 | [Van Tien Trung Vu](https://www.worldcubeassociation.org/persons/2010VUVA01) |
-| 28 | 2.93 | [Kim Weon Bin (김원빈)](https://www.worldcubeassociation.org/persons/2012BINK01) |
-| 29 | 2.93 | [Jinwoo Choi (최진우)](https://www.worldcubeassociation.org/persons/2012CHOI08) |
+| 28 | 2.93 | [Jinwoo Choi (최진우)](https://www.worldcubeassociation.org/persons/2012CHOI08) |
+| 29 | 2.93 | [Kim Weon Bin (김원빈)](https://www.worldcubeassociation.org/persons/2012BINK01) |
 | 30 | 2.94 | [Bartłomiej Różalski](https://www.worldcubeassociation.org/persons/2011ROZA02) |
 | 31 | 2.95 | [Haokun Wang (王皓琨)](https://www.worldcubeassociation.org/persons/2010WANG52) |
 | 32 | 2.96 | [Ke Pan (潘轲)](https://www.worldcubeassociation.org/persons/2010PANK01) |

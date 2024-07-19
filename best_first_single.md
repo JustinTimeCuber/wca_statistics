@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 16 July 2024*
+*Updated on 19 July 2024*
 
 
 ### Rubik's Cube
@@ -743,8 +743,8 @@
 
 | Rank | First single | Person |
 | :--- | ---: | :--- |
-| 1 | 22 | [Kieran Dizon](https://www.worldcubeassociation.org/persons/2015DIZO02) |
-| 2 | 22 | [Steven Wang](https://www.worldcubeassociation.org/persons/2013WANG63) |
+| 1 | 22 | [Steven Wang](https://www.worldcubeassociation.org/persons/2013WANG63) |
+| 2 | 22 | [Kieran Dizon](https://www.worldcubeassociation.org/persons/2015DIZO02) |
 | 3 | 22 | [Shota Wakabayashi (若林翔太)](https://www.worldcubeassociation.org/persons/2023KADO01) |
 | 4 | 23 | [Mosfikul Islam](https://www.worldcubeassociation.org/persons/2023ISLA08) |
 | 5 | 23 | [Kazuya Ishii (石井一也)](https://www.worldcubeassociation.org/persons/2019ISHI07) |
@@ -1262,7 +1262,7 @@
 | 97 | 7.55 | [Hoàng Văn Hoà](https://www.worldcubeassociation.org/persons/2022HOAH01) |
 | 98 | 7.56 | [Kaidyn De Luca-Mazza](https://www.worldcubeassociation.org/persons/2019LUCA01) |
 | 99 | 7.56 | [Jan Brtník](https://www.worldcubeassociation.org/persons/2023BRTN02) |
-| 100 | 7.56 | [Xi Tan (谭熙)](https://www.worldcubeassociation.org/persons/2019TANX01) |
+| 100 | 7.56 | [Yexin Weng (翁业心)](https://www.worldcubeassociation.org/persons/2019WENG03) |
 
 ### Skewb
 
@@ -2171,8 +2171,8 @@
 | 61 | 5/8 59:20 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) |
 | 62 | 3/4 1:20:16 | [Thomas Kohn](https://www.worldcubeassociation.org/persons/2005KOHN01) |
 | 63 | 3/5 1:27:00 | [Bernett Orlando](https://www.worldcubeassociation.org/persons/2006ORLA01) |
-| 64 | 3/5 ?:??:?? | [François Sechet](https://www.worldcubeassociation.org/persons/2004SECH01) |
-| 65 | 3/5 ?:??:?? | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
+| 64 | 3/5 ?:??:?? | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
+| 65 | 3/5 ?:??:?? | [François Sechet](https://www.worldcubeassociation.org/persons/2004SECH01) |
 | 66 | 3/6 1:40:00 | [Jimmy Coll](https://www.worldcubeassociation.org/persons/2006COLL01) |
 | 67 | 3/7 1:09:10 | [Derrick Eide](https://www.worldcubeassociation.org/persons/2006EIDE01) |
 | 68 | 2/3 28:33 | [Anthony Hsu](https://www.worldcubeassociation.org/persons/2005HSUA01) |

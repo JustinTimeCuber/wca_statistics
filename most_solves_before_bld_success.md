@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on 16 July 2024*
+*Updated on 19 July 2024*
 
 
 ### 3x3x3 Blindfolded
@@ -298,8 +298,8 @@
 | 84 | 12 | [Muhammad Saleh Imtiaz](https://www.worldcubeassociation.org/persons/2018IMTI01) |
 | 85 | 12 | [Nathan Phillips](https://www.worldcubeassociation.org/persons/2021PHIL05) |
 | 86 | 12 | [Simon Dimpker](https://www.worldcubeassociation.org/persons/2021DIMP01) |
-| 87 | 12 | [Bella Campbell](https://www.worldcubeassociation.org/persons/2018CAMP17) |
-| 88 | 12 | [Kalindu Sachintha Wijesundara](https://www.worldcubeassociation.org/persons/2022WIJE02) |
+| 87 | 12 | [Kalindu Sachintha Wijesundara](https://www.worldcubeassociation.org/persons/2022WIJE02) |
+| 88 | 12 | [Bella Campbell](https://www.worldcubeassociation.org/persons/2018CAMP17) |
 | 89 | 11 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) |
 | 90 | 11 | [Shaden Smith](https://www.worldcubeassociation.org/persons/2008SMIT01) |
 | 91 | 11 | [Tessa Cookmeyer](https://www.worldcubeassociation.org/persons/2010COOK01) |
@@ -791,9 +791,9 @@
 | 167 | 4 | [Jack Gerring](https://www.worldcubeassociation.org/persons/2012GERR01) |
 | 168 | 4 | [Hafizh Dary Faridhan Hudoyo](https://www.worldcubeassociation.org/persons/2015HUDO01) |
 | 169 | 4 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
-| 170 | 4 | [CJ Sheng](https://www.worldcubeassociation.org/persons/2012SHEN02) |
+| 170 | 4 | [Mickaël Paquer](https://www.worldcubeassociation.org/persons/2013PAQU01) |
 | 171 | 4 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
-| 172 | 4 | [Mickaël Paquer](https://www.worldcubeassociation.org/persons/2013PAQU01) |
+| 172 | 4 | [CJ Sheng](https://www.worldcubeassociation.org/persons/2012SHEN02) |
 | 173 | 4 | [Owen Widdis](https://www.worldcubeassociation.org/persons/2015WIDD01) |
 | 174 | 4 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 175 | 4 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) |
@@ -801,17 +801,17 @@
 | 177 | 4 | [Will Russo](https://www.worldcubeassociation.org/persons/2015RUSS03) |
 | 178 | 4 | [Laurent Reynaud](https://www.worldcubeassociation.org/persons/2015REYN07) |
 | 179 | 4 | [Fedor Abaev](https://www.worldcubeassociation.org/persons/2016ABAE01) |
-| 180 | 4 | [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) |
-| 181 | 4 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) |
+| 180 | 4 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) |
+| 181 | 4 | [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) |
 | 182 | 4 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) |
 | 183 | 4 | [Zhifang Xi (席之枋)](https://www.worldcubeassociation.org/persons/2016XIZH01) |
 | 184 | 4 | [Adolfo Ortega Tecuapacho](https://www.worldcubeassociation.org/persons/2017TECU01) |
 | 185 | 4 | [Samuel Hernandez Castro](https://www.worldcubeassociation.org/persons/2016CAST31) |
-| 186 | 4 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
-| 187 | 4 | [Alex Davani](https://www.worldcubeassociation.org/persons/2013DAVA01) |
+| 186 | 4 | [Alex Davani](https://www.worldcubeassociation.org/persons/2013DAVA01) |
+| 187 | 4 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) |
 | 188 | 4 | [Noel Kim](https://www.worldcubeassociation.org/persons/2016KIMN02) |
-| 189 | 4 | [Andy Wong](https://www.worldcubeassociation.org/persons/2017WONG13) |
-| 190 | 4 | [Nikita Razzamazov (Никита Раззама́зов)](https://www.worldcubeassociation.org/persons/2016RAZZ01) |
+| 189 | 4 | [Nikita Razzamazov (Никита Раззама́зов)](https://www.worldcubeassociation.org/persons/2016RAZZ01) |
+| 190 | 4 | [Andy Wong](https://www.worldcubeassociation.org/persons/2017WONG13) |
 | 191 | 4 | [Zander Verona](https://www.worldcubeassociation.org/persons/2017VERO01) |
 | 192 | 4 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) |
 | 193 | 4 | [Pessi Ansaranta](https://www.worldcubeassociation.org/persons/2016ANSA02) |
