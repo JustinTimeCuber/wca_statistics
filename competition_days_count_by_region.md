@@ -7,16 +7,16 @@
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.47 | World | 12664 |
+| 1 | 1.47 | World | 12667 |
 
 ### Continents
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.73 | Europe | 4124 |
+| 1 | 1.73 | Europe | 4126 |
 | 2 | 1.50 | South America | 1538 |
 | 3 | 1.47 | Oceania | 561 |
-| 4 | 1.41 | Asia | 2749 |
+| 4 | 1.41 | Asia | 2750 |
 | 5 | 1.30 | Africa | 145 |
 | 6 | 1.21 | North America | 3547 |
 
@@ -40,7 +40,7 @@
 | 14 | 1.87 | France | 291 |
 | 15 | 1.87 | Slovakia | 39 |
 | 16 | 1.87 | Finland | 137 |
-| 17 | 1.85 | Spain | 349 |
+| 17 | 1.85 | Spain | 350 |
 | 18 | 1.85 | Switzerland | 113 |
 | 19 | 1.85 | Bosnia and Herzegovina | 13 |
 | 20 | 1.84 | Croatia | 25 |
@@ -65,7 +65,7 @@
 | 39 | 1.62 | New Zealand | 116 |
 | 40 | 1.62 | Denmark | 171 |
 | 41 | 1.59 | Greece | 27 |
-| 42 | 1.59 | Italy | 216 |
+| 42 | 1.59 | Italy | 217 |
 | 43 | 1.58 | India | 563 |
 | 44 | 1.58 | Netherlands | 116 |
 | 45 | 1.57 | Indonesia | 225 |
@@ -107,7 +107,7 @@
 | 81 | 1.28 | United Arab Emirates | 18 |
 | 82 | 1.27 | Venezuela | 73 |
 | 83 | 1.27 | Portugal | 22 |
-| 84 | 1.25 | China | 645 |
+| 84 | 1.25 | China | 646 |
 | 85 | 1.25 | Chile | 131 |
 | 86 | 1.24 | Uruguay | 50 |
 | 87 | 1.22 | Bahrain | 9 |
