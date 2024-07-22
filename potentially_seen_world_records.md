@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 19 July 2024*
+*Updated on 22 July 2024*
 
 | Rank | WRs | Person |
 | :--- | ---: | :--- |
@@ -352,7 +352,7 @@
 | 345 | 36 | [Alex Maass](https://www.worldcubeassociation.org/persons/2011MAAS01) |
 | 346 | 36 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) |
 | 347 | 36 | [Edward Lin](https://www.worldcubeassociation.org/persons/2008LINE02) |
-| 348 | 36 | [Antoine Piau](https://www.worldcubeassociation.org/persons/2008PIAU01) |
+| 348 | 36 | [Anton Piau](https://www.worldcubeassociation.org/persons/2008PIAU01) |
 | 349 | 36 | [Chris Tran](https://www.worldcubeassociation.org/persons/2008TRAN02) |
 | 350 | 36 | [Simone Ciancotti](https://www.worldcubeassociation.org/persons/2009CIAN01) |
 | 351 | 36 | [Kevin Guillaumond](https://www.worldcubeassociation.org/persons/2009GUIL01) |
