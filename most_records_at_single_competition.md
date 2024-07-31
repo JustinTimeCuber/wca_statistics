@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on 28 July 2024*
+*Updated on 31 July 2024*
 
 
 ### World
@@ -426,6 +426,7 @@
 | 201 | 4 | [Daniel Rush](https://www.worldcubeassociation.org/persons/2018RUSH01) | [CubingZA Challenge 2023](https://www.worldcubeassociation.org/competitions/CubingZACapeCubesChallenge2023/results/by_person#2018RUSH01) |
 | 202 | 4 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Melbourne Summer 2024](https://www.worldcubeassociation.org/competitions/MelbourneSummer2024/results/by_person#2016KOLA02) |
 | 203 | 4 | [Daniel Rush](https://www.worldcubeassociation.org/persons/2018RUSH01) | [Deep South Cape Town 2024](https://www.worldcubeassociation.org/competitions/DeepSouthCapeTown2024/results/by_person#2018RUSH01) |
+| 204 | 4 | [Daniel Rush](https://www.worldcubeassociation.org/persons/2018RUSH01) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/by_person#2018RUSH01) |
 
 ### National
 
