@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on 31 July 2024*
+*Updated on  1 August 2024*
 
 
 ### Rubik's Cube
@@ -1519,7 +1519,7 @@
 | 39 | [Jens Diewald](https://www.worldcubeassociation.org/persons/2008DIEW01) | **29:03.00** |  | [Montpellier Open 2010](https://www.worldcubeassociation.org/competitions/MontpellierOpen2010/results/podiums#e444bf) | 3 |
 | 40 | [John Allums](https://www.worldcubeassociation.org/persons/2011ALLU01) | **28:52.00** | DNF | [Unionville Open Spring 2017](https://www.worldcubeassociation.org/competitions/UnionvilleOpenSpring2017/results/podiums#e444bf) | 1 |
 | 41 | [Diego Millán Otón](https://www.worldcubeassociation.org/persons/2012OTAN01) | **28:46.00** |  | [MIR Open 2013](https://www.worldcubeassociation.org/competitions/MIROpen2013/results/podiums#e444bf) | 1 |
-| 42 | [Isaac Evans](https://www.worldcubeassociation.org/persons/2019EVAN10) | **28:44.00** | DNF | [PBQ Utah Championship 2023](https://www.worldcubeassociation.org/competitions/PBQUtahChampionship2023/results/podiums#e444bf) | 2 |
+| 42 | [Isabelle Evans](https://www.worldcubeassociation.org/persons/2019EVAN10) | **28:44.00** | DNF | [PBQ Utah Championship 2023](https://www.worldcubeassociation.org/competitions/PBQUtahChampionship2023/results/podiums#e444bf) | 2 |
 | 43 | [Tiffany Soh (蘇明珠)](https://www.worldcubeassociation.org/persons/2010SOHT01) | **28:40.00** | DNF | [Selangor Cube Open 2019](https://www.worldcubeassociation.org/competitions/SelangorCubeOpen2019/results/podiums#e444bf) | 3 |
 | 44 | [Daniel Hermansson](https://www.worldcubeassociation.org/persons/2004HERM01) | **28:32.00** | DNF | [Swedish Championship 2015](https://www.worldcubeassociation.org/competitions/SwedishChampionship2015/results/podiums#e444bf) | 3 |
 | 45 | [Donna Krueger](https://www.worldcubeassociation.org/persons/2016KRUE03) | **27:58.00** | DNF | [Rocky Top 2017](https://www.worldcubeassociation.org/competitions/RockyTop2017/results/podiums#e444bf) | 3 |

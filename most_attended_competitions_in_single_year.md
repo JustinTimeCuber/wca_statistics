@@ -1,6 +1,6 @@
 ## Most attended competitions in a single year
 
-*Updated on 31 July 2024*
+*Updated on  1 August 2024*
 
 | Rank | Competitions | Person | Year | List |
 | :--- | ---: | :--- | :--- | :--- |

@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 31 July 2024*
+*Updated on  1 August 2024*
 
 
 ### Rubik's Cube
@@ -1532,7 +1532,7 @@
 | 52 | 8:09.11 | [Tom Nelson](https://www.worldcubeassociation.org/persons/2013NELS01) |
 | 53 | 8:09.94 | [Jake Brown](https://www.worldcubeassociation.org/persons/2020BROW01) |
 | 54 | 8:11.59 | [Yifan Zhuang (庄一凡)](https://www.worldcubeassociation.org/persons/2017ZHUA02) |
-| 55 | 8:12.36 | [Khaled Al-Hathlool](https://www.worldcubeassociation.org/persons/2024ALHA03) |
+| 55 | 8:12.36 | [Khaled Al-Hathlool (خالد الهذلول)](https://www.worldcubeassociation.org/persons/2024ALHA03) |
 | 56 | 8:19.16 | [Alex Cook](https://www.worldcubeassociation.org/persons/2008COOK01) |
 | 57 | 8:19.88 | [Ryan Cairns](https://www.worldcubeassociation.org/persons/2019CAIR01) |
 | 58 | 8:27.28 | [Brian Acuña](https://www.worldcubeassociation.org/persons/2016ACUN04) |

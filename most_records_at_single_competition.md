@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on 31 July 2024*
+*Updated on  1 August 2024*
 
 
 ### World
@@ -561,7 +561,7 @@
 | 127 | 13 | [Gjorgji Cheshmedjievski](https://www.worldcubeassociation.org/persons/2018CHES02) | [Back To Belgrade 2021](https://www.worldcubeassociation.org/competitions/BackToBelgrade2021/results/by_person#2018CHES02) |
 | 128 | 13 | [Michael Eleftheriades](https://www.worldcubeassociation.org/persons/2017ELEF02) | [Back to İstanbul 2022](https://www.worldcubeassociation.org/competitions/BacktoIstanbul2022/results/by_person#2017ELEF02) |
 | 129 | 13 | [Joshua T. Makuwa](https://www.worldcubeassociation.org/persons/2018MAKU02) | [Southeast Championship 2023](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2023/results/by_person#2018MAKU02) |
-| 130 | 13 | [Khaled Al-Hathlool](https://www.worldcubeassociation.org/persons/2024ALHA03) | [Big & Blind & Clock Vantaa 2024](https://www.worldcubeassociation.org/competitions/BigBlindClockVantaa2024/results/by_person#2024ALHA03) |
+| 130 | 13 | [Khaled Al-Hathlool (خالد الهذلول)](https://www.worldcubeassociation.org/persons/2024ALHA03) | [Big & Blind & Clock Vantaa 2024](https://www.worldcubeassociation.org/competitions/BigBlindClockVantaa2024/results/by_person#2024ALHA03) |
 | 131 | 12 | [David Calvo Vivas](https://www.worldcubeassociation.org/persons/2005CALV02) | [Dutch Open 2007](https://www.worldcubeassociation.org/competitions/DutchOpen2007/results/by_person#2005CALV02) |
 | 132 | 12 | [Roland Kovács](https://www.worldcubeassociation.org/persons/2008KOVA03) | [Hungarian Open 2008](https://www.worldcubeassociation.org/competitions/HungarianOpen2008/results/by_person#2008KOVA03) |
 | 133 | 12 | [Gabriel Eduardo Núñez Serna](https://www.worldcubeassociation.org/persons/2008NUNE01) | [French Open 2009](https://www.worldcubeassociation.org/competitions/FrenchOpen2009/results/by_person#2008NUNE01) |

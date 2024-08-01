@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 31 July 2024*
+*Updated on  1 August 2024*
 
 | Rank | Days | Person |
 | :--- | ---: | :--- |
@@ -9,7 +9,7 @@
 | 2 | 0 | [Ziyi Xu (徐梓翼)](https://www.worldcubeassociation.org/persons/2023XUZI01) |
 | 3 | 14 | [Lichao Liu (刘立超)](https://www.worldcubeassociation.org/persons/2018LIUL05) |
 | 4 | 140 | [Zhe Wang (王哲)](https://www.worldcubeassociation.org/persons/2019WANZ21) |
-| 5 | 154 | [Khaled Al-Hathlool](https://www.worldcubeassociation.org/persons/2024ALHA03) |
+| 5 | 154 | [Khaled Al-Hathlool (خالد الهذلول)](https://www.worldcubeassociation.org/persons/2024ALHA03) |
 | 6 | 163 | [Joshua Gao](https://www.worldcubeassociation.org/persons/2023GAOJ02) |
 | 7 | 181 | [Yifan Wang (王逸帆)](https://www.worldcubeassociation.org/persons/2017WANY29) |
 | 8 | 194 | [Weijie Fang (方伟杰)](https://www.worldcubeassociation.org/persons/2018FANG10) |
