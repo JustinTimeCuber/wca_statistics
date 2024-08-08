@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on  1 August 2024*
+*Updated on  7 August 2024*
 
 
 ### Rubik's Cube
@@ -421,7 +421,7 @@
 | 97 | 37.83 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2016KOLA02) |
 | 98 | 37.84 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | [Kaohsiung Winter Open 2024](https://www.worldcubeassociation.org/competitions/KaohsiungWinterOpen2024/results/by_person#2015WANG09) |
 | 99 | 37.88 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Daegu Cold Winter 2024](https://www.worldcubeassociation.org/competitions/DaeguColdWinter2024/results/by_person#2013NAHM01) |
-| 100 | 37.89 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024/results/by_person#2019HUNG16) |
+| 100 | 37.88 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Malaysia Cube Championship 2024](https://www.worldcubeassociation.org/competitions/MalaysiaCubeChampionship2024/results/by_person#2019HUNG16) |
 
 ### 3x3x3 One-Handed
 
@@ -587,51 +587,51 @@
 | 53 | 27.39 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024/results/by_person#2019TARA09) |
 | 54 | 27.40 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Berisso al Cubo 2023](https://www.worldcubeassociation.org/competitions/BerissoAlCubo2023/results/by_person#2018LOPE22) |
 | 55 | 27.42 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Johor Big Cube Challenge 2022](https://www.worldcubeassociation.org/competitions/JohorBigCubeChallenge2022/results/by_person#2016YONG02) |
-| 56 | 27.43 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Di Tella Inspira 2024](https://www.worldcubeassociation.org/competitions/DiTellaInspira2024/results/by_person#2018LOPE22) |
-| 57 | 27.50 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Johor Big Cube Challenge 2023](https://www.worldcubeassociation.org/competitions/JohorBigCubeChallenge2023/results/by_person#2016YONG02) |
-| 58 | 27.52 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Di Tella Open v2 2023](https://www.worldcubeassociation.org/competitions/DiTellaOpenv22023/results/by_person#2018LOPE22) |
-| 59 | 27.54 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Terrazas de Mayo Cubero 2024](https://www.worldcubeassociation.org/competitions/TerrazasdeMayoCubero2024/results/by_person#2018LOPE22) |
-| 60 | 27.57 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Singapore Championship 2023](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2023/results/by_person#2016YONG02) |
-| 61 | 27.58 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Cariló Open 2022](https://www.worldcubeassociation.org/competitions/CariloOpen2022/results/by_person#2018LOPE22) |
-| 62 | 27.60 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Taiwan Championship 2022](https://www.worldcubeassociation.org/competitions/TaiwanChampionship2022/results/by_person#2016YONG02) |
-| 63 | 27.61 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [SAC 2024](https://www.worldcubeassociation.org/competitions/SAC2024/results/by_person#2018LOPE22) |
-| 64 | 27.67 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Nacionales Argentinas 2023](https://www.worldcubeassociation.org/competitions/NacionalesArgentinas2023/results/by_person#2018LOPE22) |
-| 65 | 27.68 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Di Tella Inspira 2024](https://www.worldcubeassociation.org/competitions/DiTellaInspira2024/results/by_person#2018LOPE22) |
+| 56 | 27.42 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Malaysia Cube Championship 2024](https://www.worldcubeassociation.org/competitions/MalaysiaCubeChampionship2024/results/by_person#2016YONG02) |
+| 57 | 27.43 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Di Tella Inspira 2024](https://www.worldcubeassociation.org/competitions/DiTellaInspira2024/results/by_person#2018LOPE22) |
+| 58 | 27.50 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Johor Big Cube Challenge 2023](https://www.worldcubeassociation.org/competitions/JohorBigCubeChallenge2023/results/by_person#2016YONG02) |
+| 59 | 27.52 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Di Tella Open v2 2023](https://www.worldcubeassociation.org/competitions/DiTellaOpenv22023/results/by_person#2018LOPE22) |
+| 60 | 27.54 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Terrazas de Mayo Cubero 2024](https://www.worldcubeassociation.org/competitions/TerrazasdeMayoCubero2024/results/by_person#2018LOPE22) |
+| 61 | 27.57 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Singapore Championship 2023](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2023/results/by_person#2016YONG02) |
+| 62 | 27.58 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Cariló Open 2022](https://www.worldcubeassociation.org/competitions/CariloOpen2022/results/by_person#2018LOPE22) |
+| 63 | 27.60 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Taiwan Championship 2022](https://www.worldcubeassociation.org/competitions/TaiwanChampionship2022/results/by_person#2016YONG02) |
+| 64 | 27.61 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [SAC 2024](https://www.worldcubeassociation.org/competitions/SAC2024/results/by_person#2018LOPE22) |
+| 65 | 27.67 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Nacionales Argentinas 2023](https://www.worldcubeassociation.org/competitions/NacionalesArgentinas2023/results/by_person#2018LOPE22) |
 | 66 | 27.68 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Di Tella Inspira 2024](https://www.worldcubeassociation.org/competitions/DiTellaInspira2024/results/by_person#2018LOPE22) |
-| 67 | 27.71 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Selangor Ace Cube 2023](https://www.worldcubeassociation.org/competitions/SelangorAceCube2023/results/by_person#2016YONG02) |
-| 68 | 27.72 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Singapore Special 2023](https://www.worldcubeassociation.org/competitions/SingaporeSpecial2023/results/by_person#2016YONG02) |
-| 69 | 27.72 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [ NxN Di Tella 2024](https://www.worldcubeassociation.org/competitions/NxNDiTella2024/results/by_person#2018LOPE22) |
-| 70 | 27.72 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Santa Rosa Cubea 2024](https://www.worldcubeassociation.org/competitions/SantaRosaCubea2024/results/by_person#2018LOPE22) |
-| 71 | 27.73 | [Alexei Sinyavin](https://www.worldcubeassociation.org/persons/2016SINY01) | [Apple Cider Open MA 2024](https://www.worldcubeassociation.org/competitions/AppleCiderOpenMA2024/results/by_person#2016SINY01) |
-| 72 | 27.74 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Santa Fe O'Clock 2023](https://www.worldcubeassociation.org/competitions/SantaFeOClock2023/results/by_person#2018LOPE22) |
-| 73 | 27.76 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/by_person#2015NAIN01) |
-| 74 | 27.76 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Tres Estrellas 2023](https://www.worldcubeassociation.org/competitions/TresEstrellas2023/results/by_person#2018LOPE22) |
-| 75 | 27.77 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Calentando Motores UTDT S. 2024](https://www.worldcubeassociation.org/competitions/CalentandoMotoresUTDTS2024/results/by_person#2018LOPE22) |
-| 76 | 27.77 | [Alexander Vujcich](https://www.worldcubeassociation.org/persons/2019VUJC01) | [Australian Nationals 2024](https://www.worldcubeassociation.org/competitions/AustralianNationals2024/results/by_person#2019VUJC01) |
-| 77 | 27.78 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Santa Rosa Cubea 2024](https://www.worldcubeassociation.org/competitions/SantaRosaCubea2024/results/by_person#2018LOPE22) |
-| 78 | 27.80 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | [Westchester Weeknights 1 2023](https://www.worldcubeassociation.org/competitions/WestchesterWeeknights12023/results/by_person#2015NAIN01) |
-| 79 | 27.80 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Santa Fe Cubea 2023](https://www.worldcubeassociation.org/competitions/SantaFeCubea2023/results/by_person#2018LOPE22) |
-| 80 | 27.82 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2015NAIN01) |
-| 81 | 27.82 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Penang Cube Masters 2023](https://www.worldcubeassociation.org/competitions/PenangCubeMasters2023/results/by_person#2016YONG02) |
-| 82 | 27.83 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Medan Speedcubing Festival 2023](https://www.worldcubeassociation.org/competitions/MedanSpeedcubingFestival2023/results/by_person#2016YONG02) |
-| 83 | 27.84 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Santa Fe O'Clock 2023](https://www.worldcubeassociation.org/competitions/SantaFeOClock2023/results/by_person#2018LOPE22) |
-| 84 | 27.86 | [Alexei Sinyavin](https://www.worldcubeassociation.org/persons/2016SINY01) | [North Jersey Speedsolving B 2024](https://www.worldcubeassociation.org/competitions/NorthJerseySpeedsolvingB2024/results/by_person#2016SINY01) |
-| 85 | 27.87 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | [Nanchang Spring 2024](https://www.worldcubeassociation.org/competitions/NanchangSpring2024/results/by_person#2016WUZI04) |
-| 86 | 27.88 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Singapore Special 2024](https://www.worldcubeassociation.org/competitions/SingaporeSpecial2024/results/by_person#2016YONG02) |
-| 87 | 27.90 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Nacionales Argentinas 2023](https://www.worldcubeassociation.org/competitions/NacionalesArgentinas2023/results/by_person#2018LOPE22) |
-| 88 | 27.93 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | [Cardinal Cube Day 2024](https://www.worldcubeassociation.org/competitions/CardinalCubeDay2024/results/by_person#2015NAIN01) |
-| 89 | 27.93 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [MYHM Singapore Championship 2024](https://www.worldcubeassociation.org/competitions/MYHMSingaporeChampionship2024/results/by_person#2016YONG02) |
-| 90 | 27.94 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Río Cuarto al Cubo 2023](https://www.worldcubeassociation.org/competitions/RioCuartoalCubo2023/results/by_person#2018LOPE22) |
-| 91 | 27.94 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [ NxN Di Tella 2024](https://www.worldcubeassociation.org/competitions/NxNDiTella2024/results/by_person#2018LOPE22) |
-| 92 | 27.95 | [Alexei Sinyavin](https://www.worldcubeassociation.org/persons/2016SINY01) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2016SINY01) |
-| 93 | 27.96 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/by_person#2019TARA09) |
-| 94 | 27.98 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Johor Special 2024](https://www.worldcubeassociation.org/competitions/JohorSpecial2024/results/by_person#2016YONG02) |
-| 95 | 27.99 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/by_person#2015NAIN01) |
-| 96 | 27.99 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Singapore Sides Standoff 2024](https://www.worldcubeassociation.org/competitions/SingaporeSidesStandoff2024/results/by_person#2016YONG02) |
-| 97 | 27.99 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [ NxN Di Tella 2024](https://www.worldcubeassociation.org/competitions/NxNDiTella2024/results/by_person#2018LOPE22) |
-| 98 | 28.00 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | [Chengdu Summer 2024](https://www.worldcubeassociation.org/competitions/ChengduSummer2024/results/by_person#2016WUZI04) |
-| 99 | 28.01 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Mega Open Ciudadela 2022](https://www.worldcubeassociation.org/competitions/MegaOpenCiudadela2022/results/by_person#2018LOPE22) |
-| 100 | 28.01 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Nacionales Argentinas 2022](https://www.worldcubeassociation.org/competitions/NacionalesArgentinas2022/results/by_person#2018LOPE22) |
+| 67 | 27.68 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Di Tella Inspira 2024](https://www.worldcubeassociation.org/competitions/DiTellaInspira2024/results/by_person#2018LOPE22) |
+| 68 | 27.71 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Selangor Ace Cube 2023](https://www.worldcubeassociation.org/competitions/SelangorAceCube2023/results/by_person#2016YONG02) |
+| 69 | 27.72 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Singapore Special 2023](https://www.worldcubeassociation.org/competitions/SingaporeSpecial2023/results/by_person#2016YONG02) |
+| 70 | 27.72 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [ NxN Di Tella 2024](https://www.worldcubeassociation.org/competitions/NxNDiTella2024/results/by_person#2018LOPE22) |
+| 71 | 27.72 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Santa Rosa Cubea 2024](https://www.worldcubeassociation.org/competitions/SantaRosaCubea2024/results/by_person#2018LOPE22) |
+| 72 | 27.73 | [Alexei Sinyavin](https://www.worldcubeassociation.org/persons/2016SINY01) | [Apple Cider Open MA 2024](https://www.worldcubeassociation.org/competitions/AppleCiderOpenMA2024/results/by_person#2016SINY01) |
+| 73 | 27.74 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Santa Fe O'Clock 2023](https://www.worldcubeassociation.org/competitions/SantaFeOClock2023/results/by_person#2018LOPE22) |
+| 74 | 27.76 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/by_person#2015NAIN01) |
+| 75 | 27.76 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Tres Estrellas 2023](https://www.worldcubeassociation.org/competitions/TresEstrellas2023/results/by_person#2018LOPE22) |
+| 76 | 27.77 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Calentando Motores UTDT S. 2024](https://www.worldcubeassociation.org/competitions/CalentandoMotoresUTDTS2024/results/by_person#2018LOPE22) |
+| 77 | 27.77 | [Alexander Vujcich](https://www.worldcubeassociation.org/persons/2019VUJC01) | [Australian Nationals 2024](https://www.worldcubeassociation.org/competitions/AustralianNationals2024/results/by_person#2019VUJC01) |
+| 78 | 27.78 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Santa Rosa Cubea 2024](https://www.worldcubeassociation.org/competitions/SantaRosaCubea2024/results/by_person#2018LOPE22) |
+| 79 | 27.80 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | [Westchester Weeknights 1 2023](https://www.worldcubeassociation.org/competitions/WestchesterWeeknights12023/results/by_person#2015NAIN01) |
+| 80 | 27.80 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Santa Fe Cubea 2023](https://www.worldcubeassociation.org/competitions/SantaFeCubea2023/results/by_person#2018LOPE22) |
+| 81 | 27.82 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2015NAIN01) |
+| 82 | 27.82 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Penang Cube Masters 2023](https://www.worldcubeassociation.org/competitions/PenangCubeMasters2023/results/by_person#2016YONG02) |
+| 83 | 27.83 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Medan Speedcubing Festival 2023](https://www.worldcubeassociation.org/competitions/MedanSpeedcubingFestival2023/results/by_person#2016YONG02) |
+| 84 | 27.84 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Santa Fe O'Clock 2023](https://www.worldcubeassociation.org/competitions/SantaFeOClock2023/results/by_person#2018LOPE22) |
+| 85 | 27.86 | [Alexei Sinyavin](https://www.worldcubeassociation.org/persons/2016SINY01) | [North Jersey Speedsolving B 2024](https://www.worldcubeassociation.org/competitions/NorthJerseySpeedsolvingB2024/results/by_person#2016SINY01) |
+| 86 | 27.87 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | [Nanchang Spring 2024](https://www.worldcubeassociation.org/competitions/NanchangSpring2024/results/by_person#2016WUZI04) |
+| 87 | 27.88 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Singapore Special 2024](https://www.worldcubeassociation.org/competitions/SingaporeSpecial2024/results/by_person#2016YONG02) |
+| 88 | 27.90 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Nacionales Argentinas 2023](https://www.worldcubeassociation.org/competitions/NacionalesArgentinas2023/results/by_person#2018LOPE22) |
+| 89 | 27.93 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | [Cardinal Cube Day 2024](https://www.worldcubeassociation.org/competitions/CardinalCubeDay2024/results/by_person#2015NAIN01) |
+| 90 | 27.93 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [MYHM Singapore Championship 2024](https://www.worldcubeassociation.org/competitions/MYHMSingaporeChampionship2024/results/by_person#2016YONG02) |
+| 91 | 27.94 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Río Cuarto al Cubo 2023](https://www.worldcubeassociation.org/competitions/RioCuartoalCubo2023/results/by_person#2018LOPE22) |
+| 92 | 27.94 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [ NxN Di Tella 2024](https://www.worldcubeassociation.org/competitions/NxNDiTella2024/results/by_person#2018LOPE22) |
+| 93 | 27.95 | [Alexei Sinyavin](https://www.worldcubeassociation.org/persons/2016SINY01) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2016SINY01) |
+| 94 | 27.96 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/by_person#2019TARA09) |
+| 95 | 27.98 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Johor Special 2024](https://www.worldcubeassociation.org/competitions/JohorSpecial2024/results/by_person#2016YONG02) |
+| 96 | 27.99 | [Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01) | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/by_person#2015NAIN01) |
+| 97 | 27.99 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Singapore Sides Standoff 2024](https://www.worldcubeassociation.org/competitions/SingaporeSidesStandoff2024/results/by_person#2016YONG02) |
+| 98 | 27.99 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [ NxN Di Tella 2024](https://www.worldcubeassociation.org/competitions/NxNDiTella2024/results/by_person#2018LOPE22) |
+| 99 | 28.00 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | [Chengdu Summer 2024](https://www.worldcubeassociation.org/competitions/ChengduSummer2024/results/by_person#2016WUZI04) |
+| 100 | 28.01 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Mega Open Ciudadela 2022](https://www.worldcubeassociation.org/competitions/MegaOpenCiudadela2022/results/by_person#2018LOPE22) |
 
 ### Pyraminx
 
