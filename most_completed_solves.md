@@ -94,7 +94,7 @@
 | 85 | [YJ Malaysia Cube Open 2022](https://www.worldcubeassociation.org/competitions/YJMalaysiaCubeOpen2022) | **9080** | 9460 |
 | 86 | [New Jersey Championship 2024](https://www.worldcubeassociation.org/competitions/NewJerseyChampionship2024) | **9059** | 9337 |
 | 87 | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023) | **9010** | 9405 |
-| 88 | [Bay Area Speedcubin' 63 2024](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin632024) | **8956** | 9424 |
+| 88 | [Bay Area Speedcubin' 63 2024](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin632024) | **8952** | 9424 |
 | 89 | [Malaysia Cube Championship 2019](https://www.worldcubeassociation.org/competitions/MalaysiaCubeChampionship2019) | **8935** | 9378 |
 | 90 | [Norwegian Championship 2022](https://www.worldcubeassociation.org/competitions/NorwegianChampionship2022) | **8913** | 9390 |
 | 91 | [German Nationals 2022](https://www.worldcubeassociation.org/competitions/GermanNationals2022) | **8841** | 9278 |
@@ -272,7 +272,7 @@
 | 58 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) | **8869** | 8981 |
 | 59 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) | **8822** | 9128 |
 | 60 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) | **8716** | 9420 |
-| 61 | [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) | **8451** | 8940 |
+| 61 | [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) | **8450** | 8940 |
 | 62 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | **8444** | 8640 |
 | 63 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | **8326** | 8813 |
 | 64 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | **8276** | 9034 |
@@ -417,11 +417,11 @@
 
 | Rank |  | Solves | Attempts |
 | :--- | :--- | ---: | ---: |
-| 1 | United States | **4552758** | 4771274 |
+| 1 | United States | **4552754** | 4771274 |
 | 2 | China | **1294709** | 1358141 |
 | 3 | Poland | **1011818** | 1064817 |
-| 4 | India | **844708** | 888930 |
-| 5 | Australia | **835626** | 880906 |
+| 4 | India | **845913** | 890219 |
+| 5 | Australia | **837338** | 882803 |
 | 6 | United Kingdom | **753951** | 793222 |
 | 7 | Spain | **739730** | 775177 |
 | 8 | Germany | **640040** | 670059 |
@@ -431,7 +431,7 @@
 | 12 | Russia | **430990** | 455777 |
 | 13 | Colombia | **408243** | 428911 |
 | 14 | Sweden | **399177** | 419981 |
-| 15 | Philippines | **364063** | 378413 |
+| 15 | Philippines | **364868** | 379263 |
 | 16 | Italy | **353425** | 372026 |
 | 17 | Mexico | **296869** | 309634 |
 | 18 | Chinese Taipei | **294002** | 302989 |
@@ -471,7 +471,7 @@
 | 52 | Iran | **55735** | 58484 |
 | 53 | Mongolia | **54983** | 57592 |
 | 54 | Ecuador | **53306** | 55399 |
-| 55 | Venezuela | **49503** | 51665 |
+| 55 | Venezuela | **50123** | 52319 |
 | 56 | Greece | **49435** | 51631 |
 | 57 | Uruguay | **42270** | 44631 |
 | 58 | Croatia | **42245** | 43807 |
@@ -542,10 +542,10 @@
 | Rank |  | Solves | Attempts |
 | :--- | :--- | ---: | ---: |
 | 1 | Europe | **7908931** | 8301259 |
-| 2 | North America | **5648256** | 5913702 |
-| 3 | Asia | **4336522** | 4543063 |
-| 4 | South America | **1725800** | 1806373 |
-| 5 | Oceania | **1030966** | 1085902 |
+| 2 | North America | **5648252** | 5913702 |
+| 3 | Asia | **4338532** | 4545202 |
+| 4 | South America | **1726420** | 1807027 |
+| 5 | Oceania | **1032678** | 1087799 |
 | 6 | Africa | **121952** | 127547 |
 | 7 | Multiple Continents | **3692** | 4915 |
 
@@ -554,7 +554,7 @@
 | Rank |  | Solves | Attempts |
 | :--- | :--- | ---: | ---: |
 | 1 | 2023 | **3999326** | 4182910 |
-| 2 | 2024 | **2852340** | 2982103 |
+| 2 | 2024 | **2856678** | 2986793 |
 | 3 | 2019 | **2537001** | 2656542 |
 | 4 | 2018 | **2218489** | 2324549 |
 | 5 | 2022 | **2118016** | 2217446 |
@@ -581,26 +581,26 @@
 
 | Rank |  | Solves | Attempts |
 | :--- | :--- | ---: | ---: |
-| 1 | 3x3x3 Cube | **6427648** | 6568314 |
-| 2 | 2x2x2 Cube | **3607917** | 3700886 |
-| 3 | Pyraminx | **2297466** | 2358551 |
-| 4 | 4x4x4 Cube | **1840856** | 1912601 |
+| 1 | 3x3x3 Cube | **6428967** | 6569679 |
+| 2 | 2x2x2 Cube | **3608330** | 3701311 |
+| 3 | Pyraminx | **2298246** | 2359355 |
+| 4 | 4x4x4 Cube | **1841372** | 1913134 |
 | 5 | 3x3x3 One-Handed | **1699285** | 1756490 |
-| 6 | Skewb | **1438923** | 1476544 |
-| 7 | 5x5x5 Cube | **942290** | 972514 |
-| 8 | Megaminx | **612455** | 640108 |
-| 9 | Square-1 | **568179** | 593049 |
-| 10 | Clock | **509589** | 589819 |
-| 11 | 6x6x6 Cube | **217135** | 225411 |
-| 12 | 7x7x7 Cube | **177427** | 185509 |
-| 13 | 3x3x3 Blindfolded | **140129** | 386265 |
+| 6 | Skewb | **1439145** | 1476774 |
+| 7 | 5x5x5 Cube | **942358** | 972587 |
+| 8 | Megaminx | **612664** | 640327 |
+| 9 | Square-1 | **568261** | 593134 |
+| 10 | Clock | **509950** | 590234 |
+| 11 | 6x6x6 Cube | **217303** | 225587 |
+| 12 | 7x7x7 Cube | **177533** | 185624 |
+| 13 | 3x3x3 Blindfolded | **140198** | 386421 |
 | 14 | 3x3x3 Fewest Moves | **87113** | 121492 |
 | 15 | Magic | **78268** | 86498 |
 | 16 | 3x3x3 With Feet | **51884** | 56650 |
 | 17 | Master Magic | **39964** | 41445 |
-| 18 | 3x3x3 Multi-Blind | **22017** | 38069 |
-| 19 | 4x4x4 Blindfolded | **12215** | 47340 |
-| 20 | 5x5x5 Blindfolded | **4954** | 24615 |
+| 18 | 3x3x3 Multi-Blind | **22030** | 38094 |
+| 19 | 4x4x4 Blindfolded | **12221** | 47373 |
+| 20 | 5x5x5 Blindfolded | **4960** | 24651 |
 | 21 | 3x3x3 Multi-Blind Old Style | **405** | 591 |
 
 

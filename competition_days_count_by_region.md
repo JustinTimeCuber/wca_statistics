@@ -7,18 +7,18 @@
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.47 | World | 12812 |
+| 1 | 1.47 | World | 12819 |
 
 ### Continents
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
 | 1 | 1.73 | Europe | 4165 |
-| 2 | 1.50 | South America | 1569 |
+| 2 | 1.50 | South America | 1570 |
 | 3 | 1.47 | Oceania | 563 |
-| 4 | 1.41 | Asia | 2772 |
+| 4 | 1.41 | Asia | 2774 |
 | 5 | 1.30 | Africa | 147 |
-| 6 | 1.20 | North America | 3596 |
+| 6 | 1.20 | North America | 3600 |
 
 ### Countries
 
@@ -47,7 +47,7 @@
 | 21 | 1.85 | Croatia | 26 |
 | 22 | 1.84 | Thailand | 63 |
 | 23 | 1.82 | Sri Lanka | 11 |
-| 24 | 1.80 | Mexico | 161 |
+| 24 | 1.80 | Mexico | 162 |
 | 25 | 1.77 | Iceland | 13 |
 | 26 | 1.77 | Guatemala | 56 |
 | 27 | 1.76 | Slovenia | 34 |
@@ -91,10 +91,10 @@
 | 65 | 1.42 | Israel | 53 |
 | 66 | 1.40 | Romania | 121 |
 | 67 | 1.38 | Estonia | 61 |
-| 68 | 1.36 | Vietnam | 66 |
-| 69 | 1.35 | Paraguay | 31 |
-| 70 | 1.35 | Chinese Taipei | 142 |
-| 71 | 1.34 | Ecuador | 50 |
+| 68 | 1.37 | Ecuador | 51 |
+| 69 | 1.36 | Vietnam | 66 |
+| 70 | 1.35 | Paraguay | 31 |
+| 71 | 1.35 | Chinese Taipei | 142 |
 | 72 | 1.33 | Tajikistan | 3 |
 | 73 | 1.32 | Colombia | 333 |
 | 74 | 1.32 | Panama | 19 |
@@ -112,11 +112,11 @@
 | 86 | 1.25 | China | 649 |
 | 87 | 1.22 | Bahrain | 9 |
 | 88 | 1.22 | Kuwait | 9 |
-| 89 | 1.21 | Japan | 228 |
+| 89 | 1.20 | Japan | 230 |
 | 90 | 1.19 | Mongolia | 32 |
 | 91 | 1.18 | El Salvador | 33 |
 | 92 | 1.17 | Tunisia | 24 |
-| 93 | 1.16 | United States | 2888 |
+| 93 | 1.16 | United States | 2891 |
 | 94 | 1.16 | Canada | 368 |
 | 95 | 1.13 | Azerbaijan | 45 |
 | 96 | 1.12 | Honduras | 17 |

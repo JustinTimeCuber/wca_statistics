@@ -386,27 +386,27 @@
 | 379 | 38 | [Daniel Sartori](https://www.worldcubeassociation.org/persons/2019SART01) |
 | 380 | 38 | [Vladislavs Baranovs](https://www.worldcubeassociation.org/persons/2012BARA03) |
 | 381 | 38 | [Olli Vikstedt](https://www.worldcubeassociation.org/persons/2014VIKS01) |
-| 382 | 38 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) |
-| 383 | 38 | [Jonah Crosby](https://www.worldcubeassociation.org/persons/2012CROS01) |
-| 384 | 37 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) |
-| 385 | 37 | [Jerónimo Ibarra Bernal](https://www.worldcubeassociation.org/persons/2010IBAR01) |
-| 386 | 37 | [Phillip Lewicki](https://www.worldcubeassociation.org/persons/2012LEWI01) |
-| 387 | 37 | [Dan Dzoan](https://www.worldcubeassociation.org/persons/2006DZOA03) |
-| 388 | 37 | [Levi Gibson](https://www.worldcubeassociation.org/persons/2018GIBS04) |
-| 389 | 37 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) |
-| 390 | 37 | [Julián García Sánchez](https://www.worldcubeassociation.org/persons/2014SANC28) |
-| 391 | 37 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) |
-| 392 | 37 | [Kate Grahame](https://www.worldcubeassociation.org/persons/2018GRAH05) |
-| 393 | 37 | [Pedro Luis Mamani Suclla](https://www.worldcubeassociation.org/persons/2015SUCL01) |
-| 394 | 37 | [Kuo-Hau Wu (吳國豪)](https://www.worldcubeassociation.org/persons/2008WUKU01) |
-| 395 | 37 | [David Stiven Benitez Guerra](https://www.worldcubeassociation.org/persons/2014GUER06) |
-| 396 | 37 | [Victor Colin](https://www.worldcubeassociation.org/persons/2013COLI02) |
-| 397 | 37 | [Shuhei Omura (大村周平)](https://www.worldcubeassociation.org/persons/2007OMUR01) |
-| 398 | 37 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) |
-| 399 | 37 | [Daniel Guardado Cabral](https://www.worldcubeassociation.org/persons/2014CABR07) |
-| 400 | 37 | [Rami Sbahi](https://www.worldcubeassociation.org/persons/2011SBAH01) |
-| 401 | 37 | [Zachary Ochs](https://www.worldcubeassociation.org/persons/2016OCHS01) |
-| 402 | 37 | [Vivek Prasad Mada](https://www.worldcubeassociation.org/persons/2012MADA01) |
+| 382 | 38 | [Vivek Prasad Mada](https://www.worldcubeassociation.org/persons/2012MADA01) |
+| 383 | 38 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) |
+| 384 | 38 | [Jonah Crosby](https://www.worldcubeassociation.org/persons/2012CROS01) |
+| 385 | 37 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) |
+| 386 | 37 | [Jerónimo Ibarra Bernal](https://www.worldcubeassociation.org/persons/2010IBAR01) |
+| 387 | 37 | [Phillip Lewicki](https://www.worldcubeassociation.org/persons/2012LEWI01) |
+| 388 | 37 | [Dan Dzoan](https://www.worldcubeassociation.org/persons/2006DZOA03) |
+| 389 | 37 | [Levi Gibson](https://www.worldcubeassociation.org/persons/2018GIBS04) |
+| 390 | 37 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) |
+| 391 | 37 | [Julián García Sánchez](https://www.worldcubeassociation.org/persons/2014SANC28) |
+| 392 | 37 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) |
+| 393 | 37 | [Kate Grahame](https://www.worldcubeassociation.org/persons/2018GRAH05) |
+| 394 | 37 | [Pedro Luis Mamani Suclla](https://www.worldcubeassociation.org/persons/2015SUCL01) |
+| 395 | 37 | [Kuo-Hau Wu (吳國豪)](https://www.worldcubeassociation.org/persons/2008WUKU01) |
+| 396 | 37 | [David Stiven Benitez Guerra](https://www.worldcubeassociation.org/persons/2014GUER06) |
+| 397 | 37 | [Victor Colin](https://www.worldcubeassociation.org/persons/2013COLI02) |
+| 398 | 37 | [Shuhei Omura (大村周平)](https://www.worldcubeassociation.org/persons/2007OMUR01) |
+| 399 | 37 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) |
+| 400 | 37 | [Daniel Guardado Cabral](https://www.worldcubeassociation.org/persons/2014CABR07) |
+| 401 | 37 | [Rami Sbahi](https://www.worldcubeassociation.org/persons/2011SBAH01) |
+| 402 | 37 | [Zachary Ochs](https://www.worldcubeassociation.org/persons/2016OCHS01) |
 | 403 | 37 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) |
 | 404 | 37 | [Daniel Cano Salgado](https://www.worldcubeassociation.org/persons/2011SALG01) |
 | 405 | 37 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
