@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on 19 August 2024*
+*Updated on 22 August 2024*
 
 | Rank | Days | Person |
 | :--- | ---: | :--- |
@@ -14,7 +14,7 @@
 | 7 | 496 | [Yifan Wang (王逸帆)](https://www.worldcubeassociation.org/persons/2017WANY29) |
 | 8 | 665 | [Jason White](https://www.worldcubeassociation.org/persons/2016WHIT16) |
 | 9 | 707 | [János Csontos](https://www.worldcubeassociation.org/persons/2022CSON01) |
-| 10 | 861 | [Sora Chui Man Kit (徐文杰)](https://www.worldcubeassociation.org/persons/2016XUWE02) |
+| 10 | 861 | [Sora Wenjie Xu (徐文杰)](https://www.worldcubeassociation.org/persons/2016XUWE02) |
 | 11 | 868 | [Angelo Melera](https://www.worldcubeassociation.org/persons/2022MELE01) |
 | 12 | 910 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |
 | 13 | 917 | [Cedric Meysing](https://www.worldcubeassociation.org/persons/2017MEYS02) |
