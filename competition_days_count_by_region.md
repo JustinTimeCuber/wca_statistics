@@ -7,7 +7,7 @@
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.47 | World | 12913 |
+| 1 | 1.47 | World | 12914 |
 
 ### Continents
 
@@ -18,7 +18,7 @@
 | 3 | 1.47 | Oceania | 568 |
 | 4 | 1.41 | Asia | 2788 |
 | 5 | 1.30 | Africa | 147 |
-| 6 | 1.20 | North America | 3633 |
+| 6 | 1.20 | North America | 3634 |
 
 ### Countries
 
@@ -117,7 +117,7 @@
 | 91 | 1.18 | El Salvador | 34 |
 | 92 | 1.17 | Canada | 371 |
 | 93 | 1.17 | Tunisia | 24 |
-| 94 | 1.16 | United States | 2918 |
+| 94 | 1.16 | United States | 2919 |
 | 95 | 1.13 | Azerbaijan | 45 |
 | 96 | 1.12 | Honduras | 17 |
 | 97 | 1.10 | Armenia | 10 |

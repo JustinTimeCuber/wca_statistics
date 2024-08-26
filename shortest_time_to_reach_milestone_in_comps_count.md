@@ -775,8 +775,8 @@
 | 24 | 143 | [Juan David Blanco Sanabria](https://www.worldcubeassociation.org/persons/2023SANA04) |
 | 25 | 148 | [Sai Mrudhun (சாய் மிருதுன்)](https://www.worldcubeassociation.org/persons/2017MRUD01) |
 | 26 | 148 | [Paul Galioto](https://www.worldcubeassociation.org/persons/2018GALI12) |
-| 27 | 148 | [Agastya Kora](https://www.worldcubeassociation.org/persons/2023KORA01) |
-| 28 | 148 | [Ashrith Kora](https://www.worldcubeassociation.org/persons/2023KORA02) |
+| 27 | 148 | [Ashrith Kora](https://www.worldcubeassociation.org/persons/2023KORA02) |
+| 28 | 148 | [Agastya Kora](https://www.worldcubeassociation.org/persons/2023KORA01) |
 | 29 | 148 | [Juan Jose Reina Ospina](https://www.worldcubeassociation.org/persons/2023OSPI03) |
 | 30 | 148 | [Martin Bygdell](https://www.worldcubeassociation.org/persons/2024BYGD01) |
 | 31 | 149 | [Rahul Bollini](https://www.worldcubeassociation.org/persons/2023BOLL01) |

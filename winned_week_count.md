@@ -44,13 +44,13 @@
 | 34 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) | 6 |
 | 35 | [Paolo Moriello](https://www.worldcubeassociation.org/persons/2009MORI05) | 6 |
 | 36 | [Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68) | 6 |
-| 37 | [Kanneti Sae Han (คันธ์เนตี แซ่ห่าน)](https://www.worldcubeassociation.org/persons/2008HANK01) | 5 |
-| 38 | [Leon Schmidtchen](https://www.worldcubeassociation.org/persons/2010SCHM01) | 5 |
-| 39 | [Sei Sugama (洲鎌星)](https://www.worldcubeassociation.org/persons/2010SUGA01) | 5 |
-| 40 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) | 5 |
-| 41 | [Alexandre Carlier](https://www.worldcubeassociation.org/persons/2012CARL03) | 5 |
-| 42 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | 5 |
-| 43 | [Dylan Miller](https://www.worldcubeassociation.org/persons/2015MILL01) | 5 |
+| 37 | [Dylan Miller](https://www.worldcubeassociation.org/persons/2015MILL01) | 6 |
+| 38 | [Kanneti Sae Han (คันธ์เนตี แซ่ห่าน)](https://www.worldcubeassociation.org/persons/2008HANK01) | 5 |
+| 39 | [Leon Schmidtchen](https://www.worldcubeassociation.org/persons/2010SCHM01) | 5 |
+| 40 | [Sei Sugama (洲鎌星)](https://www.worldcubeassociation.org/persons/2010SUGA01) | 5 |
+| 41 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) | 5 |
+| 42 | [Alexandre Carlier](https://www.worldcubeassociation.org/persons/2012CARL03) | 5 |
+| 43 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | 5 |
 | 44 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | 5 |
 | 45 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) | 4 |
 | 46 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) | 4 |

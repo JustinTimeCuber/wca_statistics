@@ -20,7 +20,7 @@
 | 13 | 150 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 14 | 147 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 15 | 142 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
-| 16 | 122 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
+| 16 | 125 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
 | 17 | 121 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) |
 | 18 | 119 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
 | 19 | 118 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
@@ -126,11 +126,11 @@
 | 119 | 69 | [Asia Konvittayayotin (เอเชีย กรวิทยโยธิน)](https://www.worldcubeassociation.org/persons/2009KONV01) |
 | 120 | 69 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) |
 | 121 | 69 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) |
-| 122 | 68 | [Federico da Fonseca](https://www.worldcubeassociation.org/persons/2015FONS02) |
-| 123 | 68 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) |
-| 124 | 68 | [Leon Schmidtchen](https://www.worldcubeassociation.org/persons/2010SCHM01) |
-| 125 | 68 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) |
-| 126 | 67 | [Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03) |
+| 122 | 68 | [Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03) |
+| 123 | 68 | [Federico da Fonseca](https://www.worldcubeassociation.org/persons/2015FONS02) |
+| 124 | 68 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) |
+| 125 | 68 | [Leon Schmidtchen](https://www.worldcubeassociation.org/persons/2010SCHM01) |
+| 126 | 68 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) |
 | 127 | 67 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) |
 | 128 | 67 | [Michael Andres Castillo Lemus](https://www.worldcubeassociation.org/persons/2011CAST02) |
 | 129 | 66 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) |
