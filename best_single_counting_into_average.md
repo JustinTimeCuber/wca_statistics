@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 31 August 2024*
+*Updated on  1 September 2024*
 
 
 ### Rubik's Cube
@@ -195,22 +195,22 @@
 | 81 | 0.95 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Shenyang Spring 2024](https://www.worldcubeassociation.org/competitions/ShenyangSpring2024/results/by_person#2019WANY36) |
 | 82 | 0.95 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Philippine Championship 2024](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2024/results/by_person#2019WANY36) |
 | 83 | 0.95 | [Curtis Chai](https://www.worldcubeassociation.org/persons/2022CHAI02) | [Missouri Championship 2024](https://www.worldcubeassociation.org/competitions/MissouriChampionship2024/results/by_person#2022CHAI02) |
-| 84 | 0.95 | [Emanuel Schelin](https://www.worldcubeassociation.org/persons/2022SCHE13) | [Kublördag Jönköping III - 2024](https://www.worldcubeassociation.org/competitions/KublordagJonkopingIII2024/results/by_person#2022SCHE13) |
-| 85 | 0.96 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | [Móstoles Open 2024](https://www.worldcubeassociation.org/competitions/MostolesOpen2024/results/by_person#2012PATE01) |
-| 86 | 0.96 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Swedish Championship 2021](https://www.worldcubeassociation.org/competitions/SwedishChampionship2021/results/by_person#2018KHAN28) |
-| 87 | 0.96 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Pittsburgh Fall 2021](https://www.worldcubeassociation.org/competitions/PittsburghFall2021/results/by_person#2018KHAN28) |
-| 88 | 0.96 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Pioneer Valley Cubing B 2023](https://www.worldcubeassociation.org/competitions/PioneerValleyCubingB2023/results/by_person#2018KHAN28) |
-| 89 | 0.96 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [CMT Grand Junction 2023](https://www.worldcubeassociation.org/competitions/CMTGrandJunction2023/results/by_person#2018KHAN28) |
-| 90 | 0.96 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Mid-Atlantic Championship 2023](https://www.worldcubeassociation.org/competitions/MidAtlanticChampionship2023/results/by_person#2018KHAN28) |
-| 91 | 0.96 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [It's About Time Bloomsburg 2024](https://www.worldcubeassociation.org/competitions/ItsAboutTimeBloomsburg2024/results/by_person#2018KHAN28) |
-| 92 | 0.96 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Philippine Championship 2024](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2024/results/by_person#2019WANY36) |
-| 93 | 0.96 | [Nigel Phang](https://www.worldcubeassociation.org/persons/2022PHAN03) | [Singapore Sprint 2024](https://www.worldcubeassociation.org/competitions/SingaporeSprint2024/results/by_person#2022PHAN03) |
-| 94 | 0.97 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Bluegrass Spring 2022](https://www.worldcubeassociation.org/competitions/BluegrassSpring2022/results/by_person#2018KHAN28) |
-| 95 | 0.97 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Pioneer Valley Cubing B 2023](https://www.worldcubeassociation.org/competitions/PioneerValleyCubingB2023/results/by_person#2018KHAN28) |
-| 96 | 0.97 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Mid-Atlantic Championship 2023](https://www.worldcubeassociation.org/competitions/MidAtlanticChampionship2023/results/by_person#2018KHAN28) |
-| 97 | 0.97 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Medan Speedcubing Festival 2023](https://www.worldcubeassociation.org/competitions/MedanSpeedcubingFestival2023/results/by_person#2019WANY36) |
-| 98 | 0.97 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Sunway Velocity Mall Open 2024](https://www.worldcubeassociation.org/competitions/SunwayVelocityMallOpen2024/results/by_person#2019WANY36) |
-| 99 | 0.97 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Johor Cube Open 2024](https://www.worldcubeassociation.org/competitions/JohorCubeOpen2024/results/by_person#2019WANY36) |
+| 84 | 0.95 | [Nigel Phang](https://www.worldcubeassociation.org/persons/2022PHAN03) | [Mofunland Speedcubing SG 2024](https://www.worldcubeassociation.org/competitions/MofunlandSpeedcubingSG2024/results/by_person#2022PHAN03) |
+| 85 | 0.95 | [Emanuel Schelin](https://www.worldcubeassociation.org/persons/2022SCHE13) | [Kublördag Jönköping III - 2024](https://www.worldcubeassociation.org/competitions/KublordagJonkopingIII2024/results/by_person#2022SCHE13) |
+| 86 | 0.96 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | [Móstoles Open 2024](https://www.worldcubeassociation.org/competitions/MostolesOpen2024/results/by_person#2012PATE01) |
+| 87 | 0.96 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Swedish Championship 2021](https://www.worldcubeassociation.org/competitions/SwedishChampionship2021/results/by_person#2018KHAN28) |
+| 88 | 0.96 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Pittsburgh Fall 2021](https://www.worldcubeassociation.org/competitions/PittsburghFall2021/results/by_person#2018KHAN28) |
+| 89 | 0.96 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Pioneer Valley Cubing B 2023](https://www.worldcubeassociation.org/competitions/PioneerValleyCubingB2023/results/by_person#2018KHAN28) |
+| 90 | 0.96 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [CMT Grand Junction 2023](https://www.worldcubeassociation.org/competitions/CMTGrandJunction2023/results/by_person#2018KHAN28) |
+| 91 | 0.96 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Mid-Atlantic Championship 2023](https://www.worldcubeassociation.org/competitions/MidAtlanticChampionship2023/results/by_person#2018KHAN28) |
+| 92 | 0.96 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [It's About Time Bloomsburg 2024](https://www.worldcubeassociation.org/competitions/ItsAboutTimeBloomsburg2024/results/by_person#2018KHAN28) |
+| 93 | 0.96 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Philippine Championship 2024](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2024/results/by_person#2019WANY36) |
+| 94 | 0.96 | [Nigel Phang](https://www.worldcubeassociation.org/persons/2022PHAN03) | [Singapore Sprint 2024](https://www.worldcubeassociation.org/competitions/SingaporeSprint2024/results/by_person#2022PHAN03) |
+| 95 | 0.97 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Bluegrass Spring 2022](https://www.worldcubeassociation.org/competitions/BluegrassSpring2022/results/by_person#2018KHAN28) |
+| 96 | 0.97 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Pioneer Valley Cubing B 2023](https://www.worldcubeassociation.org/competitions/PioneerValleyCubingB2023/results/by_person#2018KHAN28) |
+| 97 | 0.97 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Mid-Atlantic Championship 2023](https://www.worldcubeassociation.org/competitions/MidAtlanticChampionship2023/results/by_person#2018KHAN28) |
+| 98 | 0.97 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Medan Speedcubing Festival 2023](https://www.worldcubeassociation.org/competitions/MedanSpeedcubingFestival2023/results/by_person#2019WANY36) |
+| 99 | 0.97 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Sunway Velocity Mall Open 2024](https://www.worldcubeassociation.org/competitions/SunwayVelocityMallOpen2024/results/by_person#2019WANY36) |
 | 100 | 0.97 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Johor Cube Open 2024](https://www.worldcubeassociation.org/competitions/JohorCubeOpen2024/results/by_person#2019WANY36) |
 
 ### 4x4x4 Cube
