@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on  1 September 2024*
+*Updated on  2 September 2024*
 
 
 ### World
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.47 | World | 12952 |
+| 1 | 1.47 | World | 12967 |
 
 ### Continents
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
 | 1 | 1.73 | Europe | 4207 |
-| 2 | 1.50 | South America | 1589 |
-| 3 | 1.47 | Oceania | 569 |
-| 4 | 1.41 | Asia | 2793 |
-| 5 | 1.30 | Africa | 148 |
-| 6 | 1.20 | North America | 3646 |
+| 2 | 1.50 | South America | 1590 |
+| 3 | 1.47 | Oceania | 571 |
+| 4 | 1.41 | Asia | 2797 |
+| 5 | 1.30 | Africa | 149 |
+| 6 | 1.20 | North America | 3653 |
 
 ### Countries
 
@@ -62,8 +62,8 @@
 | 36 | 1.67 | Iran | 39 |
 | 37 | 1.67 | North Macedonia | 6 |
 | 38 | 1.64 | Ireland | 66 |
-| 39 | 1.62 | New Zealand | 116 |
-| 40 | 1.62 | Denmark | 171 |
+| 39 | 1.62 | Denmark | 171 |
+| 40 | 1.62 | New Zealand | 117 |
 | 41 | 1.60 | Italy | 221 |
 | 42 | 1.58 | India | 572 |
 | 43 | 1.58 | Indonesia | 227 |
@@ -73,7 +73,7 @@
 | 47 | 1.56 | Dominican Republic | 27 |
 | 48 | 1.54 | Malaysia | 96 |
 | 49 | 1.54 | Sweden | 292 |
-| 50 | 1.52 | Bolivia | 120 |
+| 50 | 1.53 | Bolivia | 121 |
 | 51 | 1.50 | Belize | 2 |
 | 52 | 1.50 | Ghana | 2 |
 | 53 | 1.50 | Latvia | 32 |
@@ -82,8 +82,8 @@
 | 56 | 1.50 | Nigeria | 6 |
 | 57 | 1.48 | Peru | 209 |
 | 58 | 1.47 | Bangladesh | 15 |
-| 59 | 1.45 | South Africa | 74 |
-| 60 | 1.43 | Australia | 453 |
+| 59 | 1.44 | South Africa | 75 |
+| 60 | 1.43 | Australia | 454 |
 | 61 | 1.43 | Jordan | 14 |
 | 62 | 1.42 | Nepal | 19 |
 | 63 | 1.42 | Israel | 55 |
@@ -100,7 +100,7 @@
 | 74 | 1.32 | Colombia | 338 |
 | 75 | 1.32 | Panama | 19 |
 | 76 | 1.31 | Republic of Korea | 98 |
-| 77 | 1.30 | Philippines | 305 |
+| 77 | 1.30 | Philippines | 309 |
 | 78 | 1.29 | Andorra | 7 |
 | 79 | 1.29 | Hong Kong, China | 21 |
 | 80 | 1.29 | Morocco | 7 |
@@ -115,9 +115,9 @@
 | 89 | 1.20 | Japan | 230 |
 | 90 | 1.19 | Mongolia | 32 |
 | 91 | 1.18 | El Salvador | 34 |
-| 92 | 1.17 | Canada | 376 |
+| 92 | 1.17 | Canada | 377 |
 | 93 | 1.17 | Tunisia | 24 |
-| 94 | 1.16 | United States | 2925 |
+| 94 | 1.16 | United States | 2931 |
 | 95 | 1.13 | Azerbaijan | 46 |
 | 96 | 1.12 | Honduras | 17 |
 | 97 | 1.10 | Armenia | 10 |
