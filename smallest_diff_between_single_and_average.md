@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 10 September 2024*
+*Updated on 13 September 2024*
 
 
 ### Rubik's Cube
@@ -621,18 +621,18 @@
 | 86 | 0.40 | [Jakub Sokołowski](https://www.worldcubeassociation.org/persons/2012SOKO01) | 4:01.97 | 4:02.37 | [PLS Sopot 2014](https://www.worldcubeassociation.org/competitions/PLSSopot2014/results/by_person#2012SOKO01) |
 | 87 | 0.40 | [Serhii Mormul (Сергій Мормуль)](https://www.worldcubeassociation.org/persons/2012MORM01) | 8:47.04 | 8:47.44 | [Krivbass Open 2016](https://www.worldcubeassociation.org/competitions/KrivbassOpen2016/results/by_person#2012MORM01) |
 | 88 | 0.41 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | 2:08.62 | 2:09.03 | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/by_person#2019TARA09) |
-| 89 | 0.41 | [Daryl Tan Hong An](https://www.worldcubeassociation.org/persons/2015ANDA01) | 2:36.15 | 2:36.56 | [NTU Big Cube Open 2022](https://www.worldcubeassociation.org/competitions/NTUBigCubeOpen2022/results/by_person#2015ANDA01) |
-| 90 | 0.41 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | 2:41.79 | 2:42.20 | [SAC 2022](https://www.worldcubeassociation.org/competitions/SAC2022/results/by_person#2017GOLU01) |
-| 91 | 0.41 | [Dylan Hughlett](https://www.worldcubeassociation.org/persons/2012HUGH01) | 3:53.95 | 3:54.36 | [Colorado Qualifier 2018](https://www.worldcubeassociation.org/competitions/ColoradoQualifier2018/results/by_person#2012HUGH01) |
-| 92 | 0.41 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) | 4:19.60 | 4:20.01 | [Trebolis El Porvenir Bogotá 2024](https://www.worldcubeassociation.org/competitions/TrebolisElPorvenirBogota2024/results/by_person#2011EDUA01) |
-| 93 | 0.42 | [Antonio López](https://www.worldcubeassociation.org/persons/2014LOPE04) | 2:26.94 | 2:27.36 | [Archena Open 2022](https://www.worldcubeassociation.org/competitions/ArchenaOpen2022/results/by_person#2014LOPE04) |
-| 94 | 0.42 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | 3:08.43 | 3:08.85 | [Kvissel Fall 2017](https://www.worldcubeassociation.org/competitions/KvisselFall2017/results/by_person#2013EGDA02) |
-| 95 | 0.43 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | 2:40.44 | 2:40.87 | [Selangor Niche 2024](https://www.worldcubeassociation.org/competitions/SelangorNiche2024/results/by_person#2014WENW01) |
-| 96 | 0.43 | [Arhaan Sareen](https://www.worldcubeassociation.org/persons/2017SARE03) | 2:42.69 | 2:43.12 | [Newmarket Side Events 2023](https://www.worldcubeassociation.org/competitions/NewmarketSideEvents2023/results/by_person#2017SARE03) |
-| 97 | 0.43 | [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | 3:15.53 | 3:15.96 | [Autotalo Anime Adventure IX 2024](https://www.worldcubeassociation.org/competitions/AutotaloAnimeAdventureIX2024/results/by_person#2018KINN05) |
-| 98 | 0.43 | [Deniz Atak](https://www.worldcubeassociation.org/persons/2010ATAK01) | 3:55.50 | 3:55.93 | [Rally in the Valley 2019](https://www.worldcubeassociation.org/competitions/RallyintheValley2019/results/by_person#2010ATAK01) |
-| 99 | 0.43 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) | 4:10.94 | 4:11.37 | [Lille Friheden 2022](https://www.worldcubeassociation.org/competitions/LilleFriheden2022/results/by_person#2009ROTA01) |
-| 100 | 0.43 | [Fabian Settelen](https://www.worldcubeassociation.org/persons/2015SETT01) | 4:21.44 | 4:21.87 | [Swisscubing Cup II 2024](https://www.worldcubeassociation.org/competitions/SwisscubingCupII2024/results/by_person#2015SETT01) |
+| 89 | 0.41 | [Gerson Marcelo Nuñez Huanuiri](https://www.worldcubeassociation.org/persons/2017HUAN07) | 2:35.09 | 2:35.50 | [PUCP Cubing Festival ll 2024](https://www.worldcubeassociation.org/competitions/PUCPCubingFestivalll2024/results/by_person#2017HUAN07) |
+| 90 | 0.41 | [Daryl Tan Hong An](https://www.worldcubeassociation.org/persons/2015ANDA01) | 2:36.15 | 2:36.56 | [NTU Big Cube Open 2022](https://www.worldcubeassociation.org/competitions/NTUBigCubeOpen2022/results/by_person#2015ANDA01) |
+| 91 | 0.41 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | 2:41.79 | 2:42.20 | [SAC 2022](https://www.worldcubeassociation.org/competitions/SAC2022/results/by_person#2017GOLU01) |
+| 92 | 0.41 | [Dylan Hughlett](https://www.worldcubeassociation.org/persons/2012HUGH01) | 3:53.95 | 3:54.36 | [Colorado Qualifier 2018](https://www.worldcubeassociation.org/competitions/ColoradoQualifier2018/results/by_person#2012HUGH01) |
+| 93 | 0.41 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) | 4:19.60 | 4:20.01 | [Trebolis El Porvenir Bogotá 2024](https://www.worldcubeassociation.org/competitions/TrebolisElPorvenirBogota2024/results/by_person#2011EDUA01) |
+| 94 | 0.42 | [Antonio López](https://www.worldcubeassociation.org/persons/2014LOPE04) | 2:26.94 | 2:27.36 | [Archena Open 2022](https://www.worldcubeassociation.org/competitions/ArchenaOpen2022/results/by_person#2014LOPE04) |
+| 95 | 0.42 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | 3:08.43 | 3:08.85 | [Kvissel Fall 2017](https://www.worldcubeassociation.org/competitions/KvisselFall2017/results/by_person#2013EGDA02) |
+| 96 | 0.43 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | 2:40.44 | 2:40.87 | [Selangor Niche 2024](https://www.worldcubeassociation.org/competitions/SelangorNiche2024/results/by_person#2014WENW01) |
+| 97 | 0.43 | [Arhaan Sareen](https://www.worldcubeassociation.org/persons/2017SARE03) | 2:42.69 | 2:43.12 | [Newmarket Side Events 2023](https://www.worldcubeassociation.org/competitions/NewmarketSideEvents2023/results/by_person#2017SARE03) |
+| 98 | 0.43 | [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | 3:15.53 | 3:15.96 | [Autotalo Anime Adventure IX 2024](https://www.worldcubeassociation.org/competitions/AutotaloAnimeAdventureIX2024/results/by_person#2018KINN05) |
+| 99 | 0.43 | [Deniz Atak](https://www.worldcubeassociation.org/persons/2010ATAK01) | 3:55.50 | 3:55.93 | [Rally in the Valley 2019](https://www.worldcubeassociation.org/competitions/RallyintheValley2019/results/by_person#2010ATAK01) |
+| 100 | 0.43 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) | 4:10.94 | 4:11.37 | [Lille Friheden 2022](https://www.worldcubeassociation.org/competitions/LilleFriheden2022/results/by_person#2009ROTA01) |
 
 ### 3x3x3 Blindfolded
 
@@ -940,7 +940,7 @@
 | 90 | 0.46 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 1:24.34 | 1:24.80 | [CubingUSA Nationals 2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017/results/by_person#2015KUCA01) |
 | 91 | 0.46 | [Bárbara Guerra Ribeiro](https://www.worldcubeassociation.org/persons/2019RIBE11) | 1:27.21 | 1:27.67 | [Brasília Bigs & Blind 2024](https://www.worldcubeassociation.org/competitions/BrasiliaBigsBlind2024/results/by_person#2019RIBE11) |
 | 92 | 0.46 | [Jordan Mosakowski](https://www.worldcubeassociation.org/persons/2014MOSA01) | 1:28.62 | 1:29.08 | [Bellevue CfC 2022](https://www.worldcubeassociation.org/competitions/BellevueCubingforChildrens2022/results/by_person#2014MOSA01) |
-| 93 | 0.47 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 36.54 | 37.01 | [Honolulu Nui a Makapo 2024](https://www.worldcubeassociation.org/competitions/HonoluluNuiaMakapo2024/results/by_person#2017GARR05) |
+| 93 | 0.47 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 36.54 | 37.01 | [Honolulu Nui a Makapō 2024](https://www.worldcubeassociation.org/competitions/HonoluluNuiaMakapo2024/results/by_person#2017GARR05) |
 | 94 | 0.47 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) | 43.09 | 43.56 | [Cubing Kazakhstan Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingKazakhstanNationals2023/results/by_person#2015CHEA01) |
 | 95 | 0.47 | [Darren Siew Ee Yaang (蕭奕暘)](https://www.worldcubeassociation.org/persons/2009SIEW01) | 51.32 | 51.79 | [AG Championship 2017](https://www.worldcubeassociation.org/competitions/AGChampionship2017/results/by_person#2009SIEW01) |
 | 96 | 0.47 | [Taiyo Berčič](https://www.worldcubeassociation.org/persons/2022BERC01) | 56.45 | 56.92 | [Novo Mesto Open 2024](https://www.worldcubeassociation.org/competitions/NovoMestoOpen2024/results/by_person#2022BERC01) |

@@ -1,31 +1,31 @@
 ## Competition days count by region
 
-*Updated on 10 September 2024*
+*Updated on 13 September 2024*
 
 
 ### World
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.47 | World | 13036 |
+| 1 | 1.47 | World | 13069 |
 
 ### Continents
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.73 | Europe | 4235 |
-| 2 | 1.50 | South America | 1604 |
+| 1 | 1.73 | Europe | 4254 |
+| 2 | 1.50 | South America | 1610 |
 | 3 | 1.46 | Oceania | 578 |
-| 4 | 1.41 | Asia | 2803 |
+| 4 | 1.41 | Asia | 2806 |
 | 5 | 1.30 | Africa | 149 |
-| 6 | 1.20 | North America | 3667 |
+| 6 | 1.20 | North America | 3672 |
 
 ### Countries
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
 | 1 | 2.04 | Czech Republic | 57 |
-| 2 | 2.00 | Kazakhstan | 49 |
+| 2 | 2.00 | Kazakhstan | 50 |
 | 3 | 2.00 | Kyrgyzstan | 6 |
 | 4 | 2.00 | Liechtenstein | 3 |
 | 5 | 2.00 | Uzbekistan | 19 |
@@ -35,17 +35,17 @@
 | 9 | 1.92 | Lithuania | 25 |
 | 10 | 1.91 | Germany | 230 |
 | 11 | 1.91 | Serbia | 23 |
-| 12 | 1.91 | Turkey | 98 |
-| 13 | 1.89 | Norway | 124 |
-| 14 | 1.89 | United Kingdom | 248 |
-| 15 | 1.88 | Slovakia | 41 |
-| 16 | 1.88 | France | 299 |
-| 17 | 1.87 | Finland | 140 |
+| 12 | 1.91 | Turkey | 99 |
+| 13 | 1.89 | Norway | 125 |
+| 14 | 1.88 | Slovakia | 41 |
+| 15 | 1.88 | France | 299 |
+| 16 | 1.87 | Finland | 140 |
+| 17 | 1.87 | United Kingdom | 256 |
 | 18 | 1.86 | Thailand | 65 |
-| 19 | 1.85 | Spain | 359 |
+| 19 | 1.85 | Spain | 358 |
 | 20 | 1.85 | Bosnia and Herzegovina | 13 |
 | 21 | 1.85 | Croatia | 26 |
-| 22 | 1.84 | Switzerland | 115 |
+| 22 | 1.84 | Switzerland | 116 |
 | 23 | 1.82 | Sri Lanka | 11 |
 | 24 | 1.80 | Mexico | 165 |
 | 25 | 1.79 | Iceland | 14 |
@@ -55,15 +55,15 @@
 | 29 | 1.75 | Palestine | 4 |
 | 30 | 1.73 | Belgium | 83 |
 | 31 | 1.73 | Austria | 30 |
-| 32 | 1.73 | Argentina | 88 |
-| 33 | 1.72 | Brazil | 497 |
-| 34 | 1.71 | Poland | 465 |
-| 35 | 1.70 | Ukraine | 135 |
+| 32 | 1.73 | Argentina | 89 |
+| 33 | 1.72 | Brazil | 499 |
+| 34 | 1.71 | Poland | 467 |
+| 35 | 1.71 | Ukraine | 136 |
 | 36 | 1.67 | Iran | 39 |
 | 37 | 1.67 | North Macedonia | 6 |
 | 38 | 1.64 | Ireland | 66 |
-| 39 | 1.62 | Denmark | 171 |
-| 40 | 1.61 | Italy | 224 |
+| 39 | 1.62 | Denmark | 173 |
+| 40 | 1.60 | Italy | 225 |
 | 41 | 1.59 | New Zealand | 122 |
 | 42 | 1.59 | India | 574 |
 | 43 | 1.58 | Indonesia | 227 |
@@ -71,7 +71,7 @@
 | 45 | 1.57 | San Marino | 7 |
 | 46 | 1.57 | Greece | 30 |
 | 47 | 1.56 | Dominican Republic | 27 |
-| 48 | 1.54 | Sweden | 293 |
+| 48 | 1.54 | Sweden | 295 |
 | 49 | 1.54 | Malaysia | 96 |
 | 50 | 1.53 | Bolivia | 121 |
 | 51 | 1.50 | Belize | 2 |
@@ -90,34 +90,34 @@
 | 64 | 1.42 | Costa Rica | 24 |
 | 65 | 1.41 | Bulgaria | 22 |
 | 66 | 1.40 | Estonia | 62 |
-| 67 | 1.39 | Romania | 122 |
+| 67 | 1.39 | Romania | 123 |
 | 68 | 1.38 | Ecuador | 53 |
 | 69 | 1.36 | Vietnam | 66 |
 | 70 | 1.35 | Chinese Taipei | 142 |
 | 71 | 1.34 | Paraguay | 32 |
 | 72 | 1.33 | Portugal | 24 |
 | 73 | 1.33 | Tajikistan | 3 |
-| 74 | 1.32 | Colombia | 345 |
-| 75 | 1.32 | Panama | 19 |
+| 74 | 1.32 | Panama | 19 |
+| 75 | 1.32 | Colombia | 346 |
 | 76 | 1.31 | Republic of Korea | 98 |
-| 77 | 1.30 | Philippines | 310 |
-| 78 | 1.29 | Uruguay | 52 |
+| 77 | 1.30 | Kuwait | 10 |
+| 78 | 1.30 | Philippines | 310 |
 | 79 | 1.29 | Andorra | 7 |
 | 80 | 1.29 | Hong Kong, China | 21 |
 | 81 | 1.29 | Morocco | 7 |
-| 82 | 1.28 | United Arab Emirates | 18 |
-| 83 | 1.27 | Venezuela | 73 |
-| 84 | 1.27 | Singapore | 66 |
-| 85 | 1.26 | Chile | 133 |
-| 86 | 1.25 | China | 651 |
-| 87 | 1.22 | Bahrain | 9 |
-| 88 | 1.22 | Kuwait | 9 |
+| 82 | 1.28 | Uruguay | 53 |
+| 83 | 1.28 | United Arab Emirates | 18 |
+| 84 | 1.27 | Venezuela | 73 |
+| 85 | 1.27 | Singapore | 66 |
+| 86 | 1.25 | Chile | 134 |
+| 87 | 1.25 | China | 652 |
+| 88 | 1.22 | Bahrain | 9 |
 | 89 | 1.20 | Japan | 230 |
 | 90 | 1.18 | Mongolia | 33 |
 | 91 | 1.18 | El Salvador | 34 |
 | 92 | 1.17 | Canada | 378 |
 | 93 | 1.17 | Tunisia | 24 |
-| 94 | 1.16 | United States | 2943 |
+| 94 | 1.16 | United States | 2948 |
 | 95 | 1.13 | Azerbaijan | 46 |
 | 96 | 1.12 | Honduras | 17 |
 | 97 | 1.10 | Armenia | 10 |

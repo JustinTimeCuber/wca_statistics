@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 10 September 2024*
+*Updated on 13 September 2024*
 
 
 ### 200 Competitions
@@ -1134,7 +1134,7 @@
 | 173 | 78 | [Marlon Herrera](https://www.worldcubeassociation.org/persons/2024HERR02) |
 | 174 | 79 | [Robert Kagramanyan](https://www.worldcubeassociation.org/persons/2022KAGR01) |
 | 175 | 79 | [Ayden Dincher](https://www.worldcubeassociation.org/persons/2022DINC01) |
-| 176 | 79 | [Siwen Nathan Wang](https://www.worldcubeassociation.org/persons/2023WANG28) |
+| 176 | 79 | [Nathan Wang](https://www.worldcubeassociation.org/persons/2023WANG28) |
 | 177 | 79 | [Karl Liam L. Abarquez](https://www.worldcubeassociation.org/persons/2023ABAR02) |
 | 178 | 79 | [Jayden Yang](https://www.worldcubeassociation.org/persons/2023YANG15) |
 | 179 | 79 | [Cristopher Alejandro Rincón Cuadros](https://www.worldcubeassociation.org/persons/2023CUAD02) |
