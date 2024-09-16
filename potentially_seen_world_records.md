@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 13 September 2024*
+*Updated on 16 September 2024*
 
 | Rank | WRs | Person |
 | :--- | ---: | :--- |
@@ -852,7 +852,7 @@
 | 845 | 23 | [Tyler Robinson](https://www.worldcubeassociation.org/persons/2015ROBI04) |
 | 846 | 23 | [Catherine Trace](https://www.worldcubeassociation.org/persons/2015TRAC01) |
 | 847 | 23 | [Luke Van Laningham](https://www.worldcubeassociation.org/persons/2015VANL01) |
-| 848 | 23 | [Amelie Dieterich](https://www.worldcubeassociation.org/persons/2016DIET01) |
+| 848 | 23 | [Amélie Dieterich](https://www.worldcubeassociation.org/persons/2016DIET01) |
 | 849 | 23 | [Kamil Michalak](https://www.worldcubeassociation.org/persons/2016MICH01) |
 | 850 | 23 | [Chris Van Der Brink](https://www.worldcubeassociation.org/persons/2016BRIN04) |
 | 851 | 23 | [Rainie Liu (刘诗雨)](https://www.worldcubeassociation.org/persons/2016LIUR05) |
