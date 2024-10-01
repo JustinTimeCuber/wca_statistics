@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 28 September 2024*
+*Updated on  1 October 2024*
 
 | Rank | WRs | Person |
 | :--- | ---: | :--- |
@@ -272,7 +272,7 @@
 | 265 | 42 | [Michael Chai (柴天方)](https://www.worldcubeassociation.org/persons/2016CHAI03) |
 | 266 | 42 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 267 | 42 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) |
-| 268 | 42 | [Callum James Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02) |
+| 268 | 42 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 269 | 42 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |
 | 270 | 42 | [Kengo Kageyama (蔭山賢吾)](https://www.worldcubeassociation.org/persons/2008KAGE01) |
 | 271 | 42 | [Frank Severinsen](https://www.worldcubeassociation.org/persons/2009SEVE01) |
@@ -709,7 +709,7 @@
 | 702 | 25 | [Robert Hickingbotham](https://www.worldcubeassociation.org/persons/2010HICK01) |
 | 703 | 25 | [Anders Berggren](https://www.worldcubeassociation.org/persons/2011BERG02) |
 | 704 | 25 | [Aniket Das](https://www.worldcubeassociation.org/persons/2015DASA02) |
-| 705 | 25 | [Mikela Elleby Jørgensen](https://www.worldcubeassociation.org/persons/2015JORG01) |
+| 705 | 25 | [Mikela Elleby Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2015JORG01) |
 | 706 | 25 | [Lucas Wesche](https://www.worldcubeassociation.org/persons/2012WESC01) |
 | 707 | 25 | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) |
 | 708 | 25 | [Thomas Mæhle Schmidt](https://www.worldcubeassociation.org/persons/2013SCHM02) |

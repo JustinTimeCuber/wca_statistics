@@ -1,6 +1,6 @@
 ## Most visited continents
 
-*Updated on 28 September 2024*
+*Updated on  1 October 2024*
 
 | Rank | Continents | Person |
 | :--- | ---: | :--- |
@@ -112,57 +112,58 @@
 | 106 | 4 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) |
 | 107 | 4 | [Rituraj Sohoni](https://www.worldcubeassociation.org/persons/2012SOHO01) |
 | 108 | 4 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) |
-| 109 | 4 | [Nicolas Gertner Kilian](https://www.worldcubeassociation.org/persons/2013GERT01) |
-| 110 | 4 | [Yu Gu (谷雨)](https://www.worldcubeassociation.org/persons/2013GUYU01) |
-| 111 | 4 | [Eva Kato (加藤映葉)](https://www.worldcubeassociation.org/persons/2013KATO01) |
-| 112 | 4 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) |
-| 113 | 4 | [Yanfeng Zhu (朱艳枫)](https://www.worldcubeassociation.org/persons/2013ZHUY02) |
-| 114 | 4 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) |
-| 115 | 4 | [Stephen Griggs](https://www.worldcubeassociation.org/persons/2014GRIG01) |
-| 116 | 4 | [MinSeo Gu (구민서)](https://www.worldcubeassociation.org/persons/2014GUMI01) |
-| 117 | 4 | [Young He (何嘉炀)](https://www.worldcubeassociation.org/persons/2014HEYO01) |
-| 118 | 4 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) |
-| 119 | 4 | [Anthony Lafourcade](https://www.worldcubeassociation.org/persons/2014LAFO01) |
-| 120 | 4 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) |
-| 121 | 4 | [Ethan Pride](https://www.worldcubeassociation.org/persons/2014PRID01) |
-| 122 | 4 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) |
-| 123 | 4 | [Moez Boussarsar](https://www.worldcubeassociation.org/persons/2015BOUS02) |
-| 124 | 4 | [Karen Brooks](https://www.worldcubeassociation.org/persons/2015BROO01) |
-| 125 | 4 | [Dylan Govic](https://www.worldcubeassociation.org/persons/2015GOVI01) |
-| 126 | 4 | [Oliver Jenks](https://www.worldcubeassociation.org/persons/2015JENK02) |
-| 127 | 4 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) |
-| 128 | 4 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
-| 129 | 4 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
-| 130 | 4 | [Rui Reis](https://www.worldcubeassociation.org/persons/2015REIS02) |
-| 131 | 4 | [Aamir Saifee](https://www.worldcubeassociation.org/persons/2015SAIF01) |
-| 132 | 4 | [Nikhil Soares](https://www.worldcubeassociation.org/persons/2015SOAR01) |
-| 133 | 4 | [Jason Vindvamara](https://www.worldcubeassociation.org/persons/2015VIND01) |
-| 134 | 4 | [Tim Xie](https://www.worldcubeassociation.org/persons/2015XIET01) |
-| 135 | 4 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
-| 136 | 4 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) |
-| 137 | 4 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
-| 138 | 4 | [Sheldon Rego](https://www.worldcubeassociation.org/persons/2016REGO01) |
-| 139 | 4 | [Addison Heffernan](https://www.worldcubeassociation.org/persons/2016HEFF01) |
-| 140 | 4 | [Lucas O'Connell](https://www.worldcubeassociation.org/persons/2016OCON02) |
-| 141 | 4 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) |
-| 142 | 4 | [Timo Norrkniivilä](https://www.worldcubeassociation.org/persons/2017NORR01) |
-| 143 | 4 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
-| 144 | 4 | [Liam Wadek](https://www.worldcubeassociation.org/persons/2017WADE01) |
-| 145 | 4 | [Hongyuan Fu (傅泓源)](https://www.worldcubeassociation.org/persons/2017FUHO01) |
-| 146 | 4 | [Linus Kunath](https://www.worldcubeassociation.org/persons/2017KUNA01) |
-| 147 | 4 | [John Cook](https://www.worldcubeassociation.org/persons/2018COOK04) |
-| 148 | 4 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
-| 149 | 4 | [Ibrahim Khanani](https://www.worldcubeassociation.org/persons/2018KHAN27) |
-| 150 | 4 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
-| 151 | 4 | [Peri Le Dain](https://www.worldcubeassociation.org/persons/2018DAIN02) |
-| 152 | 4 | [Patrick Kleverlaan](https://www.worldcubeassociation.org/persons/2019KLEV01) |
-| 153 | 4 | [Lisa Kucala](https://www.worldcubeassociation.org/persons/2019KUCA01) |
-| 154 | 4 | [Zayd Chaudhry](https://www.worldcubeassociation.org/persons/2019CHAU12) |
-| 155 | 4 | [Jordan Crippa](https://www.worldcubeassociation.org/persons/2019CRIP01) |
-| 156 | 4 | [Conan Mo](https://www.worldcubeassociation.org/persons/2020MOCO01) |
-| 157 | 4 | [Thomas Pierroz](https://www.worldcubeassociation.org/persons/2021PIER01) |
-| 158 | 4 | [Achilles Standring](https://www.worldcubeassociation.org/persons/2022STAN14) |
-| 159 | 4 | [Joseph Liu (劉睿博)](https://www.worldcubeassociation.org/persons/2023LIUJ01) |
+| 109 | 4 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) |
+| 110 | 4 | [Nicolas Gertner Kilian](https://www.worldcubeassociation.org/persons/2013GERT01) |
+| 111 | 4 | [Yu Gu (谷雨)](https://www.worldcubeassociation.org/persons/2013GUYU01) |
+| 112 | 4 | [Eva Kato (加藤映葉)](https://www.worldcubeassociation.org/persons/2013KATO01) |
+| 113 | 4 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) |
+| 114 | 4 | [Yanfeng Zhu (朱艳枫)](https://www.worldcubeassociation.org/persons/2013ZHUY02) |
+| 115 | 4 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) |
+| 116 | 4 | [Stephen Griggs](https://www.worldcubeassociation.org/persons/2014GRIG01) |
+| 117 | 4 | [MinSeo Gu (구민서)](https://www.worldcubeassociation.org/persons/2014GUMI01) |
+| 118 | 4 | [Young He (何嘉炀)](https://www.worldcubeassociation.org/persons/2014HEYO01) |
+| 119 | 4 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) |
+| 120 | 4 | [Anthony Lafourcade](https://www.worldcubeassociation.org/persons/2014LAFO01) |
+| 121 | 4 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) |
+| 122 | 4 | [Ethan Pride](https://www.worldcubeassociation.org/persons/2014PRID01) |
+| 123 | 4 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) |
+| 124 | 4 | [Moez Boussarsar](https://www.worldcubeassociation.org/persons/2015BOUS02) |
+| 125 | 4 | [Karen Brooks](https://www.worldcubeassociation.org/persons/2015BROO01) |
+| 126 | 4 | [Dylan Govic](https://www.worldcubeassociation.org/persons/2015GOVI01) |
+| 127 | 4 | [Oliver Jenks](https://www.worldcubeassociation.org/persons/2015JENK02) |
+| 128 | 4 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) |
+| 129 | 4 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
+| 130 | 4 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
+| 131 | 4 | [Rui Reis](https://www.worldcubeassociation.org/persons/2015REIS02) |
+| 132 | 4 | [Aamir Saifee](https://www.worldcubeassociation.org/persons/2015SAIF01) |
+| 133 | 4 | [Nikhil Soares](https://www.worldcubeassociation.org/persons/2015SOAR01) |
+| 134 | 4 | [Jason Vindvamara](https://www.worldcubeassociation.org/persons/2015VIND01) |
+| 135 | 4 | [Tim Xie](https://www.worldcubeassociation.org/persons/2015XIET01) |
+| 136 | 4 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
+| 137 | 4 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) |
+| 138 | 4 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
+| 139 | 4 | [Sheldon Rego](https://www.worldcubeassociation.org/persons/2016REGO01) |
+| 140 | 4 | [Addison Heffernan](https://www.worldcubeassociation.org/persons/2016HEFF01) |
+| 141 | 4 | [Lucas O'Connell](https://www.worldcubeassociation.org/persons/2016OCON02) |
+| 142 | 4 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) |
+| 143 | 4 | [Timo Norrkniivilä](https://www.worldcubeassociation.org/persons/2017NORR01) |
+| 144 | 4 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) |
+| 145 | 4 | [Liam Wadek](https://www.worldcubeassociation.org/persons/2017WADE01) |
+| 146 | 4 | [Hongyuan Fu (傅泓源)](https://www.worldcubeassociation.org/persons/2017FUHO01) |
+| 147 | 4 | [Linus Kunath](https://www.worldcubeassociation.org/persons/2017KUNA01) |
+| 148 | 4 | [John Cook](https://www.worldcubeassociation.org/persons/2018COOK04) |
+| 149 | 4 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
+| 150 | 4 | [Ibrahim Khanani](https://www.worldcubeassociation.org/persons/2018KHAN27) |
+| 151 | 4 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
+| 152 | 4 | [Peri Le Dain](https://www.worldcubeassociation.org/persons/2018DAIN02) |
+| 153 | 4 | [Patrick Kleverlaan](https://www.worldcubeassociation.org/persons/2019KLEV01) |
+| 154 | 4 | [Lisa Kucala](https://www.worldcubeassociation.org/persons/2019KUCA01) |
+| 155 | 4 | [Zayd Chaudhry](https://www.worldcubeassociation.org/persons/2019CHAU12) |
+| 156 | 4 | [Jordan Crippa](https://www.worldcubeassociation.org/persons/2019CRIP01) |
+| 157 | 4 | [Conan Mo](https://www.worldcubeassociation.org/persons/2020MOCO01) |
+| 158 | 4 | [Thomas Pierroz](https://www.worldcubeassociation.org/persons/2021PIER01) |
+| 159 | 4 | [Achilles Standring](https://www.worldcubeassociation.org/persons/2022STAN14) |
+| 160 | 4 | [Joseph Liu (劉睿博)](https://www.worldcubeassociation.org/persons/2023LIUJ01) |
 
 
 <a href="https://github.com/JustinTimeCuber/wca_statistics" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>
