@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on  1 October 2024*
+*Updated on  4 October 2024*
 
 
 ### Rubik's Cube
@@ -835,7 +835,7 @@
 | 90 | [Pablo Say](https://www.worldcubeassociation.org/persons/2013SAYP01) | 42 | **48.33** | [Rubik Xela Open 2017](https://www.worldcubeassociation.org/competitions/RubikXelaOpen2017/results/podiums#e333fm) | 3 |
 | 91 | [Francisco José Campos Rocamora](https://www.worldcubeassociation.org/persons/2013ROCA01) | 37 | **48.33** | [Arnold Classic Rubik 2015](https://www.worldcubeassociation.org/competitions/ArnoldClassicRubik2015/results/podiums#e333fm) | 3 |
 | 92 | [Mohammad Ahmad Abu Hussein](https://www.worldcubeassociation.org/persons/2018HUSS07) | 34 | **48.33** | [Amman FMC 2023](https://www.worldcubeassociation.org/competitions/AmmanFMC2023/results/podiums#e333fm) | 3 |
-| 93 | [Bruno Nascimento Damacena](https://www.worldcubeassociation.org/persons/2017DAMA01) | 46 | **48.00** | [Pão de Queijo Open 2022](https://www.worldcubeassociation.org/competitions/PaodeQueijoOpen2022/results/podiums#e333fm) | 3 |
+| 93 | [Bruno Damacena](https://www.worldcubeassociation.org/persons/2017DAMA01) | 46 | **48.00** | [Pão de Queijo Open 2022](https://www.worldcubeassociation.org/competitions/PaodeQueijoOpen2022/results/podiums#e333fm) | 3 |
 | 94 | [Christofer Alejandro Aguirre Robledo](https://www.worldcubeassociation.org/persons/2016ROBL05) | 46 | **48.00** | [FMC Open Tijuana 2023](https://www.worldcubeassociation.org/competitions/FMCOpenTijuana2023/results/podiums#e333fm) | 3 |
 | 95 | [Gaurav Bachani](https://www.worldcubeassociation.org/persons/2017BACH09) | 46 | **48.00** | [Bheja Fry Sept Bangalore 2024](https://www.worldcubeassociation.org/competitions/BhejaFrySeptBangalore2024/results/podiums#e333fm) | 2 |
 | 96 | [Olander Rafael Hernández Morales](https://www.worldcubeassociation.org/persons/2017MORA08) | 45 | **48.00** | [Nacionales Guatemala 2018](https://www.worldcubeassociation.org/competitions/NacionalesGuatemala2018/results/podiums#e333fm) | 3 |
