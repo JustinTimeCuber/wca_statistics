@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 10 October 2024*
+*Updated on 13 October 2024*
 
 
 ### Rubik's Cube
@@ -1455,24 +1455,24 @@
 | 80 | 10.76 | [Yucheng Chen (陈裕铖)](https://www.worldcubeassociation.org/persons/2015CHEN49) | 4:19.09 | 4:29.85 | [Singapore Championship 2018](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2018/results/by_person#2015CHEN49) |
 | 81 | 10.78 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | 4:12.28 | 4:23.06 | [Norwegian Championship 2015](https://www.worldcubeassociation.org/competitions/NorwegianChampionship2015/results/by_person#2012HALE01) |
 | 82 | 10.83 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) | 6:58.68 | 7:09.51 | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023/results/by_person#2018ZYNE01) |
-| 83 | 11.08 | [Sora Wenjie Xu (徐文杰)](https://www.worldcubeassociation.org/persons/2016XUWE02) | 2:05.70 | 2:16.78 | [May MBLD Madness Singapore 2023](https://www.worldcubeassociation.org/competitions/MayMBLDMadnessSingapore2023/results/by_person#2016XUWE02) |
-| 84 | 11.29 | [Jonathan Blöcher](https://www.worldcubeassociation.org/persons/2018BLOC01) | 3:57.92 | 4:09.21 | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/by_person#2018BLOC01) |
-| 85 | 11.30 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | 4:21.02 | 4:32.32 | [Warm Up Canberra 2019](https://www.worldcubeassociation.org/competitions/WarmUpCanberra2019/results/by_person#2018SHEN07) |
-| 86 | 11.37 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) | 1:50.54 | 2:01.91 | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024/results/by_person#2021PISK01) |
-| 87 | 11.40 | [Chris Hardwick](https://www.worldcubeassociation.org/persons/2003HARD01) | 8:35.68 | 8:47.08 | [CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/by_person#2003HARD01) |
-| 88 | 11.66 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | 4:22.53 | 4:34.19 | [Nordhessen 2024](https://www.worldcubeassociation.org/competitions/NichtsVergesseninNordhessen2024/results/by_person#2010BENT01) |
-| 89 | 11.78 | [Thomas Strasser](https://www.worldcubeassociation.org/persons/2022STRA10) | 4:25.02 | 4:36.80 | [BF Vienna Day 2023](https://www.worldcubeassociation.org/competitions/BFViennaDay2023/results/by_person#2022STRA10) |
-| 90 | 11.90 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) | 3:23.72 | 3:35.62 | [Kharkiv Open 2014](https://www.worldcubeassociation.org/competitions/KharkivOpen2014/results/by_person#2011GRIT01) |
-| 91 | 11.96 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 1:36.70 | 1:48.66 | [Rubik's UK Championship 2023](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2023/results/by_person#2019ECKE02) |
-| 92 | 12.00 | [Jānis Zirnis](https://www.worldcubeassociation.org/persons/2013ZIRN01) | 11:17.00 | 11:29.00 | [Swedish Championship 2023](https://www.worldcubeassociation.org/competitions/SwedishChampionship2023/results/by_person#2013ZIRN01) |
-| 93 | 12.02 | [Marcos Ferreira Semolini](https://www.worldcubeassociation.org/persons/2017SEMO02) | 2:59.84 | 3:11.86 | [UNIVR Open 2023](https://www.worldcubeassociation.org/competitions/UNIVROpen2023/results/by_person#2017SEMO02) |
-| 94 | 12.11 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) | 2:48.00 | 3:00.11 | [Westchester Blind Leap 2024](https://www.worldcubeassociation.org/competitions/WestchesterBlindLeap2024/results/by_person#2007HESS01) |
-| 95 | 12.12 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | 2:46.71 | 2:58.83 | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/by_person#2018SHEN07) |
-| 96 | 12.19 | [William Phommaha](https://www.worldcubeassociation.org/persons/2015PHOM01) | 2:50.62 | 3:02.81 | [Only Mental Lyon 2018](https://www.worldcubeassociation.org/competitions/OnlyMentalLyon2018/results/by_person#2015PHOM01) |
-| 97 | 12.33 | [Sergio Torrijos Santano](https://www.worldcubeassociation.org/persons/2013SANT13) | 9:42.00 | 9:54.33 | [Quijote Open 2017](https://www.worldcubeassociation.org/competitions/QuijoteOpen2017/results/by_person#2013SANT13) |
-| 98 | 12.48 | [Roman Strakhov](https://www.worldcubeassociation.org/persons/2012STRA02) | 1:55.58 | 2:08.06 | [YJ Fest Belarus 2018](https://www.worldcubeassociation.org/competitions/YJFestBelarus2018/results/by_person#2012STRA02) |
-| 99 | 12.51 | [Yinhao Ding](https://www.worldcubeassociation.org/persons/2019DING02) | 7:30.70 | 7:43.21 | [SA Open 2022](https://www.worldcubeassociation.org/competitions/SouthAustralianOpen2022/results/by_person#2019DING02) |
-| 100 | 12.91 | [Brandon Villadolid](https://www.worldcubeassociation.org/persons/2019VILL03) | 8:20.11 | 8:33.02 | [Ashfield Summer Challenge 2024](https://www.worldcubeassociation.org/competitions/AshfieldSummerChallenge2024/results/by_person#2019VILL03) |
+| 83 | 11.00 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 1:30.90 | 1:41.90 | [Glasgow Autumn - SBO 2024](https://www.worldcubeassociation.org/competitions/GlasgowAutumnSBO2024/results/by_person#2019ECKE02) |
+| 84 | 11.08 | [Sora Wenjie Xu (徐文杰)](https://www.worldcubeassociation.org/persons/2016XUWE02) | 2:05.70 | 2:16.78 | [May MBLD Madness Singapore 2023](https://www.worldcubeassociation.org/competitions/MayMBLDMadnessSingapore2023/results/by_person#2016XUWE02) |
+| 85 | 11.29 | [Jonathan Blöcher](https://www.worldcubeassociation.org/persons/2018BLOC01) | 3:57.92 | 4:09.21 | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/by_person#2018BLOC01) |
+| 86 | 11.30 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | 4:21.02 | 4:32.32 | [Warm Up Canberra 2019](https://www.worldcubeassociation.org/competitions/WarmUpCanberra2019/results/by_person#2018SHEN07) |
+| 87 | 11.37 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) | 1:50.54 | 2:01.91 | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024/results/by_person#2021PISK01) |
+| 88 | 11.40 | [Chris Hardwick](https://www.worldcubeassociation.org/persons/2003HARD01) | 8:35.68 | 8:47.08 | [CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/by_person#2003HARD01) |
+| 89 | 11.66 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | 4:22.53 | 4:34.19 | [Nordhessen 2024](https://www.worldcubeassociation.org/competitions/NichtsVergesseninNordhessen2024/results/by_person#2010BENT01) |
+| 90 | 11.78 | [Thomas Strasser](https://www.worldcubeassociation.org/persons/2022STRA10) | 4:25.02 | 4:36.80 | [BF Vienna Day 2023](https://www.worldcubeassociation.org/competitions/BFViennaDay2023/results/by_person#2022STRA10) |
+| 91 | 11.90 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) | 3:23.72 | 3:35.62 | [Kharkiv Open 2014](https://www.worldcubeassociation.org/competitions/KharkivOpen2014/results/by_person#2011GRIT01) |
+| 92 | 11.96 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 1:36.70 | 1:48.66 | [Rubik's UK Championship 2023](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2023/results/by_person#2019ECKE02) |
+| 93 | 12.00 | [Jānis Zirnis](https://www.worldcubeassociation.org/persons/2013ZIRN01) | 11:17.00 | 11:29.00 | [Swedish Championship 2023](https://www.worldcubeassociation.org/competitions/SwedishChampionship2023/results/by_person#2013ZIRN01) |
+| 94 | 12.02 | [Marcos Ferreira Semolini](https://www.worldcubeassociation.org/persons/2017SEMO02) | 2:59.84 | 3:11.86 | [UNIVR Open 2023](https://www.worldcubeassociation.org/competitions/UNIVROpen2023/results/by_person#2017SEMO02) |
+| 95 | 12.11 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) | 2:48.00 | 3:00.11 | [Westchester Blind Leap 2024](https://www.worldcubeassociation.org/competitions/WestchesterBlindLeap2024/results/by_person#2007HESS01) |
+| 96 | 12.12 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | 2:46.71 | 2:58.83 | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/by_person#2018SHEN07) |
+| 97 | 12.19 | [William Phommaha](https://www.worldcubeassociation.org/persons/2015PHOM01) | 2:50.62 | 3:02.81 | [Only Mental Lyon 2018](https://www.worldcubeassociation.org/competitions/OnlyMentalLyon2018/results/by_person#2015PHOM01) |
+| 98 | 12.33 | [Sergio Torrijos Santano](https://www.worldcubeassociation.org/persons/2013SANT13) | 9:42.00 | 9:54.33 | [Quijote Open 2017](https://www.worldcubeassociation.org/competitions/QuijoteOpen2017/results/by_person#2013SANT13) |
+| 99 | 12.48 | [Roman Strakhov](https://www.worldcubeassociation.org/persons/2012STRA02) | 1:55.58 | 2:08.06 | [YJ Fest Belarus 2018](https://www.worldcubeassociation.org/competitions/YJFestBelarus2018/results/by_person#2012STRA02) |
+| 100 | 12.51 | [Yinhao Ding](https://www.worldcubeassociation.org/persons/2019DING02) | 7:30.70 | 7:43.21 | [SA Open 2022](https://www.worldcubeassociation.org/competitions/SouthAustralianOpen2022/results/by_person#2019DING02) |
 
 ### 5x5x5 Blindfolded
 

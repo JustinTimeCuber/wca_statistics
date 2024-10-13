@@ -1,21 +1,21 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 10 October 2024*
+*Updated on 13 October 2024*
 
 | Rank | Country | Gold | Silver | Bronze | Total |
 | :--- | :--- | :--: | :--: | :--: | :--: |
 | 1 | Hungary | **1441** | 1216 | 1044 | 3701 |
-| 2 | United States | **1208** | 976 | 860 | 3044 |
+| 2 | United States | **1208** | 976 | 859 | 3043 |
 | 3 | Germany | **1171** | 1095 | 1111 | 3377 |
 | 4 | France | **1000** | 867 | 727 | 2594 |
-| 5 | Netherlands | **973** | 790 | 668 | 2431 |
+| 5 | Netherlands | **977** | 794 | 669 | 2440 |
 | 6 | Russia | **955** | 565 | 433 | 1953 |
 | 7 | China | **782** | 749 | 658 | 2189 |
-| 8 | Poland | **665** | 433 | 339 | 1437 |
+| 8 | Poland | **670** | 433 | 339 | 1442 |
 | 9 | Malaysia | **457** | 467 | 431 | 1355 |
 | 10 | United Kingdom | **436** | 477 | 455 | 1368 |
-| 11 | Canada | **404** | 429 | 457 | 1290 |
+| 11 | Canada | **404** | 430 | 457 | 1291 |
 | 12 | Republic of Korea | **371** | 321 | 275 | 967 |
 | 13 | Denmark | **357** | 303 | 249 | 909 |
 | 14 | Switzerland | **356** | 444 | 341 | 1141 |
@@ -75,7 +75,7 @@
 | 68 | Mexico | **18** | 27 | 31 | 76 |
 | 69 | Bulgaria | **15** | 43 | 42 | 100 |
 | 70 | Nicaragua | **14** | 5 | 10 | 29 |
-| 71 | Macau, China | **12** | 23 | 31 | 66 |
+| 71 | Macau, China | **12** | 23 | 34 | 69 |
 | 72 | Nigeria | **12** | 23 | 16 | 51 |
 | 73 | Bolivia | **12** | 18 | 28 | 58 |
 | 74 | Uruguay | **11** | 8 | 18 | 37 |
