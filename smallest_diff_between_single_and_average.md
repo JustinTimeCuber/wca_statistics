@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 22 October 2024*
+*Updated on 25 October 2024*
 
 
 ### Rubik's Cube
@@ -837,12 +837,12 @@
 | 92 | 0.16 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) | 21.85 | 22.01 | [Dixon Winter 2017](https://www.worldcubeassociation.org/competitions/DixonWinter2017/results/by_person#2011FERA01) |
 | 93 | 0.16 | [Ng Tsz Hei (吳紫熙)](https://www.worldcubeassociation.org/persons/2023HEIN03) | 22.69 | 22.85 | [Glasgow Winter 2023](https://www.worldcubeassociation.org/competitions/GlasgowWinter2023/results/by_person#2023HEIN03) |
 | 94 | 0.17 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | 9.59 | 9.76 | [New Year's in the Dolomites 2023](https://www.worldcubeassociation.org/competitions/NewYearsintheDolomites2023/results/by_person#2021CHEL01) |
-| 95 | 0.17 | [Yusheng Du (杜宇生)](https://www.worldcubeassociation.org/persons/2015DUYU01) | 12.19 | 12.36 | [Chengdu Flash Cube Open 2023](https://www.worldcubeassociation.org/competitions/ChengduFlashCubeOpen2023/results/by_person#2015DUYU01) |
-| 96 | 0.17 | [David Remolina Amórtegui](https://www.worldcubeassociation.org/persons/2011AMOR01) | 13.74 | 13.91 | [Melgar Summer 2017](https://www.worldcubeassociation.org/competitions/MelgarSummer2017/results/by_person#2011AMOR01) |
-| 97 | 0.17 | [Andrew Nathenson](https://www.worldcubeassociation.org/persons/2011NATH02) | 14.07 | 14.24 | [US Nationals 2016](https://www.worldcubeassociation.org/competitions/USNationals2016/results/by_person#2011NATH02) |
-| 98 | 0.17 | [Dylan Chan](https://www.worldcubeassociation.org/persons/2018CHAN05) | 14.33 | 14.50 | [New England Championship 2023](https://www.worldcubeassociation.org/competitions/NewEnglandChampionship2023/results/by_person#2018CHAN05) |
-| 99 | 0.17 | [Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12) | 14.50 | 14.67 | [Taiwan Championship 2019](https://www.worldcubeassociation.org/competitions/TaiwanChampionship2019/results/by_person#2012HUAN12) |
-| 100 | 0.17 | [Divnoor Bajwa](https://www.worldcubeassociation.org/persons/2016BAJW01) | 14.65 | 14.82 | [The Big Cube Melbourne 2023](https://www.worldcubeassociation.org/competitions/TheBigCubeMelbourne2023/results/by_person#2016BAJW01) |
+| 95 | 0.17 | [Zixiong Xu (徐梓雄)](https://www.worldcubeassociation.org/persons/2017XUZI03) | 10.73 | 10.90 | [Guilin Open 2024](https://www.worldcubeassociation.org/competitions/GuilinOpen2024/results/by_person#2017XUZI03) |
+| 96 | 0.17 | [Yusheng Du (杜宇生)](https://www.worldcubeassociation.org/persons/2015DUYU01) | 12.19 | 12.36 | [Chengdu Flash Cube Open 2023](https://www.worldcubeassociation.org/competitions/ChengduFlashCubeOpen2023/results/by_person#2015DUYU01) |
+| 97 | 0.17 | [David Remolina Amórtegui](https://www.worldcubeassociation.org/persons/2011AMOR01) | 13.74 | 13.91 | [Melgar Summer 2017](https://www.worldcubeassociation.org/competitions/MelgarSummer2017/results/by_person#2011AMOR01) |
+| 98 | 0.17 | [Andrew Nathenson](https://www.worldcubeassociation.org/persons/2011NATH02) | 14.07 | 14.24 | [US Nationals 2016](https://www.worldcubeassociation.org/competitions/USNationals2016/results/by_person#2011NATH02) |
+| 99 | 0.17 | [Dylan Chan](https://www.worldcubeassociation.org/persons/2018CHAN05) | 14.33 | 14.50 | [New England Championship 2023](https://www.worldcubeassociation.org/competitions/NewEnglandChampionship2023/results/by_person#2018CHAN05) |
+| 100 | 0.17 | [Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12) | 14.50 | 14.67 | [Taiwan Championship 2019](https://www.worldcubeassociation.org/competitions/TaiwanChampionship2019/results/by_person#2012HUAN12) |
 
 ### Megaminx
 
