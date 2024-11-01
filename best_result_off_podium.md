@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 28 October 2024*
+*Updated on  1 November 2024*
 
 
 ### Rubik's Cube
@@ -1363,11 +1363,11 @@
 | 93 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | 2.15 | **3.15** | [Polish Championship 2018](https://www.worldcubeassociation.org/competitions/PolishChampionship2018/results/all#eskewb_f) | 4 |
 | 94 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | 2.38 | **3.15** | [North Star Cubing Challenge 2022](https://www.worldcubeassociation.org/competitions/NorthStarCubingChallenge2022/results/all#eskewb_f) | 4 |
 | 95 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) | 2.48 | **3.15** | [Energy Cube Ciechanów 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeCiechanow2024/results/all#eskewb_f) | 4 |
-| 96 | [Mingze Lin (林铭泽)](https://www.worldcubeassociation.org/persons/2019LINM03) | 2.27 | **3.16** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#eskewb_f) | 9 |
-| 97 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 2.31 | **3.16** | [Gdańska Liga Speedcubingu V 2024](https://www.worldcubeassociation.org/competitions/GdanskaLigaSpeedcubinguV2024/results/all#eskewb_f) | 6 |
-| 98 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 2.44 | **3.16** | [CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/all#eskewb_f) | 4 |
-| 99 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) | 2.48 | **3.16** | [Siedlce Open 2024](https://www.worldcubeassociation.org/competitions/SiedlceOpen2024/results/all#eskewb_f) | 8 |
-| 100 | [Szabolcs Szántai](https://www.worldcubeassociation.org/persons/2016SZAN01) | 2.53 | **3.16** | [Budapest ReOpen 2022](https://www.worldcubeassociation.org/competitions/BudapestReOpen2022/results/all#eskewb_f) | 4 |
+| 96 | [Ethan Zhuang](https://www.worldcubeassociation.org/persons/2018ZHUA10) | 1.73 | **3.16** | [Quick in Quincy 2024](https://www.worldcubeassociation.org/competitions/QuickinQuincy2024/results/all#eskewb_f) | 4 |
+| 97 | [Mingze Lin (林铭泽)](https://www.worldcubeassociation.org/persons/2019LINM03) | 2.27 | **3.16** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#eskewb_f) | 9 |
+| 98 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 2.31 | **3.16** | [Gdańska Liga Speedcubingu V 2024](https://www.worldcubeassociation.org/competitions/GdanskaLigaSpeedcubinguV2024/results/all#eskewb_f) | 6 |
+| 99 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 2.44 | **3.16** | [CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/all#eskewb_f) | 4 |
+| 100 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) | 2.48 | **3.16** | [Siedlce Open 2024](https://www.worldcubeassociation.org/competitions/SiedlceOpen2024/results/all#eskewb_f) | 8 |
 
 ### Square-1
 

@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 28 October 2024*
+*Updated on  1 November 2024*
 
 | Rank | Podiums | Person |
 | :--- | ---: | :--- |
@@ -1275,43 +1275,44 @@
 | 1269 | 11 | [Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01) | [Washtenaw Qualifiers 2024](https://www.worldcubeassociation.org/competitions/WashtenawQualifiers2024/results/podiums) |
 | 1270 | 11 | [Jonathan Charlesworth](https://www.worldcubeassociation.org/persons/2016CHAR01) | [WA State Championship 2021](https://www.worldcubeassociation.org/competitions/WAStateChampionship2021/results/podiums) |
 | 1271 | 10 | [Ruben Grobler](https://www.worldcubeassociation.org/persons/2015GROB02) | [African Championship 2022](https://www.worldcubeassociation.org/competitions/WCAAfricanChampionship2022/results/podiums) |
-| 1272 | 11 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | [Welcome Back Again Jkpg 2021](https://www.worldcubeassociation.org/competitions/WelcomeBackAgainJkpg2021/results/podiums) |
-| 1273 | 10 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | [Welcome Back to Guildford 2015](https://www.worldcubeassociation.org/competitions/WelcomeBackToGuildford2015/results/podiums) |
-| 1274 | 10 | [Grigoriy Barashkin](https://www.worldcubeassociation.org/persons/2017BARA05) | [Welcome to Murmansk 2021](https://www.worldcubeassociation.org/competitions/WelcometoMurmansk2021/results/podiums) |
-| 1275 | 10 | [Artem Yashkov](https://www.worldcubeassociation.org/persons/2014YASH01) | [Welcome to Saratov 2017](https://www.worldcubeassociation.org/competitions/WelcometoSaratov2017/results/podiums) |
-| 1276 | 13 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | [WGC 2015](https://www.worldcubeassociation.org/competitions/WelwynGardenCity2015/results/podiums) |
-| 1277 | 11 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [West Coast 2: Mölnlycke 2024](https://www.worldcubeassociation.org/competitions/WestCoast2Molnlycke2024/results/podiums) |
-| 1278 | 13 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [West Coast 3: Trollhättan 2024](https://www.worldcubeassociation.org/competitions/WestCoast3Trollhattan2024/results/podiums) |
-| 1279 | 11 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [West Coast 4: Göteborg 2024](https://www.worldcubeassociation.org/competitions/WestCoast4Goteborg2024/results/podiums) |
-| 1280 | 10 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | [Weston-super-Mare 2012](https://www.worldcubeassociation.org/competitions/WestonsuperMare2012/results/podiums) |
-| 1281 | 10 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | [Weston-super-Mare 2012](https://www.worldcubeassociation.org/competitions/WestonsuperMare2012/results/podiums) |
-| 1282 | 12 | [Ace Djun T. Aguirre Jr.](https://www.worldcubeassociation.org/persons/2016JRAC01) | [West Visayas Championship 2019](https://www.worldcubeassociation.org/competitions/WestVisayasChampionship2019/results/podiums) |
-| 1283 | 11 | [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | [Willimiehen Kuutiopäivät 2023](https://www.worldcubeassociation.org/competitions/WillimiehenKuutiopaivat2023/results/podiums) |
-| 1284 | 10 | [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | [Willimiehen Kuutiopäivät 2024](https://www.worldcubeassociation.org/competitions/WillimiehenKuutiopaivat2024/results/podiums) |
-| 1285 | 12 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | [Winnipeg Open 2019](https://www.worldcubeassociation.org/competitions/WinnipegOpen2019/results/podiums) |
-| 1286 | 12 | [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) | [Winnipeg Open 2019](https://www.worldcubeassociation.org/competitions/WinnipegOpen2019/results/podiums) |
-| 1287 | 13 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | [Winnipeg Open 2022](https://www.worldcubeassociation.org/competitions/WinnipegOpen2022/results/podiums) |
-| 1288 | 10 | [Carter Bitz](https://www.worldcubeassociation.org/persons/2016BITZ01) | [Winnipeg Open 2022](https://www.worldcubeassociation.org/competitions/WinnipegOpen2022/results/podiums) |
-| 1289 | 10 | [John Brechon](https://www.worldcubeassociation.org/persons/2010BREC01) | [Winona 2013](https://www.worldcubeassociation.org/competitions/WinonaOpen2013/results/podiums) |
-| 1290 | 10 | [Ihor Bilchenko (Ігор Більченко)](https://www.worldcubeassociation.org/persons/2011BILC01) | [WWU 2015](https://www.worldcubeassociation.org/competitions/WinterWestUkraine2015/results/podiums) |
-| 1291 | 12 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | [Wisconsin Qualifier 2024](https://www.worldcubeassociation.org/competitions/WisconsinQualifier2024/results/podiums) |
-| 1292 | 11 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [Wiscube 2018](https://www.worldcubeassociation.org/competitions/Wiscube2018/results/podiums) |
-| 1293 | 10 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) | [Wyoming Jackalope Dash 2018](https://www.worldcubeassociation.org/competitions/WyomingJackalopeDash2018/results/podiums) |
-| 1294 | 10 | [Francisco Alberto Castañeda Lima](https://www.worldcubeassociation.org/persons/2014LIMA09) | [Xela Open 2016](https://www.worldcubeassociation.org/competitions/XelaOpen2016/results/podiums) |
-| 1295 | 10 | [Kaique de Oliveira Neves](https://www.worldcubeassociation.org/persons/2022NEVE01) | [Xerém Open 2024](https://www.worldcubeassociation.org/competitions/XeremOpen2024/results/podiums) |
-| 1296 | 12 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Xi'an Cherry Blossom 2015](https://www.worldcubeassociation.org/competitions/XianCherryBlossom2015/results/podiums) |
-| 1297 | 12 | [Alexey Kislovskiy](https://www.worldcubeassociation.org/persons/2017KISL01) | [YJ Kazan 2019](https://www.worldcubeassociation.org/competitions/YJKazan2019/results/podiums) |
-| 1298 | 10 | [Rodrigo Paz Vaca](https://www.worldcubeassociation.org/persons/2015VACA01) | [Yo Rubik 2016](https://www.worldcubeassociation.org/competitions/YoRubik2016/results/podiums) |
-| 1299 | 12 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) | [Zaragoza Open 2016](https://www.worldcubeassociation.org/competitions/ZaragozaOpen2016/results/podiums) |
-| 1300 | 11 | [Antonio López](https://www.worldcubeassociation.org/persons/2014LOPE04) | [Zaragoza Open 2016](https://www.worldcubeassociation.org/competitions/ZaragozaOpen2016/results/podiums) |
-| 1301 | 13 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | [Zeeland Open 2016](https://www.worldcubeassociation.org/competitions/ZeelandOpen2016/results/podiums) |
-| 1302 | 11 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) | [ZGZ Open 2023](https://www.worldcubeassociation.org/competitions/ZGZOpen2023/results/podiums) |
-| 1303 | 13 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Zonhoven Open 2012](https://www.worldcubeassociation.org/competitions/ZonhovenOpen2012/results/podiums) |
-| 1304 | 10 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Zonhoven Open 2014](https://www.worldcubeassociation.org/competitions/ZonhovenOpen2014/results/podiums) |
-| 1305 | 11 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) | [Zune Open 2012](https://www.worldcubeassociation.org/competitions/ZuneOpen2012/results/podiums) |
-| 1306 | 10 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) | [Zurich Open 2016](https://www.worldcubeassociation.org/competitions/ZurichOpen2016/results/podiums) |
-| 1307 | 10 | [Leo Lindqvist](https://www.worldcubeassociation.org/persons/2017LIND01) | [Zvornik Summer 2024](https://www.worldcubeassociation.org/competitions/ZvornikSummer2024/results/podiums) |
-| 1308 | 10 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | [Zwolle Open 2018](https://www.worldcubeassociation.org/competitions/ZwolleOpen2018/results/podiums) |
+| 1272 | 11 | [Grigor Shahverdyan](https://www.worldcubeassociation.org/persons/2022SHAH29) | [Weekend Madness in Yerevan 2024](https://www.worldcubeassociation.org/competitions/WeekendMadnessinYerevan2024/results/podiums) |
+| 1273 | 11 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | [Welcome Back Again Jkpg 2021](https://www.worldcubeassociation.org/competitions/WelcomeBackAgainJkpg2021/results/podiums) |
+| 1274 | 10 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | [Welcome Back to Guildford 2015](https://www.worldcubeassociation.org/competitions/WelcomeBackToGuildford2015/results/podiums) |
+| 1275 | 10 | [Grigoriy Barashkin](https://www.worldcubeassociation.org/persons/2017BARA05) | [Welcome to Murmansk 2021](https://www.worldcubeassociation.org/competitions/WelcometoMurmansk2021/results/podiums) |
+| 1276 | 10 | [Artem Yashkov](https://www.worldcubeassociation.org/persons/2014YASH01) | [Welcome to Saratov 2017](https://www.worldcubeassociation.org/competitions/WelcometoSaratov2017/results/podiums) |
+| 1277 | 13 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | [WGC 2015](https://www.worldcubeassociation.org/competitions/WelwynGardenCity2015/results/podiums) |
+| 1278 | 11 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [West Coast 2: Mölnlycke 2024](https://www.worldcubeassociation.org/competitions/WestCoast2Molnlycke2024/results/podiums) |
+| 1279 | 13 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [West Coast 3: Trollhättan 2024](https://www.worldcubeassociation.org/competitions/WestCoast3Trollhattan2024/results/podiums) |
+| 1280 | 11 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) | [West Coast 4: Göteborg 2024](https://www.worldcubeassociation.org/competitions/WestCoast4Goteborg2024/results/podiums) |
+| 1281 | 10 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | [Weston-super-Mare 2012](https://www.worldcubeassociation.org/competitions/WestonsuperMare2012/results/podiums) |
+| 1282 | 10 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | [Weston-super-Mare 2012](https://www.worldcubeassociation.org/competitions/WestonsuperMare2012/results/podiums) |
+| 1283 | 12 | [Ace Djun T. Aguirre Jr.](https://www.worldcubeassociation.org/persons/2016JRAC01) | [West Visayas Championship 2019](https://www.worldcubeassociation.org/competitions/WestVisayasChampionship2019/results/podiums) |
+| 1284 | 11 | [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | [Willimiehen Kuutiopäivät 2023](https://www.worldcubeassociation.org/competitions/WillimiehenKuutiopaivat2023/results/podiums) |
+| 1285 | 10 | [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) | [Willimiehen Kuutiopäivät 2024](https://www.worldcubeassociation.org/competitions/WillimiehenKuutiopaivat2024/results/podiums) |
+| 1286 | 12 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | [Winnipeg Open 2019](https://www.worldcubeassociation.org/competitions/WinnipegOpen2019/results/podiums) |
+| 1287 | 12 | [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) | [Winnipeg Open 2019](https://www.worldcubeassociation.org/competitions/WinnipegOpen2019/results/podiums) |
+| 1288 | 13 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | [Winnipeg Open 2022](https://www.worldcubeassociation.org/competitions/WinnipegOpen2022/results/podiums) |
+| 1289 | 10 | [Carter Bitz](https://www.worldcubeassociation.org/persons/2016BITZ01) | [Winnipeg Open 2022](https://www.worldcubeassociation.org/competitions/WinnipegOpen2022/results/podiums) |
+| 1290 | 10 | [John Brechon](https://www.worldcubeassociation.org/persons/2010BREC01) | [Winona 2013](https://www.worldcubeassociation.org/competitions/WinonaOpen2013/results/podiums) |
+| 1291 | 10 | [Ihor Bilchenko (Ігор Більченко)](https://www.worldcubeassociation.org/persons/2011BILC01) | [WWU 2015](https://www.worldcubeassociation.org/competitions/WinterWestUkraine2015/results/podiums) |
+| 1292 | 12 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | [Wisconsin Qualifier 2024](https://www.worldcubeassociation.org/competitions/WisconsinQualifier2024/results/podiums) |
+| 1293 | 11 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [Wiscube 2018](https://www.worldcubeassociation.org/competitions/Wiscube2018/results/podiums) |
+| 1294 | 10 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) | [Wyoming Jackalope Dash 2018](https://www.worldcubeassociation.org/competitions/WyomingJackalopeDash2018/results/podiums) |
+| 1295 | 10 | [Francisco Alberto Castañeda Lima](https://www.worldcubeassociation.org/persons/2014LIMA09) | [Xela Open 2016](https://www.worldcubeassociation.org/competitions/XelaOpen2016/results/podiums) |
+| 1296 | 10 | [Kaique de Oliveira Neves](https://www.worldcubeassociation.org/persons/2022NEVE01) | [Xerém Open 2024](https://www.worldcubeassociation.org/competitions/XeremOpen2024/results/podiums) |
+| 1297 | 12 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [Xi'an Cherry Blossom 2015](https://www.worldcubeassociation.org/competitions/XianCherryBlossom2015/results/podiums) |
+| 1298 | 12 | [Alexey Kislovskiy](https://www.worldcubeassociation.org/persons/2017KISL01) | [YJ Kazan 2019](https://www.worldcubeassociation.org/competitions/YJKazan2019/results/podiums) |
+| 1299 | 10 | [Rodrigo Paz Vaca](https://www.worldcubeassociation.org/persons/2015VACA01) | [Yo Rubik 2016](https://www.worldcubeassociation.org/competitions/YoRubik2016/results/podiums) |
+| 1300 | 12 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) | [Zaragoza Open 2016](https://www.worldcubeassociation.org/competitions/ZaragozaOpen2016/results/podiums) |
+| 1301 | 11 | [Antonio López](https://www.worldcubeassociation.org/persons/2014LOPE04) | [Zaragoza Open 2016](https://www.worldcubeassociation.org/competitions/ZaragozaOpen2016/results/podiums) |
+| 1302 | 13 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | [Zeeland Open 2016](https://www.worldcubeassociation.org/competitions/ZeelandOpen2016/results/podiums) |
+| 1303 | 11 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) | [ZGZ Open 2023](https://www.worldcubeassociation.org/competitions/ZGZOpen2023/results/podiums) |
+| 1304 | 13 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Zonhoven Open 2012](https://www.worldcubeassociation.org/competitions/ZonhovenOpen2012/results/podiums) |
+| 1305 | 10 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Zonhoven Open 2014](https://www.worldcubeassociation.org/competitions/ZonhovenOpen2014/results/podiums) |
+| 1306 | 11 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) | [Zune Open 2012](https://www.worldcubeassociation.org/competitions/ZuneOpen2012/results/podiums) |
+| 1307 | 10 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) | [Zurich Open 2016](https://www.worldcubeassociation.org/competitions/ZurichOpen2016/results/podiums) |
+| 1308 | 10 | [Leo Lindqvist](https://www.worldcubeassociation.org/persons/2017LIND01) | [Zvornik Summer 2024](https://www.worldcubeassociation.org/competitions/ZvornikSummer2024/results/podiums) |
+| 1309 | 10 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | [Zwolle Open 2018](https://www.worldcubeassociation.org/competitions/ZwolleOpen2018/results/podiums) |
 
 
 <a href="https://github.com/JustinTimeCuber/wca_statistics" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>
