@@ -1,25 +1,25 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on  1 November 2024*
+*Updated on  4 November 2024*
 
 | Rank | Country | Gold | Silver | Bronze | Total |
 | :--- | :--- | :--: | :--: | :--: | :--: |
 | 1 | Hungary | **1446** | 1224 | 1050 | 3720 |
 | 2 | United States | **1217** | 985 | 863 | 3065 |
 | 3 | Germany | **1175** | 1109 | 1120 | 3404 |
-| 4 | France | **1011** | 873 | 733 | 2617 |
-| 5 | Russia | **984** | 571 | 446 | 2001 |
+| 4 | France | **1011** | 873 | 734 | 2618 |
+| 5 | Russia | **984** | 572 | 448 | 2004 |
 | 6 | Netherlands | **982** | 794 | 672 | 2448 |
 | 7 | China | **796** | 765 | 668 | 2229 |
-| 8 | Poland | **670** | 436 | 339 | 1445 |
+| 8 | Poland | **670** | 437 | 340 | 1447 |
 | 9 | Malaysia | **459** | 468 | 434 | 1361 |
 | 10 | United Kingdom | **436** | 478 | 456 | 1370 |
-| 11 | Canada | **407** | 430 | 459 | 1296 |
+| 11 | Canada | **407** | 431 | 459 | 1297 |
 | 12 | Republic of Korea | **373** | 321 | 276 | 970 |
-| 13 | Denmark | **360** | 304 | 251 | 915 |
-| 14 | Switzerland | **358** | 445 | 345 | 1148 |
-| 15 | Hong Kong, China | **357** | 369 | 299 | 1025 |
+| 13 | Switzerland | **360** | 448 | 348 | 1156 |
+| 14 | Denmark | **360** | 304 | 251 | 915 |
+| 15 | Hong Kong, China | **358** | 371 | 300 | 1029 |
 | 16 | India | **339** | 312 | 299 | 950 |
 | 17 | Italy | **325** | 320 | 286 | 931 |
 | 18 | Sweden | **318** | 373 | 378 | 1069 |
@@ -48,7 +48,7 @@
 | 41 | Lithuania | **96** | 87 | 94 | 277 |
 | 42 | Slovakia | **89** | 101 | 111 | 301 |
 | 43 | Thailand | **88** | 95 | 48 | 231 |
-| 44 | Philippines | **80** | 95 | 97 | 272 |
+| 44 | Philippines | **80** | 95 | 98 | 273 |
 | 45 | Croatia | **76** | 111 | 84 | 271 |
 | 46 | Venezuela | **71** | 78 | 73 | 222 |
 | 47 | Guatemala | **67** | 41 | 47 | 155 |
@@ -72,7 +72,7 @@
 | 65 | El Salvador | **21** | 25 | 21 | 67 |
 | 66 | Pakistan | **21** | 15 | 21 | 57 |
 | 67 | North Macedonia | **20** | 27 | 31 | 78 |
-| 68 | Mexico | **18** | 27 | 32 | 77 |
+| 68 | Mexico | **19** | 27 | 32 | 78 |
 | 69 | Bulgaria | **16** | 43 | 42 | 101 |
 | 70 | Macau, China | **15** | 23 | 34 | 72 |
 | 71 | Nicaragua | **14** | 5 | 10 | 29 |
