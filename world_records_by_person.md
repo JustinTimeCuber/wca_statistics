@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on  7 November 2024*
+*Updated on 10 November 2024*
 
 | Rank | WRs | Person |
 | :--- | ---: | :--- |
@@ -30,23 +30,23 @@
 | 24 | 10 | [Gunnar Kantare Krig](https://www.worldcubeassociation.org/persons/2004KRIG01) |
 | 25 | 10 | [Ryan Patricio](https://www.worldcubeassociation.org/persons/2004PATR01) |
 | 26 | 9 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) |
-| 27 | 9 | [Yohei Oka (岡要平)](https://www.worldcubeassociation.org/persons/2006OKAY01) |
-| 28 | 8 | [Bingliang Li (李炳良)](https://www.worldcubeassociation.org/persons/2008LIBI01) |
-| 29 | 8 | [Jaap Scherphuis](https://www.worldcubeassociation.org/persons/2003SCHE01) |
-| 30 | 8 | [Leyan Lo](https://www.worldcubeassociation.org/persons/2004LOLE01) |
-| 31 | 8 | [Oliver Frost](https://www.worldcubeassociation.org/persons/2012FROS01) |
-| 32 | 8 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
-| 33 | 8 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
-| 34 | 8 | [Yu Nakajima (中島悠)](https://www.worldcubeassociation.org/persons/2007NAKA03) |
-| 35 | 8 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) |
-| 36 | 7 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
-| 37 | 7 | [Drew Brads](https://www.worldcubeassociation.org/persons/2010BRAD01) |
-| 38 | 7 | [Haiyan Zhuang (庄海燕)](https://www.worldcubeassociation.org/persons/2008ZHUA01) |
-| 39 | 7 | [Max Hilliard](https://www.worldcubeassociation.org/persons/2015HILL09) |
-| 40 | 7 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) |
-| 41 | 7 | [Roman Strakhov](https://www.worldcubeassociation.org/persons/2012STRA02) |
-| 42 | 7 | [Ville Seppänen](https://www.worldcubeassociation.org/persons/2008SEPP01) |
-| 43 | 7 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) |
+| 27 | 9 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
+| 28 | 9 | [Yohei Oka (岡要平)](https://www.worldcubeassociation.org/persons/2006OKAY01) |
+| 29 | 8 | [Bingliang Li (李炳良)](https://www.worldcubeassociation.org/persons/2008LIBI01) |
+| 30 | 8 | [Jaap Scherphuis](https://www.worldcubeassociation.org/persons/2003SCHE01) |
+| 31 | 8 | [Leyan Lo](https://www.worldcubeassociation.org/persons/2004LOLE01) |
+| 32 | 8 | [Oliver Frost](https://www.worldcubeassociation.org/persons/2012FROS01) |
+| 33 | 8 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
+| 34 | 8 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) |
+| 35 | 8 | [Yu Nakajima (中島悠)](https://www.worldcubeassociation.org/persons/2007NAKA03) |
+| 36 | 8 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) |
+| 37 | 7 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
+| 38 | 7 | [Drew Brads](https://www.worldcubeassociation.org/persons/2010BRAD01) |
+| 39 | 7 | [Haiyan Zhuang (庄海燕)](https://www.worldcubeassociation.org/persons/2008ZHUA01) |
+| 40 | 7 | [Max Hilliard](https://www.worldcubeassociation.org/persons/2015HILL09) |
+| 41 | 7 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) |
+| 42 | 7 | [Roman Strakhov](https://www.worldcubeassociation.org/persons/2012STRA02) |
+| 43 | 7 | [Ville Seppänen](https://www.worldcubeassociation.org/persons/2008SEPP01) |
 | 44 | 7 | [Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01) |
 | 45 | 6 | [Bálint Bodor](https://www.worldcubeassociation.org/persons/2008BODO01) |
 | 46 | 6 | [Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01) |
