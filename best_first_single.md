@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 13 November 2024*
+*Updated on 16 November 2024*
 
 
 ### Rubik's Cube
@@ -826,8 +826,8 @@
 | 81 | 30 | [Joshua Hounslow](https://www.worldcubeassociation.org/persons/2016HOUN01) |
 | 82 | 30 | [Yap Jia Yang](https://www.worldcubeassociation.org/persons/2016YANG84) |
 | 83 | 30 | [Daniel Alejandro Torres Moreno](https://www.worldcubeassociation.org/persons/2018MORE19) |
-| 84 | 30 | [Theo Hall](https://www.worldcubeassociation.org/persons/2017HALL06) |
-| 85 | 30 | [Stephen Waller](https://www.worldcubeassociation.org/persons/2017WALL12) |
+| 84 | 30 | [Stephen Waller](https://www.worldcubeassociation.org/persons/2017WALL12) |
+| 85 | 30 | [Theo Hall](https://www.worldcubeassociation.org/persons/2017HALL06) |
 | 86 | 30 | [Alon Ron](https://www.worldcubeassociation.org/persons/2017RONA02) |
 | 87 | 30 | [Tee Kai Yang](https://www.worldcubeassociation.org/persons/2017YANG59) |
 | 88 | 30 | [Conor Sullivan](https://www.worldcubeassociation.org/persons/2018SULL05) |
@@ -840,8 +840,8 @@
 | 95 | 30 | [Cheng-Wei Lin (林澄蔚)](https://www.worldcubeassociation.org/persons/2015LINC03) |
 | 96 | 30 | [Alvin Cheng Hiu Yeung (鄭曉洋)](https://www.worldcubeassociation.org/persons/2019YEUN01) |
 | 97 | 30 | [Harrison Jonathan Newbery-Chunn](https://www.worldcubeassociation.org/persons/2021NEWB01) |
-| 98 | 30 | [Sadafumi Kikuchi (菊地貞文)](https://www.worldcubeassociation.org/persons/2022KIKU01) |
-| 99 | 30 | [Kazuaki Oshima (大島一晃)](https://www.worldcubeassociation.org/persons/2010OSHI01) |
+| 98 | 30 | [Kazuaki Oshima (大島一晃)](https://www.worldcubeassociation.org/persons/2010OSHI01) |
+| 99 | 30 | [Sadafumi Kikuchi (菊地貞文)](https://www.worldcubeassociation.org/persons/2022KIKU01) |
 | 100 | 30 | [Anthony Lauro](https://www.worldcubeassociation.org/persons/2012LAUR02) |
 
 ### 3x3x3 One-Handed

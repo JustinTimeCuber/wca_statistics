@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on 13 November 2024*
+*Updated on 16 November 2024*
 
 
 ### 3x3x3 Blindfolded
@@ -305,8 +305,8 @@
 | 91 | 12 | [Nathan Phillips](https://www.worldcubeassociation.org/persons/2021PHIL05) |
 | 92 | 12 | [Patrick Collins](https://www.worldcubeassociation.org/persons/2019COLL12) |
 | 93 | 12 | [Simon Dimpker](https://www.worldcubeassociation.org/persons/2021DIMP01) |
-| 94 | 12 | [Kalindu Sachintha Wijesundara](https://www.worldcubeassociation.org/persons/2022WIJE02) |
-| 95 | 12 | [Bella Campbell](https://www.worldcubeassociation.org/persons/2018CAMP17) |
+| 94 | 12 | [Bella Campbell](https://www.worldcubeassociation.org/persons/2018CAMP17) |
+| 95 | 12 | [Kalindu Sachintha Wijesundara](https://www.worldcubeassociation.org/persons/2022WIJE02) |
 | 96 | 11 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) |
 | 97 | 11 | [Shaden Smith](https://www.worldcubeassociation.org/persons/2008SMIT01) |
 | 98 | 11 | [Tessa Cookmeyer](https://www.worldcubeassociation.org/persons/2010COOK01) |
@@ -487,8 +487,8 @@
 | 68 | 12 | [Simone Bentlage](https://www.worldcubeassociation.org/persons/2014OHLE01) |
 | 69 | 12 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) |
 | 70 | 12 | [Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01) |
-| 71 | 12 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) |
-| 72 | 12 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
+| 71 | 12 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
+| 72 | 12 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) |
 | 73 | 12 | [Renan da Cunha Santos](https://www.worldcubeassociation.org/persons/2017SANT12) |
 | 74 | 12 | [Joel Lundström](https://www.worldcubeassociation.org/persons/2017LUND06) |
 | 75 | 12 | [Brayden Thompson](https://www.worldcubeassociation.org/persons/2022THOM14) |
@@ -802,9 +802,9 @@
 | 178 | 4 | [Jack Gerring](https://www.worldcubeassociation.org/persons/2012GERR01) |
 | 179 | 4 | [Hafizh Dary Faridhan Hudoyo](https://www.worldcubeassociation.org/persons/2015HUDO01) |
 | 180 | 4 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
-| 181 | 4 | [CJ Sheng](https://www.worldcubeassociation.org/persons/2012SHEN02) |
-| 182 | 4 | [Mickaël Paquer](https://www.worldcubeassociation.org/persons/2013PAQU01) |
-| 183 | 4 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
+| 181 | 4 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
+| 182 | 4 | [CJ Sheng](https://www.worldcubeassociation.org/persons/2012SHEN02) |
+| 183 | 4 | [Mickaël Paquer](https://www.worldcubeassociation.org/persons/2013PAQU01) |
 | 184 | 4 | [Owen Widdis](https://www.worldcubeassociation.org/persons/2015WIDD01) |
 | 185 | 4 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) |
 | 186 | 4 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) |

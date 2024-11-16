@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 1000 single are taken into account.*
-*Updated on 13 November 2024*
+*Updated on 16 November 2024*
 
 
 ### Rubik's Cube
@@ -699,8 +699,8 @@
 | 59 | 29.68 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) | 1:05.71, 30.95, 31.57, 26.51, 27.35, 29.13, 28.44, 34.17, 32.08, 28.40, 28.19, 22.26 |
 | 60 | 29.81 | [Marcos Ferreira Semolini](https://www.worldcubeassociation.org/persons/2017SEMO02) | 38.93, 27.84, 27.22, 35.78, 30.23, 21.08, DNF, 19.09, 28.81, 31.65, 27.11, 29.48 |
 | 61 | 29.87 | [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) | 30.48, 44.10, 31.30, 21.72, 27.19, DNF, 24.52, 29.99, 25.49, 32.24, 25.37, 28.00 |
-| 62 | 30.38 | [Jonathan Blöcher](https://www.worldcubeassociation.org/persons/2018BLOC01) | 26.65, 36.86, 27.73, 30.29, 28.99, 32.00, 34.52, 29.93, 30.62, 25.71, 30.17, 32.94 |
-| 63 | 30.66 | [Kevin Liu](https://www.worldcubeassociation.org/persons/2023LIUK02) | 30.12, 26.72, 36.57, 31.05, 33.06, 33.78, 26.93, 26.12, 25.88, 42.24, 36.36, 24.86 |
+| 62 | 29.98 | [Kevin Liu](https://www.worldcubeassociation.org/persons/2023LIUK02) | 33.78, 26.93, 26.12, 25.88, 42.24, 36.36, 24.86, 32.17, 27.25, 33.24, 33.21, 24.24 |
+| 63 | 30.38 | [Jonathan Blöcher](https://www.worldcubeassociation.org/persons/2018BLOC01) | 26.65, 36.86, 27.73, 30.29, 28.99, 32.00, 34.52, 29.93, 30.62, 25.71, 30.17, 32.94 |
 | 64 | 30.68 | [Maxim Pürstinger](https://www.worldcubeassociation.org/persons/2022PURS01) | 31.01, 35.79, 32.08, 31.16, 21.14, DNF, 27.59, 31.52, 21.93, 24.94, 43.62, 27.14 |
 | 65 | 30.85 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 1:02.40, 45.02, 38.27, 21.75, 19.62, DNF, 19.02, 29.08, 19.89, 30.47, 21.39, 20.62 |
 | 66 | 31.16 | [Adel Mosallami](https://www.worldcubeassociation.org/persons/2018MOSA01) | 25.99, 26.32, 56.41, 31.84, 44.52, 23.13, 29.85, 31.14, 28.29, 19.30, 44.92, 25.56 |
