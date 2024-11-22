@@ -1,6 +1,6 @@
 ## World Championship podiums by person
 
-*Updated on 19 November 2024*
+*Updated on 22 November 2024*
 
 | Rank | Person | Gold | Silver | Bronze | Total |
 | :--- | :--- | :--: | :--: | :--: | :--: |
@@ -42,7 +42,7 @@
 | 36 | [Zane Carney](https://www.worldcubeassociation.org/persons/2010CARN01) | **1** | 2 | 0 | 3 |
 | 37 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | **1** | 1 | 3 | 5 |
 | 38 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | **1** | 1 | 3 | 5 |
-| 39 | [Noah Arthurs](https://www.worldcubeassociation.org/persons/2012ARTH01) | **1** | 1 | 3 | 5 |
+| 39 | [Noa Arthurs](https://www.worldcubeassociation.org/persons/2012ARTH01) | **1** | 1 | 3 | 5 |
 | 40 | [Alexander Ooms](https://www.worldcubeassociation.org/persons/2005OOMS01) | **1** | 1 | 2 | 4 |
 | 41 | [Grant Tregay](https://www.worldcubeassociation.org/persons/2003TREG02) | **1** | 1 | 2 | 4 |
 | 42 | [Ernesto Fernández Regueira](https://www.worldcubeassociation.org/persons/2004FERN01) | **1** | 1 | 1 | 3 |

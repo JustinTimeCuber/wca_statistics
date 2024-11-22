@@ -1,7 +1,7 @@
 ## Records in the highest number of events
 
 *Note: All historical records are taken into account (i.e. not only the current ones).*
-*Updated on 19 November 2024*
+*Updated on 22 November 2024*
 
 
 ### World
@@ -324,7 +324,7 @@
 | 109 | 3 | [Zane Carney](https://www.worldcubeassociation.org/persons/2010CARN01) | 3x3x3 Blindfolded, 5x5x5 Blindfolded, 3x3x3 Multi-Blind |
 | 110 | 3 | [Tim Habermaas](https://www.worldcubeassociation.org/persons/2007HABE01) | 4x4x4 Blindfolded, 3x3x3 Multi-Blind, 3x3x3 Multi-Blind Old Style |
 | 111 | 3 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 4x4x4 Blindfolded, 5x5x5 Blindfolded, 3x3x3 Multi-Blind |
-| 112 | 3 | [Noah Arthurs](https://www.worldcubeassociation.org/persons/2012ARTH01) | 3x3x3 Blindfolded, 4x4x4 Blindfolded, 3x3x3 Multi-Blind |
+| 112 | 3 | [Noa Arthurs](https://www.worldcubeassociation.org/persons/2012ARTH01) | 3x3x3 Blindfolded, 4x4x4 Blindfolded, 3x3x3 Multi-Blind |
 | 113 | 3 | [Tim Wong](https://www.worldcubeassociation.org/persons/2007WONG02) | 3x3x3 Blindfolded, 3x3x3 Fewest Moves, 3x3x3 Multi-Blind |
 | 114 | 3 | [Muhammad Iril Khairul Anam](https://www.worldcubeassociation.org/persons/2009ANAM01) | 4x4x4 Blindfolded, 5x5x5 Blindfolded, 3x3x3 Multi-Blind |
 | 115 | 3 | [Ryosuke Mondo (門戸良介)](https://www.worldcubeassociation.org/persons/2006MOND01) | 5x5x5 Blindfolded, 3x3x3 Multi-Blind, 3x3x3 Multi-Blind Old Style |

@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 19 November 2024*
+*Updated on 22 November 2024*
 
 | Rank | WRs | Person |
 | :--- | ---: | :--- |
@@ -654,7 +654,7 @@
 | 647 | 27 | [Adam Greenwood](https://www.worldcubeassociation.org/persons/2011GREE03) |
 | 648 | 27 | [Bruno Vervoort](https://www.worldcubeassociation.org/persons/2011VERV01) |
 | 649 | 27 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) |
-| 650 | 27 | [Noah Arthurs](https://www.worldcubeassociation.org/persons/2012ARTH01) |
+| 650 | 27 | [Noa Arthurs](https://www.worldcubeassociation.org/persons/2012ARTH01) |
 | 651 | 27 | [Alexandre Carlier](https://www.worldcubeassociation.org/persons/2012CARL03) |
 | 652 | 27 | [Dylan Hughlett](https://www.worldcubeassociation.org/persons/2012HUGH01) |
 | 653 | 27 | [Ruohan Qiu (邱若寒)](https://www.worldcubeassociation.org/persons/2012QIUR01) |
