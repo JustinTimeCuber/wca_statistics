@@ -1,7 +1,7 @@
 ## Records in the highest number of events
 
 *Note: All historical records are taken into account (i.e. not only the current ones).*
-*Updated on 22 November 2024*
+*Updated on 25 November 2024*
 
 
 ### World
@@ -192,22 +192,22 @@
 | 182 | 1 | [Angelo Zhang](https://www.worldcubeassociation.org/persons/2014ZHAN01) | 3x3x3 Blindfolded |
 | 183 | 1 | [Hill Pong Yong Feng](https://www.worldcubeassociation.org/persons/2017FENG10) | 5x5x5 Blindfolded |
 | 184 | 1 | [Tyson Mao (毛台勝)](https://www.worldcubeassociation.org/persons/2004MAOT02) | 3x3x3 Blindfolded |
-| 185 | 1 | [Anuar Miguel Abib Onofre](https://www.worldcubeassociation.org/persons/2015ONOF01) | Square-1 |
-| 186 | 1 | [Levi Gibson](https://www.worldcubeassociation.org/persons/2018GIBS04) | 3x3x3 Fewest Moves |
-| 187 | 1 | [Aedan Bryant](https://www.worldcubeassociation.org/persons/2017BRYA06) | 3x3x3 Fewest Moves |
-| 188 | 1 | [Jibo Zhao (赵吉波)](https://www.worldcubeassociation.org/persons/2010ZHAO11) | 3x3x3 Fewest Moves |
-| 189 | 1 | [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) | 3x3x3 Fewest Moves |
-| 190 | 1 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) | 3x3x3 Fewest Moves |
-| 191 | 1 | [Tomoaki Okayama (岡山友昭)](https://www.worldcubeassociation.org/persons/2009OKAY01) | 3x3x3 Fewest Moves |
-| 192 | 1 | [Marcel Peters](https://www.worldcubeassociation.org/persons/2012PETE03) | 3x3x3 Fewest Moves |
-| 193 | 1 | [SeungWoon Lee (이승운)](https://www.worldcubeassociation.org/persons/2006SEUN02) | 3x3x3 One-Handed |
-| 194 | 1 | [Mario Laurent](https://www.worldcubeassociation.org/persons/2008LAUR01) | 3x3x3 Fewest Moves |
-| 195 | 1 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | 3x3x3 Fewest Moves |
-| 196 | 1 | [Nathan Dwyer](https://www.worldcubeassociation.org/persons/2011DWYE02) | Square-1 |
-| 197 | 1 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | Clock |
-| 198 | 1 | [Chad Batten](https://www.worldcubeassociation.org/persons/2009BATT01) | 3x3x3 Fewest Moves |
-| 199 | 1 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | Clock |
-| 200 | 1 | [Hong Zhang (张宏)](https://www.worldcubeassociation.org/persons/2008ZHAN13) | 3x3x3 Fewest Moves |
+| 185 | 1 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 3x3x3 Fewest Moves |
+| 186 | 1 | [Anuar Miguel Abib Onofre](https://www.worldcubeassociation.org/persons/2015ONOF01) | Square-1 |
+| 187 | 1 | [Levi Gibson](https://www.worldcubeassociation.org/persons/2018GIBS04) | 3x3x3 Fewest Moves |
+| 188 | 1 | [Aedan Bryant](https://www.worldcubeassociation.org/persons/2017BRYA06) | 3x3x3 Fewest Moves |
+| 189 | 1 | [Jibo Zhao (赵吉波)](https://www.worldcubeassociation.org/persons/2010ZHAO11) | 3x3x3 Fewest Moves |
+| 190 | 1 | [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) | 3x3x3 Fewest Moves |
+| 191 | 1 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) | 3x3x3 Fewest Moves |
+| 192 | 1 | [Tomoaki Okayama (岡山友昭)](https://www.worldcubeassociation.org/persons/2009OKAY01) | 3x3x3 Fewest Moves |
+| 193 | 1 | [Marcel Peters](https://www.worldcubeassociation.org/persons/2012PETE03) | 3x3x3 Fewest Moves |
+| 194 | 1 | [SeungWoon Lee (이승운)](https://www.worldcubeassociation.org/persons/2006SEUN02) | 3x3x3 One-Handed |
+| 195 | 1 | [Mario Laurent](https://www.worldcubeassociation.org/persons/2008LAUR01) | 3x3x3 Fewest Moves |
+| 196 | 1 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | 3x3x3 Fewest Moves |
+| 197 | 1 | [Nathan Dwyer](https://www.worldcubeassociation.org/persons/2011DWYE02) | Square-1 |
+| 198 | 1 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) | Clock |
+| 199 | 1 | [Chad Batten](https://www.worldcubeassociation.org/persons/2009BATT01) | 3x3x3 Fewest Moves |
+| 200 | 1 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | Clock |
 
 ### Continental
 
