@@ -1609,7 +1609,7 @@
 | 71 | 1:06.39 | [Roy Lee](https://www.worldcubeassociation.org/persons/2011LEER01) |
 | 72 | 1:06.49 | [Ana Beatriz M. Tannenbaum](https://www.worldcubeassociation.org/persons/2016TANN01) |
 | 73 | 1:06.54 | [Rizki Akbari Utama](https://www.worldcubeassociation.org/persons/2012UTAM01) |
-| 74 | 1:06.67 | [Emilio Eleodoro Ramírez Lahsen](https://www.worldcubeassociation.org/persons/2015RAMI07) |
+| 74 | 1:06.67 | [Emilio Eleodoro Lahsen Ramírez](https://www.worldcubeassociation.org/persons/2015RAMI07) |
 | 75 | 1:06.95 | [Roy Tamir](https://www.worldcubeassociation.org/persons/2014TAMI01) |
 | 76 | 1:07.14 | [Advay Sant](https://www.worldcubeassociation.org/persons/2015SANT44) |
 | 77 | 1:07.35 | [Yong Hyeon Jo (조용현)](https://www.worldcubeassociation.org/persons/2014JOYO01) |

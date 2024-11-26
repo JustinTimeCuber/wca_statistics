@@ -212,18 +212,18 @@
 
 | Rank |  | Solves | Attempts |
 | :--- | :--- | ---: | ---: |
-| 1 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | **18432** | 18943 |
+| 1 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | **18488** | 18999 |
 | 2 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | **18418** | 19185 |
 | 3 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **17831** | 19233 |
 | 4 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | **17071** | 17719 |
 | 5 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | **16762** | 17127 |
 | 6 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **15675** | 16235 |
-| 7 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | **14273** | 14970 |
+| 7 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | **14291** | 14988 |
 | 8 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | **14237** | 15018 |
 | 9 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) | **14156** | 14577 |
-| 10 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | **13496** | 14081 |
-| 11 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | **13365** | 13990 |
-| 12 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) | **13267** | 13665 |
+| 10 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | **13650** | 14243 |
+| 11 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | **13381** | 14007 |
+| 12 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) | **13313** | 13711 |
 | 13 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **13162** | 13684 |
 | 14 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **12753** | 13757 |
 | 15 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) | **12540** | 12867 |
@@ -234,14 +234,14 @@
 | 20 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) | **11997** | 12369 |
 | 21 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) | **11474** | 12050 |
 | 22 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **11230** | 11679 |
-| 23 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | **11084** | 11623 |
-| 24 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | **11084** | 11826 |
-| 25 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | **11060** | 11688 |
-| 26 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | **10976** | 11656 |
+| 23 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | **11121** | 11806 |
+| 24 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | **11084** | 11623 |
+| 25 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | **11084** | 11826 |
+| 26 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | **11060** | 11688 |
 | 27 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **10871** | 11179 |
 | 28 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | **10713** | 11063 |
 | 29 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) | **10660** | 11292 |
-| 30 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) | **10602** | 10741 |
+| 30 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) | **10623** | 10762 |
 | 31 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **10497** | 11258 |
 | 32 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) | **10473** | 10809 |
 | 33 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | **10385** | 10661 |
@@ -249,18 +249,18 @@
 | 35 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | **10270** | 10657 |
 | 36 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | **10264** | 10451 |
 | 37 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) | **10151** | 10948 |
-| 38 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | **10136** | 10752 |
-| 39 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) | **10117** | 10374 |
-| 40 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) | **10102** | 10621 |
-| 41 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) | **10049** | 10252 |
-| 42 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | **10031** | 10300 |
-| 43 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | **9928** | 10313 |
+| 38 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) | **10136** | 10656 |
+| 39 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | **10136** | 10752 |
+| 40 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) | **10117** | 10374 |
+| 41 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | **10067** | 10456 |
+| 42 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) | **10049** | 10252 |
+| 43 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | **10031** | 10300 |
 | 44 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | **9913** | 10235 |
 | 45 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) | **9827** | 10743 |
 | 46 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) | **9808** | 10364 |
 | 47 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) | **9801** | 10194 |
 | 48 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | **9758** | 10147 |
-| 49 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) | **9700** | 9826 |
+| 49 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) | **9742** | 9868 |
 | 50 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | **9537** | 9912 |
 | 51 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) | **9369** | 9685 |
 | 52 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) | **9255** | 9574 |
@@ -276,7 +276,7 @@
 | 62 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | **8719** | 9254 |
 | 63 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **8717** | 9213 |
 | 64 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | **8674** | 8877 |
-| 65 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) | **8604** | 9367 |
+| 65 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) | **8621** | 9385 |
 | 66 | [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) | **8587** | 9054 |
 | 67 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | **8563** | 9360 |
 | 68 | [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) | **8533** | 9029 |
@@ -309,15 +309,15 @@
 | 95 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | **7578** | 7972 |
 | 96 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | **7557** | 8052 |
 | 97 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) | **7542** | 8083 |
-| 98 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) | **7507** | 7608 |
-| 99 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) | **7506** | 8097 |
-| 100 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) | **7503** | 7780 |
-| 101 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | **7491** | 7889 |
-| 102 | [Tommy Szeliga](https://www.worldcubeassociation.org/persons/2012SZEL01) | **7473** | 7735 |
-| 103 | [Anton Piau](https://www.worldcubeassociation.org/persons/2008PIAU01) | **7461** | 7726 |
-| 104 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | **7457** | 7651 |
-| 105 | [Arttu Puttonen](https://www.worldcubeassociation.org/persons/2016PUTT01) | **7448** | 7783 |
-| 106 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | **7408** | 7881 |
+| 98 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | **7521** | 8003 |
+| 99 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) | **7507** | 7608 |
+| 100 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) | **7506** | 8097 |
+| 101 | [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) | **7503** | 7780 |
+| 102 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | **7491** | 7889 |
+| 103 | [Tommy Szeliga](https://www.worldcubeassociation.org/persons/2012SZEL01) | **7473** | 7735 |
+| 104 | [Anton Piau](https://www.worldcubeassociation.org/persons/2008PIAU01) | **7461** | 7726 |
+| 105 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) | **7457** | 7651 |
+| 106 | [Arttu Puttonen](https://www.worldcubeassociation.org/persons/2016PUTT01) | **7448** | 7783 |
 | 107 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | **7383** | 7755 |
 | 108 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) | **7379** | 7932 |
 | 109 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | **7369** | 7639 |
@@ -356,14 +356,14 @@
 | 142 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) | **6761** | 6915 |
 | 143 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) | **6760** | 7149 |
 | 144 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | **6759** | 6899 |
-| 145 | [Alexis Rodrigo Cazu Mendoza](https://www.worldcubeassociation.org/persons/2014MEND02) | **6742** | 6930 |
-| 146 | [Antto Pitkänen](https://www.worldcubeassociation.org/persons/2017PITK01) | **6716** | 7063 |
-| 147 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) | **6688** | 7134 |
-| 148 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | **6657** | 6858 |
-| 149 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) | **6627** | 7246 |
-| 150 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) | **6617** | 6883 |
-| 151 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | **6604** | 6872 |
-| 152 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | **6598** | 7001 |
+| 145 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | **6755** | 7163 |
+| 146 | [Alexis Rodrigo Cazu Mendoza](https://www.worldcubeassociation.org/persons/2014MEND02) | **6742** | 6930 |
+| 147 | [Antto Pitkänen](https://www.worldcubeassociation.org/persons/2017PITK01) | **6716** | 7063 |
+| 148 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) | **6688** | 7134 |
+| 149 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | **6657** | 6858 |
+| 150 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) | **6627** | 7246 |
+| 151 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) | **6617** | 6883 |
+| 152 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | **6604** | 6872 |
 | 153 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) | **6538** | 6966 |
 | 154 | [Linus Frész](https://www.worldcubeassociation.org/persons/2011FRES01) | **6499** | 6943 |
 | 155 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) | **6428** | 6846 |
@@ -379,9 +379,9 @@
 | 165 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) | **6159** | 6584 |
 | 166 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) | **6147** | 6535 |
 | 167 | [Stephen Griggs](https://www.worldcubeassociation.org/persons/2014GRIG01) | **6129** | 6322 |
-| 168 | [Manuel Popayán](https://www.worldcubeassociation.org/persons/2017POPA01) | **6121** | 6190 |
-| 169 | [Jiayu Wang (王佳宇)](https://www.worldcubeassociation.org/persons/2010WANG53) | **6121** | 6374 |
-| 170 | [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) | **6109** | 6339 |
+| 168 | [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) | **6122** | 6353 |
+| 169 | [Manuel Popayán](https://www.worldcubeassociation.org/persons/2017POPA01) | **6121** | 6190 |
+| 170 | [Jiayu Wang (王佳宇)](https://www.worldcubeassociation.org/persons/2010WANG53) | **6121** | 6374 |
 | 171 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) | **6109** | 6449 |
 | 172 | [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) | **6090** | 6407 |
 | 173 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) | **6070** | 6627 |
@@ -404,36 +404,36 @@
 | 190 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) | **5830** | 6019 |
 | 191 | [Rodrigo Ugarte](https://www.worldcubeassociation.org/persons/2015UGAR01) | **5795** | 5883 |
 | 192 | [Elijah Brown](https://www.worldcubeassociation.org/persons/2015BROW03) | **5792** | 6032 |
-| 193 | [Hector David Martinez Argaez](https://www.worldcubeassociation.org/persons/2014ARGA01) | **5787** | 5923 |
-| 194 | [Zachary White](https://www.worldcubeassociation.org/persons/2010WHIT05) | **5784** | 6013 |
-| 195 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | **5780** | 6132 |
+| 193 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | **5791** | 6148 |
+| 194 | [Hector David Martinez Argaez](https://www.worldcubeassociation.org/persons/2014ARGA01) | **5787** | 5923 |
+| 195 | [Zachary White](https://www.worldcubeassociation.org/persons/2010WHIT05) | **5784** | 6013 |
 | 196 | [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) | **5776** | 6084 |
 | 197 | [Shane Grogan](https://www.worldcubeassociation.org/persons/2011GROG02) | **5773** | 5974 |
-| 198 | [Jakob Gunnarsson](https://www.worldcubeassociation.org/persons/2015GUNN01) | **5750** | 6122 |
-| 199 | [Cendy Cahyo Rahmat](https://www.worldcubeassociation.org/persons/2010RAHM02) | **5738** | 6167 |
-| 200 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | **5733** | 5817 |
+| 198 | [Harsha Paladugu](https://www.worldcubeassociation.org/persons/2017PALA08) | **5765** | 6123 |
+| 199 | [Jakob Gunnarsson](https://www.worldcubeassociation.org/persons/2015GUNN01) | **5750** | 6122 |
+| 200 | [Cendy Cahyo Rahmat](https://www.worldcubeassociation.org/persons/2010RAHM02) | **5738** | 6167 |
 
 ### Country
 
 | Rank |  | Solves | Attempts |
 | :--- | :--- | ---: | ---: |
-| 1 | United States | **4890400** | 5123647 |
+| 1 | United States | **4902230** | 5136054 |
 | 2 | China | **1314525** | 1379309 |
 | 3 | Poland | **1080429** | 1136912 |
 | 4 | India | **887006** | 933268 |
-| 5 | Australia | **879158** | 926950 |
+| 5 | Australia | **881937** | 929792 |
 | 6 | United Kingdom | **825525** | 868407 |
 | 7 | Spain | **798795** | 836728 |
 | 8 | Germany | **680179** | 712095 |
-| 9 | Canada | **638636** | 666119 |
+| 9 | Canada | **638803** | 666312 |
 | 10 | France | **569001** | 599272 |
 | 11 | Brazil | **530500** | 555086 |
 | 12 | Colombia | **457300** | 479967 |
 | 13 | Russia | **430990** | 455777 |
 | 14 | Sweden | **430695** | 453126 |
-| 15 | Philippines | **391526** | 406848 |
-| 16 | Italy | **388322** | 408338 |
-| 17 | Mexico | **335066** | 349453 |
+| 15 | Philippines | **391703** | 407130 |
+| 16 | Italy | **388811** | 408888 |
+| 17 | Mexico | **335408** | 349927 |
 | 18 | Netherlands | **316260** | 329692 |
 | 19 | Chinese Taipei | **304397** | 313605 |
 | 20 | Peru | **276584** | 288647 |
@@ -454,7 +454,7 @@
 | 35 | Argentina | **141271** | 148387 |
 | 36 | Romania | **138404** | 144307 |
 | 37 | Bolivia | **137794** | 142630 |
-| 38 | Hungary | **135170** | 141578 |
+| 38 | Hungary | **136474** | 142925 |
 | 39 | Turkey | **125855** | 132018 |
 | 40 | Thailand | **120682** | 126177 |
 | 41 | Singapore | **103268** | 108243 |
@@ -542,11 +542,11 @@
 
 | Rank |  | Solves | Attempts |
 | :--- | :--- | ---: | ---: |
-| 1 | Europe | **8500194** | 8921042 |
-| 2 | North America | **6072053** | 6355940 |
-| 3 | Asia | **4552531** | 4768533 |
+| 1 | Europe | **8501987** | 8922939 |
+| 2 | North America | **6084392** | 6369014 |
+| 3 | Asia | **4552708** | 4768815 |
 | 4 | South America | **1862199** | 1949080 |
-| 5 | Oceania | **1086843** | 1144904 |
+| 5 | Oceania | **1089622** | 1147746 |
 | 6 | Africa | **139701** | 146098 |
 | 7 | Multiple Continents | **3692** | 4915 |
 
@@ -554,7 +554,7 @@
 
 | Rank |  | Solves | Attempts |
 | :--- | :--- | ---: | ---: |
-| 1 | 2024 | **4293450** | 4489867 |
+| 1 | 2024 | **4310538** | 4507962 |
 | 2 | 2023 | **3999322** | 4182907 |
 | 3 | 2019 | **2537001** | 2656542 |
 | 4 | 2018 | **2218483** | 2324544 |
@@ -582,26 +582,26 @@
 
 | Rank |  | Solves | Attempts |
 | :--- | :--- | ---: | ---: |
-| 1 | 3x3x3 Cube | **6832941** | 6981096 |
-| 2 | 2x2x2 Cube | **3845547** | 3944399 |
-| 3 | Pyraminx | **2466590** | 2531784 |
-| 4 | 4x4x4 Cube | **1952080** | 2027682 |
-| 5 | 3x3x3 One-Handed | **1800079** | 1860306 |
-| 6 | Skewb | **1565126** | 1605431 |
-| 7 | 5x5x5 Cube | **1003301** | 1035448 |
-| 8 | Megaminx | **667712** | 697507 |
-| 9 | Square-1 | **613617** | 640210 |
-| 10 | Clock | **587269** | 678998 |
-| 11 | 6x6x6 Cube | **236044** | 244975 |
-| 12 | 7x7x7 Cube | **192144** | 200935 |
-| 13 | 3x3x3 Blindfolded | **148897** | 409134 |
-| 14 | 3x3x3 Fewest Moves | **93163** | 129157 |
+| 1 | 3x3x3 Cube | **6837766** | 6986001 |
+| 2 | 2x2x2 Cube | **3848163** | 3947078 |
+| 3 | Pyraminx | **2468443** | 2533671 |
+| 4 | 4x4x4 Cube | **1953217** | 2028865 |
+| 5 | 3x3x3 One-Handed | **1801522** | 1861799 |
+| 6 | Skewb | **1566375** | 1606706 |
+| 7 | 5x5x5 Cube | **1004045** | 1036219 |
+| 8 | Megaminx | **668186** | 698013 |
+| 9 | Square-1 | **614273** | 640900 |
+| 10 | Clock | **588501** | 680446 |
+| 11 | 6x6x6 Cube | **236347** | 245288 |
+| 12 | 7x7x7 Cube | **192336** | 201135 |
+| 13 | 3x3x3 Blindfolded | **149065** | 409542 |
+| 14 | 3x3x3 Fewest Moves | **93285** | 129315 |
 | 15 | Magic | **78268** | 86498 |
 | 16 | 3x3x3 With Feet | **51884** | 56650 |
 | 17 | Master Magic | **39964** | 41445 |
-| 18 | 3x3x3 Multi-Blind | **23403** | 40316 |
-| 19 | 4x4x4 Blindfolded | **13293** | 51054 |
-| 20 | 5x5x5 Blindfolded | **5486** | 26896 |
+| 18 | 3x3x3 Multi-Blind | **23446** | 40376 |
+| 19 | 4x4x4 Blindfolded | **13313** | 51130 |
+| 20 | 5x5x5 Blindfolded | **5497** | 26939 |
 | 21 | 3x3x3 Multi-Blind Old Style | **405** | 591 |
 
 
