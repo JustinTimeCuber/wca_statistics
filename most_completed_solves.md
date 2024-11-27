@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 25 November 2024*
+*Updated on 26 November 2024*
 
 
 ### Competition
@@ -214,10 +214,10 @@
 | :--- | :--- | ---: | ---: |
 | 1 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | **18488** | 18999 |
 | 2 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | **18418** | 19185 |
-| 3 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **17831** | 19233 |
+| 3 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | **17860** | 19266 |
 | 4 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | **17071** | 17719 |
 | 5 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | **16762** | 17127 |
-| 6 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **15675** | 16235 |
+| 6 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **15705** | 16265 |
 | 7 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | **14291** | 14988 |
 | 8 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | **14237** | 15018 |
 | 9 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) | **14156** | 14577 |
@@ -273,8 +273,8 @@
 | 59 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) | **9030** | 9768 |
 | 60 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | **8899** | 9357 |
 | 61 | [Nicolas Gertner Kilian](https://www.worldcubeassociation.org/persons/2013GERT01) | **8758** | 9336 |
-| 62 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | **8719** | 9254 |
-| 63 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **8717** | 9213 |
+| 62 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **8734** | 9232 |
+| 63 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | **8719** | 9254 |
 | 64 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | **8674** | 8877 |
 | 65 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) | **8621** | 9385 |
 | 66 | [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) | **8587** | 9054 |
@@ -429,8 +429,8 @@
 | 10 | France | **569001** | 599272 |
 | 11 | Brazil | **530500** | 555086 |
 | 12 | Colombia | **457300** | 479967 |
-| 13 | Russia | **430990** | 455777 |
-| 14 | Sweden | **430695** | 453126 |
+| 13 | Sweden | **431040** | 453481 |
+| 14 | Russia | **430990** | 455777 |
 | 15 | Philippines | **391703** | 407130 |
 | 16 | Italy | **388811** | 408888 |
 | 17 | Mexico | **335408** | 349927 |
@@ -542,7 +542,7 @@
 
 | Rank |  | Solves | Attempts |
 | :--- | :--- | ---: | ---: |
-| 1 | Europe | **8501987** | 8922939 |
+| 1 | Europe | **8502332** | 8923294 |
 | 2 | North America | **6084392** | 6369014 |
 | 3 | Asia | **4552708** | 4768815 |
 | 4 | South America | **1862199** | 1949080 |
@@ -554,7 +554,7 @@
 
 | Rank |  | Solves | Attempts |
 | :--- | :--- | ---: | ---: |
-| 1 | 2024 | **4310538** | 4507962 |
+| 1 | 2024 | **4310883** | 4508317 |
 | 2 | 2023 | **3999322** | 4182907 |
 | 3 | 2019 | **2537001** | 2656542 |
 | 4 | 2018 | **2218483** | 2324544 |
@@ -582,14 +582,14 @@
 
 | Rank |  | Solves | Attempts |
 | :--- | :--- | ---: | ---: |
-| 1 | 3x3x3 Cube | **6837766** | 6986001 |
+| 1 | 3x3x3 Cube | **6837846** | 6986081 |
 | 2 | 2x2x2 Cube | **3848163** | 3947078 |
-| 3 | Pyraminx | **2468443** | 2533671 |
-| 4 | 4x4x4 Cube | **1953217** | 2028865 |
+| 3 | Pyraminx | **2468508** | 2533741 |
+| 4 | 4x4x4 Cube | **1953278** | 2028926 |
 | 5 | 3x3x3 One-Handed | **1801522** | 1861799 |
-| 6 | Skewb | **1566375** | 1606706 |
-| 7 | 5x5x5 Cube | **1004045** | 1036219 |
-| 8 | Megaminx | **668186** | 698013 |
+| 6 | Skewb | **1566430** | 1606761 |
+| 7 | 5x5x5 Cube | **1004094** | 1036268 |
+| 8 | Megaminx | **668220** | 698048 |
 | 9 | Square-1 | **614273** | 640900 |
 | 10 | Clock | **588501** | 680446 |
 | 11 | 6x6x6 Cube | **236347** | 245288 |
@@ -600,7 +600,7 @@
 | 16 | 3x3x3 With Feet | **51884** | 56650 |
 | 17 | Master Magic | **39964** | 41445 |
 | 18 | 3x3x3 Multi-Blind | **23446** | 40376 |
-| 19 | 4x4x4 Blindfolded | **13313** | 51130 |
+| 19 | 4x4x4 Blindfolded | **13314** | 51135 |
 | 20 | 5x5x5 Blindfolded | **5497** | 26939 |
 | 21 | 3x3x3 Multi-Blind Old Style | **405** | 591 |
 

@@ -1,13 +1,13 @@
 ## Competition days count by region
 
-*Updated on 25 November 2024*
+*Updated on 26 November 2024*
 
 
 ### World
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.47 | World | 13583 |
+| 1 | 1.47 | World | 13584 |
 
 ### Continents
 
@@ -18,7 +18,7 @@
 | 3 | 1.46 | Oceania | 596 |
 | 4 | 1.41 | Asia | 2894 |
 | 5 | 1.30 | Africa | 162 |
-| 6 | 1.20 | North America | 3845 |
+| 6 | 1.20 | North America | 3846 |
 
 ### Countries
 
@@ -118,7 +118,7 @@
 | 92 | 1.18 | Armenia | 11 |
 | 93 | 1.17 | Canada | 389 |
 | 94 | 1.17 | Tunisia | 24 |
-| 95 | 1.16 | United States | 3084 |
+| 95 | 1.16 | United States | 3085 |
 | 96 | 1.13 | Azerbaijan | 46 |
 | 97 | 1.12 | Honduras | 17 |
 | 98 | 1.09 | Cyprus | 11 |
