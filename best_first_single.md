@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 26 November 2024*
+*Updated on 28 November 2024*
 
 
 ### Rubik's Cube
@@ -730,21 +730,21 @@
 | 90 | 1:24.09 | [Haruka Kitamura (北村晴香)](https://www.worldcubeassociation.org/persons/2017KITA03) |
 | 91 | 1:24.19 | [Balder Henke](https://www.worldcubeassociation.org/persons/2019HENK01) |
 | 92 | 1:24.39 | [Ao Nogami (野上碧)](https://www.worldcubeassociation.org/persons/2019NOGA01) |
-| 93 | 1:25.84 | [Jiayue Chen (陈家悦)](https://www.worldcubeassociation.org/persons/2023CHEJ12) |
-| 94 | 1:26.35 | [Loh Yi Cong](https://www.worldcubeassociation.org/persons/2023CONG01) |
-| 95 | 1:26.38 | [Pranav Raghu Chandran](https://www.worldcubeassociation.org/persons/2015CHAN35) |
-| 96 | 1:27.67 | [Tianyu Zhao (赵天愉)](https://www.worldcubeassociation.org/persons/2014ZHAO12) |
-| 97 | 1:27.96 | [Rodson Lingad](https://www.worldcubeassociation.org/persons/2011LING02) |
-| 98 | 1:28.47 | [Dominic Ferri](https://www.worldcubeassociation.org/persons/2018FERR09) |
-| 99 | 1:28.84 | [Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09) |
-| 100 | 1:29.72 | [Wakhid Wahyu Prasojo](https://www.worldcubeassociation.org/persons/2012PRAS02) |
+| 93 | 1:24.42 | [Zhea Salazar](https://www.worldcubeassociation.org/persons/2023SALA09) |
+| 94 | 1:25.84 | [Jiayue Chen (陈家悦)](https://www.worldcubeassociation.org/persons/2023CHEJ12) |
+| 95 | 1:26.35 | [Loh Yi Cong](https://www.worldcubeassociation.org/persons/2023CONG01) |
+| 96 | 1:26.38 | [Pranav Raghu Chandran](https://www.worldcubeassociation.org/persons/2015CHAN35) |
+| 97 | 1:27.67 | [Tianyu Zhao (赵天愉)](https://www.worldcubeassociation.org/persons/2014ZHAO12) |
+| 98 | 1:27.96 | [Rodson Lingad](https://www.worldcubeassociation.org/persons/2011LING02) |
+| 99 | 1:28.47 | [Dominic Ferri](https://www.worldcubeassociation.org/persons/2018FERR09) |
+| 100 | 1:28.84 | [Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09) |
 
 ### 3x3x3 Fewest Moves
 
 | Rank | First single | Person |
 | :--- | ---: | :--- |
-| 1 | 22 | [Kieran Dizon](https://www.worldcubeassociation.org/persons/2015DIZO02) |
-| 2 | 22 | [Steven Wang](https://www.worldcubeassociation.org/persons/2013WANG63) |
+| 1 | 22 | [Steven Wang](https://www.worldcubeassociation.org/persons/2013WANG63) |
+| 2 | 22 | [Kieran Dizon](https://www.worldcubeassociation.org/persons/2015DIZO02) |
 | 3 | 22 | [Shota Wakabayashi (若林翔太)](https://www.worldcubeassociation.org/persons/2023KADO01) |
 | 4 | 23 | [Mosfikul Islam](https://www.worldcubeassociation.org/persons/2023ISLA08) |
 | 5 | 23 | [Kazuya Ishii (石井一也)](https://www.worldcubeassociation.org/persons/2019ISHI07) |
@@ -777,8 +777,8 @@
 | 32 | 28 | [Roy Tamir](https://www.worldcubeassociation.org/persons/2014TAMI01) |
 | 33 | 28 | [Peter McNamara](https://www.worldcubeassociation.org/persons/2019MCNA02) |
 | 34 | 28 | [Han Su (苏涵)](https://www.worldcubeassociation.org/persons/2021SUHA01) |
-| 35 | 28 | [Nguyễn Duy Sơn](https://www.worldcubeassociation.org/persons/2020SONN01) |
-| 36 | 28 | [Nguyễn Minh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG03) |
+| 35 | 28 | [Nguyễn Minh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG03) |
+| 36 | 28 | [Nguyễn Duy Sơn](https://www.worldcubeassociation.org/persons/2020SONN01) |
 | 37 | 28 | [Alois Purbojo](https://www.worldcubeassociation.org/persons/2023PURB01) |
 | 38 | 28 | [Kai Cui](https://www.worldcubeassociation.org/persons/2019CUIK03) |
 | 39 | 28 | [Mohammad Mahdi Khosravi (محمد مهدی خسروی)](https://www.worldcubeassociation.org/persons/2018KHOS03) |

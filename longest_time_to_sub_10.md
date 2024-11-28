@@ -1,6 +1,6 @@
 ## Longest time to achieve sub 10 3x3x3 average
 
-*Updated on 26 November 2024*
+*Updated on 28 November 2024*
 
 | Rank | Person | Years |
 | :--- | :--- | ---: |
@@ -930,8 +930,8 @@
 | 924 | [Peeranat Sugsavanvit (พีรณัฐ สุกสวรรณวิทย์)](https://www.worldcubeassociation.org/persons/2019SUGS01) | 5.48 |
 | 925 | [Mingxuan Wu (吴明轩)](https://www.worldcubeassociation.org/persons/2018WUMI02) | 5.48 |
 | 926 | [Xingrui Zhao (赵星睿)](https://www.worldcubeassociation.org/persons/2018ZHAO41) | 5.48 |
-| 927 | [Diego Rodriguez-Ramirez](https://www.worldcubeassociation.org/persons/2019RODR11) | 5.48 |
-| 928 | [Tiago Oliveira](https://www.worldcubeassociation.org/persons/2018OLIV07) | 5.48 |
+| 927 | [Tiago Oliveira](https://www.worldcubeassociation.org/persons/2018OLIV07) | 5.48 |
+| 928 | [Diego Rodriguez-Ramirez](https://www.worldcubeassociation.org/persons/2019RODR11) | 5.48 |
 | 929 | [Cristian Samuel Carasco Peña](https://www.worldcubeassociation.org/persons/2018PENA01) | 5.48 |
 | 930 | [Maksymilian Piskorowski](https://www.worldcubeassociation.org/persons/2017PISK01) | 5.48 |
 | 931 | [Sydney Weaver](https://www.worldcubeassociation.org/persons/2013WEAV01) | 5.48 |

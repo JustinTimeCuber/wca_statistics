@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on 26 November 2024*
+*Updated on 28 November 2024*
 
 
 ### Rubik's Cube
@@ -817,32 +817,32 @@
 | 72 | [Romhel A. Dela Cruz](https://www.worldcubeassociation.org/persons/2014CRUZ20) | 48 | **49.33** | [Baguio City Open 2015](https://www.worldcubeassociation.org/competitions/BaguioCityOpen2015/results/podiums#e333fm) | 2 |
 | 73 | [Angel Arrioja Landa](https://www.worldcubeassociation.org/persons/2010LAND01) | 40 | **49.33** | [Clasico 2016](https://www.worldcubeassociation.org/competitions/Clasico2016/results/podiums#e333fm) | 2 |
 | 74 | [Javier Rangel](https://www.worldcubeassociation.org/persons/2013RANG05) | 46 | **49.00** | [Cubing Mérida 2014](https://www.worldcubeassociation.org/competitions/CubingMerida2014/results/podiums#e333fm) | 3 |
-| 75 | [Shane Swanepoel](https://www.worldcubeassociation.org/persons/2016SWAN03) | 45 | **49.00** | [Arnold Classic Africa 2018](https://www.worldcubeassociation.org/competitions/ArnoldClassicAfrica2018/results/podiums#e333fm) | 3 |
-| 76 | [Rakesh M. Vaideeswaran](https://www.worldcubeassociation.org/persons/2012VAID02) | 42 | **49.00** | [Shaastra Cube Open 2015](https://www.worldcubeassociation.org/competitions/ShaastraCubeOpen2015/results/podiums#e333fm) | 3 |
-| 77 | [Angeline Wijaya (黃千儀)](https://www.worldcubeassociation.org/persons/2011WIJA03) | 47 | **48.67** | [Medan Open 2015](https://www.worldcubeassociation.org/competitions/MedanOpen2015/results/podiums#e333fm) | 3 |
-| 78 | [Stephen Griggs](https://www.worldcubeassociation.org/persons/2014GRIG01) | 46 | **48.67** | [Pittsburgh Summer 2019](https://www.worldcubeassociation.org/competitions/PittsburghSummer2019/results/podiums#e333fm) | 3 |
-| 79 | [Adrián Ramírez](https://www.worldcubeassociation.org/persons/2013RAMI02) | 45 | **48.67** | [Mazate Open 2015](https://www.worldcubeassociation.org/competitions/MazateOpen2015/results/podiums#e333fm) | 2 |
-| 80 | [Arun Kannan](https://www.worldcubeassociation.org/persons/2014KANN02) | 45 | **48.67** | [Big N Blind Bangalore April 2024](https://www.worldcubeassociation.org/competitions/BigNBlindBangaloreApril2024/results/podiums#e333fm) | 3 |
-| 81 | [Yongtao Sun (孙永涛)](https://www.worldcubeassociation.org/persons/2013SUNY02) | 43 | **48.67** | [Quiet AnHui University 2016](https://www.worldcubeassociation.org/competitions/QuietAnHuiUniversity2016/results/podiums#e333fm) | 3 |
-| 82 | [Georel Ulangkaya](https://www.worldcubeassociation.org/persons/2015ULAN01) | 43 | **48.67** | [Mindanao Championship 2019](https://www.worldcubeassociation.org/competitions/MindanaoChampionship2019/results/podiums#e333fm) | 3 |
-| 83 | [Abhiram Narasimha](https://www.worldcubeassociation.org/persons/2022NARA04) | 42 | **48.67** | [Bheja Fry Sept Bangalore 2024](https://www.worldcubeassociation.org/competitions/BhejaFrySeptBangalore2024/results/podiums#e333fm) | 3 |
-| 84 | [Xavier Courteau-Laing](https://www.worldcubeassociation.org/persons/2021COUR01) | 41 | **48.67** | [Koalafication Tauranga 2022](https://www.worldcubeassociation.org/competitions/KoalaficationTauranga2022/results/podiums#e333fm) | 3 |
-| 85 | [Pablo Say](https://www.worldcubeassociation.org/persons/2013SAYP01) | 40 | **48.67** | [Mazate Open 2016](https://www.worldcubeassociation.org/competitions/MazateOpen2016/results/podiums#e333fm) | 3 |
-| 86 | [Oskar Ďurinský](https://www.worldcubeassociation.org/persons/2023URIN01) | 46 | **48.33** | [FMC Day in Trnava 2024](https://www.worldcubeassociation.org/competitions/FMCDayinTrnava2024/results/podiums#e333fm) | 3 |
-| 87 | [Suzane Coelho](https://www.worldcubeassociation.org/persons/2016COEL04) | 46 | **48.33** | [Cubing At PASB 2022](https://www.worldcubeassociation.org/competitions/CubingAtPASB2022/results/podiums#e333fm) | 2 |
-| 88 | [Andre Febriato Jonathan](https://www.worldcubeassociation.org/persons/2011JONA01) | 45 | **48.33** | [Bandung Open 2016](https://www.worldcubeassociation.org/competitions/BandungOpen2016/results/podiums#e333fm) | 2 |
-| 89 | [Giovanni Tanaka (陈华安)](https://www.worldcubeassociation.org/persons/2018TANA03) | 43 | **48.33** | [Medan 10th Anniversary 2019](https://www.worldcubeassociation.org/competitions/Medan10thAnniversary2019/results/podiums#e333fm) | 3 |
-| 90 | [Peter Preston](https://www.worldcubeassociation.org/persons/2017PRES02) | 43 | **48.33** | [JAM FMC III 2023](https://www.worldcubeassociation.org/competitions/JAMFMCIII2023/results/podiums#e333fm) | 1 |
-| 91 | [Pablo Say](https://www.worldcubeassociation.org/persons/2013SAYP01) | 42 | **48.33** | [Rubik Xela Open 2017](https://www.worldcubeassociation.org/competitions/RubikXelaOpen2017/results/podiums#e333fm) | 3 |
-| 92 | [Luis Fernando Aldás Cuestas](https://www.worldcubeassociation.org/persons/2017CUES02) | 42 | **48.33** | [Ecuador Nationals 2024](https://www.worldcubeassociation.org/competitions/EcuadorNationals2024/results/podiums#e333fm) | 3 |
-| 93 | [Francisco José Campos Rocamora](https://www.worldcubeassociation.org/persons/2013ROCA01) | 37 | **48.33** | [Arnold Classic Rubik 2015](https://www.worldcubeassociation.org/competitions/ArnoldClassicRubik2015/results/podiums#e333fm) | 3 |
-| 94 | [Mohammad Ahmad Abu Hussein](https://www.worldcubeassociation.org/persons/2018HUSS07) | 34 | **48.33** | [Amman FMC 2023](https://www.worldcubeassociation.org/competitions/AmmanFMC2023/results/podiums#e333fm) | 3 |
-| 95 | [Bruno Damacena](https://www.worldcubeassociation.org/persons/2017DAMA01) | 46 | **48.00** | [Pão de Queijo Open 2022](https://www.worldcubeassociation.org/competitions/PaodeQueijoOpen2022/results/podiums#e333fm) | 3 |
-| 96 | [Christofer Alejandro Aguirre Robledo](https://www.worldcubeassociation.org/persons/2016ROBL05) | 46 | **48.00** | [FMC Open Tijuana 2023](https://www.worldcubeassociation.org/competitions/FMCOpenTijuana2023/results/podiums#e333fm) | 3 |
-| 97 | [Gaurav Bachani](https://www.worldcubeassociation.org/persons/2017BACH09) | 46 | **48.00** | [Bheja Fry Sept Bangalore 2024](https://www.worldcubeassociation.org/competitions/BhejaFrySeptBangalore2024/results/podiums#e333fm) | 2 |
-| 98 | [Olander Rafael Hernández Morales](https://www.worldcubeassociation.org/persons/2017MORA08) | 45 | **48.00** | [Nacionales Guatemala 2018](https://www.worldcubeassociation.org/competitions/NacionalesGuatemala2018/results/podiums#e333fm) | 3 |
-| 99 | [Muchammad Daniyal Kautsar](https://www.worldcubeassociation.org/persons/2016KAUT01) | 44 | **48.00** | [DIY Open 2017](https://www.worldcubeassociation.org/competitions/DIYOpen2017/results/podiums#e333fm) | 3 |
-| 100 | [Gabriel Angelo V. Hilado](https://www.worldcubeassociation.org/persons/2022HILA02) | 40 | **48.00** | [Panaad Memo & Demo 2023](https://www.worldcubeassociation.org/competitions/PanaadMemoDemo2023/results/podiums#e333fm) | 3 |
+| 75 | [Jorge Miguel Trigo](https://www.worldcubeassociation.org/persons/2015TRIG02) | 46 | **49.00** | [Bolivia Nationals FMC 2024](https://www.worldcubeassociation.org/competitions/BoliviaNationalsFMC2024/results/podiums#e333fm) | 3 |
+| 76 | [Shane Swanepoel](https://www.worldcubeassociation.org/persons/2016SWAN03) | 45 | **49.00** | [Arnold Classic Africa 2018](https://www.worldcubeassociation.org/competitions/ArnoldClassicAfrica2018/results/podiums#e333fm) | 3 |
+| 77 | [Rakesh M. Vaideeswaran](https://www.worldcubeassociation.org/persons/2012VAID02) | 42 | **49.00** | [Shaastra Cube Open 2015](https://www.worldcubeassociation.org/competitions/ShaastraCubeOpen2015/results/podiums#e333fm) | 3 |
+| 78 | [Angeline Wijaya (黃千儀)](https://www.worldcubeassociation.org/persons/2011WIJA03) | 47 | **48.67** | [Medan Open 2015](https://www.worldcubeassociation.org/competitions/MedanOpen2015/results/podiums#e333fm) | 3 |
+| 79 | [Stephen Griggs](https://www.worldcubeassociation.org/persons/2014GRIG01) | 46 | **48.67** | [Pittsburgh Summer 2019](https://www.worldcubeassociation.org/competitions/PittsburghSummer2019/results/podiums#e333fm) | 3 |
+| 80 | [Adrián Ramírez](https://www.worldcubeassociation.org/persons/2013RAMI02) | 45 | **48.67** | [Mazate Open 2015](https://www.worldcubeassociation.org/competitions/MazateOpen2015/results/podiums#e333fm) | 2 |
+| 81 | [Arun Kannan](https://www.worldcubeassociation.org/persons/2014KANN02) | 45 | **48.67** | [Big N Blind Bangalore April 2024](https://www.worldcubeassociation.org/competitions/BigNBlindBangaloreApril2024/results/podiums#e333fm) | 3 |
+| 82 | [Yongtao Sun (孙永涛)](https://www.worldcubeassociation.org/persons/2013SUNY02) | 43 | **48.67** | [Quiet AnHui University 2016](https://www.worldcubeassociation.org/competitions/QuietAnHuiUniversity2016/results/podiums#e333fm) | 3 |
+| 83 | [Georel Ulangkaya](https://www.worldcubeassociation.org/persons/2015ULAN01) | 43 | **48.67** | [Mindanao Championship 2019](https://www.worldcubeassociation.org/competitions/MindanaoChampionship2019/results/podiums#e333fm) | 3 |
+| 84 | [Abhiram Narasimha](https://www.worldcubeassociation.org/persons/2022NARA04) | 42 | **48.67** | [Bheja Fry Sept Bangalore 2024](https://www.worldcubeassociation.org/competitions/BhejaFrySeptBangalore2024/results/podiums#e333fm) | 3 |
+| 85 | [Xavier Courteau-Laing](https://www.worldcubeassociation.org/persons/2021COUR01) | 41 | **48.67** | [Koalafication Tauranga 2022](https://www.worldcubeassociation.org/competitions/KoalaficationTauranga2022/results/podiums#e333fm) | 3 |
+| 86 | [Pablo Say](https://www.worldcubeassociation.org/persons/2013SAYP01) | 40 | **48.67** | [Mazate Open 2016](https://www.worldcubeassociation.org/competitions/MazateOpen2016/results/podiums#e333fm) | 3 |
+| 87 | [Oskar Ďurinský](https://www.worldcubeassociation.org/persons/2023URIN01) | 46 | **48.33** | [FMC Day in Trnava 2024](https://www.worldcubeassociation.org/competitions/FMCDayinTrnava2024/results/podiums#e333fm) | 3 |
+| 88 | [Suzane Coelho](https://www.worldcubeassociation.org/persons/2016COEL04) | 46 | **48.33** | [Cubing At PASB 2022](https://www.worldcubeassociation.org/competitions/CubingAtPASB2022/results/podiums#e333fm) | 2 |
+| 89 | [Andre Febriato Jonathan](https://www.worldcubeassociation.org/persons/2011JONA01) | 45 | **48.33** | [Bandung Open 2016](https://www.worldcubeassociation.org/competitions/BandungOpen2016/results/podiums#e333fm) | 2 |
+| 90 | [Giovanni Tanaka (陈华安)](https://www.worldcubeassociation.org/persons/2018TANA03) | 43 | **48.33** | [Medan 10th Anniversary 2019](https://www.worldcubeassociation.org/competitions/Medan10thAnniversary2019/results/podiums#e333fm) | 3 |
+| 91 | [Peter Preston](https://www.worldcubeassociation.org/persons/2017PRES02) | 43 | **48.33** | [JAM FMC III 2023](https://www.worldcubeassociation.org/competitions/JAMFMCIII2023/results/podiums#e333fm) | 1 |
+| 92 | [Pablo Say](https://www.worldcubeassociation.org/persons/2013SAYP01) | 42 | **48.33** | [Rubik Xela Open 2017](https://www.worldcubeassociation.org/competitions/RubikXelaOpen2017/results/podiums#e333fm) | 3 |
+| 93 | [Luis Fernando Aldás Cuestas](https://www.worldcubeassociation.org/persons/2017CUES02) | 42 | **48.33** | [Ecuador Nationals 2024](https://www.worldcubeassociation.org/competitions/EcuadorNationals2024/results/podiums#e333fm) | 3 |
+| 94 | [Francisco José Campos Rocamora](https://www.worldcubeassociation.org/persons/2013ROCA01) | 37 | **48.33** | [Arnold Classic Rubik 2015](https://www.worldcubeassociation.org/competitions/ArnoldClassicRubik2015/results/podiums#e333fm) | 3 |
+| 95 | [Mohammad Ahmad Abu Hussein](https://www.worldcubeassociation.org/persons/2018HUSS07) | 34 | **48.33** | [Amman FMC 2023](https://www.worldcubeassociation.org/competitions/AmmanFMC2023/results/podiums#e333fm) | 3 |
+| 96 | [Bruno Damacena](https://www.worldcubeassociation.org/persons/2017DAMA01) | 46 | **48.00** | [Pão de Queijo Open 2022](https://www.worldcubeassociation.org/competitions/PaodeQueijoOpen2022/results/podiums#e333fm) | 3 |
+| 97 | [Christofer Alejandro Aguirre Robledo](https://www.worldcubeassociation.org/persons/2016ROBL05) | 46 | **48.00** | [FMC Open Tijuana 2023](https://www.worldcubeassociation.org/competitions/FMCOpenTijuana2023/results/podiums#e333fm) | 3 |
+| 98 | [Gaurav Bachani](https://www.worldcubeassociation.org/persons/2017BACH09) | 46 | **48.00** | [Bheja Fry Sept Bangalore 2024](https://www.worldcubeassociation.org/competitions/BhejaFrySeptBangalore2024/results/podiums#e333fm) | 2 |
+| 99 | [Olander Rafael Hernández Morales](https://www.worldcubeassociation.org/persons/2017MORA08) | 45 | **48.00** | [Nacionales Guatemala 2018](https://www.worldcubeassociation.org/competitions/NacionalesGuatemala2018/results/podiums#e333fm) | 3 |
+| 100 | [Muchammad Daniyal Kautsar](https://www.worldcubeassociation.org/persons/2016KAUT01) | 44 | **48.00** | [DIY Open 2017](https://www.worldcubeassociation.org/competitions/DIYOpen2017/results/podiums#e333fm) | 3 |
 
 ### 3x3x3 One-Handed
 
