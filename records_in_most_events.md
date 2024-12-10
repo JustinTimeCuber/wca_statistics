@@ -1,7 +1,7 @@
 ## Records in the highest number of events
 
 *Note: All historical records are taken into account (i.e. not only the current ones).*
-*Updated on  7 December 2024*
+*Updated on 10 December 2024*
 
 
 ### World
@@ -227,10 +227,10 @@
 | 12 | 8 | [Mátyás Kuti](https://www.worldcubeassociation.org/persons/2006KUTI01) | 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 3x3x3 One-Handed, Clock, Square-1, Magic, Master Magic |
 | 13 | 8 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) | 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 3x3x3 Blindfolded, 3x3x3 One-Handed, Megaminx, 3x3x3 Multi-Blind, 3x3x3 Multi-Blind Old Style |
 | 14 | 8 | [Chris Hardwick](https://www.worldcubeassociation.org/persons/2003HARD01) | 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 3x3x3 Blindfolded, 3x3x3 One-Handed, 4x4x4 Blindfolded, 5x5x5 Blindfolded |
-| 15 | 8 | [Jasmine Lee](https://www.worldcubeassociation.org/persons/2003LEEJ01) | 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 3x3x3 One-Handed, Clock, Magic, Master Magic |
-| 16 | 8 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | 2x2x2 Cube, 3x3x3 Blindfolded, 3x3x3 Fewest Moves, Clock, Pyraminx, Skewb, Square-1, 3x3x3 With Feet |
-| 17 | 7 | [Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01) | 3x3x3 One-Handed, Clock, Megaminx, 5x5x5 Blindfolded, Magic, Master Magic, 3x3x3 Multi-Blind Old Style |
-| 18 | 7 | [Daniel Rush](https://www.worldcubeassociation.org/persons/2018RUSH01) | 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, Square-1 |
+| 15 | 8 | [Daniel Rush](https://www.worldcubeassociation.org/persons/2018RUSH01) | 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, Pyraminx, Square-1 |
+| 16 | 8 | [Jasmine Lee](https://www.worldcubeassociation.org/persons/2003LEEJ01) | 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 3x3x3 One-Handed, Clock, Magic, Master Magic |
+| 17 | 8 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | 2x2x2 Cube, 3x3x3 Blindfolded, 3x3x3 Fewest Moves, Clock, Pyraminx, Skewb, Square-1, 3x3x3 With Feet |
+| 18 | 7 | [Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01) | 3x3x3 One-Handed, Clock, Megaminx, 5x5x5 Blindfolded, Magic, Master Magic, 3x3x3 Multi-Blind Old Style |
 | 19 | 6 | [Yumu Tabuchi (田渕雄夢)](https://www.worldcubeassociation.org/persons/2006TABU02) | 3x3x3 Cube, 4x4x4 Cube, 3x3x3 Blindfolded, 3x3x3 Fewest Moves, 3x3x3 One-Handed, 4x4x4 Blindfolded |
 | 20 | 6 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | 3x3x3 Cube, 4x4x4 Cube, 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, 3x3x3 One-Handed |
 | 21 | 6 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | 2x2x2 Cube, 4x4x4 Cube, 6x6x6 Cube, 3x3x3 One-Handed, Clock, Pyraminx |
