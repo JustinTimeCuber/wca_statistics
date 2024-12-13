@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 10 December 2024*
+*Updated on 13 December 2024*
 
 
 ### Rubik's Cube
@@ -305,19 +305,19 @@
 | 85 | 0.25 | [Mateusz Wich](https://www.worldcubeassociation.org/persons/2017WICH01) | 47.45 | 47.70 | [Dragon Cubing I 2024](https://www.worldcubeassociation.org/competitions/DragonCubingI2024/results/by_person#2017WICH01) |
 | 86 | 0.25 | [Emilien Fabre](https://www.worldcubeassociation.org/persons/2012FABR01) | 47.56 | 47.81 | [HEM MariCubik Open 2015](https://www.worldcubeassociation.org/competitions/MariCubikOpen2015/results/by_person#2012FABR01) |
 | 87 | 0.25 | [Louis Robinson](https://www.worldcubeassociation.org/persons/2014ROBI02) | 50.51 | 50.76 | [Chippenham Autumn 2022](https://www.worldcubeassociation.org/competitions/ChippenhamAutumn2022/results/by_person#2014ROBI02) |
-| 88 | 0.26 | [Malte Ihlefeld](https://www.worldcubeassociation.org/persons/2016IHLE01) | 34.18 | 34.44 | [German Nationals 2023](https://www.worldcubeassociation.org/competitions/GermanNationals2023/results/by_person#2016IHLE01) |
-| 89 | 0.26 | [Weixing Zhang (张炜星)](https://www.worldcubeassociation.org/persons/2009ZHAN53) | 34.21 | 34.47 | [Guangdong Open 2014](https://www.worldcubeassociation.org/competitions/GuangdongOpen2014/results/by_person#2009ZHAN53) |
-| 90 | 0.26 | [Alexander Botz](https://www.worldcubeassociation.org/persons/2013BOTZ01) | 34.22 | 34.48 | [German Nationals 2018](https://www.worldcubeassociation.org/competitions/GermanNationals2018/results/by_person#2013BOTZ01) |
-| 91 | 0.26 | [Alejandro Daniel Salceda Corvera](https://www.worldcubeassociation.org/persons/2016CORV01) | 34.34 | 34.60 | [Speed Cubing Fest Pachuca 2023](https://www.worldcubeassociation.org/competitions/SpeedCubingFestPachuca2023/results/by_person#2016CORV01) |
-| 92 | 0.26 | [Jason Ostdiek](https://www.worldcubeassociation.org/persons/2017OSTD02) | 35.84 | 36.10 | [SacCubing XVIII 2024](https://www.worldcubeassociation.org/competitions/SacCubingXVIII2024/results/by_person#2017OSTD02) |
-| 93 | 0.26 | [Edoardo Disarò](https://www.worldcubeassociation.org/persons/2013DISA01) | 39.19 | 39.45 | [Mantua Summer 2017](https://www.worldcubeassociation.org/competitions/MantuaSummer2017/results/by_person#2013DISA01) |
-| 94 | 0.26 | [Ruei-Hong Liang (梁睿紘)](https://www.worldcubeassociation.org/persons/2020LIAN04) | 44.22 | 44.48 | [Maru Cube Day 2023](https://www.worldcubeassociation.org/competitions/MaruCubeDay2023/results/by_person#2020LIAN04) |
-| 95 | 0.26 | [Ardianto Satriawan](https://www.worldcubeassociation.org/persons/2009SATR01) | 1:30.03 | 1:30.29 | [Cianjur Open 2013](https://www.worldcubeassociation.org/competitions/CianjurOpen2013/results/by_person#2009SATR01) |
-| 96 | 0.27 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) | 25.40 | 25.67 | [Maru Cube Day 2023](https://www.worldcubeassociation.org/competitions/MaruCubeDay2023/results/by_person#2010WUIF01) |
-| 97 | 0.27 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | 29.22 | 29.49 | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023/results/by_person#2019KEDZ01) |
-| 98 | 0.27 | [Tomáš Nguyen](https://www.worldcubeassociation.org/persons/2014QUYN02) | 32.11 | 32.38 | [Prague NxNxN 2023](https://www.worldcubeassociation.org/competitions/PragueNxNxN2023/results/by_person#2014QUYN02) |
-| 99 | 0.27 | [Zachary White](https://www.worldcubeassociation.org/persons/2010WHIT05) | 36.88 | 37.15 | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/by_person#2010WHIT05) |
-| 100 | 0.27 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) | 41.60 | 41.87 | [Three Seconds Snakes 2018](https://www.worldcubeassociation.org/competitions/ThreeSecondsSnakes2018/results/by_person#2011FERA01) |
+| 88 | 0.26 | [Chandler Pike](https://www.worldcubeassociation.org/persons/2018PIKE01) | 31.84 | 32.10 | [Wakefield Winter 2024](https://www.worldcubeassociation.org/competitions/WakefieldWinter2024/results/by_person#2018PIKE01) |
+| 89 | 0.26 | [Malte Ihlefeld](https://www.worldcubeassociation.org/persons/2016IHLE01) | 34.18 | 34.44 | [German Nationals 2023](https://www.worldcubeassociation.org/competitions/GermanNationals2023/results/by_person#2016IHLE01) |
+| 90 | 0.26 | [Weixing Zhang (张炜星)](https://www.worldcubeassociation.org/persons/2009ZHAN53) | 34.21 | 34.47 | [Guangdong Open 2014](https://www.worldcubeassociation.org/competitions/GuangdongOpen2014/results/by_person#2009ZHAN53) |
+| 91 | 0.26 | [Alexander Botz](https://www.worldcubeassociation.org/persons/2013BOTZ01) | 34.22 | 34.48 | [German Nationals 2018](https://www.worldcubeassociation.org/competitions/GermanNationals2018/results/by_person#2013BOTZ01) |
+| 92 | 0.26 | [Alejandro Daniel Salceda Corvera](https://www.worldcubeassociation.org/persons/2016CORV01) | 34.34 | 34.60 | [Speed Cubing Fest Pachuca 2023](https://www.worldcubeassociation.org/competitions/SpeedCubingFestPachuca2023/results/by_person#2016CORV01) |
+| 93 | 0.26 | [Jason Ostdiek](https://www.worldcubeassociation.org/persons/2017OSTD02) | 35.84 | 36.10 | [SacCubing XVIII 2024](https://www.worldcubeassociation.org/competitions/SacCubingXVIII2024/results/by_person#2017OSTD02) |
+| 94 | 0.26 | [Edoardo Disarò](https://www.worldcubeassociation.org/persons/2013DISA01) | 39.19 | 39.45 | [Mantua Summer 2017](https://www.worldcubeassociation.org/competitions/MantuaSummer2017/results/by_person#2013DISA01) |
+| 95 | 0.26 | [Ruei-Hong Liang (梁睿紘)](https://www.worldcubeassociation.org/persons/2020LIAN04) | 44.22 | 44.48 | [Maru Cube Day 2023](https://www.worldcubeassociation.org/competitions/MaruCubeDay2023/results/by_person#2020LIAN04) |
+| 96 | 0.26 | [Ardianto Satriawan](https://www.worldcubeassociation.org/persons/2009SATR01) | 1:30.03 | 1:30.29 | [Cianjur Open 2013](https://www.worldcubeassociation.org/competitions/CianjurOpen2013/results/by_person#2009SATR01) |
+| 97 | 0.27 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) | 25.40 | 25.67 | [Maru Cube Day 2023](https://www.worldcubeassociation.org/competitions/MaruCubeDay2023/results/by_person#2010WUIF01) |
+| 98 | 0.27 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | 29.22 | 29.49 | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023/results/by_person#2019KEDZ01) |
+| 99 | 0.27 | [Tomáš Nguyen](https://www.worldcubeassociation.org/persons/2014QUYN02) | 32.11 | 32.38 | [Prague NxNxN 2023](https://www.worldcubeassociation.org/competitions/PragueNxNxN2023/results/by_person#2014QUYN02) |
+| 100 | 0.27 | [Zachary White](https://www.worldcubeassociation.org/persons/2010WHIT05) | 36.88 | 37.15 | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/by_person#2010WHIT05) |
 
 ### 5x5x5 Cube
 
