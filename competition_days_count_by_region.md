@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 13 December 2024*
+*Updated on 16 December 2024*
 
 
 ### World
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.46 | World | 13714 |
+| 1 | 1.46 | World | 13724 |
 
 ### Continents
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.73 | Europe | 4445 |
+| 1 | 1.73 | Europe | 4446 |
 | 2 | 1.49 | South America | 1699 |
-| 3 | 1.47 | Oceania | 604 |
-| 4 | 1.41 | Asia | 2914 |
+| 3 | 1.47 | Oceania | 605 |
+| 4 | 1.41 | Asia | 2916 |
 | 5 | 1.29 | Africa | 163 |
-| 6 | 1.20 | North America | 3889 |
+| 6 | 1.20 | North America | 3895 |
 
 ### Countries
 
@@ -40,7 +40,7 @@
 | 14 | 1.87 | Norway | 132 |
 | 15 | 1.87 | Finland | 142 |
 | 16 | 1.86 | Kyrgyzstan | 7 |
-| 17 | 1.85 | Spain | 380 |
+| 17 | 1.85 | Spain | 381 |
 | 18 | 1.85 | Croatia | 27 |
 | 19 | 1.84 | Switzerland | 122 |
 | 20 | 1.83 | Thailand | 71 |
@@ -63,11 +63,11 @@
 | 37 | 1.66 | Ireland | 71 |
 | 38 | 1.62 | Iran | 42 |
 | 39 | 1.61 | Italy | 233 |
-| 40 | 1.60 | New Zealand | 129 |
+| 40 | 1.59 | New Zealand | 130 |
 | 41 | 1.59 | Denmark | 192 |
 | 42 | 1.58 | Netherlands | 122 |
 | 43 | 1.58 | Indonesia | 232 |
-| 44 | 1.58 | India | 607 |
+| 44 | 1.58 | India | 608 |
 | 45 | 1.57 | San Marino | 7 |
 | 46 | 1.56 | Greece | 32 |
 | 47 | 1.56 | Dominican Republic | 27 |
@@ -110,7 +110,7 @@
 | 84 | 1.27 | Uruguay | 55 |
 | 85 | 1.26 | Venezuela | 78 |
 | 86 | 1.25 | Chile | 138 |
-| 87 | 1.25 | China | 660 |
+| 87 | 1.25 | China | 661 |
 | 88 | 1.23 | El Salvador | 35 |
 | 89 | 1.22 | Bahrain | 9 |
 | 90 | 1.20 | Japan | 232 |
@@ -118,7 +118,7 @@
 | 92 | 1.18 | Armenia | 11 |
 | 93 | 1.17 | Canada | 395 |
 | 94 | 1.17 | Tunisia | 24 |
-| 95 | 1.16 | United States | 3122 |
+| 95 | 1.16 | United States | 3128 |
 | 96 | 1.13 | Azerbaijan | 46 |
 | 97 | 1.12 | Honduras | 17 |
 | 98 | 1.09 | Cyprus | 11 |
