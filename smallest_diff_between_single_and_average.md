@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 25 December 2024*
+*Updated on 28 December 2024*
 
 
 ### Rubik's Cube
@@ -258,7 +258,7 @@
 | 38 | 0.19 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | 24.88 | 25.07 | [Bay Area Speedcubin' 63 2024](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin632024/results/by_person#2017SIAU02) |
 | 39 | 0.19 | [Magnus Søndergaard Byrne](https://www.worldcubeassociation.org/persons/2017BYRN01) | 29.26 | 29.45 | [Danish Championship 2024](https://www.worldcubeassociation.org/competitions/DanishChampionship2024/results/by_person#2017BYRN01) |
 | 40 | 0.19 | [Toni Beljo](https://www.worldcubeassociation.org/persons/2015BELJ01) | 30.56 | 30.75 | [Welcome Back Jönköping 2020](https://www.worldcubeassociation.org/competitions/WelcomeBackJonkoping2020/results/by_person#2015BELJ01) |
-| 41 | 0.19 | [Amity Trace](https://www.worldcubeassociation.org/persons/2015TRAC01) | 35.36 | 35.55 | [Country Roads Martinsburg 2020](https://www.worldcubeassociation.org/competitions/CountryRoadsMartinsburg2020/results/by_person#2015TRAC01) |
+| 41 | 0.19 | [Madeline Trace](https://www.worldcubeassociation.org/persons/2015TRAC01) | 35.36 | 35.55 | [Country Roads Martinsburg 2020](https://www.worldcubeassociation.org/competitions/CountryRoadsMartinsburg2020/results/by_person#2015TRAC01) |
 | 42 | 0.19 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) | 35.50 | 35.69 | [Weston-super-Mare Spring 2023](https://www.worldcubeassociation.org/competitions/WestonsuperMareSpring2023/results/by_person#2018STOK01) |
 | 43 | 0.19 | [Ivan Torgashov](https://www.worldcubeassociation.org/persons/2011TORG01) | 36.59 | 36.78 | [LLS II Biała Podlaska 2021](https://www.worldcubeassociation.org/competitions/LLSIIBialaPodlaska2021/results/by_person#2011TORG01) |
 | 44 | 0.19 | [Arcadio Soriano Velázquez](https://www.worldcubeassociation.org/persons/2017VELA04) | 52.31 | 52.50 | [Tunas Open 2022](https://www.worldcubeassociation.org/competitions/TunasOpen2022/results/by_person#2017VELA04) |
