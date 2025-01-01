@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 31 December 2024*
+*Updated on  1 January 2025*
 
 
 ### Rubik's Cube
@@ -723,21 +723,21 @@
 | 83 | [Timothy Castle](https://www.worldcubeassociation.org/persons/2016CAST48) | **22.19** | DNF | [Western Championship 2023](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2023/results/all#e333bf_f) | 6 |
 | 84 | [Noah Kraft](https://www.worldcubeassociation.org/persons/2016KRAF01) | **22.22** | DNF | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#e333bf_f) | 11 |
 | 85 | [Hirotaka Ito (伊藤大平)](https://www.worldcubeassociation.org/persons/2008ITOH01) | **22.24** | DNF | [Kanazawa 2024](https://www.worldcubeassociation.org/competitions/Kanazawa2024/results/all#e333bf_f) | 4 |
-| 86 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | **22.29** | DNF | [Newham Autumn - BBO 2023](https://www.worldcubeassociation.org/competitions/NewhamAutumnBBO2023/results/all#e333bf_f) | 4 |
-| 87 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | **22.29** | DNF | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024/results/all#e333bf_f) | 5 |
-| 88 | [Yucheng Chen (陈裕铖)](https://www.worldcubeassociation.org/persons/2015CHEN49) | **22.30** | 31.60 | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/all#e333bf_f) | 4 |
-| 89 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | **22.33** | 24.29 | [Sheffield Spring - BBO 2023](https://www.worldcubeassociation.org/competitions/SheffieldSpringBBO2023/results/all#e333bf_f) | 4 |
-| 90 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) | **22.34** | DNF | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024/results/all#e333bf_f) | 6 |
-| 91 | [Jake Klassen](https://www.worldcubeassociation.org/persons/2016KLAS01) | **22.39** | DNF | [CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/all#e333bf_f) | 4 |
-| 92 | [Ethan Davis](https://www.worldcubeassociation.org/persons/2016DAVI02) | **22.40** | DNF | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/all#e333bf_f) | 14 |
-| 93 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | **22.40** | DNF | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e333bf_f) | 10 |
-| 94 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | **22.41** | 30.83 | [Polish Championship 2022](https://www.worldcubeassociation.org/competitions/PolishChampionship2022/results/all#e333bf_f) | 5 |
-| 95 | [Tianyu Zhao (赵天愉)](https://www.worldcubeassociation.org/persons/2014ZHAO12) | **22.41** | DNF | [Beijing Spring Special 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringSpecial2021/results/all#e333bf_f) | 4 |
-| 96 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | **22.41** | DNF | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024/results/all#e333bf_f) | 7 |
-| 97 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | **22.47** | 24.56 | [Dragon Side Open 2022](https://www.worldcubeassociation.org/competitions/DragonSideOpen2022/results/all#e333bf_f) | 4 |
-| 98 | [Calix Tang](https://www.worldcubeassociation.org/persons/2015TANG04) | **22.49** | DNF | [Triton Tricubealon 2024](https://www.worldcubeassociation.org/competitions/TritonTricubealon2024/results/all#e333bf_f) | 4 |
-| 99 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | **22.57** | DNF | [Solving In Sale 2024](https://www.worldcubeassociation.org/competitions/SolvingInSale2024/results/all#e333bf_f) | 4 |
-| 100 | [Iker Carrasco Ruiz](https://www.worldcubeassociation.org/persons/2016RUIZ05) | **22.59** | DNF | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#e333bf_f) | 12 |
+| 86 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | **22.29** | 23.30 | [BrizZon Sylwester Open 2024](https://www.worldcubeassociation.org/competitions/BrizZonSylwesterOpen2024/results/all#e333bf_f) | 4 |
+| 87 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | **22.29** | DNF | [Newham Autumn - BBO 2023](https://www.worldcubeassociation.org/competitions/NewhamAutumnBBO2023/results/all#e333bf_f) | 4 |
+| 88 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | **22.29** | DNF | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024/results/all#e333bf_f) | 5 |
+| 89 | [Yucheng Chen (陈裕铖)](https://www.worldcubeassociation.org/persons/2015CHEN49) | **22.30** | 31.60 | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/all#e333bf_f) | 4 |
+| 90 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | **22.33** | 24.29 | [Sheffield Spring - BBO 2023](https://www.worldcubeassociation.org/competitions/SheffieldSpringBBO2023/results/all#e333bf_f) | 4 |
+| 91 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) | **22.34** | DNF | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024/results/all#e333bf_f) | 6 |
+| 92 | [Jake Klassen](https://www.worldcubeassociation.org/persons/2016KLAS01) | **22.39** | DNF | [CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/all#e333bf_f) | 4 |
+| 93 | [Ethan Davis](https://www.worldcubeassociation.org/persons/2016DAVI02) | **22.40** | DNF | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/all#e333bf_f) | 14 |
+| 94 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | **22.40** | DNF | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e333bf_f) | 10 |
+| 95 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | **22.41** | 30.83 | [Polish Championship 2022](https://www.worldcubeassociation.org/competitions/PolishChampionship2022/results/all#e333bf_f) | 5 |
+| 96 | [Tianyu Zhao (赵天愉)](https://www.worldcubeassociation.org/persons/2014ZHAO12) | **22.41** | DNF | [Beijing Spring Special 2021](https://www.worldcubeassociation.org/competitions/BeijingSpringSpecial2021/results/all#e333bf_f) | 4 |
+| 97 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | **22.41** | DNF | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024/results/all#e333bf_f) | 7 |
+| 98 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | **22.47** | 24.56 | [Dragon Side Open 2022](https://www.worldcubeassociation.org/competitions/DragonSideOpen2022/results/all#e333bf_f) | 4 |
+| 99 | [Calix Tang](https://www.worldcubeassociation.org/persons/2015TANG04) | **22.49** | DNF | [Triton Tricubealon 2024](https://www.worldcubeassociation.org/competitions/TritonTricubealon2024/results/all#e333bf_f) | 4 |
+| 100 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | **22.57** | DNF | [Solving In Sale 2024](https://www.worldcubeassociation.org/competitions/SolvingInSale2024/results/all#e333bf_f) | 4 |
 
 ### 3x3x3 Fewest Moves
 
