@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on  1 January 2025*
+*Updated on  4 January 2025*
 
 
 ### Rubik's Cube
@@ -1026,33 +1026,33 @@
 | 71 | [Alex Rosado Saez de Langarica](https://www.worldcubeassociation.org/persons/2023LANG03) | 37.80 | **39.35** | [Ciu La Mancha Open 2024](https://www.worldcubeassociation.org/competitions/CiuLaManchaOpen2024/results/all#eminx_f) | 4 |
 | 72 | [Alex Rosado Saez de Langarica](https://www.worldcubeassociation.org/persons/2023LANG03) | 35.60 | **39.36** | [Spanish Championship 2024](https://www.worldcubeassociation.org/competitions/SpanishChampionship2024/results/all#eminx_f) | 4 |
 | 73 | [Phillip Lewicki](https://www.worldcubeassociation.org/persons/2012LEWI01) | 37.10 | **39.48** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#eminx_f) | 8 |
-| 74 | [Aidan McKenzie](https://www.worldcubeassociation.org/persons/2017MCKE02) | 37.41 | **39.49** | [Central Square 2023](https://www.worldcubeassociation.org/competitions/MegaMindsinCentralSquare2023/results/all#eminx_f) | 4 |
-| 75 | [Hill Pong Yong Feng](https://www.worldcubeassociation.org/persons/2017FENG10) | 31.69 | **39.51** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#eminx_f) | 14 |
-| 76 | [Ray Bai](https://www.worldcubeassociation.org/persons/2014BAIR01) | 35.57 | **39.55** | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/all#eminx_f) | 11 |
-| 77 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | 33.79 | **39.59** | [Spanish Championship 2024](https://www.worldcubeassociation.org/competitions/SpanishChampionship2024/results/all#eminx_f) | 5 |
-| 78 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 37.18 | **39.73** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#eminx_f) | 10 |
-| 79 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) | 36.07 | **39.83** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#eminx_f) | 8 |
-| 80 | [Andy Denney](https://www.worldcubeassociation.org/persons/2013DENN01) | 35.49 | **39.90** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#eminx_f) | 7 |
-| 81 | [Ao Nogami (野上碧)](https://www.worldcubeassociation.org/persons/2019NOGA01) | 36.44 | **39.90** | [Singapore Championship 2023](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2023/results/all#eminx_f) | 5 |
-| 82 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 37.04 | **39.92** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#eminx_f) | 15 |
-| 83 | [Pablo Amoraga Velasco](https://www.worldcubeassociation.org/persons/2023VELA19) | 38.07 | **39.96** | [Spanish Championship 2024](https://www.worldcubeassociation.org/competitions/SpanishChampionship2024/results/all#eminx_f) | 6 |
-| 84 | [Deng Zhengping](https://www.worldcubeassociation.org/persons/2019ZHEN04) | 37.15 | **40.12** | [WCA Oceanic Championship 2024](https://www.worldcubeassociation.org/competitions/OC2024/results/all#eminx_f) | 4 |
-| 85 | [Yusuke Takada (高田祐介)](https://www.worldcubeassociation.org/persons/2015TAKA05) | 34.64 | **40.18** | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/all#eminx_f) | 10 |
-| 86 | [Imanuel Leonid Müller](https://www.worldcubeassociation.org/persons/2022MULL02) | 38.86 | **40.18** | [Rubik's German Nationals 2024](https://www.worldcubeassociation.org/competitions/RubiksGermanNationals2024/results/all#eminx_f) | 4 |
-| 87 | [Andy Denney](https://www.worldcubeassociation.org/persons/2013DENN01) | 33.65 | **40.31** | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all#eminx_f) | 6 |
-| 88 | [Choi Hyo-Jin (최효진)](https://www.worldcubeassociation.org/persons/2017HYOJ01) | 39.14 | **40.37** | [Seoul Summer 2022](https://www.worldcubeassociation.org/competitions/SeoulSummer2022/results/all#eminx_f) | 4 |
-| 89 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) | 37.07 | **40.38** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#eminx_f) | 7 |
-| 90 | [Dongzhe Li (李东哲)](https://www.worldcubeassociation.org/persons/2014LIDO01) | 36.17 | **40.40** | [Xi'an Open 2024](https://www.worldcubeassociation.org/competitions/XianOpen2024/results/all#eminx_f) | 4 |
-| 91 | [Elias Fischer](https://www.worldcubeassociation.org/persons/2013FISC01) | 37.62 | **40.50** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#eminx_f) | 18 |
-| 92 | [Bartłomiej Krokos](https://www.worldcubeassociation.org/persons/2017KROK01) | 37.67 | **40.50** | [Dębica Cubing Winter 2024](https://www.worldcubeassociation.org/competitions/DebicaCubingWinter2024/results/all#eminx_f) | 4 |
-| 93 | [Jonas Pilhöfer](https://www.worldcubeassociation.org/persons/2019PILH01) | 35.52 | **40.54** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#eminx_f) | 19 |
-| 94 | [Elias Fischer](https://www.worldcubeassociation.org/persons/2013FISC01) | 37.22 | **40.72** | [Rubik's German Nationals 2024](https://www.worldcubeassociation.org/competitions/RubiksGermanNationals2024/results/all#eminx_f) | 5 |
-| 95 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 35.35 | **40.82** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#eminx_f) | 16 |
-| 96 | [Bartłomiej Krokos](https://www.worldcubeassociation.org/persons/2017KROK01) | 40.01 | **40.84** | [Dragon Cubing II 2024](https://www.worldcubeassociation.org/competitions/DragonCubingII2024/results/all#eminx_f) | 5 |
-| 97 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 36.95 | **40.85** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#eminx_f) | 8 |
-| 98 | [Pablo Contreras](https://www.worldcubeassociation.org/persons/2015CONT02) | 40.49 | **40.94** | [French Championship 2024](https://www.worldcubeassociation.org/competitions/FrenchChampionship2024/results/all#eminx_c) | 5 |
-| 99 | [Alex Rosado Saez de Langarica](https://www.worldcubeassociation.org/persons/2023LANG03) | 39.61 | **40.96** | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024/results/all#eminx_f) | 4 |
-| 100 | [Raúl Martínez Redondo](https://www.worldcubeassociation.org/persons/2017REDO02) | 36.65 | **40.99** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#eminx_f) | 20 |
+| 74 | [Deng Zhengping](https://www.worldcubeassociation.org/persons/2019ZHEN04) | 36.21 | **39.49** | [A New Year in Singapore 2025](https://www.worldcubeassociation.org/competitions/ANewYearinSingapore2025/results/all#eminx_f) | 4 |
+| 75 | [Aidan McKenzie](https://www.worldcubeassociation.org/persons/2017MCKE02) | 37.41 | **39.49** | [Central Square 2023](https://www.worldcubeassociation.org/competitions/MegaMindsinCentralSquare2023/results/all#eminx_f) | 4 |
+| 76 | [Hill Pong Yong Feng](https://www.worldcubeassociation.org/persons/2017FENG10) | 31.69 | **39.51** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#eminx_f) | 14 |
+| 77 | [Ray Bai](https://www.worldcubeassociation.org/persons/2014BAIR01) | 35.57 | **39.55** | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/all#eminx_f) | 11 |
+| 78 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | 33.79 | **39.59** | [Spanish Championship 2024](https://www.worldcubeassociation.org/competitions/SpanishChampionship2024/results/all#eminx_f) | 5 |
+| 79 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 37.18 | **39.73** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#eminx_f) | 10 |
+| 80 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) | 36.07 | **39.83** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#eminx_f) | 8 |
+| 81 | [Andy Denney](https://www.worldcubeassociation.org/persons/2013DENN01) | 35.49 | **39.90** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#eminx_f) | 7 |
+| 82 | [Ao Nogami (野上碧)](https://www.worldcubeassociation.org/persons/2019NOGA01) | 36.44 | **39.90** | [Singapore Championship 2023](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2023/results/all#eminx_f) | 5 |
+| 83 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 37.04 | **39.92** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#eminx_f) | 15 |
+| 84 | [Pablo Amoraga Velasco](https://www.worldcubeassociation.org/persons/2023VELA19) | 38.07 | **39.96** | [Spanish Championship 2024](https://www.worldcubeassociation.org/competitions/SpanishChampionship2024/results/all#eminx_f) | 6 |
+| 85 | [Deng Zhengping](https://www.worldcubeassociation.org/persons/2019ZHEN04) | 37.15 | **40.12** | [WCA Oceanic Championship 2024](https://www.worldcubeassociation.org/competitions/OC2024/results/all#eminx_f) | 4 |
+| 86 | [Yusuke Takada (高田祐介)](https://www.worldcubeassociation.org/persons/2015TAKA05) | 34.64 | **40.18** | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/all#eminx_f) | 10 |
+| 87 | [Imanuel Leonid Müller](https://www.worldcubeassociation.org/persons/2022MULL02) | 38.86 | **40.18** | [Rubik's German Nationals 2024](https://www.worldcubeassociation.org/competitions/RubiksGermanNationals2024/results/all#eminx_f) | 4 |
+| 88 | [Andy Denney](https://www.worldcubeassociation.org/persons/2013DENN01) | 33.65 | **40.31** | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all#eminx_f) | 6 |
+| 89 | [Choi Hyo-Jin (최효진)](https://www.worldcubeassociation.org/persons/2017HYOJ01) | 39.14 | **40.37** | [Seoul Summer 2022](https://www.worldcubeassociation.org/competitions/SeoulSummer2022/results/all#eminx_f) | 4 |
+| 90 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) | 37.07 | **40.38** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#eminx_f) | 7 |
+| 91 | [Dongzhe Li (李东哲)](https://www.worldcubeassociation.org/persons/2014LIDO01) | 36.17 | **40.40** | [Xi'an Open 2024](https://www.worldcubeassociation.org/competitions/XianOpen2024/results/all#eminx_f) | 4 |
+| 92 | [Elias Fischer](https://www.worldcubeassociation.org/persons/2013FISC01) | 37.62 | **40.50** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#eminx_f) | 18 |
+| 93 | [Bartłomiej Krokos](https://www.worldcubeassociation.org/persons/2017KROK01) | 37.67 | **40.50** | [Dębica Cubing Winter 2024](https://www.worldcubeassociation.org/competitions/DebicaCubingWinter2024/results/all#eminx_f) | 4 |
+| 94 | [Jonas Pilhöfer](https://www.worldcubeassociation.org/persons/2019PILH01) | 35.52 | **40.54** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#eminx_f) | 19 |
+| 95 | [Elias Fischer](https://www.worldcubeassociation.org/persons/2013FISC01) | 37.22 | **40.72** | [Rubik's German Nationals 2024](https://www.worldcubeassociation.org/competitions/RubiksGermanNationals2024/results/all#eminx_f) | 5 |
+| 96 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 35.35 | **40.82** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#eminx_f) | 16 |
+| 97 | [Bartłomiej Krokos](https://www.worldcubeassociation.org/persons/2017KROK01) | 40.01 | **40.84** | [Dragon Cubing II 2024](https://www.worldcubeassociation.org/competitions/DragonCubingII2024/results/all#eminx_f) | 5 |
+| 98 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 36.95 | **40.85** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#eminx_f) | 8 |
+| 99 | [Pablo Contreras](https://www.worldcubeassociation.org/persons/2015CONT02) | 40.49 | **40.94** | [French Championship 2024](https://www.worldcubeassociation.org/competitions/FrenchChampionship2024/results/all#eminx_c) | 5 |
+| 100 | [Alex Rosado Saez de Langarica](https://www.worldcubeassociation.org/persons/2023LANG03) | 39.61 | **40.96** | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024/results/all#eminx_f) | 4 |
 
 ### Pyraminx
 
