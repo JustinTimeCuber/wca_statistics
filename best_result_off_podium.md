@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on  7 January 2025*
+*Updated on 10 January 2025*
 
 
 ### Rubik's Cube
@@ -1260,9 +1260,9 @@
 | 95 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) | 4.14 | **4.80** | [Silesian Cubing Pawłowice 2024](https://www.worldcubeassociation.org/competitions/SilesianCubingPawlowice2024/results/all#eclock_f) | 6 |
 | 96 | [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) | 4.65 | **4.80** | [Chorzów Open 2024](https://www.worldcubeassociation.org/competitions/ChorzowOpen2024/results/all#eclock_f) | 6 |
 | 97 | [Ethan Yeh](https://www.worldcubeassociation.org/persons/2020YEHE01) | 3.12 | **4.81** | [UCSD Fall 2024](https://www.worldcubeassociation.org/competitions/UCSDFall2024/results/all#eclock_f) | 5 |
-| 98 | [Ethan Zhuang](https://www.worldcubeassociation.org/persons/2018ZHUA10) | 4.18 | **4.81** | [New Jersey Championship 2024](https://www.worldcubeassociation.org/competitions/NewJerseyChampionship2024/results/all#eclock_f) | 4 |
-| 99 | [Ethan Zhuang](https://www.worldcubeassociation.org/persons/2018ZHUA10) | 3.65 | **4.82** | [Side Events in Nyack 2024](https://www.worldcubeassociation.org/competitions/SideEventsinNyack2024/results/all#eclock_f) | 5 |
-| 100 | [Michal Černý](https://www.worldcubeassociation.org/persons/2022CERN03) | 3.67 | **4.82** | [Energy Cube Konin 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeKonin2024/results/all#eclock_f) | 4 |
+| 98 | [Angelo Terpening](https://www.worldcubeassociation.org/persons/2019TERP01) | 4.16 | **4.81** | [Kisco Cubing 2025](https://www.worldcubeassociation.org/competitions/KiscoCubing2025/results/all#eclock_c) | 4 |
+| 99 | [Ethan Zhuang](https://www.worldcubeassociation.org/persons/2018ZHUA10) | 4.18 | **4.81** | [New Jersey Championship 2024](https://www.worldcubeassociation.org/competitions/NewJerseyChampionship2024/results/all#eclock_f) | 4 |
+| 100 | [Ethan Zhuang](https://www.worldcubeassociation.org/persons/2018ZHUA10) | 3.65 | **4.82** | [Side Events in Nyack 2024](https://www.worldcubeassociation.org/competitions/SideEventsinNyack2024/results/all#eclock_f) | 5 |
 
 ### Skewb
 

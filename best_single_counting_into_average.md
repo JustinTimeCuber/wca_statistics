@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on  7 January 2025*
+*Updated on 10 January 2025*
 
 
 ### Rubik's Cube
@@ -493,7 +493,7 @@
 | 64 | 8.33 | [Magnus Lensch](https://www.worldcubeassociation.org/persons/2019LENS01) | [Rhein-Neckar PBJ 2024](https://www.worldcubeassociation.org/competitions/RheinNeckarPBJ2024/results/by_person#2019LENS01) |
 | 65 | 8.33 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2020ARCH01) |
 | 66 | 8.34 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Southeast Championship 2022](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2022/results/by_person#2012PARK03) |
-| 67 | 8.34 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Swoop In And Solve Oxford 2023](https://www.worldcubeassociation.org/competitions/SwoopInAndSolveOxford2023/results/by_person#2017GARR05) |
+| 67 | 8.34 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Swoop in And Solve Oxford 2023](https://www.worldcubeassociation.org/competitions/SwoopinAndSolveOxford2023/results/by_person#2017GARR05) |
 | 68 | 8.34 | [Zhen Chen (陈震)](https://www.worldcubeassociation.org/persons/2023CHEN30) | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/by_person#2023CHEN30) |
 | 69 | 8.35 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Aliso Niguel Summer 2024](https://www.worldcubeassociation.org/competitions/AlisoNiguelSummer2024/results/by_person#2012PARK03) |
 | 70 | 8.35 | [Parist Pariyakanok (พริษฐ์ ปริยกนก)](https://www.worldcubeassociation.org/persons/2018PARI07) | [Samutprakarn Cube Open 2024](https://www.worldcubeassociation.org/competitions/SamutprakarnCubeOpen2024/results/by_person#2018PARI07) |
@@ -913,7 +913,7 @@
 | 64 | 1.57 | [Vojtěch Grohmann](https://www.worldcubeassociation.org/persons/2021GROH01) | [Lužice Winter 2024](https://www.worldcubeassociation.org/competitions/LuziceWinter2024/results/by_person#2021GROH01) |
 | 65 | 1.57 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | [Cube4fun Żyrardów 2024](https://www.worldcubeassociation.org/competitions/Cube4funCEZyrardow2024/results/by_person#2022SAMS03) |
 | 66 | 1.58 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | [Deerfield Winter 2022](https://www.worldcubeassociation.org/competitions/DeerfieldWinter2022/results/by_person#2015KUCA01) |
-| 67 | 1.58 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | [Swoop In Again Oxford 2023](https://www.worldcubeassociation.org/competitions/SwoopInAgainOxford2023/results/by_person#2015KUCA01) |
+| 67 | 1.58 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | [Swoop in Again Oxford 2023](https://www.worldcubeassociation.org/competitions/SwoopinAgainOxford2023/results/by_person#2015KUCA01) |
 | 68 | 1.58 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | [Pretzel Mania Denver 2024](https://www.worldcubeassociation.org/competitions/PretzelManiaDenver2024/results/by_person#2016KELL12) |
 | 69 | 1.58 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [South Jersey Speedsolving 2023](https://www.worldcubeassociation.org/competitions/SouthJerseySpeedsolving2023/results/by_person#2018KHAN28) |
 | 70 | 1.58 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Square-Fun in Bloomsburg 2023](https://www.worldcubeassociation.org/competitions/SquareFuninBloomsburg2023/results/by_person#2018KHAN28) |
@@ -944,7 +944,7 @@
 | 95 | 1.62 | [Dominic Redisi](https://www.worldcubeassociation.org/persons/2019REDI02) | [Scenic City Scramble TN 2024](https://www.worldcubeassociation.org/competitions/ScenicCityScrambleTN2024/results/by_person#2019REDI02) |
 | 96 | 1.62 | [Vojtěch Grohmann](https://www.worldcubeassociation.org/persons/2021GROH01) | [Szansa Cubing Open Warsaw 2024](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2024/results/by_person#2021GROH01) |
 | 97 | 1.62 | [Vojtěch Grohmann](https://www.worldcubeassociation.org/persons/2021GROH01) | [Szansa Cubing Open Warsaw 2024](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2024/results/by_person#2021GROH01) |
-| 98 | 1.63 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | [Swoop In Again Oxford 2023](https://www.worldcubeassociation.org/competitions/SwoopInAgainOxford2023/results/by_person#2016KELL12) |
+| 98 | 1.63 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | [Swoop in Again Oxford 2023](https://www.worldcubeassociation.org/competitions/SwoopinAgainOxford2023/results/by_person#2016KELL12) |
 | 99 | 1.63 | [Brayden Wroten](https://www.worldcubeassociation.org/persons/2018WROT01) | [Colorado Championship 2024](https://www.worldcubeassociation.org/competitions/ColoradoChampionship2024/results/by_person#2018WROT01) |
 | 100 | 1.63 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [CMT Frisco 2023](https://www.worldcubeassociation.org/competitions/CMTFrisco2023/results/by_person#2018KHAN28) |
 
