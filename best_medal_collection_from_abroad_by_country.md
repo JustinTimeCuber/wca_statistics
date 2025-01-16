@@ -1,16 +1,16 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 13 January 2025*
+*Updated on 16 January 2025*
 
 | Rank | Country | Gold | Silver | Bronze | Total |
 | :--- | :--- | :--: | :--: | :--: | :--: |
 | 1 | Hungary | **1455** | 1230 | 1059 | 3744 |
-| 2 | United States | **1287** | 1023 | 885 | 3195 |
+| 2 | United States | **1291** | 1025 | 885 | 3201 |
 | 3 | Germany | **1222** | 1158 | 1163 | 3543 |
 | 4 | France | **1036** | 908 | 767 | 2711 |
 | 5 | Russia | **1032** | 584 | 465 | 2081 |
-| 6 | Netherlands | **989** | 801 | 680 | 2470 |
+| 6 | Netherlands | **990** | 801 | 680 | 2471 |
 | 7 | China | **850** | 807 | 704 | 2361 |
 | 8 | Poland | **687** | 455 | 355 | 1497 |
 | 9 | Malaysia | **474** | 484 | 449 | 1407 |
@@ -18,16 +18,16 @@
 | 11 | Canada | **420** | 440 | 469 | 1329 |
 | 12 | Republic of Korea | **387** | 331 | 286 | 1004 |
 | 13 | Hong Kong, China | **373** | 385 | 317 | 1075 |
-| 14 | Switzerland | **368** | 449 | 351 | 1168 |
+| 14 | Switzerland | **369** | 449 | 351 | 1169 |
 | 15 | Denmark | **366** | 307 | 252 | 925 |
-| 16 | India | **351** | 326 | 316 | 993 |
+| 16 | India | **351** | 326 | 317 | 994 |
 | 17 | Italy | **341** | 333 | 303 | 977 |
 | 18 | Sweden | **319** | 374 | 380 | 1073 |
 | 19 | Australia | **305** | 159 | 109 | 573 |
 | 20 | Finland | **293** | 234 | 200 | 727 |
 | 21 | Ukraine | **285** | 295 | 315 | 895 |
 | 22 | Argentina | **266** | 185 | 153 | 604 |
-| 23 | Chinese Taipei | **234** | 211 | 210 | 655 |
+| 23 | Chinese Taipei | **234** | 212 | 210 | 656 |
 | 24 | Singapore | **228** | 208 | 234 | 670 |
 | 25 | Romania | **228** | 172 | 144 | 544 |
 | 26 | Japan | **210** | 161 | 148 | 519 |
@@ -48,7 +48,7 @@
 | 41 | Lithuania | **97** | 87 | 94 | 278 |
 | 42 | Slovakia | **92** | 113 | 117 | 322 |
 | 43 | Thailand | **90** | 99 | 50 | 239 |
-| 44 | Philippines | **80** | 97 | 102 | 279 |
+| 44 | Philippines | **80** | 98 | 103 | 281 |
 | 45 | Croatia | **79** | 113 | 88 | 280 |
 | 46 | Guatemala | **77** | 47 | 51 | 175 |
 | 47 | Venezuela | **74** | 84 | 78 | 236 |
