@@ -1,7 +1,7 @@
 ## Best potential FMC mean
 
 *Note: The means are computed by taking the best result for each attempt in the given round.*
-*Updated on 16 January 2025*
+*Updated on 19 January 2025*
 
 | Rank | Mean | Attempt 1 | Attempt 2 | Attempt 3 | Competition |
 | :--- | :--: | :--: | :--: | :--: | :--- |
@@ -48,7 +48,7 @@
 | 41 | 21.00 | 21 | 23 | 19 | [No Noise November Singapore 2023](https://www.worldcubeassociation.org/competitions/NoNoiseNovemberSingapore2023/results/all#e333fm_f) |
 | 42 | 21.00 | 23 | 18 | 22 | [North Star Cubing Challenge 2020](https://www.worldcubeassociation.org/competitions/NorthStarCubingChallenge2020/results/all#e333fm_f) |
 | 43 | 21.00 | 22 | 22 | 19 | [Pittsburgh Fall 2022](https://www.worldcubeassociation.org/competitions/PittsburghFall2022/results/all#e333fm_f) |
-| 44 | 21.00 | 19 | 23 | 21 | [Singapore Eighty And Below 2023](https://www.worldcubeassociation.org/competitions/SEAB2023/results/all#e333fm_f) |
+| 44 | 21.00 | 19 | 23 | 21 | [Singapore Eighty and Below 2023](https://www.worldcubeassociation.org/competitions/SEAB2023/results/all#e333fm_f) |
 | 45 | 21.00 | 20 | 21 | 22 | [Side N Blind Narre Warren 2023](https://www.worldcubeassociation.org/competitions/SideNBlindNarreWarren2023/results/all#e333fm_f) |
 | 46 | 21.00 | 23 | 20 | 20 | [Szansa Cubing Open Warsaw 2023](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2023/results/all#e333fm_f) |
 | 47 | 21.00 | 20 | 22 | 21 | [Thailand Quiet Championship 2023](https://www.worldcubeassociation.org/competitions/ThailandQuietChampionship2023/results/all#e333fm_f) |
@@ -286,7 +286,7 @@
 | 279 | 22.67 | 24 | 23 | 21 | [RNMB 2023](https://www.worldcubeassociation.org/competitions/RheinNeckarMentalBreakdown2023/results/all#e333fm_1) |
 | 280 | 22.67 | 22 | 24 | 22 | [Rocky Mountain Championship 2023](https://www.worldcubeassociation.org/competitions/RockyMountainChampionship2023/results/all#e333fm_f) |
 | 281 | 22.67 | 25 | 23 | 20 | [Rubik's Irish Champs FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionshipFMC2024/results/all#e333fm_f) |
-| 282 | 22.67 | 22 | 22 | 24 | [Singapore Eighty And Below 2023](https://www.worldcubeassociation.org/competitions/SEAB2023/results/all#e333fm_1) |
+| 282 | 22.67 | 22 | 22 | 24 | [Singapore Eighty and Below 2023](https://www.worldcubeassociation.org/competitions/SEAB2023/results/all#e333fm_1) |
 | 283 | 22.67 | 23 | 22 | 23 | [Selangor Cube Open 2019](https://www.worldcubeassociation.org/competitions/SelangorCubeOpen2019/results/all#e333fm_f) |
 | 284 | 22.67 | 22 | 24 | 22 | [Shanghai FMC Summer 2024](https://www.worldcubeassociation.org/competitions/ShanghaiFMCSummer2024/results/all#e333fm_1) |
 | 285 | 22.67 | 21 | 23 | 24 | [Shhicago II 2024](https://www.worldcubeassociation.org/competitions/ShhicagoII2024/results/all#e333fm_1) |

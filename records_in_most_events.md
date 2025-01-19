@@ -1,7 +1,7 @@
 ## Records in the highest number of events
 
 *Note: All historical records are taken into account (i.e. not only the current ones).*
-*Updated on 16 January 2025*
+*Updated on 19 January 2025*
 
 
 ### World
@@ -296,14 +296,14 @@
 | 81 | 3 | [Ayooluwa Samuel Dada](https://www.worldcubeassociation.org/persons/2019SAMU06) | 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube |
 | 82 | 3 | [SeungBeom Cho (조승범)](https://www.worldcubeassociation.org/persons/2012CHOS01) | 3x3x3 Cube, 2x2x2 Cube, Skewb |
 | 83 | 3 | [Giovanni Contardi](https://www.worldcubeassociation.org/persons/2009CONT01) | 3x3x3 Cube, 4x4x4 Cube, 3x3x3 One-Handed |
-| 84 | 3 | [Jean Pons](https://www.worldcubeassociation.org/persons/2004PONS01) | 3x3x3 Cube, 4x4x4 Cube, 3x3x3 Blindfolded |
-| 85 | 3 | [Anssi Vanhala](https://www.worldcubeassociation.org/persons/2005VANH01) | 3x3x3 Cube, 3x3x3 One-Handed, 3x3x3 With Feet |
-| 86 | 3 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | 2x2x2 Cube, 3x3x3 Blindfolded, Square-1 |
-| 87 | 3 | [Ville Seppänen](https://www.worldcubeassociation.org/persons/2008SEPP01) | 3x3x3 Blindfolded, 4x4x4 Blindfolded, 5x5x5 Blindfolded |
-| 88 | 3 | [Nipat Charoenpholphant (นิพัฒน์ เจริญพลพันธุ์)](https://www.worldcubeassociation.org/persons/2009CHAR03) | 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube |
-| 89 | 3 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) | 4x4x4 Cube, 5x5x5 Cube, 6x6x6 Cube |
-| 90 | 3 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) | 3x3x3 One-Handed, Skewb, 3x3x3 With Feet |
-| 91 | 3 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | 3x3x3 One-Handed, Pyraminx, Skewb |
+| 84 | 3 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | 3x3x3 One-Handed, Pyraminx, Skewb |
+| 85 | 3 | [Jean Pons](https://www.worldcubeassociation.org/persons/2004PONS01) | 3x3x3 Cube, 4x4x4 Cube, 3x3x3 Blindfolded |
+| 86 | 3 | [Anssi Vanhala](https://www.worldcubeassociation.org/persons/2005VANH01) | 3x3x3 Cube, 3x3x3 One-Handed, 3x3x3 With Feet |
+| 87 | 3 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | 2x2x2 Cube, 3x3x3 Blindfolded, Square-1 |
+| 88 | 3 | [Ville Seppänen](https://www.worldcubeassociation.org/persons/2008SEPP01) | 3x3x3 Blindfolded, 4x4x4 Blindfolded, 5x5x5 Blindfolded |
+| 89 | 3 | [Nipat Charoenpholphant (นิพัฒน์ เจริญพลพันธุ์)](https://www.worldcubeassociation.org/persons/2009CHAR03) | 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube |
+| 90 | 3 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) | 4x4x4 Cube, 5x5x5 Cube, 6x6x6 Cube |
+| 91 | 3 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) | 3x3x3 One-Handed, Skewb, 3x3x3 With Feet |
 | 92 | 3 | [Gael Augusto Lapeyre](https://www.worldcubeassociation.org/persons/2018LAPE01) | 2x2x2 Cube, Clock, Pyraminx |
 | 93 | 3 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) | 3x3x3 Cube, 2x2x2 Cube, Square-1 |
 | 94 | 3 | [Chester Lian](https://www.worldcubeassociation.org/persons/2009LIAN03) | 4x4x4 Blindfolded, 5x5x5 Blindfolded, 3x3x3 Multi-Blind |
