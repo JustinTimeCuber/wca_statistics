@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 25 January 2025*
+*Updated on 28 January 2025*
 
 
 ### World
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.46 | World | 14062 |
+| 1 | 1.46 | World | 14090 |
 
 ### Continents
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.73 | Europe | 4564 |
-| 2 | 1.49 | South America | 1747 |
-| 3 | 1.47 | Oceania | 615 |
-| 4 | 1.41 | Asia | 2972 |
-| 5 | 1.31 | Africa | 169 |
-| 6 | 1.20 | North America | 3995 |
+| 1 | 1.73 | Europe | 4574 |
+| 2 | 1.49 | South America | 1751 |
+| 3 | 1.48 | Oceania | 616 |
+| 4 | 1.41 | Asia | 2977 |
+| 5 | 1.30 | Africa | 171 |
+| 6 | 1.20 | North America | 4001 |
 
 ### Countries
 
@@ -34,22 +34,22 @@
 | 8 | 1.92 | Lithuania | 26 |
 | 9 | 1.92 | Russia | 220 |
 | 10 | 1.92 | Serbia | 24 |
-| 11 | 1.88 | United Kingdom | 272 |
-| 12 | 1.88 | France | 314 |
-| 13 | 1.88 | Kyrgyzstan | 8 |
+| 11 | 1.88 | France | 314 |
+| 12 | 1.88 | Kyrgyzstan | 8 |
+| 13 | 1.87 | United Kingdom | 277 |
 | 14 | 1.87 | Norway | 139 |
-| 15 | 1.85 | Spain | 389 |
+| 15 | 1.85 | Spain | 390 |
 | 16 | 1.85 | Hungary | 53 |
 | 17 | 1.84 | Finland | 147 |
-| 18 | 1.83 | Thailand | 72 |
-| 19 | 1.83 | Croatia | 29 |
-| 20 | 1.82 | Sri Lanka | 11 |
+| 18 | 1.83 | Sri Lanka | 12 |
+| 19 | 1.83 | Thailand | 72 |
+| 20 | 1.83 | Croatia | 29 |
 | 21 | 1.80 | Slovakia | 46 |
 | 22 | 1.80 | Iceland | 15 |
 | 23 | 1.80 | Palestine | 5 |
 | 24 | 1.79 | Guatemala | 57 |
-| 25 | 1.79 | Switzerland | 132 |
-| 26 | 1.79 | Mexico | 197 |
+| 25 | 1.79 | Mexico | 199 |
+| 26 | 1.79 | Switzerland | 132 |
 | 27 | 1.79 | Bosnia and Herzegovina | 14 |
 | 28 | 1.78 | Slovenia | 36 |
 | 29 | 1.75 | Luxembourg | 4 |
@@ -58,18 +58,18 @@
 | 32 | 1.71 | Argentina | 96 |
 | 33 | 1.71 | Belgium | 89 |
 | 34 | 1.71 | Poland | 498 |
-| 35 | 1.69 | Brazil | 544 |
+| 35 | 1.69 | Brazil | 547 |
 | 36 | 1.67 | Ireland | 72 |
 | 37 | 1.67 | North Macedonia | 6 |
 | 38 | 1.62 | Italy | 241 |
 | 39 | 1.62 | Iran | 42 |
-| 40 | 1.59 | Denmark | 198 |
-| 41 | 1.59 | Netherlands | 123 |
-| 42 | 1.58 | Indonesia | 233 |
+| 40 | 1.59 | Netherlands | 126 |
+| 41 | 1.59 | Denmark | 198 |
+| 42 | 1.59 | Indonesia | 234 |
 | 43 | 1.58 | New Zealand | 133 |
 | 44 | 1.58 | Greece | 33 |
 | 45 | 1.57 | San Marino | 7 |
-| 46 | 1.57 | India | 623 |
+| 46 | 1.57 | India | 624 |
 | 47 | 1.56 | Dominican Republic | 27 |
 | 48 | 1.55 | Malaysia | 104 |
 | 49 | 1.55 | Nepal | 22 |
@@ -81,13 +81,13 @@
 | 55 | 1.48 | South Africa | 86 |
 | 56 | 1.46 | Latvia | 37 |
 | 57 | 1.46 | Bulgaria | 24 |
-| 58 | 1.44 | Australia | 482 |
+| 58 | 1.45 | Australia | 483 |
 | 59 | 1.44 | Jordan | 16 |
 | 60 | 1.43 | Nigeria | 7 |
-| 61 | 1.41 | Israel | 61 |
-| 62 | 1.40 | Costa Rica | 25 |
-| 63 | 1.40 | Montenegro | 5 |
-| 64 | 1.39 | Bangladesh | 18 |
+| 61 | 1.42 | Bangladesh | 19 |
+| 62 | 1.42 | Israel | 62 |
+| 63 | 1.40 | Costa Rica | 25 |
+| 64 | 1.40 | Montenegro | 5 |
 | 65 | 1.38 | Estonia | 63 |
 | 66 | 1.38 | Ecuador | 56 |
 | 67 | 1.37 | Chinese Taipei | 145 |
@@ -104,13 +104,13 @@
 | 78 | 1.29 | Andorra | 7 |
 | 79 | 1.27 | Kuwait | 11 |
 | 80 | 1.27 | Panama | 22 |
-| 81 | 1.27 | Chile | 141 |
-| 82 | 1.27 | Uruguay | 56 |
+| 81 | 1.27 | Uruguay | 56 |
+| 82 | 1.27 | Chile | 142 |
 | 83 | 1.26 | Singapore | 78 |
 | 84 | 1.25 | Venezuela | 79 |
 | 85 | 1.25 | Morocco | 8 |
 | 86 | 1.25 | United Arab Emirates | 20 |
-| 87 | 1.25 | China | 662 |
+| 87 | 1.25 | China | 663 |
 | 88 | 1.23 | El Salvador | 35 |
 | 89 | 1.22 | Bahrain | 9 |
 | 90 | 1.20 | Japan | 235 |
@@ -118,7 +118,7 @@
 | 92 | 1.18 | Mongolia | 39 |
 | 93 | 1.17 | Canada | 406 |
 | 94 | 1.17 | Tunisia | 24 |
-| 95 | 1.16 | United States | 3204 |
+| 95 | 1.16 | United States | 3208 |
 | 96 | 1.13 | Azerbaijan | 46 |
 | 97 | 1.11 | Honduras | 18 |
 | 98 | 1.08 | Cyprus | 12 |
@@ -130,7 +130,7 @@
 | 104 | 1.00 | Cambodia | 3 |
 | 105 | 1.00 | Cuba | 1 |
 | 106 | 1.00 | Egypt | 7 |
-| 107 | 1.00 | Kenya | 13 |
+| 107 | 1.00 | Kenya | 15 |
 | 108 | 1.00 | Kosovo | 3 |
 | 109 | 1.00 | Laos | 1 |
 | 110 | 1.00 | Macau, China | 1 |
