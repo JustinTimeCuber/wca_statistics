@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 28 January 2025*
+*Updated on 31 January 2025*
 
 
 ### Rubik's Cube
@@ -200,18 +200,18 @@
 | 86 | 0.93 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | [Nordic Championship 2018](https://www.worldcubeassociation.org/competitions/NordicChampionship2018/results/by_person#2013EGDA02) |
 | 87 | 0.93 | [Sujan Feist](https://www.worldcubeassociation.org/persons/2016FEIS01) | [Ohio State Fall 2024](https://www.worldcubeassociation.org/competitions/OhioStateFall2024/results/by_person#2016FEIS01) |
 | 88 | 0.93 | [Sujan Feist](https://www.worldcubeassociation.org/persons/2016FEIS01) | [Coffee and Cubes OH 2024](https://www.worldcubeassociation.org/competitions/CoffeeandCubesOH2024/results/by_person#2016FEIS01) |
-| 89 | 0.93 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/by_person#2018KHAN28) |
-| 90 | 0.93 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Babylon Summer 2022](https://www.worldcubeassociation.org/competitions/BabylonSummer2022/results/by_person#2018KHAN28) |
-| 91 | 0.93 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2018KHAN28) |
-| 92 | 0.93 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Manhattan Mini PM 2024](https://www.worldcubeassociation.org/competitions/ManhattanMiniPM2024/results/by_person#2018KHAN28) |
-| 93 | 0.93 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Fushun Open 2024](https://www.worldcubeassociation.org/competitions/FushunOpen2024/results/by_person#2019WANY36) |
-| 94 | 0.93 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Kunshan Open 2024](https://www.worldcubeassociation.org/competitions/KunshanOpen2024/results/by_person#2019WANY36) |
-| 95 | 0.93 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Zibo Open 2024](https://www.worldcubeassociation.org/competitions/ZiboOpen2024/results/by_person#2019WANY36) |
-| 96 | 0.93 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Guilin Open 2024](https://www.worldcubeassociation.org/competitions/GuilinOpen2024/results/by_person#2019WANY36) |
-| 97 | 0.93 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/by_person#2019WANY36) |
-| 98 | 0.93 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Cool Down Singapore 2024](https://www.worldcubeassociation.org/competitions/CoolDownSingapore2024/results/by_person#2019WANY36) |
-| 99 | 0.93 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2020BURN06) |
-| 100 | 0.93 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | [Energy Cube Tomaszów 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2024/results/by_person#2022STOJ03) |
+| 89 | 0.93 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | [Battle for Belgrade 2025](https://www.worldcubeassociation.org/competitions/BattleforBelgrade2025/results/by_person#2017TSVE02) |
+| 90 | 0.93 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/by_person#2018KHAN28) |
+| 91 | 0.93 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Babylon Summer 2022](https://www.worldcubeassociation.org/competitions/BabylonSummer2022/results/by_person#2018KHAN28) |
+| 92 | 0.93 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2018KHAN28) |
+| 93 | 0.93 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | [Manhattan Mini PM 2024](https://www.worldcubeassociation.org/competitions/ManhattanMiniPM2024/results/by_person#2018KHAN28) |
+| 94 | 0.93 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Fushun Open 2024](https://www.worldcubeassociation.org/competitions/FushunOpen2024/results/by_person#2019WANY36) |
+| 95 | 0.93 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Kunshan Open 2024](https://www.worldcubeassociation.org/competitions/KunshanOpen2024/results/by_person#2019WANY36) |
+| 96 | 0.93 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Zibo Open 2024](https://www.worldcubeassociation.org/competitions/ZiboOpen2024/results/by_person#2019WANY36) |
+| 97 | 0.93 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Guilin Open 2024](https://www.worldcubeassociation.org/competitions/GuilinOpen2024/results/by_person#2019WANY36) |
+| 98 | 0.93 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/by_person#2019WANY36) |
+| 99 | 0.93 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | [Cool Down Singapore 2024](https://www.worldcubeassociation.org/competitions/CoolDownSingapore2024/results/by_person#2019WANY36) |
+| 100 | 0.93 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2020BURN06) |
 
 ### 4x4x4 Cube
 

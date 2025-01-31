@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 28 January 2025*
+*Updated on 31 January 2025*
 
 
 ### World
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.46 | World | 14090 |
+| 1 | 1.46 | World | 14117 |
 
 ### Continents
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.73 | Europe | 4574 |
-| 2 | 1.49 | South America | 1751 |
+| 1 | 1.73 | Europe | 4582 |
+| 2 | 1.48 | South America | 1756 |
 | 3 | 1.48 | Oceania | 616 |
-| 4 | 1.41 | Asia | 2977 |
+| 4 | 1.41 | Asia | 2980 |
 | 5 | 1.30 | Africa | 171 |
-| 6 | 1.20 | North America | 4001 |
+| 6 | 1.20 | North America | 4012 |
 
 ### Countries
 
@@ -33,8 +33,8 @@
 | 7 | 1.93 | Belarus | 42 |
 | 8 | 1.92 | Lithuania | 26 |
 | 9 | 1.92 | Russia | 220 |
-| 10 | 1.92 | Serbia | 24 |
-| 11 | 1.88 | France | 314 |
+| 10 | 1.88 | France | 315 |
+| 11 | 1.88 | Serbia | 25 |
 | 12 | 1.88 | Kyrgyzstan | 8 |
 | 13 | 1.87 | United Kingdom | 277 |
 | 14 | 1.87 | Norway | 139 |
@@ -44,7 +44,7 @@
 | 18 | 1.83 | Sri Lanka | 12 |
 | 19 | 1.83 | Thailand | 72 |
 | 20 | 1.83 | Croatia | 29 |
-| 21 | 1.80 | Slovakia | 46 |
+| 21 | 1.81 | Slovakia | 47 |
 | 22 | 1.80 | Iceland | 15 |
 | 23 | 1.80 | Palestine | 5 |
 | 24 | 1.79 | Guatemala | 57 |
@@ -52,42 +52,42 @@
 | 26 | 1.79 | Switzerland | 132 |
 | 27 | 1.79 | Bosnia and Herzegovina | 14 |
 | 28 | 1.78 | Slovenia | 36 |
-| 29 | 1.75 | Luxembourg | 4 |
-| 30 | 1.74 | Austria | 31 |
+| 29 | 1.75 | Austria | 32 |
+| 30 | 1.75 | Luxembourg | 4 |
 | 31 | 1.71 | Ukraine | 139 |
 | 32 | 1.71 | Argentina | 96 |
 | 33 | 1.71 | Belgium | 89 |
-| 34 | 1.71 | Poland | 498 |
-| 35 | 1.69 | Brazil | 547 |
+| 34 | 1.71 | Poland | 499 |
+| 35 | 1.69 | Brazil | 548 |
 | 36 | 1.67 | Ireland | 72 |
 | 37 | 1.67 | North Macedonia | 6 |
 | 38 | 1.62 | Italy | 241 |
-| 39 | 1.62 | Iran | 42 |
+| 39 | 1.60 | Iran | 43 |
 | 40 | 1.59 | Netherlands | 126 |
 | 41 | 1.59 | Denmark | 198 |
 | 42 | 1.59 | Indonesia | 234 |
 | 43 | 1.58 | New Zealand | 133 |
 | 44 | 1.58 | Greece | 33 |
 | 45 | 1.57 | San Marino | 7 |
-| 46 | 1.57 | India | 624 |
+| 46 | 1.57 | India | 626 |
 | 47 | 1.56 | Dominican Republic | 27 |
 | 48 | 1.55 | Malaysia | 104 |
 | 49 | 1.55 | Nepal | 22 |
 | 50 | 1.52 | Bolivia | 132 |
-| 51 | 1.52 | Sweden | 328 |
+| 51 | 1.52 | Sweden | 330 |
 | 52 | 1.50 | Belize | 2 |
 | 53 | 1.50 | Madagascar | 2 |
-| 54 | 1.49 | Peru | 225 |
-| 55 | 1.48 | South Africa | 86 |
-| 56 | 1.46 | Latvia | 37 |
-| 57 | 1.46 | Bulgaria | 24 |
-| 58 | 1.45 | Australia | 483 |
-| 59 | 1.44 | Jordan | 16 |
-| 60 | 1.43 | Nigeria | 7 |
-| 61 | 1.42 | Bangladesh | 19 |
-| 62 | 1.42 | Israel | 62 |
-| 63 | 1.40 | Costa Rica | 25 |
-| 64 | 1.40 | Montenegro | 5 |
+| 54 | 1.50 | Montenegro | 6 |
+| 55 | 1.49 | Peru | 226 |
+| 56 | 1.48 | South Africa | 86 |
+| 57 | 1.46 | Latvia | 37 |
+| 58 | 1.46 | Bulgaria | 24 |
+| 59 | 1.45 | Australia | 483 |
+| 60 | 1.44 | Jordan | 16 |
+| 61 | 1.43 | Nigeria | 7 |
+| 62 | 1.42 | Bangladesh | 19 |
+| 63 | 1.42 | Israel | 62 |
+| 64 | 1.40 | Costa Rica | 25 |
 | 65 | 1.38 | Estonia | 63 |
 | 66 | 1.38 | Ecuador | 56 |
 | 67 | 1.37 | Chinese Taipei | 145 |
@@ -96,7 +96,7 @@
 | 70 | 1.35 | Paraguay | 34 |
 | 71 | 1.33 | Ghana | 3 |
 | 72 | 1.33 | Tajikistan | 3 |
-| 73 | 1.31 | Colombia | 384 |
+| 73 | 1.31 | Colombia | 385 |
 | 74 | 1.31 | Republic of Korea | 110 |
 | 75 | 1.30 | Hong Kong, China | 23 |
 | 76 | 1.29 | Philippines | 333 |
@@ -105,7 +105,7 @@
 | 79 | 1.27 | Kuwait | 11 |
 | 80 | 1.27 | Panama | 22 |
 | 81 | 1.27 | Uruguay | 56 |
-| 82 | 1.27 | Chile | 142 |
+| 82 | 1.26 | Chile | 144 |
 | 83 | 1.26 | Singapore | 78 |
 | 84 | 1.25 | Venezuela | 79 |
 | 85 | 1.25 | Morocco | 8 |
@@ -116,9 +116,9 @@
 | 90 | 1.20 | Japan | 235 |
 | 91 | 1.18 | Armenia | 11 |
 | 92 | 1.18 | Mongolia | 39 |
-| 93 | 1.17 | Canada | 406 |
+| 93 | 1.17 | Canada | 408 |
 | 94 | 1.17 | Tunisia | 24 |
-| 95 | 1.16 | United States | 3208 |
+| 95 | 1.16 | United States | 3217 |
 | 96 | 1.13 | Azerbaijan | 46 |
 | 97 | 1.11 | Honduras | 18 |
 | 98 | 1.08 | Cyprus | 12 |
