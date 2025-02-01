@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 31 January 2025*
+*Updated on  1 February 2025*
 
 
 ### Competition
@@ -375,7 +375,7 @@
 | 161 | [Laura Holzhauer](https://www.worldcubeassociation.org/persons/2016HOLZ01) | **6380** | 6657 |
 | 162 | [Michael Andres Castillo Lemus](https://www.worldcubeassociation.org/persons/2011CAST02) | **6377** | 6507 |
 | 163 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | **6309** | 6858 |
-| 164 | [Akash Rupela](https://www.worldcubeassociation.org/persons/2012RUPE01) | **6300** | 6518 |
+| 164 | [Akash Rupela](https://www.worldcubeassociation.org/persons/2012RUPE01) | **6305** | 6523 |
 | 165 | [Stian Nystad Østli](https://www.worldcubeassociation.org/persons/2016OSTL02) | **6289** | 6396 |
 | 166 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) | **6272** | 6671 |
 | 167 | [Keaton Ellis](https://www.worldcubeassociation.org/persons/2012ELLI01) | **6267** | 6446 |
@@ -427,7 +427,7 @@
 | 8 | Germany | **695475** | 727981 |
 | 9 | Canada | **655719** | 684043 |
 | 10 | France | **584454** | 615615 |
-| 11 | Brazil | **548337** | 573740 |
+| 11 | Brazil | **548931** | 574351 |
 | 12 | Colombia | **478210** | 501834 |
 | 13 | Sweden | **448307** | 471686 |
 | 14 | Russia | **430990** | 455777 |
@@ -485,8 +485,8 @@
 | 66 | Uzbekistan | **30594** | 32529 |
 | 67 | Dominican Republic | **29672** | 30829 |
 | 68 | El Salvador | **27548** | 28804 |
-| 69 | Bangladesh | **24611** | 25601 |
-| 70 | United Arab Emirates | **24457** | 25609 |
+| 69 | United Arab Emirates | **26697** | 27919 |
+| 70 | Bangladesh | **24611** | 25601 |
 | 71 | Nepal | **24385** | 25359 |
 | 72 | Georgia | **21733** | 22536 |
 | 73 | Paraguay | **21414** | 22301 |
@@ -546,8 +546,8 @@
 | :--- | :--- | ---: | ---: |
 | 1 | Europe | **8767505** | 9200542 |
 | 2 | North America | **6280670** | 6574230 |
-| 3 | Asia | **4677497** | 4899052 |
-| 4 | South America | **1931061** | 2021065 |
+| 3 | Asia | **4679737** | 4901362 |
+| 4 | South America | **1931655** | 2021676 |
 | 5 | Oceania | **1134043** | 1194752 |
 | 6 | Africa | **149478** | 156232 |
 | 7 | Multiple Continents | **3692** | 4915 |
@@ -570,7 +570,7 @@
 | 12 | 2012 | **388118** | 410674 |
 | 13 | 2021 | **370653** | 387728 |
 | 14 | 2011 | **333789** | 355339 |
-| 15 | 2025 | **290593** | 303550 |
+| 15 | 2025 | **293427** | 306471 |
 | 16 | 2010 | **259785** | 277151 |
 | 17 | 2009 | **172080** | 183266 |
 | 18 | 2008 | **86491** | 92666 |
@@ -585,16 +585,16 @@
 
 | Rank |  | Solves | Attempts |
 | :--- | :--- | ---: | ---: |
-| 1 | 3x3x3 Cube | **7044505** | 7196537 |
-| 2 | 2x2x2 Cube | **3966019** | 4067967 |
-| 3 | Pyraminx | **2545555** | 2612677 |
-| 4 | 4x4x4 Cube | **2010141** | 2087651 |
-| 5 | 3x3x3 One-Handed | **1851568** | 1913288 |
-| 6 | Skewb | **1622099** | 1663624 |
-| 7 | 5x5x5 Cube | **1036890** | 1070053 |
-| 8 | Megaminx | **696389** | 727226 |
-| 9 | Square-1 | **638974** | 666458 |
-| 10 | Clock | **625344** | 722851 |
+| 1 | 3x3x3 Cube | **7045389** | 7197442 |
+| 2 | 2x2x2 Cube | **3966755** | 4068722 |
+| 3 | Pyraminx | **2546044** | 2613179 |
+| 4 | 4x4x4 Cube | **2010436** | 2087964 |
+| 5 | 3x3x3 One-Handed | **1851632** | 1913355 |
+| 6 | Skewb | **1622173** | 1663699 |
+| 7 | 5x5x5 Cube | **1037020** | 1070185 |
+| 8 | Megaminx | **696454** | 727293 |
+| 9 | Square-1 | **639004** | 666488 |
+| 10 | Clock | **625411** | 722926 |
 | 11 | 6x6x6 Cube | **244242** | 253434 |
 | 12 | 7x7x7 Cube | **198481** | 207540 |
 | 13 | 3x3x3 Blindfolded | **153690** | 421482 |
