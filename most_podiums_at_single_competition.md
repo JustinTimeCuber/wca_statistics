@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 10 February 2025*
+*Updated on 13 February 2025*
 
 | Rank | Podiums | Person |
 | :--- | ---: | :--- |
@@ -1337,25 +1337,26 @@
 | 1331 | 10 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | [24 Hours in Åker 2024](https://www.worldcubeassociation.org/competitions/24HoursinAker2024/results/podiums) |
 | 1332 | 10 | [Pep Edén](https://www.worldcubeassociation.org/persons/2021EDEN01) | [Jönköpingsligan Final 2023](https://www.worldcubeassociation.org/competitions/JonkopingsliganFinalTattoo2023/results/podiums) |
 | 1333 | 12 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | [La La Land 2024](https://www.worldcubeassociation.org/competitions/LaLaLand2024/results/podiums) |
-| 1334 | 10 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | [Bolton Spring 2023](https://www.worldcubeassociation.org/competitions/BoltonSpring2023/results/podiums) |
-| 1335 | 12 | [Josué Ordóñez](https://www.worldcubeassociation.org/persons/2022ORDO01) | [24 Horas El Tambo 2024](https://www.worldcubeassociation.org/competitions/24HorasElTambo2024/results/podiums) |
-| 1336 | 12 | [Josué Ordóñez](https://www.worldcubeassociation.org/persons/2022ORDO01) | [Imbabura Open 2023](https://www.worldcubeassociation.org/competitions/ImbaburaOpen2023/results/podiums) |
-| 1337 | 10 | [Josué Ordóñez](https://www.worldcubeassociation.org/persons/2022ORDO01) | [Fundación de Cuenca Open 2024](https://www.worldcubeassociation.org/competitions/FundaciondeCuencaOpen2024/results/podiums) |
-| 1338 | 10 | [Josué Ordóñez](https://www.worldcubeassociation.org/persons/2022ORDO01) | [Sin Fronteras Ecuador 2023](https://www.worldcubeassociation.org/competitions/SinFronterasEcuador2023/results/podiums) |
-| 1339 | 12 | [Curtis Chai](https://www.worldcubeassociation.org/persons/2022CHAI02) | [A Tuesday in Ashfield 2024](https://www.worldcubeassociation.org/competitions/ATuesdayinAshfield2024/results/podiums) |
-| 1340 | 12 | [Curtis Chai](https://www.worldcubeassociation.org/persons/2022CHAI02) | [Missouri Championship 2024](https://www.worldcubeassociation.org/competitions/MissouriChampionship2024/results/podiums) |
-| 1341 | 10 | [Hitesh Kumar Bhuwalka](https://www.worldcubeassociation.org/persons/2022BHUW01) | [Bengal Cube Open 2024](https://www.worldcubeassociation.org/competitions/BengalCubeOpen2024/results/podiums) |
-| 1342 | 10 | [Hitesh Kumar Bhuwalka](https://www.worldcubeassociation.org/persons/2022BHUW01) | [Cubing Comes to Bihar 2023](https://www.worldcubeassociation.org/competitions/CubingComestoBihar2023/results/podiums) |
-| 1343 | 12 | [Ahmad Alolaimi](https://www.worldcubeassociation.org/persons/2022ALOL01) | [Kuwaiti Nationals 2023](https://www.worldcubeassociation.org/competitions/KuwaitiNationals2023/results/podiums) |
-| 1344 | 11 | [Grigor Shahverdyan](https://www.worldcubeassociation.org/persons/2022SHAH29) | [Weekend Madness in Yerevan 2024](https://www.worldcubeassociation.org/competitions/WeekendMadnessinYerevan2024/results/podiums) |
-| 1345 | 10 | [Kaique de Oliveira Neves](https://www.worldcubeassociation.org/persons/2022NEVE01) | [Araruama ao Cubo 2024](https://www.worldcubeassociation.org/competitions/AraruamaaoCubo2024/results/podiums) |
-| 1346 | 10 | [Kaique de Oliveira Neves](https://www.worldcubeassociation.org/persons/2022NEVE01) | [CubUai UFMG Open 2024](https://www.worldcubeassociation.org/competitions/CubUaiUFMGOpen2024/results/podiums) |
-| 1347 | 10 | [Kaique de Oliveira Neves](https://www.worldcubeassociation.org/persons/2022NEVE01) | [Paraíso ao Cubo II DC 2024](https://www.worldcubeassociation.org/competitions/ParaisoaoCuboIIDC2024/results/podiums) |
-| 1348 | 10 | [Kaique de Oliveira Neves](https://www.worldcubeassociation.org/persons/2022NEVE01) | [Planetário Rio Open 2024](https://www.worldcubeassociation.org/competitions/PlanetarioRioOpen2024/results/podiums) |
-| 1349 | 10 | [Kaique de Oliveira Neves](https://www.worldcubeassociation.org/persons/2022NEVE01) | [Xerém Open 2024](https://www.worldcubeassociation.org/competitions/XeremOpen2024/results/podiums) |
-| 1350 | 10 | [Filip Åström](https://www.worldcubeassociation.org/persons/2023ASTR01) | [Gutekuben 2024](https://www.worldcubeassociation.org/competitions/Gutekuben2024/results/podiums) |
-| 1351 | 10 | [Samuel Velho Pereira Meira](https://www.worldcubeassociation.org/persons/2023MEIR02) | [CAU ao Cubo 2024](https://www.worldcubeassociation.org/competitions/CAUaoCubo2024/results/podiums) |
-| 1352 | 12 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | [Cube4fun Bełżyce Autumn 2024](https://www.worldcubeassociation.org/competitions/Cube4funBelzyceAutumn2024/results/podiums) |
+| 1334 | 10 | [Abdallah Almaharmeh](https://www.worldcubeassociation.org/persons/2022ALMA01) | [ Al-Madar Open 2025](https://www.worldcubeassociation.org/competitions/AlMadarOpen2025/results/podiums) |
+| 1335 | 10 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | [Bolton Spring 2023](https://www.worldcubeassociation.org/competitions/BoltonSpring2023/results/podiums) |
+| 1336 | 12 | [Josué Ordóñez](https://www.worldcubeassociation.org/persons/2022ORDO01) | [24 Horas El Tambo 2024](https://www.worldcubeassociation.org/competitions/24HorasElTambo2024/results/podiums) |
+| 1337 | 12 | [Josué Ordóñez](https://www.worldcubeassociation.org/persons/2022ORDO01) | [Imbabura Open 2023](https://www.worldcubeassociation.org/competitions/ImbaburaOpen2023/results/podiums) |
+| 1338 | 10 | [Josué Ordóñez](https://www.worldcubeassociation.org/persons/2022ORDO01) | [Fundación de Cuenca Open 2024](https://www.worldcubeassociation.org/competitions/FundaciondeCuencaOpen2024/results/podiums) |
+| 1339 | 10 | [Josué Ordóñez](https://www.worldcubeassociation.org/persons/2022ORDO01) | [Sin Fronteras Ecuador 2023](https://www.worldcubeassociation.org/competitions/SinFronterasEcuador2023/results/podiums) |
+| 1340 | 12 | [Curtis Chai](https://www.worldcubeassociation.org/persons/2022CHAI02) | [A Tuesday in Ashfield 2024](https://www.worldcubeassociation.org/competitions/ATuesdayinAshfield2024/results/podiums) |
+| 1341 | 12 | [Curtis Chai](https://www.worldcubeassociation.org/persons/2022CHAI02) | [Missouri Championship 2024](https://www.worldcubeassociation.org/competitions/MissouriChampionship2024/results/podiums) |
+| 1342 | 10 | [Hitesh Kumar Bhuwalka](https://www.worldcubeassociation.org/persons/2022BHUW01) | [Bengal Cube Open 2024](https://www.worldcubeassociation.org/competitions/BengalCubeOpen2024/results/podiums) |
+| 1343 | 10 | [Hitesh Kumar Bhuwalka](https://www.worldcubeassociation.org/persons/2022BHUW01) | [Cubing Comes to Bihar 2023](https://www.worldcubeassociation.org/competitions/CubingComestoBihar2023/results/podiums) |
+| 1344 | 12 | [Ahmad Alolaimi](https://www.worldcubeassociation.org/persons/2022ALOL01) | [Kuwaiti Nationals 2023](https://www.worldcubeassociation.org/competitions/KuwaitiNationals2023/results/podiums) |
+| 1345 | 11 | [Grigor Shahverdyan](https://www.worldcubeassociation.org/persons/2022SHAH29) | [Weekend Madness in Yerevan 2024](https://www.worldcubeassociation.org/competitions/WeekendMadnessinYerevan2024/results/podiums) |
+| 1346 | 10 | [Kaique de Oliveira Neves](https://www.worldcubeassociation.org/persons/2022NEVE01) | [Araruama ao Cubo 2024](https://www.worldcubeassociation.org/competitions/AraruamaaoCubo2024/results/podiums) |
+| 1347 | 10 | [Kaique de Oliveira Neves](https://www.worldcubeassociation.org/persons/2022NEVE01) | [CubUai UFMG Open 2024](https://www.worldcubeassociation.org/competitions/CubUaiUFMGOpen2024/results/podiums) |
+| 1348 | 10 | [Kaique de Oliveira Neves](https://www.worldcubeassociation.org/persons/2022NEVE01) | [Paraíso ao Cubo II DC 2024](https://www.worldcubeassociation.org/competitions/ParaisoaoCuboIIDC2024/results/podiums) |
+| 1349 | 10 | [Kaique de Oliveira Neves](https://www.worldcubeassociation.org/persons/2022NEVE01) | [Planetário Rio Open 2024](https://www.worldcubeassociation.org/competitions/PlanetarioRioOpen2024/results/podiums) |
+| 1350 | 10 | [Kaique de Oliveira Neves](https://www.worldcubeassociation.org/persons/2022NEVE01) | [Xerém Open 2024](https://www.worldcubeassociation.org/competitions/XeremOpen2024/results/podiums) |
+| 1351 | 10 | [Filip Åström](https://www.worldcubeassociation.org/persons/2023ASTR01) | [Gutekuben 2024](https://www.worldcubeassociation.org/competitions/Gutekuben2024/results/podiums) |
+| 1352 | 10 | [Samuel Velho Pereira Meira](https://www.worldcubeassociation.org/persons/2023MEIR02) | [CAU ao Cubo 2024](https://www.worldcubeassociation.org/competitions/CAUaoCubo2024/results/podiums) |
+| 1353 | 12 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | [Cube4fun Bełżyce Autumn 2024](https://www.worldcubeassociation.org/competitions/Cube4funBelzyceAutumn2024/results/podiums) |
 
 
 <a href="https://github.com/JustinTimeCuber/wca_statistics" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>

@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 10 February 2025*
+*Updated on 13 February 2025*
 
 
 ### Rubik's Cube
@@ -836,13 +836,13 @@
 | 91 | [Theodor Nordstrand](https://www.worldcubeassociation.org/persons/2016NORD02) | 22 | **24.67** | [FMC 2024](https://www.worldcubeassociation.org/competitions/FMC2024/results/all#e333fm_f) | 21 |
 | 92 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | 22 | **24.67** | [FMC 2024](https://www.worldcubeassociation.org/competitions/FMC2024/results/all#e333fm_f) | 21 |
 | 93 | [Arnau Tous Mateu](https://www.worldcubeassociation.org/persons/2016MATE04) | 22 | **24.67** | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024/results/all#e333fm_f) | 20 |
-| 94 | [James Quinn](https://www.worldcubeassociation.org/persons/2016QUIN01) | 22 | **24.67** | [Please Be Quiet Lexington 2022](https://www.worldcubeassociation.org/competitions/PleaseBeQuietLexington2022/results/all#e333fm_f) | 4 |
-| 95 | [Gerard McGinley](https://www.worldcubeassociation.org/persons/2019MCGI01) | 23 | **24.67** | [Australian Nationals FMC 2024](https://www.worldcubeassociation.org/competitions/AustralianNationalsFMC2024/results/all#e333fm_f) | 4 |
-| 96 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | 23 | **24.67** | [Cambridge Autumn BBO 2024](https://www.worldcubeassociation.org/competitions/CambridgeAutumnBBO2024/results/all#e333fm_f) | 5 |
-| 97 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 23 | **24.67** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#e333fm_f) | 10 |
-| 98 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 23 | **24.67** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#e333fm_f) | 13 |
-| 99 | [Vasco Vasconcelos](https://www.worldcubeassociation.org/persons/2008VASC01) | 23 | **24.67** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#e333fm_f) | 13 |
-| 100 | [Theodor Nordstrand](https://www.worldcubeassociation.org/persons/2016NORD02) | 23 | **24.67** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#e333fm_f) | 13 |
+| 94 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | 22 | **24.67** | [Miami Valley Mini 2025](https://www.worldcubeassociation.org/competitions/MiamiValleyMini2025/results/all#e333fm_f) | 4 |
+| 95 | [James Quinn](https://www.worldcubeassociation.org/persons/2016QUIN01) | 22 | **24.67** | [Please Be Quiet Lexington 2022](https://www.worldcubeassociation.org/competitions/PleaseBeQuietLexington2022/results/all#e333fm_f) | 4 |
+| 96 | [Gerard McGinley](https://www.worldcubeassociation.org/persons/2019MCGI01) | 23 | **24.67** | [Australian Nationals FMC 2024](https://www.worldcubeassociation.org/competitions/AustralianNationalsFMC2024/results/all#e333fm_f) | 4 |
+| 97 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | 23 | **24.67** | [Cambridge Autumn BBO 2024](https://www.worldcubeassociation.org/competitions/CambridgeAutumnBBO2024/results/all#e333fm_f) | 5 |
+| 98 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 23 | **24.67** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#e333fm_f) | 10 |
+| 99 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 23 | **24.67** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#e333fm_f) | 13 |
+| 100 | [Vasco Vasconcelos](https://www.worldcubeassociation.org/persons/2008VASC01) | 23 | **24.67** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#e333fm_f) | 13 |
 
 ### 3x3x3 One-Handed
 
@@ -1133,31 +1133,31 @@
 | 73 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 1.70 | **2.45** | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023/results/all#epyram_f) | 6 |
 | 74 | [Carl Overbye](https://www.worldcubeassociation.org/persons/2018OVER04) | 1.97 | **2.45** | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/all#epyram_f) | 10 |
 | 75 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 2.00 | **2.45** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#epyram_f) | 6 |
-| 76 | [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) | 2.02 | **2.46** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#epyram_f) | 5 |
-| 77 | [Dylan Chan](https://www.worldcubeassociation.org/persons/2018CHAN05) | 1.60 | **2.47** | [PBs in Palisades 2023](https://www.worldcubeassociation.org/competitions/PBsinPalisades2023/results/all#epyram_f) | 4 |
-| 78 | [Connor Johnson](https://www.worldcubeassociation.org/persons/2022JOHN14) | 1.85 | **2.47** | [New Zealand Nationals 2023](https://www.worldcubeassociation.org/competitions/NewZealandNationals2023/results/all#epyram_f) | 4 |
-| 79 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 1.92 | **2.47** | [Dragon Cubing 2022](https://www.worldcubeassociation.org/competitions/DragonCubing2022/results/all#epyram_f) | 5 |
-| 80 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | 1.50 | **2.48** | [Gem City 2022](https://www.worldcubeassociation.org/competitions/GemCity2022/results/all#epyram_f) | 5 |
-| 81 | [Connor Johnson](https://www.worldcubeassociation.org/persons/2022JOHN14) | 1.78 | **2.48** | [NZ South Island Champs 2023](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2023/results/all#epyram_f) | 4 |
-| 82 | [Yutong Wang (汪宇桐)](https://www.worldcubeassociation.org/persons/2023WANG69) | 1.83 | **2.48** | [Zibo Open 2024](https://www.worldcubeassociation.org/competitions/ZiboOpen2024/results/all#epyram_f) | 9 |
-| 83 | [Jakub Majchrzak](https://www.worldcubeassociation.org/persons/2021MAJC01) | 1.89 | **2.48** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#epyram_f) | 6 |
-| 84 | [Joaquin Ruenes Hernández](https://www.worldcubeassociation.org/persons/2017HERN11) | 2.02 | **2.48** | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/all#epyram_f) | 11 |
-| 85 | [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) | 2.03 | **2.48** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#epyram_f) | 7 |
-| 86 | [Jason Harley](https://www.worldcubeassociation.org/persons/2016HARL01) | 2.37 | **2.48** | [Stevenage October 2024](https://www.worldcubeassociation.org/competitions/StevenageOctober2024/results/all#epyram_f) | 4 |
-| 87 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | 1.96 | **2.49** | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024/results/all#epyram_f) | 5 |
-| 88 | [Andrés Rodríguez Galán](https://www.worldcubeassociation.org/persons/2016GALA04) | 2.13 | **2.49** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#epyram_f) | 5 |
-| 89 | [Eli Panetta](https://www.worldcubeassociation.org/persons/2021PANE01) | 2.15 | **2.49** | [Melbourne Summer 2024](https://www.worldcubeassociation.org/competitions/MelbourneSummer2024/results/all#epyram_f) | 6 |
-| 90 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | 2.21 | **2.49** | [Deqing Small Cubes Summer 2024](https://www.worldcubeassociation.org/competitions/DeqingSmallCubesSummer2024/results/all#epyram_f) | 6 |
-| 91 | [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) | 1.72 | **2.50** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#epyram_f) | 5 |
-| 92 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 1.79 | **2.50** | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023/results/all#epyram_f) | 7 |
-| 93 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 2.40 | **2.50** | [Rapidly Grand 2023](https://www.worldcubeassociation.org/competitions/RapidlyGrand2023/results/all#epyram_f) | 5 |
-| 94 | [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) | 1.52 | **2.51** | [Cube4fun Zawiercie 2022](https://www.worldcubeassociation.org/competitions/Cube4funZawiercie2022/results/all#epyram_f) | 5 |
-| 95 | [Yuki Nagai](https://www.worldcubeassociation.org/persons/2022NAGA02) | 1.58 | **2.51** | [New England Championship 2024](https://www.worldcubeassociation.org/competitions/NewEnglandChampionship2024/results/all#epyram_f) | 6 |
-| 96 | [Yurii Hnidko (Юрій Гнідко)](https://www.worldcubeassociation.org/persons/2016HNID02) | 1.87 | **2.51** | [Cube4fun in Warsaw 2024](https://www.worldcubeassociation.org/competitions/Cube4funinWarsaw2024/results/all#epyram_f) | 4 |
-| 97 | [Tobiasz Urbanowicz](https://www.worldcubeassociation.org/persons/2019URBA01) | 1.95 | **2.51** | [Cube4fun Pawłowice 2022](https://www.worldcubeassociation.org/competitions/Cube4funPawlowice2022/results/all#epyram_f) | 5 |
-| 98 | [Diego Alfonso](https://www.worldcubeassociation.org/persons/2018ALFO01) | 2.26 | **2.51** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#epyram_f) | 6 |
-| 99 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 1.71 | **2.52** | [Cube4fun Jasło 2022](https://www.worldcubeassociation.org/competitions/Cube4funJaslo2022/results/all#epyram_f) | 4 |
-| 100 | [Yuzhe Wang (王语哲)](https://www.worldcubeassociation.org/persons/2021WANG05) | 1.76 | **2.52** | [Chengdu Summer 2024](https://www.worldcubeassociation.org/competitions/ChengduSummer2024/results/all#epyram_f) | 9 |
+| 76 | [Harsha Paladugu](https://www.worldcubeassociation.org/persons/2017PALA08) | 1.67 | **2.46** | [Miami Valley Mini 2025](https://www.worldcubeassociation.org/competitions/MiamiValleyMini2025/results/all#epyram_f) | 4 |
+| 77 | [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) | 2.02 | **2.46** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#epyram_f) | 5 |
+| 78 | [Dylan Chan](https://www.worldcubeassociation.org/persons/2018CHAN05) | 1.60 | **2.47** | [PBs in Palisades 2023](https://www.worldcubeassociation.org/competitions/PBsinPalisades2023/results/all#epyram_f) | 4 |
+| 79 | [Connor Johnson](https://www.worldcubeassociation.org/persons/2022JOHN14) | 1.85 | **2.47** | [New Zealand Nationals 2023](https://www.worldcubeassociation.org/competitions/NewZealandNationals2023/results/all#epyram_f) | 4 |
+| 80 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 1.92 | **2.47** | [Dragon Cubing 2022](https://www.worldcubeassociation.org/competitions/DragonCubing2022/results/all#epyram_f) | 5 |
+| 81 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | 1.50 | **2.48** | [Gem City 2022](https://www.worldcubeassociation.org/competitions/GemCity2022/results/all#epyram_f) | 5 |
+| 82 | [Connor Johnson](https://www.worldcubeassociation.org/persons/2022JOHN14) | 1.78 | **2.48** | [NZ South Island Champs 2023](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2023/results/all#epyram_f) | 4 |
+| 83 | [Yutong Wang (汪宇桐)](https://www.worldcubeassociation.org/persons/2023WANG69) | 1.83 | **2.48** | [Zibo Open 2024](https://www.worldcubeassociation.org/competitions/ZiboOpen2024/results/all#epyram_f) | 9 |
+| 84 | [Jakub Majchrzak](https://www.worldcubeassociation.org/persons/2021MAJC01) | 1.89 | **2.48** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#epyram_f) | 6 |
+| 85 | [Joaquin Ruenes Hernández](https://www.worldcubeassociation.org/persons/2017HERN11) | 2.02 | **2.48** | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/all#epyram_f) | 11 |
+| 86 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 2.03 | **2.48** | [Miami Valley Mini 2025](https://www.worldcubeassociation.org/competitions/MiamiValleyMini2025/results/all#epyram_f) | 5 |
+| 87 | [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) | 2.03 | **2.48** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#epyram_f) | 7 |
+| 88 | [Jason Harley](https://www.worldcubeassociation.org/persons/2016HARL01) | 2.37 | **2.48** | [Stevenage October 2024](https://www.worldcubeassociation.org/competitions/StevenageOctober2024/results/all#epyram_f) | 4 |
+| 89 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | 1.96 | **2.49** | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024/results/all#epyram_f) | 5 |
+| 90 | [Andrés Rodríguez Galán](https://www.worldcubeassociation.org/persons/2016GALA04) | 2.13 | **2.49** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#epyram_f) | 5 |
+| 91 | [Eli Panetta](https://www.worldcubeassociation.org/persons/2021PANE01) | 2.15 | **2.49** | [Melbourne Summer 2024](https://www.worldcubeassociation.org/competitions/MelbourneSummer2024/results/all#epyram_f) | 6 |
+| 92 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | 2.21 | **2.49** | [Deqing Small Cubes Summer 2024](https://www.worldcubeassociation.org/competitions/DeqingSmallCubesSummer2024/results/all#epyram_f) | 6 |
+| 93 | [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) | 1.72 | **2.50** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#epyram_f) | 5 |
+| 94 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 1.79 | **2.50** | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023/results/all#epyram_f) | 7 |
+| 95 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 2.40 | **2.50** | [Rapidly Grand 2023](https://www.worldcubeassociation.org/competitions/RapidlyGrand2023/results/all#epyram_f) | 5 |
+| 96 | [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) | 1.52 | **2.51** | [Cube4fun Zawiercie 2022](https://www.worldcubeassociation.org/competitions/Cube4funZawiercie2022/results/all#epyram_f) | 5 |
+| 97 | [Yuki Nagai](https://www.worldcubeassociation.org/persons/2022NAGA02) | 1.58 | **2.51** | [New England Championship 2024](https://www.worldcubeassociation.org/competitions/NewEnglandChampionship2024/results/all#epyram_f) | 6 |
+| 98 | [Yurii Hnidko (Юрій Гнідко)](https://www.worldcubeassociation.org/persons/2016HNID02) | 1.87 | **2.51** | [Cube4fun in Warsaw 2024](https://www.worldcubeassociation.org/competitions/Cube4funinWarsaw2024/results/all#epyram_f) | 4 |
+| 99 | [Tobiasz Urbanowicz](https://www.worldcubeassociation.org/persons/2019URBA01) | 1.95 | **2.51** | [Cube4fun Pawłowice 2022](https://www.worldcubeassociation.org/competitions/Cube4funPawlowice2022/results/all#epyram_f) | 5 |
+| 100 | [Diego Alfonso](https://www.worldcubeassociation.org/persons/2018ALFO01) | 2.26 | **2.51** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#epyram_f) | 6 |
 
 ### Rubik's Clock
 

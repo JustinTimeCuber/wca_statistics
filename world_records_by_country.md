@@ -1,6 +1,6 @@
 ## World records count by country
 
-*Updated on 10 February 2025*
+*Updated on 13 February 2025*
 
 | Rank | WRs | Country |
 | :--- | ---: | :--- |
@@ -23,8 +23,8 @@
 | 17 | 15 | Denmark |
 | 18 | 12 | Argentina |
 | 19 | 11 | Italy |
-| 20 | 9 | Brazil |
-| 21 | 9 | Russia |
+| 20 | 10 | Russia |
+| 21 | 9 | Brazil |
 | 22 | 7 | Chinese Taipei |
 | 23 | 6 | India |
 | 24 | 6 | Malaysia |
