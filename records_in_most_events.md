@@ -1,7 +1,7 @@
 ## Records in the highest number of events
 
 *Note: All historical records are taken into account (i.e. not only the current ones).*
-*Updated on 13 February 2025*
+*Updated on 16 February 2025*
 
 
 ### World
@@ -282,71 +282,71 @@
 | 67 | 3 | [Ernesto Gutiérrez Cuba](https://www.worldcubeassociation.org/persons/2011CUBA02) | 3x3x3 Cube, 4x4x4 Cube, 3x3x3 One-Handed |
 | 68 | 3 | [Anthony Brooks](https://www.worldcubeassociation.org/persons/2008SEAR01) | 3x3x3 Cube, Pyraminx, 3x3x3 Multi-Blind |
 | 69 | 3 | [Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68) | 3x3x3 Cube, 4x4x4 Cube, 4x4x4 Blindfolded |
-| 70 | 3 | [Edouard Chambon](https://www.worldcubeassociation.org/persons/2004CHAM01) | 3x3x3 Cube, 2x2x2 Cube, 3x3x3 One-Handed |
-| 71 | 3 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) | 3x3x3 Blindfolded, 3x3x3 With Feet, Magic |
-| 72 | 3 | [Gunnar Kantare Krig](https://www.worldcubeassociation.org/persons/2004KRIG01) | 2x2x2 Cube, 3x3x3 One-Handed, Pyraminx |
-| 73 | 3 | [Andy Tsao](https://www.worldcubeassociation.org/persons/2006TSAO01) | 3x3x3 Cube, 4x4x4 Cube, 3x3x3 Multi-Blind |
-| 74 | 3 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 3x3x3 Cube, 2x2x2 Cube, 3x3x3 One-Handed |
-| 75 | 3 | [Renan Mondini Cerpe](https://www.worldcubeassociation.org/persons/2007CERP02) | 3x3x3 Cube, 2x2x2 Cube, Master Magic |
-| 76 | 3 | [Leyan Lo](https://www.worldcubeassociation.org/persons/2004LOLE01) | 3x3x3 Cube, 3x3x3 Blindfolded, 3x3x3 One-Handed |
-| 77 | 3 | [Dan Dzoan](https://www.worldcubeassociation.org/persons/2006DZOA03) | 3x3x3 Cube, 4x4x4 Cube, 3x3x3 One-Handed |
-| 78 | 3 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube |
-| 79 | 3 | [Francisco Javier Lemes Sáez](https://www.worldcubeassociation.org/persons/2009SAEZ01) | 3x3x3 Cube, 3x3x3 Blindfolded, 3x3x3 Multi-Blind |
-| 80 | 3 | [Ryan Pin Harry](https://www.worldcubeassociation.org/persons/2015HARR01) | 6x6x6 Cube, 7x7x7 Cube, Clock |
-| 81 | 3 | [Ayooluwa Samuel Dada](https://www.worldcubeassociation.org/persons/2019SAMU06) | 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube |
-| 82 | 3 | [SeungBeom Cho (조승범)](https://www.worldcubeassociation.org/persons/2012CHOS01) | 3x3x3 Cube, 2x2x2 Cube, Skewb |
-| 83 | 3 | [Giovanni Contardi](https://www.worldcubeassociation.org/persons/2009CONT01) | 3x3x3 Cube, 4x4x4 Cube, 3x3x3 One-Handed |
-| 84 | 3 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | 3x3x3 One-Handed, Pyraminx, Skewb |
-| 85 | 3 | [Jean Pons](https://www.worldcubeassociation.org/persons/2004PONS01) | 3x3x3 Cube, 4x4x4 Cube, 3x3x3 Blindfolded |
-| 86 | 3 | [Anssi Vanhala](https://www.worldcubeassociation.org/persons/2005VANH01) | 3x3x3 Cube, 3x3x3 One-Handed, 3x3x3 With Feet |
-| 87 | 3 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | 2x2x2 Cube, 3x3x3 Blindfolded, Square-1 |
-| 88 | 3 | [Ville Seppänen](https://www.worldcubeassociation.org/persons/2008SEPP01) | 3x3x3 Blindfolded, 4x4x4 Blindfolded, 5x5x5 Blindfolded |
-| 89 | 3 | [Nipat Charoenpholphant (นิพัฒน์ เจริญพลพันธุ์)](https://www.worldcubeassociation.org/persons/2009CHAR03) | 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube |
-| 90 | 3 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) | 4x4x4 Cube, 5x5x5 Cube, 6x6x6 Cube |
-| 91 | 3 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) | 3x3x3 One-Handed, Skewb, 3x3x3 With Feet |
-| 92 | 3 | [Gael Augusto Lapeyre](https://www.worldcubeassociation.org/persons/2018LAPE01) | 2x2x2 Cube, Clock, Pyraminx |
-| 93 | 3 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) | 3x3x3 Cube, 2x2x2 Cube, Square-1 |
-| 94 | 3 | [Chester Lian](https://www.worldcubeassociation.org/persons/2009LIAN03) | 4x4x4 Blindfolded, 5x5x5 Blindfolded, 3x3x3 Multi-Blind |
-| 95 | 3 | [Patrick Jameson](https://www.worldcubeassociation.org/persons/2007JAME01) | 2x2x2 Cube, 4x4x4 Cube, Magic |
-| 96 | 3 | [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) | 2x2x2 Cube, Magic, Master Magic |
-| 97 | 3 | [Tse-Kan Lin (林哲侃)](https://www.worldcubeassociation.org/persons/2008LINT01) | 2x2x2 Cube, 3x3x3 Blindfolded, 3x3x3 Fewest Moves |
-| 98 | 3 | [Derrick Eide](https://www.worldcubeassociation.org/persons/2006EIDE01) | 2x2x2 Cube, Megaminx, Pyraminx |
-| 99 | 3 | [Tom Nelson](https://www.worldcubeassociation.org/persons/2013NELS01) | 4x4x4 Blindfolded, 5x5x5 Blindfolded, 3x3x3 Multi-Blind |
-| 100 | 3 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | 3x3x3 Blindfolded, 3x3x3 Fewest Moves, 4x4x4 Blindfolded |
-| 101 | 3 | [Keisuke Hiraya (平谷啓輔)](https://www.worldcubeassociation.org/persons/2007HIRA02) | 4x4x4 Cube, 5x5x5 Cube, 3x3x3 One-Handed |
-| 102 | 3 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube |
-| 103 | 3 | [Yi Seung-Woo (이승우)](https://www.worldcubeassociation.org/persons/2007SEUN04) | 5x5x5 Cube, 6x6x6 Cube, Square-1 |
-| 104 | 3 | [Lucas Wesche](https://www.worldcubeassociation.org/persons/2012WESC01) | 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube |
-| 105 | 3 | [Lin Chen (陈霖)](https://www.worldcubeassociation.org/persons/2010CHEN20) | 6x6x6 Cube, 7x7x7 Cube, 3x3x3 One-Handed |
-| 106 | 3 | [Pieterjan Joubert](https://www.worldcubeassociation.org/persons/2014JOUB01) | 6x6x6 Cube, 7x7x7 Cube, Megaminx |
-| 107 | 3 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | 3x3x3 Blindfolded, Clock, 3x3x3 With Feet |
-| 108 | 3 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) | 3x3x3 Blindfolded, 4x4x4 Blindfolded, 5x5x5 Blindfolded |
-| 109 | 3 | [Zane Carney](https://www.worldcubeassociation.org/persons/2010CARN01) | 3x3x3 Blindfolded, 5x5x5 Blindfolded, 3x3x3 Multi-Blind |
-| 110 | 3 | [Tim Habermaas](https://www.worldcubeassociation.org/persons/2007HABE01) | 4x4x4 Blindfolded, 3x3x3 Multi-Blind, 3x3x3 Multi-Blind Old Style |
-| 111 | 3 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 4x4x4 Blindfolded, 5x5x5 Blindfolded, 3x3x3 Multi-Blind |
-| 112 | 3 | [Noa Arthurs](https://www.worldcubeassociation.org/persons/2012ARTH01) | 3x3x3 Blindfolded, 4x4x4 Blindfolded, 3x3x3 Multi-Blind |
-| 113 | 3 | [Tim Wong](https://www.worldcubeassociation.org/persons/2007WONG02) | 3x3x3 Blindfolded, 3x3x3 Fewest Moves, 3x3x3 Multi-Blind |
-| 114 | 3 | [Muhammad Iril Khairul Anam](https://www.worldcubeassociation.org/persons/2009ANAM01) | 4x4x4 Blindfolded, 5x5x5 Blindfolded, 3x3x3 Multi-Blind |
-| 115 | 3 | [Ryosuke Mondo (門戸良介)](https://www.worldcubeassociation.org/persons/2006MOND01) | 5x5x5 Blindfolded, 3x3x3 Multi-Blind, 3x3x3 Multi-Blind Old Style |
-| 116 | 3 | [Timothy Lawrance](https://www.worldcubeassociation.org/persons/2017LAWR04) | 3x3x3 Fewest Moves, 4x4x4 Blindfolded, 5x5x5 Blindfolded |
-| 117 | 3 | [Tommy Kiprillis](https://www.worldcubeassociation.org/persons/2014KIPR01) | 3x3x3 Fewest Moves, Square-1, 3x3x3 With Feet |
-| 118 | 3 | [Deven Nadudvari](https://www.worldcubeassociation.org/persons/2008NADU01) | 3x3x3 One-Handed, Clock, Pyraminx |
-| 119 | 3 | [Bob Burton](https://www.worldcubeassociation.org/persons/2003BURT01) | Clock, Magic, Master Magic |
-| 120 | 3 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | Clock, 4x4x4 Blindfolded, 5x5x5 Blindfolded |
-| 121 | 3 | [Timothy Sun](https://www.worldcubeassociation.org/persons/2007SUNT01) | Clock, 3x3x3 With Feet, Magic |
-| 122 | 3 | [Michael Tripodi](https://www.worldcubeassociation.org/persons/2021TRIP01) | 4x4x4 Blindfolded, 5x5x5 Blindfolded, 3x3x3 Multi-Blind |
-| 123 | 3 | [Mike Hughey](https://www.worldcubeassociation.org/persons/2007HUGH01) | 5x5x5 Blindfolded, 3x3x3 Multi-Blind, 3x3x3 Multi-Blind Old Style |
-| 124 | 2 | [Arifumi Fushimi (伏見有史)](https://www.worldcubeassociation.org/persons/2009FUSH01) | 3x3x3 One-Handed, 3x3x3 With Feet |
-| 125 | 2 | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | 3x3x3 Cube, Megaminx |
-| 126 | 2 | [Cameron Blumenow](https://www.worldcubeassociation.org/persons/2016BLUM01) | 2x2x2 Cube, 4x4x4 Cube |
-| 127 | 2 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | 3x3x3 Cube, 3x3x3 One-Handed |
-| 128 | 2 | [Piti Pichedpan (ปิติ พิเชษฐพันธ์)](https://www.worldcubeassociation.org/persons/2009PICH01) | 3x3x3 Cube, 3x3x3 One-Handed |
-| 129 | 2 | [Gabriel Santiago Velez Gonzalez](https://www.worldcubeassociation.org/persons/2016GONZ52) | 6x6x6 Cube, 7x7x7 Cube |
-| 130 | 2 | [Wong Kin Lok (黃健樂)](https://www.worldcubeassociation.org/persons/2014LOKW01) | 6x6x6 Cube, 7x7x7 Cube |
-| 131 | 2 | [Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01) | 4x4x4 Cube, Pyraminx |
-| 132 | 2 | [Mohamed Elkhatri](https://www.worldcubeassociation.org/persons/2017ELKH01) | 3x3x3 Cube, 4x4x4 Cube |
-| 133 | 2 | [Chan Tak Chuen (陳德泉)](https://www.worldcubeassociation.org/persons/2007CHUE01) | Magic, Master Magic |
-| 134 | 2 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 3x3x3 Cube, 3x3x3 One-Handed |
+| 70 | 3 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 3x3x3 Cube, 4x4x4 Cube, 3x3x3 One-Handed |
+| 71 | 3 | [Edouard Chambon](https://www.worldcubeassociation.org/persons/2004CHAM01) | 3x3x3 Cube, 2x2x2 Cube, 3x3x3 One-Handed |
+| 72 | 3 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) | 3x3x3 Blindfolded, 3x3x3 With Feet, Magic |
+| 73 | 3 | [Gunnar Kantare Krig](https://www.worldcubeassociation.org/persons/2004KRIG01) | 2x2x2 Cube, 3x3x3 One-Handed, Pyraminx |
+| 74 | 3 | [Andy Tsao](https://www.worldcubeassociation.org/persons/2006TSAO01) | 3x3x3 Cube, 4x4x4 Cube, 3x3x3 Multi-Blind |
+| 75 | 3 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 3x3x3 Cube, 2x2x2 Cube, 3x3x3 One-Handed |
+| 76 | 3 | [Renan Mondini Cerpe](https://www.worldcubeassociation.org/persons/2007CERP02) | 3x3x3 Cube, 2x2x2 Cube, Master Magic |
+| 77 | 3 | [Leyan Lo](https://www.worldcubeassociation.org/persons/2004LOLE01) | 3x3x3 Cube, 3x3x3 Blindfolded, 3x3x3 One-Handed |
+| 78 | 3 | [Dan Dzoan](https://www.worldcubeassociation.org/persons/2006DZOA03) | 3x3x3 Cube, 4x4x4 Cube, 3x3x3 One-Handed |
+| 79 | 3 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) | 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube |
+| 80 | 3 | [Francisco Javier Lemes Sáez](https://www.worldcubeassociation.org/persons/2009SAEZ01) | 3x3x3 Cube, 3x3x3 Blindfolded, 3x3x3 Multi-Blind |
+| 81 | 3 | [Ryan Pin Harry](https://www.worldcubeassociation.org/persons/2015HARR01) | 6x6x6 Cube, 7x7x7 Cube, Clock |
+| 82 | 3 | [Ayooluwa Samuel Dada](https://www.worldcubeassociation.org/persons/2019SAMU06) | 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube |
+| 83 | 3 | [SeungBeom Cho (조승범)](https://www.worldcubeassociation.org/persons/2012CHOS01) | 3x3x3 Cube, 2x2x2 Cube, Skewb |
+| 84 | 3 | [Giovanni Contardi](https://www.worldcubeassociation.org/persons/2009CONT01) | 3x3x3 Cube, 4x4x4 Cube, 3x3x3 One-Handed |
+| 85 | 3 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | 3x3x3 One-Handed, Pyraminx, Skewb |
+| 86 | 3 | [Jean Pons](https://www.worldcubeassociation.org/persons/2004PONS01) | 3x3x3 Cube, 4x4x4 Cube, 3x3x3 Blindfolded |
+| 87 | 3 | [Anssi Vanhala](https://www.worldcubeassociation.org/persons/2005VANH01) | 3x3x3 Cube, 3x3x3 One-Handed, 3x3x3 With Feet |
+| 88 | 3 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | 2x2x2 Cube, 3x3x3 Blindfolded, Square-1 |
+| 89 | 3 | [Ville Seppänen](https://www.worldcubeassociation.org/persons/2008SEPP01) | 3x3x3 Blindfolded, 4x4x4 Blindfolded, 5x5x5 Blindfolded |
+| 90 | 3 | [Nipat Charoenpholphant (นิพัฒน์ เจริญพลพันธุ์)](https://www.worldcubeassociation.org/persons/2009CHAR03) | 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube |
+| 91 | 3 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) | 4x4x4 Cube, 5x5x5 Cube, 6x6x6 Cube |
+| 92 | 3 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) | 3x3x3 One-Handed, Skewb, 3x3x3 With Feet |
+| 93 | 3 | [Gael Augusto Lapeyre](https://www.worldcubeassociation.org/persons/2018LAPE01) | 2x2x2 Cube, Clock, Pyraminx |
+| 94 | 3 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) | 3x3x3 Cube, 2x2x2 Cube, Square-1 |
+| 95 | 3 | [Chester Lian](https://www.worldcubeassociation.org/persons/2009LIAN03) | 4x4x4 Blindfolded, 5x5x5 Blindfolded, 3x3x3 Multi-Blind |
+| 96 | 3 | [Patrick Jameson](https://www.worldcubeassociation.org/persons/2007JAME01) | 2x2x2 Cube, 4x4x4 Cube, Magic |
+| 97 | 3 | [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) | 2x2x2 Cube, Magic, Master Magic |
+| 98 | 3 | [Tse-Kan Lin (林哲侃)](https://www.worldcubeassociation.org/persons/2008LINT01) | 2x2x2 Cube, 3x3x3 Blindfolded, 3x3x3 Fewest Moves |
+| 99 | 3 | [Derrick Eide](https://www.worldcubeassociation.org/persons/2006EIDE01) | 2x2x2 Cube, Megaminx, Pyraminx |
+| 100 | 3 | [Tom Nelson](https://www.worldcubeassociation.org/persons/2013NELS01) | 4x4x4 Blindfolded, 5x5x5 Blindfolded, 3x3x3 Multi-Blind |
+| 101 | 3 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | 3x3x3 Blindfolded, 3x3x3 Fewest Moves, 4x4x4 Blindfolded |
+| 102 | 3 | [Keisuke Hiraya (平谷啓輔)](https://www.worldcubeassociation.org/persons/2007HIRA02) | 4x4x4 Cube, 5x5x5 Cube, 3x3x3 One-Handed |
+| 103 | 3 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube |
+| 104 | 3 | [Yi Seung-Woo (이승우)](https://www.worldcubeassociation.org/persons/2007SEUN04) | 5x5x5 Cube, 6x6x6 Cube, Square-1 |
+| 105 | 3 | [Lucas Wesche](https://www.worldcubeassociation.org/persons/2012WESC01) | 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube |
+| 106 | 3 | [Lin Chen (陈霖)](https://www.worldcubeassociation.org/persons/2010CHEN20) | 6x6x6 Cube, 7x7x7 Cube, 3x3x3 One-Handed |
+| 107 | 3 | [Pieterjan Joubert](https://www.worldcubeassociation.org/persons/2014JOUB01) | 6x6x6 Cube, 7x7x7 Cube, Megaminx |
+| 108 | 3 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | 3x3x3 Blindfolded, Clock, 3x3x3 With Feet |
+| 109 | 3 | [Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01) | 3x3x3 Blindfolded, 4x4x4 Blindfolded, 5x5x5 Blindfolded |
+| 110 | 3 | [Zane Carney](https://www.worldcubeassociation.org/persons/2010CARN01) | 3x3x3 Blindfolded, 5x5x5 Blindfolded, 3x3x3 Multi-Blind |
+| 111 | 3 | [Tim Habermaas](https://www.worldcubeassociation.org/persons/2007HABE01) | 4x4x4 Blindfolded, 3x3x3 Multi-Blind, 3x3x3 Multi-Blind Old Style |
+| 112 | 3 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 4x4x4 Blindfolded, 5x5x5 Blindfolded, 3x3x3 Multi-Blind |
+| 113 | 3 | [Noa Arthurs](https://www.worldcubeassociation.org/persons/2012ARTH01) | 3x3x3 Blindfolded, 4x4x4 Blindfolded, 3x3x3 Multi-Blind |
+| 114 | 3 | [Tim Wong](https://www.worldcubeassociation.org/persons/2007WONG02) | 3x3x3 Blindfolded, 3x3x3 Fewest Moves, 3x3x3 Multi-Blind |
+| 115 | 3 | [Muhammad Iril Khairul Anam](https://www.worldcubeassociation.org/persons/2009ANAM01) | 4x4x4 Blindfolded, 5x5x5 Blindfolded, 3x3x3 Multi-Blind |
+| 116 | 3 | [Ryosuke Mondo (門戸良介)](https://www.worldcubeassociation.org/persons/2006MOND01) | 5x5x5 Blindfolded, 3x3x3 Multi-Blind, 3x3x3 Multi-Blind Old Style |
+| 117 | 3 | [Timothy Lawrance](https://www.worldcubeassociation.org/persons/2017LAWR04) | 3x3x3 Fewest Moves, 4x4x4 Blindfolded, 5x5x5 Blindfolded |
+| 118 | 3 | [Tommy Kiprillis](https://www.worldcubeassociation.org/persons/2014KIPR01) | 3x3x3 Fewest Moves, Square-1, 3x3x3 With Feet |
+| 119 | 3 | [Deven Nadudvari](https://www.worldcubeassociation.org/persons/2008NADU01) | 3x3x3 One-Handed, Clock, Pyraminx |
+| 120 | 3 | [Bob Burton](https://www.worldcubeassociation.org/persons/2003BURT01) | Clock, Magic, Master Magic |
+| 121 | 3 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | Clock, 4x4x4 Blindfolded, 5x5x5 Blindfolded |
+| 122 | 3 | [Timothy Sun](https://www.worldcubeassociation.org/persons/2007SUNT01) | Clock, 3x3x3 With Feet, Magic |
+| 123 | 3 | [Michael Tripodi](https://www.worldcubeassociation.org/persons/2021TRIP01) | 4x4x4 Blindfolded, 5x5x5 Blindfolded, 3x3x3 Multi-Blind |
+| 124 | 3 | [Mike Hughey](https://www.worldcubeassociation.org/persons/2007HUGH01) | 5x5x5 Blindfolded, 3x3x3 Multi-Blind, 3x3x3 Multi-Blind Old Style |
+| 125 | 2 | [Arifumi Fushimi (伏見有史)](https://www.worldcubeassociation.org/persons/2009FUSH01) | 3x3x3 One-Handed, 3x3x3 With Feet |
+| 126 | 2 | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | 3x3x3 Cube, Megaminx |
+| 127 | 2 | [Cameron Blumenow](https://www.worldcubeassociation.org/persons/2016BLUM01) | 2x2x2 Cube, 4x4x4 Cube |
+| 128 | 2 | [Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01) | 3x3x3 Cube, 3x3x3 One-Handed |
+| 129 | 2 | [Piti Pichedpan (ปิติ พิเชษฐพันธ์)](https://www.worldcubeassociation.org/persons/2009PICH01) | 3x3x3 Cube, 3x3x3 One-Handed |
+| 130 | 2 | [Gabriel Santiago Velez Gonzalez](https://www.worldcubeassociation.org/persons/2016GONZ52) | 6x6x6 Cube, 7x7x7 Cube |
+| 131 | 2 | [Wong Kin Lok (黃健樂)](https://www.worldcubeassociation.org/persons/2014LOKW01) | 6x6x6 Cube, 7x7x7 Cube |
+| 132 | 2 | [Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01) | 4x4x4 Cube, Pyraminx |
+| 133 | 2 | [Mohamed Elkhatri](https://www.worldcubeassociation.org/persons/2017ELKH01) | 3x3x3 Cube, 4x4x4 Cube |
+| 134 | 2 | [Chan Tak Chuen (陳德泉)](https://www.worldcubeassociation.org/persons/2007CHUE01) | Magic, Master Magic |
 | 135 | 2 | [Joël van Noort](https://www.worldcubeassociation.org/persons/2004NOOR01) | 3x3x3 Cube, 3x3x3 One-Handed |
 | 136 | 2 | [Thibaut Jacquinot](https://www.worldcubeassociation.org/persons/2006JACQ01) | 3x3x3 Cube, 3x3x3 One-Handed |
 | 137 | 2 | [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) | 3x3x3 Cube, 3x3x3 One-Handed |
