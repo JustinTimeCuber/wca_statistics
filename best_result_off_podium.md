@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 19 February 2025*
+*Updated on 22 February 2025*
 
 
 ### Rubik's Cube
@@ -514,20 +514,20 @@
 | 84 | [Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12) | 1:24.14 | **1:32.70** | [New Taipei Big Cube Day 2024](https://www.worldcubeassociation.org/competitions/NewTaipeiBigCubeDay2024/results/all#e666_f) | 5 |
 | 85 | [Wei-Ming Zeng (曾唯銘)](https://www.worldcubeassociation.org/persons/2019ZENG10) | 1:31.78 | **1:32.70** | [Taiwan Championship 2023](https://www.worldcubeassociation.org/competitions/TaiwanChampionship2023/results/all#e666_f) | 7 |
 | 86 | [Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12) | 1:25.66 | **1:32.74** | [Johor Big Cube Challenge 2023](https://www.worldcubeassociation.org/competitions/JohorBigCubeChallenge2023/results/all#e666_f) | 5 |
-| 87 | [Cian-Jyun Yang (楊謙君)](https://www.worldcubeassociation.org/persons/2019YANG94) | 1:28.89 | **1:32.83** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e666_f) | 13 |
-| 88 | [Ethan Cho](https://www.worldcubeassociation.org/persons/2018CHOE02) | 1:30.41 | **1:32.88** | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/all#e666_f) | 12 |
-| 89 | [Lee Hoween](https://www.worldcubeassociation.org/persons/2016HOWE03) | 1:25.69 | **1:32.90** | [Malaysia Cube Championship 2023](https://www.worldcubeassociation.org/competitions/MalaysiaCubeChampionship2023/results/all#e666_f) | 4 |
-| 90 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | 1:28.65 | **1:32.94** | [MYHM Singapore Championship 2024](https://www.worldcubeassociation.org/competitions/MYHMSingaporeChampionship2024/results/all#e666_f) | 8 |
-| 91 | [Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12) | 1:28.82 | **1:32.98** | [Kaohsiung Winter Open 2024](https://www.worldcubeassociation.org/competitions/KaohsiungWinterOpen2024/results/all#e666_c) | 4 |
-| 92 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) | 1:28.05 | **1:33.04** | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024/results/all#e666_c) | 4 |
-| 93 | [Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09) | 1:30.26 | **1:33.06** | [Hamchang Winter 2024](https://www.worldcubeassociation.org/competitions/HamchangWinter2024/results/all#e666_f) | 4 |
-| 94 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 1:27.45 | **1:33.10** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e666_f) | 5 |
-| 95 | [Chun-Pao Ni (倪君寶)](https://www.worldcubeassociation.org/persons/2016NIJU01) | 1:28.18 | **1:33.10** | [Taipei Summer Open 2024](https://www.worldcubeassociation.org/competitions/TaipeiSummerOpen2024/results/all#e666_f) | 5 |
-| 96 | [Aryan Kejriwal](https://www.worldcubeassociation.org/persons/2013KEJR01) | 1:28.89 | **1:33.13** | [Mt. Prospect Mini Marathon 2024](https://www.worldcubeassociation.org/competitions/MtProspectMiniMarathon2024/results/all#e666_f) | 4 |
-| 97 | [Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12) | 1:31.35 | **1:33.19** | [Taiwan Championship 2023](https://www.worldcubeassociation.org/competitions/TaiwanChampionship2023/results/all#e666_f) | 8 |
-| 98 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) | 1:23.60 | **1:33.26** | [NxN in Hanoi 2024](https://www.worldcubeassociation.org/competitions/NxNinHanoi2024/results/all#e666_f) | 4 |
-| 99 | [Twan Dullemond](https://www.worldcubeassociation.org/persons/2018DULL01) | 1:31.52 | **1:33.29** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#e666_f) | 10 |
-| 100 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | 1:31.40 | **1:33.31** | [Mega Time Singapore 2024](https://www.worldcubeassociation.org/competitions/MegaTimeSingapore2024/results/all#e666_c) | 4 |
+| 87 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | 1:30.12 | **1:32.77** | [XMUM Cube Open 2025](https://www.worldcubeassociation.org/competitions/XMUMCubeOpen2025/results/all#e666_f) | 4 |
+| 88 | [Cian-Jyun Yang (楊謙君)](https://www.worldcubeassociation.org/persons/2019YANG94) | 1:28.89 | **1:32.83** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e666_f) | 13 |
+| 89 | [Ethan Cho](https://www.worldcubeassociation.org/persons/2018CHOE02) | 1:30.41 | **1:32.88** | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/all#e666_f) | 12 |
+| 90 | [Lee Hoween](https://www.worldcubeassociation.org/persons/2016HOWE03) | 1:25.69 | **1:32.90** | [Malaysia Cube Championship 2023](https://www.worldcubeassociation.org/competitions/MalaysiaCubeChampionship2023/results/all#e666_f) | 4 |
+| 91 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | 1:28.65 | **1:32.94** | [MYHM Singapore Championship 2024](https://www.worldcubeassociation.org/competitions/MYHMSingaporeChampionship2024/results/all#e666_f) | 8 |
+| 92 | [Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12) | 1:28.82 | **1:32.98** | [Kaohsiung Winter Open 2024](https://www.worldcubeassociation.org/competitions/KaohsiungWinterOpen2024/results/all#e666_c) | 4 |
+| 93 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) | 1:28.05 | **1:33.04** | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024/results/all#e666_c) | 4 |
+| 94 | [Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09) | 1:30.26 | **1:33.06** | [Hamchang Winter 2024](https://www.worldcubeassociation.org/competitions/HamchangWinter2024/results/all#e666_f) | 4 |
+| 95 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 1:27.45 | **1:33.10** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e666_f) | 5 |
+| 96 | [Chun-Pao Ni (倪君寶)](https://www.worldcubeassociation.org/persons/2016NIJU01) | 1:28.18 | **1:33.10** | [Taipei Summer Open 2024](https://www.worldcubeassociation.org/competitions/TaipeiSummerOpen2024/results/all#e666_f) | 5 |
+| 97 | [Aryan Kejriwal](https://www.worldcubeassociation.org/persons/2013KEJR01) | 1:28.89 | **1:33.13** | [Mt. Prospect Mini Marathon 2024](https://www.worldcubeassociation.org/competitions/MtProspectMiniMarathon2024/results/all#e666_f) | 4 |
+| 98 | [Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12) | 1:31.35 | **1:33.19** | [Taiwan Championship 2023](https://www.worldcubeassociation.org/competitions/TaiwanChampionship2023/results/all#e666_f) | 8 |
+| 99 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) | 1:23.60 | **1:33.26** | [NxN in Hanoi 2024](https://www.worldcubeassociation.org/competitions/NxNinHanoi2024/results/all#e666_f) | 4 |
+| 100 | [Twan Dullemond](https://www.worldcubeassociation.org/persons/2018DULL01) | 1:31.52 | **1:33.29** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#e666_f) | 10 |
 
 ### 7x7x7 Cube
 
@@ -1154,10 +1154,10 @@
 | 94 | [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) | 1.72 | **2.50** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#epyram_f) | 5 |
 | 95 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 1.79 | **2.50** | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023/results/all#epyram_f) | 7 |
 | 96 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 2.40 | **2.50** | [Rapidly Grand 2023](https://www.worldcubeassociation.org/competitions/RapidlyGrand2023/results/all#epyram_f) | 5 |
-| 97 | [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) | 1.52 | **2.51** | [Cube4fun Zawiercie 2022](https://www.worldcubeassociation.org/competitions/Cube4funZawiercie2022/results/all#epyram_f) | 5 |
-| 98 | [Yuki Nagai](https://www.worldcubeassociation.org/persons/2022NAGA02) | 1.58 | **2.51** | [New England Championship 2024](https://www.worldcubeassociation.org/competitions/NewEnglandChampionship2024/results/all#epyram_f) | 6 |
-| 99 | [Yurii Hnidko (Юрій Гнідко)](https://www.worldcubeassociation.org/persons/2016HNID02) | 1.87 | **2.51** | [Cube4fun in Warsaw 2024](https://www.worldcubeassociation.org/competitions/Cube4funinWarsaw2024/results/all#epyram_f) | 4 |
-| 100 | [Tobiasz Urbanowicz](https://www.worldcubeassociation.org/persons/2019URBA01) | 1.95 | **2.51** | [Cube4fun Pawłowice 2022](https://www.worldcubeassociation.org/competitions/Cube4funPawlowice2022/results/all#epyram_f) | 5 |
+| 97 | [Carson Clark](https://www.worldcubeassociation.org/persons/2023CLAR02) | 1.47 | **2.51** | [Pittsburgh Winter 2025](https://www.worldcubeassociation.org/competitions/PittsburghWinter2025/results/all#epyram_f) | 4 |
+| 98 | [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) | 1.52 | **2.51** | [Cube4fun Zawiercie 2022](https://www.worldcubeassociation.org/competitions/Cube4funZawiercie2022/results/all#epyram_f) | 5 |
+| 99 | [Yuki Nagai](https://www.worldcubeassociation.org/persons/2022NAGA02) | 1.58 | **2.51** | [New England Championship 2024](https://www.worldcubeassociation.org/competitions/NewEnglandChampionship2024/results/all#epyram_f) | 6 |
+| 100 | [Yurii Hnidko (Юрій Гнідко)](https://www.worldcubeassociation.org/persons/2016HNID02) | 1.87 | **2.51** | [Cube4fun in Warsaw 2024](https://www.worldcubeassociation.org/competitions/Cube4funinWarsaw2024/results/all#epyram_f) | 4 |
 
 ### Rubik's Clock
 
