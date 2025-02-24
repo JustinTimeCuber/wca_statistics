@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 22 February 2025*
+*Updated on 23 February 2025*
 
 
 ### World
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.46 | World | 14292 |
+| 1 | 1.46 | World | 14299 |
 
 ### Continents
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.72 | Europe | 4636 |
-| 2 | 1.48 | South America | 1781 |
+| 1 | 1.72 | Europe | 4638 |
+| 2 | 1.48 | South America | 1782 |
 | 3 | 1.48 | Oceania | 626 |
-| 4 | 1.41 | Asia | 3003 |
+| 4 | 1.41 | Asia | 3004 |
 | 5 | 1.31 | Africa | 175 |
-| 6 | 1.20 | North America | 4071 |
+| 6 | 1.20 | North America | 4074 |
 
 ### Countries
 
@@ -51,7 +51,7 @@
 | 25 | 1.79 | Guatemala | 57 |
 | 26 | 1.79 | Bosnia and Herzegovina | 14 |
 | 27 | 1.78 | Slovenia | 36 |
-| 28 | 1.77 | Switzerland | 136 |
+| 28 | 1.77 | Switzerland | 137 |
 | 29 | 1.75 | Austria | 32 |
 | 30 | 1.75 | Luxembourg | 4 |
 | 31 | 1.71 | Ukraine | 140 |
@@ -68,7 +68,7 @@
 | 42 | 1.59 | Indonesia | 235 |
 | 43 | 1.59 | Denmark | 198 |
 | 44 | 1.57 | San Marino | 7 |
-| 45 | 1.57 | India | 632 |
+| 45 | 1.57 | India | 633 |
 | 46 | 1.56 | Dominican Republic | 27 |
 | 47 | 1.55 | Malaysia | 104 |
 | 48 | 1.55 | Nepal | 22 |
@@ -90,13 +90,13 @@
 | 64 | 1.40 | Costa Rica | 25 |
 | 65 | 1.38 | Estonia | 63 |
 | 66 | 1.38 | Chinese Taipei | 146 |
-| 67 | 1.37 | Romania | 131 |
+| 67 | 1.36 | Romania | 132 |
 | 68 | 1.36 | Vietnam | 69 |
 | 69 | 1.36 | Ecuador | 58 |
 | 70 | 1.35 | Paraguay | 34 |
 | 71 | 1.33 | Ghana | 3 |
 | 72 | 1.33 | Tajikistan | 3 |
-| 73 | 1.31 | Colombia | 389 |
+| 73 | 1.31 | Colombia | 390 |
 | 74 | 1.31 | Republic of Korea | 111 |
 | 75 | 1.30 | Hong Kong, China | 23 |
 | 76 | 1.29 | Philippines | 337 |
@@ -118,7 +118,7 @@
 | 92 | 1.18 | Mongolia | 40 |
 | 93 | 1.17 | Canada | 413 |
 | 94 | 1.17 | Tunisia | 24 |
-| 95 | 1.16 | United States | 3267 |
+| 95 | 1.16 | United States | 3270 |
 | 96 | 1.13 | Azerbaijan | 46 |
 | 97 | 1.11 | Honduras | 18 |
 | 98 | 1.08 | Cyprus | 12 |

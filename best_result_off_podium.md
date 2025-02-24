@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 22 February 2025*
+*Updated on 23 February 2025*
 
 
 ### Rubik's Cube
@@ -932,22 +932,22 @@
 | 82 | [Aragon Martin Gonzales](https://www.worldcubeassociation.org/persons/2023GONZ18) | 11.24 | **11.76** | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/all#e333oh_f) | 9 |
 | 83 | [Andy Mok Man Cheuk (莫文卓)](https://www.worldcubeassociation.org/persons/2016CHEU04) | 9.56 | **11.77** | [Shenzhen Open 2024](https://www.worldcubeassociation.org/competitions/ShenzhenOpen2024/results/all#e333oh_f) | 5 |
 | 84 | [Nicholas Paul](https://www.worldcubeassociation.org/persons/2014PAUL06) | 11.15 | **11.77** | [Queensland Open 2024](https://www.worldcubeassociation.org/competitions/QueenslandOpen2024/results/all#e333oh_f) | 4 |
-| 85 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 10.03 | **11.79** | [Philippine Championship 2024](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2024/results/all#e333oh_f) | 4 |
-| 86 | [Kian Mansour](https://www.worldcubeassociation.org/persons/2015MANS03) | 10.86 | **11.79** | [Warm Up Sydney 2019](https://www.worldcubeassociation.org/competitions/WarmUpSydney2019/results/all#e333oh_f) | 6 |
-| 87 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | 10.38 | **11.80** | [Canadian Championship 2023](https://www.worldcubeassociation.org/competitions/CanadianChampionship2023/results/all#e333oh_f) | 5 |
-| 88 | [Chengnuo Han (韩承诺)](https://www.worldcubeassociation.org/persons/2021HANC01) | 10.62 | **11.80** | [Xi'an New Year 2025](https://www.worldcubeassociation.org/competitions/XianNewYear2025/results/all#e333oh_f) | 5 |
-| 89 | [Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09) | 9.19 | **11.81** | [Korean Championship 2024](https://www.worldcubeassociation.org/competitions/KoreanChampionship2024/results/all#e333oh_f) | 4 |
-| 90 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | 9.82 | **11.81** | [Kewbz UK Championship 2022](https://www.worldcubeassociation.org/competitions/KewbzUKChampionship2022/results/all#e333oh_f) | 6 |
-| 91 | [Herman Westerlund Kalland](https://www.worldcubeassociation.org/persons/2019KALL02) | 11.16 | **11.81** | [Swiss Nationals 2024](https://www.worldcubeassociation.org/competitions/SwissNationals2024/results/all#e333oh_c) | 4 |
-| 92 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | 9.40 | **11.82** | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024/results/all#e333oh_f) | 6 |
-| 93 | [Simon Kalhofer](https://www.worldcubeassociation.org/persons/2012KALH01) | 10.66 | **11.83** | [Darmstadt Dodecahedron Days 2024](https://www.worldcubeassociation.org/competitions/DarmstadtDodecahedronDays2024/results/all#e333oh_f) | 4 |
-| 94 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | 11.18 | **11.83** | [WCA Euro 2018](https://www.worldcubeassociation.org/competitions/Euro2018/results/all#e333oh_f) | 4 |
-| 95 | [Viljo Elo](https://www.worldcubeassociation.org/persons/2016ELOV01) | 11.27 | **11.83** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#e333oh_f) | 8 |
-| 96 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | 10.35 | **11.84** | [Tacoma Winter 2025](https://www.worldcubeassociation.org/competitions/TacomaWinter2025/results/all#e333oh_f) | 4 |
-| 97 | [Louis de Mendonça](https://www.worldcubeassociation.org/persons/2013MEND03) | 10.87 | **11.84** | [Rubik's UK Championship 2023](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2023/results/all#e333oh_f) | 4 |
-| 98 | [Dominic Redisi](https://www.worldcubeassociation.org/persons/2019REDI02) | 10.64 | **11.85** | [Southeast Championship 2024](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2024/results/all#e333oh_f) | 4 |
-| 99 | [Inigo Miguel B. Palisoc](https://www.worldcubeassociation.org/persons/2017PALI04) | 10.37 | **11.87** | [Luzon Championship 2024](https://www.worldcubeassociation.org/competitions/LuzonChampionship2024/results/all#e333oh_f) | 4 |
-| 100 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) | 10.78 | **11.87** | [Melbourne Summer 2024](https://www.worldcubeassociation.org/competitions/MelbourneSummer2024/results/all#e333oh_f) | 5 |
+| 85 | [Reuel Franz Ramirez Magracia](https://www.worldcubeassociation.org/persons/2019RAMI14) | 8.48 | **11.79** | [SG Small and Sides Feb 2025](https://www.worldcubeassociation.org/competitions/SGSmallandSidesFeb2025/results/all#e333oh_f) | 4 |
+| 86 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 10.03 | **11.79** | [Philippine Championship 2024](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2024/results/all#e333oh_f) | 4 |
+| 87 | [Kian Mansour](https://www.worldcubeassociation.org/persons/2015MANS03) | 10.86 | **11.79** | [Warm Up Sydney 2019](https://www.worldcubeassociation.org/competitions/WarmUpSydney2019/results/all#e333oh_f) | 6 |
+| 88 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | 10.38 | **11.80** | [Canadian Championship 2023](https://www.worldcubeassociation.org/competitions/CanadianChampionship2023/results/all#e333oh_f) | 5 |
+| 89 | [Chengnuo Han (韩承诺)](https://www.worldcubeassociation.org/persons/2021HANC01) | 10.62 | **11.80** | [Xi'an New Year 2025](https://www.worldcubeassociation.org/competitions/XianNewYear2025/results/all#e333oh_f) | 5 |
+| 90 | [Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09) | 9.19 | **11.81** | [Korean Championship 2024](https://www.worldcubeassociation.org/competitions/KoreanChampionship2024/results/all#e333oh_f) | 4 |
+| 91 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | 9.82 | **11.81** | [Kewbz UK Championship 2022](https://www.worldcubeassociation.org/competitions/KewbzUKChampionship2022/results/all#e333oh_f) | 6 |
+| 92 | [Herman Westerlund Kalland](https://www.worldcubeassociation.org/persons/2019KALL02) | 11.16 | **11.81** | [Swiss Nationals 2024](https://www.worldcubeassociation.org/competitions/SwissNationals2024/results/all#e333oh_c) | 4 |
+| 93 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) | 9.40 | **11.82** | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024/results/all#e333oh_f) | 6 |
+| 94 | [Simon Kalhofer](https://www.worldcubeassociation.org/persons/2012KALH01) | 10.66 | **11.83** | [Darmstadt Dodecahedron Days 2024](https://www.worldcubeassociation.org/competitions/DarmstadtDodecahedronDays2024/results/all#e333oh_f) | 4 |
+| 95 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | 11.18 | **11.83** | [WCA Euro 2018](https://www.worldcubeassociation.org/competitions/Euro2018/results/all#e333oh_f) | 4 |
+| 96 | [Viljo Elo](https://www.worldcubeassociation.org/persons/2016ELOV01) | 11.27 | **11.83** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#e333oh_f) | 8 |
+| 97 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | 10.35 | **11.84** | [Tacoma Winter 2025](https://www.worldcubeassociation.org/competitions/TacomaWinter2025/results/all#e333oh_f) | 4 |
+| 98 | [Louis de Mendonça](https://www.worldcubeassociation.org/persons/2013MEND03) | 10.87 | **11.84** | [Rubik's UK Championship 2023](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2023/results/all#e333oh_f) | 4 |
+| 99 | [Dominic Redisi](https://www.worldcubeassociation.org/persons/2019REDI02) | 10.64 | **11.85** | [Southeast Championship 2024](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2024/results/all#e333oh_f) | 4 |
+| 100 | [Inigo Miguel B. Palisoc](https://www.worldcubeassociation.org/persons/2017PALI04) | 10.37 | **11.87** | [Luzon Championship 2024](https://www.worldcubeassociation.org/competitions/LuzonChampionship2024/results/all#e333oh_f) | 4 |
 
 ### Megaminx
 
