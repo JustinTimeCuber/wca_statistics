@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 23 February 2025*
+*Updated on 25 February 2025*
 
 
 ### Rubik's Cube
@@ -621,18 +621,18 @@
 | 86 | [Dale Palmares](https://www.worldcubeassociation.org/persons/2016STEP05) | 2:16.19 | **2:20.24** | [Philippine Championship 2024](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2024/results/all#e777_f) | 5 |
 | 87 | [Jack Pfeifer](https://www.worldcubeassociation.org/persons/2016PFEI01) | 2:09.14 | **2:20.31** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#e777_f) | 5 |
 | 88 | [Wong Kin Lok (黃健樂)](https://www.worldcubeassociation.org/persons/2014LOKW01) | 2:08.42 | **2:20.48** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e777_f) | 5 |
-| 89 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) | 2:15.04 | **2:20.55** | [Western Championship 2024](https://www.worldcubeassociation.org/competitions/WesternChampionship2024/results/all#e777_f) | 5 |
-| 90 | [Inigo Miguel B. Palisoc](https://www.worldcubeassociation.org/persons/2017PALI04) | 2:15.94 | **2:20.79** | [Philippine Championship 2024](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2024/results/all#e777_f) | 6 |
-| 91 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | 2:15.51 | **2:20.91** | [Medan Speedcube Challenge 2023](https://www.worldcubeassociation.org/competitions/MedanSpeedcubeChallenge2023/results/all#e777_c) | 4 |
-| 92 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | 2:07.45 | **2:20.97** | [Singapore Championship 2023](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2023/results/all#e777_f) | 4 |
-| 93 | [Yi Seung-Woo (이승우)](https://www.worldcubeassociation.org/persons/2007SEUN04) | 2:16.05 | **2:20.97** | [Prime Cubing Day Seoul 2024](https://www.worldcubeassociation.org/competitions/PrimeCubingDaySeoul2024/results/all#e777_f) | 5 |
-| 94 | [Daryl Tan Hong An](https://www.worldcubeassociation.org/persons/2015ANDA01) | 2:14.77 | **2:21.24** | [Singapore Championship 2025](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2025/results/all#e777_f) | 6 |
-| 95 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 2:08.14 | **2:21.27** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e777_f) | 6 |
-| 96 | [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) | 2:14.29 | **2:21.27** | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all#e777_f) | 4 |
-| 97 | [Daryl Tan Hong An](https://www.worldcubeassociation.org/persons/2015ANDA01) | 2:12.82 | **2:21.38** | [MYHM Singapore Championship 2024](https://www.worldcubeassociation.org/competitions/MYHMSingaporeChampionship2024/results/all#e777_f) | 6 |
-| 98 | [Yuhang Sun (孙煜航)](https://www.worldcubeassociation.org/persons/2019SUNY09) | 2:17.94 | **2:21.49** | [Xi'an Open 2023](https://www.worldcubeassociation.org/competitions/XianOpen2023/results/all#e777_f) | 4 |
-| 99 | [Asia Konvittayayotin (เอเชีย กรวิทยโยธิน)](https://www.worldcubeassociation.org/persons/2009KONV01) | 2:15.10 | **2:21.52** | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024/results/all#e777_f) | 5 |
-| 100 | [Benjamin Wei](https://www.worldcubeassociation.org/persons/2015WEIB03) | 2:14.07 | **2:21.54** | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all#e777_f) | 5 |
+| 89 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | 2:12.34 | **2:20.52** | [RNFP 2025](https://www.worldcubeassociation.org/competitions/RheinNeckarFysicalPhebruary2025/results/all#e777_f) | 4 |
+| 90 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) | 2:15.04 | **2:20.55** | [Western Championship 2024](https://www.worldcubeassociation.org/competitions/WesternChampionship2024/results/all#e777_f) | 5 |
+| 91 | [Inigo Miguel B. Palisoc](https://www.worldcubeassociation.org/persons/2017PALI04) | 2:15.94 | **2:20.79** | [Philippine Championship 2024](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2024/results/all#e777_f) | 6 |
+| 92 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | 2:15.51 | **2:20.91** | [Medan Speedcube Challenge 2023](https://www.worldcubeassociation.org/competitions/MedanSpeedcubeChallenge2023/results/all#e777_c) | 4 |
+| 93 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | 2:07.45 | **2:20.97** | [Singapore Championship 2023](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2023/results/all#e777_f) | 4 |
+| 94 | [Yi Seung-Woo (이승우)](https://www.worldcubeassociation.org/persons/2007SEUN04) | 2:16.05 | **2:20.97** | [Prime Cubing Day Seoul 2024](https://www.worldcubeassociation.org/competitions/PrimeCubingDaySeoul2024/results/all#e777_f) | 5 |
+| 95 | [Daryl Tan Hong An](https://www.worldcubeassociation.org/persons/2015ANDA01) | 2:14.77 | **2:21.24** | [Singapore Championship 2025](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2025/results/all#e777_f) | 6 |
+| 96 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 2:08.14 | **2:21.27** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e777_f) | 6 |
+| 97 | [Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03) | 2:14.29 | **2:21.27** | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all#e777_f) | 4 |
+| 98 | [Daryl Tan Hong An](https://www.worldcubeassociation.org/persons/2015ANDA01) | 2:12.82 | **2:21.38** | [MYHM Singapore Championship 2024](https://www.worldcubeassociation.org/competitions/MYHMSingaporeChampionship2024/results/all#e777_f) | 6 |
+| 99 | [Yuhang Sun (孙煜航)](https://www.worldcubeassociation.org/persons/2019SUNY09) | 2:17.94 | **2:21.49** | [Xi'an Open 2023](https://www.worldcubeassociation.org/competitions/XianOpen2023/results/all#e777_f) | 4 |
+| 100 | [Asia Konvittayayotin (เอเชีย กรวิทยโยธิน)](https://www.worldcubeassociation.org/persons/2009KONV01) | 2:15.10 | **2:21.52** | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024/results/all#e777_f) | 5 |
 
 ### 3x3x3 Blindfolded
 
@@ -819,30 +819,30 @@
 | 74 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | 20 | **24.33** | [FMC 2024](https://www.worldcubeassociation.org/competitions/FMC2024/results/all#e333fm_f) | 17 |
 | 75 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) | 21 | **24.33** | [FMC 2019](https://www.worldcubeassociation.org/competitions/FMC2019/results/all#e333fm_f) | 5 |
 | 76 | [Jaehyun Jeong (정재현)](https://www.worldcubeassociation.org/persons/2016JEON02) | 21 | **24.33** | [Korean FMC Championship 2024](https://www.worldcubeassociation.org/competitions/KoreanFMCChampionship2024/results/all#e333fm_f) | 5 |
-| 77 | [Sebastiano Tronto](https://www.worldcubeassociation.org/persons/2011TRON02) | 22 | **24.33** | [3 More FMC Rounds Rzeszów 2023](https://www.worldcubeassociation.org/competitions/3MoreFMCRoundsinRzeszow2023/results/all#e333fm_f) | 4 |
-| 78 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | 22 | **24.33** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#e333fm_f) | 12 |
-| 79 | [Dmytro Kuryltsiv (Дмитро Курильців)](https://www.worldcubeassociation.org/persons/2018KURY02) | 22 | **24.33** | [Europe FMC Friends - Winter 2025](https://www.worldcubeassociation.org/competitions/EuropeFMCFriendsWinter2025/results/all#e333fm_f) | 10 |
-| 80 | [Lichi Fang (方力驰)](https://www.worldcubeassociation.org/persons/2018FANG03) | 22 | **24.33** | [Korean FMC Championship 2024](https://www.worldcubeassociation.org/competitions/KoreanFMCChampionship2024/results/all#e333fm_f) | 6 |
-| 81 | [Ang Chin Zhen (洪靖程)](https://www.worldcubeassociation.org/persons/2016ZHEN09) | 22 | **24.33** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e333fm_f) | 6 |
-| 82 | [Jaye Sloan](https://www.worldcubeassociation.org/persons/2022SLOA01) | 23 | **24.33** | [Cambridge Autumn BBO 2024](https://www.worldcubeassociation.org/competitions/CambridgeAutumnBBO2024/results/all#e333fm_f) | 4 |
-| 83 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | 23 | **24.33** | [Europe FMC Friends - Winter 2025](https://www.worldcubeassociation.org/competitions/EuropeFMCFriendsWinter2025/results/all#e333fm_f) | 11 |
-| 84 | [Anuar Miguel Abib Onofre](https://www.worldcubeassociation.org/persons/2015ONOF01) | 23 | **24.33** | [FMC 2024](https://www.worldcubeassociation.org/competitions/FMC2024/results/all#e333fm_f) | 18 |
-| 85 | [Jeremy Mrzyglocki](https://www.worldcubeassociation.org/persons/2019MRZY01) | 23 | **24.33** | [FMC 2024](https://www.worldcubeassociation.org/competitions/FMC2024/results/all#e333fm_f) | 18 |
-| 86 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | 23 | **24.33** | [FMC 2024](https://www.worldcubeassociation.org/competitions/FMC2024/results/all#e333fm_f) | 18 |
-| 87 | [Weijie Jian (简维杰)](https://www.worldcubeassociation.org/persons/2011JIAN07) | 23 | **24.33** | [FMC Cubing China 2024](https://www.worldcubeassociation.org/competitions/FMCCubingChina2024/results/all#e333fm_f) | 4 |
-| 88 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | 24 | **24.33** | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024/results/all#e333fm_f) | 19 |
-| 89 | [Levi Gibson](https://www.worldcubeassociation.org/persons/2018GIBS04) | 24 | **24.33** | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/all#e333fm_f) | 10 |
-| 90 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | 21 | **24.67** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#e333fm_f) | 9 |
-| 91 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 21 | **24.67** | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/all#e333fm_f) | 11 |
-| 92 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | 21 | **24.67** | [Rubik's UK Championship FMC 2023](https://www.worldcubeassociation.org/competitions/RubiksUKChampionshipFMC2023/results/all#e333fm_f) | 4 |
-| 93 | [Tommy Kiprillis](https://www.worldcubeassociation.org/persons/2014KIPR01) | 22 | **24.67** | [FMC 2024](https://www.worldcubeassociation.org/competitions/FMC2024/results/all#e333fm_f) | 21 |
-| 94 | [Theodor Nordstrand](https://www.worldcubeassociation.org/persons/2016NORD02) | 22 | **24.67** | [FMC 2024](https://www.worldcubeassociation.org/competitions/FMC2024/results/all#e333fm_f) | 21 |
-| 95 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | 22 | **24.67** | [FMC 2024](https://www.worldcubeassociation.org/competitions/FMC2024/results/all#e333fm_f) | 21 |
-| 96 | [Arnau Tous Mateu](https://www.worldcubeassociation.org/persons/2016MATE04) | 22 | **24.67** | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024/results/all#e333fm_f) | 20 |
-| 97 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | 22 | **24.67** | [Miami Valley Mini 2025](https://www.worldcubeassociation.org/competitions/MiamiValleyMini2025/results/all#e333fm_f) | 4 |
-| 98 | [James Quinn](https://www.worldcubeassociation.org/persons/2016QUIN01) | 22 | **24.67** | [Please Be Quiet Lexington 2022](https://www.worldcubeassociation.org/competitions/PleaseBeQuietLexington2022/results/all#e333fm_f) | 4 |
-| 99 | [Gerard McGinley](https://www.worldcubeassociation.org/persons/2019MCGI01) | 23 | **24.67** | [Australian Nationals FMC 2024](https://www.worldcubeassociation.org/competitions/AustralianNationalsFMC2024/results/all#e333fm_f) | 4 |
-| 100 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | 23 | **24.67** | [Cambridge Autumn BBO 2024](https://www.worldcubeassociation.org/competitions/CambridgeAutumnBBO2024/results/all#e333fm_f) | 5 |
+| 77 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 21 | **24.33** | [Winter Side Wrocław 2025](https://www.worldcubeassociation.org/competitions/WinterSideWroclaw2025/results/all#e333fm_f) | 4 |
+| 78 | [Sebastiano Tronto](https://www.worldcubeassociation.org/persons/2011TRON02) | 22 | **24.33** | [3 More FMC Rounds Rzeszów 2023](https://www.worldcubeassociation.org/competitions/3MoreFMCRoundsinRzeszow2023/results/all#e333fm_f) | 4 |
+| 79 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | 22 | **24.33** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#e333fm_f) | 12 |
+| 80 | [Dmytro Kuryltsiv (Дмитро Курильців)](https://www.worldcubeassociation.org/persons/2018KURY02) | 22 | **24.33** | [Europe FMC Friends - Winter 2025](https://www.worldcubeassociation.org/competitions/EuropeFMCFriendsWinter2025/results/all#e333fm_f) | 10 |
+| 81 | [Lichi Fang (方力驰)](https://www.worldcubeassociation.org/persons/2018FANG03) | 22 | **24.33** | [Korean FMC Championship 2024](https://www.worldcubeassociation.org/competitions/KoreanFMCChampionship2024/results/all#e333fm_f) | 6 |
+| 82 | [Ang Chin Zhen (洪靖程)](https://www.worldcubeassociation.org/persons/2016ZHEN09) | 22 | **24.33** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e333fm_f) | 6 |
+| 83 | [Jaye Sloan](https://www.worldcubeassociation.org/persons/2022SLOA01) | 23 | **24.33** | [Cambridge Autumn BBO 2024](https://www.worldcubeassociation.org/competitions/CambridgeAutumnBBO2024/results/all#e333fm_f) | 4 |
+| 84 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | 23 | **24.33** | [Europe FMC Friends - Winter 2025](https://www.worldcubeassociation.org/competitions/EuropeFMCFriendsWinter2025/results/all#e333fm_f) | 11 |
+| 85 | [Anuar Miguel Abib Onofre](https://www.worldcubeassociation.org/persons/2015ONOF01) | 23 | **24.33** | [FMC 2024](https://www.worldcubeassociation.org/competitions/FMC2024/results/all#e333fm_f) | 18 |
+| 86 | [Jeremy Mrzyglocki](https://www.worldcubeassociation.org/persons/2019MRZY01) | 23 | **24.33** | [FMC 2024](https://www.worldcubeassociation.org/competitions/FMC2024/results/all#e333fm_f) | 18 |
+| 87 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | 23 | **24.33** | [FMC 2024](https://www.worldcubeassociation.org/competitions/FMC2024/results/all#e333fm_f) | 18 |
+| 88 | [Weijie Jian (简维杰)](https://www.worldcubeassociation.org/persons/2011JIAN07) | 23 | **24.33** | [FMC Cubing China 2024](https://www.worldcubeassociation.org/competitions/FMCCubingChina2024/results/all#e333fm_f) | 4 |
+| 89 | [Mykyta Grytsenko (Микита Гриценко)](https://www.worldcubeassociation.org/persons/2018GRYT01) | 24 | **24.33** | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024/results/all#e333fm_f) | 19 |
+| 90 | [Levi Gibson](https://www.worldcubeassociation.org/persons/2018GIBS04) | 24 | **24.33** | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/all#e333fm_f) | 10 |
+| 91 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | 21 | **24.67** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#e333fm_f) | 9 |
+| 92 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 21 | **24.67** | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/all#e333fm_f) | 11 |
+| 93 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | 21 | **24.67** | [Rubik's UK Championship FMC 2023](https://www.worldcubeassociation.org/competitions/RubiksUKChampionshipFMC2023/results/all#e333fm_f) | 4 |
+| 94 | [Tommy Kiprillis](https://www.worldcubeassociation.org/persons/2014KIPR01) | 22 | **24.67** | [FMC 2024](https://www.worldcubeassociation.org/competitions/FMC2024/results/all#e333fm_f) | 21 |
+| 95 | [Theodor Nordstrand](https://www.worldcubeassociation.org/persons/2016NORD02) | 22 | **24.67** | [FMC 2024](https://www.worldcubeassociation.org/competitions/FMC2024/results/all#e333fm_f) | 21 |
+| 96 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | 22 | **24.67** | [FMC 2024](https://www.worldcubeassociation.org/competitions/FMC2024/results/all#e333fm_f) | 21 |
+| 97 | [Arnau Tous Mateu](https://www.worldcubeassociation.org/persons/2016MATE04) | 22 | **24.67** | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024/results/all#e333fm_f) | 20 |
+| 98 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | 22 | **24.67** | [Miami Valley Mini 2025](https://www.worldcubeassociation.org/competitions/MiamiValleyMini2025/results/all#e333fm_f) | 4 |
+| 99 | [James Quinn](https://www.worldcubeassociation.org/persons/2016QUIN01) | 22 | **24.67** | [Please Be Quiet Lexington 2022](https://www.worldcubeassociation.org/competitions/PleaseBeQuietLexington2022/results/all#e333fm_f) | 4 |
+| 100 | [Gerard McGinley](https://www.worldcubeassociation.org/persons/2019MCGI01) | 23 | **24.67** | [Australian Nationals FMC 2024](https://www.worldcubeassociation.org/competitions/AustralianNationalsFMC2024/results/all#e333fm_f) | 4 |
 
 ### 3x3x3 One-Handed
 
@@ -1157,7 +1157,7 @@
 | 97 | [Carson Clark](https://www.worldcubeassociation.org/persons/2023CLAR02) | 1.47 | **2.51** | [Pittsburgh Winter 2025](https://www.worldcubeassociation.org/competitions/PittsburghWinter2025/results/all#epyram_f) | 4 |
 | 98 | [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) | 1.52 | **2.51** | [Cube4fun Zawiercie 2022](https://www.worldcubeassociation.org/competitions/Cube4funZawiercie2022/results/all#epyram_f) | 5 |
 | 99 | [Yuki Nagai](https://www.worldcubeassociation.org/persons/2022NAGA02) | 1.58 | **2.51** | [New England Championship 2024](https://www.worldcubeassociation.org/competitions/NewEnglandChampionship2024/results/all#epyram_f) | 6 |
-| 100 | [Yurii Hnidko (Юрій Гнідко)](https://www.worldcubeassociation.org/persons/2016HNID02) | 1.87 | **2.51** | [Cube4fun in Warsaw 2024](https://www.worldcubeassociation.org/competitions/Cube4funinWarsaw2024/results/all#epyram_f) | 4 |
+| 100 | [Harsha Paladugu](https://www.worldcubeassociation.org/persons/2017PALA08) | 1.63 | **2.51** | [Cincinnati Speed Solving 2025](https://www.worldcubeassociation.org/competitions/CincinnatiSpeedSolving2025/results/all#epyram_f) | 4 |
 
 ### Rubik's Clock
 

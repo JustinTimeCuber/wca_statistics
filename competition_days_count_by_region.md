@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 23 February 2025*
+*Updated on 25 February 2025*
 
 
 ### World
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.46 | World | 14299 |
+| 1 | 1.46 | World | 14307 |
 
 ### Continents
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.72 | Europe | 4638 |
+| 1 | 1.72 | Europe | 4639 |
 | 2 | 1.48 | South America | 1782 |
-| 3 | 1.48 | Oceania | 626 |
+| 3 | 1.48 | Oceania | 627 |
 | 4 | 1.41 | Asia | 3004 |
 | 5 | 1.31 | Africa | 175 |
-| 6 | 1.20 | North America | 4074 |
+| 6 | 1.20 | North America | 4080 |
 
 ### Countries
 
@@ -39,7 +39,7 @@
 | 13 | 1.88 | Kyrgyzstan | 8 |
 | 14 | 1.87 | Norway | 140 |
 | 15 | 1.86 | United Kingdom | 280 |
-| 16 | 1.86 | Spain | 394 |
+| 16 | 1.86 | Spain | 395 |
 | 17 | 1.84 | Thailand | 75 |
 | 18 | 1.84 | Finland | 154 |
 | 19 | 1.83 | Hungary | 54 |
@@ -82,7 +82,7 @@
 | 56 | 1.49 | South Africa | 90 |
 | 57 | 1.48 | Bulgaria | 25 |
 | 58 | 1.46 | Latvia | 37 |
-| 59 | 1.44 | Australia | 488 |
+| 59 | 1.45 | Australia | 489 |
 | 60 | 1.44 | Jordan | 16 |
 | 61 | 1.43 | Nigeria | 7 |
 | 62 | 1.42 | Bangladesh | 19 |
@@ -116,9 +116,9 @@
 | 90 | 1.20 | Japan | 237 |
 | 91 | 1.18 | Armenia | 11 |
 | 92 | 1.18 | Mongolia | 40 |
-| 93 | 1.17 | Canada | 413 |
-| 94 | 1.17 | Tunisia | 24 |
-| 95 | 1.16 | United States | 3270 |
+| 93 | 1.17 | Tunisia | 24 |
+| 94 | 1.17 | Canada | 415 |
+| 95 | 1.16 | United States | 3274 |
 | 96 | 1.13 | Azerbaijan | 46 |
 | 97 | 1.11 | Honduras | 18 |
 | 98 | 1.08 | Cyprus | 12 |
