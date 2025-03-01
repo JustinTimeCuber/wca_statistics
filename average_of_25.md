@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 1000 single are taken into account.*
-*Updated on 28 February 2025*
+*Updated on  1 March 2025*
 
 
 ### Rubik's Cube
@@ -685,7 +685,7 @@
 
 | Rank | Ao25 | Person | Times |
 | :--- | ---: | :--- | :--- |
-| 1 | 21.43 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | 20, 21, 21, 21, 22, 18, 21, 23, 22, 22, 21, 25, 22, 22, 22, 22, 21, 21, 22, 21, 20, 24, 21, 20, 22 |
+| 1 | 21.43 | [Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01) | 20, 21, 21, 21, 22, 18, 21, 23, 22, 22, 21, 25, 22, 22, 22, 22, 21, 20, 24, 21, 21, 22, 21, 20, 22 |
 | 2 | 21.52 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | 19, 20, 20, 22, 22, 22, 21, 22, 22, 20, 22, 23, 20, 21, 22, 25, 25, 20, 23, 20, 22, 21, 24, 21, 22 |
 | 3 | 21.57 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 23, 22, 24, 22, 24, 21, 19, 21, 20, 19, 21, 23, 20, 27, 24, 20, 20, 23, 22, 18, 23, 24, 19, 22, 20 |
 | 4 | 22.14 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 21, 23, 26, 24, 22, 24, 23, 25, 22, 21, 22, 19, 22, 22, 19, 20, 23, 20, 23, 23, 22, 22, 24, 23, 18 |
