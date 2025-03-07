@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  4 March 2025*
+*Updated on  7 March 2025*
 
 
 ### Rubik's Cube
@@ -1660,7 +1660,7 @@
 | 75 | 0.99 | [Yu Sajima (佐島優)](https://www.worldcubeassociation.org/persons/2008SAJI01) | 43.47 | 44.46 | [Cube Camp in Kanazawa 2017](https://www.worldcubeassociation.org/competitions/CubeCampinKanazawa2017/results/by_person#2008SAJI01) |
 | 76 | 1.00 | [Daniel Yakhkind (Даніель Яхкінд)](https://www.worldcubeassociation.org/persons/2015YAKH01) | 29.09 | 30.09 | [Feet Challenge Ukraine 2019](https://www.worldcubeassociation.org/competitions/FeetChallengeUkraine2019/results/by_person#2015YAKH01) |
 | 77 | 1.00 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 31.84 | 32.84 | [Polish Open 2017](https://www.worldcubeassociation.org/competitions/PolishOpen2017/results/by_person#2011KNOT01) |
-| 78 | 1.01 | [Rwell Shawn A. Castaneda](https://www.worldcubeassociation.org/persons/2017CAST19) | 47.83 | 48.84 | [Philippine Championship 2017](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2017/results/by_person#2017CAST19) |
+| 78 | 1.01 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON19) | 47.83 | 48.84 | [Philippine Championship 2017](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2017/results/by_person#2017ANON19) |
 | 79 | 1.01 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | 1:12.02 | 1:13.03 | [World Championship 2011](https://www.worldcubeassociation.org/competitions/WC2011/results/by_person#2009SHEP01) |
 | 80 | 1.02 | [Weisheng Chen (陈伟胜)](https://www.worldcubeassociation.org/persons/2015CHEN52) | 32.23 | 33.25 | [Jieyang Open 2018](https://www.worldcubeassociation.org/competitions/JieyangOpen2018/results/by_person#2015CHEN52) |
 | 81 | 1.03 | [Mika Muranushi (村主美佳)](https://www.worldcubeassociation.org/persons/2006MURA01) | 1:01.59 | 1:02.62 | [Hiroshima 2012](https://www.worldcubeassociation.org/competitions/HiroshimaOpen2012/results/by_person#2006MURA01) |

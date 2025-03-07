@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on  4 March 2025*
+*Updated on  7 March 2025*
 
 
 ### Rubik's Cube
@@ -316,8 +316,8 @@
 | 96 | [Mika Smulders](https://www.worldcubeassociation.org/persons/2016SMUL01) | 23.87 | **27.50** | [Dutch Nationals 2023](https://www.worldcubeassociation.org/competitions/DutchNationals2023/results/all#e444_f) | 4 |
 | 97 | [Jinseo Hong](https://www.worldcubeassociation.org/persons/2017HONG17) | 21.85 | **27.52** | [New York Championship 2022](https://www.worldcubeassociation.org/competitions/NewYorkChampionship2022/results/all#e444_f) | 4 |
 | 98 | [Daryl Tan Hong An](https://www.worldcubeassociation.org/persons/2015ANDA01) | 22.87 | **27.52** | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/all#e444_f) | 11 |
-| 99 | [Alexandre Carlier](https://www.worldcubeassociation.org/persons/2012CARL03) | 25.56 | **27.53** | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017/results/all#e444_f) | 7 |
-| 100 | [Cian-Jyun Yang (楊謙君)](https://www.worldcubeassociation.org/persons/2019YANG94) | 22.41 | **27.58** | [Taoyuan Airport Cube Day 2024](https://www.worldcubeassociation.org/competitions/TaoyuanAirportCubeDay2024/results/all#e444_f) | 4 |
+| 99 | [Yi-Jen Hsueh (薛以仁)](https://www.worldcubeassociation.org/persons/2016HSUE02) | 24.75 | **27.52** | [Pingtung Winter Open 2025](https://www.worldcubeassociation.org/competitions/PingtungWinterOpen2025/results/all#e444_f) | 4 |
+| 100 | [Alexandre Carlier](https://www.worldcubeassociation.org/persons/2012CARL03) | 25.56 | **27.53** | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017/results/all#e444_f) | 7 |
 
 ### 5x5x5 Cube
 
@@ -1256,13 +1256,13 @@
 | 91 | [Ryan Michael Breen](https://www.worldcubeassociation.org/persons/2017BREE02) | 4.04 | **4.71** | [Don't Pop Princeton 2024](https://www.worldcubeassociation.org/competitions/DontPopPrinceton2024/results/all#eclock_f) | 4 |
 | 92 | [Aaron Jake Wong](https://www.worldcubeassociation.org/persons/2021WONG02) | 3.46 | **4.72** | [Manhattan Mini AM 2024](https://www.worldcubeassociation.org/competitions/ManhattanMiniAM2024/results/all#eclock_f) | 6 |
 | 93 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) | 4.19 | **4.72** | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024/results/all#eclock_f) | 6 |
-| 94 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | 3.80 | **4.74** | [Don't Pop Princeton 2024](https://www.worldcubeassociation.org/competitions/DontPopPrinceton2024/results/all#eclock_f) | 5 |
-| 95 | [Elijah La Porte](https://www.worldcubeassociation.org/persons/2022PORT01) | 4.23 | **4.74** | [Australian Nationals 2024](https://www.worldcubeassociation.org/competitions/AustralianNationals2024/results/all#eclock_f) | 5 |
-| 96 | [Nigel Phang](https://www.worldcubeassociation.org/persons/2022PHAN03) | 3.09 | **4.75** | [Singapore Championship 2025](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2025/results/all#eclock_f) | 6 |
-| 97 | [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) | 3.72 | **4.75** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#eclock_f) | 12 |
-| 98 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | 3.88 | **4.75** | [Lincolnshire Summer 2024](https://www.worldcubeassociation.org/competitions/LincolnshireSummer2024/results/all#eclock_c) | 5 |
-| 99 | [Ethan Yeh](https://www.worldcubeassociation.org/persons/2020YEHE01) | 3.33 | **4.76** | [UCSB Cubing 2024](https://www.worldcubeassociation.org/competitions/UCSBCubing2024/results/all#eclock_f) | 5 |
-| 100 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | 3.59 | **4.76** | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/all#eclock_f) | 4 |
+| 94 | [Alan Fang](https://www.worldcubeassociation.org/persons/2023FANG02) | 4.31 | **4.73** | [Stevenage March 2025](https://www.worldcubeassociation.org/competitions/StevenageMarch2025/results/all#eclock_c) | 4 |
+| 95 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | 3.80 | **4.74** | [Don't Pop Princeton 2024](https://www.worldcubeassociation.org/competitions/DontPopPrinceton2024/results/all#eclock_f) | 5 |
+| 96 | [Elijah La Porte](https://www.worldcubeassociation.org/persons/2022PORT01) | 4.23 | **4.74** | [Australian Nationals 2024](https://www.worldcubeassociation.org/competitions/AustralianNationals2024/results/all#eclock_f) | 5 |
+| 97 | [Nigel Phang](https://www.worldcubeassociation.org/persons/2022PHAN03) | 3.09 | **4.75** | [Singapore Championship 2025](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2025/results/all#eclock_f) | 6 |
+| 98 | [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) | 3.72 | **4.75** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#eclock_f) | 12 |
+| 99 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | 3.88 | **4.75** | [Lincolnshire Summer 2024](https://www.worldcubeassociation.org/competitions/LincolnshireSummer2024/results/all#eclock_c) | 5 |
+| 100 | [Ethan Yeh](https://www.worldcubeassociation.org/persons/2020YEHE01) | 3.33 | **4.76** | [UCSB Cubing 2024](https://www.worldcubeassociation.org/competitions/UCSBCubing2024/results/all#eclock_f) | 5 |
 
 ### Skewb
 

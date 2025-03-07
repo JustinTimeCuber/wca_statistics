@@ -1,6 +1,6 @@
 ## Longest time to achieve sub 10 3x3x3 average
 
-*Updated on  4 March 2025*
+*Updated on  7 March 2025*
 
 | Rank | Person | Years |
 | :--- | :--- | ---: |
@@ -735,7 +735,7 @@
 | 729 | [Weicheng Luo (罗炜城)](https://www.worldcubeassociation.org/persons/2018LUOW01) | 6.21 |
 | 730 | [San Jang](https://www.worldcubeassociation.org/persons/2017JANG03) | 6.21 |
 | 731 | [Alfrisa Diva Wandana](https://www.worldcubeassociation.org/persons/2010WAND03) | 6.21 |
-| 732 | [Eric Hsu](https://www.worldcubeassociation.org/persons/2017HSUE02) | 6.19 |
+| 732 | [Eric Hsu (徐玉云)](https://www.worldcubeassociation.org/persons/2017HSUE02) | 6.19 |
 | 733 | [Steve Greer](https://www.worldcubeassociation.org/persons/2016GREE04) | 6.19 |
 | 734 | [Shashank Chandramouli](https://www.worldcubeassociation.org/persons/2017CHAN08) | 6.19 |
 | 735 | [Hubert Badocha](https://www.worldcubeassociation.org/persons/2013BADO01) | 6.19 |
