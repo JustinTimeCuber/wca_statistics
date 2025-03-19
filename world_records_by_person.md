@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 16 March 2025*
+*Updated on 19 March 2025*
 
 | Rank | WRs | Person |
 | :--- | ---: | :--- |
@@ -8,7 +8,7 @@
 | 2 | 85 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) |
 | 3 | 33 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 4 | 27 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) |
-| 5 | 26 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
+| 5 | 27 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
 | 6 | 21 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) |
 | 7 | 21 | [Shotaro Makisumi (牧角章太郎)](https://www.worldcubeassociation.org/persons/2003MAKI01) |
 | 8 | 21 | [Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01) |
@@ -25,8 +25,8 @@
 | 19 | 13 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |
 | 20 | 12 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) |
 | 21 | 12 | [Lin Chen (陈霖)](https://www.worldcubeassociation.org/persons/2010CHEN20) |
-| 22 | 12 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) |
-| 23 | 12 | [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) |
+| 22 | 12 | [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) |
+| 23 | 11 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) |
 | 24 | 11 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
 | 25 | 10 | [Gunnar Kantare Krig](https://www.worldcubeassociation.org/persons/2004KRIG01) |
 | 26 | 10 | [Ryan Patricio](https://www.worldcubeassociation.org/persons/2004PATR01) |
