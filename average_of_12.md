@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 1000 single are taken into account.*
-*Updated on 19 March 2025*
+*Updated on 22 March 2025*
 
 
 ### Rubik's Cube
@@ -1036,23 +1036,23 @@
 | 81 | 37.69 | [Declan Wilhelm](https://www.worldcubeassociation.org/persons/2016WILH03) | 36.87, 35.59, 42.51, 39.09, 39.07, 42.23, 37.54, 35.79, 36.27, 33.66, 36.84, 37.59 |
 | 82 | 37.71 | [Phillip Lewicki](https://www.worldcubeassociation.org/persons/2012LEWI01) | 34.70, 37.12, 36.43, 36.55, 40.46, 36.21, 44.32, 35.67, 39.64, 36.41, 38.89, 39.68 |
 | 83 | 37.77 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 35.13, 38.72, 36.53, 38.10, 37.51, 37.56, 43.84, 33.61, 41.51, 38.77, 36.97, 36.92 |
-| 84 | 37.78 | [Alessandro Diomampo](https://www.worldcubeassociation.org/persons/2023DIOM01) | 35.79, 39.79, 37.00, 35.71, 42.36, 37.31, DNF, 35.91, 35.72, 37.64, 38.16, 38.14 |
-| 85 | 37.84 | [Oleh Korchan (Олег Корчан)](https://www.worldcubeassociation.org/persons/2017KORC01) | 36.12, 37.47, 38.75, 39.13, 36.59, 36.40, 43.54, 39.59, 36.56, 33.21, 38.31, 39.47 |
-| 86 | 37.89 | [Owen Chester](https://www.worldcubeassociation.org/persons/2016CHES01) | 38.81, 35.72, 36.36, 36.09, 36.78, 38.83, 42.04, 39.06, 35.15, 43.64, 36.35, 38.83 |
-| 87 | 37.92 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | 44.32, 51.02, 37.66, 38.53, 36.05, 35.01, 35.51, 35.86, 38.67, 36.43, 36.41, 39.76 |
-| 88 | 38.06 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) | 35.56, 37.12, 55.08, 38.80, 34.64, 33.65, 42.58, 34.02, 42.96, 37.53, 40.50, 36.86 |
-| 89 | 38.08 | [Kostiantyn Stadnyk (Костянтин Стадник)](https://www.worldcubeassociation.org/persons/2015STAD01) | 37.56, 36.08, 35.19, 38.82, 40.16, 37.00, 35.17, 41.92, 47.81, 40.35, 38.50, 34.87 |
-| 90 | 38.10 | [Natthaphat Mahtani (ณัฐภัทร จี มาทานี)](https://www.worldcubeassociation.org/persons/2011MAHT02) | 42.74, 39.02, 39.78, 43.18, 38.38, 36.97, 37.54, 35.62, 34.94, 40.04, 33.11, 35.95 |
-| 91 | 38.18 | [Reinier Schippers](https://www.worldcubeassociation.org/persons/2010SCHI01) | 36.58, 37.24, 42.21, 38.94, 35.20, 38.77, 39.02, 33.73, 36.91, 45.27, 37.89, 39.03 |
-| 92 | 38.18 | [Emmanuel Kao](https://www.worldcubeassociation.org/persons/2022KAOE01) | 38.23, 34.44, 38.94, 34.96, 41.75, 36.56, 43.40, 44.13, 39.80, 35.19, 35.84, 37.09 |
-| 93 | 38.22 | [Jiahao Chen (陈嘉豪)](https://www.worldcubeassociation.org/persons/2024CHEJ11) | 34.31, 35.10, 36.69, 42.59, 36.51, 37.19, 39.14, 36.76, 44.35, 40.61, 43.25, 34.31 |
-| 94 | 38.23 | [Aidan McKenzie](https://www.worldcubeassociation.org/persons/2017MCKE02) | 39.05, 41.22, 42.60, 38.83, 36.52, 35.82, 37.41, 46.44, 36.78, 35.35, 35.42, 38.62 |
-| 95 | 38.25 | [Changhee Yeh (예창희)](https://www.worldcubeassociation.org/persons/2019YEHC02) | 40.37, 39.17, 38.92, 38.68, 43.54, 34.18, 42.05, 34.44, 34.71, 32.51, 37.93, 42.09 |
-| 96 | 38.28 | [Jorge Luis Castillo Carrasco](https://www.worldcubeassociation.org/persons/2019CARR22) | 37.88, 35.99, 40.07, 38.96, 38.05, 36.48, 34.09, 40.46, 40.76, 35.61, 49.08, 38.56 |
-| 97 | 38.30 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | 33.79, 40.68, 38.96, 39.14, 43.34, 36.65, 36.07, 33.18, 47.37, 40.08, 36.82, 37.51 |
-| 98 | 38.30 | [Lucy Grace Bryson](https://www.worldcubeassociation.org/persons/2023BRYS01) | 35.19, 42.69, 39.67, 42.81, 38.16, 38.41, 37.93, 35.05, 36.37, 32.56, 43.24, 36.74 |
-| 99 | 38.50 | [Katie Moughan](https://www.worldcubeassociation.org/persons/2017DAVI03) | 40.91, 36.06, 33.49, 43.10, 38.86, 35.15, 44.34, 35.53, 35.95, 42.32, 43.56, 33.60 |
-| 100 | 38.63 | [Victor Wijsman](https://www.worldcubeassociation.org/persons/2016WIJS01) | 42.38, 39.21, 42.96, 37.85, 36.22, 39.24, 38.38, 38.39, 40.86, 35.67, 38.12, 34.22 |
+| 84 | 37.77 | [Takumi Kawazoe (川添匠)](https://www.worldcubeassociation.org/persons/2022KAWA02) | 54.30, 56.67, 31.18, 35.47, 35.22, 35.59, 32.16, 37.66, 36.77, 34.82, 37.57, 38.18 |
+| 85 | 37.78 | [Alessandro Diomampo](https://www.worldcubeassociation.org/persons/2023DIOM01) | 35.79, 39.79, 37.00, 35.71, 42.36, 37.31, DNF, 35.91, 35.72, 37.64, 38.16, 38.14 |
+| 86 | 37.84 | [Oleh Korchan (Олег Корчан)](https://www.worldcubeassociation.org/persons/2017KORC01) | 36.12, 37.47, 38.75, 39.13, 36.59, 36.40, 43.54, 39.59, 36.56, 33.21, 38.31, 39.47 |
+| 87 | 37.89 | [Owen Chester](https://www.worldcubeassociation.org/persons/2016CHES01) | 38.81, 35.72, 36.36, 36.09, 36.78, 38.83, 42.04, 39.06, 35.15, 43.64, 36.35, 38.83 |
+| 88 | 37.92 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | 44.32, 51.02, 37.66, 38.53, 36.05, 35.01, 35.51, 35.86, 38.67, 36.43, 36.41, 39.76 |
+| 89 | 38.06 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) | 35.56, 37.12, 55.08, 38.80, 34.64, 33.65, 42.58, 34.02, 42.96, 37.53, 40.50, 36.86 |
+| 90 | 38.08 | [Kostiantyn Stadnyk (Костянтин Стадник)](https://www.worldcubeassociation.org/persons/2015STAD01) | 37.56, 36.08, 35.19, 38.82, 40.16, 37.00, 35.17, 41.92, 47.81, 40.35, 38.50, 34.87 |
+| 91 | 38.10 | [Natthaphat Mahtani (ณัฐภัทร จี มาทานี)](https://www.worldcubeassociation.org/persons/2011MAHT02) | 42.74, 39.02, 39.78, 43.18, 38.38, 36.97, 37.54, 35.62, 34.94, 40.04, 33.11, 35.95 |
+| 92 | 38.18 | [Reinier Schippers](https://www.worldcubeassociation.org/persons/2010SCHI01) | 36.58, 37.24, 42.21, 38.94, 35.20, 38.77, 39.02, 33.73, 36.91, 45.27, 37.89, 39.03 |
+| 93 | 38.18 | [Emmanuel Kao](https://www.worldcubeassociation.org/persons/2022KAOE01) | 38.23, 34.44, 38.94, 34.96, 41.75, 36.56, 43.40, 44.13, 39.80, 35.19, 35.84, 37.09 |
+| 94 | 38.22 | [Jiahao Chen (陈嘉豪)](https://www.worldcubeassociation.org/persons/2024CHEJ11) | 34.31, 35.10, 36.69, 42.59, 36.51, 37.19, 39.14, 36.76, 44.35, 40.61, 43.25, 34.31 |
+| 95 | 38.23 | [Aidan McKenzie](https://www.worldcubeassociation.org/persons/2017MCKE02) | 39.05, 41.22, 42.60, 38.83, 36.52, 35.82, 37.41, 46.44, 36.78, 35.35, 35.42, 38.62 |
+| 96 | 38.25 | [Changhee Yeh (예창희)](https://www.worldcubeassociation.org/persons/2019YEHC02) | 40.37, 39.17, 38.92, 38.68, 43.54, 34.18, 42.05, 34.44, 34.71, 32.51, 37.93, 42.09 |
+| 97 | 38.28 | [Jorge Luis Castillo Carrasco](https://www.worldcubeassociation.org/persons/2019CARR22) | 37.88, 35.99, 40.07, 38.96, 38.05, 36.48, 34.09, 40.46, 40.76, 35.61, 49.08, 38.56 |
+| 98 | 38.30 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | 33.79, 40.68, 38.96, 39.14, 43.34, 36.65, 36.07, 33.18, 47.37, 40.08, 36.82, 37.51 |
+| 99 | 38.30 | [Lucy Grace Bryson](https://www.worldcubeassociation.org/persons/2023BRYS01) | 35.19, 42.69, 39.67, 42.81, 38.16, 38.41, 37.93, 35.05, 36.37, 32.56, 43.24, 36.74 |
+| 100 | 38.50 | [Katie Moughan](https://www.worldcubeassociation.org/persons/2017DAVI03) | 40.91, 36.06, 33.49, 43.10, 38.86, 35.15, 44.34, 35.53, 35.95, 42.32, 43.56, 33.60 |
 
 ### Pyraminx
 

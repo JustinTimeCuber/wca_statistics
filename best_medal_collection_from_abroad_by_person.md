@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 19 March 2025*
+*Updated on 22 March 2025*
 
 | Rank | Person | Gold | Silver | Bronze | Total |
 | :--- | :--- | :--: | :--: | :--: | :--: |
@@ -39,8 +39,8 @@
 | 32 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | **84** | 35 | 27 | 146 |
 | 33 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) | **83** | 62 | 54 | 199 |
 | 34 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | **83** | 45 | 31 | 159 |
-| 35 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | **82** | 64 | 57 | 203 |
-| 36 | [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) | **81** | 71 | 55 | 207 |
+| 35 | [Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02) | **82** | 71 | 55 | 208 |
+| 36 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | **82** | 64 | 57 | 203 |
 | 37 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) | **77** | 49 | 51 | 177 |
 | 38 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | **76** | 86 | 47 | 209 |
 | 39 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) | **72** | 82 | 52 | 206 |
@@ -571,8 +571,8 @@
 | 564 | [Chan Tak Chuen (陳德泉)](https://www.worldcubeassociation.org/persons/2007CHUE01) | **6** | 9 | 6 | 21 |
 | 565 | [Camerone Chin](https://www.worldcubeassociation.org/persons/2019CHIN08) | **6** | 8 | 7 | 21 |
 | 566 | [Endre Kovács](https://www.worldcubeassociation.org/persons/2008KOVA01) | **6** | 7 | 12 | 25 |
-| 567 | [Isaac Lai Yin Chung](https://www.worldcubeassociation.org/persons/2015LAII01) | **6** | 7 | 4 | 17 |
-| 568 | [Itthikorn Jittaveeroj (อิทธิกร จิตทวีโรจน์)](https://www.worldcubeassociation.org/persons/2014JITT01) | **6** | 7 | 4 | 17 |
+| 567 | [Itthikorn Jittaveeroj (อิทธิกร จิตทวีโรจน์)](https://www.worldcubeassociation.org/persons/2014JITT01) | **6** | 7 | 5 | 18 |
+| 568 | [Isaac Lai Yin Chung](https://www.worldcubeassociation.org/persons/2015LAII01) | **6** | 7 | 4 | 17 |
 | 569 | [Alessandro Manopulo](https://www.worldcubeassociation.org/persons/2013MANO03) | **6** | 7 | 3 | 16 |
 | 570 | [Kai Jiptner](https://www.worldcubeassociation.org/persons/2007JIPT01) | **6** | 7 | 2 | 15 |
 | 571 | [Guillain Potron](https://www.worldcubeassociation.org/persons/2008POTR01) | **6** | 6 | 8 | 20 |

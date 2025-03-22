@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 19 March 2025*
+*Updated on 22 March 2025*
 
 
 ### Rubik's Cube
@@ -1052,7 +1052,7 @@
 | 97 | [Bartłomiej Krokos](https://www.worldcubeassociation.org/persons/2017KROK01) | 37.67 | **40.50** | [Dębica Cubing Winter 2024](https://www.worldcubeassociation.org/competitions/DebicaCubingWinter2024/results/all#eminx_f) | 4 |
 | 98 | [Jonas Pilhöfer](https://www.worldcubeassociation.org/persons/2019PILH01) | 35.52 | **40.54** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#eminx_f) | 19 |
 | 99 | [Elias Fischer](https://www.worldcubeassociation.org/persons/2013FISC01) | 37.22 | **40.72** | [Rubik's German Nationals 2024](https://www.worldcubeassociation.org/competitions/RubiksGermanNationals2024/results/all#eminx_f) | 5 |
-| 100 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 35.35 | **40.82** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#eminx_f) | 16 |
+| 100 | [Wataru Takamiya (髙宮径)](https://www.worldcubeassociation.org/persons/2023TAKA02) | 38.14 | **40.75** | [Ota Spring 2025](https://www.worldcubeassociation.org/competitions/OtaSpring2025/results/all#eminx_f) | 4 |
 
 ### Pyraminx
 
