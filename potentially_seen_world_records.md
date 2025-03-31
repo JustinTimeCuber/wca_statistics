@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 28 March 2025*
+*Updated on 31 March 2025*
 
 | Rank | WRs | Person |
 | :--- | ---: | :--- |
@@ -584,7 +584,7 @@
 | 577 | 29 | [Will Russo](https://www.worldcubeassociation.org/persons/2015RUSS03) |
 | 578 | 29 | [Owen Widdis](https://www.worldcubeassociation.org/persons/2015WIDD01) |
 | 579 | 29 | [Steven Wintringham](https://www.worldcubeassociation.org/persons/2015WINT02) |
-| 580 | 29 | [Cailyn Hoover](https://www.worldcubeassociation.org/persons/2016HOOV01) |
+| 580 | 29 | [Cailyn Sinclair](https://www.worldcubeassociation.org/persons/2016HOOV01) |
 | 581 | 29 | [Aaron Paskow](https://www.worldcubeassociation.org/persons/2016PASK01) |
 | 582 | 29 | [Zavian Valedon](https://www.worldcubeassociation.org/persons/2016VALE01) |
 | 583 | 29 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) |
