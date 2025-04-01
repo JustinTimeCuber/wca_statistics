@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 31 March 2025*
+*Updated on  1 April 2025*
 
 | Rank | WRs | Person |
 | :--- | ---: | :--- |
@@ -754,21 +754,21 @@
 | 747 | 25 | [Mikela Elleby Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2015JORG01) |
 | 748 | 25 | [Ethan Davis](https://www.worldcubeassociation.org/persons/2016DAVI02) |
 | 749 | 25 | [Tijmen van der Ree](https://www.worldcubeassociation.org/persons/2016REET01) |
-| 750 | 25 | [Stanisław Dąbrowski](https://www.worldcubeassociation.org/persons/2016DABR03) |
-| 751 | 25 | [Daniel Gutierrez](https://www.worldcubeassociation.org/persons/2016GUTI23) |
-| 752 | 25 | [Chris Yeager](https://www.worldcubeassociation.org/persons/2016YEAG01) |
-| 753 | 24 | [Yunliang Zhang (张赟量)](https://www.worldcubeassociation.org/persons/2016ZHAN45) |
-| 754 | 24 | [Andrew Tyberg](https://www.worldcubeassociation.org/persons/2016TYBE01) |
-| 755 | 24 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
-| 756 | 24 | [Anshu Chennuru](https://www.worldcubeassociation.org/persons/2016CHEN53) |
-| 757 | 24 | [Jack Pfeifer](https://www.worldcubeassociation.org/persons/2016PFEI01) |
-| 758 | 24 | [Oliver Wheat](https://www.worldcubeassociation.org/persons/2016WHEA01) |
-| 759 | 24 | [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) |
-| 760 | 24 | [Caleb Kearney](https://www.worldcubeassociation.org/persons/2018KEAR02) |
-| 761 | 24 | [Margot Audero](https://www.worldcubeassociation.org/persons/2017MARR02) |
-| 762 | 24 | [Anto Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) |
-| 763 | 24 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) |
-| 764 | 24 | [Chris Van Der Brink](https://www.worldcubeassociation.org/persons/2016BRIN04) |
+| 750 | 25 | [Chris Van Der Brink](https://www.worldcubeassociation.org/persons/2016BRIN04) |
+| 751 | 25 | [Stanisław Dąbrowski](https://www.worldcubeassociation.org/persons/2016DABR03) |
+| 752 | 25 | [Daniel Gutierrez](https://www.worldcubeassociation.org/persons/2016GUTI23) |
+| 753 | 25 | [Chris Yeager](https://www.worldcubeassociation.org/persons/2016YEAG01) |
+| 754 | 24 | [Yunliang Zhang (张赟量)](https://www.worldcubeassociation.org/persons/2016ZHAN45) |
+| 755 | 24 | [Andrew Tyberg](https://www.worldcubeassociation.org/persons/2016TYBE01) |
+| 756 | 24 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
+| 757 | 24 | [Anshu Chennuru](https://www.worldcubeassociation.org/persons/2016CHEN53) |
+| 758 | 24 | [Jack Pfeifer](https://www.worldcubeassociation.org/persons/2016PFEI01) |
+| 759 | 24 | [Oliver Wheat](https://www.worldcubeassociation.org/persons/2016WHEA01) |
+| 760 | 24 | [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) |
+| 761 | 24 | [Caleb Kearney](https://www.worldcubeassociation.org/persons/2018KEAR02) |
+| 762 | 24 | [Margot Audero](https://www.worldcubeassociation.org/persons/2017MARR02) |
+| 763 | 24 | [Anto Kam (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13) |
+| 764 | 24 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) |
 | 765 | 24 | [Marek Dąbrowski](https://www.worldcubeassociation.org/persons/2016DABR02) |
 | 766 | 24 | [Ben Wakelin](https://www.worldcubeassociation.org/persons/2015WAKE01) |
 | 767 | 24 | [Bernhard Brodowsky](https://www.worldcubeassociation.org/persons/2016BROD01) |

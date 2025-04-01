@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 31 March 2025*
+*Updated on  1 April 2025*
 
 
 ### World
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.46 | World | 14602 |
+| 1 | 1.46 | World | 14607 |
 
 ### Continents
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.72 | Europe | 4717 |
+| 1 | 1.72 | Europe | 4719 |
 | 2 | 1.48 | Oceania | 635 |
 | 3 | 1.48 | South America | 1819 |
-| 4 | 1.41 | Asia | 3063 |
+| 4 | 1.41 | Asia | 3064 |
 | 5 | 1.31 | Africa | 179 |
-| 6 | 1.20 | North America | 4189 |
+| 6 | 1.20 | North America | 4191 |
 
 ### Countries
 
@@ -33,11 +33,11 @@
 | 7 | 1.93 | Lithuania | 27 |
 | 8 | 1.92 | Germany | 250 |
 | 9 | 1.92 | Russia | 220 |
-| 10 | 1.89 | France | 322 |
+| 10 | 1.89 | France | 323 |
 | 11 | 1.88 | Iceland | 16 |
 | 12 | 1.88 | Kyrgyzstan | 8 |
 | 13 | 1.87 | Norway | 143 |
-| 14 | 1.85 | Spain | 405 |
+| 14 | 1.85 | Spain | 406 |
 | 15 | 1.85 | United Kingdom | 287 |
 | 16 | 1.85 | Serbia | 27 |
 | 17 | 1.84 | Thailand | 77 |
@@ -110,7 +110,7 @@
 | 84 | 1.25 | United Arab Emirates | 20 |
 | 85 | 1.25 | China | 672 |
 | 86 | 1.25 | Venezuela | 81 |
-| 87 | 1.24 | Singapore | 82 |
+| 87 | 1.24 | Singapore | 83 |
 | 88 | 1.22 | Bahrain | 9 |
 | 89 | 1.22 | El Salvador | 36 |
 | 90 | 1.22 | Morocco | 9 |
@@ -119,7 +119,7 @@
 | 93 | 1.17 | Canada | 426 |
 | 94 | 1.17 | Tunisia | 24 |
 | 95 | 1.16 | Mongolia | 43 |
-| 96 | 1.16 | United States | 3360 |
+| 96 | 1.15 | United States | 3362 |
 | 97 | 1.13 | Azerbaijan | 46 |
 | 98 | 1.11 | Honduras | 18 |
 | 99 | 1.08 | Cyprus | 12 |
