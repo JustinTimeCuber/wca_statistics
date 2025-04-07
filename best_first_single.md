@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on  4 April 2025*
+*Updated on  7 April 2025*
 
 
 ### Rubik's Cube
@@ -830,8 +830,8 @@
 | 85 | 30 | [Joshua Hounslow](https://www.worldcubeassociation.org/persons/2016HOUN01) |
 | 86 | 30 | [Yap Jia Yang](https://www.worldcubeassociation.org/persons/2016YANG84) |
 | 87 | 30 | [Daniel Alejandro Torres Moreno](https://www.worldcubeassociation.org/persons/2018MORE19) |
-| 88 | 30 | [Stephen Waller](https://www.worldcubeassociation.org/persons/2017WALL12) |
-| 89 | 30 | [Theo Hall](https://www.worldcubeassociation.org/persons/2017HALL06) |
+| 88 | 30 | [Theo Hall](https://www.worldcubeassociation.org/persons/2017HALL06) |
+| 89 | 30 | [Stephen Waller](https://www.worldcubeassociation.org/persons/2017WALL12) |
 | 90 | 30 | [Alon Ron](https://www.worldcubeassociation.org/persons/2017RONA02) |
 | 91 | 30 | [Tee Kai Yang](https://www.worldcubeassociation.org/persons/2017YANG59) |
 | 92 | 30 | [Conor Sullivan](https://www.worldcubeassociation.org/persons/2018SULL05) |
@@ -1540,44 +1540,44 @@
 | 60 | 8:12.36 | [Khaled Al-Hathlool (خالد الهذلول)](https://www.worldcubeassociation.org/persons/2024ALHA03) |
 | 61 | 8:19.16 | [Alex Cook](https://www.worldcubeassociation.org/persons/2008COOK01) |
 | 62 | 8:19.88 | [Ryan Cairns](https://www.worldcubeassociation.org/persons/2019CAIR01) |
-| 63 | 8:27.28 | [Brian Acuña](https://www.worldcubeassociation.org/persons/2016ACUN04) |
-| 64 | 8:31.47 | [Mykhailo Yartsun (Михайло Ярцун)](https://www.worldcubeassociation.org/persons/2018YART01) |
-| 65 | 8:32.76 | [Alan Żeromski](https://www.worldcubeassociation.org/persons/2018ZERO01) |
-| 66 | 8:37.04 | [Connor Yungbluth](https://www.worldcubeassociation.org/persons/2017YUNG02) |
-| 67 | 8:38.62 | [Xiaobo Hou (侯晓博)](https://www.worldcubeassociation.org/persons/2015HOUX01) |
-| 68 | 8:40.12 | [Timothy Goh](https://www.worldcubeassociation.org/persons/2016GOHT01) |
-| 69 | 8:42.79 | [William Wright](https://www.worldcubeassociation.org/persons/2015WRIG07) |
-| 70 | 8:47.27 | [Jakob Kogler](https://www.worldcubeassociation.org/persons/2011KOGL01) |
-| 71 | 8:49.15 | [Andrew Mao](https://www.worldcubeassociation.org/persons/2022MAOA01) |
-| 72 | 8:50.91 | [Joseph Guzman](https://www.worldcubeassociation.org/persons/2015GUZM03) |
-| 73 | 8:51.64 | [Raphael Riener](https://www.worldcubeassociation.org/persons/2017RIEN01) |
-| 74 | 8:54.77 | [Zhichun Li (李志纯)](https://www.worldcubeassociation.org/persons/2017LIZH13) |
-| 75 | 8:56.64 | [Kevin Liu](https://www.worldcubeassociation.org/persons/2023LIUK02) |
-| 76 | 8:57.68 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) |
-| 77 | 8:57.99 | [Yousif Abdelaal-Wait](https://www.worldcubeassociation.org/persons/2022ABDE02) |
-| 78 | 8:59.54 | [Galaad Langlois](https://www.worldcubeassociation.org/persons/2021LANG01) |
-| 79 | 9:03.02 | [Aaron Soley](https://www.worldcubeassociation.org/persons/2017SOLE01) |
-| 80 | 9:03.14 | [Ricardo Pulido Renteria](https://www.worldcubeassociation.org/persons/2019RENT01) |
-| 81 | 9:04.55 | [Gianfranco Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN29) |
-| 82 | 9:04.57 | [Orion Leavitt-Lytle](https://www.worldcubeassociation.org/persons/2022LEAV01) |
-| 83 | 9:06.89 | [Takayuki Tanaka (田中隆喜)](https://www.worldcubeassociation.org/persons/2014TANA01) |
-| 84 | 9:11.10 | [Joon Ho Park](https://www.worldcubeassociation.org/persons/2007JOON01) |
-| 85 | 9:11.65 | [Hiroto Fujita (藤田浩斗)](https://www.worldcubeassociation.org/persons/2012FUJI01) |
-| 86 | 9:11.85 | [Jude Doland](https://www.worldcubeassociation.org/persons/2021DOLA01) |
-| 87 | 9:12.16 | [Mochammad Yopy Anggara Putra](https://www.worldcubeassociation.org/persons/2017PUTR03) |
-| 88 | 9:18.64 | [Adam Hlavín](https://www.worldcubeassociation.org/persons/2019HLAV02) |
-| 89 | 9:18.84 | [Benton Tolley](https://www.worldcubeassociation.org/persons/2023TOLL02) |
-| 90 | 9:19.38 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) |
-| 91 | 9:22.11 | [Raiyan Abdulrub](https://www.worldcubeassociation.org/persons/2017ABDU06) |
-| 92 | 9:27.59 | [Shantanu Modak](https://www.worldcubeassociation.org/persons/2014MODA01) |
-| 93 | 9:28.69 | [Mihir A. Rai](https://www.worldcubeassociation.org/persons/2019RAIM03) |
-| 94 | 9:29.85 | [Hollwann Leon](https://www.worldcubeassociation.org/persons/2013LEON03) |
-| 95 | 9:33.52 | [Zachary Tang](https://www.worldcubeassociation.org/persons/2021TANG07) |
-| 96 | 9:35.74 | [Bruno Lezama](https://www.worldcubeassociation.org/persons/2014LEZA02) |
-| 97 | 9:36.57 | [Leonardo Pranadyar](https://www.worldcubeassociation.org/persons/2018PRAN01) |
-| 98 | 9:38.74 | [Bertie Longden](https://www.worldcubeassociation.org/persons/2014LONG06) |
-| 99 | 9:38.80 | [Noah Kraft](https://www.worldcubeassociation.org/persons/2016KRAF01) |
-| 100 | 9:40.68 | [Muhammad](https://www.worldcubeassociation.org/persons/2010MUHA02) |
+| 63 | 8:22.85 | [Connor Johnson](https://www.worldcubeassociation.org/persons/2022JOHN14) |
+| 64 | 8:27.28 | [Brian Acuña](https://www.worldcubeassociation.org/persons/2016ACUN04) |
+| 65 | 8:31.47 | [Mykhailo Yartsun (Михайло Ярцун)](https://www.worldcubeassociation.org/persons/2018YART01) |
+| 66 | 8:32.76 | [Alan Żeromski](https://www.worldcubeassociation.org/persons/2018ZERO01) |
+| 67 | 8:37.04 | [Connor Yungbluth](https://www.worldcubeassociation.org/persons/2017YUNG02) |
+| 68 | 8:38.62 | [Xiaobo Hou (侯晓博)](https://www.worldcubeassociation.org/persons/2015HOUX01) |
+| 69 | 8:40.12 | [Timothy Goh](https://www.worldcubeassociation.org/persons/2016GOHT01) |
+| 70 | 8:42.79 | [William Wright](https://www.worldcubeassociation.org/persons/2015WRIG07) |
+| 71 | 8:47.27 | [Jakob Kogler](https://www.worldcubeassociation.org/persons/2011KOGL01) |
+| 72 | 8:49.15 | [Andrew Mao](https://www.worldcubeassociation.org/persons/2022MAOA01) |
+| 73 | 8:50.91 | [Joseph Guzman](https://www.worldcubeassociation.org/persons/2015GUZM03) |
+| 74 | 8:51.64 | [Raphael Riener](https://www.worldcubeassociation.org/persons/2017RIEN01) |
+| 75 | 8:54.77 | [Zhichun Li (李志纯)](https://www.worldcubeassociation.org/persons/2017LIZH13) |
+| 76 | 8:56.64 | [Kevin Liu](https://www.worldcubeassociation.org/persons/2023LIUK02) |
+| 77 | 8:57.68 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) |
+| 78 | 8:57.99 | [Yousif Abdelaal-Wait](https://www.worldcubeassociation.org/persons/2022ABDE02) |
+| 79 | 8:59.54 | [Galaad Langlois](https://www.worldcubeassociation.org/persons/2021LANG01) |
+| 80 | 9:03.02 | [Aaron Soley](https://www.worldcubeassociation.org/persons/2017SOLE01) |
+| 81 | 9:03.14 | [Ricardo Pulido Renteria](https://www.worldcubeassociation.org/persons/2019RENT01) |
+| 82 | 9:04.55 | [Gianfranco Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN29) |
+| 83 | 9:04.57 | [Orion Leavitt-Lytle](https://www.worldcubeassociation.org/persons/2022LEAV01) |
+| 84 | 9:06.89 | [Takayuki Tanaka (田中隆喜)](https://www.worldcubeassociation.org/persons/2014TANA01) |
+| 85 | 9:11.10 | [Joon Ho Park](https://www.worldcubeassociation.org/persons/2007JOON01) |
+| 86 | 9:11.65 | [Hiroto Fujita (藤田浩斗)](https://www.worldcubeassociation.org/persons/2012FUJI01) |
+| 87 | 9:11.85 | [Jude Doland](https://www.worldcubeassociation.org/persons/2021DOLA01) |
+| 88 | 9:12.16 | [Mochammad Yopy Anggara Putra](https://www.worldcubeassociation.org/persons/2017PUTR03) |
+| 89 | 9:18.64 | [Adam Hlavín](https://www.worldcubeassociation.org/persons/2019HLAV02) |
+| 90 | 9:18.84 | [Benton Tolley](https://www.worldcubeassociation.org/persons/2023TOLL02) |
+| 91 | 9:19.38 | [Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01) |
+| 92 | 9:22.11 | [Raiyan Abdulrub](https://www.worldcubeassociation.org/persons/2017ABDU06) |
+| 93 | 9:27.59 | [Shantanu Modak](https://www.worldcubeassociation.org/persons/2014MODA01) |
+| 94 | 9:28.69 | [Mihir A. Rai](https://www.worldcubeassociation.org/persons/2019RAIM03) |
+| 95 | 9:29.85 | [Hollwann Leon](https://www.worldcubeassociation.org/persons/2013LEON03) |
+| 96 | 9:33.52 | [Zachary Tang](https://www.worldcubeassociation.org/persons/2021TANG07) |
+| 97 | 9:35.74 | [Bruno Lezama](https://www.worldcubeassociation.org/persons/2014LEZA02) |
+| 98 | 9:36.57 | [Leonardo Pranadyar](https://www.worldcubeassociation.org/persons/2018PRAN01) |
+| 99 | 9:38.74 | [Bertie Longden](https://www.worldcubeassociation.org/persons/2014LONG06) |
+| 100 | 9:38.80 | [Noah Kraft](https://www.worldcubeassociation.org/persons/2016KRAF01) |
 
 ### 5x5x5 Blindfolded
 
