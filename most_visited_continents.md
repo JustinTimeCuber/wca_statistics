@@ -1,6 +1,6 @@
 ## Most visited continents
 
-*Updated on  7 April 2025*
+*Updated on 10 April 2025*
 
 | Rank | Continents | Person |
 | :--- | ---: | :--- |
@@ -11,52 +11,52 @@
 | 5 | 6 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
 | 6 | 6 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 7 | 6 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
-| 8 | 5 | [Chris Hardwick](https://www.worldcubeassociation.org/persons/2003HARD01) |
-| 9 | 5 | [Jasmine Lee](https://www.worldcubeassociation.org/persons/2003LEEJ01) |
-| 10 | 5 | [Shelley Chang](https://www.worldcubeassociation.org/persons/2004CHAN04) |
-| 11 | 5 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
-| 12 | 5 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
-| 13 | 5 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
-| 14 | 5 | [Lucas Garron](https://www.worldcubeassociation.org/persons/2006GARR01) |
-| 15 | 5 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) |
-| 16 | 5 | [Takao Hashimoto (橋本貴夫)](https://www.worldcubeassociation.org/persons/2007HASH01) |
-| 17 | 5 | [Alexander Lin](https://www.worldcubeassociation.org/persons/2007LING01) |
-| 18 | 5 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |
-| 19 | 5 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) |
-| 20 | 5 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
-| 21 | 5 | [Ilkyoo Choi (최일규)](https://www.worldcubeassociation.org/persons/2008CHOI04) |
-| 22 | 5 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) |
-| 23 | 5 | [Hanneke Rijks](https://www.worldcubeassociation.org/persons/2008RIJK01) |
-| 24 | 5 | [Anthony Brooks](https://www.worldcubeassociation.org/persons/2008SEAR01) |
-| 25 | 5 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) |
-| 26 | 5 | [Fangyuan Chang (常方圆)](https://www.worldcubeassociation.org/persons/2009CHAN04) |
-| 27 | 5 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) |
-| 28 | 5 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
-| 29 | 5 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) |
-| 30 | 5 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
-| 31 | 5 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
-| 32 | 5 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
-| 33 | 5 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
-| 34 | 5 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
-| 35 | 5 | [Helmut Heilig](https://www.worldcubeassociation.org/persons/2010HEIL02) |
-| 36 | 5 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) |
-| 37 | 5 | [Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02) |
-| 38 | 5 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
-| 39 | 5 | [Donna Hays](https://www.worldcubeassociation.org/persons/2011HAYS02) |
-| 40 | 5 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) |
-| 41 | 5 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) |
-| 42 | 5 | [Katie Hardwick](https://www.worldcubeassociation.org/persons/2013ENGE01) |
-| 43 | 5 | [Gianfranco Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN29) |
-| 44 | 5 | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) |
-| 45 | 5 | [Jack Cai](https://www.worldcubeassociation.org/persons/2014CAIJ02) |
-| 46 | 5 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
-| 47 | 5 | [Eddy Deturche](https://www.worldcubeassociation.org/persons/2014DETU01) |
-| 48 | 5 | [Aniket Das](https://www.worldcubeassociation.org/persons/2015DASA02) |
-| 49 | 5 | [James Macdiarmid](https://www.worldcubeassociation.org/persons/2015MACD03) |
-| 50 | 5 | [Lucas O'Connell](https://www.worldcubeassociation.org/persons/2016OCON02) |
-| 51 | 5 | [Timothy Lawrance](https://www.worldcubeassociation.org/persons/2017LAWR04) |
-| 52 | 5 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
-| 53 | 5 | [Linus Kunath](https://www.worldcubeassociation.org/persons/2017KUNA01) |
+| 8 | 6 | [Linus Kunath](https://www.worldcubeassociation.org/persons/2017KUNA01) |
+| 9 | 5 | [Chris Hardwick](https://www.worldcubeassociation.org/persons/2003HARD01) |
+| 10 | 5 | [Jasmine Lee](https://www.worldcubeassociation.org/persons/2003LEEJ01) |
+| 11 | 5 | [Shelley Chang](https://www.worldcubeassociation.org/persons/2004CHAN04) |
+| 12 | 5 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
+| 13 | 5 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
+| 14 | 5 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
+| 15 | 5 | [Lucas Garron](https://www.worldcubeassociation.org/persons/2006GARR01) |
+| 16 | 5 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) |
+| 17 | 5 | [Takao Hashimoto (橋本貴夫)](https://www.worldcubeassociation.org/persons/2007HASH01) |
+| 18 | 5 | [Alexander Lin](https://www.worldcubeassociation.org/persons/2007LING01) |
+| 19 | 5 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |
+| 20 | 5 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) |
+| 21 | 5 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
+| 22 | 5 | [Ilkyoo Choi (최일규)](https://www.worldcubeassociation.org/persons/2008CHOI04) |
+| 23 | 5 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) |
+| 24 | 5 | [Hanneke Rijks](https://www.worldcubeassociation.org/persons/2008RIJK01) |
+| 25 | 5 | [Anthony Brooks](https://www.worldcubeassociation.org/persons/2008SEAR01) |
+| 26 | 5 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) |
+| 27 | 5 | [Fangyuan Chang (常方圆)](https://www.worldcubeassociation.org/persons/2009CHAN04) |
+| 28 | 5 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) |
+| 29 | 5 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
+| 30 | 5 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) |
+| 31 | 5 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
+| 32 | 5 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
+| 33 | 5 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
+| 34 | 5 | [Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02) |
+| 35 | 5 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
+| 36 | 5 | [Helmut Heilig](https://www.worldcubeassociation.org/persons/2010HEIL02) |
+| 37 | 5 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) |
+| 38 | 5 | [Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02) |
+| 39 | 5 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) |
+| 40 | 5 | [Donna Hays](https://www.worldcubeassociation.org/persons/2011HAYS02) |
+| 41 | 5 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) |
+| 42 | 5 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) |
+| 43 | 5 | [Katie Hardwick](https://www.worldcubeassociation.org/persons/2013ENGE01) |
+| 44 | 5 | [Gianfranco Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN29) |
+| 45 | 5 | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) |
+| 46 | 5 | [Jack Cai](https://www.worldcubeassociation.org/persons/2014CAIJ02) |
+| 47 | 5 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
+| 48 | 5 | [Eddy Deturche](https://www.worldcubeassociation.org/persons/2014DETU01) |
+| 49 | 5 | [Aniket Das](https://www.worldcubeassociation.org/persons/2015DASA02) |
+| 50 | 5 | [James Macdiarmid](https://www.worldcubeassociation.org/persons/2015MACD03) |
+| 51 | 5 | [Lucas O'Connell](https://www.worldcubeassociation.org/persons/2016OCON02) |
+| 52 | 5 | [Timothy Lawrance](https://www.worldcubeassociation.org/persons/2017LAWR04) |
+| 53 | 5 | [Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01) |
 | 54 | 5 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 55 | 4 | [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) |
 | 56 | 4 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |
