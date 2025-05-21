@@ -1,8 +1,8 @@
 require_relative "../core/grouped_statistic"
 
-class ShortestTimeToReachMilestoneInCompsCount < GroupedStatistic
+class LongestTimeToReachMilestoneInCompsCount < GroupedStatistic
   def initialize
-    @title = "Shortest amount of time to reach a milestone in competitions count"
+    @title = "Longest amount of time to reach a milestone in competitions count"
     @table_header = { "Days" => :right, "Person" => :left }
   end
 
@@ -13,19 +13,19 @@ class ShortestTimeToReachMilestoneInCompsCount < GroupedStatistic
         start_date
       FROM (
         SELECT DISTINCT
-          person_id,
-          competition_id,
+          personId,
+          competitionId,
           start_date
-        FROM results
-        JOIN competitions competition ON competition.id = competition_id
+        FROM Results
+        JOIN Competitions competition ON competition.id = competitionId
       ) AS competition_dates_with_people
-      JOIN persons person ON person.wca_id = person_id AND sub_id = 1
+      JOIN Persons person ON person.wca_id = personId AND subId = 1
       ORDER BY start_date
     SQL
   end
 
   def transform(query_results)
-    [300, 250, 200, 150, 100, 50, 25, 10, 5].map do |competitions_count|
+    [200, 150, 100, 50, 25, 10, 5].map do |competitions_count|
       days_with_people = query_results
         .group_by { |result| result["person_link"] }
         .select { |person_link, results| results.count >= competitions_count }
@@ -36,6 +36,7 @@ class ShortestTimeToReachMilestoneInCompsCount < GroupedStatistic
           [days, person_link]
         end
         .sort_by! { |days, person_link| days }
+        .reverse!
         .first(200)
       ["#{competitions_count} Competitions", days_with_people]
     end

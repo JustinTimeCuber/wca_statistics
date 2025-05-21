@@ -26,7 +26,7 @@ class AverageEventCountByCompetition < Statistic
       JOIN countries country ON country.id = competition.country_id
       GROUP BY competition_id
       ORDER BY average_event_count DESC
-      LIMIT 100
+      LIMIT 1000
     SQL
   end
 

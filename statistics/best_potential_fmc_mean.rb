@@ -27,7 +27,7 @@ class BestPotentialFmcMean < Statistic
       JOIN competitions competition ON competition.id = competition_id
       WHERE LEAST(best1, best2, best3) IS NOT NULL
       ORDER BY mean
-      LIMIT 100
+      LIMIT 1000
     SQL
   end
 

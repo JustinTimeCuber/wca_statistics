@@ -23,7 +23,7 @@ class MostCompetitionsAbroad < Statistic
             NOT IN ('XA', 'XE', 'XF', 'XM', 'XN', 'XO', 'XS', 'XW')
         GROUP BY person_id
         ORDER BY competitions_abroad DESC
-        LIMIT 100
+        LIMIT 1000
       ) AS person_ids_with_competitions_abroad
       JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1
       ORDER BY competitions_abroad DESC

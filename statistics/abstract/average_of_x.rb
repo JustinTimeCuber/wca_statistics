@@ -7,7 +7,7 @@ class AverageOfX < GroupedStatistic
     @solve_count = solve_count
 
     @title = "Average of #{@solve_count}"
-    @note = "#{@solve_count} consecutive official attempts are considered. Only people from top 200 single are taken into account."
+    @note = "#{@solve_count} consecutive official attempts are considered. Only people from top 1000 single are taken into account."
     @table_header = { "Ao#{@solve_count}" => :right, "Person" => :left, "Times" => :left }
   end
 
@@ -27,8 +27,8 @@ class AverageOfX < GroupedStatistic
       JOIN competitions competition ON competition.id = competition_id
       JOIN round_types round_type ON round_type.id = round_type_id
       JOIN ranks_single ON ranks_single.event_id = result.event_id AND ranks_single.person_id = result.person_id
-      -- Take people from top 200 single for optimization reasons.
-      WHERE ranks_single.country_rank <= 200 AND result.event_id NOT IN ('333mbf', '333mbo')
+      -- Take people from top 1000 single for optimization reasons.
+      WHERE ranks_single.country_rank <= 1000 AND result.event_id NOT IN ('333mbf', '333mbo')
       ORDER BY competition.start_date, round_type.rank
     SQL
   end
@@ -59,7 +59,7 @@ class AverageOfX < GroupedStatistic
         end
         .reject { |person_link, best_aox, best_aox_solves| best_aox == SolveTime::DNF }
         .sort_by! { |person_link, best_aox, best_aox_solves| best_aox }
-        .first(10)
+        .first(100)
         .map do |person_link, best_aox, best_aox_solves|
           solve_times = best_aox_solves.map do |solve|
             solve == Float::INFINITY ? SolveTime::DNF : SolveTime.new(event_id, :single, solve)
