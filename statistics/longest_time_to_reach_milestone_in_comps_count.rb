@@ -13,19 +13,19 @@ class LongestTimeToReachMilestoneInCompsCount < GroupedStatistic
         start_date
       FROM (
         SELECT DISTINCT
-          personId,
-          competitionId,
+          person_id,
+          competition_id,
           start_date
-        FROM Results
-        JOIN Competitions competition ON competition.id = competitionId
+        FROM results
+        JOIN competitions competition ON competition.id = competition_id
       ) AS competition_dates_with_people
-      JOIN Persons person ON person.wca_id = personId AND subId = 1
+      JOIN persons person ON person.wca_id = person_id AND sub_id = 1
       ORDER BY start_date
     SQL
   end
 
   def transform(query_results)
-    [200, 150, 100, 50, 25, 10, 5].map do |competitions_count|
+    [300, 250, 200, 150, 100, 50, 25, 10, 5].map do |competitions_count|
       days_with_people = query_results
         .group_by { |result| result["person_link"] }
         .select { |person_link, results| results.count >= competitions_count }
