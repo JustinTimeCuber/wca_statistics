@@ -11,22 +11,22 @@ class LongestStandingRecords < GroupedStatistic
   def query
     <<-SQL
       SELECT
-        regionalSingleRecord regional_single_record,
-        regionalAverageRecord regional_average_record,
+        regional_single_record,
+        regional_average_record,
         best single,
         average,
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
-        CONCAT('[', competition.cellName, '](https://www.worldcubeassociation.org/competitions/', competition.id, '/results/by_person#', person.wca_id, ')') results_link,
+        CONCAT('[', competition.cell_name, '](https://www.worldcubeassociation.org/competitions/', competition.id, '/results/by_person#', person.wca_id, ')') results_link,
         competition.start_date competition_date,
-        eventId event_id,
+        event_id,
         continent.name continent
-      FROM Results result
-      JOIN Persons person ON person.wca_id = personId AND person.subId = 1
-      JOIN Competitions competition ON competition.id = competitionId
-      JOIN Countries country ON country.id = result.countryId
-      JOIN Continents continent ON continent.id = country.continentId
-      WHERE regionalSingleRecord IN ('AfR', 'AsR', 'ER', 'NAR', 'OcR', 'SAR', 'WR')
-         OR regionalAverageRecord IN ('AfR', 'AsR', 'ER', 'NAR', 'OcR', 'SAR', 'WR')
+      FROM results result
+      JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1
+      JOIN competitions competition ON competition.id = competition_id
+      JOIN countries country ON country.id = result.country_id
+      JOIN continents continent ON continent.id = country.continent_id
+      WHERE regional_single_record IN ('AfR', 'AsR', 'ER', 'NAR', 'OcR', 'SAR', 'WR')
+         OR regional_average_record IN ('AfR', 'AsR', 'ER', 'NAR', 'OcR', 'SAR', 'WR')
       ORDER BY competition_date
     SQL
   end
@@ -50,10 +50,11 @@ class LongestStandingRecords < GroupedStatistic
           end
           .group_by { |result| result["event_id"] }
           .flat_map do |event_id, results|
-            results.each_cons(2) do |previous_record, new_record|
-              previous_record["days"] = new_record["competition_date"] - previous_record["competition_date"]
+            results.each do |result_1|
+              better_result = results.find { |result_2| result_2[type] < result_1[type] }
+              better_date = better_result ? better_result["competition_date"] : Date.today
+              result_1["days"] = better_date - result_1["competition_date"]
             end
-            results.last["days"] = Date.today - results.last["competition_date"]
             results
           end
           .map! do |result|
