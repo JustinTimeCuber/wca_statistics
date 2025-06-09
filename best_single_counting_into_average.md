@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on  4 June 2025*
+*Updated on  8 June 2025*
 
 
 ### Rubik's Cube
@@ -822,26 +822,26 @@
 | 78 | 2.67 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | [Wiltshire Spring 2025](https://www.worldcubeassociation.org/competitions/WiltshireSpring2025/results/by_person#2019MORG10) |
 | 79 | 2.67 | [Aaron Jake Wong](https://www.worldcubeassociation.org/persons/2021WONG02) | [PBs in Palisades Open 2025](https://www.worldcubeassociation.org/competitions/PBsinPalisadesOpen2025/results/by_person#2021WONG02) |
 | 80 | 2.67 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | [Nub Open Mission Viejo 2025](https://www.worldcubeassociation.org/competitions/NubOpenMissionViejoSpring2025/results/by_person#2021DUNA01) |
-| 81 | 2.67 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | [Cubing in Oak Creek 2024](https://www.worldcubeassociation.org/competitions/CubinginOakCreek2024/results/by_person#2022KAPU01) |
-| 82 | 2.68 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | [A New Year in Auckland 2025](https://www.worldcubeassociation.org/competitions/ANewYearinAuckland2025/results/by_person#2022GIBS04) |
-| 83 | 2.69 | [Alex Bohac](https://www.worldcubeassociation.org/persons/2018BOHA01) | [Cubing Westminster 2025](https://www.worldcubeassociation.org/competitions/CubinginSchoolWestminster2025/results/by_person#2018BOHA01) |
-| 84 | 2.69 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Cube4fun DW Lublin 2024](https://www.worldcubeassociation.org/competitions/Cube4funDWLublin2024/results/by_person#2021KASP01) |
+| 81 | 2.67 | [Fiona Bao](https://www.worldcubeassociation.org/persons/2022BAOF01) | [TJHSST Spring 2025](https://www.worldcubeassociation.org/competitions/TJHSSTSpring2025/results/by_person#2022BAOF01) |
+| 82 | 2.67 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | [Cubing in Oak Creek 2024](https://www.worldcubeassociation.org/competitions/CubinginOakCreek2024/results/by_person#2022KAPU01) |
+| 83 | 2.68 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | [A New Year in Auckland 2025](https://www.worldcubeassociation.org/competitions/ANewYearinAuckland2025/results/by_person#2022GIBS04) |
+| 84 | 2.69 | [Alex Bohac](https://www.worldcubeassociation.org/persons/2018BOHA01) | [Cubing Westminster 2025](https://www.worldcubeassociation.org/competitions/CubinginSchoolWestminster2025/results/by_person#2018BOHA01) |
 | 85 | 2.69 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Cube4fun DW Lublin 2024](https://www.worldcubeassociation.org/competitions/Cube4funDWLublin2024/results/by_person#2021KASP01) |
-| 86 | 2.69 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | [Minnesota Championship 2024](https://www.worldcubeassociation.org/competitions/MinnesotaChampionship2024/results/by_person#2022KAPU01) |
-| 87 | 2.70 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) | [Manchester Pyraminx Day 2024](https://www.worldcubeassociation.org/competitions/ManchesterPyraminxDay2024/results/by_person#2022DUNN03) |
-| 88 | 2.70 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) | [Crewe Spring 2025](https://www.worldcubeassociation.org/competitions/CreweSpring2025/results/by_person#2022DUNN03) |
-| 89 | 2.71 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) | [Energy Cube Tomaszów 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2025/results/by_person#2020REJD01) |
-| 90 | 2.71 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | [UCSD Fall 2024](https://www.worldcubeassociation.org/competitions/UCSDFall2024/results/by_person#2021DUNA01) |
-| 91 | 2.72 | [Drake Denton Richard](https://www.worldcubeassociation.org/persons/2018RICH05) | [North Carolina Championship 2025](https://www.worldcubeassociation.org/competitions/NorthCarolinaChampionship2025/results/by_person#2018RICH05) |
-| 92 | 2.72 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | [Heartland Championship 2024](https://www.worldcubeassociation.org/competitions/HeartlandChampionship2024/results/by_person#2022KAPU01) |
-| 93 | 2.72 | [Zoei Principe](https://www.worldcubeassociation.org/persons/2022PRIN09) | [Quezon City Cubing Sides 2025](https://www.worldcubeassociation.org/competitions/QuezonCityCubingSides2025/results/by_person#2022PRIN09) |
-| 94 | 2.72 | [Alessandro Diomampo](https://www.worldcubeassociation.org/persons/2023DIOM01) | [BASC 66 - Belmont 2024](https://www.worldcubeassociation.org/competitions/BASC66Belmont2024/results/by_person#2023DIOM01) |
-| 95 | 2.73 | [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) | [Cubing in Oak Creek 2024](https://www.worldcubeassociation.org/competitions/CubinginOakCreek2024/results/by_person#2018THOM29) |
-| 96 | 2.73 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | [Cube4fun Biała Rawska 2025](https://www.worldcubeassociation.org/competitions/Cube4funBialaRawska2025/results/by_person#2022STOJ03) |
-| 97 | 2.73 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | [CFL Koluszki 2025](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueKoluszki2025/results/by_person#2022STOJ03) |
-| 98 | 2.73 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | [Rosemount Side Events 2024](https://www.worldcubeassociation.org/competitions/RosemountSideEvents2024/results/by_person#2022KAPU01) |
-| 99 | 2.74 | [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) | [Racing Kane 2025](https://www.worldcubeassociation.org/competitions/RacingKane2025/results/by_person#2018THOM29) |
-| 100 | 2.74 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | [UCSB Cubing 2024](https://www.worldcubeassociation.org/competitions/UCSBCubing2024/results/by_person#2021DUNA01) |
+| 86 | 2.69 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Cube4fun DW Lublin 2024](https://www.worldcubeassociation.org/competitions/Cube4funDWLublin2024/results/by_person#2021KASP01) |
+| 87 | 2.69 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | [Minnesota Championship 2024](https://www.worldcubeassociation.org/competitions/MinnesotaChampionship2024/results/by_person#2022KAPU01) |
+| 88 | 2.70 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) | [Manchester Pyraminx Day 2024](https://www.worldcubeassociation.org/competitions/ManchesterPyraminxDay2024/results/by_person#2022DUNN03) |
+| 89 | 2.70 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) | [Crewe Spring 2025](https://www.worldcubeassociation.org/competitions/CreweSpring2025/results/by_person#2022DUNN03) |
+| 90 | 2.71 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) | [Energy Cube Tomaszów 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2025/results/by_person#2020REJD01) |
+| 91 | 2.71 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | [UCSD Fall 2024](https://www.worldcubeassociation.org/competitions/UCSDFall2024/results/by_person#2021DUNA01) |
+| 92 | 2.72 | [Drake Denton Richard](https://www.worldcubeassociation.org/persons/2018RICH05) | [North Carolina Championship 2025](https://www.worldcubeassociation.org/competitions/NorthCarolinaChampionship2025/results/by_person#2018RICH05) |
+| 93 | 2.72 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | [Heartland Championship 2024](https://www.worldcubeassociation.org/competitions/HeartlandChampionship2024/results/by_person#2022KAPU01) |
+| 94 | 2.72 | [Zoei Principe](https://www.worldcubeassociation.org/persons/2022PRIN09) | [Quezon City Cubing Sides 2025](https://www.worldcubeassociation.org/competitions/QuezonCityCubingSides2025/results/by_person#2022PRIN09) |
+| 95 | 2.72 | [Alessandro Diomampo](https://www.worldcubeassociation.org/persons/2023DIOM01) | [BASC 66 - Belmont 2024](https://www.worldcubeassociation.org/competitions/BASC66Belmont2024/results/by_person#2023DIOM01) |
+| 96 | 2.73 | [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) | [Cubing in Oak Creek 2024](https://www.worldcubeassociation.org/competitions/CubinginOakCreek2024/results/by_person#2018THOM29) |
+| 97 | 2.73 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | [Cube4fun Biała Rawska 2025](https://www.worldcubeassociation.org/competitions/Cube4funBialaRawska2025/results/by_person#2022STOJ03) |
+| 98 | 2.73 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | [CFL Koluszki 2025](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueKoluszki2025/results/by_person#2022STOJ03) |
+| 99 | 2.73 | [Volodymyr Kapustianskyi](https://www.worldcubeassociation.org/persons/2022KAPU01) | [Rosemount Side Events 2024](https://www.worldcubeassociation.org/competitions/RosemountSideEvents2024/results/by_person#2022KAPU01) |
+| 100 | 2.74 | [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) | [Racing Kane 2025](https://www.worldcubeassociation.org/competitions/RacingKane2025/results/by_person#2018THOM29) |
 
 ### Skewb
 

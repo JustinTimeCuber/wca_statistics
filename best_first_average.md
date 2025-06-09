@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on  4 June 2025*
+*Updated on  8 June 2025*
 
 
 ### Rubik's Cube
@@ -618,21 +618,21 @@
 | 83 | 3:08.86 | [Daniel Rush](https://www.worldcubeassociation.org/persons/2018RUSH01) |
 | 84 | 3:08.87 | [Yijun Yin (尹伊珺)](https://www.worldcubeassociation.org/persons/2023YINY02) |
 | 85 | 3:08.91 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) |
-| 86 | 3:09.35 | [Jinge Li (李金戈)](https://www.worldcubeassociation.org/persons/2021LIJI02) |
-| 87 | 3:09.72 | [Tianze Xu (徐天泽)](https://www.worldcubeassociation.org/persons/2015XUTI01) |
-| 88 | 3:09.80 | [Balder Henke](https://www.worldcubeassociation.org/persons/2019HENK01) |
-| 89 | 3:10.10 | [Jiachuan Ye (叶佳川)](https://www.worldcubeassociation.org/persons/2021YEJI01) |
-| 90 | 3:10.25 | [Gian Carlo C. Catambay](https://www.worldcubeassociation.org/persons/2019CATA02) |
-| 91 | 3:10.34 | [Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68) |
-| 92 | 3:10.34 | [Seungyong Han (한승용)](https://www.worldcubeassociation.org/persons/2021HANS08) |
-| 93 | 3:10.55 | [Nathaniel Kristanto](https://www.worldcubeassociation.org/persons/2022KRIS31) |
-| 94 | 3:10.58 | [Kohdai Kusatani (草谷幸大)](https://www.worldcubeassociation.org/persons/2017KUSA01) |
-| 95 | 3:10.67 | [Benjamin Wei](https://www.worldcubeassociation.org/persons/2015WEIB03) |
-| 96 | 3:10.71 | [Chang Guo (郭畅)](https://www.worldcubeassociation.org/persons/2024GUOC01) |
-| 97 | 3:10.73 | [Qingze Li (李庆泽)](https://www.worldcubeassociation.org/persons/2016LIQI03) |
-| 98 | 3:10.89 | [Julian Bürgi](https://www.worldcubeassociation.org/persons/2018BURG15) |
-| 99 | 3:11.11 | [Fahmi Aulia Rachman](https://www.worldcubeassociation.org/persons/2016RACH01) |
-| 100 | 3:11.40 | [Ang Chin Xiang](https://www.worldcubeassociation.org/persons/2016XIAN01) |
+| 86 | 3:09.11 | [Dov Harazi](https://www.worldcubeassociation.org/persons/2024HARA02) |
+| 87 | 3:09.35 | [Jinge Li (李金戈)](https://www.worldcubeassociation.org/persons/2021LIJI02) |
+| 88 | 3:09.72 | [Tianze Xu (徐天泽)](https://www.worldcubeassociation.org/persons/2015XUTI01) |
+| 89 | 3:09.80 | [Balder Henke](https://www.worldcubeassociation.org/persons/2019HENK01) |
+| 90 | 3:10.10 | [Jiachuan Ye (叶佳川)](https://www.worldcubeassociation.org/persons/2021YEJI01) |
+| 91 | 3:10.25 | [Gian Carlo C. Catambay](https://www.worldcubeassociation.org/persons/2019CATA02) |
+| 92 | 3:10.34 | [Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68) |
+| 93 | 3:10.34 | [Seungyong Han (한승용)](https://www.worldcubeassociation.org/persons/2021HANS08) |
+| 94 | 3:10.55 | [Nathaniel Kristanto](https://www.worldcubeassociation.org/persons/2022KRIS31) |
+| 95 | 3:10.58 | [Kohdai Kusatani (草谷幸大)](https://www.worldcubeassociation.org/persons/2017KUSA01) |
+| 96 | 3:10.67 | [Benjamin Wei](https://www.worldcubeassociation.org/persons/2015WEIB03) |
+| 97 | 3:10.71 | [Chang Guo (郭畅)](https://www.worldcubeassociation.org/persons/2024GUOC01) |
+| 98 | 3:10.73 | [Qingze Li (李庆泽)](https://www.worldcubeassociation.org/persons/2016LIQI03) |
+| 99 | 3:10.89 | [Julian Bürgi](https://www.worldcubeassociation.org/persons/2018BURG15) |
+| 100 | 3:11.11 | [Fahmi Aulia Rachman](https://www.worldcubeassociation.org/persons/2016RACH01) |
 
 ### 3x3x3 Blindfolded
 
@@ -745,8 +745,8 @@
 | :--- | ---: | :--- |
 | 1 | 24.00 | [Yuto Morishita (森下優斗)](https://www.worldcubeassociation.org/persons/2023SHIK03) |
 | 2 | 24.67 | [Yuki Sako](https://www.worldcubeassociation.org/persons/2023SAKO02) |
-| 3 | 25.67 | [Shota Wakabayashi (若林翔太)](https://www.worldcubeassociation.org/persons/2023KADO01) |
-| 4 | 25.67 | [Kazuya Ishii (石井一也)](https://www.worldcubeassociation.org/persons/2019ISHI07) |
+| 3 | 25.67 | [Kazuya Ishii (石井一也)](https://www.worldcubeassociation.org/persons/2019ISHI07) |
+| 4 | 25.67 | [Shota Wakabayashi (若林翔太)](https://www.worldcubeassociation.org/persons/2023KADO01) |
 | 5 | 25.67 | [Joseph Guzman](https://www.worldcubeassociation.org/persons/2015GUZM03) |
 | 6 | 26.67 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
 | 7 | 27.00 | [Wu Chun Yin (胡俊賢)](https://www.worldcubeassociation.org/persons/2012YINW01) |

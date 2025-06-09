@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  4 June 2025*
+*Updated on  8 June 2025*
 
 
 ### Rubik's Cube
@@ -1351,23 +1351,23 @@
 | 81 | 0.20 | [Szabolcs Szántai](https://www.worldcubeassociation.org/persons/2016SZAN01) | 8.55 | 8.75 | [Lužice No-Cutoff Special 2023](https://www.worldcubeassociation.org/competitions/LuziceNoCutoffSpecial2023/results/by_person#2016SZAN01) |
 | 82 | 0.20 | [Tang-Kai Huang (黃堂愷)](https://www.worldcubeassociation.org/persons/2017HUAT03) | 9.07 | 9.27 | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/by_person#2017HUAT03) |
 | 83 | 0.20 | [Javier López Fernández](https://www.worldcubeassociation.org/persons/2016FERN07) | 9.15 | 9.35 | [WCA Euro 2018](https://www.worldcubeassociation.org/competitions/Euro2018/results/by_person#2016FERN07) |
-| 84 | 0.20 | [Ashtyn Rummel](https://www.worldcubeassociation.org/persons/2018RUMM01) | 13.51 | 13.71 | [Solving in Savannah 2025](https://www.worldcubeassociation.org/competitions/SolvinginSavannah2025/results/by_person#2018RUMM01) |
-| 85 | 0.21 | [Adrien Auvray Matyn](https://www.worldcubeassociation.org/persons/2018MATY02) | 6.94 | 7.15 | [NZSIC 2022](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2022/results/by_person#2018MATY02) |
-| 86 | 0.21 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 7.77 | 7.98 | [LLS II 2019](https://www.worldcubeassociation.org/competitions/LLSII2019/results/by_person#2013KRAS02) |
-| 87 | 0.21 | [Alejandro Nicolay](https://www.worldcubeassociation.org/persons/2017NICO01) | 9.43 | 9.64 | [Bilbao Open 2018](https://www.worldcubeassociation.org/competitions/BilbaoOpen2018/results/by_person#2017NICO01) |
-| 88 | 0.21 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) | 10.26 | 10.47 | [Hobart Hoedown 2019](https://www.worldcubeassociation.org/competitions/HobartHoedown2019/results/by_person#2016JONE04) |
-| 89 | 0.21 | [Joshua Broderick Phillips](https://www.worldcubeassociation.org/persons/2014PHIL02) | 11.34 | 11.55 | [Boston University Winter 2019](https://www.worldcubeassociation.org/competitions/BUWinter2019/results/by_person#2014PHIL02) |
-| 90 | 0.21 | [Jason Lee](https://www.worldcubeassociation.org/persons/2015LEEJ12) | 12.05 | 12.26 | [Austin Spring Open 2025](https://www.worldcubeassociation.org/competitions/AustinSpringOpen2025/results/by_person#2015LEEJ12) |
-| 91 | 0.21 | [Bartosz Miduch](https://www.worldcubeassociation.org/persons/2019MIDU01) | 17.49 | 17.70 | [LLS IV Świdnik 2021](https://www.worldcubeassociation.org/competitions/LLSIVSwidnik2021/results/by_person#2019MIDU01) |
-| 92 | 0.21 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | 17.99 | 18.20 | [Żory Open 2025](https://www.worldcubeassociation.org/competitions/ZoryOpen2025/results/by_person#2017BRZA01) |
-| 93 | 0.22 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | 5.02 | 5.24 | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/by_person#2017AGGA01) |
-| 94 | 0.22 | [Dorian Chan](https://www.worldcubeassociation.org/persons/2023DORI01) | 10.09 | 10.31 | [Bolton Spring 2024](https://www.worldcubeassociation.org/competitions/BoltonSpring2024/results/by_person#2023DORI01) |
-| 95 | 0.22 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 11.64 | 11.86 | [Midlands Mix-up 2024](https://www.worldcubeassociation.org/competitions/MidlandsMixup2024/results/by_person#2019NATS02) |
-| 96 | 0.22 | [Chuan He (何川)](https://www.worldcubeassociation.org/persons/2018HECH05) | 12.75 | 12.97 | [Special Puzzles Guangzhou 2019](https://www.worldcubeassociation.org/competitions/SpecialPuzzlesinGuangzhou2019/results/by_person#2018HECH05) |
-| 97 | 0.22 | [Ash Black](https://www.worldcubeassociation.org/persons/2017BLAC06) | 13.13 | 13.35 | [Central Washington Evens 2025](https://www.worldcubeassociation.org/competitions/CentralWashingtonEvens2025/results/by_person#2017BLAC06) |
-| 98 | 0.22 | [Anders Barhaugen](https://www.worldcubeassociation.org/persons/2015BARH01) | 15.10 | 15.32 | [Flatåsen Open 2024](https://www.worldcubeassociation.org/competitions/FlatasenOpen2024/results/by_person#2015BARH01) |
-| 99 | 0.22 | [Grzegorz Szumigaj](https://www.worldcubeassociation.org/persons/2013SZUM01) | 21.67 | 21.89 | [Big Cube Krasnik 2014](https://www.worldcubeassociation.org/competitions/BigCubeKrasnik2014/results/by_person#2013SZUM01) |
-| 100 | 0.22 | [Alex Moscibroda](https://www.worldcubeassociation.org/persons/2020MOSC01) | 26.02 | 26.24 | [SnoCo Veterans Day Weekend 2023](https://www.worldcubeassociation.org/competitions/SnoCoVeteransDayWeekend2023/results/by_person#2020MOSC01) |
+| 84 | 0.20 | [Elliot Pimentel](https://www.worldcubeassociation.org/persons/2024PIME02) | 10.54 | 10.74 | [Utah Speedcubing Pride 2025](https://www.worldcubeassociation.org/competitions/UtahSpeedcubingPride2025/results/by_person#2024PIME02) |
+| 85 | 0.20 | [Ashtyn Rummel](https://www.worldcubeassociation.org/persons/2018RUMM01) | 13.51 | 13.71 | [Solving in Savannah 2025](https://www.worldcubeassociation.org/competitions/SolvinginSavannah2025/results/by_person#2018RUMM01) |
+| 86 | 0.21 | [Adrien Auvray Matyn](https://www.worldcubeassociation.org/persons/2018MATY02) | 6.94 | 7.15 | [NZSIC 2022](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2022/results/by_person#2018MATY02) |
+| 87 | 0.21 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 7.77 | 7.98 | [LLS II 2019](https://www.worldcubeassociation.org/competitions/LLSII2019/results/by_person#2013KRAS02) |
+| 88 | 0.21 | [Alejandro Nicolay](https://www.worldcubeassociation.org/persons/2017NICO01) | 9.43 | 9.64 | [Bilbao Open 2018](https://www.worldcubeassociation.org/competitions/BilbaoOpen2018/results/by_person#2017NICO01) |
+| 89 | 0.21 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) | 10.26 | 10.47 | [Hobart Hoedown 2019](https://www.worldcubeassociation.org/competitions/HobartHoedown2019/results/by_person#2016JONE04) |
+| 90 | 0.21 | [Joshua Broderick Phillips](https://www.worldcubeassociation.org/persons/2014PHIL02) | 11.34 | 11.55 | [Boston University Winter 2019](https://www.worldcubeassociation.org/competitions/BUWinter2019/results/by_person#2014PHIL02) |
+| 91 | 0.21 | [Jason Lee](https://www.worldcubeassociation.org/persons/2015LEEJ12) | 12.05 | 12.26 | [Austin Spring Open 2025](https://www.worldcubeassociation.org/competitions/AustinSpringOpen2025/results/by_person#2015LEEJ12) |
+| 92 | 0.21 | [Bartosz Miduch](https://www.worldcubeassociation.org/persons/2019MIDU01) | 17.49 | 17.70 | [LLS IV Świdnik 2021](https://www.worldcubeassociation.org/competitions/LLSIVSwidnik2021/results/by_person#2019MIDU01) |
+| 93 | 0.21 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | 17.99 | 18.20 | [Żory Open 2025](https://www.worldcubeassociation.org/competitions/ZoryOpen2025/results/by_person#2017BRZA01) |
+| 94 | 0.22 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | 5.02 | 5.24 | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/by_person#2017AGGA01) |
+| 95 | 0.22 | [Dorian Chan](https://www.worldcubeassociation.org/persons/2023DORI01) | 10.09 | 10.31 | [Bolton Spring 2024](https://www.worldcubeassociation.org/competitions/BoltonSpring2024/results/by_person#2023DORI01) |
+| 96 | 0.22 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | 11.64 | 11.86 | [Midlands Mix-up 2024](https://www.worldcubeassociation.org/competitions/MidlandsMixup2024/results/by_person#2019NATS02) |
+| 97 | 0.22 | [Chuan He (何川)](https://www.worldcubeassociation.org/persons/2018HECH05) | 12.75 | 12.97 | [Special Puzzles Guangzhou 2019](https://www.worldcubeassociation.org/competitions/SpecialPuzzlesinGuangzhou2019/results/by_person#2018HECH05) |
+| 98 | 0.22 | [Ash Black](https://www.worldcubeassociation.org/persons/2017BLAC06) | 13.13 | 13.35 | [Central Washington Evens 2025](https://www.worldcubeassociation.org/competitions/CentralWashingtonEvens2025/results/by_person#2017BLAC06) |
+| 99 | 0.22 | [Anders Barhaugen](https://www.worldcubeassociation.org/persons/2015BARH01) | 15.10 | 15.32 | [Flatåsen Open 2024](https://www.worldcubeassociation.org/competitions/FlatasenOpen2024/results/by_person#2015BARH01) |
+| 100 | 0.22 | [Grzegorz Szumigaj](https://www.worldcubeassociation.org/persons/2013SZUM01) | 21.67 | 21.89 | [Big Cube Krasnik 2014](https://www.worldcubeassociation.org/competitions/BigCubeKrasnik2014/results/by_person#2013SZUM01) |
 
 ### 4x4x4 Blindfolded
 
