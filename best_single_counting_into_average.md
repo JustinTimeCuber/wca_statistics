@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on  8 June 2025*
+*Updated on 10 June 2025*
 
 
 ### Rubik's Cube
@@ -496,37 +496,37 @@
 | 67 | 8.18 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Wakefield Spring 2022](https://www.worldcubeassociation.org/competitions/WakefieldSpring2022/results/by_person#2012PONC02) |
 | 68 | 8.19 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Marshall Cubing Spring 2023](https://www.worldcubeassociation.org/competitions/MarshallCubingSpring2023/results/by_person#2012PARK03) |
 | 69 | 8.19 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | [Cube4fun Żyrardów 2024](https://www.worldcubeassociation.org/competitions/Cube4funCEZyrardow2024/results/by_person#2019KARP03) |
-| 70 | 8.21 | [Zhen Chen (陈震)](https://www.worldcubeassociation.org/persons/2023CHEN30) | [Luoyang Spring 2025](https://www.worldcubeassociation.org/competitions/LuoyangSpring2025/results/by_person#2023CHEN30) |
-| 71 | 8.22 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Nub Open Mission Viejo 2023](https://www.worldcubeassociation.org/competitions/NubOpenMissionViejo2023/results/by_person#2012PARK03) |
-| 72 | 8.23 | [Fahmi Aulia Rachman](https://www.worldcubeassociation.org/persons/2016RACH01) | [Karawang Open 2024](https://www.worldcubeassociation.org/competitions/KarawangOpen2024/results/by_person#2016RACH01) |
-| 73 | 8.23 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | [New Zealand Nationals 2024](https://www.worldcubeassociation.org/competitions/NewZealandNationals2024/results/by_person#2019RAMO05) |
-| 74 | 8.23 | [Magnus Lensch](https://www.worldcubeassociation.org/persons/2019LENS01) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/by_person#2019LENS01) |
-| 75 | 8.23 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025/results/by_person#2020ARCH01) |
-| 76 | 8.24 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Miami Valley Mini 2025](https://www.worldcubeassociation.org/competitions/MiamiValleyMini2025/results/by_person#2017GARR05) |
-| 77 | 8.24 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | [WCA Oceanic Championship 2024](https://www.worldcubeassociation.org/competitions/OC2024/results/by_person#2019RAMO05) |
-| 78 | 8.24 | [Dhruva Sai Meruva](https://www.worldcubeassociation.org/persons/2021MERU01) | [Swisscubing Cup III 2024](https://www.worldcubeassociation.org/competitions/SwisscubingCupIII2024/results/by_person#2021MERU01) |
-| 79 | 8.25 | [Dhruva Sai Meruva](https://www.worldcubeassociation.org/persons/2021MERU01) | [Ticino: Back to One Handed 2024](https://www.worldcubeassociation.org/competitions/TicinoBacktoOneHanded2024/results/by_person#2021MERU01) |
-| 80 | 8.26 | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) | [West Visayas Championship 2023](https://www.worldcubeassociation.org/competitions/WestVisayasChampionship2023/results/by_person#2017VILL41) |
-| 81 | 8.27 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/by_person#2012PONC02) |
-| 82 | 8.27 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Gem City First in Flight 2024](https://www.worldcubeassociation.org/competitions/GemCityFirstinFlight2024/results/by_person#2017GARR05) |
-| 83 | 8.27 | [Zhen Chen (陈震)](https://www.worldcubeassociation.org/persons/2023CHEN30) | [Xi'an Cherry Blossom 2025](https://www.worldcubeassociation.org/competitions/XianCherryBlossom2025/results/by_person#2023CHEN30) |
-| 84 | 8.29 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | [GLS II 2025](https://www.worldcubeassociation.org/competitions/GLSII2025/results/by_person#2022SZUB01) |
-| 85 | 8.29 | [Crimson Arradaza](https://www.worldcubeassociation.org/persons/2023ARRA01) | [Ayat-Ti Cubing Elyu Fest 2024](https://www.worldcubeassociation.org/competitions/AyatTiCubingElyuFest2024/results/by_person#2023ARRA01) |
-| 86 | 8.30 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Horsham Winter 2018](https://www.worldcubeassociation.org/competitions/HorshamWinter2018/results/by_person#2009ZEMD01) |
-| 87 | 8.31 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Nub Open Mission Viejo 2023](https://www.worldcubeassociation.org/competitions/NubOpenMissionViejo2023/results/by_person#2012PARK03) |
-| 88 | 8.31 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Rubik's German Nationals 2024](https://www.worldcubeassociation.org/competitions/RubiksGermanNationals2024/results/by_person#2012PONC02) |
-| 89 | 8.31 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | [Queenspark O'Clock 2025](https://www.worldcubeassociation.org/competitions/QueensparkOClock2025/results/by_person#2019RAMO05) |
-| 90 | 8.32 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Honolulu Liʻiliʻi 2024](https://www.worldcubeassociation.org/competitions/HonoluluLiiliiaIkeMaka2024/results/by_person#2017GARR05) |
-| 91 | 8.32 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Crewe Favourites 2025](https://www.worldcubeassociation.org/competitions/CreweFavourites2025/results/by_person#2020ARCH01) |
-| 92 | 8.32 | [Eden Robinson-Rechavi](https://www.worldcubeassociation.org/persons/2022ROBI05) | [Ticino: Back to One Handed 2024](https://www.worldcubeassociation.org/competitions/TicinoBacktoOneHanded2024/results/by_person#2022ROBI05) |
-| 93 | 8.33 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Ohio State Winter 2025](https://www.worldcubeassociation.org/competitions/OhioStateWinter2025/results/by_person#2017GARR05) |
-| 94 | 8.33 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | [Varaždin Open 2024](https://www.worldcubeassociation.org/competitions/VarazdinOpen2024/results/by_person#2017TSVE02) |
-| 95 | 8.33 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | [Lyttelton Summer 2024](https://www.worldcubeassociation.org/competitions/LytteltonSummer2024/results/by_person#2019RAMO05) |
-| 96 | 8.33 | [Magnus Lensch](https://www.worldcubeassociation.org/persons/2019LENS01) | [Rhein-Neckar PBJ 2024](https://www.worldcubeassociation.org/competitions/RheinNeckarPBJ2024/results/by_person#2019LENS01) |
-| 97 | 8.33 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2020ARCH01) |
-| 98 | 8.34 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Southeast Championship 2022](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2022/results/by_person#2012PARK03) |
-| 99 | 8.34 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Swoop in and Solve Oxford 2023](https://www.worldcubeassociation.org/competitions/SwoopinandSolveOxford2023/results/by_person#2017GARR05) |
-| 100 | 8.34 | [Zhen Chen (陈震)](https://www.worldcubeassociation.org/persons/2023CHEN30) | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/by_person#2023CHEN30) |
+| 70 | 8.20 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Minxville Indiana 2025](https://www.worldcubeassociation.org/competitions/MinxvilleIndiana2025/results/by_person#2017GARR05) |
+| 71 | 8.21 | [Zhen Chen (陈震)](https://www.worldcubeassociation.org/persons/2023CHEN30) | [Luoyang Spring 2025](https://www.worldcubeassociation.org/competitions/LuoyangSpring2025/results/by_person#2023CHEN30) |
+| 72 | 8.22 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Nub Open Mission Viejo 2023](https://www.worldcubeassociation.org/competitions/NubOpenMissionViejo2023/results/by_person#2012PARK03) |
+| 73 | 8.23 | [Fahmi Aulia Rachman](https://www.worldcubeassociation.org/persons/2016RACH01) | [Karawang Open 2024](https://www.worldcubeassociation.org/competitions/KarawangOpen2024/results/by_person#2016RACH01) |
+| 74 | 8.23 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | [New Zealand Nationals 2024](https://www.worldcubeassociation.org/competitions/NewZealandNationals2024/results/by_person#2019RAMO05) |
+| 75 | 8.23 | [Magnus Lensch](https://www.worldcubeassociation.org/persons/2019LENS01) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/by_person#2019LENS01) |
+| 76 | 8.23 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025/results/by_person#2020ARCH01) |
+| 77 | 8.24 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Miami Valley Mini 2025](https://www.worldcubeassociation.org/competitions/MiamiValleyMini2025/results/by_person#2017GARR05) |
+| 78 | 8.24 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | [WCA Oceanic Championship 2024](https://www.worldcubeassociation.org/competitions/OC2024/results/by_person#2019RAMO05) |
+| 79 | 8.24 | [Dhruva Sai Meruva](https://www.worldcubeassociation.org/persons/2021MERU01) | [Swisscubing Cup III 2024](https://www.worldcubeassociation.org/competitions/SwisscubingCupIII2024/results/by_person#2021MERU01) |
+| 80 | 8.25 | [Dhruva Sai Meruva](https://www.worldcubeassociation.org/persons/2021MERU01) | [Ticino: Back to One Handed 2024](https://www.worldcubeassociation.org/competitions/TicinoBacktoOneHanded2024/results/by_person#2021MERU01) |
+| 81 | 8.26 | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) | [West Visayas Championship 2023](https://www.worldcubeassociation.org/competitions/WestVisayasChampionship2023/results/by_person#2017VILL41) |
+| 82 | 8.27 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/by_person#2012PONC02) |
+| 83 | 8.27 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | [Barby Cube 2025](https://www.worldcubeassociation.org/competitions/BarbyCube2025/results/by_person#2014SEBA01) |
+| 84 | 8.27 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Gem City First in Flight 2024](https://www.worldcubeassociation.org/competitions/GemCityFirstinFlight2024/results/by_person#2017GARR05) |
+| 85 | 8.27 | [Zhen Chen (陈震)](https://www.worldcubeassociation.org/persons/2023CHEN30) | [Xi'an Cherry Blossom 2025](https://www.worldcubeassociation.org/competitions/XianCherryBlossom2025/results/by_person#2023CHEN30) |
+| 86 | 8.29 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | [GLS II 2025](https://www.worldcubeassociation.org/competitions/GLSII2025/results/by_person#2022SZUB01) |
+| 87 | 8.29 | [Crimson Arradaza](https://www.worldcubeassociation.org/persons/2023ARRA01) | [Ayat-Ti Cubing Elyu Fest 2024](https://www.worldcubeassociation.org/competitions/AyatTiCubingElyuFest2024/results/by_person#2023ARRA01) |
+| 88 | 8.30 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Horsham Winter 2018](https://www.worldcubeassociation.org/competitions/HorshamWinter2018/results/by_person#2009ZEMD01) |
+| 89 | 8.31 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Nub Open Mission Viejo 2023](https://www.worldcubeassociation.org/competitions/NubOpenMissionViejo2023/results/by_person#2012PARK03) |
+| 90 | 8.31 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [Rubik's German Nationals 2024](https://www.worldcubeassociation.org/competitions/RubiksGermanNationals2024/results/by_person#2012PONC02) |
+| 91 | 8.31 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | [Queenspark O'Clock 2025](https://www.worldcubeassociation.org/competitions/QueensparkOClock2025/results/by_person#2019RAMO05) |
+| 92 | 8.32 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Honolulu Liʻiliʻi 2024](https://www.worldcubeassociation.org/competitions/HonoluluLiiliiaIkeMaka2024/results/by_person#2017GARR05) |
+| 93 | 8.32 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Crewe Favourites 2025](https://www.worldcubeassociation.org/competitions/CreweFavourites2025/results/by_person#2020ARCH01) |
+| 94 | 8.32 | [Eden Robinson-Rechavi](https://www.worldcubeassociation.org/persons/2022ROBI05) | [Ticino: Back to One Handed 2024](https://www.worldcubeassociation.org/competitions/TicinoBacktoOneHanded2024/results/by_person#2022ROBI05) |
+| 95 | 8.33 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Ohio State Winter 2025](https://www.worldcubeassociation.org/competitions/OhioStateWinter2025/results/by_person#2017GARR05) |
+| 96 | 8.33 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | [Varaždin Open 2024](https://www.worldcubeassociation.org/competitions/VarazdinOpen2024/results/by_person#2017TSVE02) |
+| 97 | 8.33 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | [Lyttelton Summer 2024](https://www.worldcubeassociation.org/competitions/LytteltonSummer2024/results/by_person#2019RAMO05) |
+| 98 | 8.33 | [Magnus Lensch](https://www.worldcubeassociation.org/persons/2019LENS01) | [Rhein-Neckar PBJ 2024](https://www.worldcubeassociation.org/competitions/RheinNeckarPBJ2024/results/by_person#2019LENS01) |
+| 99 | 8.33 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2020ARCH01) |
+| 100 | 8.34 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Southeast Championship 2022](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2022/results/by_person#2012PARK03) |
 
 ### Megaminx
 

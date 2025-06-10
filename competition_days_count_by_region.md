@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on  8 June 2025*
+*Updated on 10 June 2025*
 
 
 ### World
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.46 | World | 15080 |
+| 1 | 1.46 | World | 15088 |
 
 ### Continents
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.72 | Europe | 4870 |
-| 2 | 1.48 | Oceania | 662 |
-| 3 | 1.47 | South America | 1890 |
-| 4 | 1.41 | Asia | 3141 |
+| 1 | 1.72 | Europe | 4871 |
+| 2 | 1.48 | Oceania | 664 |
+| 3 | 1.47 | South America | 1891 |
+| 4 | 1.41 | Asia | 3142 |
 | 5 | 1.32 | Africa | 186 |
-| 6 | 1.20 | North America | 4331 |
+| 6 | 1.20 | North America | 4334 |
 
 ### Countries
 
@@ -41,7 +41,7 @@
 | 15 | 1.85 | Serbia | 27 |
 | 16 | 1.85 | Thailand | 80 |
 | 17 | 1.85 | Sri Lanka | 13 |
-| 18 | 1.85 | United Kingdom | 298 |
+| 18 | 1.85 | United Kingdom | 299 |
 | 19 | 1.84 | Croatia | 32 |
 | 20 | 1.83 | Palestine | 6 |
 | 21 | 1.83 | Finland | 163 |
@@ -82,8 +82,8 @@
 | 56 | 1.50 | Montenegro | 6 |
 | 57 | 1.48 | Peru | 237 |
 | 58 | 1.48 | Latvia | 40 |
-| 59 | 1.44 | Jordan | 18 |
-| 60 | 1.44 | Australia | 510 |
+| 59 | 1.45 | Australia | 512 |
+| 60 | 1.44 | Jordan | 18 |
 | 61 | 1.43 | Israel | 69 |
 | 62 | 1.43 | Nigeria | 7 |
 | 63 | 1.42 | Costa Rica | 31 |
@@ -100,7 +100,7 @@
 | 74 | 1.31 | Republic of Korea | 117 |
 | 75 | 1.30 | Bahrain | 10 |
 | 76 | 1.30 | Morocco | 10 |
-| 77 | 1.30 | Colombia | 425 |
+| 77 | 1.30 | Colombia | 426 |
 | 78 | 1.29 | Philippines | 356 |
 | 79 | 1.29 | Uruguay | 59 |
 | 80 | 1.29 | Andorra | 7 |
@@ -111,14 +111,14 @@
 | 85 | 1.25 | Chile | 151 |
 | 86 | 1.25 | United Arab Emirates | 20 |
 | 87 | 1.25 | Venezuela | 84 |
-| 88 | 1.25 | China | 678 |
+| 88 | 1.25 | China | 679 |
 | 89 | 1.22 | Singapore | 89 |
 | 90 | 1.22 | El Salvador | 37 |
 | 91 | 1.19 | Japan | 244 |
 | 92 | 1.18 | Armenia | 11 |
 | 93 | 1.17 | Canada | 438 |
 | 94 | 1.17 | Tunisia | 24 |
-| 95 | 1.16 | United States | 3472 |
+| 95 | 1.16 | United States | 3475 |
 | 96 | 1.15 | Mongolia | 47 |
 | 97 | 1.13 | Azerbaijan | 46 |
 | 98 | 1.11 | Honduras | 18 |
