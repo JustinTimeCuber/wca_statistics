@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on 13 June 2025*
+*Updated on 16 June 2025*
 
 
 ### World
@@ -430,6 +430,7 @@
 | 204 | 4 | [Daniel Rush](https://www.worldcubeassociation.org/persons/2018RUSH01) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/by_person#2018RUSH01) |
 | 205 | 4 | [Daniel Rush](https://www.worldcubeassociation.org/persons/2018RUSH01) | [WCA African Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAfricanChampionship2024/results/by_person#2018RUSH01) |
 | 206 | 4 | [Daniel Rush](https://www.worldcubeassociation.org/persons/2018RUSH01) | [CubingZA Nationals 2025](https://www.worldcubeassociation.org/competitions/CubingZANationals2025/results/by_person#2018RUSH01) |
+| 207 | 4 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [VIC Side State Championship 2025](https://www.worldcubeassociation.org/competitions/VICSideStateChampionship2025/results/by_person#2009ZEMD01) |
 
 ### National
 
