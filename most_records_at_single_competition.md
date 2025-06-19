@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on 16 June 2025*
+*Updated on 19 June 2025*
 
 
 ### World
@@ -219,6 +219,7 @@
 | 210 | 2 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Cube4fun Lublin on WEII 2024](https://www.worldcubeassociation.org/competitions/Cube4funLublinonWEII2024/results/by_person#2021KASP01) |
 | 211 | 2 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Nub Open Yucaipa 2024](https://www.worldcubeassociation.org/competitions/NubOpenYucaipa2024/results/by_person#2012PARK03) |
 | 212 | 2 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) | [Western Championship 2024](https://www.worldcubeassociation.org/competitions/WesternChampionship2024/results/by_person#2012PARK03) |
+| 213 | 2 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | [New York Multimate PBQ II 2025](https://www.worldcubeassociation.org/competitions/NewYorkMultimatePBQII2025/results/by_person#2016CHAP04) |
 
 ### Continental
 
