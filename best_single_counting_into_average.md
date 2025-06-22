@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 19 June 2025*
+*Updated on 22 June 2025*
 
 
 ### Rubik's Cube
@@ -1004,54 +1004,54 @@
 | 50 | 4.72 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [Southern Championship 2024](https://www.worldcubeassociation.org/competitions/SouthernChampionship2024/results/by_person#2019BAUM02) |
 | 51 | 4.76 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) | [Melbourne Summer 2023](https://www.worldcubeassociation.org/competitions/MelbourneSummer2023/results/by_person#2016EPST02) |
 | 52 | 4.76 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Worlds Warmup Hillsboro 2025](https://www.worldcubeassociation.org/competitions/WorldsWarmupHillsboro2025/results/by_person#2017AGGA01) |
-| 53 | 4.77 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Western Championship 2023](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2023/results/by_person#2017AGGA01) |
-| 54 | 4.77 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2018KHAN26) |
-| 55 | 4.78 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Aldergrove Clock Fest 2025](https://www.worldcubeassociation.org/competitions/AldergroveClockFest2025/results/by_person#2017AGGA01) |
-| 56 | 4.79 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [SnoCo Veterans Day Weekend 2023](https://www.worldcubeassociation.org/competitions/SnoCoVeteransDayWeekend2023/results/by_person#2017SIAU02) |
-| 57 | 4.79 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Central Washington Evens 2025](https://www.worldcubeassociation.org/competitions/CentralWashingtonEvens2025/results/by_person#2017AGGA01) |
-| 58 | 4.79 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [DFW Back to School 2024](https://www.worldcubeassociation.org/competitions/DFWBacktoSchool2024/results/by_person#2018KHAN26) |
-| 59 | 4.79 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [A Monday in Ashfield 2024](https://www.worldcubeassociation.org/competitions/AMondayinAshfield2024/results/by_person#2018KHAN26) |
-| 60 | 4.80 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Stumptown Summer 2023](https://www.worldcubeassociation.org/competitions/StumptownSummer2023/results/by_person#2017SIAU02) |
-| 61 | 4.80 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Olympia Classic 2024](https://www.worldcubeassociation.org/competitions/OlympiaClassic2024/results/by_person#2017AGGA01) |
-| 62 | 4.80 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [New-Cumberland County 2024](https://www.worldcubeassociation.org/competitions/NewCumberlandCounty2024/results/by_person#2018KHAN26) |
-| 63 | 4.80 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [DFW Cubing Summer 2024](https://www.worldcubeassociation.org/competitions/DFWCubingSummer2024/results/by_person#2019BAUM02) |
-| 64 | 4.81 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2017SIAU02) |
-| 65 | 4.81 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Worlds Warmup Hillsboro 2025](https://www.worldcubeassociation.org/competitions/WorldsWarmupHillsboro2025/results/by_person#2017AGGA01) |
-| 66 | 4.82 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [Etec Cubatão 2023](https://www.worldcubeassociation.org/competitions/EtecCubatao2023/results/by_person#2015CECC01) |
-| 67 | 4.82 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [Southern Championship 2024](https://www.worldcubeassociation.org/competitions/SouthernChampionship2024/results/by_person#2019BAUM02) |
-| 68 | 4.82 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [DFW Back to School 2024](https://www.worldcubeassociation.org/competitions/DFWBacktoSchool2024/results/by_person#2019BAUM02) |
-| 69 | 4.83 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | [Ackerman Spring 2024](https://www.worldcubeassociation.org/competitions/AckermanSpring2024/results/by_person#2013JOHN10) |
-| 70 | 4.83 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [Don't DNS Denton 2024](https://www.worldcubeassociation.org/competitions/DontDNSDenton2024/results/by_person#2019BAUM02) |
-| 71 | 4.83 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [DFW Cubing Fall 2024](https://www.worldcubeassociation.org/competitions/DFWCubingFall2024/results/by_person#2019BAUM02) |
-| 72 | 4.84 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | [Indiana Championship 2024](https://www.worldcubeassociation.org/competitions/IndianaChampionship2024/results/by_person#2013JOHN10) |
-| 73 | 4.84 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | [Naperville Winter 2025](https://www.worldcubeassociation.org/competitions/NapervilleWinter2025/results/by_person#2013JOHN10) |
-| 74 | 4.84 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2017AGGA01) |
-| 75 | 4.84 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [DFW Back to School 2024](https://www.worldcubeassociation.org/competitions/DFWBacktoSchool2024/results/by_person#2019BAUM02) |
-| 76 | 4.85 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/by_person#2017SIAU02) |
-| 77 | 4.85 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/by_person#2017AGGA01) |
-| 78 | 4.85 | [Alessandro Ricci](https://www.worldcubeassociation.org/persons/2018RICC02) | [Lodi Speedcubing 2024](https://www.worldcubeassociation.org/competitions/LodiSpeedcubing2024/results/by_person#2018RICC02) |
-| 79 | 4.85 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [King of Prussia Weeknights 2024](https://www.worldcubeassociation.org/competitions/KingofPrussiaWeeknights2024/results/by_person#2018KHAN26) |
-| 80 | 4.86 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/by_person#2017SIAU02) |
-| 81 | 4.86 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [Don't DNF Denton 2024](https://www.worldcubeassociation.org/competitions/DontDNFDenton2024/results/by_person#2019BAUM02) |
-| 82 | 4.87 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) | [Abbotsford Begins 2022](https://www.worldcubeassociation.org/competitions/AbbotsfordBegins2022/results/by_person#2016EPST02) |
-| 83 | 4.87 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [Milwaukee Cubing Mania 2024](https://www.worldcubeassociation.org/competitions/MilwaukeeCubingMania2024/results/by_person#2018KHAN26) |
-| 84 | 4.87 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [DFW Spring Warmup 2023](https://www.worldcubeassociation.org/competitions/DFWSpringWarmup2023/results/by_person#2019BAUM02) |
-| 85 | 4.88 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Bellevue Squan Fest January 2025](https://www.worldcubeassociation.org/competitions/BellevueSquanFestJanuary2025/results/by_person#2017AGGA01) |
-| 86 | 4.89 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [New-Cumberland County 2024](https://www.worldcubeassociation.org/competitions/NewCumberlandCounty2024/results/by_person#2018KHAN26) |
-| 87 | 4.89 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [Bethesda Winter Wonderland 2025](https://www.worldcubeassociation.org/competitions/BethesdaWinterWonderland2025/results/by_person#2018KHAN26) |
-| 88 | 4.89 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2019BAUM02) |
-| 89 | 4.89 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [Cube More in Ardmore 2024](https://www.worldcubeassociation.org/competitions/CubeMoreinArdmore2024/results/by_person#2019BAUM02) |
-| 90 | 4.90 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [DFW Cubing Spring 2024](https://www.worldcubeassociation.org/competitions/DFWCubingSpring2024/results/by_person#2019BAUM02) |
-| 91 | 4.90 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [Don't DNS Denton 2024](https://www.worldcubeassociation.org/competitions/DontDNSDenton2024/results/by_person#2019BAUM02) |
-| 92 | 4.91 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/by_person#2017SIAU02) |
-| 93 | 4.91 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Bellevue Squan Fest 2024](https://www.worldcubeassociation.org/competitions/BellevueSquanFest2024/results/by_person#2017AGGA01) |
-| 94 | 4.92 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Bellevue CfC 2022](https://www.worldcubeassociation.org/competitions/BellevueCubingforChildrens2022/results/by_person#2017SIAU02) |
-| 95 | 4.93 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Gem City Ohio Showdown 2025](https://www.worldcubeassociation.org/competitions/GemCityOhioShowdown2025/results/by_person#2017AGGA01) |
-| 96 | 4.93 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [Cougar Qualifier 2023](https://www.worldcubeassociation.org/competitions/CougarQualifier2023/results/by_person#2018KHAN26) |
-| 97 | 4.93 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [DFW Cubing Summer 2024](https://www.worldcubeassociation.org/competitions/DFWCubingSummer2024/results/by_person#2019BAUM02) |
-| 98 | 4.93 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2019BAUM02) |
-| 99 | 4.94 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Bellevue Squan Fest 2 2024](https://www.worldcubeassociation.org/competitions/BellevueSquanFest22024/results/by_person#2017AGGA01) |
-| 100 | 4.94 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [DFW Eclipse Cubing 2024](https://www.worldcubeassociation.org/competitions/DFWEclipseCubing2024/results/by_person#2019BAUM02) |
+| 53 | 4.76 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Warm Up Vancouver 2025](https://www.worldcubeassociation.org/competitions/WarmUpVancouver2025/results/by_person#2017AGGA01) |
+| 54 | 4.77 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Western Championship 2023](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2023/results/by_person#2017AGGA01) |
+| 55 | 4.77 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2018KHAN26) |
+| 56 | 4.78 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Aldergrove Clock Fest 2025](https://www.worldcubeassociation.org/competitions/AldergroveClockFest2025/results/by_person#2017AGGA01) |
+| 57 | 4.79 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [SnoCo Veterans Day Weekend 2023](https://www.worldcubeassociation.org/competitions/SnoCoVeteransDayWeekend2023/results/by_person#2017SIAU02) |
+| 58 | 4.79 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Central Washington Evens 2025](https://www.worldcubeassociation.org/competitions/CentralWashingtonEvens2025/results/by_person#2017AGGA01) |
+| 59 | 4.79 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [DFW Back to School 2024](https://www.worldcubeassociation.org/competitions/DFWBacktoSchool2024/results/by_person#2018KHAN26) |
+| 60 | 4.79 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [A Monday in Ashfield 2024](https://www.worldcubeassociation.org/competitions/AMondayinAshfield2024/results/by_person#2018KHAN26) |
+| 61 | 4.80 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Stumptown Summer 2023](https://www.worldcubeassociation.org/competitions/StumptownSummer2023/results/by_person#2017SIAU02) |
+| 62 | 4.80 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Olympia Classic 2024](https://www.worldcubeassociation.org/competitions/OlympiaClassic2024/results/by_person#2017AGGA01) |
+| 63 | 4.80 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [New-Cumberland County 2024](https://www.worldcubeassociation.org/competitions/NewCumberlandCounty2024/results/by_person#2018KHAN26) |
+| 64 | 4.80 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [DFW Cubing Summer 2024](https://www.worldcubeassociation.org/competitions/DFWCubingSummer2024/results/by_person#2019BAUM02) |
+| 65 | 4.81 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2017SIAU02) |
+| 66 | 4.81 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Worlds Warmup Hillsboro 2025](https://www.worldcubeassociation.org/competitions/WorldsWarmupHillsboro2025/results/by_person#2017AGGA01) |
+| 67 | 4.82 | [Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01) | [Etec Cubatão 2023](https://www.worldcubeassociation.org/competitions/EtecCubatao2023/results/by_person#2015CECC01) |
+| 68 | 4.82 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [Southern Championship 2024](https://www.worldcubeassociation.org/competitions/SouthernChampionship2024/results/by_person#2019BAUM02) |
+| 69 | 4.82 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [DFW Back to School 2024](https://www.worldcubeassociation.org/competitions/DFWBacktoSchool2024/results/by_person#2019BAUM02) |
+| 70 | 4.83 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | [Ackerman Spring 2024](https://www.worldcubeassociation.org/competitions/AckermanSpring2024/results/by_person#2013JOHN10) |
+| 71 | 4.83 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [Don't DNS Denton 2024](https://www.worldcubeassociation.org/competitions/DontDNSDenton2024/results/by_person#2019BAUM02) |
+| 72 | 4.83 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [DFW Cubing Fall 2024](https://www.worldcubeassociation.org/competitions/DFWCubingFall2024/results/by_person#2019BAUM02) |
+| 73 | 4.84 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | [Indiana Championship 2024](https://www.worldcubeassociation.org/competitions/IndianaChampionship2024/results/by_person#2013JOHN10) |
+| 74 | 4.84 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | [Naperville Winter 2025](https://www.worldcubeassociation.org/competitions/NapervilleWinter2025/results/by_person#2013JOHN10) |
+| 75 | 4.84 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2017AGGA01) |
+| 76 | 4.84 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [DFW Back to School 2024](https://www.worldcubeassociation.org/competitions/DFWBacktoSchool2024/results/by_person#2019BAUM02) |
+| 77 | 4.85 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/by_person#2017SIAU02) |
+| 78 | 4.85 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/by_person#2017AGGA01) |
+| 79 | 4.85 | [Alessandro Ricci](https://www.worldcubeassociation.org/persons/2018RICC02) | [Lodi Speedcubing 2024](https://www.worldcubeassociation.org/competitions/LodiSpeedcubing2024/results/by_person#2018RICC02) |
+| 80 | 4.85 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [King of Prussia Weeknights 2024](https://www.worldcubeassociation.org/competitions/KingofPrussiaWeeknights2024/results/by_person#2018KHAN26) |
+| 81 | 4.86 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/by_person#2017SIAU02) |
+| 82 | 4.86 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [Don't DNF Denton 2024](https://www.worldcubeassociation.org/competitions/DontDNFDenton2024/results/by_person#2019BAUM02) |
+| 83 | 4.87 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) | [Abbotsford Begins 2022](https://www.worldcubeassociation.org/competitions/AbbotsfordBegins2022/results/by_person#2016EPST02) |
+| 84 | 4.87 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [Milwaukee Cubing Mania 2024](https://www.worldcubeassociation.org/competitions/MilwaukeeCubingMania2024/results/by_person#2018KHAN26) |
+| 85 | 4.87 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [DFW Spring Warmup 2023](https://www.worldcubeassociation.org/competitions/DFWSpringWarmup2023/results/by_person#2019BAUM02) |
+| 86 | 4.88 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Bellevue Squan Fest January 2025](https://www.worldcubeassociation.org/competitions/BellevueSquanFestJanuary2025/results/by_person#2017AGGA01) |
+| 87 | 4.89 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [New-Cumberland County 2024](https://www.worldcubeassociation.org/competitions/NewCumberlandCounty2024/results/by_person#2018KHAN26) |
+| 88 | 4.89 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [Bethesda Winter Wonderland 2025](https://www.worldcubeassociation.org/competitions/BethesdaWinterWonderland2025/results/by_person#2018KHAN26) |
+| 89 | 4.89 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2019BAUM02) |
+| 90 | 4.89 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [Cube More in Ardmore 2024](https://www.worldcubeassociation.org/competitions/CubeMoreinArdmore2024/results/by_person#2019BAUM02) |
+| 91 | 4.90 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [DFW Cubing Spring 2024](https://www.worldcubeassociation.org/competitions/DFWCubingSpring2024/results/by_person#2019BAUM02) |
+| 92 | 4.90 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [Don't DNS Denton 2024](https://www.worldcubeassociation.org/competitions/DontDNSDenton2024/results/by_person#2019BAUM02) |
+| 93 | 4.91 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022/results/by_person#2017SIAU02) |
+| 94 | 4.91 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Bellevue Squan Fest 2024](https://www.worldcubeassociation.org/competitions/BellevueSquanFest2024/results/by_person#2017AGGA01) |
+| 95 | 4.92 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | [Bellevue CfC 2022](https://www.worldcubeassociation.org/competitions/BellevueCubingforChildrens2022/results/by_person#2017SIAU02) |
+| 96 | 4.93 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Gem City Ohio Showdown 2025](https://www.worldcubeassociation.org/competitions/GemCityOhioShowdown2025/results/by_person#2017AGGA01) |
+| 97 | 4.93 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | [Cougar Qualifier 2023](https://www.worldcubeassociation.org/competitions/CougarQualifier2023/results/by_person#2018KHAN26) |
+| 98 | 4.93 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [DFW Cubing Summer 2024](https://www.worldcubeassociation.org/competitions/DFWCubingSummer2024/results/by_person#2019BAUM02) |
+| 99 | 4.93 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2019BAUM02) |
+| 100 | 4.94 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) | [Bellevue Squan Fest 2 2024](https://www.worldcubeassociation.org/competitions/BellevueSquanFest22024/results/by_person#2017AGGA01) |
 
 ### 3x3x3 With Feet
 

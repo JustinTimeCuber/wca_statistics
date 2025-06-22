@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 19 June 2025*
+*Updated on 22 June 2025*
 
 | Rank | WRs | Person |
 | :--- | ---: | :--- |
@@ -265,7 +265,7 @@
 | 258 | 44 | [Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01) |
 | 259 | 43 | [Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02) |
 | 260 | 43 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) |
-| 261 | 43 | [Rachel Feran](https://www.worldcubeassociation.org/persons/2015FERA01) |
+| 261 | 43 | [Rachel Smith](https://www.worldcubeassociation.org/persons/2015FERA01) |
 | 262 | 43 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
 | 263 | 43 | [Javier Tirado Ortiz](https://www.worldcubeassociation.org/persons/2009TIRA01) |
 | 264 | 43 | [Clancy Cochran](https://www.worldcubeassociation.org/persons/2005COCH01) |
