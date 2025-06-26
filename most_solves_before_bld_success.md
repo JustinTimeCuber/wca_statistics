@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on 22 June 2025*
+*Updated on 25 June 2025*
 
 
 ### 3x3x3 Blindfolded
@@ -313,8 +313,8 @@
 | 99 | 12 | [Nathan Phillips](https://www.worldcubeassociation.org/persons/2021PHIL05) |
 | 100 | 12 | [Patrick Collins](https://www.worldcubeassociation.org/persons/2019COLL12) |
 | 101 | 12 | [Simon Dimpker](https://www.worldcubeassociation.org/persons/2021DIMP01) |
-| 102 | 12 | [Bella Campbell](https://www.worldcubeassociation.org/persons/2018CAMP17) |
-| 103 | 12 | [Kalindu Sachintha Wijesundara](https://www.worldcubeassociation.org/persons/2022WIJE02) |
+| 102 | 12 | [Kalindu Sachintha Wijesundara](https://www.worldcubeassociation.org/persons/2022WIJE02) |
+| 103 | 12 | [Bella Campbell](https://www.worldcubeassociation.org/persons/2018CAMP17) |
 | 104 | 12 | [Alexander Nilsson](https://www.worldcubeassociation.org/persons/2022NILS01) |
 | 105 | 12 | [Jacob Sherwen Brown](https://www.worldcubeassociation.org/persons/2022BROW01) |
 | 106 | 11 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) |
