@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 25 June 2025*
+*Updated on 28 June 2025*
 
 | Rank | Podiums | Person |
 | :--- | ---: | :--- |
@@ -189,7 +189,7 @@
 | 183 | 13 | [Pedro Giuseppe Garcia Milla](https://www.worldcubeassociation.org/persons/2016MILL07) | [Blenkir Wanka Cube 2024](https://www.worldcubeassociation.org/competitions/BlenkirWankaCube2024/results/podiums) |
 | 184 | 13 | [Ronald Fernando Remuzgo Salazar](https://www.worldcubeassociation.org/persons/2017SALA07) | [Blenkir Wanka Cube 2024](https://www.worldcubeassociation.org/competitions/BlenkirWankaCube2024/results/podiums) |
 | 185 | 10 | [Luiz Fellipe Oliuza Leal Silva](https://www.worldcubeassociation.org/persons/2016SILV02) | [Bodocó Open 2019](https://www.worldcubeassociation.org/competitions/Bodoco2019/results/podiums) |
-| 186 | 10 | [João Vinícius de A. Santos](https://www.worldcubeassociation.org/persons/2016SANT66) | [Bodocó Open 2023](https://www.worldcubeassociation.org/competitions/BodocoOpen2023/results/podiums) |
+| 186 | 10 | [João Vinícius Santos](https://www.worldcubeassociation.org/persons/2016SANT66) | [Bodocó Open 2023](https://www.worldcubeassociation.org/competitions/BodocoOpen2023/results/podiums) |
 | 187 | 12 | [Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01) | [Bogor Comeback 2019](https://www.worldcubeassociation.org/competitions/BogorComeback2019/results/podiums) |
 | 188 | 11 | [Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01) | [Bogor Open 2018](https://www.worldcubeassociation.org/competitions/BogorOpen2018/results/podiums) |
 | 189 | 10 | [Julian Alejandro Forero Gonzalez](https://www.worldcubeassociation.org/persons/2018GONZ30) | [Bogotá No Duerme 2024](https://www.worldcubeassociation.org/competitions/BogotaNoDuerme2024/results/podiums) |
@@ -302,10 +302,10 @@
 | 296 | 13 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [Comodoro Cubea 2023](https://www.worldcubeassociation.org/competitions/ComodoroCubea2023/results/podiums) |
 | 297 | 10 | [Aaron Scarpati Curin](https://www.worldcubeassociation.org/persons/2018CURI02) | [Comodoro Cubea 2023](https://www.worldcubeassociation.org/competitions/ComodoroCubea2023/results/podiums) |
 | 298 | 10 | [Felipe Medel](https://www.worldcubeassociation.org/persons/2015MEDE01) | [Concepción al Cubo V2 2024](https://www.worldcubeassociation.org/competitions/ConcepcionalCuboV22024/results/podiums) |
-| 299 | 14 | [João Vinícius de A. Santos](https://www.worldcubeassociation.org/persons/2016SANT66) | [Conquiste o Cubo 2019](https://www.worldcubeassociation.org/competitions/ConquisteoCubo2019/results/podiums) |
+| 299 | 14 | [João Vinícius Santos](https://www.worldcubeassociation.org/persons/2016SANT66) | [Conquiste o Cubo 2019](https://www.worldcubeassociation.org/competitions/ConquisteoCubo2019/results/podiums) |
 | 300 | 12 | [Gabriel Bergue](https://www.worldcubeassociation.org/persons/2017BORG02) | [Conquiste o Cubo 2019](https://www.worldcubeassociation.org/competitions/ConquisteoCubo2019/results/podiums) |
 | 301 | 10 | [Lucas Ichiro Yunomae](https://www.worldcubeassociation.org/persons/2014YUNO01) | [Conquiste o Cubo II 2023](https://www.worldcubeassociation.org/competitions/ConquisteoCuboII2023/results/podiums) |
-| 302 | 10 | [João Vinícius de A. Santos](https://www.worldcubeassociation.org/persons/2016SANT66) | [Conquiste o Cubo II 2023](https://www.worldcubeassociation.org/competitions/ConquisteoCuboII2023/results/podiums) |
+| 302 | 10 | [João Vinícius Santos](https://www.worldcubeassociation.org/persons/2016SANT66) | [Conquiste o Cubo II 2023](https://www.worldcubeassociation.org/competitions/ConquisteoCuboII2023/results/podiums) |
 | 303 | 10 | [Martin Fronescu](https://www.worldcubeassociation.org/persons/2013FRON01) | [Constanța Cube Days 2017](https://www.worldcubeassociation.org/competitions/ConstantaCubeDays2017/results/podiums) |
 | 304 | 10 | [Martin Fronescu](https://www.worldcubeassociation.org/persons/2013FRON01) | [Constanta Summer Open 2019](https://www.worldcubeassociation.org/competitions/ConstantaSummerOpen2019/results/podiums) |
 | 305 | 10 | [Gerardo Varela](https://www.worldcubeassociation.org/persons/2017VARE01) | [Copa Inframundo HN 2019](https://www.worldcubeassociation.org/competitions/CopaInframundoHN2019/results/podiums) |
@@ -344,7 +344,7 @@
 | 338 | 10 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Italian Open 2010](https://www.worldcubeassociation.org/competitions/CubeNRoll2010/results/podiums) |
 | 339 | 10 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | [Cubes Masters Zhytomyr 2019](https://www.worldcubeassociation.org/competitions/CubesMastersZhytomyr2019/results/podiums) |
 | 340 | 11 | [Jose Polorhenzo Aquino](https://www.worldcubeassociation.org/persons/2016AQUI02) | [Cube Ta Bai sa Cebu 2022](https://www.worldcubeassociation.org/competitions/CubeTaBaisaCebu2022/results/podiums) |
-| 341 | 14 | [João Vinícius de A. Santos](https://www.worldcubeassociation.org/persons/2016SANT66) | [Cubing At PASB 2022](https://www.worldcubeassociation.org/competitions/CubingAtPASB2022/results/podiums) |
+| 341 | 14 | [João Vinícius Santos](https://www.worldcubeassociation.org/persons/2016SANT66) | [Cubing At PASB 2022](https://www.worldcubeassociation.org/competitions/CubingAtPASB2022/results/podiums) |
 | 342 | 11 | [Gabriel Bergue](https://www.worldcubeassociation.org/persons/2017BORG02) | [Cubing At PASB 2022](https://www.worldcubeassociation.org/competitions/CubingAtPASB2022/results/podiums) |
 | 343 | 11 | [Kyle McDonald Trejos](https://www.worldcubeassociation.org/persons/2017TREJ03) | [Cubing Chiriquí 2019](https://www.worldcubeassociation.org/competitions/CubingChiriqui2019/results/podiums) |
 | 344 | 11 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | [Cubing Classic 2016](https://www.worldcubeassociation.org/competitions/CubingClassic2016/results/podiums) |
@@ -968,7 +968,7 @@
 | 962 | 10 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | [Oulu Open 2017](https://www.worldcubeassociation.org/competitions/OuluOpen2017/results/podiums) |
 | 963 | 10 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | [Oulu Open 2022](https://www.worldcubeassociation.org/competitions/OuluOpen2022/results/podiums) |
 | 964 | 10 | [Kari Hyttinen](https://www.worldcubeassociation.org/persons/2016HYTT01) | [Outokumpu Open 2019](https://www.worldcubeassociation.org/competitions/OutokumpuOpen2019/results/podiums) |
-| 965 | 11 | [João Vinícius de A. Santos](https://www.worldcubeassociation.org/persons/2016SANT66) | [Oxente Open 2022](https://www.worldcubeassociation.org/competitions/OxenteOpen2022/results/podiums) |
+| 965 | 11 | [João Vinícius Santos](https://www.worldcubeassociation.org/persons/2016SANT66) | [Oxente Open 2022](https://www.worldcubeassociation.org/competitions/OxenteOpen2022/results/podiums) |
 | 966 | 10 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | [Oxford Winter 2014](https://www.worldcubeassociation.org/competitions/OxfordWinter2014/results/podiums) |
 | 967 | 12 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | [Pabianice Open 2010](https://www.worldcubeassociation.org/competitions/PabianiceOpen2010/results/podiums) |
 | 968 | 11 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) | [Pabianice Open 2010](https://www.worldcubeassociation.org/competitions/PabianiceOpen2010/results/podiums) |
@@ -1010,7 +1010,7 @@
 | 1004 | 12 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) | [Plentzia Open 2014](https://www.worldcubeassociation.org/competitions/PlentziaOpen2014/results/podiums) |
 | 1005 | 12 | [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) | [Plentzia Open 2014](https://www.worldcubeassociation.org/competitions/PlentziaOpen2014/results/podiums) |
 | 1006 | 12 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | [Plentzia Open 2017](https://www.worldcubeassociation.org/competitions/PlentziaOpen2017/results/podiums) |
-| 1007 | 12 | [João Vinícius de A. Santos](https://www.worldcubeassociation.org/persons/2016SANT66) | [Poções 2023](https://www.worldcubeassociation.org/competitions/Pocoes2023/results/podiums) |
+| 1007 | 12 | [João Vinícius Santos](https://www.worldcubeassociation.org/persons/2016SANT66) | [Poções 2023](https://www.worldcubeassociation.org/competitions/Pocoes2023/results/podiums) |
 | 1008 | 11 | [Gabriel Bergue](https://www.worldcubeassociation.org/persons/2017BORG02) | [Poções 2023](https://www.worldcubeassociation.org/competitions/Pocoes2023/results/podiums) |
 | 1009 | 11 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | [Podolian Open 2023](https://www.worldcubeassociation.org/competitions/PodolianOpen2023/results/podiums) |
 | 1010 | 12 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [Polish Open 2009](https://www.worldcubeassociation.org/competitions/PolishOpen2009/results/podiums) |
@@ -1294,9 +1294,9 @@
 | 1288 | 10 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [Uberlândia Open 2019](https://www.worldcubeassociation.org/competitions/UberlandiaOpen2019/results/podiums) |
 | 1289 | 10 | [Francisco Hamlin](https://www.worldcubeassociation.org/persons/2012HAML01) | [Uchi Florida 2015](https://www.worldcubeassociation.org/competitions/UchiFlorida2015/results/podiums) |
 | 1290 | 12 | [Alexey Kislovskiy](https://www.worldcubeassociation.org/persons/2017KISL01) | [Udmurtia Open 2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019/results/podiums) |
-| 1291 | 12 | [João Vinícius de A. Santos](https://www.worldcubeassociation.org/persons/2016SANT66) | [UFBA 2023](https://www.worldcubeassociation.org/competitions/UFBA2023/results/podiums) |
+| 1291 | 12 | [João Vinícius Santos](https://www.worldcubeassociation.org/persons/2016SANT66) | [UFBA 2023](https://www.worldcubeassociation.org/competitions/UFBA2023/results/podiums) |
 | 1292 | 12 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | [UFBA II 2023](https://www.worldcubeassociation.org/competitions/UFBAII2023/results/podiums) |
-| 1293 | 11 | [João Vinícius de A. Santos](https://www.worldcubeassociation.org/persons/2016SANT66) | [UFBA II 2023](https://www.worldcubeassociation.org/competitions/UFBAII2023/results/podiums) |
+| 1293 | 11 | [João Vinícius Santos](https://www.worldcubeassociation.org/persons/2016SANT66) | [UFBA II 2023](https://www.worldcubeassociation.org/competitions/UFBAII2023/results/podiums) |
 | 1294 | 10 | [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) | [UFCG Open 2012](https://www.worldcubeassociation.org/competitions/UFCGOpen2012/results/podiums) |
 | 1295 | 13 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | [UK Championship 2016](https://www.worldcubeassociation.org/competitions/UKChampionship2016/results/podiums) |
 | 1296 | 13 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | [Ukrainian Nationals 2023](https://www.worldcubeassociation.org/competitions/UkrainianNationals2023/results/podiums) |
