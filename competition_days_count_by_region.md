@@ -1,33 +1,33 @@
 ## Competition days count by region
 
-*Updated on 28 June 2025*
+*Updated on  1 July 2025*
 
 
 ### World
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.46 | World | 15250 |
+| 1 | 1.46 | World | 15259 |
 
 ### Continents
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.72 | Europe | 4933 |
+| 1 | 1.72 | Europe | 4934 |
 | 2 | 1.48 | Oceania | 670 |
-| 3 | 1.47 | South America | 1918 |
-| 4 | 1.41 | Asia | 3161 |
+| 3 | 1.47 | South America | 1919 |
+| 4 | 1.41 | Asia | 3163 |
 | 5 | 1.32 | Africa | 188 |
-| 6 | 1.21 | North America | 4380 |
+| 6 | 1.21 | North America | 4385 |
 
 ### Countries
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
 | 1 | 2.05 | Uzbekistan | 21 |
-| 2 | 2.00 | Liechtenstein | 3 |
-| 3 | 1.99 | Czech Republic | 70 |
-| 4 | 1.98 | Kazakhstan | 55 |
+| 2 | 2.00 | Kazakhstan | 56 |
+| 3 | 2.00 | Liechtenstein | 3 |
+| 4 | 1.99 | Czech Republic | 70 |
 | 5 | 1.93 | Germany | 259 |
 | 6 | 1.93 | Belarus | 42 |
 | 7 | 1.92 | Russia | 220 |
@@ -59,7 +59,7 @@
 | 33 | 1.71 | Ireland | 85 |
 | 34 | 1.70 | Belgium | 96 |
 | 35 | 1.68 | Argentina | 107 |
-| 36 | 1.68 | Brazil | 598 |
+| 36 | 1.68 | Brazil | 599 |
 | 37 | 1.67 | North Macedonia | 6 |
 | 38 | 1.62 | Italy | 263 |
 | 39 | 1.60 | Iran | 43 |
@@ -83,8 +83,8 @@
 | 57 | 1.50 | Montenegro | 6 |
 | 58 | 1.48 | Peru | 238 |
 | 59 | 1.45 | Australia | 516 |
-| 60 | 1.43 | Israel | 70 |
-| 61 | 1.43 | Nigeria | 7 |
+| 60 | 1.43 | Nigeria | 7 |
+| 61 | 1.42 | Israel | 71 |
 | 62 | 1.42 | Jordan | 19 |
 | 63 | 1.42 | Costa Rica | 31 |
 | 64 | 1.38 | Bangladesh | 21 |
@@ -111,14 +111,14 @@
 | 85 | 1.25 | United Arab Emirates | 20 |
 | 86 | 1.25 | Venezuela | 84 |
 | 87 | 1.25 | Chile | 153 |
-| 88 | 1.25 | China | 679 |
+| 88 | 1.25 | China | 680 |
 | 89 | 1.22 | Singapore | 92 |
 | 90 | 1.22 | El Salvador | 37 |
 | 91 | 1.19 | Japan | 246 |
 | 92 | 1.18 | Armenia | 11 |
 | 93 | 1.17 | Tunisia | 24 |
-| 94 | 1.17 | Canada | 442 |
-| 95 | 1.16 | United States | 3511 |
+| 94 | 1.16 | Canada | 444 |
+| 95 | 1.16 | United States | 3514 |
 | 96 | 1.15 | Mongolia | 48 |
 | 97 | 1.13 | Azerbaijan | 46 |
 | 98 | 1.11 | Honduras | 18 |
