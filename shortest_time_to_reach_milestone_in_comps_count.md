@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on  1 July 2025*
+*Updated on  4 July 2025*
 
 
 ### 300 Competitions
@@ -400,8 +400,8 @@
 | 190 | 3320 | [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) |
 | 191 | 3325 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 192 | 3327 | [Nobuaki Suga (菅信昭)](https://www.worldcubeassociation.org/persons/2007SUGA01) |
-| 193 | 3332 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
-| 194 | 3332 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
+| 193 | 3332 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) |
+| 194 | 3332 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
 | 195 | 3333 | [Bob Burton](https://www.worldcubeassociation.org/persons/2003BURT01) |
 | 196 | 3333 | [Malte Ihlefeld](https://www.worldcubeassociation.org/persons/2016IHLE01) |
 | 197 | 3347 | [Dylan Miller](https://www.worldcubeassociation.org/persons/2015MILL01) |
