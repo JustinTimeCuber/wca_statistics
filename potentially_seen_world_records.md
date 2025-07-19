@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 16 July 2025*
+*Updated on 19 July 2025*
 
 | Rank | WRs | Person |
 | :--- | ---: | :--- |
@@ -273,7 +273,7 @@
 | 266 | 43 | [Varun Mohanraj](https://www.worldcubeassociation.org/persons/2015MOHA10) |
 | 267 | 43 | [Javier Tirado Ortiz](https://www.worldcubeassociation.org/persons/2009TIRA01) |
 | 268 | 43 | [Clancy Cochran](https://www.worldcubeassociation.org/persons/2005COCH01) |
-| 269 | 43 | [Gaël Dusser](https://www.worldcubeassociation.org/persons/2007DUSS01) |
+| 269 | 43 | [Lila Guéret](https://www.worldcubeassociation.org/persons/2007DUSS01) |
 | 270 | 43 | [Hui Hing Ho (許鑫豪)](https://www.worldcubeassociation.org/persons/2007HOHU01) |
 | 271 | 43 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) |
 | 272 | 43 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |

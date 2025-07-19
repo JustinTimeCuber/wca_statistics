@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 16 July 2025*
+*Updated on 19 July 2025*
 
 
 ### Rubik's Cube
@@ -831,8 +831,8 @@
 | 86 | 30 | [Joshua Hounslow](https://www.worldcubeassociation.org/persons/2016HOUN01) |
 | 87 | 30 | [Yap Jia Yang](https://www.worldcubeassociation.org/persons/2016YANG84) |
 | 88 | 30 | [Daniel Alejandro Torres Moreno](https://www.worldcubeassociation.org/persons/2018MORE19) |
-| 89 | 30 | [Stephen Waller](https://www.worldcubeassociation.org/persons/2017WALL12) |
-| 90 | 30 | [Theo Hall](https://www.worldcubeassociation.org/persons/2017HALL06) |
+| 89 | 30 | [Theo Hall](https://www.worldcubeassociation.org/persons/2017HALL06) |
+| 90 | 30 | [Stephen Waller](https://www.worldcubeassociation.org/persons/2017WALL12) |
 | 91 | 30 | [Alon Ron](https://www.worldcubeassociation.org/persons/2017RONA02) |
 | 92 | 30 | [Tee Kai Yang](https://www.worldcubeassociation.org/persons/2017YANG59) |
 | 93 | 30 | [Conor Sullivan](https://www.worldcubeassociation.org/persons/2018SULL05) |
@@ -2156,7 +2156,7 @@
 | 46 | 1/2 17:29 | [Patrick Joseph Daep](https://www.worldcubeassociation.org/persons/2007DAEP01) |
 | 47 | 1/2 17:38 | [Jens Diewald](https://www.worldcubeassociation.org/persons/2008DIEW01) |
 | 48 | 1/2 17:42 | [Norman Mijares](https://www.worldcubeassociation.org/persons/2007MIJA01) |
-| 49 | 1/2 18:20 | [Gaël Dusser](https://www.worldcubeassociation.org/persons/2007DUSS01) |
+| 49 | 1/2 18:20 | [Lila Guéret](https://www.worldcubeassociation.org/persons/2007DUSS01) |
 | 50 | 1/2 18:30 | [Tobias Daneels](https://www.worldcubeassociation.org/persons/2006DANE02) |
 | 51 | 1/2 19:52 | [Abhijitharam Tadepalli](https://www.worldcubeassociation.org/persons/2008TADE01) |
 | 52 | 1/2 20:00 | [Péter Oriskó](https://www.worldcubeassociation.org/persons/2008ORIS01) |
