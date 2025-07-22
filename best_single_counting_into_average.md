@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 19 July 2025*
+*Updated on 22 July 2025*
 
 
 ### Rubik's Cube
@@ -518,15 +518,15 @@
 | 89 | 8.23 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | [New Zealand Nationals 2024](https://www.worldcubeassociation.org/competitions/NewZealandNationals2024/results/by_person#2019RAMO05) |
 | 90 | 8.23 | [Magnus Lensch](https://www.worldcubeassociation.org/persons/2019LENS01) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/by_person#2019LENS01) |
 | 91 | 8.23 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025/results/by_person#2020ARCH01) |
-| 92 | 8.24 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2017GOLU01) |
-| 93 | 8.24 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Miami Valley Mini 2025](https://www.worldcubeassociation.org/competitions/MiamiValleyMini2025/results/by_person#2017GARR05) |
-| 94 | 8.24 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | [WCA Oceanic Championship 2024](https://www.worldcubeassociation.org/competitions/OC2024/results/by_person#2019RAMO05) |
-| 95 | 8.24 | [Dhruva Sai Meruva](https://www.worldcubeassociation.org/persons/2021MERU01) | [Swisscubing Cup III 2024](https://www.worldcubeassociation.org/competitions/SwisscubingCupIII2024/results/by_person#2021MERU01) |
-| 96 | 8.25 | [Dhruva Sai Meruva](https://www.worldcubeassociation.org/persons/2021MERU01) | [Ticino: Back to One Handed 2024](https://www.worldcubeassociation.org/competitions/TicinoBacktoOneHanded2024/results/by_person#2021MERU01) |
-| 97 | 8.26 | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) | [West Visayas Championship 2023](https://www.worldcubeassociation.org/competitions/WestVisayasChampionship2023/results/by_person#2017VILL41) |
-| 98 | 8.26 | [Zhen Chen (陈震)](https://www.worldcubeassociation.org/persons/2023CHEN30) | [Zhuhai Open 2025](https://www.worldcubeassociation.org/competitions/ZhuhaiOpen2025/results/by_person#2023CHEN30) |
-| 99 | 8.27 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/by_person#2012PONC02) |
-| 100 | 8.27 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) | [Barby Cube 2025](https://www.worldcubeassociation.org/competitions/BarbyCube2025/results/by_person#2014SEBA01) |
+| 92 | 8.24 | [Jack Pfeifer](https://www.worldcubeassociation.org/persons/2016PFEI01) | [Doing Time in Moundsville 2025](https://www.worldcubeassociation.org/competitions/DoingTimeinMoundsville2025/results/by_person#2016PFEI01) |
+| 93 | 8.24 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2017GOLU01) |
+| 94 | 8.24 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | [Miami Valley Mini 2025](https://www.worldcubeassociation.org/competitions/MiamiValleyMini2025/results/by_person#2017GARR05) |
+| 95 | 8.24 | [Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05) | [WCA Oceanic Championship 2024](https://www.worldcubeassociation.org/competitions/OC2024/results/by_person#2019RAMO05) |
+| 96 | 8.24 | [Dhruva Sai Meruva](https://www.worldcubeassociation.org/persons/2021MERU01) | [Swisscubing Cup III 2024](https://www.worldcubeassociation.org/competitions/SwisscubingCupIII2024/results/by_person#2021MERU01) |
+| 97 | 8.25 | [Dhruva Sai Meruva](https://www.worldcubeassociation.org/persons/2021MERU01) | [Ticino: Back to One Handed 2024](https://www.worldcubeassociation.org/competitions/TicinoBacktoOneHanded2024/results/by_person#2021MERU01) |
+| 98 | 8.26 | [Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41) | [West Visayas Championship 2023](https://www.worldcubeassociation.org/competitions/WestVisayasChampionship2023/results/by_person#2017VILL41) |
+| 99 | 8.26 | [Zhen Chen (陈震)](https://www.worldcubeassociation.org/persons/2023CHEN30) | [Zhuhai Open 2025](https://www.worldcubeassociation.org/competitions/ZhuhaiOpen2025/results/by_person#2023CHEN30) |
+| 100 | 8.27 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/by_person#2012PONC02) |
 
 ### Megaminx
 
