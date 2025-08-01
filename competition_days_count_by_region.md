@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 31 July 2025*
+*Updated on  1 August 2025*
 
 
 ### World
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.46 | World | 15457 |
+| 1 | 1.46 | World | 15462 |
 
 ### Continents
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.72 | Europe | 4997 |
+| 1 | 1.72 | Europe | 4999 |
 | 2 | 1.47 | Oceania | 681 |
 | 3 | 1.47 | South America | 1953 |
-| 4 | 1.41 | Asia | 3202 |
+| 4 | 1.41 | Asia | 3203 |
 | 5 | 1.32 | Africa | 194 |
-| 6 | 1.21 | North America | 4430 |
+| 6 | 1.21 | North America | 4432 |
 
 ### Countries
 
@@ -43,7 +43,7 @@
 | 17 | 1.85 | Thailand | 81 |
 | 18 | 1.85 | Croatia | 33 |
 | 19 | 1.85 | Sri Lanka | 13 |
-| 20 | 1.84 | United Kingdom | 307 |
+| 20 | 1.84 | United Kingdom | 308 |
 | 21 | 1.82 | Finland | 164 |
 | 22 | 1.82 | Slovakia | 50 |
 | 23 | 1.80 | Bosnia and Herzegovina | 15 |
@@ -54,7 +54,7 @@
 | 28 | 1.76 | Hungary | 62 |
 | 29 | 1.76 | Austria | 33 |
 | 30 | 1.75 | Luxembourg | 4 |
-| 31 | 1.73 | Poland | 546 |
+| 31 | 1.73 | Poland | 547 |
 | 32 | 1.72 | Ukraine | 144 |
 | 33 | 1.71 | Ireland | 86 |
 | 34 | 1.68 | Belgium | 98 |
@@ -113,12 +113,12 @@
 | 87 | 1.24 | China | 688 |
 | 88 | 1.24 | Venezuela | 89 |
 | 89 | 1.22 | El Salvador | 37 |
-| 90 | 1.21 | Singapore | 94 |
+| 90 | 1.21 | Singapore | 95 |
 | 91 | 1.19 | Japan | 249 |
 | 92 | 1.18 | Armenia | 11 |
 | 93 | 1.17 | Tunisia | 24 |
 | 94 | 1.17 | Canada | 446 |
-| 95 | 1.16 | United States | 3552 |
+| 95 | 1.16 | United States | 3554 |
 | 96 | 1.15 | Mongolia | 48 |
 | 97 | 1.13 | Azerbaijan | 46 |
 | 98 | 1.11 | Honduras | 19 |
