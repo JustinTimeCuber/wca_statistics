@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on  1 August 2025*
+*Updated on  4 August 2025*
 
 
 ### Rubik's Cube
@@ -719,24 +719,24 @@
 | 80 | 1.34 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | [Colorado Championship 2024](https://www.worldcubeassociation.org/competitions/ColoradoChampionship2024/results/by_person#2016KELL12) |
 | 81 | 1.34 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | [New-Cumberland County 2025](https://www.worldcubeassociation.org/competitions/NewCumberlandCounty2025/results/by_person#2017NIEL03) |
 | 82 | 1.34 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | [Budapest Summer 2024](https://www.worldcubeassociation.org/competitions/BudapestSummer2024/results/by_person#2017TSVE02) |
-| 83 | 1.34 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | [NZ South Island Champs 2023](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2023/results/by_person#2018MURR03) |
-| 84 | 1.34 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | [North Jersey Speedsolving A 2023](https://www.worldcubeassociation.org/competitions/NorthJerseySpeedsolvingA2023/results/by_person#2019MEAD03) |
-| 85 | 1.34 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Hangzhou Spring 2024](https://www.worldcubeassociation.org/competitions/HangzhouSpring2024/results/by_person#2019JIAN54) |
-| 86 | 1.34 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Tianjin Open 2024](https://www.worldcubeassociation.org/competitions/TianjinOpen2024/results/by_person#2019JIAN54) |
-| 87 | 1.34 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/by_person#2019JIAN54) |
-| 88 | 1.34 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Hangzhou Open 2024](https://www.worldcubeassociation.org/competitions/HangzhouOpen2024/results/by_person#2019JIAN54) |
-| 89 | 1.34 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Xuzhou Newcomers 2025](https://www.worldcubeassociation.org/competitions/XuzhouNewcomers2025/results/by_person#2019JIAN54) |
-| 90 | 1.34 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Nanchang Spring 2025](https://www.worldcubeassociation.org/competitions/NanchangSpring2025/results/by_person#2019JIAN54) |
-| 91 | 1.34 | [Sebastian Lee](https://www.worldcubeassociation.org/persons/2021LEES01) | [Puzzling Parramatta 2024](https://www.worldcubeassociation.org/competitions/PuzzlingParramatta2024/results/by_person#2021LEES01) |
-| 92 | 1.34 | [Netanel Pour](https://www.worldcubeassociation.org/persons/2022POUR02) | [Mike's Cubes Israel 2025](https://www.worldcubeassociation.org/competitions/MikesCubesIsrael2025/results/by_person#2022POUR02) |
-| 93 | 1.34 | [Jonathan Plug](https://www.worldcubeassociation.org/persons/2022PLUG01) | [Dutch Nationals 2024](https://www.worldcubeassociation.org/competitions/DutchNationals2024/results/by_person#2022PLUG01) |
-| 94 | 1.34 | [Kaixi Guo (郭铠希)](https://www.worldcubeassociation.org/persons/2023GUOK01) | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/by_person#2023GUOK01) |
-| 95 | 1.35 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | [Rocky Mountain Championship 2023](https://www.worldcubeassociation.org/competitions/RockyMountainChampionship2023/results/by_person#2016KELL12) |
-| 96 | 1.35 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | [A New Year in Auckland 2025](https://www.worldcubeassociation.org/competitions/ANewYearinAuckland2025/results/by_person#2018MURR03) |
-| 97 | 1.35 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Lishui Open 2025](https://www.worldcubeassociation.org/competitions/LishuiOpen2025/results/by_person#2019JIAN54) |
-| 98 | 1.35 | [Sebastian Lee](https://www.worldcubeassociation.org/persons/2021LEES01) | [Tramsheds IV: Summer Sat 2025](https://www.worldcubeassociation.org/competitions/TramshedsIVSummerSaturday2025/results/by_person#2021LEES01) |
-| 99 | 1.36 | [Elijah Brown](https://www.worldcubeassociation.org/persons/2015BROW03) | [InTents Cubing Anza-Borrego 2023](https://www.worldcubeassociation.org/competitions/InTentsCubingAnzaBorrrego2023/results/by_person#2015BROW03) |
-| 100 | 1.36 | [Parker Trager](https://www.worldcubeassociation.org/persons/2016TRAG01) | [Cubes on the Bayside Winter 2024](https://www.worldcubeassociation.org/competitions/CubesontheBaysideWinter2024/results/by_person#2016TRAG01) |
+| 83 | 1.34 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | [Clock Battle August SG 2025](https://www.worldcubeassociation.org/competitions/ClockBattleAugustSG2025/results/by_person#2017TSVE02) |
+| 84 | 1.34 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | [NZ South Island Champs 2023](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2023/results/by_person#2018MURR03) |
+| 85 | 1.34 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | [North Jersey Speedsolving A 2023](https://www.worldcubeassociation.org/competitions/NorthJerseySpeedsolvingA2023/results/by_person#2019MEAD03) |
+| 86 | 1.34 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Hangzhou Spring 2024](https://www.worldcubeassociation.org/competitions/HangzhouSpring2024/results/by_person#2019JIAN54) |
+| 87 | 1.34 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Tianjin Open 2024](https://www.worldcubeassociation.org/competitions/TianjinOpen2024/results/by_person#2019JIAN54) |
+| 88 | 1.34 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/by_person#2019JIAN54) |
+| 89 | 1.34 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Hangzhou Open 2024](https://www.worldcubeassociation.org/competitions/HangzhouOpen2024/results/by_person#2019JIAN54) |
+| 90 | 1.34 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Xuzhou Newcomers 2025](https://www.worldcubeassociation.org/competitions/XuzhouNewcomers2025/results/by_person#2019JIAN54) |
+| 91 | 1.34 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Nanchang Spring 2025](https://www.worldcubeassociation.org/competitions/NanchangSpring2025/results/by_person#2019JIAN54) |
+| 92 | 1.34 | [Sebastian Lee](https://www.worldcubeassociation.org/persons/2021LEES01) | [Puzzling Parramatta 2024](https://www.worldcubeassociation.org/competitions/PuzzlingParramatta2024/results/by_person#2021LEES01) |
+| 93 | 1.34 | [Netanel Pour](https://www.worldcubeassociation.org/persons/2022POUR02) | [Mike's Cubes Israel 2025](https://www.worldcubeassociation.org/competitions/MikesCubesIsrael2025/results/by_person#2022POUR02) |
+| 94 | 1.34 | [Jonathan Plug](https://www.worldcubeassociation.org/persons/2022PLUG01) | [Dutch Nationals 2024](https://www.worldcubeassociation.org/competitions/DutchNationals2024/results/by_person#2022PLUG01) |
+| 95 | 1.34 | [Kaixi Guo (郭铠希)](https://www.worldcubeassociation.org/persons/2023GUOK01) | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/by_person#2023GUOK01) |
+| 96 | 1.35 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | [Rocky Mountain Championship 2023](https://www.worldcubeassociation.org/competitions/RockyMountainChampionship2023/results/by_person#2016KELL12) |
+| 97 | 1.35 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | [A New Year in Auckland 2025](https://www.worldcubeassociation.org/competitions/ANewYearinAuckland2025/results/by_person#2018MURR03) |
+| 98 | 1.35 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | [Lishui Open 2025](https://www.worldcubeassociation.org/competitions/LishuiOpen2025/results/by_person#2019JIAN54) |
+| 99 | 1.35 | [Sebastian Lee](https://www.worldcubeassociation.org/persons/2021LEES01) | [Tramsheds IV: Summer Sat 2025](https://www.worldcubeassociation.org/competitions/TramshedsIVSummerSaturday2025/results/by_person#2021LEES01) |
+| 100 | 1.36 | [Elijah Brown](https://www.worldcubeassociation.org/persons/2015BROW03) | [InTents Cubing Anza-Borrego 2023](https://www.worldcubeassociation.org/competitions/InTentsCubingAnzaBorrrego2023/results/by_person#2015BROW03) |
 
 ### Rubik's Clock
 
