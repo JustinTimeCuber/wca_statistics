@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on  7 August 2025*
+*Updated on 10 August 2025*
 
 
 ### Rubik's Cube
@@ -1746,7 +1746,7 @@
 | 56 | [Ernesto Cabrera](https://www.worldcubeassociation.org/persons/2014CABR05) | **2/4 40:00** |  | [Charrua 2016](https://www.worldcubeassociation.org/competitions/Charrua2016/results/podiums#e333mbf) | 2 |
 | 57 | [Artem Kuminov](https://www.worldcubeassociation.org/persons/2017KUMI02) | **2/4 39:37** |  | [Altai Special 2019](https://www.worldcubeassociation.org/competitions/AltaiSpecial2019/results/podiums#e333mbf) | 3 |
 | 58 | [Deri Nata Wijaya](https://www.worldcubeassociation.org/persons/2016WIJA01) | **5/10 39:16** |  | [Cilegon Open 2016](https://www.worldcubeassociation.org/competitions/CilegonOpen2016/results/podiums#e333mbf) | 3 |
-| 59 | [Brendan Bakker](https://www.worldcubeassociation.org/persons/2015BAKK01) | **4/8 39:13** |  | [Utah Valley Open 2019](https://www.worldcubeassociation.org/competitions/UtahValleyOpen2019/results/podiums#e333mbf) | 3 |
+| 59 | [Brendan Bakker (貝庭笙)](https://www.worldcubeassociation.org/persons/2015BAKK01) | **4/8 39:13** |  | [Utah Valley Open 2019](https://www.worldcubeassociation.org/competitions/UtahValleyOpen2019/results/podiums#e333mbf) | 3 |
 | 60 | [Adrien Auvray Matyn](https://www.worldcubeassociation.org/persons/2018MATY02) | **2/4 38:39** |  | [NZ SIC 2021](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2021/results/podiums#e333mbf) | 2 |
 | 61 | [Vivek Prasad Mada](https://www.worldcubeassociation.org/persons/2012MADA01) | **4/8 38:14** |  | [Shaastra Cube Open 2015](https://www.worldcubeassociation.org/competitions/ShaastraCubeOpen2015/results/podiums#e333mbf) | 3 |
 | 62 | [Francisco Javier Lemes Sáez](https://www.worldcubeassociation.org/persons/2009SAEZ01) | **2/4 37:30** |  | [chilerubik.cl 2011](https://www.worldcubeassociation.org/competitions/chilerubik2011/results/podiums#e333mbf) | 3 |
