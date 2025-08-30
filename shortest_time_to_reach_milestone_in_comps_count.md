@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 28 August 2025*
+*Updated on 29 August 2025*
 
 
 ### 300 Competitions
@@ -1208,9 +1208,9 @@
 | 166 | 77 | [Edward Leung](https://www.worldcubeassociation.org/persons/2019LEUN05) |
 | 167 | 77 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) |
 | 168 | 77 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) |
-| 169 | 77 | [Joseph Mangapot](https://www.worldcubeassociation.org/persons/2022MANG01) |
-| 170 | 77 | [Patrick Shi](https://www.worldcubeassociation.org/persons/2022SHIP01) |
-| 171 | 77 | [Evan Zhou](https://www.worldcubeassociation.org/persons/2022ZHOU04) |
+| 169 | 77 | [Evan Zhou](https://www.worldcubeassociation.org/persons/2022ZHOU04) |
+| 170 | 77 | [Joseph Mangapot](https://www.worldcubeassociation.org/persons/2022MANG01) |
+| 171 | 77 | [Patrick Shi](https://www.worldcubeassociation.org/persons/2022SHIP01) |
 | 172 | 77 | [Katsumasa Hamaguchi](https://www.worldcubeassociation.org/persons/2022HAMA02) |
 | 173 | 77 | [Heleen van der Ree](https://www.worldcubeassociation.org/persons/2022REEH01) |
 | 174 | 77 | [Benton Tolley](https://www.worldcubeassociation.org/persons/2023TOLL02) |

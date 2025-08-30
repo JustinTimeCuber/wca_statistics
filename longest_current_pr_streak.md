@@ -1,6 +1,6 @@
 ## Longest current streak of competitions with a personal record done
 
-*Updated on 28 August 2025*
+*Updated on 29 August 2025*
 
 | Rank | Competitions | Person | Started at |
 | :--- | ---: | :--- | :--- |
@@ -273,45 +273,45 @@
 | 267 | 28 | [Eetu Kaján](https://www.worldcubeassociation.org/persons/2018KAJA01) | [Pikkujoulut 2018](https://www.worldcubeassociation.org/competitions/Pikkujoulut2018) |
 | 268 | 28 | [Conor Ryan McMorrow](https://www.worldcubeassociation.org/persons/2019MCMO01) | [Irish Championship 2019](https://www.worldcubeassociation.org/competitions/IrishChampionship2019) |
 | 269 | 28 | [Alex Cheng](https://www.worldcubeassociation.org/persons/2019CHEA04) | [BA Four 2019](https://www.worldcubeassociation.org/competitions/BAFour2019) |
-| 270 | 28 | [Rocco Rannisi](https://www.worldcubeassociation.org/persons/2022RANN01) | [Sarzana Seaside Cubing 2022](https://www.worldcubeassociation.org/competitions/SarzanaSeasideCubing2022) |
-| 271 | 28 | [Ian Wei](https://www.worldcubeassociation.org/persons/2022WEII01) | [Open de Montréal 2022](https://www.worldcubeassociation.org/competitions/OpendeMontreal2022) |
-| 272 | 28 | [Joel Santamaría Arriola](https://www.worldcubeassociation.org/persons/2022ARRI02) | [X-Madrid Open 2022](https://www.worldcubeassociation.org/competitions/XMadridOpen2022) |
-| 273 | 28 | [Beth Lee](https://www.worldcubeassociation.org/persons/2022LEEB01) | [Singapore Mofun & FIS 2022](https://www.worldcubeassociation.org/competitions/SingaporeMofunandFIS2022) |
-| 274 | 28 | [Connor Sharpe](https://www.worldcubeassociation.org/persons/2022SHAR23) | [Queensland Open 2022](https://www.worldcubeassociation.org/competitions/QueenslandOpen2022) |
-| 275 | 28 | [Eashan Tilaye](https://www.worldcubeassociation.org/persons/2022TILA01) | [Pueblo Puzzling 2022](https://www.worldcubeassociation.org/competitions/PuebloPuzzling2022) |
-| 276 | 28 | [Logan Tully](https://www.worldcubeassociation.org/persons/2022TULL02) | [Dublin Open Saturday 2022](https://www.worldcubeassociation.org/competitions/DublinOpenSaturday2022) |
-| 277 | 28 | [Peh Zander](https://www.worldcubeassociation.org/persons/2022ZAND04) | [Singapore Mini 2022](https://www.worldcubeassociation.org/competitions/SingaporeMini2022) |
-| 278 | 28 | [Tisa Megušar](https://www.worldcubeassociation.org/persons/2022MEGU01) | [Slovenian Nationals 2022](https://www.worldcubeassociation.org/competitions/SlovenianNationals2022) |
-| 279 | 28 | [Finn Molloy](https://www.worldcubeassociation.org/persons/2022MOLL03) | [Irish Championship 2022](https://www.worldcubeassociation.org/competitions/IrishChampionship2022) |
-| 280 | 28 | [Nora Y. Kester](https://www.worldcubeassociation.org/persons/2022KEST04) | [Circle City Supercharged 2022](https://www.worldcubeassociation.org/competitions/CircleCitySupercharged2022) |
-| 281 | 28 | [Jakub Łebkowski](https://www.worldcubeassociation.org/persons/2023LEBK01) | [Energy Cube Ciechanów 2023](https://www.worldcubeassociation.org/competitions/EnergyCubeCiechanow2023) |
-| 282 | 28 | [Alan Fang](https://www.worldcubeassociation.org/persons/2023FANG02) | [Stevenage January 2023](https://www.worldcubeassociation.org/competitions/StevenageJanuary2023) |
-| 283 | 28 | [Luciano James Capuano](https://www.worldcubeassociation.org/persons/2023CAPU02) | [NJIT Spring 2023](https://www.worldcubeassociation.org/competitions/NJITSpring2023) |
-| 284 | 28 | [Benjamin Bjerring Bach](https://www.worldcubeassociation.org/persons/2023BACH04) | [Aarhus Spring 2023](https://www.worldcubeassociation.org/competitions/AarhusSpring2023) |
-| 285 | 28 | [Yen-Lei Jen (任晏磊)](https://www.worldcubeassociation.org/persons/2023JENY01) | [Taiwan Cubing Challenge 2023](https://www.worldcubeassociation.org/competitions/TaiwanCubingChallenge2023) |
-| 286 | 27 | [Andres Flügel](https://www.worldcubeassociation.org/persons/2009FLUG01) | [Aachen Open 2009](https://www.worldcubeassociation.org/competitions/AachenOpen2009) |
-| 287 | 27 | [Haijun Tan (谭海俊)](https://www.worldcubeassociation.org/persons/2011TANH01) | [Guangzhou Cube Day 2011](https://www.worldcubeassociation.org/competitions/GuangzhouCubeDay2011) |
-| 288 | 27 | [Robert Horvath](https://www.worldcubeassociation.org/persons/2013HORV02) | [World Championship 2013](https://www.worldcubeassociation.org/competitions/WC2013) |
-| 289 | 27 | [Szymon Ruksza](https://www.worldcubeassociation.org/persons/2013RUKS01) | [SLS Jastrzebie 2013](https://www.worldcubeassociation.org/competitions/SLSJastrzebie2013) |
-| 290 | 27 | [Constantin Lüske](https://www.worldcubeassociation.org/persons/2014LSKE01) | [Euro 2014](https://www.worldcubeassociation.org/competitions/Euro2014) |
-| 291 | 27 | [Dalton Nichols](https://www.worldcubeassociation.org/persons/2014NICH02) | [Florida Feast 2014](https://www.worldcubeassociation.org/competitions/Florida2014) |
-| 292 | 27 | [Xi Zhang (张希)](https://www.worldcubeassociation.org/persons/2015ZHAN62) | [Hong Kong Summer 2015](https://www.worldcubeassociation.org/competitions/HongKongSummerCubeDay2015) |
-| 293 | 27 | [Franek Saliński](https://www.worldcubeassociation.org/persons/2015SALI02) | [Polish Championship 2015](https://www.worldcubeassociation.org/competitions/PolishChampionship2015) |
-| 294 | 27 | [Spencer Andersen](https://www.worldcubeassociation.org/persons/2016ANDE02) | [Williams Winter 2016](https://www.worldcubeassociation.org/competitions/WilliamsWinter2016) |
-| 295 | 27 | [Jordi Borrell](https://www.worldcubeassociation.org/persons/2016BORR02) | [Spanish Championship 2016](https://www.worldcubeassociation.org/competitions/SpanishChampionship2016) |
-| 296 | 27 | [Coleton Pleiss](https://www.worldcubeassociation.org/persons/2017PLEI01) | [Marrs Mixup Winter 2017](https://www.worldcubeassociation.org/competitions/MarrsMixupWinter2017) |
-| 297 | 27 | [Reuben San Luis](https://www.worldcubeassociation.org/persons/2017LUIS01) | [San Ramon 2017](https://www.worldcubeassociation.org/competitions/SanRamon2017) |
-| 298 | 27 | [Charlie Harrison](https://www.worldcubeassociation.org/persons/2017HARR08) | [Newcastle-under-Lyme Open 2017](https://www.worldcubeassociation.org/competitions/NewcastleunderLyme2017) |
-| 299 | 27 | [Itamar Turm](https://www.worldcubeassociation.org/persons/2017TURM01) | [Israel Championship 2017](https://www.worldcubeassociation.org/competitions/IsraelChampionship2017) |
-| 300 | 27 | [Daxton Westlake](https://www.worldcubeassociation.org/persons/2018WEST07) | [Poly Cubed 2018](https://www.worldcubeassociation.org/competitions/PolyCubed2018) |
-| 301 | 27 | [José Miguel Beguiristain](https://www.worldcubeassociation.org/persons/2019BEGU01) | [Iruña Open 2019](https://www.worldcubeassociation.org/competitions/IrunaOpen2019) |
-| 302 | 27 | [Miguel Ángel Galdeano Medina](https://www.worldcubeassociation.org/persons/2019MEDI04) | [Chanquete Open 2019](https://www.worldcubeassociation.org/competitions/ChanqueteOpen2019) |
-| 303 | 27 | [Maarten Schuil](https://www.worldcubeassociation.org/persons/2020SCHU01) | [Dutch Masters 2020](https://www.worldcubeassociation.org/competitions/DutchMasters2020) |
-| 304 | 27 | [Chen-Jyun Pan (潘辰寯)](https://www.worldcubeassociation.org/persons/2020PANC01) | [Taiwan Championship 2020](https://www.worldcubeassociation.org/competitions/TaiwanChampionship2020) |
-| 305 | 27 | [Miller Atkinson](https://www.worldcubeassociation.org/persons/2021ATKI01) | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021) |
-| 306 | 27 | [Evan Beck](https://www.worldcubeassociation.org/persons/2021BECK01) | [Idaho Summer A 2021](https://www.worldcubeassociation.org/competitions/IdahoSummerA2021) |
-| 307 | 27 | [Vanessa Tyszkiewicz](https://www.worldcubeassociation.org/persons/2021TYSZ01) | [LLS III Zamość 2021](https://www.worldcubeassociation.org/competitions/LLSIIIZamosc2021) |
-| 308 | 27 | [Vedanth Bharadwaj](https://www.worldcubeassociation.org/persons/2021BHAR01) | [SacCubing X 2021](https://www.worldcubeassociation.org/competitions/SacCubingX2021) |
+| 270 | 28 | [Vedanth Bharadwaj](https://www.worldcubeassociation.org/persons/2021BHAR01) | [SacCubing X 2021](https://www.worldcubeassociation.org/competitions/SacCubingX2021) |
+| 271 | 28 | [Rocco Rannisi](https://www.worldcubeassociation.org/persons/2022RANN01) | [Sarzana Seaside Cubing 2022](https://www.worldcubeassociation.org/competitions/SarzanaSeasideCubing2022) |
+| 272 | 28 | [Ian Wei](https://www.worldcubeassociation.org/persons/2022WEII01) | [Open de Montréal 2022](https://www.worldcubeassociation.org/competitions/OpendeMontreal2022) |
+| 273 | 28 | [Joel Santamaría Arriola](https://www.worldcubeassociation.org/persons/2022ARRI02) | [X-Madrid Open 2022](https://www.worldcubeassociation.org/competitions/XMadridOpen2022) |
+| 274 | 28 | [Beth Lee](https://www.worldcubeassociation.org/persons/2022LEEB01) | [Singapore Mofun & FIS 2022](https://www.worldcubeassociation.org/competitions/SingaporeMofunandFIS2022) |
+| 275 | 28 | [Connor Sharpe](https://www.worldcubeassociation.org/persons/2022SHAR23) | [Queensland Open 2022](https://www.worldcubeassociation.org/competitions/QueenslandOpen2022) |
+| 276 | 28 | [Eashan Tilaye](https://www.worldcubeassociation.org/persons/2022TILA01) | [Pueblo Puzzling 2022](https://www.worldcubeassociation.org/competitions/PuebloPuzzling2022) |
+| 277 | 28 | [Logan Tully](https://www.worldcubeassociation.org/persons/2022TULL02) | [Dublin Open Saturday 2022](https://www.worldcubeassociation.org/competitions/DublinOpenSaturday2022) |
+| 278 | 28 | [Peh Zander](https://www.worldcubeassociation.org/persons/2022ZAND04) | [Singapore Mini 2022](https://www.worldcubeassociation.org/competitions/SingaporeMini2022) |
+| 279 | 28 | [Tisa Megušar](https://www.worldcubeassociation.org/persons/2022MEGU01) | [Slovenian Nationals 2022](https://www.worldcubeassociation.org/competitions/SlovenianNationals2022) |
+| 280 | 28 | [Finn Molloy](https://www.worldcubeassociation.org/persons/2022MOLL03) | [Irish Championship 2022](https://www.worldcubeassociation.org/competitions/IrishChampionship2022) |
+| 281 | 28 | [Nora Y. Kester](https://www.worldcubeassociation.org/persons/2022KEST04) | [Circle City Supercharged 2022](https://www.worldcubeassociation.org/competitions/CircleCitySupercharged2022) |
+| 282 | 28 | [Jakub Łebkowski](https://www.worldcubeassociation.org/persons/2023LEBK01) | [Energy Cube Ciechanów 2023](https://www.worldcubeassociation.org/competitions/EnergyCubeCiechanow2023) |
+| 283 | 28 | [Alan Fang](https://www.worldcubeassociation.org/persons/2023FANG02) | [Stevenage January 2023](https://www.worldcubeassociation.org/competitions/StevenageJanuary2023) |
+| 284 | 28 | [Luciano James Capuano](https://www.worldcubeassociation.org/persons/2023CAPU02) | [NJIT Spring 2023](https://www.worldcubeassociation.org/competitions/NJITSpring2023) |
+| 285 | 28 | [Benjamin Bjerring Bach](https://www.worldcubeassociation.org/persons/2023BACH04) | [Aarhus Spring 2023](https://www.worldcubeassociation.org/competitions/AarhusSpring2023) |
+| 286 | 28 | [Yen-Lei Jen (任晏磊)](https://www.worldcubeassociation.org/persons/2023JENY01) | [Taiwan Cubing Challenge 2023](https://www.worldcubeassociation.org/competitions/TaiwanCubingChallenge2023) |
+| 287 | 27 | [Andres Flügel](https://www.worldcubeassociation.org/persons/2009FLUG01) | [Aachen Open 2009](https://www.worldcubeassociation.org/competitions/AachenOpen2009) |
+| 288 | 27 | [Haijun Tan (谭海俊)](https://www.worldcubeassociation.org/persons/2011TANH01) | [Guangzhou Cube Day 2011](https://www.worldcubeassociation.org/competitions/GuangzhouCubeDay2011) |
+| 289 | 27 | [Robert Horvath](https://www.worldcubeassociation.org/persons/2013HORV02) | [World Championship 2013](https://www.worldcubeassociation.org/competitions/WC2013) |
+| 290 | 27 | [Szymon Ruksza](https://www.worldcubeassociation.org/persons/2013RUKS01) | [SLS Jastrzebie 2013](https://www.worldcubeassociation.org/competitions/SLSJastrzebie2013) |
+| 291 | 27 | [Constantin Lüske](https://www.worldcubeassociation.org/persons/2014LSKE01) | [Euro 2014](https://www.worldcubeassociation.org/competitions/Euro2014) |
+| 292 | 27 | [Dalton Nichols](https://www.worldcubeassociation.org/persons/2014NICH02) | [Florida Feast 2014](https://www.worldcubeassociation.org/competitions/Florida2014) |
+| 293 | 27 | [Xi Zhang (张希)](https://www.worldcubeassociation.org/persons/2015ZHAN62) | [Hong Kong Summer 2015](https://www.worldcubeassociation.org/competitions/HongKongSummerCubeDay2015) |
+| 294 | 27 | [Franek Saliński](https://www.worldcubeassociation.org/persons/2015SALI02) | [Polish Championship 2015](https://www.worldcubeassociation.org/competitions/PolishChampionship2015) |
+| 295 | 27 | [Spencer Andersen](https://www.worldcubeassociation.org/persons/2016ANDE02) | [Williams Winter 2016](https://www.worldcubeassociation.org/competitions/WilliamsWinter2016) |
+| 296 | 27 | [Jordi Borrell](https://www.worldcubeassociation.org/persons/2016BORR02) | [Spanish Championship 2016](https://www.worldcubeassociation.org/competitions/SpanishChampionship2016) |
+| 297 | 27 | [Coleton Pleiss](https://www.worldcubeassociation.org/persons/2017PLEI01) | [Marrs Mixup Winter 2017](https://www.worldcubeassociation.org/competitions/MarrsMixupWinter2017) |
+| 298 | 27 | [Reuben San Luis](https://www.worldcubeassociation.org/persons/2017LUIS01) | [San Ramon 2017](https://www.worldcubeassociation.org/competitions/SanRamon2017) |
+| 299 | 27 | [Charlie Harrison](https://www.worldcubeassociation.org/persons/2017HARR08) | [Newcastle-under-Lyme Open 2017](https://www.worldcubeassociation.org/competitions/NewcastleunderLyme2017) |
+| 300 | 27 | [Itamar Turm](https://www.worldcubeassociation.org/persons/2017TURM01) | [Israel Championship 2017](https://www.worldcubeassociation.org/competitions/IsraelChampionship2017) |
+| 301 | 27 | [Daxton Westlake](https://www.worldcubeassociation.org/persons/2018WEST07) | [Poly Cubed 2018](https://www.worldcubeassociation.org/competitions/PolyCubed2018) |
+| 302 | 27 | [José Miguel Beguiristain](https://www.worldcubeassociation.org/persons/2019BEGU01) | [Iruña Open 2019](https://www.worldcubeassociation.org/competitions/IrunaOpen2019) |
+| 303 | 27 | [Miguel Ángel Galdeano Medina](https://www.worldcubeassociation.org/persons/2019MEDI04) | [Chanquete Open 2019](https://www.worldcubeassociation.org/competitions/ChanqueteOpen2019) |
+| 304 | 27 | [Maarten Schuil](https://www.worldcubeassociation.org/persons/2020SCHU01) | [Dutch Masters 2020](https://www.worldcubeassociation.org/competitions/DutchMasters2020) |
+| 305 | 27 | [Chen-Jyun Pan (潘辰寯)](https://www.worldcubeassociation.org/persons/2020PANC01) | [Taiwan Championship 2020](https://www.worldcubeassociation.org/competitions/TaiwanChampionship2020) |
+| 306 | 27 | [Miller Atkinson](https://www.worldcubeassociation.org/persons/2021ATKI01) | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021) |
+| 307 | 27 | [Evan Beck](https://www.worldcubeassociation.org/persons/2021BECK01) | [Idaho Summer A 2021](https://www.worldcubeassociation.org/competitions/IdahoSummerA2021) |
+| 308 | 27 | [Vanessa Tyszkiewicz](https://www.worldcubeassociation.org/persons/2021TYSZ01) | [LLS III Zamość 2021](https://www.worldcubeassociation.org/competitions/LLSIIIZamosc2021) |
 | 309 | 27 | [Jaustin Gudbrandsen](https://www.worldcubeassociation.org/persons/2021GUDB01) | [Connecticut Spring 2023](https://www.worldcubeassociation.org/competitions/ConnecticutSpring2023) |
 | 310 | 27 | [Tzu-Yang Chang (張子洋)](https://www.worldcubeassociation.org/persons/2022CHAN02) | [CK Cubing Party 2023](https://www.worldcubeassociation.org/competitions/CKCubingParty2023) |
 | 311 | 27 | [Eduardo Lucas Muñoz de Lucas](https://www.worldcubeassociation.org/persons/2022LUCA04) | [Parla Open 2022](https://www.worldcubeassociation.org/competitions/ParlaOpen2022) |
@@ -363,17 +363,17 @@
 | 357 | 26 | [Alex Chisăliță-Ignat](https://www.worldcubeassociation.org/persons/2022CHIS01) | [Bucharest Back to Cube 2022](https://www.worldcubeassociation.org/competitions/BucharestBacktoCube2022) |
 | 358 | 26 | [Felipe Santamaría Ruiz](https://www.worldcubeassociation.org/persons/2022RUIZ03) | [Montevideo Open 2022](https://www.worldcubeassociation.org/competitions/MontevideoOpen2022) |
 | 359 | 26 | [Guttorm Syvertsen-Wiig](https://www.worldcubeassociation.org/persons/2022SYVE02) | [Trondheim Euro Qualifiers 2022](https://www.worldcubeassociation.org/competitions/TrondheimEuroQualifiers2022) |
-| 360 | 26 | [Trevor Mendelson](https://www.worldcubeassociation.org/persons/2022MEND14) | [BASC 34 - San Ramon 2022](https://www.worldcubeassociation.org/competitions/BASC34SanRamon2022) |
-| 361 | 26 | [Ethan Mendelson](https://www.worldcubeassociation.org/persons/2022MEND13) | [BASC 34 - San Ramon 2022](https://www.worldcubeassociation.org/competitions/BASC34SanRamon2022) |
-| 362 | 26 | [Victor Anton Stoica](https://www.worldcubeassociation.org/persons/2022STOI02) | [U.R.A. Summer Cubes 2022](https://www.worldcubeassociation.org/competitions/URASummerCubes2022) |
-| 363 | 26 | [Theo Lee](https://www.worldcubeassociation.org/persons/2022LEET03) | [Southern Utah Summer 2022](https://www.worldcubeassociation.org/competitions/SouthernUtahSummer2022) |
+| 360 | 26 | [Ethan Mendelson](https://www.worldcubeassociation.org/persons/2022MEND13) | [BASC 34 - San Ramon 2022](https://www.worldcubeassociation.org/competitions/BASC34SanRamon2022) |
+| 361 | 26 | [Trevor Mendelson](https://www.worldcubeassociation.org/persons/2022MEND14) | [BASC 34 - San Ramon 2022](https://www.worldcubeassociation.org/competitions/BASC34SanRamon2022) |
+| 362 | 26 | [Theo Lee](https://www.worldcubeassociation.org/persons/2022LEET03) | [Southern Utah Summer 2022](https://www.worldcubeassociation.org/competitions/SouthernUtahSummer2022) |
+| 363 | 26 | [Victor Anton Stoica](https://www.worldcubeassociation.org/persons/2022STOI02) | [U.R.A. Summer Cubes 2022](https://www.worldcubeassociation.org/competitions/URASummerCubes2022) |
 | 364 | 26 | [James Jarrett](https://www.worldcubeassociation.org/persons/2022JARR01) | [Norwich Summer 2022](https://www.worldcubeassociation.org/competitions/NorwichSummer2022) |
 | 365 | 26 | [Drew Duong](https://www.worldcubeassociation.org/persons/2022DUON08) | [Pretzel Mania 2022](https://www.worldcubeassociation.org/competitions/PretzelMania2022) |
 | 366 | 26 | [Harry Adler](https://www.worldcubeassociation.org/persons/2022ADLE05) | [Marrickville Mini Open PM 2022](https://www.worldcubeassociation.org/competitions/MarrickvilleMiniOpenPM2022) |
 | 367 | 26 | [Christopher Kilgallon](https://www.worldcubeassociation.org/persons/2022KILG02) | [Kewbz UK Championship 2022](https://www.worldcubeassociation.org/competitions/KewbzUKChampionship2022) |
 | 368 | 26 | [Pasin Lerdmanoyan (พศิน เลิศมโนญาน)](https://www.worldcubeassociation.org/persons/2022LERD02) | [Bangkok Cube Fest 2022](https://www.worldcubeassociation.org/competitions/BangkokCubeFest2022) |
-| 369 | 26 | [Brandon Yee](https://www.worldcubeassociation.org/persons/2022YEEB01) | [Bay Area Speedcubin' 39 2022](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin392022) |
-| 370 | 26 | [Taylor Schannon](https://www.worldcubeassociation.org/persons/2022SCHA17) | [Bay Area Speedcubin' 39 2022](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin392022) |
+| 369 | 26 | [Taylor Schannon](https://www.worldcubeassociation.org/persons/2022SCHA17) | [Bay Area Speedcubin' 39 2022](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin392022) |
+| 370 | 26 | [Brandon Yee](https://www.worldcubeassociation.org/persons/2022YEEB01) | [Bay Area Speedcubin' 39 2022](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin392022) |
 | 371 | 26 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | [NZ Nationals 2022](https://www.worldcubeassociation.org/competitions/NewZealandNationals2022) |
 | 372 | 26 | [Samuel Threlkeld](https://www.worldcubeassociation.org/persons/2022THRE02) | [Texarkana Winter 2022](https://www.worldcubeassociation.org/competitions/TexarkanaWinter2022) |
 | 373 | 26 | [Yahir Iván Sánchez Sánchez](https://www.worldcubeassociation.org/persons/2023SANC02) | [Cubing Tlaxcala 2023](https://www.worldcubeassociation.org/competitions/CubingTlaxcala2023) |
@@ -514,8 +514,8 @@
 | 508 | 24 | [Siwoo Kim](https://www.worldcubeassociation.org/persons/2022KIMS12) | [Southern Championship 2023](https://www.worldcubeassociation.org/competitions/SouthernChampionship2023) |
 | 509 | 24 | [Federico Chiarello](https://www.worldcubeassociation.org/persons/2022CHIA13) | [Crevalcore al Cubo 2022](https://www.worldcubeassociation.org/competitions/CrevalcorealCubo2022) |
 | 510 | 24 | [Richard Rettich](https://www.worldcubeassociation.org/persons/2022RETT01) | [Swiss Science Open 2022](https://www.worldcubeassociation.org/competitions/SwissScienceOpen2022) |
-| 511 | 24 | [Bran Misashi Ornido](https://www.worldcubeassociation.org/persons/2022ORNI01) | [Cavite Speedcubing Open III 2022](https://www.worldcubeassociation.org/competitions/CaviteSpeedcubingOpenIII2022) |
-| 512 | 24 | [River Misashi Ornido](https://www.worldcubeassociation.org/persons/2022ORNI02) | [Cavite Speedcubing Open III 2022](https://www.worldcubeassociation.org/competitions/CaviteSpeedcubingOpenIII2022) |
+| 511 | 24 | [River Misashi Ornido](https://www.worldcubeassociation.org/persons/2022ORNI02) | [Cavite Speedcubing Open III 2022](https://www.worldcubeassociation.org/competitions/CaviteSpeedcubingOpenIII2022) |
+| 512 | 24 | [Bran Misashi Ornido](https://www.worldcubeassociation.org/persons/2022ORNI01) | [Cavite Speedcubing Open III 2022](https://www.worldcubeassociation.org/competitions/CaviteSpeedcubingOpenIII2022) |
 | 513 | 24 | [Sebastian Andrei Neacsu](https://www.worldcubeassociation.org/persons/2022NEAC01) | [U.R.A. Easter Cubing 2023](https://www.worldcubeassociation.org/competitions/URAEasterCubing2023) |
 | 514 | 24 | [Marc Brem](https://www.worldcubeassociation.org/persons/2022BREM02) | [Chääswürfel 2022](https://www.worldcubeassociation.org/competitions/Chaeaeswuerfel2022) |
 | 515 | 24 | [Marek Dojtrowski](https://www.worldcubeassociation.org/persons/2023DOJT01) | [Cube Factory 2023](https://www.worldcubeassociation.org/competitions/CubeFactory2023) |
@@ -702,8 +702,8 @@
 | 696 | 22 | [Thiago Arboleda Garcia](https://www.worldcubeassociation.org/persons/2022GARC32) | [Beat the Clock Sabaneta 2023](https://www.worldcubeassociation.org/competitions/BeattheClockSabaneta2023) |
 | 697 | 22 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) | [Dragon Cubing I 2024](https://www.worldcubeassociation.org/competitions/DragonCubingI2024) |
 | 698 | 22 | [Daniel Tsyporin (Даніель Ципорін)](https://www.worldcubeassociation.org/persons/2022TSYP01) | [U24 Open September 2022](https://www.worldcubeassociation.org/competitions/U24OpenSeptember2022) |
-| 699 | 22 | [Tudor Petru Stoica](https://www.worldcubeassociation.org/persons/2022STOI03) | [U.R.A. Back to School 2022](https://www.worldcubeassociation.org/competitions/URABacktoSchool2022) |
-| 700 | 22 | [Brenden Vaughn](https://www.worldcubeassociation.org/persons/2022VAUG03) | [Ohio Valley Open 2022](https://www.worldcubeassociation.org/competitions/OhioValleyOpen2022) |
+| 699 | 22 | [Brenden Vaughn](https://www.worldcubeassociation.org/persons/2022VAUG03) | [Ohio Valley Open 2022](https://www.worldcubeassociation.org/competitions/OhioValleyOpen2022) |
+| 700 | 22 | [Tudor Petru Stoica](https://www.worldcubeassociation.org/persons/2022STOI03) | [U.R.A. Back to School 2022](https://www.worldcubeassociation.org/competitions/URABacktoSchool2022) |
 | 701 | 22 | [Anthony Iskander](https://www.worldcubeassociation.org/persons/2022ISKA02) | [SOS Newmarket 2023](https://www.worldcubeassociation.org/competitions/SOSNewmarket2023) |
 | 702 | 22 | [Jiří Vogl](https://www.worldcubeassociation.org/persons/2022VOGL02) | [KoprCube 2022](https://www.worldcubeassociation.org/competitions/KoprCube2022) |
 | 703 | 22 | [Owen Orger](https://www.worldcubeassociation.org/persons/2022ORGE01) | [Archena 24 Horas 2022](https://www.worldcubeassociation.org/competitions/Archena24Horas2022) |
@@ -819,8 +819,8 @@
 | 813 | 21 | [Héctor Sanchis Miedes](https://www.worldcubeassociation.org/persons/2022MIED01) | [Burjassot Open 2022](https://www.worldcubeassociation.org/competitions/BurjassotOpen2022) |
 | 814 | 21 | [Anthony Finnigan](https://www.worldcubeassociation.org/persons/2022FINN02) | [Sherwood Park Summer 2023](https://www.worldcubeassociation.org/competitions/SherwoodParkSummer2023) |
 | 815 | 21 | [Ian Leonardo Acevedo Armenta](https://www.worldcubeassociation.org/persons/2022ARME01) | [Speedcube Baja Open 2022](https://www.worldcubeassociation.org/competitions/SpeedcubeBajaOpen2022) |
-| 816 | 21 | [Maxim Pürstinger](https://www.worldcubeassociation.org/persons/2022PURS01) | [Vienna Open 2022](https://www.worldcubeassociation.org/competitions/ViennaOpen2022) |
-| 817 | 21 | [James Helland](https://www.worldcubeassociation.org/persons/2022HELL04) | [Rochester Fall 2022](https://www.worldcubeassociation.org/competitions/RochesterFall2022) |
+| 816 | 21 | [James Helland](https://www.worldcubeassociation.org/persons/2022HELL04) | [Rochester Fall 2022](https://www.worldcubeassociation.org/competitions/RochesterFall2022) |
+| 817 | 21 | [Maxim Pürstinger](https://www.worldcubeassociation.org/persons/2022PURS01) | [Vienna Open 2022](https://www.worldcubeassociation.org/competitions/ViennaOpen2022) |
 | 818 | 21 | [Aron Kasprowicz](https://www.worldcubeassociation.org/persons/2022KASP07) | [Mikołajki Open 2022](https://www.worldcubeassociation.org/competitions/MikolajkiOpen2022) |
 | 819 | 21 | [Deasúin Kenny](https://www.worldcubeassociation.org/persons/2022KENN12) | [Irish Championship 2022](https://www.worldcubeassociation.org/competitions/IrishChampionship2022) |
 | 820 | 21 | [Lars Krökel](https://www.worldcubeassociation.org/persons/2022KROK02) | [Franconia Winter 2022](https://www.worldcubeassociation.org/competitions/FranconiaWinter2022) |
@@ -961,49 +961,49 @@
 | 955 | 20 | [Timothy Yang](https://www.worldcubeassociation.org/persons/2022YANG11) | [Abbotsford Begins 2022](https://www.worldcubeassociation.org/competitions/AbbotsfordBegins2022) |
 | 956 | 20 | [Halvard Thoen Vedå](https://www.worldcubeassociation.org/persons/2022VEDA01) | [Norwegian Championship 2022](https://www.worldcubeassociation.org/competitions/NorwegianChampionship2022) |
 | 957 | 20 | [Samuel Hicking](https://www.worldcubeassociation.org/persons/2022HICK03) | [Granite State 2022](https://www.worldcubeassociation.org/competitions/GraniteState2022) |
-| 958 | 20 | [Miles LeBlanc](https://www.worldcubeassociation.org/persons/2022LEBL02) | [Back to School Utah 2022](https://www.worldcubeassociation.org/competitions/BacktoSchoolUtah2022) |
-| 959 | 20 | [Francesco Fiore](https://www.worldcubeassociation.org/persons/2022FIOR04) | [Castenaso Strikes Back 2022](https://www.worldcubeassociation.org/competitions/CastenasoStrikesBack2022) |
+| 958 | 20 | [Francesco Fiore](https://www.worldcubeassociation.org/persons/2022FIOR04) | [Castenaso Strikes Back 2022](https://www.worldcubeassociation.org/competitions/CastenasoStrikesBack2022) |
+| 959 | 20 | [Miles LeBlanc](https://www.worldcubeassociation.org/persons/2022LEBL02) | [Back to School Utah 2022](https://www.worldcubeassociation.org/competitions/BacktoSchoolUtah2022) |
 | 960 | 20 | [Alberto Pisa Ibarz](https://www.worldcubeassociation.org/persons/2022IBAR02) | [Bilbao Open 2022](https://www.worldcubeassociation.org/competitions/BilbaoOpen2022) |
 | 961 | 20 | [Benjamin Franklin](https://www.worldcubeassociation.org/persons/2022FRAN27) | [Get to the Point 2022](https://www.worldcubeassociation.org/competitions/GettothePoint2022) |
-| 962 | 20 | [Łukasz Kubica](https://www.worldcubeassociation.org/persons/2022KUBI04) | [Cubing Rising Stars Olesno 2022](https://www.worldcubeassociation.org/competitions/CubingRisingStarsOlesno2022) |
-| 963 | 20 | [Joshua Da Costa](https://www.worldcubeassociation.org/persons/2022COST18) | [Rubik's UK Championship 2023](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2023) |
-| 964 | 20 | [Gustavo Henrique Arins](https://www.worldcubeassociation.org/persons/2022ARIN01) | [Floripa ao Cubo 2022](https://www.worldcubeassociation.org/competitions/FloripaaoCubo2022) |
-| 965 | 20 | [Stephanie Lopez](https://www.worldcubeassociation.org/persons/2022LOPE37) | [Cubing in The Springs 2022](https://www.worldcubeassociation.org/competitions/CubinginTheSprings2022) |
-| 966 | 20 | [Fox Forrester](https://www.worldcubeassociation.org/persons/2022FORR01) | [Cowbell Cubing 2022](https://www.worldcubeassociation.org/competitions/CowbellCubing2022) |
-| 967 | 20 | [Julia Hurley](https://www.worldcubeassociation.org/persons/2022HURL02) | [Irish Championship 2022](https://www.worldcubeassociation.org/competitions/IrishChampionship2022) |
-| 968 | 20 | [Luukas Nuutinen](https://www.worldcubeassociation.org/persons/2022NUUT01) | [Level Up Uusimaa 2022](https://www.worldcubeassociation.org/competitions/LevelUpUusimaa2022) |
-| 969 | 20 | [Yvo Lustenberger](https://www.worldcubeassociation.org/persons/2022LUST02) | [Swisscubing Cup Finale 2022](https://www.worldcubeassociation.org/competitions/SwisscubingCupFinale2022) |
-| 970 | 20 | [Vincent Hua](https://www.worldcubeassociation.org/persons/2023HUAV01) | [Cubing at The Cube Saturday 2023](https://www.worldcubeassociation.org/competitions/CubingAtTheCubeSaturday2023) |
-| 971 | 20 | [Ty Baird](https://www.worldcubeassociation.org/persons/2023BAIR02) | [Utah Ice Cubing 2023](https://www.worldcubeassociation.org/competitions/UtahIceCubing2023) |
-| 972 | 20 | [Ryan Chan](https://www.worldcubeassociation.org/persons/2023CHAN16) | [Brent Cross Winter 2023](https://www.worldcubeassociation.org/competitions/BrentCrossWinter2023) |
-| 973 | 20 | [William Jackson](https://www.worldcubeassociation.org/persons/2023JACK04) | [Wellington Summer 2023](https://www.worldcubeassociation.org/competitions/WellingtonSummer2023) |
-| 974 | 20 | [Natchanon Yimkaew (ณัฐชนน ยิ้มเเก้ว)](https://www.worldcubeassociation.org/persons/2023YIMK01) | [Bangkok Cube Day Rainy 2024](https://www.worldcubeassociation.org/competitions/BangkokCubeDayRainy2024) |
-| 975 | 20 | [Fabián Villavicencio](https://www.worldcubeassociation.org/persons/2023VILL10) | [Sambil Valencia Cubing Day 2023](https://www.worldcubeassociation.org/competitions/SambilValenciaCubingDay2023) |
-| 976 | 20 | [John S. Russell III](https://www.worldcubeassociation.org/persons/2023RUSS03) | [Bayou Big Cubes 2023](https://www.worldcubeassociation.org/competitions/BayouBigCubes2023) |
-| 977 | 20 | [Marcin Wawiórko](https://www.worldcubeassociation.org/persons/2023WAWI01) | [GLS II 2023](https://www.worldcubeassociation.org/competitions/GLSII2023) |
-| 978 | 20 | [Lucas Naim Zvinys](https://www.worldcubeassociation.org/persons/2023ZVIN01) | [Di Tella Open 2023](https://www.worldcubeassociation.org/competitions/DiTellaOpen2023) |
-| 979 | 20 | [Julia Jabłońska](https://www.worldcubeassociation.org/persons/2023JABL02) | [Cube Factory 2023](https://www.worldcubeassociation.org/competitions/CubeFactory2023) |
-| 980 | 20 | [Stefano Della Valle](https://www.worldcubeassociation.org/persons/2023VALL04) | [Cubing Italy for Charity 2023](https://www.worldcubeassociation.org/competitions/CubingItalyforCharity2023) |
-| 981 | 20 | [Ochir-Erdene Tsogtdelger (Цогтдэлгэр Очир-Эрдэнэ)](https://www.worldcubeassociation.org/persons/2023TSOG01) | [Ulaanbaatar Spring 2023](https://www.worldcubeassociation.org/competitions/UlaanbaatarSpring2023) |
-| 982 | 20 | [Ohev Nassi](https://www.worldcubeassociation.org/persons/2023NASS01) | [Kubiat HaNegev B 2023](https://www.worldcubeassociation.org/competitions/KubiatHaNegevB2023) |
-| 983 | 20 | [JZ Lyle Dexter Wamar](https://www.worldcubeassociation.org/persons/2023WAMA01) | [Laguna Speedcubing Open 2023](https://www.worldcubeassociation.org/competitions/LagunaSpeedcubingOpen2023) |
-| 984 | 20 | [Felizian Baumgartner](https://www.worldcubeassociation.org/persons/2023BAUM08) | [Wiener Frühling 2023](https://www.worldcubeassociation.org/competitions/WienerFruhling2023) |
-| 985 | 20 | [Anshul Badami Rao](https://www.worldcubeassociation.org/persons/2023RAOA04) | [Nexus Summer Open Saturday 2023](https://www.worldcubeassociation.org/competitions/NexusSummerOpenSaturday2023) |
-| 986 | 20 | [David Liu](https://www.worldcubeassociation.org/persons/2023LIUD02) | [OH in a Madison Ballroom 2023](https://www.worldcubeassociation.org/competitions/OHinaMadisonBallroom2023) |
-| 987 | 20 | [Benjamín Bermúdez Vélez](https://www.worldcubeassociation.org/persons/2023VELE05) | [Rionegro al Cubo 2023](https://www.worldcubeassociation.org/competitions/RionegroalCubo2023) |
-| 988 | 20 | [Trishan Reddy Katamreddy](https://www.worldcubeassociation.org/persons/2023KATA05) | [Hyderabad Cube Open 2023](https://www.worldcubeassociation.org/competitions/HyderabadCubeOpen2023) |
-| 989 | 20 | [Adam Dojtrowski](https://www.worldcubeassociation.org/persons/2023DOJT02) | [Energy Cube Tomaszów 2023](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2023) |
-| 990 | 20 | [Akash Jain (ジェン明志)](https://www.worldcubeassociation.org/persons/2023JAIN31) | [Stevenage September 2023](https://www.worldcubeassociation.org/competitions/StevenageSeptember2023) |
-| 991 | 20 | [Kymo Hendriks](https://www.worldcubeassociation.org/persons/2023HEND11) | [Dutch Autumn 2023](https://www.worldcubeassociation.org/competitions/DutchAutumn2023) |
-| 992 | 20 | [Lennert Smeets](https://www.worldcubeassociation.org/persons/2023SMEE02) | [Annuntia Sunday Open 2023](https://www.worldcubeassociation.org/competitions/AnnuntiaSundayOpen2023) |
-| 993 | 20 | [Anja Strydom](https://www.worldcubeassociation.org/persons/2023STRY02) | [Dutch Nationals 2023](https://www.worldcubeassociation.org/competitions/DutchNationals2023) |
-| 994 | 20 | [Rafał Gawełczyk](https://www.worldcubeassociation.org/persons/2023GAWE01) | [Dragon Cubing I 2024](https://www.worldcubeassociation.org/competitions/DragonCubingI2024) |
-| 995 | 20 | [Justin Rose](https://www.worldcubeassociation.org/persons/2024ROSE05) | [Cubing in Mount Kisco 2024](https://www.worldcubeassociation.org/competitions/CubinginMountKisco2024) |
-| 996 | 20 | [Makai Guay](https://www.worldcubeassociation.org/persons/2024GUAY01) | [New-Cumberland County 2024](https://www.worldcubeassociation.org/competitions/NewCumberlandCounty2024) |
-| 997 | 20 | [Saketh Ram Prashanth](https://www.worldcubeassociation.org/persons/2024PRAS05) | [See Georgia: Lake Russell A 2024](https://www.worldcubeassociation.org/competitions/SeeGeorgiaLakeRussellA2024) |
-| 998 | 20 | [Jayden Kvernmo](https://www.worldcubeassociation.org/persons/2024KVER01) | [Barberton Mini 1 2024](https://www.worldcubeassociation.org/competitions/BarbertonMini12024) |
-| 999 | 20 | [Caty Langa](https://www.worldcubeassociation.org/persons/2024LANG10) | [Edinburgh Summer Beginners 2024](https://www.worldcubeassociation.org/competitions/EdinburghSummerBeginners2024) |
-| 1000 | 19 | [SeungWoon Lee (이승운)](https://www.worldcubeassociation.org/persons/2006SEUN02) | [Korean Championship 2024](https://www.worldcubeassociation.org/competitions/KoreanChampionship2024) |
+| 962 | 20 | [Victor Alejandro Meza Maturana](https://www.worldcubeassociation.org/persons/2022MATU05) | [Santiago UV Open 2022](https://www.worldcubeassociation.org/competitions/SantiagoUVOpen2022) |
+| 963 | 20 | [Łukasz Kubica](https://www.worldcubeassociation.org/persons/2022KUBI04) | [Cubing Rising Stars Olesno 2022](https://www.worldcubeassociation.org/competitions/CubingRisingStarsOlesno2022) |
+| 964 | 20 | [Joshua Da Costa](https://www.worldcubeassociation.org/persons/2022COST18) | [Rubik's UK Championship 2023](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2023) |
+| 965 | 20 | [Gustavo Henrique Arins](https://www.worldcubeassociation.org/persons/2022ARIN01) | [Floripa ao Cubo 2022](https://www.worldcubeassociation.org/competitions/FloripaaoCubo2022) |
+| 966 | 20 | [Stephanie Lopez](https://www.worldcubeassociation.org/persons/2022LOPE37) | [Cubing in The Springs 2022](https://www.worldcubeassociation.org/competitions/CubinginTheSprings2022) |
+| 967 | 20 | [Fox Forrester](https://www.worldcubeassociation.org/persons/2022FORR01) | [Cowbell Cubing 2022](https://www.worldcubeassociation.org/competitions/CowbellCubing2022) |
+| 968 | 20 | [Julia Hurley](https://www.worldcubeassociation.org/persons/2022HURL02) | [Irish Championship 2022](https://www.worldcubeassociation.org/competitions/IrishChampionship2022) |
+| 969 | 20 | [Luukas Nuutinen](https://www.worldcubeassociation.org/persons/2022NUUT01) | [Level Up Uusimaa 2022](https://www.worldcubeassociation.org/competitions/LevelUpUusimaa2022) |
+| 970 | 20 | [Yvo Lustenberger](https://www.worldcubeassociation.org/persons/2022LUST02) | [Swisscubing Cup Finale 2022](https://www.worldcubeassociation.org/competitions/SwisscubingCupFinale2022) |
+| 971 | 20 | [Vincent Hua](https://www.worldcubeassociation.org/persons/2023HUAV01) | [Cubing at The Cube Saturday 2023](https://www.worldcubeassociation.org/competitions/CubingAtTheCubeSaturday2023) |
+| 972 | 20 | [Ty Baird](https://www.worldcubeassociation.org/persons/2023BAIR02) | [Utah Ice Cubing 2023](https://www.worldcubeassociation.org/competitions/UtahIceCubing2023) |
+| 973 | 20 | [Ryan Chan](https://www.worldcubeassociation.org/persons/2023CHAN16) | [Brent Cross Winter 2023](https://www.worldcubeassociation.org/competitions/BrentCrossWinter2023) |
+| 974 | 20 | [William Jackson](https://www.worldcubeassociation.org/persons/2023JACK04) | [Wellington Summer 2023](https://www.worldcubeassociation.org/competitions/WellingtonSummer2023) |
+| 975 | 20 | [Natchanon Yimkaew (ณัฐชนน ยิ้มเเก้ว)](https://www.worldcubeassociation.org/persons/2023YIMK01) | [Bangkok Cube Day Rainy 2024](https://www.worldcubeassociation.org/competitions/BangkokCubeDayRainy2024) |
+| 976 | 20 | [Fabián Villavicencio](https://www.worldcubeassociation.org/persons/2023VILL10) | [Sambil Valencia Cubing Day 2023](https://www.worldcubeassociation.org/competitions/SambilValenciaCubingDay2023) |
+| 977 | 20 | [John S. Russell III](https://www.worldcubeassociation.org/persons/2023RUSS03) | [Bayou Big Cubes 2023](https://www.worldcubeassociation.org/competitions/BayouBigCubes2023) |
+| 978 | 20 | [Marcin Wawiórko](https://www.worldcubeassociation.org/persons/2023WAWI01) | [GLS II 2023](https://www.worldcubeassociation.org/competitions/GLSII2023) |
+| 979 | 20 | [Lucas Naim Zvinys](https://www.worldcubeassociation.org/persons/2023ZVIN01) | [Di Tella Open 2023](https://www.worldcubeassociation.org/competitions/DiTellaOpen2023) |
+| 980 | 20 | [Julia Jabłońska](https://www.worldcubeassociation.org/persons/2023JABL02) | [Cube Factory 2023](https://www.worldcubeassociation.org/competitions/CubeFactory2023) |
+| 981 | 20 | [Stefano Della Valle](https://www.worldcubeassociation.org/persons/2023VALL04) | [Cubing Italy for Charity 2023](https://www.worldcubeassociation.org/competitions/CubingItalyforCharity2023) |
+| 982 | 20 | [Ochir-Erdene Tsogtdelger (Цогтдэлгэр Очир-Эрдэнэ)](https://www.worldcubeassociation.org/persons/2023TSOG01) | [Ulaanbaatar Spring 2023](https://www.worldcubeassociation.org/competitions/UlaanbaatarSpring2023) |
+| 983 | 20 | [Ohev Nassi](https://www.worldcubeassociation.org/persons/2023NASS01) | [Kubiat HaNegev B 2023](https://www.worldcubeassociation.org/competitions/KubiatHaNegevB2023) |
+| 984 | 20 | [JZ Lyle Dexter Wamar](https://www.worldcubeassociation.org/persons/2023WAMA01) | [Laguna Speedcubing Open 2023](https://www.worldcubeassociation.org/competitions/LagunaSpeedcubingOpen2023) |
+| 985 | 20 | [Felizian Baumgartner](https://www.worldcubeassociation.org/persons/2023BAUM08) | [Wiener Frühling 2023](https://www.worldcubeassociation.org/competitions/WienerFruhling2023) |
+| 986 | 20 | [Anshul Badami Rao](https://www.worldcubeassociation.org/persons/2023RAOA04) | [Nexus Summer Open Saturday 2023](https://www.worldcubeassociation.org/competitions/NexusSummerOpenSaturday2023) |
+| 987 | 20 | [David Liu](https://www.worldcubeassociation.org/persons/2023LIUD02) | [OH in a Madison Ballroom 2023](https://www.worldcubeassociation.org/competitions/OHinaMadisonBallroom2023) |
+| 988 | 20 | [Benjamín Bermúdez Vélez](https://www.worldcubeassociation.org/persons/2023VELE05) | [Rionegro al Cubo 2023](https://www.worldcubeassociation.org/competitions/RionegroalCubo2023) |
+| 989 | 20 | [Trishan Reddy Katamreddy](https://www.worldcubeassociation.org/persons/2023KATA05) | [Hyderabad Cube Open 2023](https://www.worldcubeassociation.org/competitions/HyderabadCubeOpen2023) |
+| 990 | 20 | [Adam Dojtrowski](https://www.worldcubeassociation.org/persons/2023DOJT02) | [Energy Cube Tomaszów 2023](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2023) |
+| 991 | 20 | [Akash Jain (ジェン明志)](https://www.worldcubeassociation.org/persons/2023JAIN31) | [Stevenage September 2023](https://www.worldcubeassociation.org/competitions/StevenageSeptember2023) |
+| 992 | 20 | [Kymo Hendriks](https://www.worldcubeassociation.org/persons/2023HEND11) | [Dutch Autumn 2023](https://www.worldcubeassociation.org/competitions/DutchAutumn2023) |
+| 993 | 20 | [Lennert Smeets](https://www.worldcubeassociation.org/persons/2023SMEE02) | [Annuntia Sunday Open 2023](https://www.worldcubeassociation.org/competitions/AnnuntiaSundayOpen2023) |
+| 994 | 20 | [Anja Strydom](https://www.worldcubeassociation.org/persons/2023STRY02) | [Dutch Nationals 2023](https://www.worldcubeassociation.org/competitions/DutchNationals2023) |
+| 995 | 20 | [Rafał Gawełczyk](https://www.worldcubeassociation.org/persons/2023GAWE01) | [Dragon Cubing I 2024](https://www.worldcubeassociation.org/competitions/DragonCubingI2024) |
+| 996 | 20 | [Justin Rose](https://www.worldcubeassociation.org/persons/2024ROSE05) | [Cubing in Mount Kisco 2024](https://www.worldcubeassociation.org/competitions/CubinginMountKisco2024) |
+| 997 | 20 | [Makai Guay](https://www.worldcubeassociation.org/persons/2024GUAY01) | [New-Cumberland County 2024](https://www.worldcubeassociation.org/competitions/NewCumberlandCounty2024) |
+| 998 | 20 | [Saketh Ram Prashanth](https://www.worldcubeassociation.org/persons/2024PRAS05) | [See Georgia: Lake Russell A 2024](https://www.worldcubeassociation.org/competitions/SeeGeorgiaLakeRussellA2024) |
+| 999 | 20 | [Jayden Kvernmo](https://www.worldcubeassociation.org/persons/2024KVER01) | [Barberton Mini 1 2024](https://www.worldcubeassociation.org/competitions/BarbertonMini12024) |
+| 1000 | 20 | [Caty Langa](https://www.worldcubeassociation.org/persons/2024LANG10) | [Edinburgh Summer Beginners 2024](https://www.worldcubeassociation.org/competitions/EdinburghSummerBeginners2024) |
 
 
 <a href="https://github.com/JustinTimeCuber/wca_statistics" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>

@@ -1,6 +1,6 @@
 ## Longest streak of competitions with a personal record done
 
-*Updated on 28 August 2025*
+*Updated on 29 August 2025*
 
 | Rank | Competitions | Person | Started at | Ended at |
 | :--- | ---: | :--- | :--- | :--- |
@@ -492,8 +492,8 @@
 | 486 | 34 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023) |  |
 | 487 | 34 | [Eli Ozsvath](https://www.worldcubeassociation.org/persons/2022OZSV01) | [Slow N Steady Spring 2022](https://www.worldcubeassociation.org/competitions/SlowNSteadySpring2022) | [New York New Year 2024](https://www.worldcubeassociation.org/competitions/NewYorkNewYear2024) |
 | 488 | 34 | [Caleb Retik](https://www.worldcubeassociation.org/persons/2022RETI01) | [Moose On The Loose Cubikon 2022](https://www.worldcubeassociation.org/competitions/MooseOnTheLooseCubikon2022) | [Lexington Weeknights VI 2024](https://www.worldcubeassociation.org/competitions/LexingtonWeeknightsVI2024) |
-| 489 | 34 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | [Dublin Open Saturday 2022](https://www.worldcubeassociation.org/competitions/DublinOpenSaturday2022) | [Rubik's Irish Champs FMC 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionshipFMC2025) |
-| 490 | 34 | [Sebastian Stone](https://www.worldcubeassociation.org/persons/2022STON09) | [SacCubing XII 2022](https://www.worldcubeassociation.org/competitions/SacCubingXII2022) | [BASC 61 - San Jose 2024](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin61SanJose2024) |
+| 489 | 34 | [Sebastian Stone](https://www.worldcubeassociation.org/persons/2022STON09) | [SacCubing XII 2022](https://www.worldcubeassociation.org/competitions/SacCubingXII2022) | [BASC 61 - San Jose 2024](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin61SanJose2024) |
+| 490 | 34 | [Cillian Hainbach](https://www.worldcubeassociation.org/persons/2022HAIN04) | [Dublin Open Saturday 2022](https://www.worldcubeassociation.org/competitions/DublinOpenSaturday2022) | [Rubik's Irish Champs FMC 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionshipFMC2025) |
 | 491 | 34 | [Vikram Haldar](https://www.worldcubeassociation.org/persons/2022HALD01) | [SnoCo NxN 2022](https://www.worldcubeassociation.org/competitions/SnoCoNxN2022) |  |
 | 492 | 34 | [Daniel Winterberg](https://www.worldcubeassociation.org/persons/2022WINT09) | [Cubers Flood Watertown 2022](https://www.worldcubeassociation.org/competitions/CubersFloodWatertown2022) |  |
 | 493 | 34 | [Benjamin Tolhurst](https://www.worldcubeassociation.org/persons/2022TOLH01) | [Koalafication Melbourne 2022](https://www.worldcubeassociation.org/competitions/KoalaficationMelbourne2022) | [VIC State Championship 2025](https://www.worldcubeassociation.org/competitions/VICStateChampionship2025) |
@@ -733,8 +733,8 @@
 | 727 | 31 | [Colin Sharpe](https://www.worldcubeassociation.org/persons/2022SHAR37) | [Mt. Prospect Open 2022](https://www.worldcubeassociation.org/competitions/MtProspectOpen2022) |  |
 | 728 | 31 | [Chris Padua](https://www.worldcubeassociation.org/persons/2022PADU02) | [South Luzon Championship 2022](https://www.worldcubeassociation.org/competitions/SouthLuzonChampionship2022) |  |
 | 729 | 31 | [Thea Herborn](https://www.worldcubeassociation.org/persons/2022HERB02) | [Odsherred Julehygge 2022](https://www.worldcubeassociation.org/competitions/OdsherredJulehygge2022) | [Hverdagscubing XII Hvidovre 2024](https://www.worldcubeassociation.org/competitions/HverdagscubingXIIHvidovre2024) |
-| 730 | 31 | [Kaarnik Jain (कार्णिक जैन)](https://www.worldcubeassociation.org/persons/2022JAIN33) | [BCM Arya Cubing Challenge 2022](https://www.worldcubeassociation.org/competitions/BCMAryaCubingChallenge2022) |  |
-| 731 | 31 | [Tsukasa Sano (佐野司)](https://www.worldcubeassociation.org/persons/2022SANO02) | [BASC 40 - San Ramon 2022](https://www.worldcubeassociation.org/competitions/BASC40SanRamon2022) | [SacMini 2025](https://www.worldcubeassociation.org/competitions/SacMini2025) |
+| 730 | 31 | [Tsukasa Sano (佐野司)](https://www.worldcubeassociation.org/persons/2022SANO02) | [BASC 40 - San Ramon 2022](https://www.worldcubeassociation.org/competitions/BASC40SanRamon2022) | [SacMini 2025](https://www.worldcubeassociation.org/competitions/SacMini2025) |
+| 731 | 31 | [Kaarnik Jain (कार्णिक जैन)](https://www.worldcubeassociation.org/persons/2022JAIN33) | [BCM Arya Cubing Challenge 2022](https://www.worldcubeassociation.org/competitions/BCMAryaCubingChallenge2022) |  |
 | 732 | 31 | [Walter Lee Wilson](https://www.worldcubeassociation.org/persons/2023WILS21) | [Welcome to Olympia 2023](https://www.worldcubeassociation.org/competitions/WelcometoOlympia2023) |  |
 | 733 | 31 | [Nicole Santos](https://www.worldcubeassociation.org/persons/2023SANT45) | [WCC Speedcubing Open 2023](https://www.worldcubeassociation.org/competitions/WCCSpeedcubingOpen2023) | [Sikat ng Taon Blitz 2025](https://www.worldcubeassociation.org/competitions/SikatngTaonBlitz2025) |
 | 734 | 30 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) | [German Open 2006](https://www.worldcubeassociation.org/competitions/GermanOpen2006) | [Vejstrup Open 2011](https://www.worldcubeassociation.org/competitions/VejstrupOpen2011) |
