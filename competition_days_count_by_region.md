@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 29 August 2025*
+*Updated on 31 August 2025*
 
 
 ### World
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.46 | World | 15681 |
+| 1 | 1.46 | World | 15687 |
 
 ### Continents
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.72 | Europe | 5070 |
+| 1 | 1.72 | Europe | 5072 |
 | 2 | 1.47 | South America | 1991 |
 | 3 | 1.47 | Oceania | 692 |
-| 4 | 1.41 | Asia | 3237 |
+| 4 | 1.41 | Asia | 3238 |
 | 5 | 1.32 | Africa | 201 |
-| 6 | 1.21 | North America | 4490 |
+| 6 | 1.21 | North America | 4493 |
 
 ### Countries
 
@@ -37,17 +37,17 @@
 | 11 | 1.89 | France | 345 |
 | 12 | 1.88 | Iceland | 17 |
 | 13 | 1.87 | Thailand | 83 |
-| 14 | 1.86 | Norway | 148 |
+| 14 | 1.86 | Norway | 149 |
 | 15 | 1.86 | Spain | 443 |
 | 16 | 1.86 | Palestine | 7 |
 | 17 | 1.86 | Serbia | 28 |
 | 18 | 1.85 | Croatia | 33 |
-| 19 | 1.84 | United Kingdom | 308 |
+| 19 | 1.84 | United Kingdom | 309 |
 | 20 | 1.82 | Finland | 170 |
 | 21 | 1.81 | Slovakia | 52 |
-| 22 | 1.80 | Bosnia and Herzegovina | 15 |
-| 23 | 1.80 | Sri Lanka | 15 |
-| 24 | 1.79 | Mexico | 234 |
+| 22 | 1.80 | Mexico | 235 |
+| 23 | 1.80 | Bosnia and Herzegovina | 15 |
+| 24 | 1.80 | Sri Lanka | 15 |
 | 25 | 1.79 | Switzerland | 155 |
 | 26 | 1.78 | Slovenia | 40 |
 | 27 | 1.76 | Austria | 34 |
@@ -105,7 +105,7 @@
 | 79 | 1.30 | Morocco | 10 |
 | 80 | 1.29 | Colombia | 457 |
 | 81 | 1.29 | Uruguay | 59 |
-| 82 | 1.28 | Philippines | 369 |
+| 82 | 1.28 | Philippines | 370 |
 | 83 | 1.27 | Hong Kong, China | 26 |
 | 84 | 1.25 | Chile | 154 |
 | 85 | 1.25 | Venezuela | 91 |
@@ -118,7 +118,7 @@
 | 92 | 1.18 | Armenia | 11 |
 | 93 | 1.17 | Canada | 450 |
 | 94 | 1.17 | Tunisia | 24 |
-| 95 | 1.16 | United States | 3598 |
+| 95 | 1.16 | United States | 3600 |
 | 96 | 1.15 | Mongolia | 48 |
 | 97 | 1.12 | Azerbaijan | 48 |
 | 98 | 1.11 | Egypt | 9 |
