@@ -1,30 +1,30 @@
 ## DNF rate by event
 
-*Updated on 31 August 2025*
+*Updated on  1 September 2025*
 
 | Rank | DNF rate | Event | DNFs | Attempts |
 | :--- | ---: | :--- | ---: | ---: |
-| 1 | 79.11 % | 5x5x5 Blindfolded | 25039 | 31649 |
-| 2 | 73.47 % | 4x4x4 Blindfolded | 43783 | 59596 |
-| 3 | 63.34 % | 3x3x3 Blindfolded | 294052 | 464262 |
-| 4 | 41.25 % | 3x3x3 Multi-Blind | 18778 | 45518 |
+| 1 | 79.10 % | 5x5x5 Blindfolded | 25101 | 31732 |
+| 2 | 73.45 % | 4x4x4 Blindfolded | 43880 | 59741 |
+| 3 | 63.33 % | 3x3x3 Blindfolded | 294694 | 465326 |
+| 4 | 41.25 % | 3x3x3 Multi-Blind | 18815 | 45611 |
 | 5 | 31.47 % | Rubik's Cube: Multiple blind old style | 186 | 591 |
-| 6 | 27.06 % | 3x3x3 Fewest Moves | 39944 | 147633 |
-| 7 | 13.34 % | Rubik's Clock | 118130 | 885824 |
+| 6 | 27.05 % | 3x3x3 Fewest Moves | 39969 | 147775 |
+| 7 | 13.33 % | Rubik's Clock | 118572 | 889275 |
 | 8 | 9.51 % | Rubik's Magic | 8230 | 86498 |
 | 9 | 8.41 % | 3x3x3 With Feet | 4766 | 56650 |
-| 10 | 4.30 % | 7x7x7 Cube | 10218 | 237558 |
-| 11 | 4.09 % | Megaminx | 34350 | 840069 |
-| 12 | 4.01 % | Square-1 | 30165 | 752051 |
-| 13 | 3.65 % | 4x4x4 Cube | 84147 | 2306714 |
+| 10 | 4.30 % | 7x7x7 Cube | 10235 | 238007 |
+| 11 | 4.08 % | Megaminx | 34394 | 842567 |
+| 12 | 4.01 % | Square-1 | 30212 | 753687 |
+| 13 | 3.65 % | 4x4x4 Cube | 84239 | 2310507 |
 | 14 | 3.57 % | Master Magic | 1481 | 41445 |
-| 15 | 3.51 % | 6x6x6 Cube | 10172 | 289732 |
-| 16 | 3.17 % | 3x3x3 One-Handed | 66973 | 2109556 |
-| 17 | 3.04 % | 5x5x5 Cube | 36447 | 1199300 |
-| 18 | 2.55 % | Pyraminx | 74512 | 2918715 |
-| 19 | 2.50 % | 2x2x2 Cube | 112701 | 4509736 |
-| 20 | 2.44 % | Skewb | 45944 | 1881264 |
-| 21 | 2.09 % | Rubik's Cube | 165875 | 7951016 |
+| 15 | 3.51 % | 6x6x6 Cube | 10194 | 290336 |
+| 16 | 3.17 % | 3x3x3 One-Handed | 67041 | 2112530 |
+| 17 | 3.04 % | 5x5x5 Cube | 36527 | 1201725 |
+| 18 | 2.55 % | Pyraminx | 74645 | 2923827 |
+| 19 | 2.50 % | 2x2x2 Cube | 112904 | 4517021 |
+| 20 | 2.44 % | Skewb | 46040 | 1886019 |
+| 21 | 2.09 % | Rubik's Cube | 166073 | 7962881 |
 
 
 <a href="https://github.com/JustinTimeCuber/wca_statistics" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>
