@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 10 September 2025*
+*Updated on 13 September 2025*
 
 
 ### Rubik's Cube
@@ -1256,13 +1256,13 @@
 | 91 | 0.08 | [Timo Forsthofer](https://www.worldcubeassociation.org/persons/2018FORS03) | 8.87 | 8.95 | [Rubik's German Nationals 2024](https://www.worldcubeassociation.org/competitions/RubiksGermanNationals2024/results/by_person#2018FORS03) |
 | 92 | 0.08 | [Jesús Lindo García](https://www.worldcubeassociation.org/persons/2013GARC08) | 12.50 | 12.58 | [Urnieta Open 2019](https://www.worldcubeassociation.org/competitions/UrnietaOpen2019/results/by_person#2013GARC08) |
 | 93 | 0.09 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 1.63 | 1.72 | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2018KHAN28) |
-| 94 | 0.09 | [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) | 2.31 | 2.40 | [Szansa Cubing Open Warsaw 2024](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2024/results/by_person#2021DENK01) |
-| 95 | 0.09 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | 2.46 | 2.55 | [Ukrainian Open 2025](https://www.worldcubeassociation.org/competitions/UkrainianOpen2025/results/by_person#2014HOLU01) |
-| 96 | 0.09 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) | 2.48 | 2.57 | [GLS II 2025](https://www.worldcubeassociation.org/competitions/GLSII2025/results/by_person#2021GORE01) |
-| 97 | 0.09 | [Marcus Moberg](https://www.worldcubeassociation.org/persons/2016MOBE01) | 2.69 | 2.78 | [SSL 3 Varberg 2019](https://www.worldcubeassociation.org/competitions/SSL3Varberg2019/results/by_person#2016MOBE01) |
-| 98 | 0.09 | [David Rendón Martínez](https://www.worldcubeassociation.org/persons/2018MART75) | 2.78 | 2.87 | [Plaza Madero Chía V 2025](https://www.worldcubeassociation.org/competitions/PlazaMaderoChiaV2025/results/by_person#2018MART75) |
-| 99 | 0.09 | [Zeyu Hu (胡泽宇)](https://www.worldcubeassociation.org/persons/2014HUZE01) | 2.79 | 2.88 | [China Championship 2017](https://www.worldcubeassociation.org/competitions/ChinaChampionship2017/results/by_person#2014HUZE01) |
-| 100 | 0.09 | [Jaime Calzado Gomez](https://www.worldcubeassociation.org/persons/2018GOME06) | 2.79 | 2.88 | [Jesuitinas Txantrea Open 2022](https://www.worldcubeassociation.org/competitions/JesuitinasTxantreaOpen2022/results/by_person#2018GOME06) |
+| 94 | 0.09 | [Brayden Wroten](https://www.worldcubeassociation.org/persons/2018WROT01) | 1.64 | 1.73 | [Colorado Cubing Weekend 2025](https://www.worldcubeassociation.org/competitions/ColoradoCubingWeekend2025/results/by_person#2018WROT01) |
+| 95 | 0.09 | [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) | 2.31 | 2.40 | [Szansa Cubing Open Warsaw 2024](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2024/results/by_person#2021DENK01) |
+| 96 | 0.09 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) | 2.46 | 2.55 | [Ukrainian Open 2025](https://www.worldcubeassociation.org/competitions/UkrainianOpen2025/results/by_person#2014HOLU01) |
+| 97 | 0.09 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) | 2.48 | 2.57 | [GLS II 2025](https://www.worldcubeassociation.org/competitions/GLSII2025/results/by_person#2021GORE01) |
+| 98 | 0.09 | [Marcus Moberg](https://www.worldcubeassociation.org/persons/2016MOBE01) | 2.69 | 2.78 | [SSL 3 Varberg 2019](https://www.worldcubeassociation.org/competitions/SSL3Varberg2019/results/by_person#2016MOBE01) |
+| 99 | 0.09 | [David Rendón Martínez](https://www.worldcubeassociation.org/persons/2018MART75) | 2.78 | 2.87 | [Plaza Madero Chía V 2025](https://www.worldcubeassociation.org/competitions/PlazaMaderoChiaV2025/results/by_person#2018MART75) |
+| 100 | 0.09 | [Zeyu Hu (胡泽宇)](https://www.worldcubeassociation.org/persons/2014HUZE01) | 2.79 | 2.88 | [China Championship 2017](https://www.worldcubeassociation.org/competitions/ChinaChampionship2017/results/by_person#2014HUZE01) |
 
 ### Square-1
 

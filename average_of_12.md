@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 1000 single are taken into account.*
-*Updated on 10 September 2025*
+*Updated on 13 September 2025*
 
 
 ### Rubik's Cube
@@ -212,7 +212,7 @@
 | 97 | 1.53 | [Shuda Huang (黄黍达)](https://www.worldcubeassociation.org/persons/2021HUAN02) | 1.10, 1.43, 1.90, 2.08, 1.34, 1.31, 1.54, 1.24, 2.01, 1.74, 1.49, 1.31 |
 | 98 | 1.53 | [Sebastian Lee](https://www.worldcubeassociation.org/persons/2021LEES01) | 1.49, 0.99, 3.48, 1.78, 1.50, 0.49, 1.76, 1.51, 1.34, 1.71, 1.79, 1.44 |
 | 99 | 1.53 | [Igor Łabędź](https://www.worldcubeassociation.org/persons/2021LABE01) | 2.33, 1.55, 1.18, 1.42, 1.09, 1.57, 1.35, 1.46, 2.14, 1.95, 1.52, 1.18 |
-| 100 | 1.54 | [Rami Sbahi](https://www.worldcubeassociation.org/persons/2011SBAH01) | 1.76, 1.35, 1.35, 1.47, 1.61, 1.52, 1.39, 1.69, 1.43, 2.60, 1.83, 1.26 |
+| 100 | 1.53 | [Gabriel Alonso Ibáñez Miranda](https://www.worldcubeassociation.org/persons/2022MIRA06) | 1.19, 1.33, 1.86, 1.22, 1.67, 1.46, 1.45, 1.52, 1.91, 1.67, 1.53, 1.55 |
 
 ### 4x4x4 Cube
 
@@ -1275,8 +1275,8 @@
 | 5 | 1.74 | [Kaixi Guo (郭铠希)](https://www.worldcubeassociation.org/persons/2023GUOK01) | 1.72, 1.40, 1.63, 2.32, 1.93, 1.64, 1.52, 1.54, 3.64, 1.35, 2.10, 1.57 |
 | 6 | 1.78 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | 2.78, 1.54, 1.86, 1.68, 1.79, 2.01, 1.78, 1.52, 1.69, 1.69, 2.28, 1.52 |
 | 7 | 1.78 | [Vojtěch Grohmann](https://www.worldcubeassociation.org/persons/2021GROH01) | 1.99, 1.45, 4.05, 2.14, 0.99, 1.63, 1.62, 1.62, 2.00, 1.74, 2.18, 1.38 |
-| 8 | 1.81 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 1.67, 2.00, 1.93, 1.60, 2.05, 1.64, 3.34, 1.57, 1.25, 1.52, 2.63, 1.48 |
-| 9 | 1.82 | [Brayden Wroten](https://www.worldcubeassociation.org/persons/2018WROT01) | 1.95, 1.59, 1.77, 1.70, 1.72, 3.44, 1.33, 1.94, 1.87, 2.11, 1.52, 1.98 |
+| 8 | 1.79 | [Brayden Wroten](https://www.worldcubeassociation.org/persons/2018WROT01) | 1.40, 1.84, 2.32, 1.44, 1.56, 2.50, 1.64, 1.66, 1.88, 3.51, 1.65, 1.09 |
+| 9 | 1.81 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 1.67, 2.00, 1.93, 1.60, 2.05, 1.64, 3.34, 1.57, 1.25, 1.52, 2.63, 1.48 |
 | 10 | 1.92 | [Ariel Benchetrit](https://www.worldcubeassociation.org/persons/2019BENC04) | 1.69, 2.23, 2.82, 1.27, 1.75, 2.37, 1.92, 1.80, 2.29, 1.89, 1.49, 1.76 |
 | 11 | 1.92 | [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) | 1.98, 2.24, 2.44, 1.92, 1.84, 1.47, 1.94, 2.07, 2.78, 1.87, 1.46, 1.21 |
 | 12 | 1.92 | [Dean Jacob Adamo Susskind](https://www.worldcubeassociation.org/persons/2022SUSS01) | 1.47, 1.83, 2.05, 3.89, 1.95, 1.98, 2.31, 1.57, 1.86, 2.30, 1.72, 1.61 |
