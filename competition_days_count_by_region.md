@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 13 September 2025*
+*Updated on 16 September 2025*
 
 
 ### World
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.46 | World | 15793 |
+| 1 | 1.46 | World | 15805 |
 
 ### Continents
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.72 | Europe | 5103 |
-| 2 | 1.47 | South America | 2005 |
+| 1 | 1.72 | Europe | 5107 |
+| 2 | 1.47 | South America | 2006 |
 | 3 | 1.47 | Oceania | 694 |
 | 4 | 1.41 | Asia | 3264 |
 | 5 | 1.33 | Africa | 203 |
-| 6 | 1.21 | North America | 4524 |
+| 6 | 1.21 | North America | 4531 |
 
 ### Countries
 
@@ -42,7 +42,7 @@
 | 16 | 1.86 | Serbia | 28 |
 | 17 | 1.86 | Spain | 449 |
 | 18 | 1.85 | Croatia | 33 |
-| 19 | 1.84 | United Kingdom | 310 |
+| 19 | 1.84 | United Kingdom | 311 |
 | 20 | 1.82 | Finland | 170 |
 | 21 | 1.81 | Slovakia | 52 |
 | 22 | 1.81 | Mexico | 237 |
@@ -65,7 +65,7 @@
 | 39 | 1.64 | Italy | 274 |
 | 40 | 1.60 | Iran | 43 |
 | 41 | 1.60 | Indonesia | 245 |
-| 42 | 1.59 | Netherlands | 135 |
+| 42 | 1.60 | Netherlands | 136 |
 | 43 | 1.59 | Dominican Republic | 29 |
 | 44 | 1.57 | San Marino | 7 |
 | 45 | 1.57 | New Zealand | 159 |
@@ -78,9 +78,9 @@
 | 52 | 1.52 | Bulgaria | 27 |
 | 53 | 1.51 | Bolivia | 154 |
 | 54 | 1.51 | South Africa | 102 |
-| 55 | 1.50 | Sweden | 357 |
+| 55 | 1.50 | Sweden | 358 |
 | 56 | 1.50 | Laos | 2 |
-| 57 | 1.47 | Peru | 245 |
+| 57 | 1.47 | Peru | 246 |
 | 58 | 1.44 | Australia | 532 |
 | 59 | 1.43 | Israel | 72 |
 | 60 | 1.43 | Montenegro | 7 |
@@ -91,8 +91,8 @@
 | 65 | 1.38 | Andorra | 8 |
 | 66 | 1.38 | Bangladesh | 24 |
 | 67 | 1.38 | Ecuador | 64 |
-| 68 | 1.37 | Romania | 140 |
-| 69 | 1.37 | Chinese Taipei | 154 |
+| 68 | 1.37 | Chinese Taipei | 154 |
+| 69 | 1.37 | Romania | 141 |
 | 70 | 1.36 | Jordan | 22 |
 | 71 | 1.33 | Belize | 3 |
 | 72 | 1.33 | Ghana | 3 |
@@ -116,9 +116,9 @@
 | 90 | 1.22 | El Salvador | 37 |
 | 91 | 1.19 | Japan | 253 |
 | 92 | 1.18 | Armenia | 11 |
-| 93 | 1.17 | Canada | 452 |
+| 93 | 1.17 | Canada | 454 |
 | 94 | 1.17 | Tunisia | 24 |
-| 95 | 1.16 | United States | 3626 |
+| 95 | 1.16 | United States | 3631 |
 | 96 | 1.15 | Mongolia | 48 |
 | 97 | 1.12 | Azerbaijan | 48 |
 | 98 | 1.11 | Egypt | 9 |
