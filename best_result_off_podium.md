@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 16 September 2025*
+*Updated on 19 September 2025*
 
 
 ### Rubik's Cube
@@ -96,18 +96,18 @@
 | 86 | [Zhen Chen (陈震)](https://www.worldcubeassociation.org/persons/2023CHEN30) | 5.62 | **6.12** | [Yancheng Open 2025](https://www.worldcubeassociation.org/competitions/YanchengOpen2025/results/all#e333_f) | 7 |
 | 87 | [Qixian Cao (曹岂娴)](https://www.worldcubeassociation.org/persons/2023CAOQ01) | 4.24 | **6.13** | [Xuzhou Newcomers 2025](https://www.worldcubeassociation.org/competitions/XuzhouNewcomers2025/results/all#e333_f) | 6 |
 | 88 | [Ziyu Ye (叶梓渝)](https://www.worldcubeassociation.org/persons/2021YEZI01) | 4.94 | **6.13** | [Zhuhai Open 2025](https://www.worldcubeassociation.org/competitions/ZhuhaiOpen2025/results/all#e333_f) | 4 |
-| 89 | [Ziyu Ye (叶梓渝)](https://www.worldcubeassociation.org/persons/2021YEZI01) | 5.45 | **6.14** | [Yunnan Open 2025](https://www.worldcubeassociation.org/competitions/YunnanOpen2025/results/all#e333_f) | 4 |
-| 90 | [Yangming Wang (王扬铭)](https://www.worldcubeassociation.org/persons/2024WANG51) | 5.00 | **6.16** | [Yancheng Open 2025](https://www.worldcubeassociation.org/competitions/YanchengOpen2025/results/all#e333_f) | 8 |
-| 91 | [Ziyu Ye (叶梓渝)](https://www.worldcubeassociation.org/persons/2021YEZI01) | 5.87 | **6.16** | [Dalian Open 2024](https://www.worldcubeassociation.org/competitions/DalianOpen2024/results/all#e333_f) | 4 |
-| 92 | [Bofan Zhang (张博藩)](https://www.worldcubeassociation.org/persons/2021ZHAN01) | 5.39 | **6.18** | [Hong Kong Small Cube Day 2023](https://www.worldcubeassociation.org/competitions/HongKongSmallCubeDay2023/results/all#e333_f) | 4 |
-| 93 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 5.02 | **6.19** | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/all#e333_f) | 4 |
-| 94 | [Zhaokun Li (李昭昆)](https://www.worldcubeassociation.org/persons/2024LIZH03) | 4.88 | **6.20** | [Chongqing New Year 2025](https://www.worldcubeassociation.org/competitions/ChongqingNewYear2025/results/all#e333_f) | 4 |
-| 95 | [Dylan Miller](https://www.worldcubeassociation.org/persons/2015MILL01) | 5.25 | **6.20** | [Rubik's NA All-Stars 2024](https://www.worldcubeassociation.org/competitions/RubiksNorthAmericaAllStars2024/results/all#e333_f) | 4 |
-| 96 | [Kyle Santucci](https://www.worldcubeassociation.org/persons/2016SANT08) | 5.97 | **6.20** | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/all#e333_f) | 5 |
-| 97 | [Yiming Zhuang (庄轶茗)](https://www.worldcubeassociation.org/persons/2021ZHUA01) | 5.27 | **6.21** | [Zhuhai Open 2025](https://www.worldcubeassociation.org/competitions/ZhuhaiOpen2025/results/all#e333_f) | 5 |
-| 98 | [Zhaokun Li (李昭昆)](https://www.worldcubeassociation.org/persons/2024LIZH03) | 5.42 | **6.21** | [Dalian Open 2024](https://www.worldcubeassociation.org/competitions/DalianOpen2024/results/all#e333_f) | 5 |
-| 99 | [Qixian Cao (曹岂娴)](https://www.worldcubeassociation.org/persons/2023CAOQ01) | 5.45 | **6.21** | [Zibo Open 2024](https://www.worldcubeassociation.org/competitions/ZiboOpen2024/results/all#e333_f) | 4 |
-| 100 | [Qixian Cao (曹岂娴)](https://www.worldcubeassociation.org/persons/2023CAOQ01) | 5.46 | **6.21** | [Chengdu Summer 2024](https://www.worldcubeassociation.org/competitions/ChengduSummer2024/results/all#e333_f) | 5 |
+| 89 | [Muyang Liu (刘慕阳)](https://www.worldcubeassociation.org/persons/2024LIUM08) | 5.08 | **6.14** | [Ningbo Autumn 2025](https://www.worldcubeassociation.org/competitions/NingboAutumn2025/results/all#e333_f) | 4 |
+| 90 | [Ziyu Ye (叶梓渝)](https://www.worldcubeassociation.org/persons/2021YEZI01) | 5.45 | **6.14** | [Yunnan Open 2025](https://www.worldcubeassociation.org/competitions/YunnanOpen2025/results/all#e333_f) | 4 |
+| 91 | [Yangming Wang (王扬铭)](https://www.worldcubeassociation.org/persons/2024WANG51) | 5.00 | **6.16** | [Yancheng Open 2025](https://www.worldcubeassociation.org/competitions/YanchengOpen2025/results/all#e333_f) | 8 |
+| 92 | [Ziyu Ye (叶梓渝)](https://www.worldcubeassociation.org/persons/2021YEZI01) | 5.87 | **6.16** | [Dalian Open 2024](https://www.worldcubeassociation.org/competitions/DalianOpen2024/results/all#e333_f) | 4 |
+| 93 | [Bofan Zhang (张博藩)](https://www.worldcubeassociation.org/persons/2021ZHAN01) | 5.39 | **6.18** | [Hong Kong Small Cube Day 2023](https://www.worldcubeassociation.org/competitions/HongKongSmallCubeDay2023/results/all#e333_f) | 4 |
+| 94 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 5.02 | **6.19** | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/all#e333_f) | 4 |
+| 95 | [Zhaokun Li (李昭昆)](https://www.worldcubeassociation.org/persons/2024LIZH03) | 4.88 | **6.20** | [Chongqing New Year 2025](https://www.worldcubeassociation.org/competitions/ChongqingNewYear2025/results/all#e333_f) | 4 |
+| 96 | [Dylan Miller](https://www.worldcubeassociation.org/persons/2015MILL01) | 5.25 | **6.20** | [Rubik's NA All-Stars 2024](https://www.worldcubeassociation.org/competitions/RubiksNorthAmericaAllStars2024/results/all#e333_f) | 4 |
+| 97 | [Kyle Santucci](https://www.worldcubeassociation.org/persons/2016SANT08) | 5.97 | **6.20** | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/all#e333_f) | 5 |
+| 98 | [Yiming Zhuang (庄轶茗)](https://www.worldcubeassociation.org/persons/2021ZHUA01) | 5.27 | **6.21** | [Zhuhai Open 2025](https://www.worldcubeassociation.org/competitions/ZhuhaiOpen2025/results/all#e333_f) | 5 |
+| 99 | [Zhaokun Li (李昭昆)](https://www.worldcubeassociation.org/persons/2024LIZH03) | 5.42 | **6.21** | [Dalian Open 2024](https://www.worldcubeassociation.org/competitions/DalianOpen2024/results/all#e333_f) | 5 |
+| 100 | [Qixian Cao (曹岂娴)](https://www.worldcubeassociation.org/persons/2023CAOQ01) | 5.45 | **6.21** | [Zibo Open 2024](https://www.worldcubeassociation.org/competitions/ZiboOpen2024/results/all#e333_f) | 4 |
 
 ### 2x2x2 Cube
 
