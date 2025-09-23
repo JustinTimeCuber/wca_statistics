@@ -4,126 +4,126 @@
 
 | Rank | Competitions per year | Competitions | Years | Country |
 | :--- | ---: | ---: | ---: | :--- |
-| 1 | 157.47 | 3411 | 21.66 | United States |
+| 1 | 157.45 | 3411 | 21.66 | United States |
 | 2 | 38.18 | 672 | 17.60 | India |
 | 3 | 37.60 | 676 | 17.98 | China |
-| 4 | 33.22 | 591 | 17.79 | Brazil |
+| 4 | 33.21 | 591 | 17.79 | Brazil |
 | 5 | 31.00 | 444 | 14.32 | Colombia |
-| 6 | 30.49 | 477 | 15.64 | Australia |
-| 7 | 27.04 | 541 | 20.01 | Poland |
+| 6 | 30.49 | 477 | 15.65 | Australia |
+| 7 | 27.03 | 541 | 20.01 | Poland |
 | 8 | 20.42 | 426 | 20.86 | Spain |
-| 9 | 19.75 | 357 | 18.08 | Philippines |
-| 10 | 19.56 | 432 | 22.08 | Canada |
+| 9 | 19.74 | 357 | 18.08 | Philippines |
+| 10 | 19.56 | 432 | 22.09 | Canada |
 | 11 | 16.60 | 239 | 14.40 | Peru |
 | 12 | 16.19 | 337 | 20.82 | Sweden |
-| 13 | 15.28 | 288 | 18.84 | United Kingdom |
-| 14 | 15.21 | 326 | 21.43 | France |
-| 15 | 14.94 | 240 | 16.06 | Indonesia |
+| 13 | 15.28 | 288 | 18.85 | United Kingdom |
+| 14 | 15.21 | 326 | 21.44 | France |
+| 15 | 14.94 | 240 | 16.07 | Indonesia |
 | 16 | 14.51 | 266 | 18.33 | Italy |
-| 17 | 13.96 | 144 | 10.32 | Bolivia |
+| 17 | 13.95 | 144 | 10.32 | Bolivia |
 | 18 | 13.61 | 228 | 16.76 | Mexico |
 | 19 | 12.51 | 207 | 16.54 | Russia |
-| 20 | 12.13 | 212 | 17.48 | Denmark |
-| 21 | 12.08 | 244 | 20.20 | Japan |
-| 22 | 11.86 | 254 | 21.41 | Germany |
+| 20 | 12.12 | 212 | 17.49 | Denmark |
+| 21 | 12.08 | 244 | 20.21 | Japan |
+| 22 | 11.86 | 254 | 21.42 | Germany |
 | 23 | 9.83 | 122 | 12.41 | Turkey |
 | 24 | 9.82 | 141 | 14.36 | Ukraine |
 | 25 | 9.16 | 151 | 16.49 | Chile |
 | 26 | 9.15 | 148 | 16.18 | New Zealand |
 | 27 | 8.88 | 166 | 18.69 | Finland |
-| 28 | 8.87 | 135 | 15.22 | Romania |
+| 28 | 8.87 | 135 | 15.23 | Romania |
 | 29 | 8.83 | 149 | 16.87 | Switzerland |
 | 30 | 8.18 | 144 | 17.60 | Norway |
 | 31 | 8.12 | 95 | 11.70 | South Africa |
 | 32 | 7.93 | 152 | 19.17 | Chinese Taipei |
 | 33 | 7.26 | 87 | 11.98 | Venezuela |
-| 34 | 7.25 | 106 | 14.63 | Argentina |
+| 34 | 7.24 | 106 | 14.63 | Argentina |
 | 35 | 7.20 | 62 | 8.61 | Ecuador |
 | 36 | 7.08 | 112 | 15.82 | Malaysia |
-| 37 | 6.79 | 54 | 7.96 | Kazakhstan |
+| 37 | 6.78 | 54 | 7.96 | Kazakhstan |
 | 38 | 6.00 | 118 | 19.67 | Republic of Korea |
 | 39 | 5.97 | 131 | 21.95 | Netherlands |
-| 40 | 5.95 | 81 | 13.61 | Ireland |
-| 41 | 5.61 | 93 | 16.56 | Singapore |
+| 40 | 5.95 | 81 | 13.62 | Ireland |
+| 41 | 5.61 | 93 | 16.57 | Singapore |
 | 42 | 5.39 | 59 | 10.95 | Uruguay |
-| 43 | 4.91 | 82 | 16.70 | Thailand |
+| 43 | 4.91 | 82 | 16.71 | Thailand |
 | 44 | 4.90 | 95 | 19.38 | Belgium |
 | 45 | 4.83 | 57 | 11.81 | Guatemala |
 | 46 | 4.60 | 69 | 14.99 | Israel |
 | 47 | 4.32 | 44 | 10.18 | Azerbaijan |
 | 48 | 4.11 | 37 | 9.00 | Paraguay |
 | 49 | 4.03 | 61 | 15.13 | Vietnam |
-| 50 | 4.03 | 64 | 15.87 | Estonia |
-| 51 | 3.75 | 45 | 12.00 | Mongolia |
-| 52 | 3.74 | 13 | 3.47 | Sri Lanka |
+| 50 | 4.03 | 64 | 15.88 | Estonia |
+| 51 | 3.75 | 45 | 12.01 | Mongolia |
+| 52 | 3.74 | 13 | 3.48 | Sri Lanka |
 | 53 | 3.70 | 71 | 19.17 | Czech Republic |
 | 54 | 3.59 | 35 | 9.76 | El Salvador |
-| 55 | 3.42 | 41 | 12.00 | Belarus |
-| 56 | 3.41 | 26 | 7.61 | Bulgaria |
+| 55 | 3.42 | 41 | 12.01 | Belarus |
+| 56 | 3.41 | 26 | 7.62 | Bulgaria |
 | 57 | 3.36 | 27 | 8.04 | Costa Rica |
-| 58 | 3.15 | 37 | 11.75 | Georgia |
+| 58 | 3.15 | 37 | 11.76 | Georgia |
 | 59 | 3.08 | 40 | 13.00 | Latvia |
 | 60 | 3.06 | 51 | 16.64 | Slovakia |
 | 61 | 2.99 | 42 | 14.06 | Iran |
 | 62 | 2.94 | 7 | 2.38 | Angola |
 | 63 | 2.88 | 23 | 7.98 | Panama |
 | 64 | 2.77 | 22 | 7.94 | Uzbekistan |
-| 65 | 2.72 | 42 | 15.41 | Greece |
+| 65 | 2.72 | 42 | 15.42 | Greece |
 | 66 | 2.71 | 21 | 7.75 | Bangladesh |
-| 67 | 2.69 | 18 | 6.69 | Kenya |
-| 68 | 2.47 | 38 | 15.41 | Slovenia |
+| 67 | 2.69 | 18 | 6.70 | Kenya |
+| 68 | 2.46 | 38 | 15.42 | Slovenia |
 | 69 | 2.44 | 19 | 7.79 | Honduras |
-| 70 | 2.38 | 28 | 11.79 | Dominican Republic |
-| 71 | 2.38 | 23 | 9.68 | Nepal |
-| 72 | 2.32 | 39 | 16.81 | Portugal |
-| 73 | 2.31 | 32 | 13.84 | Croatia |
-| 74 | 2.29 | 28 | 12.23 | Lithuania |
+| 70 | 2.37 | 28 | 11.79 | Dominican Republic |
+| 71 | 2.37 | 23 | 9.69 | Nepal |
+| 72 | 2.32 | 39 | 16.82 | Portugal |
+| 73 | 2.31 | 32 | 13.85 | Croatia |
+| 74 | 2.29 | 28 | 12.24 | Lithuania |
 | 75 | 2.23 | 24 | 10.75 | Tunisia |
 | 76 | 2.18 | 33 | 15.15 | Austria |
-| 77 | 1.96 | 2 | 1.02 | Laos |
-| 78 | 1.95 | 26 | 13.36 | Serbia |
-| 79 | 1.63 | 13 | 8.00 | Cyprus |
+| 77 | 1.95 | 2 | 1.02 | Laos |
+| 78 | 1.95 | 26 | 13.37 | Serbia |
+| 79 | 1.62 | 13 | 8.00 | Cyprus |
 | 80 | 1.56 | 21 | 13.48 | Jordan |
 | 81 | 1.46 | 25 | 17.16 | Hong Kong, China |
-| 82 | 1.46 | 63 | 43.30 | Hungary |
+| 82 | 1.45 | 63 | 43.30 | Hungary |
 | 83 | 1.44 | 11 | 7.63 | Armenia |
 | 84 | 1.34 | 11 | 8.19 | Kuwait |
-| 85 | 1.31 | 16 | 12.21 | Multiple Countries (Europe) |
+| 85 | 1.31 | 16 | 12.22 | Multiple Countries (Europe) |
 | 86 | 1.28 | 17 | 13.29 | Iceland |
-| 87 | 1.27 | 10 | 7.84 | Bahrain |
+| 87 | 1.27 | 10 | 7.85 | Bahrain |
 | 88 | 1.21 | 20 | 16.50 | United Arab Emirates |
 | 89 | 1.19 | 3 | 2.52 | Belize |
 | 90 | 1.16 | 9 | 7.74 | Kyrgyzstan |
-| 91 | 1.13 | 7 | 6.21 | Palestine |
+| 91 | 1.13 | 7 | 6.22 | Palestine |
 | 92 | 1.11 | 7 | 6.33 | Nigeria |
 | 93 | 1.10 | 10 | 9.09 | Algeria |
-| 94 | 1.06 | 14 | 13.15 | Bosnia and Herzegovina |
+| 94 | 1.06 | 14 | 13.16 | Bosnia and Herzegovina |
 | 95 | 1.05 | 9 | 8.55 | Morocco |
-| 96 | 0.96 | 6 | 6.25 | Egypt |
+| 96 | 0.96 | 6 | 6.26 | Egypt |
 | 97 | 0.84 | 7 | 8.30 | Montenegro |
 | 98 | 0.81 | 8 | 9.82 | Multiple Countries (Asia) |
-| 99 | 0.80 | 5 | 6.27 | Multiple Countries (World) |
+| 99 | 0.80 | 5 | 6.28 | Multiple Countries (World) |
 | 100 | 0.76 | 6 | 7.94 | Multiple Countries (Americas) |
 | 101 | 0.73 | 5 | 6.85 | North Macedonia |
 | 102 | 0.66 | 6 | 9.07 | San Marino |
 | 103 | 0.65 | 5 | 7.71 | Mauritius |
-| 104 | 0.63 | 7 | 11.06 | Andorra |
-| 105 | 0.52 | 3 | 5.81 | Malta |
+| 104 | 0.63 | 7 | 11.07 | Andorra |
+| 105 | 0.52 | 3 | 5.82 | Malta |
 | 106 | 0.51 | 3 | 5.89 | Cambodia |
-| 107 | 0.50 | 3 | 6.04 | Multiple Countries (North America) |
-| 108 | 0.49 | 5 | 10.16 | Moldova |
+| 107 | 0.50 | 3 | 6.05 | Multiple Countries (North America) |
+| 108 | 0.49 | 5 | 10.17 | Moldova |
 | 109 | 0.48 | 3 | 6.31 | Madagascar |
-| 110 | 0.46 | 3 | 6.46 | Ghana |
-| 111 | 0.44 | 3 | 6.84 | Kosovo |
+| 110 | 0.46 | 3 | 6.47 | Ghana |
+| 111 | 0.44 | 3 | 6.85 | Kosovo |
 | 112 | 0.44 | 3 | 6.87 | Luxembourg |
 | 113 | 0.42 | 3 | 7.11 | Tajikistan |
 | 114 | 0.42 | 3 | 7.12 | Pakistan |
-| 115 | 0.41 | 4 | 9.64 | Multiple Countries (South America) |
+| 115 | 0.41 | 4 | 9.65 | Multiple Countries (South America) |
 | 116 | 0.40 | 3 | 7.44 | Albania |
 | 117 | 0.39 | 1 | 2.54 | Oman |
 | 118 | 0.39 | 3 | 7.69 | Liechtenstein |
-| 119 | 0.11 | 1 | 9.45 | Cuba |
-| 120 | 0.06 | 1 | 16.10 | Macau, China |
+| 119 | 0.11 | 1 | 9.46 | Cuba |
+| 120 | 0.06 | 1 | 16.11 | Macau, China |
 
 
 <a href="https://github.com/JustinTimeCuber/wca_statistics" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>
