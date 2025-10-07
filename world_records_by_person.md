@@ -1,11 +1,11 @@
 ## World records count by person
 
-*Updated on  1 October 2025*
+*Updated on  7 October 2025*
 
 | Rank | WRs | Person |
 | :--- | ---: | :--- |
 | 1 | 121 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
-| 2 | 86 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) |
+| 2 | 89 | [Max Park](https://www.worldcubeassociation.org/persons/2012PARK03) |
 | 3 | 33 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 4 | 30 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) |
 | 5 | 27 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) |
