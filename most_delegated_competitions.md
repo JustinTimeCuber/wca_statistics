@@ -170,8 +170,8 @@
 | 164 | 58 | [Myles Jarman](https://www.worldcubeassociation.org/persons/2016JARM01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=41447) |
 | 165 | 57 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=246) |
 | 166 | 57 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=491) |
-| 167 | 56 | [Takayuki Ookusa (大艸尊之)](https://www.worldcubeassociation.org/persons/2006OOKU01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=312) |
-| 168 | 56 | [Leo Lindqvist](https://www.worldcubeassociation.org/persons/2017LIND01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=32202) |
+| 167 | 57 | [Leo Lindqvist](https://www.worldcubeassociation.org/persons/2017LIND01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=32202) |
+| 168 | 56 | [Takayuki Ookusa (大艸尊之)](https://www.worldcubeassociation.org/persons/2006OOKU01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=312) |
 | 169 | 56 | [João Vinícius Santos](https://www.worldcubeassociation.org/persons/2016SANT66) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=37007) |
 | 170 | 56 | [Adam Swaine](https://www.worldcubeassociation.org/persons/2017SWAI01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=41638) |
 | 171 | 55 | [Donglei Li (李冬雷)](https://www.worldcubeassociation.org/persons/2009LIDO01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=303) |
