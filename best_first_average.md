@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 13 October 2025*
+*Updated on 14 October 2025*
 
 
 ### Rubik's Cube
@@ -1471,8 +1471,8 @@
 | 96 | 14.58 | [Benjamin Wei](https://www.worldcubeassociation.org/persons/2015WEIB03) |
 | 97 | 14.59 | [Eli Valera](https://www.worldcubeassociation.org/persons/2017VALE13) |
 | 98 | 14.61 | [Charles Abemayor](https://www.worldcubeassociation.org/persons/2020ABEM01) |
-| 99 | 14.68 | [Szymon Kornatowski](https://www.worldcubeassociation.org/persons/2017KORN03) |
-| 100 | 14.73 | [Ronan Drost](https://www.worldcubeassociation.org/persons/2022DROS01) |
+| 99 | 14.67 | [Gregary Kimbrell](https://www.worldcubeassociation.org/persons/2017KIMB04) |
+| 100 | 14.68 | [Szymon Kornatowski](https://www.worldcubeassociation.org/persons/2017KORN03) |
 
 ### 4x4x4 Blindfolded
 
@@ -1781,8 +1781,8 @@
 | 25 | 2.88 | [Fachri Padmaridho](https://www.worldcubeassociation.org/persons/2011PADM01) |
 | 26 | 2.91 | [Rudy](https://www.worldcubeassociation.org/persons/2012RUDY01) |
 | 27 | 2.93 | [Van Tien Trung Vu](https://www.worldcubeassociation.org/persons/2010VUVA01) |
-| 28 | 2.93 | [Kim Weon Bin (김원빈)](https://www.worldcubeassociation.org/persons/2012BINK01) |
-| 29 | 2.93 | [Jinwoo Choi (최진우)](https://www.worldcubeassociation.org/persons/2012CHOI08) |
+| 28 | 2.93 | [Jinwoo Choi (최진우)](https://www.worldcubeassociation.org/persons/2012CHOI08) |
+| 29 | 2.93 | [Kim Weon Bin (김원빈)](https://www.worldcubeassociation.org/persons/2012BINK01) |
 | 30 | 2.94 | [Bartłomiej Różalski](https://www.worldcubeassociation.org/persons/2011ROZA02) |
 | 31 | 2.95 | [Haokun Wang (王皓琨)](https://www.worldcubeassociation.org/persons/2010WANG52) |
 | 32 | 2.96 | [Ke Pan (潘轲)](https://www.worldcubeassociation.org/persons/2010PANK01) |

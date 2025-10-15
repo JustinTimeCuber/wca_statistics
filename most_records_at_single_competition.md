@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on 13 October 2025*
+*Updated on 14 October 2025*
 
 
 ### World
@@ -18,7 +18,7 @@
 | 9 | 5 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016/results/by_person#2009ZEMD01) |
 | 10 | 4 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [Swedish Cube Day 2007](https://www.worldcubeassociation.org/competitions/SwedishCubeDay2007/results/by_person#2005AKKE01) |
 | 11 | 4 | [Hsuan Chang (張璿)](https://www.worldcubeassociation.org/persons/2008CHAN09) | [Taiwan Winter Open 2009](https://www.worldcubeassociation.org/competitions/TaiwanWinterOpen2009/results/by_person#2008CHAN09) |
-| 12 | 4 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | [Polish Nationals 2009](https://www.worldcubeassociation.org/competitions/Poland2009/results/by_person#2006HALC01) |
+| 12 | 4 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | [Polish Nationals 2009](https://www.worldcubeassociation.org/competitions/PolishNationals2009/results/by_person#2006HALC01) |
 | 13 | 4 | [Jaap Scherphuis](https://www.worldcubeassociation.org/persons/2003SCHE01) | [German Open 2004](https://www.worldcubeassociation.org/competitions/GermanOpen2004/results/by_person#2003SCHE01) |
 | 14 | 4 | [Chris Hardwick](https://www.worldcubeassociation.org/persons/2003HARD01) | [US Nationals 2004](https://www.worldcubeassociation.org/competitions/US2004/results/by_person#2003HARD01) |
 | 15 | 4 | [Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01) | [Euro 2004](https://www.worldcubeassociation.org/competitions/Euro2004/results/by_person#2003POCH01) |
@@ -306,7 +306,7 @@
 | 78 | 5 | [Dan Cohen](https://www.worldcubeassociation.org/persons/2007COHE01) | [Newark Winter 2009](https://www.worldcubeassociation.org/competitions/NewarkWinter2009/results/by_person#2007COHE01) |
 | 79 | 5 | [Dene Beardsley](https://www.worldcubeassociation.org/persons/2009BEAR01) | [EPGY Stanford Winter 2009](https://www.worldcubeassociation.org/competitions/EPGYStanfordWinter2009/results/by_person#2009BEAR01) |
 | 80 | 5 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | [Benelux Open 2009](https://www.worldcubeassociation.org/competitions/BeneluxOpen2009/results/by_person#2005AKKE01) |
-| 81 | 5 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | [Polish Nationals 2009](https://www.worldcubeassociation.org/competitions/Poland2009/results/by_person#2006HALC01) |
+| 81 | 5 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | [Polish Nationals 2009](https://www.worldcubeassociation.org/competitions/PolishNationals2009/results/by_person#2006HALC01) |
 | 82 | 5 | [Gabriel Eduardo Núñez Serna](https://www.worldcubeassociation.org/persons/2008NUNE01) | [Murcia Open 2009](https://www.worldcubeassociation.org/competitions/MurciaOpen2009/results/by_person#2008NUNE01) |
 | 83 | 5 | [Yu Nakajima (中島悠)](https://www.worldcubeassociation.org/persons/2007NAKA03) | [Osaka Open 2009](https://www.worldcubeassociation.org/competitions/OsakaOpen2009/results/by_person#2007NAKA03) |
 | 84 | 5 | [Dan Cohen](https://www.worldcubeassociation.org/persons/2007COHE01) | [Big Cubes Summer 2009](https://www.worldcubeassociation.org/competitions/BigCubesSummer2009/results/by_person#2007COHE01) |

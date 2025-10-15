@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 13 October 2025*
+*Updated on 14 October 2025*
 
 
 ### World
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.46 | World | 16027 |
+| 1 | 1.46 | World | 16034 |
 
 ### Continents
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.72 | Europe | 5179 |
+| 1 | 1.72 | Europe | 5181 |
 | 2 | 1.47 | Oceania | 703 |
-| 3 | 1.47 | South America | 2036 |
-| 4 | 1.41 | Asia | 3309 |
+| 3 | 1.47 | South America | 2037 |
+| 4 | 1.41 | Asia | 3311 |
 | 5 | 1.33 | Africa | 205 |
-| 6 | 1.21 | North America | 4595 |
+| 6 | 1.21 | North America | 4597 |
 
 ### Countries
 
@@ -38,15 +38,15 @@
 | 12 | 1.88 | Iceland | 17 |
 | 13 | 1.86 | Thailand | 85 |
 | 14 | 1.86 | Palestine | 7 |
-| 15 | 1.86 | Norway | 153 |
-| 16 | 1.85 | Spain | 452 |
-| 17 | 1.85 | Croatia | 33 |
+| 15 | 1.85 | Spain | 452 |
+| 16 | 1.85 | Croatia | 33 |
+| 17 | 1.85 | Norway | 155 |
 | 18 | 1.84 | United Kingdom | 318 |
 | 19 | 1.83 | Serbia | 29 |
 | 20 | 1.82 | Finland | 176 |
 | 21 | 1.81 | Slovakia | 53 |
 | 22 | 1.80 | Bosnia and Herzegovina | 15 |
-| 23 | 1.80 | Mexico | 243 |
+| 23 | 1.80 | Mexico | 244 |
 | 24 | 1.78 | Switzerland | 158 |
 | 25 | 1.78 | Slovenia | 41 |
 | 26 | 1.76 | Guatemala | 59 |
@@ -99,27 +99,27 @@
 | 73 | 1.33 | Ghana | 3 |
 | 74 | 1.33 | Kuwait | 12 |
 | 75 | 1.33 | Tajikistan | 3 |
-| 76 | 1.31 | Republic of Korea | 121 |
-| 77 | 1.31 | Portugal | 48 |
+| 76 | 1.31 | Portugal | 48 |
+| 77 | 1.31 | Republic of Korea | 122 |
 | 78 | 1.30 | Bahrain | 10 |
 | 79 | 1.30 | Morocco | 10 |
 | 80 | 1.30 | Hong Kong, China | 27 |
 | 81 | 1.29 | Colombia | 468 |
 | 82 | 1.29 | Uruguay | 59 |
 | 83 | 1.28 | Philippines | 378 |
-| 84 | 1.25 | Venezuela | 91 |
+| 84 | 1.26 | Venezuela | 92 |
 | 85 | 1.25 | Panama | 28 |
 | 86 | 1.25 | Chile | 159 |
 | 87 | 1.24 | China | 700 |
 | 88 | 1.24 | United Arab Emirates | 21 |
-| 89 | 1.21 | Singapore | 98 |
+| 89 | 1.21 | Singapore | 99 |
 | 90 | 1.21 | El Salvador | 38 |
 | 91 | 1.18 | Japan | 256 |
 | 92 | 1.18 | Armenia | 11 |
 | 93 | 1.17 | Canada | 461 |
 | 94 | 1.17 | Tunisia | 24 |
 | 95 | 1.16 | Mongolia | 49 |
-| 96 | 1.16 | United States | 3679 |
+| 96 | 1.16 | United States | 3680 |
 | 97 | 1.12 | Azerbaijan | 48 |
 | 98 | 1.11 | Egypt | 9 |
 | 99 | 1.10 | Honduras | 20 |
