@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 14 October 2025*
+*Updated on 16 October 2025*
 
 
 ### World
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.46 | World | 16034 |
+| 1 | 1.46 | World | 16039 |
 
 ### Continents
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.72 | Europe | 5181 |
+| 1 | 1.72 | Europe | 5182 |
 | 2 | 1.47 | Oceania | 703 |
 | 3 | 1.47 | South America | 2037 |
 | 4 | 1.41 | Asia | 3311 |
 | 5 | 1.33 | Africa | 205 |
-| 6 | 1.21 | North America | 4597 |
+| 6 | 1.21 | North America | 4601 |
 
 ### Countries
 
@@ -27,7 +27,7 @@
 | 1 | 2.08 | Uzbekistan | 24 |
 | 2 | 2.02 | Kazakhstan | 58 |
 | 3 | 2.00 | Liechtenstein | 3 |
-| 4 | 1.96 | Czech Republic | 77 |
+| 4 | 1.95 | Czech Republic | 78 |
 | 5 | 1.93 | Germany | 270 |
 | 6 | 1.93 | Belarus | 42 |
 | 7 | 1.92 | Russia | 220 |
@@ -119,7 +119,7 @@
 | 93 | 1.17 | Canada | 461 |
 | 94 | 1.17 | Tunisia | 24 |
 | 95 | 1.16 | Mongolia | 49 |
-| 96 | 1.16 | United States | 3680 |
+| 96 | 1.16 | United States | 3684 |
 | 97 | 1.12 | Azerbaijan | 48 |
 | 98 | 1.11 | Egypt | 9 |
 | 99 | 1.10 | Honduras | 20 |
