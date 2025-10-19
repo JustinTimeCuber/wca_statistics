@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 16 October 2025*
+*Updated on 19 October 2025*
 
 
 ### Rubik's Cube
@@ -1216,7 +1216,7 @@
 | 52 | 0.84 | [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) | [Human Rights Day 2011](https://www.worldcubeassociation.org/competitions/HumanRightsDay2011/results/by_person#2009WANG13) |
 | 53 | 0.84 | [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) | [Human Rights Day 2011](https://www.worldcubeassociation.org/competitions/HumanRightsDay2011/results/by_person#2009WANG13) |
 | 54 | 0.84 | [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) | [Hangzhou 2012](https://www.worldcubeassociation.org/competitions/HangzhouOpen2012/results/by_person#2009WANG13) |
-| 55 | 0.84 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | [Warszawa Open 2012](https://www.worldcubeassociation.org/competitions/WarsawaOpen2012/results/by_person#2010KIPA01) |
+| 55 | 0.84 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | [Warszawa Open 2012](https://www.worldcubeassociation.org/competitions/WarszawaOpen2012/results/by_person#2010KIPA01) |
 | 56 | 0.84 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | [Jura Open 2012](https://www.worldcubeassociation.org/competitions/JuraOpen2012/results/by_person#2010KIPA01) |
 | 57 | 0.84 | [Dmitry Kryuzban](https://www.worldcubeassociation.org/persons/2010KRYU01) | [Euro 2012](https://www.worldcubeassociation.org/competitions/Euro2012/results/by_person#2010KRYU01) |
 | 58 | 0.84 | [Ke Pan (潘轲)](https://www.worldcubeassociation.org/persons/2010PANK01) | [Xi'an Autumn 2010](https://www.worldcubeassociation.org/competitions/XianAutumn2010/results/by_person#2010PANK01) |
@@ -1245,8 +1245,8 @@
 | 81 | 0.86 | [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) | [Beijing Winter 2012](https://www.worldcubeassociation.org/competitions/BeijingWinter2012/results/by_person#2009WANG13) |
 | 82 | 0.86 | [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) | [Tianjin Winter 2012](https://www.worldcubeassociation.org/competitions/TianjinWinter2012/results/by_person#2009WANG13) |
 | 83 | 0.86 | [Bingfeng Wu (吴炳峰)](https://www.worldcubeassociation.org/persons/2009WUBI01) | [Shantou Open 2010](https://www.worldcubeassociation.org/competitions/ShantouOpen2010/results/by_person#2009WUBI01) |
-| 84 | 0.86 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | [Warszawa Open 2012](https://www.worldcubeassociation.org/competitions/WarsawaOpen2012/results/by_person#2010KIPA01) |
-| 85 | 0.86 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | [Warszawa Open 2012](https://www.worldcubeassociation.org/competitions/WarsawaOpen2012/results/by_person#2010KIPA01) |
+| 84 | 0.86 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | [Warszawa Open 2012](https://www.worldcubeassociation.org/competitions/WarszawaOpen2012/results/by_person#2010KIPA01) |
+| 85 | 0.86 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | [Warszawa Open 2012](https://www.worldcubeassociation.org/competitions/WarszawaOpen2012/results/by_person#2010KIPA01) |
 | 86 | 0.86 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | [Jura Open 2012](https://www.worldcubeassociation.org/competitions/JuraOpen2012/results/by_person#2010KIPA01) |
 | 87 | 0.86 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | [Jura Open 2012](https://www.worldcubeassociation.org/competitions/JuraOpen2012/results/by_person#2010KIPA01) |
 | 88 | 0.86 | [Dmitry Kryuzban](https://www.worldcubeassociation.org/persons/2010KRYU01) | [MPEI Open 2011](https://www.worldcubeassociation.org/competitions/MPEIOpen2011/results/by_person#2010KRYU01) |
