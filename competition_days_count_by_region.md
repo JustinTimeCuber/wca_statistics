@@ -1,22 +1,22 @@
 ## Competition days count by region
 
-*Updated on 23 October 2025*
+*Updated on 25 October 2025*
 
 
 ### World
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.46 | World | 16085 |
+| 1 | 1.46 | World | 16091 |
 
 ### Continents
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.72 | Europe | 5197 |
+| 1 | 1.72 | Europe | 5198 |
 | 2 | 1.47 | Oceania | 703 |
-| 3 | 1.47 | South America | 2044 |
-| 4 | 1.40 | Asia | 3323 |
+| 3 | 1.47 | South America | 2045 |
+| 4 | 1.40 | Asia | 3327 |
 | 5 | 1.33 | Africa | 206 |
 | 6 | 1.21 | North America | 4612 |
 
@@ -24,7 +24,7 @@
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 2.08 | Uzbekistan | 24 |
+| 1 | 2.04 | Uzbekistan | 26 |
 | 2 | 2.02 | Kazakhstan | 58 |
 | 3 | 2.00 | Liechtenstein | 3 |
 | 4 | 1.95 | Czech Republic | 78 |
@@ -55,7 +55,7 @@
 | 29 | 1.75 | Sri Lanka | 16 |
 | 30 | 1.75 | Hungary | 67 |
 | 31 | 1.73 | Ukraine | 148 |
-| 32 | 1.73 | Poland | 564 |
+| 32 | 1.73 | Poland | 565 |
 | 33 | 1.71 | Ireland | 87 |
 | 34 | 1.69 | Argentina | 116 |
 | 35 | 1.68 | Belgium | 102 |
@@ -88,9 +88,9 @@
 | 62 | 1.42 | Costa Rica | 31 |
 | 63 | 1.41 | Vietnam | 73 |
 | 64 | 1.39 | Estonia | 66 |
-| 65 | 1.38 | Andorra | 8 |
-| 66 | 1.38 | Bangladesh | 24 |
-| 67 | 1.37 | Ecuador | 65 |
+| 65 | 1.38 | Ecuador | 66 |
+| 66 | 1.38 | Andorra | 8 |
+| 67 | 1.38 | Bangladesh | 24 |
 | 68 | 1.37 | Chinese Taipei | 160 |
 | 69 | 1.36 | Jordan | 22 |
 | 70 | 1.36 | Romania | 146 |
@@ -105,12 +105,12 @@
 | 79 | 1.30 | Uruguay | 60 |
 | 80 | 1.30 | Hong Kong, China | 27 |
 | 81 | 1.29 | Colombia | 469 |
-| 82 | 1.28 | Philippines | 380 |
+| 82 | 1.28 | Philippines | 381 |
 | 83 | 1.27 | Morocco | 11 |
 | 84 | 1.26 | Venezuela | 93 |
 | 85 | 1.25 | Panama | 28 |
 | 86 | 1.25 | Chile | 159 |
-| 87 | 1.24 | China | 702 |
+| 87 | 1.24 | China | 703 |
 | 88 | 1.24 | United Arab Emirates | 21 |
 | 89 | 1.21 | Singapore | 99 |
 | 90 | 1.21 | El Salvador | 38 |

@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 23 October 2025*
+*Updated on 25 October 2025*
 
 | Rank | 4th places | Person |
 | :--- | ---: | :--- |
@@ -322,30 +322,30 @@
 | 315 | 50 | [Vladislav Kaminskiy](https://www.worldcubeassociation.org/persons/2013KAMI03) |
 | 316 | 50 | [Jorge Martín Espinosa](https://www.worldcubeassociation.org/persons/2012ESPI02) |
 | 317 | 49 | [Frederico Canal Gomes](https://www.worldcubeassociation.org/persons/2018GOME29) |
-| 318 | 49 | [James Macdiarmid](https://www.worldcubeassociation.org/persons/2015MACD03) |
-| 319 | 49 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
-| 320 | 49 | [Daniel Sartori](https://www.worldcubeassociation.org/persons/2019SART01) |
-| 321 | 49 | [Aryan Chhabra](https://www.worldcubeassociation.org/persons/2015CHHA03) |
-| 322 | 49 | [Edward Lin](https://www.worldcubeassociation.org/persons/2008LINE02) |
-| 323 | 49 | [Isaac Myers](https://www.worldcubeassociation.org/persons/2015MYER02) |
-| 324 | 49 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) |
-| 325 | 49 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) |
-| 326 | 48 | [Bálint Csengő](https://www.worldcubeassociation.org/persons/2019CSEN01) |
-| 327 | 48 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |
-| 328 | 48 | [Diego Serrano Martínez](https://www.worldcubeassociation.org/persons/2016MART91) |
-| 329 | 48 | [Sean Cutshaw](https://www.worldcubeassociation.org/persons/2016CUTS01) |
-| 330 | 48 | [Diego Alfonso](https://www.worldcubeassociation.org/persons/2018ALFO01) |
-| 331 | 48 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) |
-| 332 | 48 | [Kim Roger Haraldsen](https://www.worldcubeassociation.org/persons/2015LARS04) |
-| 333 | 48 | [Jr-Wei Jang (張智瑋)](https://www.worldcubeassociation.org/persons/2010JANG01) |
-| 334 | 48 | [Saisabari Ramesh](https://www.worldcubeassociation.org/persons/2021RAME01) |
-| 335 | 48 | [Niño Francis S. Reyes](https://www.worldcubeassociation.org/persons/2012REYE04) |
-| 336 | 48 | [Vivek Prasad Mada](https://www.worldcubeassociation.org/persons/2012MADA01) |
-| 337 | 48 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) |
-| 338 | 48 | [Miguel Ángel González-Herrero García](https://www.worldcubeassociation.org/persons/2016GARC47) |
-| 339 | 48 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
-| 340 | 48 | [Cian-Jyun Yang (楊謙君)](https://www.worldcubeassociation.org/persons/2019YANG94) |
-| 341 | 47 | [Laura Holzhauer](https://www.worldcubeassociation.org/persons/2016HOLZ01) |
+| 318 | 49 | [Laura Holzhauer](https://www.worldcubeassociation.org/persons/2016HOLZ01) |
+| 319 | 49 | [James Macdiarmid](https://www.worldcubeassociation.org/persons/2015MACD03) |
+| 320 | 49 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 321 | 49 | [Daniel Sartori](https://www.worldcubeassociation.org/persons/2019SART01) |
+| 322 | 49 | [Aryan Chhabra](https://www.worldcubeassociation.org/persons/2015CHHA03) |
+| 323 | 49 | [Edward Lin](https://www.worldcubeassociation.org/persons/2008LINE02) |
+| 324 | 49 | [Saisabari Ramesh](https://www.worldcubeassociation.org/persons/2021RAME01) |
+| 325 | 49 | [Isaac Myers](https://www.worldcubeassociation.org/persons/2015MYER02) |
+| 326 | 49 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) |
+| 327 | 49 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) |
+| 328 | 48 | [Bálint Csengő](https://www.worldcubeassociation.org/persons/2019CSEN01) |
+| 329 | 48 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |
+| 330 | 48 | [Diego Serrano Martínez](https://www.worldcubeassociation.org/persons/2016MART91) |
+| 331 | 48 | [Sean Cutshaw](https://www.worldcubeassociation.org/persons/2016CUTS01) |
+| 332 | 48 | [Diego Alfonso](https://www.worldcubeassociation.org/persons/2018ALFO01) |
+| 333 | 48 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) |
+| 334 | 48 | [Kim Roger Haraldsen](https://www.worldcubeassociation.org/persons/2015LARS04) |
+| 335 | 48 | [Jr-Wei Jang (張智瑋)](https://www.worldcubeassociation.org/persons/2010JANG01) |
+| 336 | 48 | [Niño Francis S. Reyes](https://www.worldcubeassociation.org/persons/2012REYE04) |
+| 337 | 48 | [Vivek Prasad Mada](https://www.worldcubeassociation.org/persons/2012MADA01) |
+| 338 | 48 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) |
+| 339 | 48 | [Miguel Ángel González-Herrero García](https://www.worldcubeassociation.org/persons/2016GARC47) |
+| 340 | 48 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
+| 341 | 48 | [Cian-Jyun Yang (楊謙君)](https://www.worldcubeassociation.org/persons/2019YANG94) |
 | 342 | 47 | [Thompson Clarke](https://www.worldcubeassociation.org/persons/2008CLAR01) |
 | 343 | 47 | [Matěj Grohmann](https://www.worldcubeassociation.org/persons/2015GROH02) |
 | 344 | 47 | [Yunqi Ouyang (欧阳韵奇)](https://www.worldcubeassociation.org/persons/2007YUNQ01) |
