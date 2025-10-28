@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 25 October 2025*
+*Updated on 28 October 2025*
 
 
 ### Rubik's Cube
@@ -1360,14 +1360,14 @@
 | 90 | [Elias Malomgré](https://www.worldcubeassociation.org/persons/2017MALO02) | 1.79 | **2.92** | [Rheinland-Pfalz Open 2024](https://www.worldcubeassociation.org/competitions/RheinlandPfalzOpen2024/results/all#eskewb_f) | 4 |
 | 91 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 2.01 | **2.92** | [Cube4fun Lublin on WEII 2024](https://www.worldcubeassociation.org/competitions/Cube4funLublinonWEII2024/results/all#eskewb_f) | 4 |
 | 92 | [Vojtěch Grohmann](https://www.worldcubeassociation.org/persons/2021GROH01) | 2.01 | **2.92** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#eskewb_f) | 17 |
-| 93 | [Jiayao Guo (郭家瑶)](https://www.worldcubeassociation.org/persons/2023GUOJ02) | 2.10 | **2.92** | [Nanchang Spring 2025](https://www.worldcubeassociation.org/competitions/NanchangSpring2025/results/all#eskewb_f) | 5 |
-| 94 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | 2.20 | **2.92** | [Rocky Mountain Championship 2023](https://www.worldcubeassociation.org/competitions/RockyMountainChampionship2023/results/all#eskewb_f) | 4 |
-| 95 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 2.57 | **2.92** | [Energy Cube Białołęka 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeBialoleka2024/results/all#eskewb_f) | 6 |
-| 96 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 1.03 | **2.93** | [OH in a Madison Ballroom 2023](https://www.worldcubeassociation.org/competitions/OHinaMadisonBallroom2023/results/all#eskewb_f) | 4 |
-| 97 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 2.27 | **2.93** | [Back To Białystok 2024](https://www.worldcubeassociation.org/competitions/BackToBialystok2024/results/all#eskewb_f) | 4 |
-| 98 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 1.87 | **2.94** | [Dragon Cubing II 2024](https://www.worldcubeassociation.org/competitions/DragonCubingII2024/results/all#eskewb_f) | 4 |
-| 99 | [Layne VanSiegel](https://www.worldcubeassociation.org/persons/2018VANS03) | 1.92 | **2.94** | [Hilltop Summer OH 2025](https://www.worldcubeassociation.org/competitions/HilltopSummerOH2025/results/all#eskewb_f) | 4 |
-| 100 | [Cian-Jyun Yang (楊謙君)](https://www.worldcubeassociation.org/persons/2019YANG94) | 2.11 | **2.94** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#eskewb_f) | 18 |
+| 93 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 2.03 | **2.92** | [Cube4fun Tylmanowa Autumn 2025](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaAutumn2025/results/all#eskewb_f) | 4 |
+| 94 | [Jiayao Guo (郭家瑶)](https://www.worldcubeassociation.org/persons/2023GUOJ02) | 2.10 | **2.92** | [Nanchang Spring 2025](https://www.worldcubeassociation.org/competitions/NanchangSpring2025/results/all#eskewb_f) | 5 |
+| 95 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | 2.20 | **2.92** | [Rocky Mountain Championship 2023](https://www.worldcubeassociation.org/competitions/RockyMountainChampionship2023/results/all#eskewb_f) | 4 |
+| 96 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 2.57 | **2.92** | [Energy Cube Białołęka 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeBialoleka2024/results/all#eskewb_f) | 6 |
+| 97 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 1.03 | **2.93** | [OH in a Madison Ballroom 2023](https://www.worldcubeassociation.org/competitions/OHinaMadisonBallroom2023/results/all#eskewb_f) | 4 |
+| 98 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 2.27 | **2.93** | [Back To Białystok 2024](https://www.worldcubeassociation.org/competitions/BackToBialystok2024/results/all#eskewb_f) | 4 |
+| 99 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 1.87 | **2.94** | [Dragon Cubing II 2024](https://www.worldcubeassociation.org/competitions/DragonCubingII2024/results/all#eskewb_f) | 4 |
+| 100 | [Layne VanSiegel](https://www.worldcubeassociation.org/persons/2018VANS03) | 1.92 | **2.94** | [Hilltop Summer OH 2025](https://www.worldcubeassociation.org/competitions/HilltopSummerOH2025/results/all#eskewb_f) | 4 |
 
 ### Square-1
 
