@@ -4,12 +4,12 @@
 
 | Rank | Countries | Person |
 | :--- | ---: | :--- |
-| 1 | 76 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
+| 1 | 77 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
 | 2 | 60 | [Vincenzo Maria Gammino](https://www.worldcubeassociation.org/persons/2016GAMM01) |
 | 3 | 56 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 4 | 49 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
-| 5 | 45 | [Hanneke Rijks](https://www.worldcubeassociation.org/persons/2008RIJK01) |
-| 6 | 45 | [Jordan Crippa](https://www.worldcubeassociation.org/persons/2019CRIP01) |
+| 5 | 46 | [Jordan Crippa](https://www.worldcubeassociation.org/persons/2019CRIP01) |
+| 6 | 45 | [Hanneke Rijks](https://www.worldcubeassociation.org/persons/2008RIJK01) |
 | 7 | 41 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 8 | 39 | [Anders Larsson](https://www.worldcubeassociation.org/persons/2003LARS01) |
 | 9 | 37 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |
@@ -18,17 +18,17 @@
 | 12 | 34 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
 | 13 | 34 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 14 | 34 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
-| 15 | 30 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
+| 15 | 31 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
 | 16 | 29 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 17 | 27 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 18 | 27 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 19 | 27 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) |
-| 20 | 26 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
-| 21 | 26 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
-| 22 | 26 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
-| 23 | 26 | [Zoé de Moffarts](https://www.worldcubeassociation.org/persons/2010MOFF02) |
-| 24 | 26 | [Ramona Orzel](https://www.worldcubeassociation.org/persons/2019ORZE03) |
-| 25 | 25 | [Chiara Marcucci](https://www.worldcubeassociation.org/persons/2021MARC03) |
+| 20 | 27 | [Ramona Orzel](https://www.worldcubeassociation.org/persons/2019ORZE03) |
+| 21 | 26 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
+| 22 | 26 | [Chiara Marcucci](https://www.worldcubeassociation.org/persons/2021MARC03) |
+| 23 | 26 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
+| 24 | 26 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) |
+| 25 | 26 | [Zoé de Moffarts](https://www.worldcubeassociation.org/persons/2010MOFF02) |
 | 26 | 25 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
 | 27 | 25 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) |
 | 28 | 25 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
