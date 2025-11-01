@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 1000 single are taken into account.*
-*Updated on 31 October 2025*
+*Updated on  1 November 2025*
 
 
 ### Rubik's Cube
@@ -347,21 +347,21 @@
 | 22 | 42.25 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | 43.13, 40.36, 40.15, 49.63, 43.25 |
 | 23 | 42.36 | [Inigo Miguel B. Palisoc](https://www.worldcubeassociation.org/persons/2017PALI04) | 42.80, 44.32, 41.53, 42.76, 40.09 |
 | 24 | 42.79 | [Kim Roger Haraldsen](https://www.worldcubeassociation.org/persons/2015LARS04) | 41.93, 53.81, 41.80, 44.63, 40.29 |
-| 25 | 42.94 | [Brandon Nunez](https://www.worldcubeassociation.org/persons/2016NUNE11) | 41.93, 43.90, 49.68, 41.72, 42.99 |
-| 26 | 42.98 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 41.30, 41.52, 44.04, 48.87, 43.37 |
-| 27 | 43.10 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 42.64, 44.10, 42.55, 50.59, 41.65 |
-| 28 | 43.22 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) | 41.92, 42.90, 49.22, 44.83, 41.93 |
-| 29 | 43.23 | [Jacob Nokes](https://www.worldcubeassociation.org/persons/2017NOKE01) | 42.75, 42.97, 42.87, 48.02, 43.86 |
-| 30 | 43.27 | [Arhaan Sareen](https://www.worldcubeassociation.org/persons/2017SARE03) | 45.19, 42.86, 44.15, 42.81, 41.65 |
-| 31 | 43.37 | [Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09) | 50.10, 41.27, 41.55, 43.67, 44.89 |
-| 32 | 43.63 | [Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12) | 42.79, 43.57, 46.91, 44.00, 43.32 |
-| 33 | 43.70 | [Christopher Sun](https://www.worldcubeassociation.org/persons/2017SUNC02) | 46.30, 44.60, 42.44, 42.74, 43.75 |
-| 34 | 43.76 | [Jerry Yao](https://www.worldcubeassociation.org/persons/2019YAOJ01) | 42.23, 42.39, 45.49, 50.72, 43.40 |
-| 35 | 43.83 | [Asia Konvittayayotin (เอเชีย กรวิทยโยธิน)](https://www.worldcubeassociation.org/persons/2009KONV01) | 40.89, 45.00, 49.56, 42.05, 44.43 |
-| 36 | 43.92 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 44.61, 49.99, 45.84, 40.74, 41.32 |
-| 37 | 43.98 | [Twan Dullemond](https://www.worldcubeassociation.org/persons/2018DULL01) | 43.98, 42.59, 41.48, 45.90, 45.38 |
-| 38 | 44.04 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | 43.45, 59.55, 46.66, 41.28, 42.00 |
-| 39 | 44.16 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) | 44.28, 44.33, 49.27, 43.86, 41.35 |
+| 25 | 42.85 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) | 42.76, 42.94, 44.36, 41.20, 42.84 |
+| 26 | 42.94 | [Brandon Nunez](https://www.worldcubeassociation.org/persons/2016NUNE11) | 41.93, 43.90, 49.68, 41.72, 42.99 |
+| 27 | 42.98 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 41.30, 41.52, 44.04, 48.87, 43.37 |
+| 28 | 43.10 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 42.64, 44.10, 42.55, 50.59, 41.65 |
+| 29 | 43.22 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) | 41.92, 42.90, 49.22, 44.83, 41.93 |
+| 30 | 43.23 | [Jacob Nokes](https://www.worldcubeassociation.org/persons/2017NOKE01) | 42.75, 42.97, 42.87, 48.02, 43.86 |
+| 31 | 43.27 | [Arhaan Sareen](https://www.worldcubeassociation.org/persons/2017SARE03) | 45.19, 42.86, 44.15, 42.81, 41.65 |
+| 32 | 43.37 | [Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09) | 50.10, 41.27, 41.55, 43.67, 44.89 |
+| 33 | 43.63 | [Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12) | 42.79, 43.57, 46.91, 44.00, 43.32 |
+| 34 | 43.70 | [Christopher Sun](https://www.worldcubeassociation.org/persons/2017SUNC02) | 46.30, 44.60, 42.44, 42.74, 43.75 |
+| 35 | 43.76 | [Jerry Yao](https://www.worldcubeassociation.org/persons/2019YAOJ01) | 42.23, 42.39, 45.49, 50.72, 43.40 |
+| 36 | 43.83 | [Asia Konvittayayotin (เอเชีย กรวิทยโยธิน)](https://www.worldcubeassociation.org/persons/2009KONV01) | 40.89, 45.00, 49.56, 42.05, 44.43 |
+| 37 | 43.92 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 44.61, 49.99, 45.84, 40.74, 41.32 |
+| 38 | 43.98 | [Twan Dullemond](https://www.worldcubeassociation.org/persons/2018DULL01) | 43.98, 42.59, 41.48, 45.90, 45.38 |
+| 39 | 44.04 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | 43.45, 59.55, 46.66, 41.28, 42.00 |
 | 40 | 44.16 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | 46.13, 42.32, 42.64, 45.39, 44.45 |
 | 41 | 44.32 | [Daniel Rush](https://www.worldcubeassociation.org/persons/2018RUSH01) | 46.54, 36.94, 54.26, 43.75, 42.67 |
 | 42 | 44.35 | [Jack Larsson Backsell](https://www.worldcubeassociation.org/persons/2021BACK01) | 35.91, 52.33, 42.49, 45.03, 45.53 |

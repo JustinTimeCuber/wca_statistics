@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 31 October 2025*
+*Updated on  1 November 2025*
 
 
 ### Rubik's Cube - Single
@@ -768,14 +768,14 @@
 | 23 | [Brandon Nunez](https://www.worldcubeassociation.org/persons/2016NUNE11) | **42.94** |  | [PBs in Palisades Open 2025](https://www.worldcubeassociation.org/competitions/PBsinPalisadesOpen2025) | 41.93, 43.90, 49.68, 41.72, 42.99 |
 | 24 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | **43.10** |  | [Weston-super-Mare Autumn 2025](https://www.worldcubeassociation.org/competitions/WestonsuperMareAutumn2025) | 42.64, 44.10, 42.55, 50.59, 41.65 |
 | 25 | [Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09) | **43.37** |  | [Happy Suseong 2025](https://www.worldcubeassociation.org/competitions/HappySuseong2025) | 50.10, 41.27, 41.55, 43.67, 44.89 |
-| 26 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | **43.45** |  | [Okcheon Autumn Breeze 2025](https://www.worldcubeassociation.org/competitions/OkcheonAutumnBreeze2025) | 44.90, 42.62, 42.82, 40.43, 46.62 |
-| 27 | [Arhaan Sareen](https://www.worldcubeassociation.org/persons/2017SARE03) | **44.07** |  | [Pickering NxNxN Summer 2025](https://www.worldcubeassociation.org/competitions/PickeringNxNxNSummer2025) | 44.84, 41.93, 42.13, 45.23, 47.08 |
-| 28 | [Kim Roger Haraldsen](https://www.worldcubeassociation.org/persons/2015LARS04) | **44.08** |  | [Sandnes Summer Fun 2025](https://www.worldcubeassociation.org/competitions/SandnesSummerFun2025) | 45.67, 41.93, 53.81, 41.80, 44.63 |
-| 29 | [Jacob Nokes](https://www.worldcubeassociation.org/persons/2017NOKE01) | **44.26** |  | [DeNxNver 2025](https://www.worldcubeassociation.org/competitions/DeNxNver2025) | 41.46, 43.06, 50.85, 47.07, 42.66 |
-| 30 | [Twan Dullemond](https://www.worldcubeassociation.org/persons/2018DULL01) | **44.34** |  | [Quick 'n Slick Meppel 2025](https://www.worldcubeassociation.org/competitions/QuicknSlickMeppel2025) | 51.12, 46.46, 43.98, 42.59, 41.48 |
-| 31 | [Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12) | **44.40** |  | [Australian Nationals 2025](https://www.worldcubeassociation.org/competitions/AustralianNationals2025) | 44.00, 43.32, 42.34, 45.88, 50.32 |
-| 32 | [Lauri Korhonen](https://www.worldcubeassociation.org/persons/2017KORH01) | **44.43** |  | [VERK I 2025](https://www.worldcubeassociation.org/competitions/VERKI2025) | 44.34, 45.30, 46.74, 43.64, 43.18 |
-| 33 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) | **44.46** |  | [Beachside Auckland 2025](https://www.worldcubeassociation.org/competitions/BeachsideAuckland2025) | 44.97, 45.04, 43.38, 42.62, 45.77 |
+| 26 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) | **43.38** |  | [Bali Speedcubing Open 2025](https://www.worldcubeassociation.org/competitions/BaliSpeedcubingOpen2025) | 42.94, 44.36, 41.20, 42.84, 50.03 |
+| 27 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | **43.45** |  | [Okcheon Autumn Breeze 2025](https://www.worldcubeassociation.org/competitions/OkcheonAutumnBreeze2025) | 44.90, 42.62, 42.82, 40.43, 46.62 |
+| 28 | [Arhaan Sareen](https://www.worldcubeassociation.org/persons/2017SARE03) | **44.07** |  | [Pickering NxNxN Summer 2025](https://www.worldcubeassociation.org/competitions/PickeringNxNxNSummer2025) | 44.84, 41.93, 42.13, 45.23, 47.08 |
+| 29 | [Kim Roger Haraldsen](https://www.worldcubeassociation.org/persons/2015LARS04) | **44.08** |  | [Sandnes Summer Fun 2025](https://www.worldcubeassociation.org/competitions/SandnesSummerFun2025) | 45.67, 41.93, 53.81, 41.80, 44.63 |
+| 30 | [Jacob Nokes](https://www.worldcubeassociation.org/persons/2017NOKE01) | **44.26** |  | [DeNxNver 2025](https://www.worldcubeassociation.org/competitions/DeNxNver2025) | 41.46, 43.06, 50.85, 47.07, 42.66 |
+| 31 | [Twan Dullemond](https://www.worldcubeassociation.org/persons/2018DULL01) | **44.34** |  | [Quick 'n Slick Meppel 2025](https://www.worldcubeassociation.org/competitions/QuicknSlickMeppel2025) | 51.12, 46.46, 43.98, 42.59, 41.48 |
+| 32 | [Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12) | **44.40** |  | [Australian Nationals 2025](https://www.worldcubeassociation.org/competitions/AustralianNationals2025) | 44.00, 43.32, 42.34, 45.88, 50.32 |
+| 33 | [Lauri Korhonen](https://www.worldcubeassociation.org/persons/2017KORH01) | **44.43** |  | [VERK I 2025](https://www.worldcubeassociation.org/competitions/VERKI2025) | 44.34, 45.30, 46.74, 43.64, 43.18 |
 | 34 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | **44.55** |  | [Green Winter 2025](https://www.worldcubeassociation.org/competitions/GreenWinter2025) | 40.74, 41.32, 51.47, 45.47, 46.85 |
 | 35 | [Kate Grahame](https://www.worldcubeassociation.org/persons/2018GRAH05) | **44.60** |  | [Australian Nationals 2025](https://www.worldcubeassociation.org/competitions/AustralianNationals2025) | 45.72, 39.13, 50.62, 45.94, 42.15 |
 | 36 | [Jack Larsson Backsell](https://www.worldcubeassociation.org/persons/2021BACK01) | **44.78** |  | [Örebro Minxfest 2025](https://www.worldcubeassociation.org/competitions/OrebroMinxfest2025) | 46.83, 35.91, 52.33, 42.49, 45.03 |

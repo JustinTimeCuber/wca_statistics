@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on 31 October 2025*
+*Updated on  1 November 2025*
 
 
 ### 3x3x3 Blindfolded
@@ -205,8 +205,8 @@
 | 196 | 16 | [Denis Reimer](https://www.worldcubeassociation.org/persons/2016REIM01) |
 | 197 | 16 | [Lachlan F. Cattanach](https://www.worldcubeassociation.org/persons/2022CATT02) |
 | 198 | 16 | [Sayeedur Rahman](https://www.worldcubeassociation.org/persons/2022RAHM02) |
-| 199 | 16 | [Justus Hanf](https://www.worldcubeassociation.org/persons/2022HANF01) |
-| 200 | 16 | [Jose Sánchez García](https://www.worldcubeassociation.org/persons/2022GARC19) |
+| 199 | 16 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) |
+| 200 | 16 | [Justus Hanf](https://www.worldcubeassociation.org/persons/2022HANF01) |
 
 ### 4x4x4 Blindfolded
 
@@ -319,8 +319,8 @@
 | 105 | 12 | [Patrick Collins](https://www.worldcubeassociation.org/persons/2019COLL12) |
 | 106 | 12 | [Simon Dimpker](https://www.worldcubeassociation.org/persons/2021DIMP01) |
 | 107 | 12 | [Shun-Hsin Chang (張舜欣)](https://www.worldcubeassociation.org/persons/2011JHAN01) |
-| 108 | 12 | [Bella Campbell](https://www.worldcubeassociation.org/persons/2018CAMP17) |
-| 109 | 12 | [Kalindu Sachintha Wijesundara](https://www.worldcubeassociation.org/persons/2022WIJE02) |
+| 108 | 12 | [Kalindu Sachintha Wijesundara](https://www.worldcubeassociation.org/persons/2022WIJE02) |
+| 109 | 12 | [Bella Campbell](https://www.worldcubeassociation.org/persons/2018CAMP17) |
 | 110 | 12 | [Alexander Nilsson](https://www.worldcubeassociation.org/persons/2022NILS01) |
 | 111 | 12 | [Jacob Sherwen Brown](https://www.worldcubeassociation.org/persons/2022BROW01) |
 | 112 | 12 | [Skylar Albright](https://www.worldcubeassociation.org/persons/2018ALBR03) |
