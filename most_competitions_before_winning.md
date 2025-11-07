@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on  4 November 2025*
+*Updated on  7 November 2025*
 
 
 ### Rubik's Cube
@@ -837,12 +837,12 @@
 | 92 | 16 | [Gonzalo Orellana Barrasa](https://www.worldcubeassociation.org/persons/2010OREL02) | [Zaragoza Open 2016](https://www.worldcubeassociation.org/competitions/ZaragozaOpen2016) |
 | 93 | 16 | [Alessandro Nicolì](https://www.worldcubeassociation.org/persons/2012NICO02) | [Italian Championship 2019](https://www.worldcubeassociation.org/competitions/ItalianChampionship2019) |
 | 94 | 16 | [Qijun Miao (缪其隽)](https://www.worldcubeassociation.org/persons/2014MIAO02) | [Guangzhou Quiet Day 2024](https://www.worldcubeassociation.org/competitions/GuangzhouQuietDay2024) |
-| 95 | 15 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) | [Swiss Open 2009](https://www.worldcubeassociation.org/competitions/SwissOpen2009) |
-| 96 | 15 | [Kåre Krig](https://www.worldcubeassociation.org/persons/2004KRIG02) | [Vårgårda Open 2012](https://www.worldcubeassociation.org/competitions/VargardaOpen2012) |
-| 97 | 15 | [Mats Kollbrink](https://www.worldcubeassociation.org/persons/2007KOLL01) | [SSL 2 Stockholm 2017](https://www.worldcubeassociation.org/competitions/SSL2Stockholm2017) |
-| 98 | 15 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | [Bristol Spring 2010](https://www.worldcubeassociation.org/competitions/BristolSpring2010) |
-| 99 | 15 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) | [Jura Open 2012](https://www.worldcubeassociation.org/competitions/JuraOpen2012) |
-| 100 | 15 | [Adrian Lehmann](https://www.worldcubeassociation.org/persons/2010LEHM02) | [German Open 2013](https://www.worldcubeassociation.org/competitions/GermanOpen2013) |
+| 95 | 16 | [Mattia Pasquini](https://www.worldcubeassociation.org/persons/2019PASQ01) | [FMC Ticino 2025](https://www.worldcubeassociation.org/competitions/FMCTicino2025) |
+| 96 | 15 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) | [Swiss Open 2009](https://www.worldcubeassociation.org/competitions/SwissOpen2009) |
+| 97 | 15 | [Kåre Krig](https://www.worldcubeassociation.org/persons/2004KRIG02) | [Vårgårda Open 2012](https://www.worldcubeassociation.org/competitions/VargardaOpen2012) |
+| 98 | 15 | [Mats Kollbrink](https://www.worldcubeassociation.org/persons/2007KOLL01) | [SSL 2 Stockholm 2017](https://www.worldcubeassociation.org/competitions/SSL2Stockholm2017) |
+| 99 | 15 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | [Bristol Spring 2010](https://www.worldcubeassociation.org/competitions/BristolSpring2010) |
+| 100 | 15 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) | [Jura Open 2012](https://www.worldcubeassociation.org/competitions/JuraOpen2012) |
 
 ### 3x3x3 One-Handed
 
@@ -1946,8 +1946,8 @@
 | 46 | 7 | [Takuya Furukawa (古河拓也)](https://www.worldcubeassociation.org/persons/2008FURU01) | [Kansai Open 2012](https://www.worldcubeassociation.org/competitions/KansaiOpen2012) |
 | 47 | 6 | [Takao Hashimoto (橋本貴夫)](https://www.worldcubeassociation.org/persons/2007HASH01) | [Cincinnati Summer Open 2008](https://www.worldcubeassociation.org/competitions/CincinnatiSummerOpen2008) |
 | 48 | 6 | [Marcos Ameijeiras Moreno](https://www.worldcubeassociation.org/persons/2008MORE01) | [Murcia Open 2009](https://www.worldcubeassociation.org/competitions/MurciaOpen2009) |
-| 49 | 6 | [Phoochit Roonooy (ภูชิสส์ รุ่นอ๋อย)](https://www.worldcubeassociation.org/persons/2010ROON01) | [Bangkok 2012](https://www.worldcubeassociation.org/competitions/Bangkok2012) |
-| 50 | 6 | [Ernie Pulchny](https://www.worldcubeassociation.org/persons/2010PULC01) | [Newark Head to Head 2011](https://www.worldcubeassociation.org/competitions/NewarkH2H2011) |
+| 49 | 6 | [Ernie Pulchny](https://www.worldcubeassociation.org/persons/2010PULC01) | [Newark Head to Head 2011](https://www.worldcubeassociation.org/competitions/NewarkH2H2011) |
+| 50 | 6 | [Phoochit Roonooy (ภูชิสส์ รุ่นอ๋อย)](https://www.worldcubeassociation.org/persons/2010ROON01) | [Bangkok 2012](https://www.worldcubeassociation.org/competitions/Bangkok2012) |
 | 51 | 6 | [Ardianto Satriawan](https://www.worldcubeassociation.org/persons/2009SATR01) | [Fun Fasting Day 2011](https://www.worldcubeassociation.org/competitions/FunFastingDay2011) |
 | 52 | 6 | [Lucas Etter](https://www.worldcubeassociation.org/persons/2011ETTE01) | [Ohio Fall 2011](https://www.worldcubeassociation.org/competitions/OhioFall2011) |
 | 53 | 6 | [Giana Guelfi](https://www.worldcubeassociation.org/persons/2011GUEL01) | [Aracaju Open 2012](https://www.worldcubeassociation.org/competitions/AracajuOpen2012) |
