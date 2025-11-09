@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on  7 November 2025*
+*Updated on  8 November 2025*
 
 
 ### World
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.46 | World | 16178 |
+| 1 | 1.46 | World | 16188 |
 
 ### Continents
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.72 | Europe | 5227 |
+| 1 | 1.72 | Europe | 5231 |
 | 2 | 1.47 | Oceania | 705 |
-| 3 | 1.47 | South America | 2055 |
-| 4 | 1.40 | Asia | 3348 |
+| 3 | 1.47 | South America | 2057 |
+| 4 | 1.40 | Asia | 3349 |
 | 5 | 1.33 | Africa | 208 |
-| 6 | 1.21 | North America | 4635 |
+| 6 | 1.21 | North America | 4638 |
 
 ### Countries
 
@@ -27,7 +27,7 @@
 | 1 | 2.04 | Uzbekistan | 26 |
 | 2 | 2.02 | Kazakhstan | 59 |
 | 3 | 2.00 | Liechtenstein | 3 |
-| 4 | 1.95 | Czech Republic | 78 |
+| 4 | 1.95 | Czech Republic | 79 |
 | 5 | 1.94 | Germany | 276 |
 | 6 | 1.93 | Belarus | 42 |
 | 7 | 1.92 | Turkey | 130 |
@@ -55,7 +55,7 @@
 | 29 | 1.75 | Sri Lanka | 16 |
 | 30 | 1.74 | Hungary | 68 |
 | 31 | 1.73 | Ukraine | 148 |
-| 32 | 1.72 | Poland | 568 |
+| 32 | 1.72 | Poland | 570 |
 | 33 | 1.72 | Ireland | 88 |
 | 34 | 1.69 | Argentina | 116 |
 | 35 | 1.68 | Belgium | 102 |
@@ -77,17 +77,17 @@
 | 51 | 1.52 | South Africa | 104 |
 | 52 | 1.52 | Bulgaria | 27 |
 | 53 | 1.51 | Bolivia | 160 |
-| 54 | 1.51 | Malaysia | 124 |
+| 54 | 1.50 | Malaysia | 125 |
 | 55 | 1.50 | Laos | 2 |
 | 56 | 1.50 | Sweden | 370 |
-| 57 | 1.47 | Peru | 249 |
+| 57 | 1.47 | Peru | 251 |
 | 58 | 1.44 | Australia | 539 |
 | 59 | 1.43 | Montenegro | 7 |
 | 60 | 1.43 | Nigeria | 7 |
 | 61 | 1.42 | Costa Rica | 31 |
 | 62 | 1.41 | Israel | 75 |
 | 63 | 1.41 | Vietnam | 73 |
-| 64 | 1.39 | Estonia | 66 |
+| 64 | 1.39 | Estonia | 67 |
 | 65 | 1.38 | Ecuador | 66 |
 | 66 | 1.38 | Andorra | 8 |
 | 67 | 1.37 | Chinese Taipei | 160 |
@@ -118,7 +118,7 @@
 | 92 | 1.18 | Armenia | 11 |
 | 93 | 1.17 | Canada | 463 |
 | 94 | 1.17 | Tunisia | 24 |
-| 95 | 1.16 | United States | 3712 |
+| 95 | 1.16 | United States | 3715 |
 | 96 | 1.16 | Mongolia | 51 |
 | 97 | 1.12 | Azerbaijan | 48 |
 | 98 | 1.11 | Egypt | 9 |
