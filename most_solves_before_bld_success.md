@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on 13 November 2025*
+*Updated on 16 November 2025*
 
 
 ### 3x3x3 Blindfolded
@@ -789,7 +789,7 @@
 | 165 | 5 | [Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05) |
 | 166 | 5 | [Kacper Kuźniak](https://www.worldcubeassociation.org/persons/2018KUZN11) |
 | 167 | 5 | [Thomas Granhøj Dam](https://www.worldcubeassociation.org/persons/2021DAMT01) |
-| 168 | 5 | [Pedro Henrique Maciel Ceccopieri Belo](https://www.worldcubeassociation.org/persons/2015BELO02) |
+| 168 | 5 | [Pedro Henrique Maciel Ceccopieri Belo (陈昊然)](https://www.worldcubeassociation.org/persons/2015BELO02) |
 | 169 | 5 | [Kinkajou Celeste Oren](https://www.worldcubeassociation.org/persons/2020OREN01) |
 | 170 | 5 | [Tobias Hermans](https://www.worldcubeassociation.org/persons/2019HERM05) |
 | 171 | 5 | [Preston Hoing](https://www.worldcubeassociation.org/persons/2019HOIN01) |
