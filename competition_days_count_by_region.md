@@ -1,21 +1,21 @@
 ## Competition days count by region
 
-*Updated on 16 November 2025*
+*Updated on 17 November 2025*
 
 
 ### World
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.46 | World | 16244 |
+| 1 | 1.46 | World | 16246 |
 
 ### Continents
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.72 | Europe | 5248 |
+| 1 | 1.72 | Europe | 5249 |
 | 2 | 1.47 | Oceania | 706 |
-| 3 | 1.47 | South America | 2066 |
+| 3 | 1.47 | South America | 2067 |
 | 4 | 1.40 | Asia | 3357 |
 | 5 | 1.33 | Africa | 209 |
 | 6 | 1.21 | North America | 4658 |
@@ -59,7 +59,7 @@
 | 33 | 1.71 | Ireland | 90 |
 | 34 | 1.69 | Argentina | 116 |
 | 35 | 1.68 | Belgium | 102 |
-| 36 | 1.67 | Brazil | 643 |
+| 36 | 1.67 | Brazil | 644 |
 | 37 | 1.67 | Madagascar | 3 |
 | 38 | 1.67 | North Macedonia | 6 |
 | 39 | 1.63 | Italy | 278 |
@@ -121,9 +121,9 @@
 | 95 | 1.16 | United States | 3725 |
 | 96 | 1.15 | Mongolia | 52 |
 | 97 | 1.12 | Azerbaijan | 48 |
-| 98 | 1.11 | Egypt | 9 |
-| 99 | 1.10 | Honduras | 20 |
-| 100 | 1.07 | Cyprus | 15 |
+| 98 | 1.12 | Cyprus | 16 |
+| 99 | 1.11 | Egypt | 9 |
+| 100 | 1.10 | Honduras | 20 |
 | 101 | 1.05 | Georgia | 38 |
 | 102 | 1.05 | Kenya | 22 |
 | 103 | 1.00 | Albania | 3 |
