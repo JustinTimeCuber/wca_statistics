@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 17 November 2025*
+*Updated on 19 November 2025*
 
 
 ### Rubik's Cube
@@ -628,8 +628,8 @@
 | 93 | 3:09.28 | [Ty Baird](https://www.worldcubeassociation.org/persons/2023BAIR02) |
 | 94 | 3:09.34 | [Ang Chin Xiang](https://www.worldcubeassociation.org/persons/2016XIAN01) |
 | 95 | 3:09.36 | [Camerone Chin](https://www.worldcubeassociation.org/persons/2019CHIN08) |
-| 96 | 3:09.60 | [Guanming Shao (邵冠铭)](https://www.worldcubeassociation.org/persons/2025SHAO04) |
-| 97 | 3:09.60 | [Haoyuan Lu (卢昊元)](https://www.worldcubeassociation.org/persons/2025LUHA01) |
+| 96 | 3:09.60 | [Haoyuan Lu (卢昊元)](https://www.worldcubeassociation.org/persons/2025LUHA01) |
+| 97 | 3:09.60 | [Guanming Shao (邵冠铭)](https://www.worldcubeassociation.org/persons/2025SHAO04) |
 | 98 | 3:09.74 | [Balder Henke](https://www.worldcubeassociation.org/persons/2019HENK01) |
 | 99 | 3:09.87 | [Gian Carlo C. Catambay](https://www.worldcubeassociation.org/persons/2019CATA02) |
 | 100 | 3:10.20 | [Jiachuan Ye (叶佳川)](https://www.worldcubeassociation.org/persons/2021YEJI01) |
