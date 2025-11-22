@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 19 November 2025*
+*Updated on 22 November 2025*
 
 
 ### World
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.46 | World | 16259 |
+| 1 | 1.46 | World | 16269 |
 
 ### Continents
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.72 | Europe | 5253 |
+| 1 | 1.72 | Europe | 5255 |
 | 2 | 1.47 | Oceania | 708 |
-| 3 | 1.47 | South America | 2068 |
-| 4 | 1.40 | Asia | 3358 |
+| 3 | 1.47 | South America | 2071 |
+| 4 | 1.41 | Asia | 3360 |
 | 5 | 1.33 | Africa | 210 |
-| 6 | 1.21 | North America | 4662 |
+| 6 | 1.21 | North America | 4665 |
 
 ### Countries
 
@@ -43,7 +43,7 @@
 | 17 | 1.84 | Norway | 158 |
 | 18 | 1.83 | United Kingdom | 324 |
 | 19 | 1.83 | Serbia | 29 |
-| 20 | 1.83 | Finland | 178 |
+| 20 | 1.82 | Finland | 179 |
 | 21 | 1.81 | Slovakia | 54 |
 | 22 | 1.80 | Mexico | 246 |
 | 23 | 1.80 | Bosnia and Herzegovina | 15 |
@@ -59,7 +59,7 @@
 | 33 | 1.71 | Ireland | 90 |
 | 34 | 1.69 | Argentina | 116 |
 | 35 | 1.68 | Belgium | 102 |
-| 36 | 1.67 | Brazil | 644 |
+| 36 | 1.67 | Brazil | 645 |
 | 37 | 1.67 | Madagascar | 3 |
 | 38 | 1.67 | North Macedonia | 6 |
 | 39 | 1.63 | Italy | 278 |
@@ -72,7 +72,7 @@
 | 46 | 1.57 | Latvia | 42 |
 | 47 | 1.57 | San Marino | 7 |
 | 48 | 1.57 | Nepal | 23 |
-| 49 | 1.55 | India | 717 |
+| 49 | 1.55 | India | 718 |
 | 50 | 1.54 | Denmark | 230 |
 | 51 | 1.52 | Bulgaria | 27 |
 | 52 | 1.51 | South Africa | 105 |
@@ -88,9 +88,9 @@
 | 62 | 1.41 | Vietnam | 73 |
 | 63 | 1.40 | Israel | 77 |
 | 64 | 1.39 | Estonia | 67 |
-| 65 | 1.38 | Andorra | 8 |
-| 66 | 1.37 | Ecuador | 67 |
-| 67 | 1.37 | Chinese Taipei | 160 |
+| 65 | 1.38 | Chinese Taipei | 161 |
+| 66 | 1.38 | Andorra | 8 |
+| 67 | 1.37 | Ecuador | 67 |
 | 68 | 1.36 | Romania | 146 |
 | 69 | 1.36 | Paraguay | 39 |
 | 70 | 1.35 | Jordan | 23 |
@@ -104,7 +104,7 @@
 | 78 | 1.30 | Uruguay | 60 |
 | 79 | 1.30 | Hong Kong, China | 27 |
 | 80 | 1.29 | Portugal | 51 |
-| 81 | 1.28 | Colombia | 476 |
+| 81 | 1.28 | Colombia | 478 |
 | 82 | 1.28 | Philippines | 386 |
 | 83 | 1.27 | Morocco | 11 |
 | 84 | 1.26 | El Salvador | 39 |
@@ -118,10 +118,10 @@
 | 92 | 1.18 | Japan | 259 |
 | 93 | 1.17 | Canada | 471 |
 | 94 | 1.17 | Tunisia | 24 |
-| 95 | 1.16 | United States | 3728 |
+| 95 | 1.16 | United States | 3731 |
 | 96 | 1.15 | Mongolia | 52 |
-| 97 | 1.12 | Azerbaijan | 48 |
-| 98 | 1.12 | Cyprus | 16 |
+| 97 | 1.12 | Cyprus | 16 |
+| 98 | 1.12 | Azerbaijan | 49 |
 | 99 | 1.11 | Egypt | 9 |
 | 100 | 1.10 | Honduras | 20 |
 | 101 | 1.05 | Georgia | 38 |
