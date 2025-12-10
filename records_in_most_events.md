@@ -1,7 +1,7 @@
 ## Records in the highest number of events
 
 *Note: All historical records are taken into account (i.e. not only the current ones).*
-*Updated on  7 December 2025*
+*Updated on 10 December 2025*
 
 
 ### World
@@ -502,9 +502,9 @@
 | 82 | 12 | [Sakib Ibn Rashid Rhivu](https://www.worldcubeassociation.org/persons/2017RHIV01) | 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, 3x3x3 Fewest Moves, 3x3x3 One-Handed, Megaminx, Pyraminx, Skewb, 3x3x3 With Feet |
 | 83 | 12 | [Zaid Doofesh (زيد دوفش)](https://www.worldcubeassociation.org/persons/2012DOOF02) | 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, 3x3x3 Blindfolded, 3x3x3 One-Handed, Megaminx, Pyraminx, Square-1, Magic |
 | 84 | 12 | [Rafik Eskandar](https://www.worldcubeassociation.org/persons/2019RAGH04) | 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, 3x3x3 Fewest Moves, Clock, Megaminx, Pyraminx, Skewb, Square-1 |
-| 85 | 12 | [Thomas Mako](https://www.worldcubeassociation.org/persons/2022MAKO03) | 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, 3x3x3 Blindfolded, 3x3x3 One-Handed, Megaminx, Pyraminx, Skewb, Square-1 |
-| 86 | 12 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) | 3x3x3 Cube, 4x4x4 Cube, 5x5x5 Cube, 7x7x7 Cube, 3x3x3 Blindfolded, 3x3x3 Fewest Moves, 3x3x3 One-Handed, Megaminx, Skewb, 4x4x4 Blindfolded, 5x5x5 Blindfolded, 3x3x3 Multi-Blind |
-| 87 | 12 | [Arnelio Manaca Mola](https://www.worldcubeassociation.org/persons/2023MOLA06) | 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, 3x3x3 One-Handed, Clock, Megaminx, Pyraminx, Skewb, Square-1 |
+| 85 | 12 | [Arnelio Manaca Mola](https://www.worldcubeassociation.org/persons/2023MOLA06) | 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, 3x3x3 One-Handed, Clock, Megaminx, Pyraminx, Skewb, Square-1 |
+| 86 | 12 | [Thomas Mako](https://www.worldcubeassociation.org/persons/2022MAKO03) | 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, 3x3x3 Blindfolded, 3x3x3 One-Handed, Megaminx, Pyraminx, Skewb, Square-1 |
+| 87 | 12 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) | 3x3x3 Cube, 4x4x4 Cube, 5x5x5 Cube, 7x7x7 Cube, 3x3x3 Blindfolded, 3x3x3 Fewest Moves, 3x3x3 One-Handed, Megaminx, Skewb, 4x4x4 Blindfolded, 5x5x5 Blindfolded, 3x3x3 Multi-Blind |
 | 88 | 12 | [Mantas Sidabras](https://www.worldcubeassociation.org/persons/2011SIDA01) | 3x3x3 Cube, 2x2x2 Cube, 3x3x3 Blindfolded, 3x3x3 Fewest Moves, 3x3x3 One-Handed, Clock, Megaminx, Square-1, 3x3x3 Multi-Blind, 3x3x3 With Feet, Magic, Master Magic |
 | 89 | 12 | [Óskar Pétursson](https://www.worldcubeassociation.org/persons/2017PETU02) | 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 6x6x6 Cube, 3x3x3 Blindfolded, 3x3x3 One-Handed, Clock, Megaminx, Pyraminx, Skewb, Square-1 |
 | 90 | 12 | [Zhulu Ke (柯助錄)](https://www.worldcubeassociation.org/persons/2007KEZH01) | 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 7x7x7 Cube, 3x3x3 Blindfolded, 3x3x3 One-Handed, Megaminx, Pyraminx, Square-1, Magic, Master Magic |

@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  7 December 2025*
+*Updated on 10 December 2025*
 
 
 ### Rubik's Cube
@@ -1024,35 +1024,35 @@
 | 69 | 0.06 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | 2.23 | 2.29 | [Szczecin Open 2022](https://www.worldcubeassociation.org/competitions/SzczecinOpen2022/results/by_person#2019KEDZ01) |
 | 70 | 0.06 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 2.29 | 2.35 | [Peoria 2022](https://www.worldcubeassociation.org/competitions/CubingPeoria2022/results/by_person#2015KUCA01) |
 | 71 | 0.06 | [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) | 2.29 | 2.35 | [Cube4fun Warsaw 2022](https://www.worldcubeassociation.org/competitions/Cube4funWarsaw2022/results/by_person#2020DOZA01) |
-| 72 | 0.06 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) | 2.79 | 2.85 | [Belgium Summer Open 2017](https://www.worldcubeassociation.org/competitions/BelgiumSummerOpen2017/results/by_person#2010DESJ01) |
-| 73 | 0.06 | [Oriol Mas Alarcón](https://www.worldcubeassociation.org/persons/2023ALAR04) | 2.96 | 3.02 | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/by_person#2023ALAR04) |
-| 74 | 0.06 | [Yening Liu (刘烨宁)](https://www.worldcubeassociation.org/persons/2023LIUY04) | 3.00 | 3.06 | [Guangzhou Special 2024](https://www.worldcubeassociation.org/competitions/GuangzhouSpecial2024/results/by_person#2023LIUY04) |
-| 75 | 0.06 | [Joaquin Ruenes Hernández](https://www.worldcubeassociation.org/persons/2017HERN11) | 3.01 | 3.07 | [Quetzal Cubing 2019](https://www.worldcubeassociation.org/competitions/QuetzalCubing2019/results/by_person#2017HERN11) |
-| 76 | 0.06 | [Cian-Jyun Yang (楊謙君)](https://www.worldcubeassociation.org/persons/2019YANG94) | 3.34 | 3.40 | [Maru Cube Day 2022](https://www.worldcubeassociation.org/competitions/MaruCubeDay2022/results/by_person#2019YANG94) |
-| 77 | 0.06 | [Manuel Malvárez](https://www.worldcubeassociation.org/persons/2019MALV01) | 3.71 | 3.77 | [Montevideo Open 2022](https://www.worldcubeassociation.org/competitions/MontevideoOpen2022/results/by_person#2019MALV01) |
-| 78 | 0.06 | [Cyril Teichmann](https://www.worldcubeassociation.org/persons/2017TEIC01) | 4.12 | 4.18 | [Prague June 2024](https://www.worldcubeassociation.org/competitions/PragueJune2024/results/by_person#2017TEIC01) |
-| 79 | 0.06 | [Noah Calderon-Kamata](https://www.worldcubeassociation.org/persons/2022CALD07) | 4.47 | 4.53 | [Stevenage July 2024](https://www.worldcubeassociation.org/competitions/StevenageJuly2024/results/by_person#2022CALD07) |
-| 80 | 0.06 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 4.73 | 4.79 | [Termonfeckin Fast 2025](https://www.worldcubeassociation.org/competitions/TermonfeckinFast2025/results/by_person#2023MARA10) |
-| 81 | 0.06 | [Aarav Bhoite](https://www.worldcubeassociation.org/persons/2018BHOI01) | 5.03 | 5.09 | [Twice the Mini-sota 2025](https://www.worldcubeassociation.org/competitions/TwicetheMinisota2025/results/by_person#2018BHOI01) |
-| 82 | 0.06 | [Tucker Chamberlain](https://www.worldcubeassociation.org/persons/2018CHAM01) | 5.22 | 5.28 | [Dallas Cubemas 2019](https://www.worldcubeassociation.org/competitions/DallasCubemas2019/results/by_person#2018CHAM01) |
-| 83 | 0.06 | [Clara Lafourcade](https://www.worldcubeassociation.org/persons/2014LAFO02) | 5.70 | 5.76 | [Portugalete Open 2025](https://www.worldcubeassociation.org/competitions/PortugaleteOpen2025/results/by_person#2014LAFO02) |
-| 84 | 0.06 | [Ivan Buzhenitsyn](https://www.worldcubeassociation.org/persons/2020BUZH01) | 6.40 | 6.46 | [Tyumen Cube Fest 2020](https://www.worldcubeassociation.org/competitions/TyumenCubeFest2020/results/by_person#2020BUZH01) |
-| 85 | 0.06 | [Alexander Pastirčák](https://www.worldcubeassociation.org/persons/2023PAST01) | 8.16 | 8.22 | [Lužice Summer 2023](https://www.worldcubeassociation.org/competitions/LuziceSummer2023/results/by_person#2023PAST01) |
-| 86 | 0.06 | [Abdiel Avila Panozo](https://www.worldcubeassociation.org/persons/2019PANO03) | 8.24 | 8.30 | [Ten Krazy Years CBBA 2025](https://www.worldcubeassociation.org/competitions/TenKrazyYearsCBBA2025/results/by_person#2019PANO03) |
-| 87 | 0.06 | [Remo Decio](https://www.worldcubeassociation.org/persons/2020DECI01) | 9.93 | 9.99 | [Ticino: Back to One Handed 2024](https://www.worldcubeassociation.org/competitions/TicinoBacktoOneHanded2024/results/by_person#2020DECI01) |
-| 88 | 0.06 | [Snorre Lund Skjørshammer](https://www.worldcubeassociation.org/persons/2023SKJO01) | 10.20 | 10.26 | [Norwegian Championship 2025](https://www.worldcubeassociation.org/competitions/NorwegianChampionship2025/results/by_person#2023SKJO01) |
-| 89 | 0.06 | [Jack Steed](https://www.worldcubeassociation.org/persons/2024STEE01) | 16.52 | 16.58 | [Back to School Utah 2024](https://www.worldcubeassociation.org/competitions/BacktoSchoolUtah2024/results/by_person#2024STEE01) |
-| 90 | 0.07 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | 1.38 | 1.45 | [Washtenaw Fast 'n Late Fall 2023](https://www.worldcubeassociation.org/competitions/WashtenawFastnLateFall2023/results/by_person#2019SHER10) |
-| 91 | 0.07 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | 1.61 | 1.68 | [Pop Off Princeton 2025](https://www.worldcubeassociation.org/competitions/PopOffPrinceton2025/results/by_person#2017NIEL03) |
-| 92 | 0.07 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | 1.63 | 1.70 | [South Deerfield Side Events 2023](https://www.worldcubeassociation.org/competitions/SouthDeerfieldSideEvents2023/results/by_person#2019MEAD03) |
-| 93 | 0.07 | [Diego Alfonso](https://www.worldcubeassociation.org/persons/2018ALFO01) | 1.81 | 1.88 | [Swisscubing Cup II 2023](https://www.worldcubeassociation.org/competitions/SwisscubingCupII2023/results/by_person#2018ALFO01) |
-| 94 | 0.07 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | 1.95 | 2.02 | [Oklahoma Afternoon Twist 2024](https://www.worldcubeassociation.org/competitions/OklahomaAfternoonTwist2024/results/by_person#2015KAME02) |
-| 95 | 0.07 | [Joaquin Ruenes Hernández](https://www.worldcubeassociation.org/persons/2017HERN11) | 2.23 | 2.30 | [Los Fuertes Puebla 2024](https://www.worldcubeassociation.org/competitions/LosFuertesPuebla2024/results/by_person#2017HERN11) |
-| 96 | 0.07 | [Mark Gowman](https://www.worldcubeassociation.org/persons/2022GOWM02) | 2.26 | 2.33 | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2022GOWM02) |
-| 97 | 0.07 | [Carl Overbye](https://www.worldcubeassociation.org/persons/2018OVER04) | 2.32 | 2.39 | [SPAMtown II 2023](https://www.worldcubeassociation.org/competitions/SPAMtownII2023/results/by_person#2018OVER04) |
-| 98 | 0.07 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 2.39 | 2.46 | [Solving by the Shannon 2023](https://www.worldcubeassociation.org/competitions/SolvingbytheShannon2023/results/by_person#2021LOFT01) |
-| 99 | 0.07 | [Richard Yiheng Tao](https://www.worldcubeassociation.org/persons/2020TAOR01) | 2.41 | 2.48 | [Auckland Mid-Year Madness 2023](https://www.worldcubeassociation.org/competitions/AucklandMidYearMadness2023/results/by_person#2020TAOR01) |
-| 100 | 0.07 | [Jinseo Hong](https://www.worldcubeassociation.org/persons/2017HONG17) | 2.48 | 2.55 | [Mid-Atlantic Championship 2023](https://www.worldcubeassociation.org/competitions/MidAtlanticChampionship2023/results/by_person#2017HONG17) |
+| 72 | 0.06 | [Khangai Erdenebileg](https://www.worldcubeassociation.org/persons/2019ERDE14) | 2.46 | 2.52 | [MR Ulaanbaatar 2025](https://www.worldcubeassociation.org/competitions/MRUlaanbaatar2025/results/by_person#2019ERDE14) |
+| 73 | 0.06 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) | 2.79 | 2.85 | [Belgium Summer Open 2017](https://www.worldcubeassociation.org/competitions/BelgiumSummerOpen2017/results/by_person#2010DESJ01) |
+| 74 | 0.06 | [Oriol Mas Alarcón](https://www.worldcubeassociation.org/persons/2023ALAR04) | 2.96 | 3.02 | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/by_person#2023ALAR04) |
+| 75 | 0.06 | [Yening Liu (刘烨宁)](https://www.worldcubeassociation.org/persons/2023LIUY04) | 3.00 | 3.06 | [Guangzhou Special 2024](https://www.worldcubeassociation.org/competitions/GuangzhouSpecial2024/results/by_person#2023LIUY04) |
+| 76 | 0.06 | [Joaquin Ruenes Hernández](https://www.worldcubeassociation.org/persons/2017HERN11) | 3.01 | 3.07 | [Quetzal Cubing 2019](https://www.worldcubeassociation.org/competitions/QuetzalCubing2019/results/by_person#2017HERN11) |
+| 77 | 0.06 | [Cian-Jyun Yang (楊謙君)](https://www.worldcubeassociation.org/persons/2019YANG94) | 3.34 | 3.40 | [Maru Cube Day 2022](https://www.worldcubeassociation.org/competitions/MaruCubeDay2022/results/by_person#2019YANG94) |
+| 78 | 0.06 | [Manuel Malvárez](https://www.worldcubeassociation.org/persons/2019MALV01) | 3.71 | 3.77 | [Montevideo Open 2022](https://www.worldcubeassociation.org/competitions/MontevideoOpen2022/results/by_person#2019MALV01) |
+| 79 | 0.06 | [Cyril Teichmann](https://www.worldcubeassociation.org/persons/2017TEIC01) | 4.12 | 4.18 | [Prague June 2024](https://www.worldcubeassociation.org/competitions/PragueJune2024/results/by_person#2017TEIC01) |
+| 80 | 0.06 | [Noah Calderon-Kamata](https://www.worldcubeassociation.org/persons/2022CALD07) | 4.47 | 4.53 | [Stevenage July 2024](https://www.worldcubeassociation.org/competitions/StevenageJuly2024/results/by_person#2022CALD07) |
+| 81 | 0.06 | [Alex Samuel Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 4.73 | 4.79 | [Termonfeckin Fast 2025](https://www.worldcubeassociation.org/competitions/TermonfeckinFast2025/results/by_person#2023MARA10) |
+| 82 | 0.06 | [Aarav Bhoite](https://www.worldcubeassociation.org/persons/2018BHOI01) | 5.03 | 5.09 | [Twice the Mini-sota 2025](https://www.worldcubeassociation.org/competitions/TwicetheMinisota2025/results/by_person#2018BHOI01) |
+| 83 | 0.06 | [Tucker Chamberlain](https://www.worldcubeassociation.org/persons/2018CHAM01) | 5.22 | 5.28 | [Dallas Cubemas 2019](https://www.worldcubeassociation.org/competitions/DallasCubemas2019/results/by_person#2018CHAM01) |
+| 84 | 0.06 | [Clara Lafourcade](https://www.worldcubeassociation.org/persons/2014LAFO02) | 5.70 | 5.76 | [Portugalete Open 2025](https://www.worldcubeassociation.org/competitions/PortugaleteOpen2025/results/by_person#2014LAFO02) |
+| 85 | 0.06 | [Ivan Buzhenitsyn](https://www.worldcubeassociation.org/persons/2020BUZH01) | 6.40 | 6.46 | [Tyumen Cube Fest 2020](https://www.worldcubeassociation.org/competitions/TyumenCubeFest2020/results/by_person#2020BUZH01) |
+| 86 | 0.06 | [Alexander Pastirčák](https://www.worldcubeassociation.org/persons/2023PAST01) | 8.16 | 8.22 | [Lužice Summer 2023](https://www.worldcubeassociation.org/competitions/LuziceSummer2023/results/by_person#2023PAST01) |
+| 87 | 0.06 | [Abdiel Avila Panozo](https://www.worldcubeassociation.org/persons/2019PANO03) | 8.24 | 8.30 | [Ten Krazy Years CBBA 2025](https://www.worldcubeassociation.org/competitions/TenKrazyYearsCBBA2025/results/by_person#2019PANO03) |
+| 88 | 0.06 | [Remo Decio](https://www.worldcubeassociation.org/persons/2020DECI01) | 9.93 | 9.99 | [Ticino: Back to One Handed 2024](https://www.worldcubeassociation.org/competitions/TicinoBacktoOneHanded2024/results/by_person#2020DECI01) |
+| 89 | 0.06 | [Snorre Lund Skjørshammer](https://www.worldcubeassociation.org/persons/2023SKJO01) | 10.20 | 10.26 | [Norwegian Championship 2025](https://www.worldcubeassociation.org/competitions/NorwegianChampionship2025/results/by_person#2023SKJO01) |
+| 90 | 0.06 | [Jack Steed](https://www.worldcubeassociation.org/persons/2024STEE01) | 16.52 | 16.58 | [Back to School Utah 2024](https://www.worldcubeassociation.org/competitions/BacktoSchoolUtah2024/results/by_person#2024STEE01) |
+| 91 | 0.07 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | 1.38 | 1.45 | [Washtenaw Fast 'n Late Fall 2023](https://www.worldcubeassociation.org/competitions/WashtenawFastnLateFall2023/results/by_person#2019SHER10) |
+| 92 | 0.07 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | 1.61 | 1.68 | [Pop Off Princeton 2025](https://www.worldcubeassociation.org/competitions/PopOffPrinceton2025/results/by_person#2017NIEL03) |
+| 93 | 0.07 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | 1.63 | 1.70 | [South Deerfield Side Events 2023](https://www.worldcubeassociation.org/competitions/SouthDeerfieldSideEvents2023/results/by_person#2019MEAD03) |
+| 94 | 0.07 | [Diego Alfonso](https://www.worldcubeassociation.org/persons/2018ALFO01) | 1.81 | 1.88 | [Swisscubing Cup II 2023](https://www.worldcubeassociation.org/competitions/SwisscubingCupII2023/results/by_person#2018ALFO01) |
+| 95 | 0.07 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | 1.95 | 2.02 | [Oklahoma Afternoon Twist 2024](https://www.worldcubeassociation.org/competitions/OklahomaAfternoonTwist2024/results/by_person#2015KAME02) |
+| 96 | 0.07 | [Joaquin Ruenes Hernández](https://www.worldcubeassociation.org/persons/2017HERN11) | 2.23 | 2.30 | [Los Fuertes Puebla 2024](https://www.worldcubeassociation.org/competitions/LosFuertesPuebla2024/results/by_person#2017HERN11) |
+| 97 | 0.07 | [Mark Gowman](https://www.worldcubeassociation.org/persons/2022GOWM02) | 2.26 | 2.33 | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2022GOWM02) |
+| 98 | 0.07 | [Carl Overbye](https://www.worldcubeassociation.org/persons/2018OVER04) | 2.32 | 2.39 | [SPAMtown II 2023](https://www.worldcubeassociation.org/competitions/SPAMtownII2023/results/by_person#2018OVER04) |
+| 99 | 0.07 | [Enda Loftus](https://www.worldcubeassociation.org/persons/2021LOFT01) | 2.39 | 2.46 | [Solving by the Shannon 2023](https://www.worldcubeassociation.org/competitions/SolvingbytheShannon2023/results/by_person#2021LOFT01) |
+| 100 | 0.07 | [Richard Yiheng Tao](https://www.worldcubeassociation.org/persons/2020TAOR01) | 2.41 | 2.48 | [Auckland Mid-Year Madness 2023](https://www.worldcubeassociation.org/competitions/AucklandMidYearMadness2023/results/by_person#2020TAOR01) |
 
 ### Rubik's Clock
 
