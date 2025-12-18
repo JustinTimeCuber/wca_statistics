@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 16 December 2025*
+*Updated on 17 December 2025*
 
 | Rank | 4th places | Person |
 | :--- | ---: | :--- |
@@ -135,14 +135,14 @@
 | 128 | 77 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) |
 | 129 | 77 | [Cendy Cahyo Rahmat](https://www.worldcubeassociation.org/persons/2010RAHM02) |
 | 130 | 77 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) |
-| 131 | 77 | [Samuel Eklund-Hanna](https://www.worldcubeassociation.org/persons/2019EKLU01) |
-| 132 | 76 | [Hippolyte Moreau](https://www.worldcubeassociation.org/persons/2008MORE02) |
-| 133 | 76 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
-| 134 | 76 | [Michael Andres Castillo Lemus](https://www.worldcubeassociation.org/persons/2011CAST02) |
-| 135 | 76 | [Thomas Mæhle Schmidt](https://www.worldcubeassociation.org/persons/2013SCHM02) |
-| 136 | 75 | [Mitchell Lane](https://www.worldcubeassociation.org/persons/2010LANE02) |
-| 137 | 75 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
-| 138 | 75 | [José David Castiblanco Marin](https://www.worldcubeassociation.org/persons/2012MARI04) |
+| 131 | 77 | [Michael Andres Castillo Lemus](https://www.worldcubeassociation.org/persons/2011CAST02) |
+| 132 | 77 | [Samuel Eklund-Hanna](https://www.worldcubeassociation.org/persons/2019EKLU01) |
+| 133 | 76 | [Hippolyte Moreau](https://www.worldcubeassociation.org/persons/2008MORE02) |
+| 134 | 76 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
+| 135 | 76 | [José David Castiblanco Marin](https://www.worldcubeassociation.org/persons/2012MARI04) |
+| 136 | 76 | [Thomas Mæhle Schmidt](https://www.worldcubeassociation.org/persons/2013SCHM02) |
+| 137 | 75 | [Mitchell Lane](https://www.worldcubeassociation.org/persons/2010LANE02) |
+| 138 | 75 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
 | 139 | 74 | [Ulrik Bredland](https://www.worldcubeassociation.org/persons/2012BRED01) |
 | 140 | 74 | [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02) |
 | 141 | 74 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) |
@@ -177,15 +177,15 @@
 | 170 | 69 | [William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09) |
 | 171 | 69 | [Jānis Zirnis](https://www.worldcubeassociation.org/persons/2013ZIRN01) |
 | 172 | 69 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) |
-| 173 | 68 | [Lorenzo Mauro](https://www.worldcubeassociation.org/persons/2014MAUR06) |
-| 174 | 68 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) |
-| 175 | 68 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) |
-| 176 | 68 | [Bhargav Narasimhan](https://www.worldcubeassociation.org/persons/2011NARA02) |
-| 177 | 67 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
-| 178 | 67 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) |
-| 179 | 67 | [Malte Ihlefeld](https://www.worldcubeassociation.org/persons/2016IHLE01) |
-| 180 | 67 | [Alessandro Nicolì](https://www.worldcubeassociation.org/persons/2012NICO02) |
-| 181 | 67 | [Natthaphat Mahtani (ณัฐภัทร จี มาทานี)](https://www.worldcubeassociation.org/persons/2011MAHT02) |
+| 173 | 69 | [Natthaphat Mahtani (ณัฐภัทร จี มาทานี)](https://www.worldcubeassociation.org/persons/2011MAHT02) |
+| 174 | 68 | [Lorenzo Mauro](https://www.worldcubeassociation.org/persons/2014MAUR06) |
+| 175 | 68 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) |
+| 176 | 68 | [Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01) |
+| 177 | 68 | [Bhargav Narasimhan](https://www.worldcubeassociation.org/persons/2011NARA02) |
+| 178 | 67 | [Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01) |
+| 179 | 67 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) |
+| 180 | 67 | [Malte Ihlefeld](https://www.worldcubeassociation.org/persons/2016IHLE01) |
+| 181 | 67 | [Alessandro Nicolì](https://www.worldcubeassociation.org/persons/2012NICO02) |
 | 182 | 67 | [Shubham Maharana](https://www.worldcubeassociation.org/persons/2016MAHA07) |
 | 183 | 66 | [Pavlo Bondar (Павло Бондар)](https://www.worldcubeassociation.org/persons/2018BOND03) |
 | 184 | 66 | [Gael Augusto Lapeyre](https://www.worldcubeassociation.org/persons/2018LAPE01) |
@@ -245,12 +245,12 @@
 | 238 | 58 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
 | 239 | 58 | [Pavel Galaktionov](https://www.worldcubeassociation.org/persons/2013GALA04) |
 | 240 | 58 | [Javier Tirado Ortiz](https://www.worldcubeassociation.org/persons/2009TIRA01) |
-| 241 | 58 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |
-| 242 | 57 | [Timothy Castle](https://www.worldcubeassociation.org/persons/2016CAST48) |
-| 243 | 57 | [Dan Tran](https://www.worldcubeassociation.org/persons/2015TRAN07) |
-| 244 | 57 | [Remo Pihel](https://www.worldcubeassociation.org/persons/2017PIHE01) |
-| 245 | 57 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) |
-| 246 | 57 | [Parist Pariyakanok (พริษฐ์ ปริยกนก)](https://www.worldcubeassociation.org/persons/2018PARI07) |
+| 241 | 58 | [Parist Pariyakanok (พริษฐ์ ปริยกนก)](https://www.worldcubeassociation.org/persons/2018PARI07) |
+| 242 | 58 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |
+| 243 | 57 | [Timothy Castle](https://www.worldcubeassociation.org/persons/2016CAST48) |
+| 244 | 57 | [Dan Tran](https://www.worldcubeassociation.org/persons/2015TRAN07) |
+| 245 | 57 | [Remo Pihel](https://www.worldcubeassociation.org/persons/2017PIHE01) |
+| 246 | 57 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) |
 | 247 | 57 | [Erland Flodman](https://www.worldcubeassociation.org/persons/2023FLOD01) |
 | 248 | 57 | [Elian Beguec](https://www.worldcubeassociation.org/persons/2014BEGU01) |
 | 249 | 57 | [Akula Pavan Kumar](https://www.worldcubeassociation.org/persons/2011KUMA01) |

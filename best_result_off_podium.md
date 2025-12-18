@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 16 December 2025*
+*Updated on 17 December 2025*
 
 
 ### Rubik's Cube
@@ -1255,14 +1255,14 @@
 | 90 | [Jakub Dolata](https://www.worldcubeassociation.org/persons/2020DOLA01) | 3.90 | **4.31** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#eclock_f) | 5 |
 | 91 | [Kazimierz Cywiński](https://www.worldcubeassociation.org/persons/2022CYWI01) | 3.15 | **4.32** | [Energy Cube Konin 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeKonin2025/results/all#eclock_f) | 5 |
 | 92 | [Akash Sreedharan (ஆகாஷ் ஸ்ரீதரன்)](https://www.worldcubeassociation.org/persons/2019SREE06) | 3.60 | **4.32** | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/all#eclock_f) | 6 |
-| 93 | [Jaidon Poraminthara Lin (เจเดิ้น ปรมินทร์ หลิน)](https://www.worldcubeassociation.org/persons/2019LINJ04) | 2.79 | **4.33** | [La La Land 2024](https://www.worldcubeassociation.org/competitions/LaLaLand2024/results/all#eclock_f) | 4 |
-| 94 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | 3.22 | **4.33** | [Wiltshire Winter 2025](https://www.worldcubeassociation.org/competitions/WiltshireWinter2025/results/all#eclock_f) | 4 |
-| 95 | [Kacper Bieńkowski](https://www.worldcubeassociation.org/persons/2022BIEN01) | 3.24 | **4.33** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#eclock_f) | 6 |
-| 96 | [Adam Schwenn](https://www.worldcubeassociation.org/persons/2019SCHW06) | 3.59 | **4.33** | [Racing Kane 2025](https://www.worldcubeassociation.org/competitions/RacingKane2025/results/all#eclock_f) | 4 |
-| 97 | [Elliot Voigt](https://www.worldcubeassociation.org/persons/2023VOIG02) | 3.70 | **4.33** | [Stevenage 10th Anniversary 2025](https://www.worldcubeassociation.org/competitions/Stevenage10thAnniversary2025/results/all#eclock_c) | 6 |
-| 98 | [Michael Tripodi](https://www.worldcubeassociation.org/persons/2021TRIP01) | 3.86 | **4.33** | [Melbourne Summer 2025](https://www.worldcubeassociation.org/competitions/MelbourneSummer2025/results/all#eclock_f) | 4 |
-| 99 | [Fengyuan Kelvin Lou (楼丰源)](https://www.worldcubeassociation.org/persons/2023LOUF01) | 3.15 | **4.34** | [Rubik's UK Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2025/results/all#eclock_f) | 7 |
-| 100 | [Connor Johnson](https://www.worldcubeassociation.org/persons/2022JOHN14) | 4.11 | **4.34** | [New Zealand Nationals 2025](https://www.worldcubeassociation.org/competitions/NewZealandNationals2025/results/all#eclock_f) | 5 |
+| 93 | [Eli Rogers](https://www.worldcubeassociation.org/persons/2022ROGE05) | 3.93 | **4.32** | [Flushing Glow at Night II 2025](https://www.worldcubeassociation.org/competitions/FlushingGlowatNightII2025/results/all#eclock_f) | 4 |
+| 94 | [Jaidon Poraminthara Lin (เจเดิ้น ปรมินทร์ หลิน)](https://www.worldcubeassociation.org/persons/2019LINJ04) | 2.79 | **4.33** | [La La Land 2024](https://www.worldcubeassociation.org/competitions/LaLaLand2024/results/all#eclock_f) | 4 |
+| 95 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | 3.22 | **4.33** | [Wiltshire Winter 2025](https://www.worldcubeassociation.org/competitions/WiltshireWinter2025/results/all#eclock_f) | 4 |
+| 96 | [Kacper Bieńkowski](https://www.worldcubeassociation.org/persons/2022BIEN01) | 3.24 | **4.33** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#eclock_f) | 6 |
+| 97 | [Adam Schwenn](https://www.worldcubeassociation.org/persons/2019SCHW06) | 3.59 | **4.33** | [Racing Kane 2025](https://www.worldcubeassociation.org/competitions/RacingKane2025/results/all#eclock_f) | 4 |
+| 98 | [Elliot Voigt](https://www.worldcubeassociation.org/persons/2023VOIG02) | 3.70 | **4.33** | [Stevenage 10th Anniversary 2025](https://www.worldcubeassociation.org/competitions/Stevenage10thAnniversary2025/results/all#eclock_c) | 6 |
+| 99 | [Michael Tripodi](https://www.worldcubeassociation.org/persons/2021TRIP01) | 3.86 | **4.33** | [Melbourne Summer 2025](https://www.worldcubeassociation.org/competitions/MelbourneSummer2025/results/all#eclock_f) | 4 |
+| 100 | [Fengyuan Kelvin Lou (楼丰源)](https://www.worldcubeassociation.org/persons/2023LOUF01) | 3.15 | **4.34** | [Rubik's UK Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2025/results/all#eclock_f) | 7 |
 
 ### Skewb
 

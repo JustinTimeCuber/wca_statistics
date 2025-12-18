@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 1000 single are taken into account.*
-*Updated on 16 December 2025*
+*Updated on 17 December 2025*
 
 
 ### Rubik's Cube
@@ -1099,15 +1099,15 @@
 | 39 | 1.66 | [David Andron-Silva](https://www.worldcubeassociation.org/persons/2022SILV37) | 1.66, 1.16, 2.28, 1.80, 1.51 |
 | 40 | 1.67 | [Steven Wintringham](https://www.worldcubeassociation.org/persons/2015WINT02) | 1.45, 2.54, 1.60, 1.79, 1.62 |
 | 41 | 1.67 | [Andrés Rodríguez Galán](https://www.worldcubeassociation.org/persons/2016GALA04) | 1.78, 1.43, 2.48, 1.81, 1.42 |
-| 42 | 1.68 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 1.39, 2.55, 1.90, 1.74, 1.10 |
-| 43 | 1.68 | [Diego Alfonso](https://www.worldcubeassociation.org/persons/2018ALFO01) | 2.99, 1.38, 1.96, 1.70, 1.35 |
-| 44 | 1.68 | [Jakub Majchrzak](https://www.worldcubeassociation.org/persons/2021MAJC01) | 1.59, 1.57, 1.61, 2.74, 1.85 |
-| 45 | 1.68 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) | 5.38, 1.45, 1.43, 1.51, 2.07 |
-| 46 | 1.68 | [Emil Henry Huber](https://www.worldcubeassociation.org/persons/2022HUBE02) | 2.74, 1.57, 1.89, 1.57, 1.38 |
-| 47 | 1.69 | [Edward Burgess](https://www.worldcubeassociation.org/persons/2018BURG03) | 3.67, 1.66, 1.68, 1.74, 1.59 |
-| 48 | 1.69 | [Thomas Grahor](https://www.worldcubeassociation.org/persons/2022GRAH02) | 2.84, 1.41, 1.86, 1.77, 1.44 |
-| 49 | 1.69 | [Shengze Tang (唐圣泽)](https://www.worldcubeassociation.org/persons/2021TANG03) | 1.44, 1.77, 2.50, 1.53, 1.76 |
-| 50 | 1.69 | [Manuel Francisco Beltrán](https://www.worldcubeassociation.org/persons/2023BELT07) | 1.12, 1.32, 2.00, 1.88, 1.87 |
+| 42 | 1.67 | [Manuel Francisco Beltrán](https://www.worldcubeassociation.org/persons/2023BELT07) | 1.64, 1.47, 1.90, 2.44, 0.87 |
+| 43 | 1.68 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 1.39, 2.55, 1.90, 1.74, 1.10 |
+| 44 | 1.68 | [Diego Alfonso](https://www.worldcubeassociation.org/persons/2018ALFO01) | 2.99, 1.38, 1.96, 1.70, 1.35 |
+| 45 | 1.68 | [Jakub Majchrzak](https://www.worldcubeassociation.org/persons/2021MAJC01) | 1.59, 1.57, 1.61, 2.74, 1.85 |
+| 46 | 1.68 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) | 5.38, 1.45, 1.43, 1.51, 2.07 |
+| 47 | 1.68 | [Emil Henry Huber](https://www.worldcubeassociation.org/persons/2022HUBE02) | 2.74, 1.57, 1.89, 1.57, 1.38 |
+| 48 | 1.69 | [Edward Burgess](https://www.worldcubeassociation.org/persons/2018BURG03) | 3.67, 1.66, 1.68, 1.74, 1.59 |
+| 49 | 1.69 | [Thomas Grahor](https://www.worldcubeassociation.org/persons/2022GRAH02) | 2.84, 1.41, 1.86, 1.77, 1.44 |
+| 50 | 1.69 | [Shengze Tang (唐圣泽)](https://www.worldcubeassociation.org/persons/2021TANG03) | 1.44, 1.77, 2.50, 1.53, 1.76 |
 | 51 | 1.69 | [Yifan Luo (骆奕帆)](https://www.worldcubeassociation.org/persons/2021LUOY02) | 1.66, 1.52, 1.74, 2.82, 1.68 |
 | 52 | 1.70 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | 1.86, 1.58, 1.28, 3.20, 1.67 |
 | 53 | 1.70 | [Jacob Kotai](https://www.worldcubeassociation.org/persons/2017KOTA01) | 1.19, 1.31, DNF, 2.08, 1.71 |

@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 16 December 2025*
+*Updated on 17 December 2025*
 
 
 ### 300 Competitions
@@ -1035,8 +1035,8 @@
 | 163 | 196 | [Alistair Robequin](https://www.worldcubeassociation.org/persons/2019ROBE01) |
 | 164 | 196 | [Kenta Fujii](https://www.worldcubeassociation.org/persons/2023FUJI11) |
 | 165 | 196 | [Samuel Rafn Andreasen](https://www.worldcubeassociation.org/persons/2024ANDR09) |
-| 166 | 196 | [Riccardo Fiumefreddo](https://www.worldcubeassociation.org/persons/2024RICC01) |
-| 167 | 196 | [Zhiyuan Xue (薛智远)](https://www.worldcubeassociation.org/persons/2024XUEZ01) |
+| 166 | 196 | [Zhiyuan Xue (薛智远)](https://www.worldcubeassociation.org/persons/2024XUEZ01) |
+| 167 | 196 | [Riccardo Fiumefreddo](https://www.worldcubeassociation.org/persons/2024RICC01) |
 | 168 | 196 | [Maxwell Praet](https://www.worldcubeassociation.org/persons/2024PRAE01) |
 | 169 | 196 | [Berna Grace Tonido](https://www.worldcubeassociation.org/persons/2025TONI01) |
 | 170 | 197 | [Manuel Ernesto Torres Vega](https://www.worldcubeassociation.org/persons/2015VEGA02) |
