@@ -1,6 +1,6 @@
 ## Longest amount of time to reach a milestone in competitions count
 
-*Updated on 19 December 2025*
+*Updated on 22 December 2025*
 
 
 ### 300 Competitions
@@ -8,13 +8,14 @@
 | Rank | Days | Person |
 | :--- | ---: | :--- |
 | 1 | 5930 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
-| 2 | 5539 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) |
-| 3 | 5294 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
-| 4 | 4963 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
-| 5 | 4622 | [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) |
-| 6 | 4380 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
-| 7 | 4012 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
-| 8 | 1849 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 2 | 5856 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
+| 3 | 5539 | [Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02) |
+| 4 | 5294 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
+| 5 | 4963 | [Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01) |
+| 6 | 4622 | [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) |
+| 7 | 4380 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
+| 8 | 4012 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| 9 | 1849 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 
 ### 250 Competitions
 
