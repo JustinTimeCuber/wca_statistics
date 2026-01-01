@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on 31 December 2025*
+*Updated on  1 January 2026*
 
 
 ### 3x3x3 Blindfolded
@@ -507,8 +507,8 @@
 | 88 | 12 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) |
 | 89 | 12 | [Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01) |
 | 90 | 12 | [Christian Naguio](https://www.worldcubeassociation.org/persons/2016NAGU02) |
-| 91 | 12 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) |
-| 92 | 12 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
+| 91 | 12 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
+| 92 | 12 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) |
 | 93 | 12 | [Renan da Cunha Santos](https://www.worldcubeassociation.org/persons/2017SANT12) |
 | 94 | 12 | [Joel Lundström](https://www.worldcubeassociation.org/persons/2017LUND06) |
 | 95 | 12 | [Brayden Thompson](https://www.worldcubeassociation.org/persons/2022THOM14) |

@@ -1,21 +1,21 @@
 ## Competition days count by region
 
-*Updated on 31 December 2025*
+*Updated on  1 January 2026*
 
 
 ### World
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.46 | World | 16541 |
+| 1 | 1.46 | World | 16545 |
 
 ### Continents
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.72 | Europe | 5365 |
-| 2 | 1.48 | Oceania | 722 |
-| 3 | 1.46 | South America | 2105 |
+| 1 | 1.72 | Europe | 5366 |
+| 2 | 1.48 | Oceania | 723 |
+| 3 | 1.46 | South America | 2107 |
 | 4 | 1.41 | Asia | 3391 |
 | 5 | 1.32 | Africa | 213 |
 | 6 | 1.21 | North America | 4745 |
@@ -54,14 +54,14 @@
 | 28 | 1.75 | Luxembourg | 4 |
 | 29 | 1.75 | Sri Lanka | 16 |
 | 30 | 1.73 | Ukraine | 149 |
-| 31 | 1.72 | Poland | 587 |
+| 31 | 1.72 | Poland | 588 |
 | 32 | 1.72 | Ireland | 92 |
 | 33 | 1.71 | Hungary | 70 |
 | 34 | 1.69 | Argentina | 118 |
 | 35 | 1.67 | Belgium | 105 |
-| 36 | 1.67 | Madagascar | 3 |
-| 37 | 1.67 | North Macedonia | 6 |
-| 38 | 1.67 | Brazil | 650 |
+| 36 | 1.67 | Brazil | 651 |
+| 37 | 1.67 | Madagascar | 3 |
+| 38 | 1.67 | North Macedonia | 6 |
 | 39 | 1.63 | Italy | 283 |
 | 40 | 1.60 | Iran | 43 |
 | 41 | 1.60 | Netherlands | 141 |
@@ -81,7 +81,7 @@
 | 55 | 1.50 | Laos | 2 |
 | 56 | 1.49 | Sweden | 386 |
 | 57 | 1.47 | Peru | 255 |
-| 58 | 1.45 | Australia | 552 |
+| 58 | 1.45 | Australia | 553 |
 | 59 | 1.43 | Montenegro | 7 |
 | 60 | 1.43 | Nigeria | 7 |
 | 61 | 1.41 | Vietnam | 73 |
@@ -105,7 +105,7 @@
 | 79 | 1.30 | Uruguay | 61 |
 | 80 | 1.29 | Hong Kong, China | 28 |
 | 81 | 1.28 | Philippines | 389 |
-| 82 | 1.28 | Colombia | 495 |
+| 82 | 1.28 | Colombia | 496 |
 | 83 | 1.27 | Morocco | 11 |
 | 84 | 1.26 | El Salvador | 39 |
 | 85 | 1.25 | Venezuela | 95 |

@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 1000 single are taken into account.*
-*Updated on 31 December 2025*
+*Updated on  1 January 2026*
 
 
 ### Rubik's Cube
@@ -237,10 +237,10 @@
 | 17 | 23.22 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | 24.99, 21.13, 22.71, 25.57, 21.39, 22.24, 26.02, 24.63, 20.47, 25.98, 21.82, 21.71 |
 | 18 | 23.34 | [Zijian Cai (蔡子健)](https://www.worldcubeassociation.org/persons/2017CAIZ03) | 23.57, 23.27, 22.20, 26.19, 22.68, 22.16, 23.96, 22.50, 22.83, 26.32, 23.02, 23.13 |
 | 19 | 23.64 | [Bofan Zhang (张博藩)](https://www.worldcubeassociation.org/persons/2021ZHAN01) | 27.64, 27.73, 21.85, 22.65, 28.88, 22.63, 22.23, 23.96, 22.65, 23.07, 20.75, 22.02 |
-| 20 | 23.74 | [Burno Li Chak Kwan (李澤堃)](https://www.worldcubeassociation.org/persons/2017KWAN05) | 25.17, 21.67, 24.52, 22.46, 24.29, 27.31, 23.54, 24.78, 24.58, 23.87, 22.30, 21.89 |
-| 21 | 23.76 | [Chen Chen (陈晨)](https://www.worldcubeassociation.org/persons/2017CHEN24) | 23.24, 24.50, 21.18, 26.45, 21.94, 28.74, 22.54, 23.57, 23.50, 26.28, 19.99, 24.36 |
-| 22 | 23.81 | [Kaichen Huang (黄楷宸)](https://www.worldcubeassociation.org/persons/2023HUAN21) | 21.12, 23.45, 28.05, 26.24, 26.83, 23.78, 23.06, 25.80, 25.00, 20.62, 22.21, 19.62 |
-| 23 | 23.84 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 21.55, 24.51, 26.75, 22.03, 19.94, 23.96, 25.91, 23.40, 30.66, 22.40, 20.88, 27.02 |
+| 20 | 23.67 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 22.03, 19.94, 23.96, 25.91, 23.40, 30.66, 22.40, 20.88, 27.02, 23.26, 22.72, 25.07 |
+| 21 | 23.74 | [Burno Li Chak Kwan (李澤堃)](https://www.worldcubeassociation.org/persons/2017KWAN05) | 25.17, 21.67, 24.52, 22.46, 24.29, 27.31, 23.54, 24.78, 24.58, 23.87, 22.30, 21.89 |
+| 22 | 23.76 | [Chen Chen (陈晨)](https://www.worldcubeassociation.org/persons/2017CHEN24) | 23.24, 24.50, 21.18, 26.45, 21.94, 28.74, 22.54, 23.57, 23.50, 26.28, 19.99, 24.36 |
+| 23 | 23.81 | [Kaichen Huang (黄楷宸)](https://www.worldcubeassociation.org/persons/2023HUAN21) | 21.12, 23.45, 28.05, 26.24, 26.83, 23.78, 23.06, 25.80, 25.00, 20.62, 22.21, 19.62 |
 | 24 | 23.85 | [Richard Delacoste](https://www.worldcubeassociation.org/persons/2015DELA05) | 22.59, 26.84, 21.88, 23.35, 29.48, 25.35, 23.28, 23.27, 22.10, 23.64, 22.63, 25.43 |
 | 25 | 23.94 | [Henry Lichner](https://www.worldcubeassociation.org/persons/2018LICH05) | 23.00, 20.51, 23.80, 22.01, 27.82, 22.73, 23.67, 29.34, 26.72, 23.12, 23.39, 23.17 |
 | 26 | 24.09 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 25.98, 21.54, 26.05, 29.75, 22.62, 19.08, 24.06, 26.21, 25.80, 22.76, 21.35, 24.52 |
