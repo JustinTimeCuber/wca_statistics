@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on  1 January 2026*
+*Updated on  4 January 2026*
 
 
 ### Rubik's Cube
@@ -211,8 +211,8 @@
 | 96 | [Rowan Stough](https://www.worldcubeassociation.org/persons/2022STOU01) | 1.20 | **1.63** | [Southeast Championship 2024](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2024/results/all#e222_f) | 4 |
 | 97 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | 1.28 | **1.63** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e222_f) | 10 |
 | 98 | [Yingjian Gong (龚英健)](https://www.worldcubeassociation.org/persons/2021GONG02) | 1.30 | **1.63** | [Xuzhou Autumn 2024](https://www.worldcubeassociation.org/competitions/XuzhouAutumn2024/results/all#e222_f) | 4 |
-| 99 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 1.37 | **1.63** | [Nanchang Spring 2025](https://www.worldcubeassociation.org/competitions/NanchangSpring2025/results/all#e222_f) | 4 |
-| 100 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 1.05 | **1.64** | [Hangzhou Open 2024](https://www.worldcubeassociation.org/competitions/HangzhouOpen2024/results/all#e222_f) | 4 |
+| 99 | [Darshan Bhavanasi](https://www.worldcubeassociation.org/persons/2022BHAV01) | 1.32 | **1.63** | [New York New Year 2025](https://www.worldcubeassociation.org/competitions/NewYorkNewYear2025/results/all#e222_f) | 4 |
+| 100 | [Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04) | 1.37 | **1.63** | [Nanchang Spring 2025](https://www.worldcubeassociation.org/competitions/NanchangSpring2025/results/all#e222_f) | 4 |
 
 ### 4x4x4 Cube
 
@@ -1150,14 +1150,14 @@
 | 90 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 2.07 | **2.34** | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023/results/all#epyram_f) | 4 |
 | 91 | [Shengze Tang (唐圣泽)](https://www.worldcubeassociation.org/persons/2021TANG03) | 1.47 | **2.35** | [Guangzhou Special 2025](https://www.worldcubeassociation.org/competitions/GuangzhouSpecial2025/results/all#epyram_f) | 5 |
 | 92 | [Zijian Cai (蔡子健)](https://www.worldcubeassociation.org/persons/2017CAIZ03) | 1.62 | **2.35** | [Zhengzhou Zest 2025](https://www.worldcubeassociation.org/competitions/ZhengzhouZest2025/results/all#epyram_f) | 7 |
-| 93 | [Xirui Ge (盖晞睿)](https://www.worldcubeassociation.org/persons/2024GEXI01) | 1.76 | **2.35** | [Zibo Open 2024](https://www.worldcubeassociation.org/competitions/ZiboOpen2024/results/all#epyram_f) | 6 |
-| 94 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 1.90 | **2.35** | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025/results/all#epyram_f) | 6 |
-| 95 | [Alex Bohac](https://www.worldcubeassociation.org/persons/2018BOHA01) | 2.13 | **2.35** | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/all#epyram_f) | 9 |
-| 96 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 1.97 | **2.36** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#epyram_f) | 8 |
-| 97 | [Eli Rogers](https://www.worldcubeassociation.org/persons/2022ROGE05) | 1.98 | **2.36** | [Brooklyn Waldorf Winter 2025](https://www.worldcubeassociation.org/competitions/BrooklynWaldorfWinter2025/results/all#epyram_f) | 6 |
-| 98 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 1.65 | **2.37** | [Polish Open 2025](https://www.worldcubeassociation.org/competitions/PolishOpen2025/results/all#epyram_f) | 6 |
-| 99 | [Jiahan Li (李嘉涵)](https://www.worldcubeassociation.org/persons/2024LIJI04) | 1.68 | **2.37** | [Zibo Open 2024](https://www.worldcubeassociation.org/competitions/ZiboOpen2024/results/all#epyram_f) | 7 |
-| 100 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 1.74 | **2.37** | [Dragon Cubing 2022](https://www.worldcubeassociation.org/competitions/DragonCubing2022/results/all#epyram_f) | 4 |
+| 93 | [Milan Vincent Andric](https://www.worldcubeassociation.org/persons/2023ANDR25) | 1.76 | **2.35** | [New York New Year 2025](https://www.worldcubeassociation.org/competitions/NewYorkNewYear2025/results/all#epyram_f) | 4 |
+| 94 | [Xirui Ge (盖晞睿)](https://www.worldcubeassociation.org/persons/2024GEXI01) | 1.76 | **2.35** | [Zibo Open 2024](https://www.worldcubeassociation.org/competitions/ZiboOpen2024/results/all#epyram_f) | 6 |
+| 95 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 1.90 | **2.35** | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025/results/all#epyram_f) | 6 |
+| 96 | [Alex Bohac](https://www.worldcubeassociation.org/persons/2018BOHA01) | 2.13 | **2.35** | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/all#epyram_f) | 9 |
+| 97 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 1.97 | **2.36** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#epyram_f) | 8 |
+| 98 | [Eli Rogers](https://www.worldcubeassociation.org/persons/2022ROGE05) | 1.98 | **2.36** | [Brooklyn Waldorf Winter 2025](https://www.worldcubeassociation.org/competitions/BrooklynWaldorfWinter2025/results/all#epyram_f) | 6 |
+| 99 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 1.65 | **2.37** | [Polish Open 2025](https://www.worldcubeassociation.org/competitions/PolishOpen2025/results/all#epyram_f) | 6 |
+| 100 | [Jiahan Li (李嘉涵)](https://www.worldcubeassociation.org/persons/2024LIJI04) | 1.68 | **2.37** | [Zibo Open 2024](https://www.worldcubeassociation.org/competitions/ZiboOpen2024/results/all#epyram_f) | 7 |
 
 ### Rubik's Clock
 
@@ -1224,7 +1224,7 @@
 | 59 | [Blue James](https://www.worldcubeassociation.org/persons/2022JAME01) | 2.91 | **4.12** | [Stevenage 10th Anniversary 2025](https://www.worldcubeassociation.org/competitions/Stevenage10thAnniversary2025/results/all#eclock_c) | 4 |
 | 60 | [Alex Bohac](https://www.worldcubeassociation.org/persons/2018BOHA01) | 3.76 | **4.12** | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/all#eclock_f) | 8 |
 | 61 | [Jakub Dolata](https://www.worldcubeassociation.org/persons/2020DOLA01) | 3.56 | **4.13** | [Szansa Cubing Open Warsaw 2025](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2025/results/all#eclock_f) | 4 |
-| 62 | [Matthew Stephenson](https://www.worldcubeassociation.org/persons/2022STEP04) | 3.59 | **4.13** | [Rubik's UK Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2025/results/all#eclock_f) | 4 |
+| 62 | [Matt Stephenson](https://www.worldcubeassociation.org/persons/2022STEP04) | 3.59 | **4.13** | [Rubik's UK Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2025/results/all#eclock_f) | 4 |
 | 63 | [Dayson Lu (吕昊骏)](https://www.worldcubeassociation.org/persons/2023LUDA02) | 2.75 | **4.15** | [Singapore Sprint November 2025](https://www.worldcubeassociation.org/competitions/SingaporeSprintNovember2025/results/all#eclock_f) | 4 |
 | 64 | [Zayd Chaudhry](https://www.worldcubeassociation.org/persons/2019CHAU12) | 3.50 | **4.15** | [Australian Nationals 2024](https://www.worldcubeassociation.org/competitions/AustralianNationals2024/results/all#eclock_f) | 4 |
 | 65 | [Ryan Kern](https://www.worldcubeassociation.org/persons/2024KERN01) | 2.97 | **4.16** | [Mid-Atlantic Championship 2025](https://www.worldcubeassociation.org/competitions/MidAtlanticChampionship2025/results/all#eclock_f) | 4 |

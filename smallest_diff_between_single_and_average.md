@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  1 January 2026*
+*Updated on  4 January 2026*
 
 
 ### Rubik's Cube
@@ -627,12 +627,12 @@
 | 92 | 0.38 | [Matěj Grohmann](https://www.worldcubeassociation.org/persons/2015GROH02) | 2:37.82 | 2:38.20 | [Kostelec Summer 2019](https://www.worldcubeassociation.org/competitions/KostelecSummer2019/results/by_person#2015GROH02) |
 | 93 | 0.38 | [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) | 2:58.01 | 2:58.39 | [Pinoy Big Cubes Open 2024](https://www.worldcubeassociation.org/competitions/PinoyBigCubesOpen2024/results/by_person#2015YOSH01) |
 | 94 | 0.38 | [Matthew Bidwell](https://www.worldcubeassociation.org/persons/2018BIDW02) | 4:23.20 | 4:23.58 | [Everythings Bigger in Texas 2019](https://www.worldcubeassociation.org/competitions/EverythingsBiggerinTexas2019/results/by_person#2018BIDW02) |
-| 95 | 0.39 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | 2:21.65 | 2:22.04 | [LLS III v2 2020](https://www.worldcubeassociation.org/competitions/LLSIIIv22020/results/by_person#2018BERE01) |
-| 96 | 0.39 | [Arvid Ahlstrand](https://www.worldcubeassociation.org/persons/2022AHLS01) | 3:07.89 | 3:08.28 | [Big Cubes in Stafsinge 2024](https://www.worldcubeassociation.org/competitions/BigCubesinStafsinge2024/results/by_person#2022AHLS01) |
-| 97 | 0.39 | [Niko Paavilainen](https://www.worldcubeassociation.org/persons/2011PAAV01) | 3:19.88 | 3:20.27 | [Estonian Open 2013](https://www.worldcubeassociation.org/competitions/EstonianOpen2013/results/by_person#2011PAAV01) |
-| 98 | 0.39 | [Jeisson Castrillon Calderón](https://www.worldcubeassociation.org/persons/2016CALD01) | 3:46.58 | 3:46.97 | [Prenacionales Calima Cube 2018](https://www.worldcubeassociation.org/competitions/PrenacionalesCalimaCube2018/results/by_person#2016CALD01) |
-| 99 | 0.39 | [Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09) | 4:10.41 | 4:10.80 | [Cubing Operating System 2019](https://www.worldcubeassociation.org/competitions/CubingOperatingSystem2019/results/by_person#2016CHAN09) |
-| 100 | 0.39 | [Yannic Waser](https://www.worldcubeassociation.org/persons/2016WASE01) | 4:54.28 | 4:54.67 | [Swisscubing Cup IV 2020](https://www.worldcubeassociation.org/competitions/SwisscubingCupIV2020/results/by_person#2016WASE01) |
+| 95 | 0.38 | [Irene Rábago Bagüés](https://www.worldcubeassociation.org/persons/2022BAGU01) | 8:19.89 | 8:20.27 | [Bilbao Urte Berri Off 2025](https://www.worldcubeassociation.org/competitions/BilbaoUrteBerriOff2025/results/by_person#2022BAGU01) |
+| 96 | 0.39 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | 2:21.65 | 2:22.04 | [LLS III v2 2020](https://www.worldcubeassociation.org/competitions/LLSIIIv22020/results/by_person#2018BERE01) |
+| 97 | 0.39 | [Arvid Ahlstrand](https://www.worldcubeassociation.org/persons/2022AHLS01) | 3:07.89 | 3:08.28 | [Big Cubes in Stafsinge 2024](https://www.worldcubeassociation.org/competitions/BigCubesinStafsinge2024/results/by_person#2022AHLS01) |
+| 98 | 0.39 | [Niko Paavilainen](https://www.worldcubeassociation.org/persons/2011PAAV01) | 3:19.88 | 3:20.27 | [Estonian Open 2013](https://www.worldcubeassociation.org/competitions/EstonianOpen2013/results/by_person#2011PAAV01) |
+| 99 | 0.39 | [Jeisson Castrillon Calderón](https://www.worldcubeassociation.org/persons/2016CALD01) | 3:46.58 | 3:46.97 | [Prenacionales Calima Cube 2018](https://www.worldcubeassociation.org/competitions/PrenacionalesCalimaCube2018/results/by_person#2016CALD01) |
+| 100 | 0.39 | [Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09) | 4:10.41 | 4:10.80 | [Cubing Operating System 2019](https://www.worldcubeassociation.org/competitions/CubingOperatingSystem2019/results/by_person#2016CHAN09) |
 
 ### 3x3x3 Blindfolded
 
@@ -936,7 +936,7 @@
 | 86 | 0.37 | [Simon Westlund](https://www.worldcubeassociation.org/persons/2008WEST02) | 42.44 | 42.81 | [Royal Corner Twist 2018](https://www.worldcubeassociation.org/competitions/RoyalCornerTwist2018/results/by_person#2008WEST02) |
 | 87 | 0.37 | [Jay Lewis](https://www.worldcubeassociation.org/persons/2015LEWI01) | 1:03.94 | 1:04.31 | [Long Island Winter 2019](https://www.worldcubeassociation.org/competitions/LongIslandWinter2019/results/by_person#2015LEWI01) |
 | 88 | 0.37 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 1:06.33 | 1:06.70 | [Swedish Decathlon Challenge 2019](https://www.worldcubeassociation.org/competitions/SwedishDecathlonChallenge2019/results/by_person#2013WALL03) |
-| 89 | 0.38 | [Stephanie Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 28.47 | 28.85 | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025/results/by_person#2023MARA10) |
+| 89 | 0.38 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 28.47 | 28.85 | [Dublin Autumn Solving 2025](https://www.worldcubeassociation.org/competitions/DublinAutumnSolving2025/results/by_person#2023MARA10) |
 | 90 | 0.38 | [Chilin Fang (方炽霖)](https://www.worldcubeassociation.org/persons/2016FANG12) | 1:17.22 | 1:17.60 | [Wuhan Open 2019](https://www.worldcubeassociation.org/competitions/WuhanOpen2019/results/by_person#2016FANG12) |
 | 91 | 0.39 | [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) | 38.92 | 39.31 | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025/results/by_person#2022SLIW01) |
 | 92 | 0.39 | [Matthew Liong](https://www.worldcubeassociation.org/persons/2023LION02) | 42.03 | 42.42 | [Long Island Side Events 2024](https://www.worldcubeassociation.org/competitions/LongIslandSideEvents2024/results/by_person#2023LION02) |
@@ -1033,7 +1033,7 @@
 | 78 | 0.06 | [Manuel Malvárez](https://www.worldcubeassociation.org/persons/2019MALV01) | 3.71 | 3.77 | [Montevideo Open 2022](https://www.worldcubeassociation.org/competitions/MontevideoOpen2022/results/by_person#2019MALV01) |
 | 79 | 0.06 | [Cyril Teichmann](https://www.worldcubeassociation.org/persons/2017TEIC01) | 4.12 | 4.18 | [Prague June 2024](https://www.worldcubeassociation.org/competitions/PragueJune2024/results/by_person#2017TEIC01) |
 | 80 | 0.06 | [Noah Calderon-Kamata](https://www.worldcubeassociation.org/persons/2022CALD07) | 4.47 | 4.53 | [Stevenage July 2024](https://www.worldcubeassociation.org/competitions/StevenageJuly2024/results/by_person#2022CALD07) |
-| 81 | 0.06 | [Stephanie Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 4.73 | 4.79 | [Termonfeckin Fast 2025](https://www.worldcubeassociation.org/competitions/TermonfeckinFast2025/results/by_person#2023MARA10) |
+| 81 | 0.06 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | 4.73 | 4.79 | [Termonfeckin Fast 2025](https://www.worldcubeassociation.org/competitions/TermonfeckinFast2025/results/by_person#2023MARA10) |
 | 82 | 0.06 | [Aarav Bhoite](https://www.worldcubeassociation.org/persons/2018BHOI01) | 5.03 | 5.09 | [Twice the Mini-sota 2025](https://www.worldcubeassociation.org/competitions/TwicetheMinisota2025/results/by_person#2018BHOI01) |
 | 83 | 0.06 | [Tucker Chamberlain](https://www.worldcubeassociation.org/persons/2018CHAM01) | 5.22 | 5.28 | [Dallas Cubemas 2019](https://www.worldcubeassociation.org/competitions/DallasCubemas2019/results/by_person#2018CHAM01) |
 | 84 | 0.06 | [Clara Lafourcade](https://www.worldcubeassociation.org/persons/2014LAFO02) | 5.70 | 5.76 | [Portugalete Open 2025](https://www.worldcubeassociation.org/competitions/PortugaleteOpen2025/results/by_person#2014LAFO02) |
