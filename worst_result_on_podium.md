@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on  4 January 2026*
+*Updated on  7 January 2026*
 
 
 ### Rubik's Cube
@@ -919,7 +919,7 @@
 | 69 | [Dhanayush Raninga](https://www.worldcubeassociation.org/persons/2010RANI01) | 48.55 | **1:00.43** | [Shaastra Cube Open 2010](https://www.worldcubeassociation.org/competitions/ShaastraOpen2010/results/podiums#e333oh) | 3 |
 | 70 | [Cristopher Alejandro Rincón Cuadros](https://www.worldcubeassociation.org/persons/2023CUAD02) | 40.79 | **1:00.33** | [CBC Capitanejo II 2023](https://www.worldcubeassociation.org/competitions/CBCCapitanejoII2023/results/podiums#e333oh) | 3 |
 | 71 | [Magnus Claesson](https://www.worldcubeassociation.org/persons/2007CLAE01) | 40.81 | **1:00.32** | [Sandö Open 2009](https://www.worldcubeassociation.org/competitions/SandoOpen2009/results/podiums#e333oh) | 3 |
-| 72 | [Luciano David Rosales Gomez](https://www.worldcubeassociation.org/persons/2023GOME56) | 50.18 | **1:00.30** | [Tierra del Fuego 2023](https://www.worldcubeassociation.org/competitions/TierradelFuego2023/results/podiums#e333oh) | 3 |
+| 72 | [David Rosales](https://www.worldcubeassociation.org/persons/2023GOME56) | 50.18 | **1:00.30** | [Tierra del Fuego 2023](https://www.worldcubeassociation.org/competitions/TierradelFuego2023/results/podiums#e333oh) | 3 |
 | 73 | [Taha Ben Salah](https://www.worldcubeassociation.org/persons/2015SALA03) | 41.27 | **1:00.25** | [Tunisia Summer Open 2015](https://www.worldcubeassociation.org/competitions/TunisiaSummerOpen2015/results/podiums#e333oh) | 1 |
 | 74 | [Youcef Kouadria](https://www.worldcubeassociation.org/persons/2016KOUA01) | 54.74 | **1:00.00** | [Setif Spring Open 2018](https://www.worldcubeassociation.org/competitions/SetifSpringOpen2018/results/podiums#e333oh) | 3 |
 | 75 | [Ghabryel Barroso Moraes](https://www.worldcubeassociation.org/persons/2023MORA71) | 48.69 | **59.89** | [Rondon Cube 2023](https://www.worldcubeassociation.org/competitions/RondonCube2023/results/podiums#e333oh) | 3 |
