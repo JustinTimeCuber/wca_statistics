@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on  7 January 2026*
+*Updated on 10 January 2026*
 
 
 ### 3x3x3 Blindfolded
@@ -240,7 +240,7 @@
 | 26 | 19 | [Jacob Oliver Bruun](https://www.worldcubeassociation.org/persons/2018BRUU01) |
 | 27 | 19 | [Timothy Castle](https://www.worldcubeassociation.org/persons/2016CAST48) |
 | 28 | 19 | [Jacob Turrubiartes](https://www.worldcubeassociation.org/persons/2018TURR01) |
-| 29 | 19 | [Gavriel Johann Arcilla](https://www.worldcubeassociation.org/persons/2023ARCI02) |
+| 29 | 19 | [Nicole Arcilla](https://www.worldcubeassociation.org/persons/2023ARCI02) |
 | 30 | 18 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 31 | 18 | [Chris Wall](https://www.worldcubeassociation.org/persons/2011WALL02) |
 | 32 | 18 | [David Vujasić](https://www.worldcubeassociation.org/persons/2015VUJA01) |
