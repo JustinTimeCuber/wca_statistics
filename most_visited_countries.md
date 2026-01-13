@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 10 January 2026*
+*Updated on 13 January 2026*
 
 | Rank | Countries | Person |
 | :--- | ---: | :--- |
@@ -56,16 +56,16 @@
 | 50 | 20 | [Simone Bentlage](https://www.worldcubeassociation.org/persons/2014OHLE01) |
 | 51 | 20 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) |
 | 52 | 20 | [Bruno Vervoort](https://www.worldcubeassociation.org/persons/2011VERV01) |
-| 53 | 20 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
-| 54 | 20 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) |
-| 55 | 20 | [Linus Buck](https://www.worldcubeassociation.org/persons/2016BUCK01) |
-| 56 | 20 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
-| 57 | 19 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
-| 58 | 19 | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) |
-| 59 | 19 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
-| 60 | 19 | [Justin Vinckenbosch](https://www.worldcubeassociation.org/persons/2016VINC03) |
-| 61 | 19 | [Nox Clémenceau](https://www.worldcubeassociation.org/persons/2015CLEM03) |
-| 62 | 19 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) |
+| 53 | 20 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) |
+| 54 | 20 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
+| 55 | 20 | [Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02) |
+| 56 | 20 | [Linus Buck](https://www.worldcubeassociation.org/persons/2016BUCK01) |
+| 57 | 20 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
+| 58 | 19 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) |
+| 59 | 19 | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) |
+| 60 | 19 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
+| 61 | 19 | [Justin Vinckenbosch](https://www.worldcubeassociation.org/persons/2016VINC03) |
+| 62 | 19 | [Nox Clémenceau](https://www.worldcubeassociation.org/persons/2015CLEM03) |
 | 63 | 19 | [Gábor Szabó](https://www.worldcubeassociation.org/persons/2005SZAB02) |
 | 64 | 19 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |
 | 65 | 19 | [Maxim Chechnev](https://www.worldcubeassociation.org/persons/2011CHEC01) |

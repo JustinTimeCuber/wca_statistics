@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 10 January 2026*
+*Updated on 13 January 2026*
 
 
 ### World
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.46 | World | 16628 |
+| 1 | 1.46 | World | 16633 |
 
 ### Continents
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.71 | Europe | 5393 |
-| 2 | 1.48 | Oceania | 723 |
+| 1 | 1.71 | Europe | 5394 |
+| 2 | 1.48 | Oceania | 724 |
 | 3 | 1.46 | South America | 2121 |
-| 4 | 1.41 | Asia | 3399 |
+| 4 | 1.40 | Asia | 3400 |
 | 5 | 1.32 | Africa | 216 |
-| 6 | 1.21 | North America | 4776 |
+| 6 | 1.21 | North America | 4778 |
 
 ### Countries
 
@@ -43,7 +43,7 @@
 | 17 | 1.84 | Norway | 160 |
 | 18 | 1.83 | Serbia | 30 |
 | 19 | 1.82 | Finland | 182 |
-| 20 | 1.81 | United Kingdom | 341 |
+| 20 | 1.81 | United Kingdom | 342 |
 | 21 | 1.80 | Bosnia and Herzegovina | 15 |
 | 22 | 1.80 | Slovakia | 55 |
 | 23 | 1.79 | Mexico | 252 |
@@ -67,7 +67,7 @@
 | 41 | 1.60 | Indonesia | 249 |
 | 42 | 1.60 | Dominican Republic | 30 |
 | 43 | 1.60 | Netherlands | 142 |
-| 44 | 1.59 | New Zealand | 167 |
+| 44 | 1.60 | New Zealand | 168 |
 | 45 | 1.58 | Latvia | 43 |
 | 46 | 1.57 | San Marino | 7 |
 | 47 | 1.57 | Nepal | 23 |
@@ -114,11 +114,11 @@
 | 88 | 1.24 | Singapore | 101 |
 | 89 | 1.23 | Panama | 30 |
 | 90 | 1.22 | United Arab Emirates | 23 |
-| 91 | 1.18 | Japan | 263 |
-| 92 | 1.18 | Armenia | 11 |
+| 91 | 1.18 | Armenia | 11 |
+| 92 | 1.18 | Japan | 264 |
 | 93 | 1.17 | Canada | 477 |
 | 94 | 1.17 | Tunisia | 24 |
-| 95 | 1.16 | United States | 3826 |
+| 95 | 1.16 | United States | 3828 |
 | 96 | 1.15 | Mongolia | 52 |
 | 97 | 1.12 | Cyprus | 16 |
 | 98 | 1.12 | Azerbaijan | 49 |
