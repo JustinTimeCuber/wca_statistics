@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 13 January 2026*
+*Updated on 16 January 2026*
 
 
 ### 300 Competitions
@@ -1203,8 +1203,8 @@
 | 120 | 71 | [Maxim Otto](https://www.worldcubeassociation.org/persons/2022OTTO04) |
 | 121 | 71 | [Aahaan Nath](https://www.worldcubeassociation.org/persons/2023NATH01) |
 | 122 | 71 | [Jason Wong](https://www.worldcubeassociation.org/persons/2023WONG17) |
-| 123 | 71 | [Matthew Liong](https://www.worldcubeassociation.org/persons/2023LION02) |
-| 124 | 71 | [Ian Liong](https://www.worldcubeassociation.org/persons/2023LION01) |
+| 123 | 71 | [Ian Liong](https://www.worldcubeassociation.org/persons/2023LION01) |
+| 124 | 71 | [Matthew Liong](https://www.worldcubeassociation.org/persons/2023LION02) |
 | 125 | 71 | [Jayden Clark](https://www.worldcubeassociation.org/persons/2023CLAR13) |
 | 126 | 71 | [JZ Lyle Dexter Wamar](https://www.worldcubeassociation.org/persons/2023WAMA01) |
 | 127 | 71 | [Yingjie Fan (范颖杰)](https://www.worldcubeassociation.org/persons/2023FANY01) |
