@@ -1,6 +1,6 @@
 ## Most visited continents
 
-*Updated on 16 January 2026*
+*Updated on 22 January 2026*
 
 | Rank | Continents | Person |
 | :--- | ---: | :--- |
@@ -8,34 +8,34 @@
 | 2 | 6 | [Anders Larsson](https://www.worldcubeassociation.org/persons/2003LARS01) |
 | 3 | 6 | [Sinpei Araki (荒木慎平)](https://www.worldcubeassociation.org/persons/2006ARAK01) |
 | 4 | 6 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
-| 5 | 6 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
-| 6 | 6 | [Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02) |
-| 7 | 6 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
-| 8 | 6 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) |
-| 9 | 6 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
-| 10 | 6 | [Linus Kunath](https://www.worldcubeassociation.org/persons/2017KUNA01) |
-| 11 | 5 | [Chris Hardwick](https://www.worldcubeassociation.org/persons/2003HARD01) |
-| 12 | 5 | [Jasmine Lee](https://www.worldcubeassociation.org/persons/2003LEEJ01) |
-| 13 | 5 | [Shelley Chang](https://www.worldcubeassociation.org/persons/2004CHAN04) |
-| 14 | 5 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
-| 15 | 5 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
-| 16 | 5 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
-| 17 | 5 | [Lucas Garron](https://www.worldcubeassociation.org/persons/2006GARR01) |
-| 18 | 5 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) |
-| 19 | 5 | [Takao Hashimoto (橋本貴夫)](https://www.worldcubeassociation.org/persons/2007HASH01) |
-| 20 | 5 | [Alexander Lin](https://www.worldcubeassociation.org/persons/2007LING01) |
-| 21 | 5 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |
-| 22 | 5 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) |
-| 23 | 5 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
-| 24 | 5 | [Ilkyoo Choi (최일규)](https://www.worldcubeassociation.org/persons/2008CHOI04) |
-| 25 | 5 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) |
-| 26 | 5 | [Hanneke Rijks](https://www.worldcubeassociation.org/persons/2008RIJK01) |
-| 27 | 5 | [Anthony Brooks](https://www.worldcubeassociation.org/persons/2008SEAR01) |
-| 28 | 5 | [Yuhei Takagi (高木佑平)](https://www.worldcubeassociation.org/persons/2008TAKA01) |
-| 29 | 5 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) |
-| 30 | 5 | [Fangyuan Chang (常方圆)](https://www.worldcubeassociation.org/persons/2009CHAN04) |
-| 31 | 5 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) |
-| 32 | 5 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
+| 5 | 6 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
+| 6 | 6 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
+| 7 | 6 | [Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02) |
+| 8 | 6 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
+| 9 | 6 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) |
+| 10 | 6 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
+| 11 | 6 | [Linus Kunath](https://www.worldcubeassociation.org/persons/2017KUNA01) |
+| 12 | 5 | [Chris Hardwick](https://www.worldcubeassociation.org/persons/2003HARD01) |
+| 13 | 5 | [Jasmine Lee](https://www.worldcubeassociation.org/persons/2003LEEJ01) |
+| 14 | 5 | [Shelley Chang](https://www.worldcubeassociation.org/persons/2004CHAN04) |
+| 15 | 5 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
+| 16 | 5 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) |
+| 17 | 5 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
+| 18 | 5 | [Lucas Garron](https://www.worldcubeassociation.org/persons/2006GARR01) |
+| 19 | 5 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) |
+| 20 | 5 | [Takao Hashimoto (橋本貴夫)](https://www.worldcubeassociation.org/persons/2007HASH01) |
+| 21 | 5 | [Alexander Lin](https://www.worldcubeassociation.org/persons/2007LING01) |
+| 22 | 5 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |
+| 23 | 5 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) |
+| 24 | 5 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
+| 25 | 5 | [Ilkyoo Choi (최일규)](https://www.worldcubeassociation.org/persons/2008CHOI04) |
+| 26 | 5 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) |
+| 27 | 5 | [Hanneke Rijks](https://www.worldcubeassociation.org/persons/2008RIJK01) |
+| 28 | 5 | [Anthony Brooks](https://www.worldcubeassociation.org/persons/2008SEAR01) |
+| 29 | 5 | [Yuhei Takagi (高木佑平)](https://www.worldcubeassociation.org/persons/2008TAKA01) |
+| 30 | 5 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) |
+| 31 | 5 | [Fangyuan Chang (常方圆)](https://www.worldcubeassociation.org/persons/2009CHAN04) |
+| 32 | 5 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) |
 | 33 | 5 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) |
 | 34 | 5 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
 | 35 | 5 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |

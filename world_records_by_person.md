@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 16 January 2026*
+*Updated on 22 January 2026*
 
 | Rank | WRs | Person |
 | :--- | ---: | :--- |
@@ -21,10 +21,10 @@
 | 15 | 15 | [Marcell Endrey](https://www.worldcubeassociation.org/persons/2007ENDR01) |
 | 16 | 14 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) |
 | 17 | 14 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) |
-| 18 | 14 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) |
-| 19 | 13 | [Anssi Vanhala](https://www.worldcubeassociation.org/persons/2005VANH01) |
-| 20 | 13 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |
-| 21 | 13 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
+| 18 | 14 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
+| 19 | 14 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) |
+| 20 | 13 | [Anssi Vanhala](https://www.worldcubeassociation.org/persons/2005VANH01) |
+| 21 | 13 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |
 | 22 | 12 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) |
 | 23 | 12 | [Lin Chen (陈霖)](https://www.worldcubeassociation.org/persons/2010CHEN20) |
 | 24 | 12 | [Yuxuan Wang (王宇轩)](https://www.worldcubeassociation.org/persons/2009WANG13) |
