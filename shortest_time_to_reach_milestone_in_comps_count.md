@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 22 January 2026*
+*Updated on 25 January 2026*
 
 
 ### 300 Competitions
@@ -235,29 +235,30 @@
 | 113 | 5244 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) |
 | 114 | 5263 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) |
 | 115 | 5342 | [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) |
-| 116 | 5363 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
-| 117 | 5384 | [Fangyuan Chang (常方圆)](https://www.worldcubeassociation.org/persons/2009CHAN04) |
-| 118 | 5392 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) |
-| 119 | 5412 | [Kevin Matthews](https://www.worldcubeassociation.org/persons/2010MATT02) |
-| 120 | 5418 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) |
-| 121 | 5433 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) |
-| 122 | 5464 | [Mitchell Lane](https://www.worldcubeassociation.org/persons/2010LANE02) |
-| 123 | 5475 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
-| 124 | 5482 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
-| 125 | 5578 | [Shelley Chang](https://www.worldcubeassociation.org/persons/2004CHAN04) |
-| 126 | 5594 | [Cendy Cahyo Rahmat](https://www.worldcubeassociation.org/persons/2010RAHM02) |
-| 127 | 5684 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
-| 128 | 5770 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) |
-| 129 | 5832 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
-| 130 | 5881 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
-| 131 | 6021 | [Anton Piau](https://www.worldcubeassociation.org/persons/2008PIAU01) |
-| 132 | 6029 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
-| 133 | 6082 | [Sarah Strong](https://www.worldcubeassociation.org/persons/2007STRO01) |
-| 134 | 6124 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
-| 135 | 6180 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) |
-| 136 | 6327 | [Yuhei Takagi (高木佑平)](https://www.worldcubeassociation.org/persons/2008TAKA01) |
-| 137 | 6413 | [Hippolyte Moreau](https://www.worldcubeassociation.org/persons/2008MORE02) |
-| 138 | 6966 | [Chia-Leo Lin (林珈樂)](https://www.worldcubeassociation.org/persons/2006LINC01) |
+| 116 | 5353 | [Michael Andres Castillo Lemus](https://www.worldcubeassociation.org/persons/2011CAST02) |
+| 117 | 5363 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) |
+| 118 | 5384 | [Fangyuan Chang (常方圆)](https://www.worldcubeassociation.org/persons/2009CHAN04) |
+| 119 | 5392 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) |
+| 120 | 5412 | [Kevin Matthews](https://www.worldcubeassociation.org/persons/2010MATT02) |
+| 121 | 5418 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) |
+| 122 | 5433 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) |
+| 123 | 5464 | [Mitchell Lane](https://www.worldcubeassociation.org/persons/2010LANE02) |
+| 124 | 5475 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
+| 125 | 5482 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
+| 126 | 5578 | [Shelley Chang](https://www.worldcubeassociation.org/persons/2004CHAN04) |
+| 127 | 5594 | [Cendy Cahyo Rahmat](https://www.worldcubeassociation.org/persons/2010RAHM02) |
+| 128 | 5684 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
+| 129 | 5770 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) |
+| 130 | 5832 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
+| 131 | 5881 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
+| 132 | 6021 | [Anton Piau](https://www.worldcubeassociation.org/persons/2008PIAU01) |
+| 133 | 6029 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
+| 134 | 6082 | [Sarah Strong](https://www.worldcubeassociation.org/persons/2007STRO01) |
+| 135 | 6124 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
+| 136 | 6180 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) |
+| 137 | 6327 | [Yuhei Takagi (高木佑平)](https://www.worldcubeassociation.org/persons/2008TAKA01) |
+| 138 | 6413 | [Hippolyte Moreau](https://www.worldcubeassociation.org/persons/2008MORE02) |
+| 139 | 6966 | [Chia-Leo Lin (林珈樂)](https://www.worldcubeassociation.org/persons/2006LINC01) |
 
 ### 100 Competitions
 
@@ -486,8 +487,8 @@
 | 16 | 595 | [Jacob Bennett](https://www.worldcubeassociation.org/persons/2023BENN04) |
 | 17 | 601 | [Ludwig Ivarsson](https://www.worldcubeassociation.org/persons/2022IVAR01) |
 | 18 | 610 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
-| 19 | 610 | [Jacob Goossens Celis](https://www.worldcubeassociation.org/persons/2023CELI06) |
-| 20 | 610 | [Thomas Cabezas](https://www.worldcubeassociation.org/persons/2023CASA08) |
+| 19 | 610 | [Thomas Cabezas](https://www.worldcubeassociation.org/persons/2023CASA08) |
+| 20 | 610 | [Jacob Goossens Celis](https://www.worldcubeassociation.org/persons/2023CELI06) |
 | 21 | 628 | [Rex Ozsvath](https://www.worldcubeassociation.org/persons/2022OZSV04) |
 | 22 | 631 | [Nico Ozsvath](https://www.worldcubeassociation.org/persons/2022OZSV03) |
 | 23 | 631 | [Kenji Gipson-Nahman](https://www.worldcubeassociation.org/persons/2023GIPS01) |
@@ -1264,9 +1265,9 @@
 | 179 | 77 | [Edward Leung](https://www.worldcubeassociation.org/persons/2019LEUN05) |
 | 180 | 77 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) |
 | 181 | 77 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) |
-| 182 | 77 | [Evan Zhou](https://www.worldcubeassociation.org/persons/2022ZHOU04) |
-| 183 | 77 | [Joseph Mangapot](https://www.worldcubeassociation.org/persons/2022MANG01) |
-| 184 | 77 | [Patrick Shi](https://www.worldcubeassociation.org/persons/2022SHIP01) |
+| 182 | 77 | [Patrick Shi](https://www.worldcubeassociation.org/persons/2022SHIP01) |
+| 183 | 77 | [Evan Zhou](https://www.worldcubeassociation.org/persons/2022ZHOU04) |
+| 184 | 77 | [Joseph Mangapot](https://www.worldcubeassociation.org/persons/2022MANG01) |
 | 185 | 77 | [Katsumasa Hamaguchi](https://www.worldcubeassociation.org/persons/2022HAMA02) |
 | 186 | 77 | [Heleen van der Ree](https://www.worldcubeassociation.org/persons/2022REEH01) |
 | 187 | 77 | [Benton Tolley](https://www.worldcubeassociation.org/persons/2023TOLL02) |

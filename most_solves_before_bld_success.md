@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on 22 January 2026*
+*Updated on 25 January 2026*
 
 
 ### 3x3x3 Blindfolded
@@ -164,7 +164,7 @@
 | 155 | 17 | [Carlo Flores](https://www.worldcubeassociation.org/persons/2013FLOR02) |
 | 156 | 17 | [Javier Tovar Castro](https://www.worldcubeassociation.org/persons/2016CAST23) |
 | 157 | 17 | [Vilius Ribinskas](https://www.worldcubeassociation.org/persons/2015RIBI01) |
-| 158 | 17 | [Carson Deibert](https://www.worldcubeassociation.org/persons/2016DEIB01) |
+| 158 | 17 | [James Deibert](https://www.worldcubeassociation.org/persons/2016DEIB01) |
 | 159 | 17 | [Jami Viljanen](https://www.worldcubeassociation.org/persons/2017VILJ01) |
 | 160 | 17 | [Nishad Khade](https://www.worldcubeassociation.org/persons/2017KHAD01) |
 | 161 | 17 | [Étienne Aubry](https://www.worldcubeassociation.org/persons/2018AUBR01) |
@@ -240,7 +240,7 @@
 | 26 | 19 | [Jacob Oliver Bruun](https://www.worldcubeassociation.org/persons/2018BRUU01) |
 | 27 | 19 | [Timothy Castle](https://www.worldcubeassociation.org/persons/2016CAST48) |
 | 28 | 19 | [Jacob Turrubiartes](https://www.worldcubeassociation.org/persons/2018TURR01) |
-| 29 | 19 | [Nicole Arcilla](https://www.worldcubeassociation.org/persons/2023ARCI02) |
+| 29 | 19 | [Gavriel Johann Arcilla](https://www.worldcubeassociation.org/persons/2023ARCI02) |
 | 30 | 18 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 31 | 18 | [Chris Wall](https://www.worldcubeassociation.org/persons/2011WALL02) |
 | 32 | 18 | [David Vujasić](https://www.worldcubeassociation.org/persons/2015VUJA01) |

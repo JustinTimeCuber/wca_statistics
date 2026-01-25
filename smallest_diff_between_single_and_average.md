@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 22 January 2026*
+*Updated on 25 January 2026*
 
 
 ### Rubik's Cube
@@ -123,7 +123,7 @@
 | 8 | 0.02 | [Luigi Soriano](https://www.worldcubeassociation.org/persons/2016SORI04) | 1.73 | 1.75 | [UIUC Fall 2023](https://www.worldcubeassociation.org/competitions/UIUCFall2023/results/by_person#2016SORI04) |
 | 9 | 0.02 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) | 1.85 | 1.87 | [Rubik's Irish Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2025/results/by_person#2018STOK01) |
 | 10 | 0.02 | [Jack Pan (潘杰康)](https://www.worldcubeassociation.org/persons/2012PANJ02) | 1.95 | 1.97 | [Beijing Open 2018](https://www.worldcubeassociation.org/competitions/BeijingOpen2018/results/by_person#2012PANJ02) |
-| 11 | 0.02 | [Joonhee Lee](https://www.worldcubeassociation.org/persons/2022LEEJ28) | 2.11 | 2.13 | [Okcheon Autumn Breeze 2025](https://www.worldcubeassociation.org/competitions/OkcheonAutumnBreeze2025/results/by_person#2022LEEJ28) |
+| 11 | 0.02 | [Joonhee Lee (이준희)](https://www.worldcubeassociation.org/persons/2022LEEJ28) | 2.11 | 2.13 | [Okcheon Autumn Breeze 2025](https://www.worldcubeassociation.org/competitions/OkcheonAutumnBreeze2025/results/by_person#2022LEEJ28) |
 | 12 | 0.02 | [Travis Dumaran](https://www.worldcubeassociation.org/persons/2022DUMA01) | 2.54 | 2.56 | [ʻAiea Liʻi ʻOkakopa 2025](https://www.worldcubeassociation.org/competitions/AieaLiiOkakopa2025/results/by_person#2022DUMA01) |
 | 13 | 0.02 | [Jamila Raine C. Espiritu](https://www.worldcubeassociation.org/persons/2018ESPI05) | 2.97 | 2.99 | [Pampanga Speedcubing Open 2024](https://www.worldcubeassociation.org/competitions/PampangaSpeedcubingOpen2024/results/by_person#2018ESPI05) |
 | 14 | 0.02 | [Samuel Alzate Muñoz](https://www.worldcubeassociation.org/persons/2022MUNO13) | 2.99 | 3.01 | [Aves María Nuevos Campeones 2024](https://www.worldcubeassociation.org/competitions/AvesMariaNuevosCampeones2024/results/by_person#2022MUNO13) |
@@ -200,19 +200,19 @@
 | 85 | 0.04 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | 1.69 | 1.73 | [US Nationals 2016](https://www.worldcubeassociation.org/competitions/USNationals2016/results/by_person#2014KARN02) |
 | 86 | 0.04 | [Leo Lindqvist](https://www.worldcubeassociation.org/persons/2017LIND01) | 1.69 | 1.73 | [Clockholm Open 2023](https://www.worldcubeassociation.org/competitions/ClockholmOpen2023/results/by_person#2017LIND01) |
 | 87 | 0.04 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) | 1.69 | 1.73 | [Rubik's UK Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2025/results/by_person#2018STOK01) |
-| 88 | 0.04 | [Mark Sander](https://www.worldcubeassociation.org/persons/2023SAND02) | 1.73 | 1.77 | [Cyprus Nationals 2025](https://www.worldcubeassociation.org/competitions/CyprusNationals2025/results/by_person#2023SAND02) |
-| 89 | 0.04 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | 1.75 | 1.79 | [Diamond Bar September 2022](https://www.worldcubeassociation.org/competitions/DiamondBarSeptember2022/results/by_person#2017CHOI07) |
-| 90 | 0.04 | [Lucas Etter](https://www.worldcubeassociation.org/persons/2011ETTE01) | 1.80 | 1.84 | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/by_person#2011ETTE01) |
-| 91 | 0.04 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 1.83 | 1.87 | [Babylon Summer 2022](https://www.worldcubeassociation.org/competitions/BabylonSummer2022/results/by_person#2018KHAN26) |
-| 92 | 0.04 | [Lorenzo Mauro](https://www.worldcubeassociation.org/persons/2014MAUR06) | 1.95 | 1.99 | [Castenaso Strikes Back 2022](https://www.worldcubeassociation.org/competitions/CastenasoStrikesBack2022/results/by_person#2014MAUR06) |
-| 93 | 0.04 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | 1.95 | 1.99 | [Bravamall Open 2023](https://www.worldcubeassociation.org/competitions/BravamallOpen2023/results/by_person#2017MAND13) |
-| 94 | 0.04 | [Joel Cetra](https://www.worldcubeassociation.org/persons/2016CETR01) | 2.13 | 2.17 | [Rubik's German Nationals 2024](https://www.worldcubeassociation.org/competitions/RubiksGermanNationals2024/results/by_person#2016CETR01) |
-| 95 | 0.04 | [Szabolcs Szántai](https://www.worldcubeassociation.org/persons/2016SZAN01) | 2.15 | 2.19 | [Bratislava Autumn 2023](https://www.worldcubeassociation.org/competitions/BratislavaAutumn2023/results/by_person#2016SZAN01) |
-| 96 | 0.04 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | 2.43 | 2.47 | [Cube Factory Brzeziny 2024](https://www.worldcubeassociation.org/competitions/CubeFactoryBrzeziny2024/results/by_person#2014SZWU01) |
-| 97 | 0.04 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 2.64 | 2.68 | [Silesian Cubing Pszczyna 2023](https://www.worldcubeassociation.org/competitions/SilesianCubingPszczyna2023/results/by_person#2018KUZM02) |
-| 98 | 0.04 | [Shivaan Harichander](https://www.worldcubeassociation.org/persons/2016HARI06) | 2.69 | 2.73 | [Cubestuff Centurion Q3 2025](https://www.worldcubeassociation.org/competitions/CubestuffCenturionQ32025/results/by_person#2016HARI06) |
-| 99 | 0.04 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | 2.70 | 2.74 | [New Jersey Championship 2024](https://www.worldcubeassociation.org/competitions/NewJerseyChampionship2024/results/by_person#2009LIUE01) |
-| 100 | 0.04 | [Anonymous](https://www.worldcubeassociation.org/persons/2020ANON03) | 2.84 | 2.88 | [Dragon Cubing 2023](https://www.worldcubeassociation.org/competitions/DragonCubing2023/results/by_person#2020ANON03) |
+| 88 | 0.04 | [Elliott Perkins](https://www.worldcubeassociation.org/persons/2018PERK01) | 1.72 | 1.76 | [Berkshires Cube Day at BART 2026](https://www.worldcubeassociation.org/competitions/BerkshiresCubeDayatBART2026/results/by_person#2018PERK01) |
+| 89 | 0.04 | [Mark Sander](https://www.worldcubeassociation.org/persons/2023SAND02) | 1.73 | 1.77 | [Cyprus Nationals 2025](https://www.worldcubeassociation.org/competitions/CyprusNationals2025/results/by_person#2023SAND02) |
+| 90 | 0.04 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | 1.75 | 1.79 | [Diamond Bar September 2022](https://www.worldcubeassociation.org/competitions/DiamondBarSeptember2022/results/by_person#2017CHOI07) |
+| 91 | 0.04 | [Lucas Etter](https://www.worldcubeassociation.org/persons/2011ETTE01) | 1.80 | 1.84 | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/by_person#2011ETTE01) |
+| 92 | 0.04 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 1.83 | 1.87 | [Babylon Summer 2022](https://www.worldcubeassociation.org/competitions/BabylonSummer2022/results/by_person#2018KHAN26) |
+| 93 | 0.04 | [Lorenzo Mauro](https://www.worldcubeassociation.org/persons/2014MAUR06) | 1.95 | 1.99 | [Castenaso Strikes Back 2022](https://www.worldcubeassociation.org/competitions/CastenasoStrikesBack2022/results/by_person#2014MAUR06) |
+| 94 | 0.04 | [Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13) | 1.95 | 1.99 | [Bravamall Open 2023](https://www.worldcubeassociation.org/competitions/BravamallOpen2023/results/by_person#2017MAND13) |
+| 95 | 0.04 | [Joel Cetra](https://www.worldcubeassociation.org/persons/2016CETR01) | 2.13 | 2.17 | [Rubik's German Nationals 2024](https://www.worldcubeassociation.org/competitions/RubiksGermanNationals2024/results/by_person#2016CETR01) |
+| 96 | 0.04 | [Szabolcs Szántai](https://www.worldcubeassociation.org/persons/2016SZAN01) | 2.15 | 2.19 | [Bratislava Autumn 2023](https://www.worldcubeassociation.org/competitions/BratislavaAutumn2023/results/by_person#2016SZAN01) |
+| 97 | 0.04 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | 2.43 | 2.47 | [Cube Factory Brzeziny 2024](https://www.worldcubeassociation.org/competitions/CubeFactoryBrzeziny2024/results/by_person#2014SZWU01) |
+| 98 | 0.04 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 2.64 | 2.68 | [Silesian Cubing Pszczyna 2023](https://www.worldcubeassociation.org/competitions/SilesianCubingPszczyna2023/results/by_person#2018KUZM02) |
+| 99 | 0.04 | [Shivaan Harichander](https://www.worldcubeassociation.org/persons/2016HARI06) | 2.69 | 2.73 | [Cubestuff Centurion Q3 2025](https://www.worldcubeassociation.org/competitions/CubestuffCenturionQ32025/results/by_person#2016HARI06) |
+| 100 | 0.04 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | 2.70 | 2.74 | [New Jersey Championship 2024](https://www.worldcubeassociation.org/competitions/NewJerseyChampionship2024/results/by_person#2009LIUE01) |
 
 ### 4x4x4 Cube
 

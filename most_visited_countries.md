@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 22 January 2026*
+*Updated on 25 January 2026*
 
 | Rank | Countries | Person |
 | :--- | ---: | :--- |
@@ -41,10 +41,10 @@
 | 35 | 24 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) |
 | 36 | 24 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
 | 37 | 23 | [Leon Schmidtchen](https://www.worldcubeassociation.org/persons/2010SCHM01) |
-| 38 | 22 | [Nora Akkersdijk](https://www.worldcubeassociation.org/persons/2009CHRI03) |
-| 39 | 22 | [Achim Spies](https://www.worldcubeassociation.org/persons/2021SPIE01) |
-| 40 | 22 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) |
-| 41 | 22 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
+| 38 | 23 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
+| 39 | 22 | [Nora Akkersdijk](https://www.worldcubeassociation.org/persons/2009CHRI03) |
+| 40 | 22 | [Achim Spies](https://www.worldcubeassociation.org/persons/2021SPIE01) |
+| 41 | 22 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) |
 | 42 | 22 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) |
 | 43 | 22 | [Glen Goh Wee Zhuan (吴洧全)](https://www.worldcubeassociation.org/persons/2015ZHUA01) |
 | 44 | 22 | [Sanio Kasumovic](https://www.worldcubeassociation.org/persons/2009KASU01) |

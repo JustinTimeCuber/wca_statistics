@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 22 January 2026*
+*Updated on 25 January 2026*
 
 | Rank | Days | Person |
 | :--- | ---: | :--- |
@@ -336,7 +336,7 @@
 | 329 | 1449 | [Jason Bilgrei](https://www.worldcubeassociation.org/persons/2014BILG01) |
 | 330 | 1456 | [Jan Zeman](https://www.worldcubeassociation.org/persons/2021ZEMA01) |
 | 331 | 1463 | [Shantanu Modak](https://www.worldcubeassociation.org/persons/2014MODA01) |
-| 332 | 1463 | [Guilherme Santana Campos](https://www.worldcubeassociation.org/persons/2019CAMP10) |
+| 332 | 1463 | [Guilherme Santana](https://www.worldcubeassociation.org/persons/2019CAMP10) |
 | 333 | 1471 | [Elliott Kobelansky](https://www.worldcubeassociation.org/persons/2019KOBE03) |
 | 334 | 1476 | [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) |
 | 335 | 1477 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) |
