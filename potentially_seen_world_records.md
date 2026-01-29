@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 25 January 2026*
+*Updated on 28 January 2026*
 
 | Rank | WRs | Person |
 | :--- | ---: | :--- |
@@ -205,31 +205,31 @@
 | 198 | 50 | [Jonah Crosby](https://www.worldcubeassociation.org/persons/2012CROS01) |
 | 199 | 50 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) |
 | 200 | 50 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) |
-| 201 | 49 | [Kailong Li (李开隆)](https://www.worldcubeassociation.org/persons/2008LIKA01) |
-| 202 | 49 | [Arifumi Fushimi (伏見有史)](https://www.worldcubeassociation.org/persons/2009FUSH01) |
-| 203 | 49 | [Brandon Harnish](https://www.worldcubeassociation.org/persons/2009HARN01) |
-| 204 | 49 | [Ryosuke Mondo (門戸良介)](https://www.worldcubeassociation.org/persons/2006MOND01) |
-| 205 | 49 | [Kai Jiptner](https://www.worldcubeassociation.org/persons/2007JIPT01) |
-| 206 | 49 | [Dana Yi](https://www.worldcubeassociation.org/persons/2010YIDA01) |
-| 207 | 49 | [Claude Cantin](https://www.worldcubeassociation.org/persons/2012CANT01) |
-| 208 | 49 | [Stephen Griggs](https://www.worldcubeassociation.org/persons/2014GRIG01) |
-| 209 | 49 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) |
-| 210 | 49 | [Eva Kato (加藤映葉)](https://www.worldcubeassociation.org/persons/2013KATO01) |
-| 211 | 48 | [Livia Kleiner](https://www.worldcubeassociation.org/persons/2013KLEI03) |
-| 212 | 48 | [Tairan Zhong (钟泰然)](https://www.worldcubeassociation.org/persons/2013ZHON04) |
-| 213 | 48 | [Masayuki Akimoto (秋元正行)](https://www.worldcubeassociation.org/persons/2003AKIM01) |
-| 214 | 48 | [Christophe Woittequand](https://www.worldcubeassociation.org/persons/2005WOIT01) |
-| 215 | 48 | [Sarah Strong](https://www.worldcubeassociation.org/persons/2007STRO01) |
-| 216 | 48 | [Sanae Yamashita (山下佐苗)](https://www.worldcubeassociation.org/persons/2008OMYO01) |
-| 217 | 48 | [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) |
-| 218 | 48 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
-| 219 | 48 | [Zachary White](https://www.worldcubeassociation.org/persons/2010WHIT05) |
-| 220 | 48 | [Donna Hays](https://www.worldcubeassociation.org/persons/2011HAYS02) |
-| 221 | 48 | [Corey Sakowski](https://www.worldcubeassociation.org/persons/2011SAKO01) |
-| 222 | 48 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
-| 223 | 48 | [Phillip Lewicki](https://www.worldcubeassociation.org/persons/2012LEWI01) |
-| 224 | 48 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
-| 225 | 47 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
+| 201 | 49 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) |
+| 202 | 49 | [Kailong Li (李开隆)](https://www.worldcubeassociation.org/persons/2008LIKA01) |
+| 203 | 49 | [Arifumi Fushimi (伏見有史)](https://www.worldcubeassociation.org/persons/2009FUSH01) |
+| 204 | 49 | [Brandon Harnish](https://www.worldcubeassociation.org/persons/2009HARN01) |
+| 205 | 49 | [Ryosuke Mondo (門戸良介)](https://www.worldcubeassociation.org/persons/2006MOND01) |
+| 206 | 49 | [Kai Jiptner](https://www.worldcubeassociation.org/persons/2007JIPT01) |
+| 207 | 49 | [Dana Yi](https://www.worldcubeassociation.org/persons/2010YIDA01) |
+| 208 | 49 | [Claude Cantin](https://www.worldcubeassociation.org/persons/2012CANT01) |
+| 209 | 49 | [Stephen Griggs](https://www.worldcubeassociation.org/persons/2014GRIG01) |
+| 210 | 49 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) |
+| 211 | 49 | [Eva Kato (加藤映葉)](https://www.worldcubeassociation.org/persons/2013KATO01) |
+| 212 | 48 | [Livia Kleiner](https://www.worldcubeassociation.org/persons/2013KLEI03) |
+| 213 | 48 | [Tairan Zhong (钟泰然)](https://www.worldcubeassociation.org/persons/2013ZHON04) |
+| 214 | 48 | [Masayuki Akimoto (秋元正行)](https://www.worldcubeassociation.org/persons/2003AKIM01) |
+| 215 | 48 | [Christophe Woittequand](https://www.worldcubeassociation.org/persons/2005WOIT01) |
+| 216 | 48 | [Sarah Strong](https://www.worldcubeassociation.org/persons/2007STRO01) |
+| 217 | 48 | [Sanae Yamashita (山下佐苗)](https://www.worldcubeassociation.org/persons/2008OMYO01) |
+| 218 | 48 | [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) |
+| 219 | 48 | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) |
+| 220 | 48 | [Zachary White](https://www.worldcubeassociation.org/persons/2010WHIT05) |
+| 221 | 48 | [Donna Hays](https://www.worldcubeassociation.org/persons/2011HAYS02) |
+| 222 | 48 | [Corey Sakowski](https://www.worldcubeassociation.org/persons/2011SAKO01) |
+| 223 | 48 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
+| 224 | 48 | [Phillip Lewicki](https://www.worldcubeassociation.org/persons/2012LEWI01) |
+| 225 | 48 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) |
 | 226 | 47 | [Michel Hop](https://www.worldcubeassociation.org/persons/2006HOPM01) |
 | 227 | 47 | [Shusei Tabuchi (田渕柊星)](https://www.worldcubeassociation.org/persons/2006TABU01) |
 | 228 | 47 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
@@ -789,7 +789,7 @@
 | 782 | 24 | [Margot Audero](https://www.worldcubeassociation.org/persons/2017MARR02) |
 | 783 | 24 | [Christopher Sun](https://www.worldcubeassociation.org/persons/2017SUNC02) |
 | 784 | 24 | [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) |
-| 785 | 24 | [Madeline Trace](https://www.worldcubeassociation.org/persons/2015TRAC01) |
+| 785 | 24 | [Olivia Trace](https://www.worldcubeassociation.org/persons/2015TRAC01) |
 | 786 | 24 | [Bernhard Brodowsky](https://www.worldcubeassociation.org/persons/2016BROD01) |
 | 787 | 24 | [Amélie Dieterich](https://www.worldcubeassociation.org/persons/2016DIET01) |
 | 788 | 24 | [Yunliang Zhang (张赟量)](https://www.worldcubeassociation.org/persons/2016ZHAN45) |

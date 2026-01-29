@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 25 January 2026*
+*Updated on 28 January 2026*
 
 
 ### Rubik's Cube
@@ -1359,15 +1359,15 @@
 | 89 | [Anthony Lafourcade](https://www.worldcubeassociation.org/persons/2014LAFO01) | 1.65 | **2.87** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#eskewb_f) | 16 |
 | 90 | [Tyler Robinson](https://www.worldcubeassociation.org/persons/2015ROBI04) | 1.86 | **2.87** | [Minnesota Warm Up 2024](https://www.worldcubeassociation.org/competitions/MinnesotaWarmUp2024/results/all#eskewb_f) | 5 |
 | 91 | [Jiawen Liu (刘佳雯)](https://www.worldcubeassociation.org/persons/2023LIUJ15) | 2.57 | **2.87** | [Beijing Summer 2025](https://www.worldcubeassociation.org/competitions/BeijingSummer2025/results/all#eskewb_f) | 4 |
-| 92 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 2.11 | **2.88** | [Energy Cube Białołęka 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeBialoleka2024/results/all#eskewb_f) | 5 |
-| 93 | [Nathan Rahn](https://www.worldcubeassociation.org/persons/2021RAHN01) | 2.31 | **2.88** | [Minnesota Warm Up 2024](https://www.worldcubeassociation.org/competitions/MinnesotaWarmUp2024/results/all#eskewb_f) | 6 |
-| 94 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 1.98 | **2.89** | [Dragon Cubing 2023](https://www.worldcubeassociation.org/competitions/DragonCubing2023/results/all#eskewb_f) | 4 |
-| 95 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | 2.03 | **2.89** | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/all#eskewb_f) | 7 |
-| 96 | [Ziyu Ye (叶梓渝)](https://www.worldcubeassociation.org/persons/2021YEZI01) | 2.27 | **2.89** | [Beijing Summer 2025](https://www.worldcubeassociation.org/competitions/BeijingSummer2025/results/all#eskewb_f) | 5 |
-| 97 | [Ziyu Ye (叶梓渝)](https://www.worldcubeassociation.org/persons/2021YEZI01) | 1.12 | **2.90** | [Zhengzhou Zest 2025](https://www.worldcubeassociation.org/competitions/ZhengzhouZest2025/results/all#eskewb_f) | 4 |
-| 98 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 2.50 | **2.90** | [Melbourne Summer 2025](https://www.worldcubeassociation.org/competitions/MelbourneSummer2025/results/all#eskewb_f) | 4 |
-| 99 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 2.56 | **2.90** | [CFL Justynów 2025](https://www.worldcubeassociation.org/competitions/CFLJustynow2025/results/all#eskewb_f) | 4 |
-| 100 | [Fabian Browa](https://www.worldcubeassociation.org/persons/2019BROW09) | 1.81 | **2.91** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#eskewb_f) | 12 |
+| 92 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 2.06 | **2.88** | [Cube4fun Tylmanowa Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaWinter2026/results/all#eskewb_f) | 4 |
+| 93 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 2.11 | **2.88** | [Energy Cube Białołęka 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeBialoleka2024/results/all#eskewb_f) | 5 |
+| 94 | [Nathan Rahn](https://www.worldcubeassociation.org/persons/2021RAHN01) | 2.31 | **2.88** | [Minnesota Warm Up 2024](https://www.worldcubeassociation.org/competitions/MinnesotaWarmUp2024/results/all#eskewb_f) | 6 |
+| 95 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 1.98 | **2.89** | [Dragon Cubing 2023](https://www.worldcubeassociation.org/competitions/DragonCubing2023/results/all#eskewb_f) | 4 |
+| 96 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | 2.03 | **2.89** | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/all#eskewb_f) | 7 |
+| 97 | [Ziyu Ye (叶梓渝)](https://www.worldcubeassociation.org/persons/2021YEZI01) | 2.27 | **2.89** | [Beijing Summer 2025](https://www.worldcubeassociation.org/competitions/BeijingSummer2025/results/all#eskewb_f) | 5 |
+| 98 | [Ziyu Ye (叶梓渝)](https://www.worldcubeassociation.org/persons/2021YEZI01) | 1.12 | **2.90** | [Zhengzhou Zest 2025](https://www.worldcubeassociation.org/competitions/ZhengzhouZest2025/results/all#eskewb_f) | 4 |
+| 99 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 2.50 | **2.90** | [Melbourne Summer 2025](https://www.worldcubeassociation.org/competitions/MelbourneSummer2025/results/all#eskewb_f) | 4 |
+| 100 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 2.56 | **2.90** | [CFL Justynów 2025](https://www.worldcubeassociation.org/competitions/CFLJustynow2025/results/all#eskewb_f) | 4 |
 
 ### Square-1
 
