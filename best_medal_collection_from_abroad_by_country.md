@@ -1,14 +1,14 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 28 January 2026*
+*Updated on 31 January 2026*
 
 | Rank | Country | Gold | Silver | Bronze | Total |
 | :--- | :--- | :--: | :--: | :--: | :--: |
 | 1 | Hungary | **1545** | 1310 | 1130 | 3985 |
 | 2 | United States | **1519** | 1195 | 1020 | 3734 |
 | 3 | Germany | **1381** | 1303 | 1290 | 3974 |
-| 4 | Russia | **1314** | 717 | 539 | 2570 |
+| 4 | Russia | **1319** | 717 | 539 | 2575 |
 | 5 | France | **1125** | 987 | 849 | 2961 |
 | 6 | China | **1084** | 1001 | 889 | 2974 |
 | 7 | Netherlands | **1060** | 852 | 739 | 2651 |
@@ -36,7 +36,7 @@
 | 29 | Ireland | **229** | 116 | 101 | 446 |
 | 30 | Austria | **211** | 261 | 281 | 753 |
 | 31 | Slovenia | **199** | 266 | 271 | 736 |
-| 32 | Peru | **194** | 178 | 228 | 600 |
+| 32 | Peru | **196** | 178 | 228 | 602 |
 | 33 | Latvia | **177** | 256 | 261 | 694 |
 | 34 | Czech Republic | **163** | 190 | 200 | 553 |
 | 35 | Belgium | **158** | 234 | 229 | 621 |
@@ -46,7 +46,7 @@
 | 39 | Greece | **132** | 166 | 131 | 429 |
 | 40 | Lithuania | **120** | 105 | 107 | 332 |
 | 41 | Belarus | **115** | 84 | 95 | 294 |
-| 42 | Venezuela | **108** | 136 | 124 | 368 |
+| 42 | Venezuela | **108** | 139 | 124 | 371 |
 | 43 | Philippines | **108** | 126 | 119 | 353 |
 | 44 | Thailand | **105** | 110 | 67 | 282 |
 | 45 | Slovakia | **103** | 149 | 147 | 399 |
@@ -74,7 +74,7 @@
 | 67 | Belize | **24** | 6 | 3 | 33 |
 | 68 | El Salvador | **22** | 28 | 26 | 76 |
 | 69 | North Macedonia | **20** | 27 | 31 | 78 |
-| 70 | Bulgaria | **19** | 51 | 58 | 128 |
+| 70 | Bulgaria | **19** | 53 | 59 | 131 |
 | 71 | Nigeria | **18** | 36 | 29 | 83 |
 | 72 | Kuwait | **16** | 14 | 30 | 60 |
 | 73 | Morocco | **15** | 19 | 20 | 54 |
