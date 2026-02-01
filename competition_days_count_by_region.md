@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 31 January 2026*
+*Updated on  1 February 2026*
 
 
 ### World
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.46 | World | 16786 |
+| 1 | 1.46 | World | 16793 |
 
 ### Continents
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.71 | Europe | 5440 |
+| 1 | 1.71 | Europe | 5445 |
 | 2 | 1.48 | Oceania | 731 |
-| 3 | 1.46 | South America | 2137 |
+| 3 | 1.46 | South America | 2138 |
 | 4 | 1.41 | Asia | 3420 |
 | 5 | 1.33 | Africa | 219 |
-| 6 | 1.21 | North America | 4839 |
+| 6 | 1.21 | North America | 4840 |
 
 ### Countries
 
@@ -40,15 +40,15 @@
 | 14 | 1.86 | Croatia | 35 |
 | 15 | 1.85 | Norway | 166 |
 | 16 | 1.84 | Thailand | 96 |
-| 17 | 1.84 | Spain | 470 |
+| 17 | 1.84 | Spain | 472 |
 | 18 | 1.83 | Serbia | 30 |
 | 19 | 1.82 | Finland | 183 |
-| 20 | 1.81 | United Kingdom | 342 |
+| 20 | 1.81 | United Kingdom | 343 |
 | 21 | 1.80 | Bosnia and Herzegovina | 15 |
 | 22 | 1.80 | Slovakia | 55 |
 | 23 | 1.79 | Mexico | 255 |
 | 24 | 1.79 | Slovenia | 43 |
-| 25 | 1.77 | Switzerland | 169 |
+| 25 | 1.77 | Switzerland | 170 |
 | 26 | 1.76 | Guatemala | 62 |
 | 27 | 1.76 | Austria | 37 |
 | 28 | 1.75 | Luxembourg | 4 |
@@ -61,7 +61,7 @@
 | 35 | 1.67 | Belgium | 108 |
 | 36 | 1.67 | Madagascar | 3 |
 | 37 | 1.67 | North Macedonia | 6 |
-| 38 | 1.66 | Brazil | 663 |
+| 38 | 1.66 | Brazil | 664 |
 | 39 | 1.63 | Italy | 285 |
 | 40 | 1.60 | Iran | 43 |
 | 41 | 1.60 | Indonesia | 249 |
@@ -86,7 +86,7 @@
 | 60 | 1.41 | Vietnam | 76 |
 | 61 | 1.41 | Costa Rica | 32 |
 | 62 | 1.41 | Israel | 79 |
-| 63 | 1.40 | Estonia | 68 |
+| 63 | 1.39 | Estonia | 69 |
 | 64 | 1.38 | Chinese Taipei | 161 |
 | 65 | 1.38 | Andorra | 8 |
 | 66 | 1.38 | Nigeria | 8 |
@@ -116,7 +116,7 @@
 | 90 | 1.22 | United Arab Emirates | 23 |
 | 91 | 1.18 | Armenia | 11 |
 | 92 | 1.18 | Japan | 266 |
-| 93 | 1.17 | Canada | 483 |
+| 93 | 1.17 | Canada | 484 |
 | 94 | 1.17 | Tunisia | 24 |
 | 95 | 1.16 | United States | 3877 |
 | 96 | 1.15 | Mongolia | 52 |

@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 31 January 2026*
+*Updated on  1 February 2026*
 
 | Rank | Countries | Person |
 | :--- | ---: | :--- |
@@ -69,26 +69,26 @@
 | 63 | 19 | [Gábor Szabó](https://www.worldcubeassociation.org/persons/2005SZAB02) |
 | 64 | 19 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |
 | 65 | 19 | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) |
-| 66 | 19 | [Erik Tjong Kim Sang](https://www.worldcubeassociation.org/persons/2018SANG01) |
-| 67 | 19 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) |
-| 68 | 19 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
-| 69 | 18 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) |
-| 70 | 18 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |
-| 71 | 18 | [Eddy Deturche](https://www.worldcubeassociation.org/persons/2014DETU01) |
-| 72 | 18 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
-| 73 | 18 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
-| 74 | 18 | [Jochen Bauer](https://www.worldcubeassociation.org/persons/2018BAUE04) |
-| 75 | 18 | [Lir Ukaj](https://www.worldcubeassociation.org/persons/2016UKAJ01) |
-| 76 | 18 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
-| 77 | 18 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) |
-| 78 | 18 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
-| 79 | 18 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) |
-| 80 | 18 | [Hongyuan Fu (傅泓源)](https://www.worldcubeassociation.org/persons/2017FUHO01) |
-| 81 | 18 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) |
-| 82 | 18 | [Filippo Brancaleoni](https://www.worldcubeassociation.org/persons/2008BRAN01) |
-| 83 | 18 | [Hunor Mogyorósi](https://www.worldcubeassociation.org/persons/2015MOGY01) |
-| 84 | 18 | [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) |
-| 85 | 18 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) |
+| 66 | 19 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) |
+| 67 | 19 | [Erik Tjong Kim Sang](https://www.worldcubeassociation.org/persons/2018SANG01) |
+| 68 | 19 | [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02) |
+| 69 | 19 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
+| 70 | 18 | [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01) |
+| 71 | 18 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) |
+| 72 | 18 | [Eddy Deturche](https://www.worldcubeassociation.org/persons/2014DETU01) |
+| 73 | 18 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) |
+| 74 | 18 | [François Courtès](https://www.worldcubeassociation.org/persons/2008COUR01) |
+| 75 | 18 | [Jochen Bauer](https://www.worldcubeassociation.org/persons/2018BAUE04) |
+| 76 | 18 | [Lir Ukaj](https://www.worldcubeassociation.org/persons/2016UKAJ01) |
+| 77 | 18 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
+| 78 | 18 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) |
+| 79 | 18 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
+| 80 | 18 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) |
+| 81 | 18 | [Hongyuan Fu (傅泓源)](https://www.worldcubeassociation.org/persons/2017FUHO01) |
+| 82 | 18 | [Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01) |
+| 83 | 18 | [Filippo Brancaleoni](https://www.worldcubeassociation.org/persons/2008BRAN01) |
+| 84 | 18 | [Hunor Mogyorósi](https://www.worldcubeassociation.org/persons/2015MOGY01) |
+| 85 | 18 | [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01) |
 | 86 | 18 | [Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01) |
 | 87 | 17 | [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) |
 | 88 | 17 | [Fabian Settelen](https://www.worldcubeassociation.org/persons/2015SETT01) |
