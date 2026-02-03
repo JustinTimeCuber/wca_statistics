@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on  1 February 2026*
+*Updated on  2 February 2026*
 
 
 ### World
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.46 | World | 16793 |
+| 1 | 1.46 | World | 16803 |
 
 ### Continents
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.71 | Europe | 5445 |
+| 1 | 1.71 | Europe | 5447 |
 | 2 | 1.48 | Oceania | 731 |
-| 3 | 1.46 | South America | 2138 |
-| 4 | 1.41 | Asia | 3420 |
+| 3 | 1.46 | South America | 2139 |
+| 4 | 1.41 | Asia | 3421 |
 | 5 | 1.33 | Africa | 219 |
-| 6 | 1.21 | North America | 4840 |
+| 6 | 1.21 | North America | 4846 |
 
 ### Countries
 
@@ -40,7 +40,7 @@
 | 14 | 1.86 | Croatia | 35 |
 | 15 | 1.85 | Norway | 166 |
 | 16 | 1.84 | Thailand | 96 |
-| 17 | 1.84 | Spain | 472 |
+| 17 | 1.84 | Spain | 474 |
 | 18 | 1.83 | Serbia | 30 |
 | 19 | 1.82 | Finland | 183 |
 | 20 | 1.81 | United Kingdom | 343 |
@@ -61,7 +61,7 @@
 | 35 | 1.67 | Belgium | 108 |
 | 36 | 1.67 | Madagascar | 3 |
 | 37 | 1.67 | North Macedonia | 6 |
-| 38 | 1.66 | Brazil | 664 |
+| 38 | 1.66 | Brazil | 665 |
 | 39 | 1.63 | Italy | 285 |
 | 40 | 1.60 | Iran | 43 |
 | 41 | 1.60 | Indonesia | 249 |
@@ -111,14 +111,14 @@
 | 85 | 1.25 | Chile | 163 |
 | 86 | 1.25 | El Salvador | 40 |
 | 87 | 1.24 | China | 713 |
-| 88 | 1.24 | Singapore | 101 |
+| 88 | 1.24 | Singapore | 102 |
 | 89 | 1.23 | Panama | 30 |
 | 90 | 1.22 | United Arab Emirates | 23 |
 | 91 | 1.18 | Armenia | 11 |
 | 92 | 1.18 | Japan | 266 |
-| 93 | 1.17 | Canada | 484 |
+| 93 | 1.17 | Canada | 486 |
 | 94 | 1.17 | Tunisia | 24 |
-| 95 | 1.16 | United States | 3877 |
+| 95 | 1.16 | United States | 3881 |
 | 96 | 1.15 | Mongolia | 52 |
 | 97 | 1.12 | Cyprus | 16 |
 | 98 | 1.12 | Azerbaijan | 49 |
