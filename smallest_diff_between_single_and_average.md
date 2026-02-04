@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  2 February 2026*
+*Updated on  4 February 2026*
 
 
 ### Rubik's Cube
@@ -1251,7 +1251,7 @@
 | 86 | 0.08 | [Ordway Persyn](https://www.worldcubeassociation.org/persons/2016PERS01) | 4.97 | 5.05 | [Red Stick Spring 2024](https://www.worldcubeassociation.org/competitions/RedStickSpring2024/results/by_person#2016PERS01) |
 | 87 | 0.08 | [Andrés Hisashi Suzuki Cabrera](https://www.worldcubeassociation.org/persons/2016SUZU03) | 5.03 | 5.11 | [Chambea en Tu PB Lima 2024](https://www.worldcubeassociation.org/competitions/ChambeaenTuPBLima2024/results/by_person#2016SUZU03) |
 | 88 | 0.08 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | 5.13 | 5.21 | [X-Madrid Open 2022](https://www.worldcubeassociation.org/competitions/XMadridOpen2022/results/by_person#2018CAST11) |
-| 89 | 0.08 | [Ralf Marcus Veedler](https://www.worldcubeassociation.org/persons/2017VEED01) | 5.17 | 5.25 | [Tallinn Open 2024](https://www.worldcubeassociation.org/competitions/TallinnOpen2024/results/by_person#2017VEED01) |
+| 89 | 0.08 | [Sofia Veedler](https://www.worldcubeassociation.org/persons/2017VEED01) | 5.17 | 5.25 | [Tallinn Open 2024](https://www.worldcubeassociation.org/competitions/TallinnOpen2024/results/by_person#2017VEED01) |
 | 90 | 0.08 | [Jiejie Du (杜杰杰)](https://www.worldcubeassociation.org/persons/2010DUJI01) | 5.57 | 5.65 | [Hefei Open 2015](https://www.worldcubeassociation.org/competitions/HefeiOpen2015/results/by_person#2010DUJI01) |
 | 91 | 0.08 | [Matyáš Krejcárek](https://www.worldcubeassociation.org/persons/2023KREJ01) | 5.98 | 6.06 | [Franconia XX 2025](https://www.worldcubeassociation.org/competitions/FranconiaXX2025/results/by_person#2023KREJ01) |
 | 92 | 0.08 | [Andrii Vasyliev](https://www.worldcubeassociation.org/persons/2018VASY01) | 6.12 | 6.20 | [Horse City 2019](https://www.worldcubeassociation.org/competitions/HorseCity2019/results/by_person#2018VASY01) |

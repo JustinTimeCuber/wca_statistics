@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on  2 February 2026*
+*Updated on  4 February 2026*
 
 
 ### Rubik's Cube
@@ -599,39 +599,39 @@
 | 65 | 25.90 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | [Crewe Spring 2025](https://www.worldcubeassociation.org/competitions/CreweSpring2025/results/by_person#2018GRAI01) |
 | 66 | 25.95 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | [Deqing Spring 2025](https://www.worldcubeassociation.org/competitions/DeqingSpring2025/results/by_person#2016WUZI04) |
 | 67 | 25.96 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | [Zhengzhou Zeal 2025](https://www.worldcubeassociation.org/competitions/ZhengzhouZeal2025/results/by_person#2016WUZI04) |
-| 68 | 25.97 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Singapore Max 2024](https://www.worldcubeassociation.org/competitions/SingaporeMax2024/results/by_person#2016YONG02) |
-| 69 | 25.97 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [SAC 2024](https://www.worldcubeassociation.org/competitions/SAC2024/results/by_person#2018LOPE22) |
-| 70 | 25.98 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Villa Riachuelo al Cubo 2025](https://www.worldcubeassociation.org/competitions/VillaRiachueloalCubo2025/results/by_person#2018LOPE22) |
-| 71 | 26.01 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [Central Asian Tour Bishkek 2025](https://www.worldcubeassociation.org/competitions/CentralAsianTourBishkek2025/results/by_person#2019TARA09) |
-| 72 | 26.04 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Dublin Pick 'N' Mix 2026](https://www.worldcubeassociation.org/competitions/DublinPickNMix2026/results/by_person#2023MARA10) |
-| 73 | 26.05 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2018LOPE22) |
-| 74 | 26.08 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [Uzbekistan Nationals 2024](https://www.worldcubeassociation.org/competitions/UzbekistanNationals2024/results/by_person#2019TARA09) |
-| 75 | 26.12 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | [Singapore Independence Day 2025](https://www.worldcubeassociation.org/competitions/SingaporeIndependenceDay2025/results/by_person#2016WUZI04) |
+| 68 | 25.96 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Di Tella Arranca 2026](https://www.worldcubeassociation.org/competitions/DiTellaArranca2026/results/by_person#2018LOPE22) |
+| 69 | 25.97 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Singapore Max 2024](https://www.worldcubeassociation.org/competitions/SingaporeMax2024/results/by_person#2016YONG02) |
+| 70 | 25.97 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [SAC 2024](https://www.worldcubeassociation.org/competitions/SAC2024/results/by_person#2018LOPE22) |
+| 71 | 25.98 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Villa Riachuelo al Cubo 2025](https://www.worldcubeassociation.org/competitions/VillaRiachueloalCubo2025/results/by_person#2018LOPE22) |
+| 72 | 26.01 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [Central Asian Tour Bishkek 2025](https://www.worldcubeassociation.org/competitions/CentralAsianTourBishkek2025/results/by_person#2019TARA09) |
+| 73 | 26.04 | [Stephanie Rose Martin](https://www.worldcubeassociation.org/persons/2023MARA10) | [Dublin Pick 'N' Mix 2026](https://www.worldcubeassociation.org/competitions/DublinPickNMix2026/results/by_person#2023MARA10) |
+| 74 | 26.05 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2018LOPE22) |
+| 75 | 26.08 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [Uzbekistan Nationals 2024](https://www.worldcubeassociation.org/competitions/UzbekistanNationals2024/results/by_person#2019TARA09) |
 | 76 | 26.12 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | [Singapore Independence Day 2025](https://www.worldcubeassociation.org/competitions/SingaporeIndependenceDay2025/results/by_person#2016WUZI04) |
-| 77 | 26.12 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Claret Cubea BA 2025](https://www.worldcubeassociation.org/competitions/ClaretCubeaBA2025/results/by_person#2018LOPE22) |
-| 78 | 26.13 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2018LOPE22) |
-| 79 | 26.16 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2018GRAI01) |
-| 80 | 26.16 | [Alexander Vujcich](https://www.worldcubeassociation.org/persons/2019VUJC01) | [NZ Cubing Decathlon 2025](https://www.worldcubeassociation.org/competitions/NZCubingDecathlon2025/results/by_person#2019VUJC01) |
-| 81 | 26.18 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | [Beijing Winter 2026](https://www.worldcubeassociation.org/competitions/BeijingWinter2026/results/by_person#2016WUZI04) |
-| 82 | 26.19 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [Central Asian Tour Astana 2025](https://www.worldcubeassociation.org/competitions/CentralAsianTourAstana2025/results/by_person#2019TARA09) |
-| 83 | 26.21 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Abierto del Mirador 2024](https://www.worldcubeassociation.org/competitions/AbiertodelMiradorenPrimavera2024/results/by_person#2018LOPE22) |
-| 84 | 26.21 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Warm Up Di Tella 2025](https://www.worldcubeassociation.org/competitions/WarmUpDiTella2025/results/by_person#2018LOPE22) |
-| 85 | 26.24 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Quilmes Aleatorio 2025](https://www.worldcubeassociation.org/competitions/QuilmesAleatorio2025/results/by_person#2018LOPE22) |
-| 86 | 26.25 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Singapore Masters 2024](https://www.worldcubeassociation.org/competitions/SingaporeMasters2024/results/by_person#2016YONG02) |
-| 87 | 26.25 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Warm Up Di Tella 2025](https://www.worldcubeassociation.org/competitions/WarmUpDiTella2025/results/by_person#2018LOPE22) |
-| 88 | 26.25 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [Central Asian Tour Astana 2025](https://www.worldcubeassociation.org/competitions/CentralAsianTourAstana2025/results/by_person#2019TARA09) |
-| 89 | 26.25 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [gateway KLIA2 Cube Open 2025](https://www.worldcubeassociation.org/competitions/gatewayKLIA2CubeOpen2025/results/by_person#2019TARA09) |
-| 90 | 26.27 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Penang Cube Masters 2023](https://www.worldcubeassociation.org/competitions/PenangCubeMasters2023/results/by_person#2016YONG02) |
-| 91 | 26.27 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Monte Grande Cubea 2025](https://www.worldcubeassociation.org/competitions/MonteGrandeCubea2025/results/by_person#2018LOPE22) |
-| 92 | 26.27 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2018LOPE22) |
-| 93 | 26.28 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Singapore Freeze 2024](https://www.worldcubeassociation.org/competitions/SingaporeFreeze2024/results/by_person#2016YONG02) |
-| 94 | 26.29 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | [Guangzhou Special 2025](https://www.worldcubeassociation.org/competitions/GuangzhouSpecial2025/results/by_person#2016WUZI04) |
-| 95 | 26.29 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Berisso al Cubo 2023](https://www.worldcubeassociation.org/competitions/BerissoAlCubo2023/results/by_person#2018LOPE22) |
-| 96 | 26.29 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Monte Grande Cubea 2025](https://www.worldcubeassociation.org/competitions/MonteGrandeCubea2025/results/by_person#2018LOPE22) |
-| 97 | 26.30 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2019TARA09) |
-| 98 | 26.31 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Nacionales Argentinas 2023](https://www.worldcubeassociation.org/competitions/NacionalesArgentinas2023/results/by_person#2018LOPE22) |
-| 99 | 26.32 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [NUR Cubing Stars SC 2025](https://www.worldcubeassociation.org/competitions/NURCubingStarsSC2025/results/by_person#2018LOPE22) |
-| 100 | 26.33 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | [Zhengzhou Zeal 2025](https://www.worldcubeassociation.org/competitions/ZhengzhouZeal2025/results/by_person#2016WUZI04) |
+| 77 | 26.12 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | [Singapore Independence Day 2025](https://www.worldcubeassociation.org/competitions/SingaporeIndependenceDay2025/results/by_person#2016WUZI04) |
+| 78 | 26.12 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Claret Cubea BA 2025](https://www.worldcubeassociation.org/competitions/ClaretCubeaBA2025/results/by_person#2018LOPE22) |
+| 79 | 26.13 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2018LOPE22) |
+| 80 | 26.16 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2018GRAI01) |
+| 81 | 26.16 | [Alexander Vujcich](https://www.worldcubeassociation.org/persons/2019VUJC01) | [NZ Cubing Decathlon 2025](https://www.worldcubeassociation.org/competitions/NZCubingDecathlon2025/results/by_person#2019VUJC01) |
+| 82 | 26.18 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | [Beijing Winter 2026](https://www.worldcubeassociation.org/competitions/BeijingWinter2026/results/by_person#2016WUZI04) |
+| 83 | 26.19 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [Central Asian Tour Astana 2025](https://www.worldcubeassociation.org/competitions/CentralAsianTourAstana2025/results/by_person#2019TARA09) |
+| 84 | 26.21 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Abierto del Mirador 2024](https://www.worldcubeassociation.org/competitions/AbiertodelMiradorenPrimavera2024/results/by_person#2018LOPE22) |
+| 85 | 26.21 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Warm Up Di Tella 2025](https://www.worldcubeassociation.org/competitions/WarmUpDiTella2025/results/by_person#2018LOPE22) |
+| 86 | 26.24 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Quilmes Aleatorio 2025](https://www.worldcubeassociation.org/competitions/QuilmesAleatorio2025/results/by_person#2018LOPE22) |
+| 87 | 26.25 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Singapore Masters 2024](https://www.worldcubeassociation.org/competitions/SingaporeMasters2024/results/by_person#2016YONG02) |
+| 88 | 26.25 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Warm Up Di Tella 2025](https://www.worldcubeassociation.org/competitions/WarmUpDiTella2025/results/by_person#2018LOPE22) |
+| 89 | 26.25 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [Central Asian Tour Astana 2025](https://www.worldcubeassociation.org/competitions/CentralAsianTourAstana2025/results/by_person#2019TARA09) |
+| 90 | 26.25 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [gateway KLIA2 Cube Open 2025](https://www.worldcubeassociation.org/competitions/gatewayKLIA2CubeOpen2025/results/by_person#2019TARA09) |
+| 91 | 26.27 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Penang Cube Masters 2023](https://www.worldcubeassociation.org/competitions/PenangCubeMasters2023/results/by_person#2016YONG02) |
+| 92 | 26.27 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Monte Grande Cubea 2025](https://www.worldcubeassociation.org/competitions/MonteGrandeCubea2025/results/by_person#2018LOPE22) |
+| 93 | 26.27 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2018LOPE22) |
+| 94 | 26.28 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | [Singapore Freeze 2024](https://www.worldcubeassociation.org/competitions/SingaporeFreeze2024/results/by_person#2016YONG02) |
+| 95 | 26.29 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) | [Guangzhou Special 2025](https://www.worldcubeassociation.org/competitions/GuangzhouSpecial2025/results/by_person#2016WUZI04) |
+| 96 | 26.29 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Berisso al Cubo 2023](https://www.worldcubeassociation.org/competitions/BerissoAlCubo2023/results/by_person#2018LOPE22) |
+| 97 | 26.29 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Monte Grande Cubea 2025](https://www.worldcubeassociation.org/competitions/MonteGrandeCubea2025/results/by_person#2018LOPE22) |
+| 98 | 26.30 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2019TARA09) |
+| 99 | 26.31 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [Nacionales Argentinas 2023](https://www.worldcubeassociation.org/competitions/NacionalesArgentinas2023/results/by_person#2018LOPE22) |
+| 100 | 26.32 | [Leandro Martín López](https://www.worldcubeassociation.org/persons/2018LOPE22) | [NUR Cubing Stars SC 2025](https://www.worldcubeassociation.org/competitions/NURCubingStarsSC2025/results/by_person#2018LOPE22) |
 
 ### Pyraminx
 
@@ -829,19 +829,19 @@
 | 85 | 2.46 | [Karl Abarquez](https://www.worldcubeassociation.org/persons/2023ABAR02) | [Please Don't Flip Katipunan 2025](https://www.worldcubeassociation.org/competitions/PleaseDontFlipKatipunan2025/results/by_person#2023ABAR02) |
 | 86 | 2.46 | [Max McGill](https://www.worldcubeassociation.org/persons/2023MCGI02) | [KCKC 8 Cubing for Cake 2025](https://www.worldcubeassociation.org/competitions/KCKC8CubingforCake2025/results/by_person#2023MCGI02) |
 | 87 | 2.47 | [Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29) | [Pyraminx in Pewaukee 2024](https://www.worldcubeassociation.org/competitions/PyraminxinPewaukee2024/results/by_person#2018THOM29) |
-| 88 | 2.47 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | [New Zealand Nationals 2025](https://www.worldcubeassociation.org/competitions/NewZealandNationals2025/results/by_person#2022GIBS04) |
-| 89 | 2.48 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Silesian Minx Fest 2025](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2025/results/by_person#2021KASP01) |
-| 90 | 2.48 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | [UCSD Fall 2024](https://www.worldcubeassociation.org/competitions/UCSDFall2024/results/by_person#2021DUNA01) |
-| 91 | 2.48 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | [Southeast Championship 2025](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2025/results/by_person#2021DUNA01) |
-| 92 | 2.48 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2021DUNA01) |
-| 93 | 2.48 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | [A New Year in Auckland 2025](https://www.worldcubeassociation.org/competitions/ANewYearinAuckland2025/results/by_person#2022GIBS04) |
-| 94 | 2.48 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | [Queenspark O'Clock 2025](https://www.worldcubeassociation.org/competitions/QueensparkOClock2025/results/by_person#2022GIBS04) |
+| 88 | 2.47 | [Ivan ThanhDanh Duong](https://www.worldcubeassociation.org/persons/2022DUON09) | [North Star MN 2026](https://www.worldcubeassociation.org/competitions/NorthStarMN2026/results/by_person#2022DUON09) |
+| 89 | 2.47 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | [New Zealand Nationals 2025](https://www.worldcubeassociation.org/competitions/NewZealandNationals2025/results/by_person#2022GIBS04) |
+| 90 | 2.48 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Silesian Minx Fest 2025](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2025/results/by_person#2021KASP01) |
+| 91 | 2.48 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | [UCSD Fall 2024](https://www.worldcubeassociation.org/competitions/UCSDFall2024/results/by_person#2021DUNA01) |
+| 92 | 2.48 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | [Southeast Championship 2025](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2025/results/by_person#2021DUNA01) |
+| 93 | 2.48 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2021DUNA01) |
+| 94 | 2.48 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | [A New Year in Auckland 2025](https://www.worldcubeassociation.org/competitions/ANewYearinAuckland2025/results/by_person#2022GIBS04) |
 | 95 | 2.48 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | [Queenspark O'Clock 2025](https://www.worldcubeassociation.org/competitions/QueensparkOClock2025/results/by_person#2022GIBS04) |
-| 96 | 2.48 | [Karl Abarquez](https://www.worldcubeassociation.org/persons/2023ABAR02) | [Rizal Raise a Silence 2025](https://www.worldcubeassociation.org/competitions/RizalRaiseaSilence2025/results/by_person#2023ABAR02) |
-| 97 | 2.49 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | [Temecula Valley Winter 2025](https://www.worldcubeassociation.org/competitions/TemeculaValleyWinter2025/results/by_person#2021DUNA01) |
-| 98 | 2.49 | [Kyle Jones](https://www.worldcubeassociation.org/persons/2022JONE11) | [Coffs Big Banana Bonanza 2025](https://www.worldcubeassociation.org/competitions/CoffsBigBananaBonanza2025/results/by_person#2022JONE11) |
-| 99 | 2.49 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | [Auckland Autumn 2025](https://www.worldcubeassociation.org/competitions/AucklandAutumn2025/results/by_person#2022GIBS04) |
-| 100 | 2.50 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Silesian Minx Fest 2025](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2025/results/by_person#2021KASP01) |
+| 96 | 2.48 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) | [Queenspark O'Clock 2025](https://www.worldcubeassociation.org/competitions/QueensparkOClock2025/results/by_person#2022GIBS04) |
+| 97 | 2.48 | [Karl Abarquez](https://www.worldcubeassociation.org/persons/2023ABAR02) | [Rizal Raise a Silence 2025](https://www.worldcubeassociation.org/competitions/RizalRaiseaSilence2025/results/by_person#2023ABAR02) |
+| 98 | 2.49 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | [Temecula Valley Winter 2025](https://www.worldcubeassociation.org/competitions/TemeculaValleyWinter2025/results/by_person#2021DUNA01) |
+| 99 | 2.49 | [Kyle Jones](https://www.worldcubeassociation.org/persons/2022JONE11) | [Coffs Big Banana Bonanza 2025](https://www.worldcubeassociation.org/competitions/CoffsBigBananaBonanza2025/results/by_person#2022JONE11) |
+| 100 | 2.49 | [Fiona Bao](https://www.worldcubeassociation.org/persons/2022BAOF01) | [Fredericksburg Winter AM 2026](https://www.worldcubeassociation.org/competitions/FredericksburgWinterAM2026/results/by_person#2022BAOF01) |
 
 ### Skewb
 
