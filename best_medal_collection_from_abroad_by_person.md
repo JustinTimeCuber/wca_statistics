@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on  4 February 2026*
+*Updated on  7 February 2026*
 
 | Rank | Person | Gold | Silver | Bronze | Total |
 | :--- | :--- | :--: | :--: | :--: | :--: |
@@ -283,24 +283,24 @@
 | 276 | [Niko Paavilainen](https://www.worldcubeassociation.org/persons/2011PAAV01) | **16** | 4 | 2 | 22 |
 | 277 | [Jens Haber](https://www.worldcubeassociation.org/persons/2018HABE02) | **16** | 4 | 1 | 21 |
 | 278 | [Anson Lin](https://www.worldcubeassociation.org/persons/2011LINA01) | **16** | 3 | 1 | 20 |
-| 279 | [Nikhil Soares](https://www.worldcubeassociation.org/persons/2015SOAR01) | **15** | 34 | 21 | 70 |
-| 280 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **15** | 31 | 37 | 83 |
-| 281 | [Thiago Han](https://www.worldcubeassociation.org/persons/2022HANT01) | **15** | 24 | 16 | 55 |
-| 282 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **15** | 23 | 19 | 57 |
-| 283 | [Dmitry Zvyagintsev](https://www.worldcubeassociation.org/persons/2011ZVYA01) | **15** | 21 | 14 | 50 |
-| 284 | [Chao-Che Chung (鍾肇哲)](https://www.worldcubeassociation.org/persons/2012CHON03) | **15** | 19 | 16 | 50 |
-| 285 | [Alexandre Carlier](https://www.worldcubeassociation.org/persons/2012CARL03) | **15** | 18 | 13 | 46 |
-| 286 | [Matej Marčok](https://www.worldcubeassociation.org/persons/2017MARC22) | **15** | 17 | 11 | 43 |
-| 287 | [Darren Siew Ee Yaang (蕭奕暘)](https://www.worldcubeassociation.org/persons/2009SIEW01) | **15** | 17 | 9 | 41 |
-| 288 | [Mika Smulders](https://www.worldcubeassociation.org/persons/2016SMUL01) | **15** | 16 | 13 | 44 |
-| 289 | [Jinseo Hong](https://www.worldcubeassociation.org/persons/2017HONG17) | **15** | 15 | 18 | 48 |
-| 290 | [Thompson Clarke](https://www.worldcubeassociation.org/persons/2008CLAR01) | **15** | 14 | 12 | 41 |
-| 291 | [Kate Grahame](https://www.worldcubeassociation.org/persons/2018GRAH05) | **15** | 11 | 9 | 35 |
-| 292 | [Alvin Cheng Hiu Yeung (鄭曉洋)](https://www.worldcubeassociation.org/persons/2019YEUN01) | **15** | 8 | 4 | 27 |
-| 293 | [Piti Pichedpan (ปิติ พิเชษฐพันธ์)](https://www.worldcubeassociation.org/persons/2009PICH01) | **15** | 7 | 1 | 23 |
-| 294 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | **15** | 5 | 6 | 26 |
-| 295 | [Tianyu Zhao (赵天愉)](https://www.worldcubeassociation.org/persons/2014ZHAO12) | **15** | 3 | 1 | 19 |
-| 296 | [Taj Bressert](https://www.worldcubeassociation.org/persons/2023BRES01) | **15** | 1 | 3 | 19 |
+| 279 | [Taj Bressert](https://www.worldcubeassociation.org/persons/2023BRES01) | **16** | 2 | 7 | 25 |
+| 280 | [Nikhil Soares](https://www.worldcubeassociation.org/persons/2015SOAR01) | **15** | 34 | 21 | 70 |
+| 281 | [Namuun Natsagdorj](https://www.worldcubeassociation.org/persons/2019NATS02) | **15** | 31 | 37 | 83 |
+| 282 | [Thiago Han](https://www.worldcubeassociation.org/persons/2022HANT01) | **15** | 24 | 16 | 55 |
+| 283 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **15** | 23 | 19 | 57 |
+| 284 | [Dmitry Zvyagintsev](https://www.worldcubeassociation.org/persons/2011ZVYA01) | **15** | 21 | 14 | 50 |
+| 285 | [Chao-Che Chung (鍾肇哲)](https://www.worldcubeassociation.org/persons/2012CHON03) | **15** | 19 | 16 | 50 |
+| 286 | [Alexandre Carlier](https://www.worldcubeassociation.org/persons/2012CARL03) | **15** | 18 | 13 | 46 |
+| 287 | [Matej Marčok](https://www.worldcubeassociation.org/persons/2017MARC22) | **15** | 17 | 11 | 43 |
+| 288 | [Darren Siew Ee Yaang (蕭奕暘)](https://www.worldcubeassociation.org/persons/2009SIEW01) | **15** | 17 | 9 | 41 |
+| 289 | [Mika Smulders](https://www.worldcubeassociation.org/persons/2016SMUL01) | **15** | 16 | 13 | 44 |
+| 290 | [Jinseo Hong](https://www.worldcubeassociation.org/persons/2017HONG17) | **15** | 15 | 18 | 48 |
+| 291 | [Thompson Clarke](https://www.worldcubeassociation.org/persons/2008CLAR01) | **15** | 14 | 12 | 41 |
+| 292 | [Kate Grahame](https://www.worldcubeassociation.org/persons/2018GRAH05) | **15** | 11 | 9 | 35 |
+| 293 | [Alvin Cheng Hiu Yeung (鄭曉洋)](https://www.worldcubeassociation.org/persons/2019YEUN01) | **15** | 8 | 4 | 27 |
+| 294 | [Piti Pichedpan (ปิติ พิเชษฐพันธ์)](https://www.worldcubeassociation.org/persons/2009PICH01) | **15** | 7 | 1 | 23 |
+| 295 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | **15** | 5 | 6 | 26 |
+| 296 | [Tianyu Zhao (赵天愉)](https://www.worldcubeassociation.org/persons/2014ZHAO12) | **15** | 3 | 1 | 19 |
 | 297 | [Zhedong Wang (王哲栋)](https://www.worldcubeassociation.org/persons/2015WANG83) | **14** | 38 | 43 | 95 |
 | 298 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) | **14** | 29 | 28 | 71 |
 | 299 | [Zhouheng Sun (孙舟横)](https://www.worldcubeassociation.org/persons/2008SUNZ01) | **14** | 20 | 13 | 47 |

@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on  4 February 2026*
+*Updated on  7 February 2026*
 
 
 ### Rubik's Cube
@@ -1015,8 +1015,8 @@
 | 60 | 56.18 | [Avery Cochran](https://www.worldcubeassociation.org/persons/2022COCH02) |
 | 61 | 56.29 | [Law Chun Man (羅晉珉)](https://www.worldcubeassociation.org/persons/2019MANL01) |
 | 62 | 56.34 | [Yan Luk (陸昕)](https://www.worldcubeassociation.org/persons/2019YANL01) |
-| 63 | 56.44 | [Yuta Kokubu (國分優太)](https://www.worldcubeassociation.org/persons/2024KOKU01) |
-| 64 | 56.44 | [Ryunosuke Akiba (秋場竜之介)](https://www.worldcubeassociation.org/persons/2024AKIB01) |
+| 63 | 56.44 | [Ryunosuke Akiba (秋場竜之介)](https://www.worldcubeassociation.org/persons/2024AKIB01) |
+| 64 | 56.44 | [Yuta Kokubu (國分優太)](https://www.worldcubeassociation.org/persons/2024KOKU01) |
 | 65 | 56.68 | [Breton MacDonald](https://www.worldcubeassociation.org/persons/2019MACD02) |
 | 66 | 57.11 | [Yuhang Wang (王宇航)](https://www.worldcubeassociation.org/persons/2024WANG70) |
 | 67 | 57.16 | [Julian Miguel Bata](https://www.worldcubeassociation.org/persons/2017BATA02) |

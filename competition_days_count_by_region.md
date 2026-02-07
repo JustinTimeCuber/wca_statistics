@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on  4 February 2026*
+*Updated on  7 February 2026*
 
 
 ### World
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.46 | World | 16837 |
+| 1 | 1.46 | World | 16858 |
 
 ### Continents
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.71 | Europe | 5458 |
+| 1 | 1.71 | Europe | 5466 |
 | 2 | 1.48 | Oceania | 731 |
-| 3 | 1.46 | South America | 2143 |
-| 4 | 1.40 | Asia | 3430 |
+| 3 | 1.46 | South America | 2149 |
+| 4 | 1.40 | Asia | 3431 |
 | 5 | 1.33 | Africa | 219 |
-| 6 | 1.21 | North America | 4856 |
+| 6 | 1.21 | North America | 4862 |
 
 ### Countries
 
@@ -27,7 +27,7 @@
 | 1 | 2.04 | Uzbekistan | 26 |
 | 2 | 2.00 | Kazakhstan | 62 |
 | 3 | 2.00 | Liechtenstein | 3 |
-| 4 | 1.94 | Germany | 286 |
+| 4 | 1.94 | Germany | 287 |
 | 5 | 1.93 | Belarus | 42 |
 | 6 | 1.92 | Russia | 220 |
 | 7 | 1.92 | Turkey | 133 |
@@ -40,7 +40,7 @@
 | 14 | 1.86 | Croatia | 35 |
 | 15 | 1.85 | Norway | 166 |
 | 16 | 1.84 | Thailand | 96 |
-| 17 | 1.84 | Spain | 474 |
+| 17 | 1.84 | Spain | 476 |
 | 18 | 1.83 | Serbia | 30 |
 | 19 | 1.83 | Finland | 185 |
 | 20 | 1.81 | United Kingdom | 343 |
@@ -49,19 +49,19 @@
 | 23 | 1.79 | Mexico | 255 |
 | 24 | 1.79 | Slovenia | 43 |
 | 25 | 1.76 | Switzerland | 172 |
-| 26 | 1.76 | Guatemala | 62 |
-| 27 | 1.76 | Austria | 37 |
-| 28 | 1.75 | Luxembourg | 4 |
-| 29 | 1.75 | Sri Lanka | 16 |
+| 26 | 1.76 | Austria | 37 |
+| 27 | 1.75 | Luxembourg | 4 |
+| 28 | 1.75 | Sri Lanka | 16 |
+| 29 | 1.75 | Guatemala | 63 |
 | 30 | 1.73 | Ukraine | 150 |
-| 31 | 1.72 | Poland | 597 |
+| 31 | 1.72 | Poland | 601 |
 | 32 | 1.71 | Ireland | 94 |
 | 33 | 1.68 | Hungary | 73 |
-| 34 | 1.68 | Argentina | 120 |
+| 34 | 1.68 | Argentina | 121 |
 | 35 | 1.67 | Belgium | 108 |
 | 36 | 1.67 | Madagascar | 3 |
 | 37 | 1.67 | North Macedonia | 6 |
-| 38 | 1.66 | Brazil | 665 |
+| 38 | 1.66 | Brazil | 670 |
 | 39 | 1.63 | Italy | 286 |
 | 40 | 1.60 | Iran | 43 |
 | 41 | 1.60 | Indonesia | 249 |
@@ -74,7 +74,7 @@
 | 48 | 1.55 | Greece | 47 |
 | 49 | 1.55 | Bulgaria | 29 |
 | 50 | 1.55 | Denmark | 237 |
-| 51 | 1.54 | India | 736 |
+| 51 | 1.54 | India | 737 |
 | 52 | 1.53 | South Africa | 109 |
 | 53 | 1.51 | Bolivia | 164 |
 | 54 | 1.51 | Malaysia | 127 |
@@ -102,7 +102,7 @@
 | 76 | 1.31 | Kuwait | 13 |
 | 77 | 1.30 | Bahrain | 10 |
 | 78 | 1.30 | Uruguay | 61 |
-| 79 | 1.29 | Portugal | 58 |
+| 79 | 1.29 | Portugal | 59 |
 | 80 | 1.29 | Hong Kong, China | 28 |
 | 81 | 1.28 | Philippines | 394 |
 | 82 | 1.28 | Colombia | 509 |
@@ -118,7 +118,7 @@
 | 92 | 1.18 | Japan | 267 |
 | 93 | 1.17 | Canada | 486 |
 | 94 | 1.17 | Tunisia | 24 |
-| 95 | 1.16 | United States | 3891 |
+| 95 | 1.16 | United States | 3896 |
 | 96 | 1.15 | Mongolia | 52 |
 | 97 | 1.12 | Cyprus | 16 |
 | 98 | 1.12 | Azerbaijan | 49 |
