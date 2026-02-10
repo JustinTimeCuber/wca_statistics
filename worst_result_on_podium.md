@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on  7 February 2026*
+*Updated on 10 February 2026*
 
 
 ### Rubik's Cube
@@ -1471,8 +1471,8 @@
 | 96 | [Ali Antar](https://www.worldcubeassociation.org/persons/2019ANTA02) | 45.63 | **1:27.67** | [Egyptian Championship 2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019/results/podiums#esq1) | 3 |
 | 97 | [Jhojan Andres Lombana Garcia](https://www.worldcubeassociation.org/persons/2012GARC04) | 41.15 | **1:27.17** | [Colombia Nationals 2012](https://www.worldcubeassociation.org/competitions/ColombiaNationals2012/results/podiums#esq1) | 3 |
 | 98 | [Jhonatan Emilio Chamalé Yumán](https://www.worldcubeassociation.org/persons/2014YUMA02) | 1:15.83 | **1:27.09** | [GuateRubik 2014](https://www.worldcubeassociation.org/competitions/GuateRubik2014/results/podiums#esq1) | 1 |
-| 99 | [Lucas Garron](https://www.worldcubeassociation.org/persons/2006GARR01) | 1:02.27 | **1:26.96** | [US Nationals 2006](https://www.worldcubeassociation.org/competitions/US2006/results/podiums#esq1) | 1 |
-| 100 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) | 1:10.40 | **1:26.25** | [Czech Open 2006](https://www.worldcubeassociation.org/competitions/CzechOpen2006/results/podiums#esq1) | 3 |
+| 99 | [Ben Van Oosten](https://www.worldcubeassociation.org/persons/2023OOST06) | 1:18.99 | **1:27.06** | [Speedsolving X Pucallpa 2026](https://www.worldcubeassociation.org/competitions/SpeedsolvingXPucallpa2026/results/podiums#esq1) | 2 |
+| 100 | [Lucas Garron](https://www.worldcubeassociation.org/persons/2006GARR01) | 1:02.27 | **1:26.96** | [US Nationals 2006](https://www.worldcubeassociation.org/competitions/US2006/results/podiums#esq1) | 1 |
 
 ### 4x4x4 Blindfolded
 
@@ -1651,38 +1651,38 @@
 | 66 | [Dallas McNeil](https://www.worldcubeassociation.org/persons/2017MCNE01) | **42:02.00** | DNF | [Silent South Australia 2023](https://www.worldcubeassociation.org/competitions/SilentSouthAustralia2023/results/podiums#e555bf) | 3 |
 | 67 | [Billie Hammill](https://www.worldcubeassociation.org/persons/2015HAMM01) | **41:59.00** | DNF | [Stratford-upon-Avon Open 2018](https://www.worldcubeassociation.org/competitions/SUAO2018/results/podiums#e555bf) | 3 |
 | 68 | [Maxim Chechnev](https://www.worldcubeassociation.org/persons/2011CHEC01) | **41:40.00** | DNF | [Kharkiv Winter 2014](https://www.worldcubeassociation.org/competitions/KharkivWinter2014/results/podiums#e555bf) | 1 |
-| 69 | [Marco Giordano](https://www.worldcubeassociation.org/persons/2019GIOR02) | **41:33.00** | DNF | [Italian Championship 2022](https://www.worldcubeassociation.org/competitions/ItalianChampionship2022/results/podiums#e555bf) | 3 |
-| 70 | [Jason Bilgrei](https://www.worldcubeassociation.org/persons/2014BILG01) | **41:29.00** | DNF | [Please Be Quiet WPI Winter 2018](https://www.worldcubeassociation.org/competitions/PleaseBeQuietWPIWinter2018/results/podiums#e555bf) | 3 |
-| 71 | [Davide Arnesano](https://www.worldcubeassociation.org/persons/2018ARNE04) | **41:29.00** | DNF | [Eretum Open 2023](https://www.worldcubeassociation.org/competitions/EretumOpen2023/results/podiums#e555bf) | 2 |
-| 72 | [Lakshmi Sai Srivatsa](https://www.worldcubeassociation.org/persons/2017SRIV11) | **41:24.00** | DNF | [Big N Blind Bangalore April 2024](https://www.worldcubeassociation.org/competitions/BigNBlindBangaloreApril2024/results/podiums#e555bf) | 3 |
-| 73 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) | **41:21.00** | DNF | [Indian Nationals 2014](https://www.worldcubeassociation.org/competitions/IndianNationals2014/results/podiums#e555bf) | 3 |
-| 74 | [Maxim Chechnev](https://www.worldcubeassociation.org/persons/2011CHEC01) | **41:18.00** | DNF | [Minsk Winter 2015](https://www.worldcubeassociation.org/competitions/MinskWinter2015/results/podiums#e555bf) | 2 |
-| 75 | [Vasile Dan](https://www.worldcubeassociation.org/persons/2013VASI02) | **41:12.00** | DNF | [U.R.A. Blind Open 2017](https://www.worldcubeassociation.org/competitions/URABlindOpen2017/results/podiums#e555bf) | 1 |
-| 76 | [Diego Millán Otón](https://www.worldcubeassociation.org/persons/2012OTAN01) | **41:12.00** | DNF | [Murcia Open 2014](https://www.worldcubeassociation.org/competitions/MurciaOpen2014/results/podiums#e555bf) | 1 |
-| 77 | [Tomoaki Okayama (岡山友昭)](https://www.worldcubeassociation.org/persons/2009OKAY01) | **41:04.00** |  | [Asian Championship 2012](https://www.worldcubeassociation.org/competitions/AsianChampionship2012/results/podiums#e555bf) | 1 |
-| 78 | [Alexandre Henrique Afonso Campos](https://www.worldcubeassociation.org/persons/2015CAMP17) | **41:00.00** |  | [Brasileiro 2017](https://www.worldcubeassociation.org/competitions/Brasileiro2017/results/podiums#e555bf) | 1 |
-| 79 | [Maxim Chechnev](https://www.worldcubeassociation.org/persons/2011CHEC01) | **40:55.00** | DNF | [FME & Cubo y Calla 2016](https://www.worldcubeassociation.org/competitions/FMECuboyCalla2016/results/podiums#e555bf) | 3 |
-| 80 | [Ryan Fong](https://www.worldcubeassociation.org/persons/2019FONG04) | **40:51.00** | DNF | [Blind Is Back LA 2022](https://www.worldcubeassociation.org/competitions/BlindIsBackLA2022/results/podiums#e555bf) | 3 |
-| 81 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) | **40:45.00** |  | [Belgian Open 2008](https://www.worldcubeassociation.org/competitions/BelgianOpen2008/results/podiums#e555bf) | 1 |
-| 82 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | **40:32.00** |  | [Bristol Spring 2010](https://www.worldcubeassociation.org/competitions/BristolSpring2010/results/podiums#e555bf) | 1 |
-| 83 | [Yuxin Wang (王宇欣)](https://www.worldcubeassociation.org/persons/2009WANG62) | **40:25.00** | DNF | [Beijing 2013](https://www.worldcubeassociation.org/competitions/BeijingWinterOpen2013/results/podiums#e555bf) | 1 |
-| 84 | [Maxim Chechnev](https://www.worldcubeassociation.org/persons/2011CHEC01) | **40:23.00** | DNF | [MCO 2016](https://www.worldcubeassociation.org/competitions/MoscowChristmasOpen2016/results/podiums#e555bf) | 2 |
-| 85 | [Tomoaki Okayama (岡山友昭)](https://www.worldcubeassociation.org/persons/2009OKAY01) | **40:20.00** | DNF | [Cube Camp in Kanazawa 2017](https://www.worldcubeassociation.org/competitions/CubeCampinKanazawa2017/results/podiums#e555bf) | 2 |
-| 86 | [Martin Fronescu](https://www.worldcubeassociation.org/persons/2013FRON01) | **40:15.00** | DNF | [Romanian Nationals 2025](https://www.worldcubeassociation.org/competitions/RomanianNationals2025/results/podiums#e555bf) | 2 |
-| 87 | [Tripp Peters](https://www.worldcubeassociation.org/persons/2017PETE04) | **40:13.00** | DNF | [West Seattle Favorites 2019](https://www.worldcubeassociation.org/competitions/WestSeattleFavorites2019/results/podiums#e555bf) | 3 |
-| 88 | [Yong Hyeon Jo (조용현)](https://www.worldcubeassociation.org/persons/2014JOYO01) | **39:50.00** | DNF | [Korean Championship 2017](https://www.worldcubeassociation.org/competitions/KoreanChampionship2017/results/podiums#e555bf) | 3 |
-| 89 | [Billy Jeffs](https://www.worldcubeassociation.org/persons/2012JEFF01) | **39:48.00** | DNF | [Oxford Open 2014](https://www.worldcubeassociation.org/competitions/OxfordOpen2014/results/podiums#e555bf) | 3 |
-| 90 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | **39:45.00** | DNF | [Danish Open 2011](https://www.worldcubeassociation.org/competitions/DanishOpen2011/results/podiums#e555bf) | 1 |
-| 91 | [Yunqi Ouyang (欧阳韵奇)](https://www.worldcubeassociation.org/persons/2007YUNQ01) | **39:42.00** |  | [Hangzhou Open 2010](https://www.worldcubeassociation.org/competitions/HangzhouOpen2010/results/podiums#e555bf) | 1 |
-| 92 | [José David Castiblanco Marin](https://www.worldcubeassociation.org/persons/2012MARI04) | **39:39.00** | DNF | [Avenida Chile XXVII 2025](https://www.worldcubeassociation.org/competitions/AvenidaChileXXVII2025/results/podiums#e555bf) | 2 |
-| 93 | [Renan da Cunha Santos](https://www.worldcubeassociation.org/persons/2017SANT12) | **39:35.00** | DNF | [Big Cubata BLD II 2023](https://www.worldcubeassociation.org/competitions/BigCubataBLDII2023/results/podiums#e555bf) | 1 |
-| 94 | [Brandon Lin (林博浩)](https://www.worldcubeassociation.org/persons/2011LINB01) | **39:32.00** | DNF | [Manhasset Spring 2016](https://www.worldcubeassociation.org/competitions/ManhassetSpring2016/results/podiums#e555bf) | 1 |
-| 95 | [Minhyun Kim (김민현)](https://www.worldcubeassociation.org/persons/2007MINH01) | **39:19.00** | DNF | [PSKubing 2017](https://www.worldcubeassociation.org/competitions/PSKubing2017/results/podiums#e555bf) | 1 |
-| 96 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | **39:12.00** | DNF | [Santa Claus Cube Race 2019](https://www.worldcubeassociation.org/competitions/SantaClausCubeRace2019/results/podiums#e555bf) | 3 |
-| 97 | [Hanns Hub](https://www.worldcubeassociation.org/persons/2013HUBH01) | **39:12.00** | DNF | [Hessen Open 2015](https://www.worldcubeassociation.org/competitions/HessenOpen2015/results/podiums#e555bf) | 1 |
-| 98 | [Komahal Eswaran](https://www.worldcubeassociation.org/persons/2022ESWA01) | **39:03.00** | DNF | [Puzzling at JHS Aug 2024](https://www.worldcubeassociation.org/competitions/PuzzlingatJHSAug2024/results/podiums#e555bf) | 2 |
-| 99 | [Jesús Lindo García](https://www.worldcubeassociation.org/persons/2013GARC08) | **39:01.00** | DNF | [Parla Open 2023](https://www.worldcubeassociation.org/competitions/ParlaOpen2023/results/podiums#e555bf) | 1 |
-| 100 | [Maxim Chechnev](https://www.worldcubeassociation.org/persons/2011CHEC01) | **38:59.00** | DNF | [Kalmykia Open 2018](https://www.worldcubeassociation.org/competitions/KalmykiaOpen2018/results/podiums#e555bf) | 1 |
+| 69 | [Isai Alejandro Rivera Torres](https://www.worldcubeassociation.org/persons/2024TORR26) | **41:35.00** | DNF | [Pumacubo CDMX 2026](https://www.worldcubeassociation.org/competitions/PumacuboCDMX2026/results/podiums#e555bf) | 3 |
+| 70 | [Marco Giordano](https://www.worldcubeassociation.org/persons/2019GIOR02) | **41:33.00** | DNF | [Italian Championship 2022](https://www.worldcubeassociation.org/competitions/ItalianChampionship2022/results/podiums#e555bf) | 3 |
+| 71 | [Jason Bilgrei](https://www.worldcubeassociation.org/persons/2014BILG01) | **41:29.00** | DNF | [Please Be Quiet WPI Winter 2018](https://www.worldcubeassociation.org/competitions/PleaseBeQuietWPIWinter2018/results/podiums#e555bf) | 3 |
+| 72 | [Davide Arnesano](https://www.worldcubeassociation.org/persons/2018ARNE04) | **41:29.00** | DNF | [Eretum Open 2023](https://www.worldcubeassociation.org/competitions/EretumOpen2023/results/podiums#e555bf) | 2 |
+| 73 | [Lakshmi Sai Srivatsa](https://www.worldcubeassociation.org/persons/2017SRIV11) | **41:24.00** | DNF | [Big N Blind Bangalore April 2024](https://www.worldcubeassociation.org/competitions/BigNBlindBangaloreApril2024/results/podiums#e555bf) | 3 |
+| 74 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) | **41:21.00** | DNF | [Indian Nationals 2014](https://www.worldcubeassociation.org/competitions/IndianNationals2014/results/podiums#e555bf) | 3 |
+| 75 | [Maxim Chechnev](https://www.worldcubeassociation.org/persons/2011CHEC01) | **41:18.00** | DNF | [Minsk Winter 2015](https://www.worldcubeassociation.org/competitions/MinskWinter2015/results/podiums#e555bf) | 2 |
+| 76 | [Vasile Dan](https://www.worldcubeassociation.org/persons/2013VASI02) | **41:12.00** | DNF | [U.R.A. Blind Open 2017](https://www.worldcubeassociation.org/competitions/URABlindOpen2017/results/podiums#e555bf) | 1 |
+| 77 | [Diego Millán Otón](https://www.worldcubeassociation.org/persons/2012OTAN01) | **41:12.00** | DNF | [Murcia Open 2014](https://www.worldcubeassociation.org/competitions/MurciaOpen2014/results/podiums#e555bf) | 1 |
+| 78 | [Tomoaki Okayama (岡山友昭)](https://www.worldcubeassociation.org/persons/2009OKAY01) | **41:04.00** |  | [Asian Championship 2012](https://www.worldcubeassociation.org/competitions/AsianChampionship2012/results/podiums#e555bf) | 1 |
+| 79 | [Alexandre Henrique Afonso Campos](https://www.worldcubeassociation.org/persons/2015CAMP17) | **41:00.00** |  | [Brasileiro 2017](https://www.worldcubeassociation.org/competitions/Brasileiro2017/results/podiums#e555bf) | 1 |
+| 80 | [Maxim Chechnev](https://www.worldcubeassociation.org/persons/2011CHEC01) | **40:55.00** | DNF | [FME & Cubo y Calla 2016](https://www.worldcubeassociation.org/competitions/FMECuboyCalla2016/results/podiums#e555bf) | 3 |
+| 81 | [Ryan Fong](https://www.worldcubeassociation.org/persons/2019FONG04) | **40:51.00** | DNF | [Blind Is Back LA 2022](https://www.worldcubeassociation.org/competitions/BlindIsBackLA2022/results/podiums#e555bf) | 3 |
+| 82 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) | **40:45.00** |  | [Belgian Open 2008](https://www.worldcubeassociation.org/competitions/BelgianOpen2008/results/podiums#e555bf) | 1 |
+| 83 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | **40:32.00** |  | [Bristol Spring 2010](https://www.worldcubeassociation.org/competitions/BristolSpring2010/results/podiums#e555bf) | 1 |
+| 84 | [Yuxin Wang (王宇欣)](https://www.worldcubeassociation.org/persons/2009WANG62) | **40:25.00** | DNF | [Beijing 2013](https://www.worldcubeassociation.org/competitions/BeijingWinterOpen2013/results/podiums#e555bf) | 1 |
+| 85 | [Maxim Chechnev](https://www.worldcubeassociation.org/persons/2011CHEC01) | **40:23.00** | DNF | [MCO 2016](https://www.worldcubeassociation.org/competitions/MoscowChristmasOpen2016/results/podiums#e555bf) | 2 |
+| 86 | [Tomoaki Okayama (岡山友昭)](https://www.worldcubeassociation.org/persons/2009OKAY01) | **40:20.00** | DNF | [Cube Camp in Kanazawa 2017](https://www.worldcubeassociation.org/competitions/CubeCampinKanazawa2017/results/podiums#e555bf) | 2 |
+| 87 | [Martin Fronescu](https://www.worldcubeassociation.org/persons/2013FRON01) | **40:15.00** | DNF | [Romanian Nationals 2025](https://www.worldcubeassociation.org/competitions/RomanianNationals2025/results/podiums#e555bf) | 2 |
+| 88 | [Tripp Peters](https://www.worldcubeassociation.org/persons/2017PETE04) | **40:13.00** | DNF | [West Seattle Favorites 2019](https://www.worldcubeassociation.org/competitions/WestSeattleFavorites2019/results/podiums#e555bf) | 3 |
+| 89 | [Yong Hyeon Jo (조용현)](https://www.worldcubeassociation.org/persons/2014JOYO01) | **39:50.00** | DNF | [Korean Championship 2017](https://www.worldcubeassociation.org/competitions/KoreanChampionship2017/results/podiums#e555bf) | 3 |
+| 90 | [Billy Jeffs](https://www.worldcubeassociation.org/persons/2012JEFF01) | **39:48.00** | DNF | [Oxford Open 2014](https://www.worldcubeassociation.org/competitions/OxfordOpen2014/results/podiums#e555bf) | 3 |
+| 91 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | **39:45.00** | DNF | [Danish Open 2011](https://www.worldcubeassociation.org/competitions/DanishOpen2011/results/podiums#e555bf) | 1 |
+| 92 | [Yunqi Ouyang (欧阳韵奇)](https://www.worldcubeassociation.org/persons/2007YUNQ01) | **39:42.00** |  | [Hangzhou Open 2010](https://www.worldcubeassociation.org/competitions/HangzhouOpen2010/results/podiums#e555bf) | 1 |
+| 93 | [José David Castiblanco Marin](https://www.worldcubeassociation.org/persons/2012MARI04) | **39:39.00** | DNF | [Avenida Chile XXVII 2025](https://www.worldcubeassociation.org/competitions/AvenidaChileXXVII2025/results/podiums#e555bf) | 2 |
+| 94 | [Renan da Cunha Santos](https://www.worldcubeassociation.org/persons/2017SANT12) | **39:35.00** | DNF | [Big Cubata BLD II 2023](https://www.worldcubeassociation.org/competitions/BigCubataBLDII2023/results/podiums#e555bf) | 1 |
+| 95 | [Brandon Lin (林博浩)](https://www.worldcubeassociation.org/persons/2011LINB01) | **39:32.00** | DNF | [Manhasset Spring 2016](https://www.worldcubeassociation.org/competitions/ManhassetSpring2016/results/podiums#e555bf) | 1 |
+| 96 | [Minhyun Kim (김민현)](https://www.worldcubeassociation.org/persons/2007MINH01) | **39:19.00** | DNF | [PSKubing 2017](https://www.worldcubeassociation.org/competitions/PSKubing2017/results/podiums#e555bf) | 1 |
+| 97 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | **39:12.00** | DNF | [Santa Claus Cube Race 2019](https://www.worldcubeassociation.org/competitions/SantaClausCubeRace2019/results/podiums#e555bf) | 3 |
+| 98 | [Hanns Hub](https://www.worldcubeassociation.org/persons/2013HUBH01) | **39:12.00** | DNF | [Hessen Open 2015](https://www.worldcubeassociation.org/competitions/HessenOpen2015/results/podiums#e555bf) | 1 |
+| 99 | [Komahal Eswaran](https://www.worldcubeassociation.org/persons/2022ESWA01) | **39:03.00** | DNF | [Puzzling at JHS Aug 2024](https://www.worldcubeassociation.org/competitions/PuzzlingatJHSAug2024/results/podiums#e555bf) | 2 |
+| 100 | [Jesús Lindo García](https://www.worldcubeassociation.org/persons/2013GARC08) | **39:01.00** | DNF | [Parla Open 2023](https://www.worldcubeassociation.org/competitions/ParlaOpen2023/results/podiums#e555bf) | 1 |
 
 ### 3x3x3 Multi-Blind
 
