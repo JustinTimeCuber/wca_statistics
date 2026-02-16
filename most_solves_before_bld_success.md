@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on 13 February 2026*
+*Updated on 16 February 2026*
 
 
 ### 3x3x3 Blindfolded
@@ -255,7 +255,7 @@
 | 41 | 17 | [Peter Andersson](https://www.worldcubeassociation.org/persons/2013ANDE01) |
 | 42 | 17 | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) |
 | 43 | 17 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) |
-| 44 | 17 | [Benjamin Paul](https://www.worldcubeassociation.org/persons/2014PAUL05) |
+| 44 | 17 | [Bpaul Paul](https://www.worldcubeassociation.org/persons/2014PAUL05) |
 | 45 | 17 | [Vishwa Sankar](https://www.worldcubeassociation.org/persons/2017SANK04) |
 | 46 | 17 | [David Miguel-Santiago](https://www.worldcubeassociation.org/persons/2022MIGU02) |
 | 47 | 17 | [Laura Freitas Martín](https://www.worldcubeassociation.org/persons/2018MART18) |
@@ -529,7 +529,7 @@
 | 110 | 11 | [Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01) |
 | 111 | 11 | [Fletcher Berry](https://www.worldcubeassociation.org/persons/2018BERR01) |
 | 112 | 11 | [Heejun Kim (김희준)](https://www.worldcubeassociation.org/persons/2018KIMH02) |
-| 113 | 11 | [Benjamin Paul](https://www.worldcubeassociation.org/persons/2014PAUL05) |
+| 113 | 11 | [Bpaul Paul](https://www.worldcubeassociation.org/persons/2014PAUL05) |
 | 114 | 11 | [Niklas Thomßen](https://www.worldcubeassociation.org/persons/2021THOM03) |
 | 115 | 11 | [Tien Tran](https://www.worldcubeassociation.org/persons/2018TRAN09) |
 | 116 | 11 | [Chris Nankervis](https://www.worldcubeassociation.org/persons/2016NANK01) |
