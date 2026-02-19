@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on 16 February 2026*
+*Updated on 19 February 2026*
 
 
 ### Rubik's Cube
@@ -1253,16 +1253,16 @@
 | 88 | [Alvaro Javier Gonzalez Vargas](https://www.worldcubeassociation.org/persons/2021VARG02) | 29.71 | **40.10** | [Cartagena Open II 2025](https://www.worldcubeassociation.org/competitions/CartagenaOpenII2025/results/podiums#eclock) | 3 |
 | 89 | [Vitória Gabriele da Silva Figueiredo](https://www.worldcubeassociation.org/persons/2023FIGU18) | 26.45 | **40.01** | [RioMar Fortaleza II 2023](https://www.worldcubeassociation.org/competitions/RioMarFortalezaII2023/results/podiums#eclock) | 3 |
 | 90 | [Zaloa Aguirre](https://www.worldcubeassociation.org/persons/2010AGUI06) | 31.95 | **39.93** | [Iutopia Open 2014](https://www.worldcubeassociation.org/competitions/IutopiaOpen2014/results/podiums#eclock) | 3 |
-| 91 | [Italo Mateus Cardoso Da Silva](https://www.worldcubeassociation.org/persons/2017SILV44) | 30.19 | **39.75** | [VIII CUBIFMA 2023](https://www.worldcubeassociation.org/competitions/VIIICUBIFMA2023/results/podiums#eclock) | 2 |
-| 92 | [Søren Schmidt](https://www.worldcubeassociation.org/persons/2012SCHM07) | 35.30 | **39.47** | [Aarhus Open 2012](https://www.worldcubeassociation.org/competitions/AarhusOpen2012/results/podiums#eclock) | 3 |
-| 93 | [Gustavo Riveiro](https://www.worldcubeassociation.org/persons/2016RIVE01) | 30.59 | **39.35** | [First Cubing 2018](https://www.worldcubeassociation.org/competitions/FirstCubing2018/results/podiums#eclock) | 2 |
-| 94 | [Egor Osintsev](https://www.worldcubeassociation.org/persons/2014OSIN01) | 34.28 | **39.28** | [Ekb Open 2015](https://www.worldcubeassociation.org/competitions/EkbOpen2015/results/podiums#eclock) | 3 |
-| 95 | [Alejandro Lamas Pérez](https://www.worldcubeassociation.org/persons/2006LAMA01) | 14.47 | **38.85** | [Barcelona Open 2008](https://www.worldcubeassociation.org/competitions/BarcelonaOpen2008/results/podiums#eclock) | 3 |
-| 96 | [Oscar Rene Mejia Aguirre](https://www.worldcubeassociation.org/persons/2017AGUI18) | 32.66 | **38.84** | [Tecla Cube Open 2019](https://www.worldcubeassociation.org/competitions/TeclaCubeOpen2019/results/podiums#eclock) | 3 |
-| 97 | [Rodrigo Piaggio Bermudez](https://www.worldcubeassociation.org/persons/2009BERM01) | 34.08 | **38.82** | [Bicentenario Open 2010](https://www.worldcubeassociation.org/competitions/BicentenarioOpen2010/results/podiums#eclock) | 3 |
-| 98 | [Jorge Daniel Quintero Rodriguez](https://www.worldcubeassociation.org/persons/2014RODR04) | 28.71 | **38.73** | [Cubing Mérida 2014](https://www.worldcubeassociation.org/competitions/CubingMerida2014/results/podiums#eclock) | 3 |
-| 99 | [Ian Bourn](https://www.worldcubeassociation.org/persons/2009BOUR01) | 32.93 | **38.13** | [Newark Head to Head 2011](https://www.worldcubeassociation.org/competitions/NewarkH2H2011/results/podiums#eclock) | 3 |
-| 100 | [Greg Austin](https://www.worldcubeassociation.org/persons/2006AUST01) | 28.16 | **38.13** | [Northern Irish Open 2013](https://www.worldcubeassociation.org/competitions/NorthernIrishOpen2013/results/podiums#eclock) | 2 |
+| 91 | [Luís Guilherme V. Miranda](https://www.worldcubeassociation.org/persons/2022MIRA01) | 31.38 | **39.90** | [Folia ao Cubo Sides Manaus 2026](https://www.worldcubeassociation.org/competitions/FoliaaoCuboSidesManaus2026/results/podiums#eclock) | 3 |
+| 92 | [Italo Mateus Cardoso Da Silva](https://www.worldcubeassociation.org/persons/2017SILV44) | 30.19 | **39.75** | [VIII CUBIFMA 2023](https://www.worldcubeassociation.org/competitions/VIIICUBIFMA2023/results/podiums#eclock) | 2 |
+| 93 | [Søren Schmidt](https://www.worldcubeassociation.org/persons/2012SCHM07) | 35.30 | **39.47** | [Aarhus Open 2012](https://www.worldcubeassociation.org/competitions/AarhusOpen2012/results/podiums#eclock) | 3 |
+| 94 | [Gustavo Riveiro](https://www.worldcubeassociation.org/persons/2016RIVE01) | 30.59 | **39.35** | [First Cubing 2018](https://www.worldcubeassociation.org/competitions/FirstCubing2018/results/podiums#eclock) | 2 |
+| 95 | [Egor Osintsev](https://www.worldcubeassociation.org/persons/2014OSIN01) | 34.28 | **39.28** | [Ekb Open 2015](https://www.worldcubeassociation.org/competitions/EkbOpen2015/results/podiums#eclock) | 3 |
+| 96 | [Alejandro Lamas Pérez](https://www.worldcubeassociation.org/persons/2006LAMA01) | 14.47 | **38.85** | [Barcelona Open 2008](https://www.worldcubeassociation.org/competitions/BarcelonaOpen2008/results/podiums#eclock) | 3 |
+| 97 | [Oscar Rene Mejia Aguirre](https://www.worldcubeassociation.org/persons/2017AGUI18) | 32.66 | **38.84** | [Tecla Cube Open 2019](https://www.worldcubeassociation.org/competitions/TeclaCubeOpen2019/results/podiums#eclock) | 3 |
+| 98 | [Rodrigo Piaggio Bermudez](https://www.worldcubeassociation.org/persons/2009BERM01) | 34.08 | **38.82** | [Bicentenario Open 2010](https://www.worldcubeassociation.org/competitions/BicentenarioOpen2010/results/podiums#eclock) | 3 |
+| 99 | [Jorge Daniel Quintero Rodriguez](https://www.worldcubeassociation.org/persons/2014RODR04) | 28.71 | **38.73** | [Cubing Mérida 2014](https://www.worldcubeassociation.org/competitions/CubingMerida2014/results/podiums#eclock) | 3 |
+| 100 | [Ian Bourn](https://www.worldcubeassociation.org/persons/2009BOUR01) | 32.93 | **38.13** | [Newark Head to Head 2011](https://www.worldcubeassociation.org/competitions/NewarkH2H2011/results/podiums#eclock) | 3 |
 
 ### Skewb
 
