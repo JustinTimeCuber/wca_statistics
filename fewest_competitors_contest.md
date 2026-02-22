@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 19 February 2026*
+*Updated on 22 February 2026*
 
 | Rank | Competitors | Competition |
 | :--- | ---: | :--- |
@@ -698,341 +698,343 @@
 | 692 | 13 | [DNFeandont Mexicali 2024](https://www.worldcubeassociation.org/competitions/DNFeandontMexicali2024) |
 | 693 | 13 | [Elmsford Spring 2025](https://www.worldcubeassociation.org/competitions/EfficientInElmsfordSpring2025) |
 | 694 | 13 | [Elmsford Winter 2025](https://www.worldcubeassociation.org/competitions/EfficientinElmsfordWinter2025) |
-| 695 | 13 | [Elyu Sides 2024](https://www.worldcubeassociation.org/competitions/ElyuSides2024) |
-| 696 | 13 | [Fabulous MN Competition 2015](https://www.worldcubeassociation.org/competitions/FabulousMinnesotaCompetition2015) |
-| 697 | 13 | [Farum Meet the Cats 2023](https://www.worldcubeassociation.org/competitions/FarumMeettheCats2023) |
-| 698 | 13 | [FMC and More Maine 2025](https://www.worldcubeassociation.org/competitions/FMCandMoreMaine2025) |
-| 699 | 13 | [FMCats Wisconsin 2023](https://www.worldcubeassociation.org/competitions/FMCatsWisconsin2023) |
-| 700 | 13 | [FMC Colombia VIII 2025](https://www.worldcubeassociation.org/competitions/FMCColombiaVIII2025) |
-| 701 | 13 | [FMCow Ohio State II 2024](https://www.worldcubeassociation.org/competitions/FMCowOhioStateII2024) |
-| 702 | 13 | [FMC Philippines 2025](https://www.worldcubeassociation.org/competitions/FMCPhilippines2025) |
-| 703 | 13 | [FMC Thailand 2022](https://www.worldcubeassociation.org/competitions/FMCThailand2022) |
-| 704 | 13 | [Ganja NxN Day 2025](https://www.worldcubeassociation.org/competitions/GanjaNxNDay2025) |
-| 705 | 13 | [Georgia October Open 2023](https://www.worldcubeassociation.org/competitions/GeorgiaOctoberOpen2023) |
-| 706 | 13 | [Georgia September Open 2023](https://www.worldcubeassociation.org/competitions/GeorgiaSeptemberOpen2023) |
-| 707 | 13 | [German Open 2004](https://www.worldcubeassociation.org/competitions/GermanOpen2004) |
-| 708 | 13 | [Gesté Mentalement Là 2023](https://www.worldcubeassociation.org/competitions/GesteMentalementLa2023) |
-| 709 | 13 | [HDC XIX - Hvidovre FM 2025](https://www.worldcubeassociation.org/competitions/HDCXIXHvidovreFM2025) |
-| 710 | 13 | [HDC XVII - Hvidovre 2025](https://www.worldcubeassociation.org/competitions/HDCXVIIHvidovre2025) |
-| 711 | 13 | [Heartland FMC Championship 2023](https://www.worldcubeassociation.org/competitions/HeartlandFMCChampionship2023) |
-| 712 | 13 | [Hverdagscubing - Fyn 2024](https://www.worldcubeassociation.org/competitions/HverdagscubingFyn2024) |
-| 713 | 13 | [Iceland Open 2014](https://www.worldcubeassociation.org/competitions/IcelandOpen2014) |
-| 714 | 13 | [I Hope It's Solved Edmonton 2019](https://www.worldcubeassociation.org/competitions/IHopeItsSolvedEdmonton2019) |
-| 715 | 13 | [Itapeva 2018](https://www.worldcubeassociation.org/competitions/Itapeva2018) |
-| 716 | 13 | [Jönköpingsligan Final 2023](https://www.worldcubeassociation.org/competitions/JonkopingsliganFinalTattoo2023) |
-| 717 | 13 | [Kailua Liʻi Pōʻakolu 2024](https://www.worldcubeassociation.org/competitions/KailuaLiiPoakolu2024) |
-| 718 | 13 | [KSF Club Pavlodar 2022](https://www.worldcubeassociation.org/competitions/KSFClubPavlodar2022) |
-| 719 | 13 | [KwaZulu-Natal 2019](https://www.worldcubeassociation.org/competitions/KwaZuluNatal2019) |
-| 720 | 13 | [Kyiv Mega Blind Friends 2023](https://www.worldcubeassociation.org/competitions/KyivMegaBlindFriends2023) |
-| 721 | 13 | [Kyiv Side Events 2023](https://www.worldcubeassociation.org/competitions/KyivSideEvents2023) |
-| 722 | 13 | [Manchester 4BLD Day 2024](https://www.worldcubeassociation.org/competitions/Manchester4BLDDay2024) |
-| 723 | 13 | [Mega Big Cubes Bucharest 2024](https://www.worldcubeassociation.org/competitions/MegaBigCubesBucharest2024) |
-| 724 | 13 | [Melbourne Minimal Moves 2022](https://www.worldcubeassociation.org/competitions/MelbourneMinimalMoves2022) |
-| 725 | 13 | [Mental Breakdown Landvetter 2025](https://www.worldcubeassociation.org/competitions/MentalBreakdownLandvetter2025) |
-| 726 | 13 | [Mental Breakdown MN 2018](https://www.worldcubeassociation.org/competitions/MentalBreakdownMinnesota2018) |
-| 727 | 13 | [Mini Mental Milano I 2023](https://www.worldcubeassociation.org/competitions/MiniMentalMilanoI2023) |
-| 728 | 13 | [Mini-sota Wednesday Qual 2025](https://www.worldcubeassociation.org/competitions/MinisotaWednesdayQual2025) |
-| 729 | 13 | [Minnesota Quiet Champs 2024](https://www.worldcubeassociation.org/competitions/MinnesotaQuietChampionship2024) |
-| 730 | 13 | [Mombasa Open 2024](https://www.worldcubeassociation.org/competitions/MombasaOpen2024) |
-| 731 | 13 | [Nod Don Denver 2023](https://www.worldcubeassociation.org/competitions/NodDonDenver2023) |
-| 732 | 13 | [Northern Decathlon 2018](https://www.worldcubeassociation.org/competitions/NorthernAzerbaijanDecathlon2018) |
-| 733 | 13 | [Nyköping Side Events 2023](https://www.worldcubeassociation.org/competitions/NykopingSideEvents2023) |
-| 734 | 13 | [Pasuruan Mini 2014](https://www.worldcubeassociation.org/competitions/PasuruanMiniCompetition2014) |
-| 735 | 13 | [PBQ Colorado 2022](https://www.worldcubeassociation.org/competitions/PBQColorado2022) |
-| 736 | 13 | [PBQ Kuala Lumpur 2024](https://www.worldcubeassociation.org/competitions/PBQKualaLumpur2024) |
-| 737 | 13 | [PBQ Madness in Dobřejovice 2025](https://www.worldcubeassociation.org/competitions/PBQMadnessinDobrejovice2025) |
-| 738 | 13 | [Perth FMC Day 2023](https://www.worldcubeassociation.org/competitions/PerthFMCDay2023) |
-| 739 | 13 | [Please Be Solved Vancouver 2019](https://www.worldcubeassociation.org/competitions/PleaseBeSolvedVancouver2019) |
-| 740 | 13 | [Poções 2023](https://www.worldcubeassociation.org/competitions/Pocoes2023) |
-| 741 | 13 | [Pocos Cupos VII 2024](https://www.worldcubeassociation.org/competitions/PocosCuposVII2024) |
-| 742 | 13 | [Risbjerg September 2025](https://www.worldcubeassociation.org/competitions/RisbjergSeptember2025) |
-| 743 | 13 | [SacQuiet Fall 2023](https://www.worldcubeassociation.org/competitions/SacQuietFall2023) |
-| 744 | 13 | [SacQuiet Spring 2023](https://www.worldcubeassociation.org/competitions/SacQuietSpring2023) |
-| 745 | 13 | [Scottish Championship Blind 2025](https://www.worldcubeassociation.org/competitions/ScottishChampionshipBlindOff2025) |
-| 746 | 13 | [Shamkir Open 2018](https://www.worldcubeassociation.org/competitions/ShamkirOpen2018) |
-| 747 | 13 | [Side Events Finprov 2024](https://www.worldcubeassociation.org/competitions/SideEventsFinprov2024) |
-| 748 | 13 | [Side Events Jus Trufs 2025](https://www.worldcubeassociation.org/competitions/SideEventsJusTrufs2025) |
-| 749 | 13 | [Slovenian FMC Nationals 2025](https://www.worldcubeassociation.org/competitions/SlovenianFMCNationals2025) |
-| 750 | 13 | [Slow Down Swanbourne 2021](https://www.worldcubeassociation.org/competitions/SlowDownSwanbourne2021) |
-| 751 | 13 | [SveKub 2006](https://www.worldcubeassociation.org/competitions/Svekub2006) |
-| 752 | 13 | [Swedish CubeDay 2004](https://www.worldcubeassociation.org/competitions/Sweden2004) |
-| 753 | 13 | [Swedish CubeDay 2005](https://www.worldcubeassociation.org/competitions/SwedishCubeday2005) |
-| 754 | 13 | [Swedish CubeDay 2006](https://www.worldcubeassociation.org/competitions/SwedishCubeDay2006) |
-| 755 | 13 | [Tbilisi August Open 2023](https://www.worldcubeassociation.org/competitions/TbilisiAugustOpen2023) |
-| 756 | 13 | [Tchê Aquieta 2020](https://www.worldcubeassociation.org/competitions/TcheAquieta2020) |
-| 757 | 13 | [Texas FMC Championship 2024](https://www.worldcubeassociation.org/competitions/TexasFMCChampionship2024) |
-| 758 | 13 | [Toronto Blindfolded 2025](https://www.worldcubeassociation.org/competitions/TorontoBlindfolded2025) |
-| 759 | 13 | [Trondheim Mental Breakdown 2024](https://www.worldcubeassociation.org/competitions/TrondheimMentalBreakdown2024) |
-| 760 | 13 | [UCSD Weeknights IV 2025](https://www.worldcubeassociation.org/competitions/UCSDWeeknightsIV2025) |
-| 761 | 13 | [Ugine Jeu et Jouet 2014](https://www.worldcubeassociation.org/competitions/UgineJeuEtJouet2014) |
-| 762 | 13 | [Ulaanbaatar Big Cubes 2024](https://www.worldcubeassociation.org/competitions/UlaanbaatarBigCubes2024) |
-| 763 | 13 | [Uppsalaligan 1: Maple - 2025](https://www.worldcubeassociation.org/competitions/Uppsalaligan1Maple2025) |
-| 764 | 13 | [Uppsalaligan 3: Triangle - 2024](https://www.worldcubeassociation.org/competitions/Uppsalaligan3Triangle2024) |
-| 765 | 13 | [Uppsalaligan 4: Emoji - 2024](https://www.worldcubeassociation.org/competitions/Uppsalaligan4Emoji2024) |
-| 766 | 13 | [Uppsalaligan 4: Fisher - 2025](https://www.worldcubeassociation.org/competitions/Uppsalaligan4Fisher2025) |
-| 767 | 13 | [U.R.A. Big Blind 2018](https://www.worldcubeassociation.org/competitions/URABigBlind2018) |
-| 768 | 13 | [Utah Spring 2011](https://www.worldcubeassociation.org/competitions/UtahSpring2011) |
-| 769 | 13 | [Warsaw FMC Tour Friday 2024](https://www.worldcubeassociation.org/competitions/WarsawFMCTourFriday2024) |
-| 770 | 13 | [Yellowstone 2018](https://www.worldcubeassociation.org/competitions/Yellowstone2018) |
-| 771 | 13 | [Zoioff Campinas 2022](https://www.worldcubeassociation.org/competitions/ZoioffCampinas2022) |
-| 772 | 14 | [ACA League Final 2019](https://www.worldcubeassociation.org/competitions/ACALeagueFinal2019) |
-| 773 | 14 | [Al Zarqa Open 2022](https://www.worldcubeassociation.org/competitions/AlZarqaOpen2022) |
-| 774 | 14 | [Amman Mental Breakdown 2025](https://www.worldcubeassociation.org/competitions/AmmanMentalBreakdown2025) |
-| 775 | 14 | [Ankara June B 2025](https://www.worldcubeassociation.org/competitions/AnkaraJuneB2025) |
-| 776 | 14 | [Auckland Winter Open 2011](https://www.worldcubeassociation.org/competitions/AucklandWinterOpen2011) |
-| 777 | 14 | [Back in Bahia 2022](https://www.worldcubeassociation.org/competitions/BackinBahia2022) |
-| 778 | 14 | [Back to Bishkek 2024](https://www.worldcubeassociation.org/competitions/BacktoBishkek2024) |
-| 779 | 14 | [Baja Warm Up II 2025](https://www.worldcubeassociation.org/competitions/BajaWarmUpII2025) |
-| 780 | 14 | [Barberton Mini 3 2024](https://www.worldcubeassociation.org/competitions/BarbertonMini32024) |
-| 781 | 14 | [Barberton Mini 8 2025](https://www.worldcubeassociation.org/competitions/BarbertonMini82025) |
-| 782 | 14 | [Beijing After Dark 2011](https://www.worldcubeassociation.org/competitions/BeijingAfterDark2011) |
-| 783 | 14 | [Beijing Footsteps 2011](https://www.worldcubeassociation.org/competitions/BeijingFootsteps2011) |
-| 784 | 14 | [Big n Blind Bangalore Feb 2025](https://www.worldcubeassociation.org/competitions/BignBlindBangaloreFeb2025) |
-| 785 | 14 | [Big N Blind Bangalore Jan 2025](https://www.worldcubeassociation.org/competitions/BigNBlindBangaloreJan2025) |
-| 786 | 14 | [Blind in the Water Tower 2019](https://www.worldcubeassociation.org/competitions/BlindintheWaterTower2019) |
-| 787 | 14 | [Bucharest Cubing November 2025](https://www.worldcubeassociation.org/competitions/BucharestCubingNovember2025) |
-| 788 | 14 | [Chattahoochee 2006](https://www.worldcubeassociation.org/competitions/Chattahoochee2006) |
-| 789 | 14 | [Clermont Open 2008](https://www.worldcubeassociation.org/competitions/ClermontOpen2008) |
-| 790 | 14 | [Clifton Park Big Cubes 2025](https://www.worldcubeassociation.org/competitions/CliftonParkBigCubes2025) |
-| 791 | 14 | [CojedesRubik 2016](https://www.worldcubeassociation.org/competitions/CojedesRubik2016) |
-| 792 | 14 | [Colorado Quiet Championship 2024](https://www.worldcubeassociation.org/competitions/ColoradoQuietChampionship2024) |
-| 793 | 14 | [CubingZA FMC Championship 2023](https://www.worldcubeassociation.org/competitions/CubingZAFMCChampionship2023) |
-| 794 | 14 | [Danish Special 2009](https://www.worldcubeassociation.org/competitions/DanishSpecial2009) |
-| 795 | 14 | [Deep South Cape Town 2024](https://www.worldcubeassociation.org/competitions/DeepSouthCapeTown2024) |
-| 796 | 14 | [Denver Open 2010](https://www.worldcubeassociation.org/competitions/DenverOpen2010) |
-| 797 | 14 | [El Pórtico Facatativá 2025](https://www.worldcubeassociation.org/competitions/ElPorticoFacatativa2025) |
-| 798 | 14 | [EM Kval i Farum 2024](https://www.worldcubeassociation.org/competitions/EMKvaliFarum2024) |
-| 799 | 14 | [ERAU Speedcubing Spring 2018](https://www.worldcubeassociation.org/competitions/ERAUSpeedcubingSpring2018) |
-| 800 | 14 | [Erciyes Weekend 2018](https://www.worldcubeassociation.org/competitions/ErciyesWeekend2018) |
-| 801 | 14 | [Estonian Open 2010](https://www.worldcubeassociation.org/competitions/EstonianOpen2010) |
-| 802 | 14 | [Farnworth Spring C 2022](https://www.worldcubeassociation.org/competitions/FarnworthSpringC2022) |
-| 803 | 14 | [Fewest Moves Colombia 2023](https://www.worldcubeassociation.org/competitions/FewestMovesColombia2023) |
-| 804 | 14 | [Fewest Moves Colombia 2024](https://www.worldcubeassociation.org/competitions/FewestMovesColombia2024) |
-| 805 | 14 | [Finnish Champs Qualifier 2025](https://www.worldcubeassociation.org/competitions/FinnishChampsQualifier2025) |
-| 806 | 14 | [FMC and More Minnesota 2025](https://www.worldcubeassociation.org/competitions/FMCandMoreMinnesota2025) |
-| 807 | 14 | [FMC Bulgaria x Romania 2024](https://www.worldcubeassociation.org/competitions/FMCBulgariaxRomania2024) |
-| 808 | 14 | [FMC Colombia IV 2024](https://www.worldcubeassociation.org/competitions/FMCColombiaIV2024) |
-| 809 | 14 | [FMC Colombia IX 2026](https://www.worldcubeassociation.org/competitions/FMCColombiaIX2026) |
-| 810 | 14 | [FMC Lovers Fürth 2026](https://www.worldcubeassociation.org/competitions/FMCLoversFurth2026) |
-| 811 | 14 | [FMCow Ohio State 2023](https://www.worldcubeassociation.org/competitions/FMCowOhioState2023) |
-| 812 | 14 | [FMC Singapore 2022](https://www.worldcubeassociation.org/competitions/FMCSingapore2022) |
-| 813 | 14 | [Furesø Side Events 2025](https://www.worldcubeassociation.org/competitions/FuresoSideEvents2025) |
-| 814 | 14 | [Georgia End of August 2023](https://www.worldcubeassociation.org/competitions/GeorgiaEndofAugust2023) |
-| 815 | 14 | [Guwahati Side Events Quest 2023](https://www.worldcubeassociation.org/competitions/GuwahatiSideEventsQuest2023) |
-| 816 | 14 | [Hawaiʻi Big Island Fall 2025](https://www.worldcubeassociation.org/competitions/HawaiiBigIslandFall2025) |
-| 817 | 14 | [Helsinki Open 2009](https://www.worldcubeassociation.org/competitions/HelsinkiOpen2009) |
-| 818 | 14 | [Hokuriku Eve 2013](https://www.worldcubeassociation.org/competitions/HokurikuEveOpen2013) |
-| 819 | 14 | [Hooshinoo Quiet Day 2024](https://www.worldcubeassociation.org/competitions/HooshinooQuietDay2024) |
-| 820 | 14 | [HDC Dec - Fyn 2024](https://www.worldcubeassociation.org/competitions/HverdagscubingDecemberFyn2024) |
-| 821 | 14 | [I Hope It's Solved EDM 2 2019](https://www.worldcubeassociation.org/competitions/IHopeItsSolvedEDM22019) |
-| 822 | 14 | [Ilo Speedcubing Summer 2026](https://www.worldcubeassociation.org/competitions/IloSpeedcubingSummer2026) |
-| 823 | 14 | [IranFMC 2015](https://www.worldcubeassociation.org/competitions/IranFMC2015) |
-| 824 | 14 | [JL Final: Kebabpizza 2023](https://www.worldcubeassociation.org/competitions/JLFinalKebabpizza2023) |
-| 825 | 14 | [Keep Portland Quiet 2016](https://www.worldcubeassociation.org/competitions/KeepPortlandQuiet2016) |
-| 826 | 14 | [Kinda Maybe Mini-sota 2025](https://www.worldcubeassociation.org/competitions/KindaMaybeMinisota2025) |
-| 827 | 14 | [KoprCube Blind 2025](https://www.worldcubeassociation.org/competitions/KoprCubeBlind2025) |
-| 828 | 14 | [Lex Mini II 2024](https://www.worldcubeassociation.org/competitions/LexMiniII2024) |
-| 829 | 14 | [Lubec Cubec 2025](https://www.worldcubeassociation.org/competitions/LubecCubec2025) |
-| 830 | 14 | [Medan Mini All Events 2019](https://www.worldcubeassociation.org/competitions/MedanMiniAllEvents2019) |
-| 831 | 14 | [Michigan Mini FMC 2023](https://www.worldcubeassociation.org/competitions/MichiganMiniFMC2023) |
-| 832 | 14 | [Mini Mental Breakdown SD 2022](https://www.worldcubeassociation.org/competitions/MiniMentalBreakdownSanDiego2022) |
-| 833 | 14 | [Monastir Spring Open 2019](https://www.worldcubeassociation.org/competitions/MonastirSpringOpen2019) |
-| 834 | 14 | [Nalsar Cube Open D 2025](https://www.worldcubeassociation.org/competitions/NalsarCubeOpenD2025) |
-| 835 | 14 | [Naoned Open 2011](https://www.worldcubeassociation.org/competitions/NaonedOpen2011) |
-| 836 | 14 | [NaticubeBLD 2023](https://www.worldcubeassociation.org/competitions/NaticubeBLD2023) |
-| 837 | 14 | [New Rochelle at Nite 1 2024](https://www.worldcubeassociation.org/competitions/NewRochelleatNite12024) |
-| 838 | 14 | [New York Multimate PBQ 2025](https://www.worldcubeassociation.org/competitions/NewYorkMultimatePBQ2025) |
-| 839 | 14 | [New York Multimate PBQ III 2025](https://www.worldcubeassociation.org/competitions/NewYorkMultimatePBQIII2025) |
-| 840 | 14 | [Northern Decathlon 2019](https://www.worldcubeassociation.org/competitions/NorthernDecathlon2019) |
-| 841 | 14 | [Onnellista Uutta Vuotta 2023](https://www.worldcubeassociation.org/competitions/OnnellistaUuttaVuotta2023) |
-| 842 | 14 | [PBQ at MSU 2024](https://www.worldcubeassociation.org/competitions/PBQatMSU2024) |
-| 843 | 14 | [PBQ Green Bay 2023](https://www.worldcubeassociation.org/competitions/PBQGreenBay2023) |
-| 844 | 14 | [Pinoy Big Cubes Open 2009](https://www.worldcubeassociation.org/competitions/PinoyBigCubesOpen2009) |
-| 845 | 14 | [Pit Bomba Sides Goiânia 2026](https://www.worldcubeassociation.org/competitions/PitBombaSidesGoiania2026) |
-| 846 | 14 | [Please Be Quiet Bergen 2025](https://www.worldcubeassociation.org/competitions/PleaseBeQuietBergen2025) |
-| 847 | 14 | [Please Be Quiet Johor 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQuietJohor2024) |
-| 848 | 14 | [Please Be Quiet Lexington 2022](https://www.worldcubeassociation.org/competitions/PleaseBeQuietLexington2022) |
-| 849 | 14 | [Poções Geek 2024](https://www.worldcubeassociation.org/competitions/PocoesGeek2024) |
-| 850 | 14 | [Pocos Cupos Bogotá XV 2025](https://www.worldcubeassociation.org/competitions/PocosCuposBogotaXV2025) |
-| 851 | 14 | [Ponte Tresamateurs 2025](https://www.worldcubeassociation.org/competitions/PonteTresamateurs2025) |
-| 852 | 14 | [Poulseur Quiet Open 2026](https://www.worldcubeassociation.org/competitions/PoulseurQuietOpen2026) |
-| 853 | 14 | [PST: FMC Poznań 2025](https://www.worldcubeassociation.org/competitions/PSTFMCPoznan2025) |
-| 854 | 14 | [Quiet AnHui University 2016](https://www.worldcubeassociation.org/competitions/QuietAnHuiUniversity2016) |
-| 855 | 14 | [Reto del Guaz 2022](https://www.worldcubeassociation.org/competitions/RetodelGuaz2022) |
-| 856 | 14 | [Rome Mental Breakdown 2022](https://www.worldcubeassociation.org/competitions/RomeMentalBreakdown2022) |
-| 857 | 14 | [Roskilde by Night 2024](https://www.worldcubeassociation.org/competitions/RoskildebyNight2024) |
-| 858 | 14 | [Roskilde by Night 2025](https://www.worldcubeassociation.org/competitions/RoskildebyNight2025) |
-| 859 | 14 | [Ruta Cubera: Arriate Open 2025](https://www.worldcubeassociation.org/competitions/RutaCuberaArriateOpen2025) |
-| 860 | 14 | [SA Side State Championship 2025](https://www.worldcubeassociation.org/competitions/SASideStateChampionship2025) |
-| 861 | 14 | [SCC Open 2015](https://www.worldcubeassociation.org/competitions/SCCOpen2015) |
-| 862 | 14 | [Side 'n Blind Forserum 2020](https://www.worldcubeassociation.org/competitions/SidenBlindForserum2020) |
-| 863 | 14 | [Silence in the Grove 2019](https://www.worldcubeassociation.org/competitions/SilenceInTheGrove2019) |
-| 864 | 14 | [Silence in Tlaxcala 2019](https://www.worldcubeassociation.org/competitions/SilenceinTlaxcala2019) |
-| 865 | 14 | [Slow and Easy Selangor 2024](https://www.worldcubeassociation.org/competitions/SlowandEasySelangor2024) |
-| 866 | 14 | [Somerset September 2024](https://www.worldcubeassociation.org/competitions/SomersetSeptember2024) |
-| 867 | 14 | [SB Weeknight Brain Freeze 1 2024](https://www.worldcubeassociation.org/competitions/SouthBayWeeknightBrainFreeze2024) |
-| 868 | 14 | [Southern Decathlon 2018](https://www.worldcubeassociation.org/competitions/SouthernAzerbaijanDecathlon2018) |
-| 869 | 14 | [St. Louishh 2025](https://www.worldcubeassociation.org/competitions/StLouishh2025) |
-| 870 | 14 | [Sunnyvale FMC 2025](https://www.worldcubeassociation.org/competitions/SunnyvaleFMC2025) |
-| 871 | 14 | [Tachikawa FMC 2017](https://www.worldcubeassociation.org/competitions/TachikawaFMC2017) |
-| 872 | 14 | [Tbilisi July Open 2024](https://www.worldcubeassociation.org/competitions/TbilisiJulyOpen2024) |
-| 873 | 14 | [The Complex Kenya 2023](https://www.worldcubeassociation.org/competitions/TheComplexKenya2023) |
-| 874 | 14 | [Ticino Open Sunday 2021](https://www.worldcubeassociation.org/competitions/TicinoOpenSunday2021) |
-| 875 | 14 | [Tomsk Blind Weekend 2014](https://www.worldcubeassociation.org/competitions/TomskBlindWeekend2014) |
-| 876 | 14 | [Try Cubing in St Helens 2026](https://www.worldcubeassociation.org/competitions/TryCubinginStHelens2026) |
-| 877 | 14 | [Tunisia Khomsa Open 2019](https://www.worldcubeassociation.org/competitions/TunisiaKhomsaOpen2019) |
-| 878 | 14 | [UFBA VIII - Você Escolhe 2026](https://www.worldcubeassociation.org/competitions/UFBAVIIIVoceEscolhe2026) |
-| 879 | 14 | [Uppsalaligan 1: Coin - 2024](https://www.worldcubeassociation.org/competitions/Uppsalaligan1Coin2024) |
-| 880 | 14 | [Uppsalaligan 1: Mixup - 2024](https://www.worldcubeassociation.org/competitions/Uppsalaligan1Mixup2024) |
-| 881 | 14 | [Uppsalaligan 5: Ancient - 2025](https://www.worldcubeassociation.org/competitions/Uppsalaligan5Ancient2025) |
-| 882 | 14 | [Vår i Hvidovre 2024](https://www.worldcubeassociation.org/competitions/VariHvidovre2024) |
-| 883 | 14 | [Vejstrup Open 2011](https://www.worldcubeassociation.org/competitions/VejstrupOpen2011) |
-| 884 | 14 | [VERK IX 2025](https://www.worldcubeassociation.org/competitions/VERKIX2025) |
-| 885 | 14 | [VERK VI 2025](https://www.worldcubeassociation.org/competitions/VERKVI2025) |
-| 886 | 14 | [VERK XII 2026](https://www.worldcubeassociation.org/competitions/VERKXII2026) |
-| 887 | 14 | [Wall Street Spring A 2024](https://www.worldcubeassociation.org/competitions/WallStreetSpringA2024) |
-| 888 | 14 | [Warden of the West 2018](https://www.worldcubeassociation.org/competitions/WardenoftheWest2018) |
-| 889 | 14 | [Warden of the West 2020](https://www.worldcubeassociation.org/competitions/WardenoftheWest2020) |
-| 890 | 14 | [Warsaw FMC Tour Thursday 2024](https://www.worldcubeassociation.org/competitions/WarsawFMCTourThursday2024) |
-| 891 | 14 | [Wembley Quimbaya II 2024](https://www.worldcubeassociation.org/competitions/WembleyQuimbayaII2024) |
-| 892 | 14 | [Wemblind Quimbaya III 2025](https://www.worldcubeassociation.org/competitions/WemblindQuimbayaIII2025) |
-| 893 | 14 | [Xi'an Winter 2011](https://www.worldcubeassociation.org/competitions/XianWinter2011) |
-| 894 | 15 | [70 Años Fátima Montevideo 2025](https://www.worldcubeassociation.org/competitions/70AnosFatimaMontevideo2025) |
-| 895 | 15 | [ACA League II - Ganja 2024](https://www.worldcubeassociation.org/competitions/ACALeagueIIGanja2024) |
-| 896 | 15 | [Amatitlán 2019](https://www.worldcubeassociation.org/competitions/Amatitlan2019) |
-| 897 | 15 | [Amman Mental Breakdown II 2025](https://www.worldcubeassociation.org/competitions/AmmanMentalBreakdownII2025) |
-| 898 | 15 | [Arrigorriaga Side Events 2023](https://www.worldcubeassociation.org/competitions/ArrigorriagaSideEvents2023) |
-| 899 | 15 | [Åsane Winter 2026](https://www.worldcubeassociation.org/competitions/AsaneWinter2026) |
-| 900 | 15 | [Athens Open 2010](https://www.worldcubeassociation.org/competitions/AthensOpen2010) |
-| 901 | 15 | [Autotalo Anime Adventure V 2024](https://www.worldcubeassociation.org/competitions/AutotaloAnimeAdventureV2024) |
-| 902 | 15 | [Baku Summer 2019](https://www.worldcubeassociation.org/competitions/BakuSummer2019) |
-| 903 | 15 | [Bandungan 2013](https://www.worldcubeassociation.org/competitions/Bandungan2013) |
-| 904 | 15 | [Big N Blind Minnesota 2018](https://www.worldcubeassociation.org/competitions/BigBlindMinnesota2018) |
-| 905 | 15 | [Big n BLD Finprov 2024](https://www.worldcubeassociation.org/competitions/BignBLDFinprov2024) |
-| 906 | 15 | [Big n Blind Bangalore July 2024](https://www.worldcubeassociation.org/competitions/BignBlindBangaloreJuly2024) |
-| 907 | 15 | [Bora Bora Quick Rio 2026](https://www.worldcubeassociation.org/competitions/BoraBoraQuickRio2026) |
-| 908 | 15 | [Bornholm Open 2023](https://www.worldcubeassociation.org/competitions/BornholmOpen2023) |
-| 909 | 15 | [Buckeye Big Brain OH 2025](https://www.worldcubeassociation.org/competitions/BuckeyeBigBrainOhioState2025) |
-| 910 | 15 | [Cabanatuan Speedcubing Open 2024](https://www.worldcubeassociation.org/competitions/CabanatuanSpeedcubingOpen2024) |
-| 911 | 15 | [Cambridge CoEd Cube Open 2025](https://www.worldcubeassociation.org/competitions/CambridgeCoEdCubeOpen2025) |
-| 912 | 15 | [Cambridge Fall Challenge 2022](https://www.worldcubeassociation.org/competitions/CambridgeFallChallenge2022) |
-| 913 | 15 | [Cambridge Spring Challenge 2023](https://www.worldcubeassociation.org/competitions/CambridgeSpringChallenge2023) |
-| 914 | 15 | [Campeonato de Cubo Xetá 2017](https://www.worldcubeassociation.org/competitions/CampeonatodeCuboXeta2017) |
-| 915 | 15 | [Campobello Favorites 2025](https://www.worldcubeassociation.org/competitions/CampobelloFavorites2025) |
-| 916 | 15 | [Chambea en Tu PB Lima 2025](https://www.worldcubeassociation.org/competitions/ChambeaenTuPBLima2025) |
-| 917 | 15 | [Chennai Beach House Open 2025](https://www.worldcubeassociation.org/competitions/ChennaiBeachHouseOpen2025) |
-| 918 | 15 | [China FM Xi'an 2011](https://www.worldcubeassociation.org/competitions/ChinaFMXian2011) |
-| 919 | 15 | [Classic City Shhhhh 2017](https://www.worldcubeassociation.org/competitions/ClassicCityShhhhh2017) |
-| 920 | 15 | [Cubing USMA 2023](https://www.worldcubeassociation.org/competitions/CubingUSMA2023) |
-| 921 | 15 | [D21 Delhi Cube Open C 2024](https://www.worldcubeassociation.org/competitions/D21DelhiCubeOpenC2024) |
-| 922 | 15 | [Danish FM Championship 2025](https://www.worldcubeassociation.org/competitions/DanishFMChampionship2025) |
-| 923 | 15 | [Don't DNF Denton 2024](https://www.worldcubeassociation.org/competitions/DontDNFDenton2024) |
-| 924 | 15 | [Don't Move Copenhagen 2022](https://www.worldcubeassociation.org/competitions/DontMoveCopenhagen2022) |
-| 925 | 15 | [Drop-in Cubing Partille 2025](https://www.worldcubeassociation.org/competitions/DropinCubingPartille2025) |
-| 926 | 15 | [Edward Calvo Summer Day 2018](https://www.worldcubeassociation.org/competitions/EdwardCalvoSummerDay2018) |
-| 927 | 15 | [Eretum Mental Breakdown 2022](https://www.worldcubeassociation.org/competitions/EretumMentalBreakdown2022) |
-| 928 | 15 | [Estonian Open 2009](https://www.worldcubeassociation.org/competitions/EstonianOpen2009) |
-| 929 | 15 | [Bigger in Texas 2016](https://www.worldcubeassociation.org/competitions/EverythingsBiggerinTexas2016) |
-| 930 | 15 | [FMC 2014](https://www.worldcubeassociation.org/competitions/FantasticMichigan2014) |
-| 931 | 15 | [Farming-a-ton of Solves ME 2025](https://www.worldcubeassociation.org/competitions/FarmingatonofSolvesME2025) |
-| 932 | 15 | [Florida Open 2007](https://www.worldcubeassociation.org/competitions/FloridaOpen2007) |
-| 933 | 15 | [FMCats Wisconsin III 2024](https://www.worldcubeassociation.org/competitions/FMCatsWisconsinIII2024) |
-| 934 | 15 | [FMC Colombia 2023](https://www.worldcubeassociation.org/competitions/FMCColombia2023) |
-| 935 | 15 | [FMCow Ohio State V 2025](https://www.worldcubeassociation.org/competitions/FMCowOhioStateV2025) |
-| 936 | 15 | [FMC Crêpes 2022](https://www.worldcubeassociation.org/competitions/FMCrepes2022) |
-| 937 | 15 | [FMC West Melbourne 2023](https://www.worldcubeassociation.org/competitions/FMCWestMelbourne2023) |
-| 938 | 15 | [FMHawks OH 2025](https://www.worldcubeassociation.org/competitions/FMHawksOH2025) |
-| 939 | 15 | [Fun with FM in Kraków 2025](https://www.worldcubeassociation.org/competitions/FunwithFMinKrakow2025) |
-| 940 | 15 | [Furesø Efterårscubing 2024](https://www.worldcubeassociation.org/competitions/FuresoEfterarscubing2024) |
-| 941 | 15 | [Gallarate Mental Breakdown 2024](https://www.worldcubeassociation.org/competitions/GallarateMentalBreakdown2024) |
-| 942 | 15 | [Germany 2005](https://www.worldcubeassociation.org/competitions/Germany2005) |
-| 943 | 15 | [Groundhog Day in Somerfield 2024](https://www.worldcubeassociation.org/competitions/GroundhogDayinSomerfield2024) |
-| 944 | 15 | [Hallsberg Open 2023](https://www.worldcubeassociation.org/competitions/HallsbergOpen2023) |
-| 945 | 15 | [Helsinki Winter Special 2020](https://www.worldcubeassociation.org/competitions/HelsinkiWinterSpecial2020) |
-| 946 | 15 | [Idéale Nabeul Open 2019](https://www.worldcubeassociation.org/competitions/IdealeNabeulOpen2019) |
-| 947 | 15 | [Ignus Open 2015](https://www.worldcubeassociation.org/competitions/IgnusOpen2015) |
-| 948 | 15 | [I IFMA ao Cubo 2025](https://www.worldcubeassociation.org/competitions/IIFMAaoCubo2025) |
-| 949 | 15 | [Roorkee Open 2014](https://www.worldcubeassociation.org/competitions/IITRoorkeeOpen2014) |
-| 950 | 15 | [Indonesia Masters 2023](https://www.worldcubeassociation.org/competitions/IndonesiaMasters2023) |
-| 951 | 15 | [Irish Open 2012](https://www.worldcubeassociation.org/competitions/IrishOpen2012) |
-| 952 | 15 | [Israel PBQ Championship 2023](https://www.worldcubeassociation.org/competitions/IsraelPBQChampionship2023) |
-| 953 | 15 | [Juhannus 2024](https://www.worldcubeassociation.org/competitions/Juhannus2024) |
-| 954 | 15 | [Kimberley Open 2015](https://www.worldcubeassociation.org/competitions/KimberleyOpen2015) |
-| 955 | 15 | [Koalafication Tauranga 2022](https://www.worldcubeassociation.org/competitions/KoalaficationTauranga2022) |
-| 956 | 15 | [Kyiv Big Friends I 2023](https://www.worldcubeassociation.org/competitions/KyivBigFriendsI2023) |
-| 957 | 15 | [Kyiv Big Friends II 2023](https://www.worldcubeassociation.org/competitions/KyivBigFriendsII2023) |
-| 958 | 15 | [LA Blind Cube Day 2018](https://www.worldcubeassociation.org/competitions/LABlindCubeDay2018) |
-| 959 | 15 | [LA Summer Side Events 2025](https://www.worldcubeassociation.org/competitions/LASummerSideEvents2025) |
-| 960 | 15 | [Mantua Tiny Open 2016](https://www.worldcubeassociation.org/competitions/MantuaTinyOpen2016) |
-| 961 | 15 | [Master Cube Salvador B 2024](https://www.worldcubeassociation.org/competitions/MasterCubeSalvadorB2024) |
-| 962 | 15 | [May the Cube Be Solved CO 2025](https://www.worldcubeassociation.org/competitions/MaytheCubeBeSolvedCO2025) |
-| 963 | 15 | [MIL Open 2013](https://www.worldcubeassociation.org/competitions/MILOpen2013) |
-| 964 | 15 | [Minas Open 2008](https://www.worldcubeassociation.org/competitions/MinasOpen2008) |
-| 965 | 15 | [Mineirim Open Spring 2018](https://www.worldcubeassociation.org/competitions/MineirimOpenSpring2018) |
-| 966 | 15 | [Minx Open AM 2022](https://www.worldcubeassociation.org/competitions/MinxOpenAM2022) |
-| 967 | 15 | [Monday Night in Gdańsk 2025](https://www.worldcubeassociation.org/competitions/MondayNightinGdansk2025) |
-| 968 | 15 | [New Rochelle at Nite 4 2024](https://www.worldcubeassociation.org/competitions/NewRochelleatNite42024) |
-| 969 | 15 | [New York Multimate PBQ II 2025](https://www.worldcubeassociation.org/competitions/NewYorkMultimatePBQII2025) |
-| 970 | 15 | [No 3x3x3 Diliman 2018](https://www.worldcubeassociation.org/competitions/No3x3x3Diliman2018) |
-| 971 | 15 | [OH Alright Mini-sota 2025](https://www.worldcubeassociation.org/competitions/OHAlrightMinisota2025) |
-| 972 | 15 | [Ohio State Duos VI 2025](https://www.worldcubeassociation.org/competitions/OhioStateDuosVI2025) |
-| 973 | 15 | [Ohio State Mental Madness 2024](https://www.worldcubeassociation.org/competitions/OhioStateMentalMadness2024) |
-| 974 | 15 | [Ottawa Blindfolded 2024](https://www.worldcubeassociation.org/competitions/OttawaBlindfolded2024) |
-| 975 | 15 | [Ottawa Blindfolded 2025](https://www.worldcubeassociation.org/competitions/OttawaBlindfolded2025) |
-| 976 | 15 | [Outokumpu Open 2019](https://www.worldcubeassociation.org/competitions/OutokumpuOpen2019) |
-| 977 | 15 | [Pando City Open 2018](https://www.worldcubeassociation.org/competitions/PandoCityOpen2018) |
-| 978 | 15 | [PBQ Kentucky 2023](https://www.worldcubeassociation.org/competitions/PBQKentucky2023) |
-| 979 | 15 | [PBQtah 8 2025](https://www.worldcubeassociation.org/competitions/PBQtah82025) |
-| 980 | 15 | [Perth Summer Open 2011](https://www.worldcubeassociation.org/competitions/PerthSummerOpen2011) |
-| 981 | 15 | [Pirih Rubik's Competition 2014](https://www.worldcubeassociation.org/competitions/PirihRubiksCompetition2014) |
-| 982 | 15 | [Please Be Quiet Beijing 2019](https://www.worldcubeassociation.org/competitions/PleaseBeQuietBeijing2019) |
-| 983 | 15 | [Please Be Quiet Philippines 2018](https://www.worldcubeassociation.org/competitions/PleaseBeQuietPhilippines2018) |
-| 984 | 15 | [Please Be Quiet Thailand 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQuietThailand2024) |
-| 985 | 15 | [Please Be Quiet Toronto 2019](https://www.worldcubeassociation.org/competitions/PleaseBeQuietToronto2019) |
-| 986 | 15 | [Please Be Solved UBC 2025](https://www.worldcubeassociation.org/competitions/PleaseBeSolvedUBC2025) |
-| 987 | 15 | [Please Be Solved Vancouver 2022](https://www.worldcubeassociation.org/competitions/PleaseBeSolvedVancouver2022) |
-| 988 | 15 | [Pocos Cupos Bogotá XVI 2025](https://www.worldcubeassociation.org/competitions/PocosCuposBogotaXVI2025) |
-| 989 | 15 | [Pocos Cupos Bogotá XX 2026](https://www.worldcubeassociation.org/competitions/PocosCuposBogotaXX2026) |
-| 990 | 15 | [Poznań Side Challenge 2017](https://www.worldcubeassociation.org/competitions/PoznanSideChallenge2017) |
-| 991 | 15 | [PU Villavicencio II 2025](https://www.worldcubeassociation.org/competitions/PUVillavicencioII2025) |
-| 992 | 15 | [Puy de Dome Open 2011](https://www.worldcubeassociation.org/competitions/PuydeDomeOpen2011) |
-| 993 | 15 | [Qəbələ Payız 2019](https://www.worldcubeassociation.org/competitions/QebelePayiz2019) |
-| 994 | 15 | [Qualifornia 2018](https://www.worldcubeassociation.org/competitions/Qualifornia2018) |
-| 995 | 15 | [Quiet Seattle Summer 2024](https://www.worldcubeassociation.org/competitions/QuietSeattleSummer2024) |
-| 996 | 15 | [Riga Open 2015](https://www.worldcubeassociation.org/competitions/RigaOpen2015) |
-| 997 | 15 | [Ropaži Winter 2025](https://www.worldcubeassociation.org/competitions/RopaziWinter2025) |
-| 998 | 15 | [SacQuiet 2022](https://www.worldcubeassociation.org/competitions/SacQuiet2022) |
-| 999 | 15 | [SacQuiet Winter 2026](https://www.worldcubeassociation.org/competitions/SacQuietWinter2026) |
-| 1000 | 15 | [Saideira Araruama 2025](https://www.worldcubeassociation.org/competitions/SaideiraAraruama2025) |
-| 1001 | 15 | [Saratoga Springs Big Cubes 2024](https://www.worldcubeassociation.org/competitions/SaratogaSpringsBigCubes2024) |
-| 1002 | 15 | [Shakarim Open 2023](https://www.worldcubeassociation.org/competitions/ShakarimOpen2023) |
-| 1003 | 15 | [Sicily Smart Solving 2026](https://www.worldcubeassociation.org/competitions/SicilySmartSolving2026) |
-| 1004 | 15 | [Silent Brasília 2023](https://www.worldcubeassociation.org/competitions/SilentBrasilia2023) |
-| 1005 | 15 | [Silent Summer Orlando 2019](https://www.worldcubeassociation.org/competitions/SilentSummerOrlando2019) |
-| 1006 | 15 | [Speed and Music Caracas 2019](https://www.worldcubeassociation.org/competitions/SpeedandMusicCaracas2019) |
-| 1007 | 15 | [Success For Candy Stockholm 2024](https://www.worldcubeassociation.org/competitions/SuccessForCandyStockholm2024) |
-| 1008 | 15 | [Swisscubing Mental 2018](https://www.worldcubeassociation.org/competitions/SwisscubingMentalBreakdown2018) |
-| 1009 | 15 | [Taiwan Blind Day 2016](https://www.worldcubeassociation.org/competitions/TaiwanBlindDay2016) |
-| 1010 | 15 | [Tajikistan Open 2019](https://www.worldcubeassociation.org/competitions/TajikistanOpen2019) |
-| 1011 | 15 | [Tbilisi October Open 2023](https://www.worldcubeassociation.org/competitions/TbilisiOctoberOpen2023) |
-| 1012 | 15 | [Tbilisi September Open 2024](https://www.worldcubeassociation.org/competitions/TbilisiSeptemberOpen2024) |
-| 1013 | 15 | [Thailand Quiet Championship 2023](https://www.worldcubeassociation.org/competitions/ThailandQuietChampionship2023) |
-| 1014 | 15 | [TGPBQ Rexburg 2022](https://www.worldcubeassociation.org/competitions/ThanksgivingPBQRexburg2022) |
-| 1015 | 15 | [Titan Big N' Blind 2024](https://www.worldcubeassociation.org/competitions/TitanBigNBlind2024) |
-| 1016 | 15 | [Tokai Challenge Gamma 2024](https://www.worldcubeassociation.org/competitions/TokaiChallengeGamma2024) |
-| 1017 | 15 | [Trujillo Open 2012](https://www.worldcubeassociation.org/competitions/TrujilloOpen2012) |
-| 1018 | 15 | [Tullinge Basement Blind 2019](https://www.worldcubeassociation.org/competitions/TullingeBasementBlind2019) |
-| 1019 | 15 | [Uberlândia Specials 2018](https://www.worldcubeassociation.org/competitions/UberlandiaSpecials2018) |
-| 1020 | 15 | [UL 1: Lycium Barbarum 2023](https://www.worldcubeassociation.org/competitions/UL1LyciumBarbarum2023) |
-| 1021 | 15 | [UL Final: Octahedron 2023](https://www.worldcubeassociation.org/competitions/ULFinalOctahedron2023) |
-| 1022 | 15 | [Uppsalaligan 5: X - 2024](https://www.worldcubeassociation.org/competitions/Uppsalaligan5X2024) |
-| 1023 | 15 | [Uppsalaligan 5: X2 - 2025](https://www.worldcubeassociation.org/competitions/Uppsalaligan5X22025) |
-| 1024 | 15 | [U.R.A. Blind Open 2017](https://www.worldcubeassociation.org/competitions/URABlindOpen2017) |
-| 1025 | 15 | [Ural Winter 2015](https://www.worldcubeassociation.org/competitions/UralWinter2015) |
-| 1026 | 15 | [Viljandi Open 2024](https://www.worldcubeassociation.org/competitions/ViljandiOpen2024) |
-| 1027 | 15 | [Wedding Day Serokomla 2023](https://www.worldcubeassociation.org/competitions/WeddingDaySerokomla2023) |
-| 1028 | 15 | [Wellington Mind Games 2025](https://www.worldcubeassociation.org/competitions/WellingtonMindGames2025) |
-| 1029 | 15 | [X CUBIFMA 2025](https://www.worldcubeassociation.org/competitions/XCUBIFMA2025) |
+| 695 | 13 | [Elmsford Evening I 2026](https://www.worldcubeassociation.org/competitions/ElmsfordEveningI2026) |
+| 696 | 13 | [Elyu Sides 2024](https://www.worldcubeassociation.org/competitions/ElyuSides2024) |
+| 697 | 13 | [Fabulous MN Competition 2015](https://www.worldcubeassociation.org/competitions/FabulousMinnesotaCompetition2015) |
+| 698 | 13 | [Farum Meet the Cats 2023](https://www.worldcubeassociation.org/competitions/FarumMeettheCats2023) |
+| 699 | 13 | [FMC and More Maine 2025](https://www.worldcubeassociation.org/competitions/FMCandMoreMaine2025) |
+| 700 | 13 | [FMCats Wisconsin 2023](https://www.worldcubeassociation.org/competitions/FMCatsWisconsin2023) |
+| 701 | 13 | [FMC Colombia VIII 2025](https://www.worldcubeassociation.org/competitions/FMCColombiaVIII2025) |
+| 702 | 13 | [FMCow Ohio State II 2024](https://www.worldcubeassociation.org/competitions/FMCowOhioStateII2024) |
+| 703 | 13 | [FMC Philippines 2025](https://www.worldcubeassociation.org/competitions/FMCPhilippines2025) |
+| 704 | 13 | [FMC Thailand 2022](https://www.worldcubeassociation.org/competitions/FMCThailand2022) |
+| 705 | 13 | [Ganja NxN Day 2025](https://www.worldcubeassociation.org/competitions/GanjaNxNDay2025) |
+| 706 | 13 | [Georgia October Open 2023](https://www.worldcubeassociation.org/competitions/GeorgiaOctoberOpen2023) |
+| 707 | 13 | [Georgia September Open 2023](https://www.worldcubeassociation.org/competitions/GeorgiaSeptemberOpen2023) |
+| 708 | 13 | [German Open 2004](https://www.worldcubeassociation.org/competitions/GermanOpen2004) |
+| 709 | 13 | [Gesté Mentalement Là 2023](https://www.worldcubeassociation.org/competitions/GesteMentalementLa2023) |
+| 710 | 13 | [HDC XIX - Hvidovre FM 2025](https://www.worldcubeassociation.org/competitions/HDCXIXHvidovreFM2025) |
+| 711 | 13 | [HDC XVII - Hvidovre 2025](https://www.worldcubeassociation.org/competitions/HDCXVIIHvidovre2025) |
+| 712 | 13 | [Heartland FMC Championship 2023](https://www.worldcubeassociation.org/competitions/HeartlandFMCChampionship2023) |
+| 713 | 13 | [Hverdagscubing - Fyn 2024](https://www.worldcubeassociation.org/competitions/HverdagscubingFyn2024) |
+| 714 | 13 | [Iceland Open 2014](https://www.worldcubeassociation.org/competitions/IcelandOpen2014) |
+| 715 | 13 | [I Hope It's Solved Edmonton 2019](https://www.worldcubeassociation.org/competitions/IHopeItsSolvedEdmonton2019) |
+| 716 | 13 | [Itapeva 2018](https://www.worldcubeassociation.org/competitions/Itapeva2018) |
+| 717 | 13 | [Jönköpingsligan Final 2023](https://www.worldcubeassociation.org/competitions/JonkopingsliganFinalTattoo2023) |
+| 718 | 13 | [Kailua Liʻi Pōʻakolu 2024](https://www.worldcubeassociation.org/competitions/KailuaLiiPoakolu2024) |
+| 719 | 13 | [KSF Club Pavlodar 2022](https://www.worldcubeassociation.org/competitions/KSFClubPavlodar2022) |
+| 720 | 13 | [KwaZulu-Natal 2019](https://www.worldcubeassociation.org/competitions/KwaZuluNatal2019) |
+| 721 | 13 | [Kyiv Mega Blind Friends 2023](https://www.worldcubeassociation.org/competitions/KyivMegaBlindFriends2023) |
+| 722 | 13 | [Kyiv Side Events 2023](https://www.worldcubeassociation.org/competitions/KyivSideEvents2023) |
+| 723 | 13 | [Manchester 4BLD Day 2024](https://www.worldcubeassociation.org/competitions/Manchester4BLDDay2024) |
+| 724 | 13 | [Mega Big Cubes Bucharest 2024](https://www.worldcubeassociation.org/competitions/MegaBigCubesBucharest2024) |
+| 725 | 13 | [Melbourne Minimal Moves 2022](https://www.worldcubeassociation.org/competitions/MelbourneMinimalMoves2022) |
+| 726 | 13 | [Mental Breakdown Landvetter 2025](https://www.worldcubeassociation.org/competitions/MentalBreakdownLandvetter2025) |
+| 727 | 13 | [Mental Breakdown MN 2018](https://www.worldcubeassociation.org/competitions/MentalBreakdownMinnesota2018) |
+| 728 | 13 | [Mini Mental Milano I 2023](https://www.worldcubeassociation.org/competitions/MiniMentalMilanoI2023) |
+| 729 | 13 | [Mini-sota Wednesday Qual 2025](https://www.worldcubeassociation.org/competitions/MinisotaWednesdayQual2025) |
+| 730 | 13 | [Minnesota Quiet Champs 2024](https://www.worldcubeassociation.org/competitions/MinnesotaQuietChampionship2024) |
+| 731 | 13 | [Mombasa Open 2024](https://www.worldcubeassociation.org/competitions/MombasaOpen2024) |
+| 732 | 13 | [Nod Don Denver 2023](https://www.worldcubeassociation.org/competitions/NodDonDenver2023) |
+| 733 | 13 | [Northern Decathlon 2018](https://www.worldcubeassociation.org/competitions/NorthernAzerbaijanDecathlon2018) |
+| 734 | 13 | [Nyköping Side Events 2023](https://www.worldcubeassociation.org/competitions/NykopingSideEvents2023) |
+| 735 | 13 | [Pasuruan Mini 2014](https://www.worldcubeassociation.org/competitions/PasuruanMiniCompetition2014) |
+| 736 | 13 | [PBQ Colorado 2022](https://www.worldcubeassociation.org/competitions/PBQColorado2022) |
+| 737 | 13 | [PBQ Kuala Lumpur 2024](https://www.worldcubeassociation.org/competitions/PBQKualaLumpur2024) |
+| 738 | 13 | [PBQ Madness in Dobřejovice 2025](https://www.worldcubeassociation.org/competitions/PBQMadnessinDobrejovice2025) |
+| 739 | 13 | [Perth FMC Day 2023](https://www.worldcubeassociation.org/competitions/PerthFMCDay2023) |
+| 740 | 13 | [Please Be Solved Vancouver 2019](https://www.worldcubeassociation.org/competitions/PleaseBeSolvedVancouver2019) |
+| 741 | 13 | [Poções 2023](https://www.worldcubeassociation.org/competitions/Pocoes2023) |
+| 742 | 13 | [Pocos Cupos VII 2024](https://www.worldcubeassociation.org/competitions/PocosCuposVII2024) |
+| 743 | 13 | [Risbjerg September 2025](https://www.worldcubeassociation.org/competitions/RisbjergSeptember2025) |
+| 744 | 13 | [SacQuiet Fall 2023](https://www.worldcubeassociation.org/competitions/SacQuietFall2023) |
+| 745 | 13 | [SacQuiet Spring 2023](https://www.worldcubeassociation.org/competitions/SacQuietSpring2023) |
+| 746 | 13 | [Scottish Championship Blind 2025](https://www.worldcubeassociation.org/competitions/ScottishChampionshipBlindOff2025) |
+| 747 | 13 | [Shamkir Open 2018](https://www.worldcubeassociation.org/competitions/ShamkirOpen2018) |
+| 748 | 13 | [Side Events Finprov 2024](https://www.worldcubeassociation.org/competitions/SideEventsFinprov2024) |
+| 749 | 13 | [Side Events Jus Trufs 2025](https://www.worldcubeassociation.org/competitions/SideEventsJusTrufs2025) |
+| 750 | 13 | [Slovenian FMC Nationals 2025](https://www.worldcubeassociation.org/competitions/SlovenianFMCNationals2025) |
+| 751 | 13 | [Slow Down Swanbourne 2021](https://www.worldcubeassociation.org/competitions/SlowDownSwanbourne2021) |
+| 752 | 13 | [SveKub 2006](https://www.worldcubeassociation.org/competitions/Svekub2006) |
+| 753 | 13 | [Swedish CubeDay 2004](https://www.worldcubeassociation.org/competitions/Sweden2004) |
+| 754 | 13 | [Swedish CubeDay 2005](https://www.worldcubeassociation.org/competitions/SwedishCubeday2005) |
+| 755 | 13 | [Swedish CubeDay 2006](https://www.worldcubeassociation.org/competitions/SwedishCubeDay2006) |
+| 756 | 13 | [Tbilisi August Open 2023](https://www.worldcubeassociation.org/competitions/TbilisiAugustOpen2023) |
+| 757 | 13 | [Tchê Aquieta 2020](https://www.worldcubeassociation.org/competitions/TcheAquieta2020) |
+| 758 | 13 | [Texas FMC Championship 2024](https://www.worldcubeassociation.org/competitions/TexasFMCChampionship2024) |
+| 759 | 13 | [Toronto Blindfolded 2025](https://www.worldcubeassociation.org/competitions/TorontoBlindfolded2025) |
+| 760 | 13 | [Trondheim Mental Breakdown 2024](https://www.worldcubeassociation.org/competitions/TrondheimMentalBreakdown2024) |
+| 761 | 13 | [UCSD Weeknights IV 2025](https://www.worldcubeassociation.org/competitions/UCSDWeeknightsIV2025) |
+| 762 | 13 | [Ugine Jeu et Jouet 2014](https://www.worldcubeassociation.org/competitions/UgineJeuEtJouet2014) |
+| 763 | 13 | [Ulaanbaatar Big Cubes 2024](https://www.worldcubeassociation.org/competitions/UlaanbaatarBigCubes2024) |
+| 764 | 13 | [Uppsalaligan 1: Maple - 2025](https://www.worldcubeassociation.org/competitions/Uppsalaligan1Maple2025) |
+| 765 | 13 | [Uppsalaligan 3: Triangle - 2024](https://www.worldcubeassociation.org/competitions/Uppsalaligan3Triangle2024) |
+| 766 | 13 | [Uppsalaligan 4: Emoji - 2024](https://www.worldcubeassociation.org/competitions/Uppsalaligan4Emoji2024) |
+| 767 | 13 | [Uppsalaligan 4: Fisher - 2025](https://www.worldcubeassociation.org/competitions/Uppsalaligan4Fisher2025) |
+| 768 | 13 | [U.R.A. Big Blind 2018](https://www.worldcubeassociation.org/competitions/URABigBlind2018) |
+| 769 | 13 | [Utah Spring 2011](https://www.worldcubeassociation.org/competitions/UtahSpring2011) |
+| 770 | 13 | [Warsaw FMC Tour Friday 2024](https://www.worldcubeassociation.org/competitions/WarsawFMCTourFriday2024) |
+| 771 | 13 | [Yellowstone 2018](https://www.worldcubeassociation.org/competitions/Yellowstone2018) |
+| 772 | 13 | [Zoioff Campinas 2022](https://www.worldcubeassociation.org/competitions/ZoioffCampinas2022) |
+| 773 | 14 | [ACA League Final 2019](https://www.worldcubeassociation.org/competitions/ACALeagueFinal2019) |
+| 774 | 14 | [Al Zarqa Open 2022](https://www.worldcubeassociation.org/competitions/AlZarqaOpen2022) |
+| 775 | 14 | [Amman Mental Breakdown 2025](https://www.worldcubeassociation.org/competitions/AmmanMentalBreakdown2025) |
+| 776 | 14 | [Ankara June B 2025](https://www.worldcubeassociation.org/competitions/AnkaraJuneB2025) |
+| 777 | 14 | [Auckland Winter Open 2011](https://www.worldcubeassociation.org/competitions/AucklandWinterOpen2011) |
+| 778 | 14 | [Back in Bahia 2022](https://www.worldcubeassociation.org/competitions/BackinBahia2022) |
+| 779 | 14 | [Back to Bishkek 2024](https://www.worldcubeassociation.org/competitions/BacktoBishkek2024) |
+| 780 | 14 | [Baja Warm Up II 2025](https://www.worldcubeassociation.org/competitions/BajaWarmUpII2025) |
+| 781 | 14 | [Barberton Mini 3 2024](https://www.worldcubeassociation.org/competitions/BarbertonMini32024) |
+| 782 | 14 | [Barberton Mini 8 2025](https://www.worldcubeassociation.org/competitions/BarbertonMini82025) |
+| 783 | 14 | [Beijing After Dark 2011](https://www.worldcubeassociation.org/competitions/BeijingAfterDark2011) |
+| 784 | 14 | [Beijing Footsteps 2011](https://www.worldcubeassociation.org/competitions/BeijingFootsteps2011) |
+| 785 | 14 | [Big n Blind Bangalore Feb 2025](https://www.worldcubeassociation.org/competitions/BignBlindBangaloreFeb2025) |
+| 786 | 14 | [Big N Blind Bangalore Jan 2025](https://www.worldcubeassociation.org/competitions/BigNBlindBangaloreJan2025) |
+| 787 | 14 | [Blind in the Water Tower 2019](https://www.worldcubeassociation.org/competitions/BlindintheWaterTower2019) |
+| 788 | 14 | [Bucharest Cubing November 2025](https://www.worldcubeassociation.org/competitions/BucharestCubingNovember2025) |
+| 789 | 14 | [Chattahoochee 2006](https://www.worldcubeassociation.org/competitions/Chattahoochee2006) |
+| 790 | 14 | [Clermont Open 2008](https://www.worldcubeassociation.org/competitions/ClermontOpen2008) |
+| 791 | 14 | [Clifton Park Big Cubes 2025](https://www.worldcubeassociation.org/competitions/CliftonParkBigCubes2025) |
+| 792 | 14 | [CojedesRubik 2016](https://www.worldcubeassociation.org/competitions/CojedesRubik2016) |
+| 793 | 14 | [Colorado Quiet Championship 2024](https://www.worldcubeassociation.org/competitions/ColoradoQuietChampionship2024) |
+| 794 | 14 | [CubingZA FMC Championship 2023](https://www.worldcubeassociation.org/competitions/CubingZAFMCChampionship2023) |
+| 795 | 14 | [Danish Special 2009](https://www.worldcubeassociation.org/competitions/DanishSpecial2009) |
+| 796 | 14 | [Deep South Cape Town 2024](https://www.worldcubeassociation.org/competitions/DeepSouthCapeTown2024) |
+| 797 | 14 | [Denver Open 2010](https://www.worldcubeassociation.org/competitions/DenverOpen2010) |
+| 798 | 14 | [El Pórtico Facatativá 2025](https://www.worldcubeassociation.org/competitions/ElPorticoFacatativa2025) |
+| 799 | 14 | [EM Kval i Farum 2024](https://www.worldcubeassociation.org/competitions/EMKvaliFarum2024) |
+| 800 | 14 | [ERAU Speedcubing Spring 2018](https://www.worldcubeassociation.org/competitions/ERAUSpeedcubingSpring2018) |
+| 801 | 14 | [Erciyes Weekend 2018](https://www.worldcubeassociation.org/competitions/ErciyesWeekend2018) |
+| 802 | 14 | [Estonian Open 2010](https://www.worldcubeassociation.org/competitions/EstonianOpen2010) |
+| 803 | 14 | [Farnworth Spring C 2022](https://www.worldcubeassociation.org/competitions/FarnworthSpringC2022) |
+| 804 | 14 | [Fewest Moves Colombia 2023](https://www.worldcubeassociation.org/competitions/FewestMovesColombia2023) |
+| 805 | 14 | [Fewest Moves Colombia 2024](https://www.worldcubeassociation.org/competitions/FewestMovesColombia2024) |
+| 806 | 14 | [Finnish Champs Qualifier 2025](https://www.worldcubeassociation.org/competitions/FinnishChampsQualifier2025) |
+| 807 | 14 | [FMC and More Minnesota 2025](https://www.worldcubeassociation.org/competitions/FMCandMoreMinnesota2025) |
+| 808 | 14 | [FMC Bulgaria x Romania 2024](https://www.worldcubeassociation.org/competitions/FMCBulgariaxRomania2024) |
+| 809 | 14 | [FMC Colombia IV 2024](https://www.worldcubeassociation.org/competitions/FMCColombiaIV2024) |
+| 810 | 14 | [FMC Colombia IX 2026](https://www.worldcubeassociation.org/competitions/FMCColombiaIX2026) |
+| 811 | 14 | [FMC Lovers Fürth 2026](https://www.worldcubeassociation.org/competitions/FMCLoversFurth2026) |
+| 812 | 14 | [FMCow Ohio State 2023](https://www.worldcubeassociation.org/competitions/FMCowOhioState2023) |
+| 813 | 14 | [FMC Singapore 2022](https://www.worldcubeassociation.org/competitions/FMCSingapore2022) |
+| 814 | 14 | [Furesø Side Events 2025](https://www.worldcubeassociation.org/competitions/FuresoSideEvents2025) |
+| 815 | 14 | [Georgia End of August 2023](https://www.worldcubeassociation.org/competitions/GeorgiaEndofAugust2023) |
+| 816 | 14 | [Guwahati Side Events Quest 2023](https://www.worldcubeassociation.org/competitions/GuwahatiSideEventsQuest2023) |
+| 817 | 14 | [Hawaiʻi Big Island Fall 2025](https://www.worldcubeassociation.org/competitions/HawaiiBigIslandFall2025) |
+| 818 | 14 | [Helsinki Open 2009](https://www.worldcubeassociation.org/competitions/HelsinkiOpen2009) |
+| 819 | 14 | [Hokuriku Eve 2013](https://www.worldcubeassociation.org/competitions/HokurikuEveOpen2013) |
+| 820 | 14 | [Hooshinoo Quiet Day 2024](https://www.worldcubeassociation.org/competitions/HooshinooQuietDay2024) |
+| 821 | 14 | [HDC Dec - Fyn 2024](https://www.worldcubeassociation.org/competitions/HverdagscubingDecemberFyn2024) |
+| 822 | 14 | [I Hope It's Solved EDM 2 2019](https://www.worldcubeassociation.org/competitions/IHopeItsSolvedEDM22019) |
+| 823 | 14 | [Ilo Speedcubing Summer 2026](https://www.worldcubeassociation.org/competitions/IloSpeedcubingSummer2026) |
+| 824 | 14 | [IranFMC 2015](https://www.worldcubeassociation.org/competitions/IranFMC2015) |
+| 825 | 14 | [JL Final: Kebabpizza 2023](https://www.worldcubeassociation.org/competitions/JLFinalKebabpizza2023) |
+| 826 | 14 | [Keep Portland Quiet 2016](https://www.worldcubeassociation.org/competitions/KeepPortlandQuiet2016) |
+| 827 | 14 | [Kinda Maybe Mini-sota 2025](https://www.worldcubeassociation.org/competitions/KindaMaybeMinisota2025) |
+| 828 | 14 | [KoprCube Blind 2025](https://www.worldcubeassociation.org/competitions/KoprCubeBlind2025) |
+| 829 | 14 | [Lex Mini II 2024](https://www.worldcubeassociation.org/competitions/LexMiniII2024) |
+| 830 | 14 | [Lubec Cubec 2025](https://www.worldcubeassociation.org/competitions/LubecCubec2025) |
+| 831 | 14 | [Medan Mini All Events 2019](https://www.worldcubeassociation.org/competitions/MedanMiniAllEvents2019) |
+| 832 | 14 | [Michigan Mini FMC 2023](https://www.worldcubeassociation.org/competitions/MichiganMiniFMC2023) |
+| 833 | 14 | [Mini Mental Breakdown SD 2022](https://www.worldcubeassociation.org/competitions/MiniMentalBreakdownSanDiego2022) |
+| 834 | 14 | [Monastir Spring Open 2019](https://www.worldcubeassociation.org/competitions/MonastirSpringOpen2019) |
+| 835 | 14 | [Nalsar Cube Open D 2025](https://www.worldcubeassociation.org/competitions/NalsarCubeOpenD2025) |
+| 836 | 14 | [Naoned Open 2011](https://www.worldcubeassociation.org/competitions/NaonedOpen2011) |
+| 837 | 14 | [NaticubeBLD 2023](https://www.worldcubeassociation.org/competitions/NaticubeBLD2023) |
+| 838 | 14 | [New Rochelle at Nite 1 2024](https://www.worldcubeassociation.org/competitions/NewRochelleatNite12024) |
+| 839 | 14 | [New York Multimate PBQ 2025](https://www.worldcubeassociation.org/competitions/NewYorkMultimatePBQ2025) |
+| 840 | 14 | [New York Multimate PBQ III 2025](https://www.worldcubeassociation.org/competitions/NewYorkMultimatePBQIII2025) |
+| 841 | 14 | [Northern Decathlon 2019](https://www.worldcubeassociation.org/competitions/NorthernDecathlon2019) |
+| 842 | 14 | [Onnellista Uutta Vuotta 2023](https://www.worldcubeassociation.org/competitions/OnnellistaUuttaVuotta2023) |
+| 843 | 14 | [PBQ at MSU 2024](https://www.worldcubeassociation.org/competitions/PBQatMSU2024) |
+| 844 | 14 | [PBQ Green Bay 2023](https://www.worldcubeassociation.org/competitions/PBQGreenBay2023) |
+| 845 | 14 | [Pinoy Big Cubes Open 2009](https://www.worldcubeassociation.org/competitions/PinoyBigCubesOpen2009) |
+| 846 | 14 | [Pit Bomba Sides Goiânia 2026](https://www.worldcubeassociation.org/competitions/PitBombaSidesGoiania2026) |
+| 847 | 14 | [Please Be Quiet Bergen 2025](https://www.worldcubeassociation.org/competitions/PleaseBeQuietBergen2025) |
+| 848 | 14 | [Please Be Quiet Johor 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQuietJohor2024) |
+| 849 | 14 | [Please Be Quiet Lexington 2022](https://www.worldcubeassociation.org/competitions/PleaseBeQuietLexington2022) |
+| 850 | 14 | [Poções Geek 2024](https://www.worldcubeassociation.org/competitions/PocoesGeek2024) |
+| 851 | 14 | [Pocos Cupos Bogotá XV 2025](https://www.worldcubeassociation.org/competitions/PocosCuposBogotaXV2025) |
+| 852 | 14 | [Ponte Tresamateurs 2025](https://www.worldcubeassociation.org/competitions/PonteTresamateurs2025) |
+| 853 | 14 | [Poulseur Quiet Open 2026](https://www.worldcubeassociation.org/competitions/PoulseurQuietOpen2026) |
+| 854 | 14 | [PST: FMC Poznań 2025](https://www.worldcubeassociation.org/competitions/PSTFMCPoznan2025) |
+| 855 | 14 | [Quiet AnHui University 2016](https://www.worldcubeassociation.org/competitions/QuietAnHuiUniversity2016) |
+| 856 | 14 | [Reto del Guaz 2022](https://www.worldcubeassociation.org/competitions/RetodelGuaz2022) |
+| 857 | 14 | [Rome Mental Breakdown 2022](https://www.worldcubeassociation.org/competitions/RomeMentalBreakdown2022) |
+| 858 | 14 | [Roskilde by Night 2024](https://www.worldcubeassociation.org/competitions/RoskildebyNight2024) |
+| 859 | 14 | [Roskilde by Night 2025](https://www.worldcubeassociation.org/competitions/RoskildebyNight2025) |
+| 860 | 14 | [Ruta Cubera: Arriate Open 2025](https://www.worldcubeassociation.org/competitions/RutaCuberaArriateOpen2025) |
+| 861 | 14 | [SA Side State Championship 2025](https://www.worldcubeassociation.org/competitions/SASideStateChampionship2025) |
+| 862 | 14 | [SCC Open 2015](https://www.worldcubeassociation.org/competitions/SCCOpen2015) |
+| 863 | 14 | [Side 'n Blind Forserum 2020](https://www.worldcubeassociation.org/competitions/SidenBlindForserum2020) |
+| 864 | 14 | [Silence in the Grove 2019](https://www.worldcubeassociation.org/competitions/SilenceInTheGrove2019) |
+| 865 | 14 | [Silence in Tlaxcala 2019](https://www.worldcubeassociation.org/competitions/SilenceinTlaxcala2019) |
+| 866 | 14 | [Slow and Easy Selangor 2024](https://www.worldcubeassociation.org/competitions/SlowandEasySelangor2024) |
+| 867 | 14 | [Somerset September 2024](https://www.worldcubeassociation.org/competitions/SomersetSeptember2024) |
+| 868 | 14 | [SB Weeknight Brain Freeze 1 2024](https://www.worldcubeassociation.org/competitions/SouthBayWeeknightBrainFreeze2024) |
+| 869 | 14 | [Southern Decathlon 2018](https://www.worldcubeassociation.org/competitions/SouthernAzerbaijanDecathlon2018) |
+| 870 | 14 | [St. Louishh 2025](https://www.worldcubeassociation.org/competitions/StLouishh2025) |
+| 871 | 14 | [Sunnyvale FMC 2025](https://www.worldcubeassociation.org/competitions/SunnyvaleFMC2025) |
+| 872 | 14 | [Tachikawa FMC 2017](https://www.worldcubeassociation.org/competitions/TachikawaFMC2017) |
+| 873 | 14 | [Tbilisi July Open 2024](https://www.worldcubeassociation.org/competitions/TbilisiJulyOpen2024) |
+| 874 | 14 | [The Complex Kenya 2023](https://www.worldcubeassociation.org/competitions/TheComplexKenya2023) |
+| 875 | 14 | [Ticino Open Sunday 2021](https://www.worldcubeassociation.org/competitions/TicinoOpenSunday2021) |
+| 876 | 14 | [Tomsk Blind Weekend 2014](https://www.worldcubeassociation.org/competitions/TomskBlindWeekend2014) |
+| 877 | 14 | [Try Cubing in St Helens 2026](https://www.worldcubeassociation.org/competitions/TryCubinginStHelens2026) |
+| 878 | 14 | [Tunisia Khomsa Open 2019](https://www.worldcubeassociation.org/competitions/TunisiaKhomsaOpen2019) |
+| 879 | 14 | [UFBA VIII - Você Escolhe 2026](https://www.worldcubeassociation.org/competitions/UFBAVIIIVoceEscolhe2026) |
+| 880 | 14 | [Uppsalaligan 1: Coin - 2024](https://www.worldcubeassociation.org/competitions/Uppsalaligan1Coin2024) |
+| 881 | 14 | [Uppsalaligan 1: Mixup - 2024](https://www.worldcubeassociation.org/competitions/Uppsalaligan1Mixup2024) |
+| 882 | 14 | [Uppsalaligan 5: Ancient - 2025](https://www.worldcubeassociation.org/competitions/Uppsalaligan5Ancient2025) |
+| 883 | 14 | [Vår i Hvidovre 2024](https://www.worldcubeassociation.org/competitions/VariHvidovre2024) |
+| 884 | 14 | [Vejstrup Open 2011](https://www.worldcubeassociation.org/competitions/VejstrupOpen2011) |
+| 885 | 14 | [VERK IX 2025](https://www.worldcubeassociation.org/competitions/VERKIX2025) |
+| 886 | 14 | [VERK VI 2025](https://www.worldcubeassociation.org/competitions/VERKVI2025) |
+| 887 | 14 | [VERK XII 2026](https://www.worldcubeassociation.org/competitions/VERKXII2026) |
+| 888 | 14 | [Wall Street Spring A 2024](https://www.worldcubeassociation.org/competitions/WallStreetSpringA2024) |
+| 889 | 14 | [Warden of the West 2018](https://www.worldcubeassociation.org/competitions/WardenoftheWest2018) |
+| 890 | 14 | [Warden of the West 2020](https://www.worldcubeassociation.org/competitions/WardenoftheWest2020) |
+| 891 | 14 | [Warsaw FMC Tour Thursday 2024](https://www.worldcubeassociation.org/competitions/WarsawFMCTourThursday2024) |
+| 892 | 14 | [Wembley Quimbaya II 2024](https://www.worldcubeassociation.org/competitions/WembleyQuimbayaII2024) |
+| 893 | 14 | [Wemblind Quimbaya III 2025](https://www.worldcubeassociation.org/competitions/WemblindQuimbayaIII2025) |
+| 894 | 14 | [Xi'an Winter 2011](https://www.worldcubeassociation.org/competitions/XianWinter2011) |
+| 895 | 15 | [70 Años Fátima Montevideo 2025](https://www.worldcubeassociation.org/competitions/70AnosFatimaMontevideo2025) |
+| 896 | 15 | [ACA League II - Ganja 2024](https://www.worldcubeassociation.org/competitions/ACALeagueIIGanja2024) |
+| 897 | 15 | [Amatitlán 2019](https://www.worldcubeassociation.org/competitions/Amatitlan2019) |
+| 898 | 15 | [Amman Mental Breakdown II 2025](https://www.worldcubeassociation.org/competitions/AmmanMentalBreakdownII2025) |
+| 899 | 15 | [Arrigorriaga Side Events 2023](https://www.worldcubeassociation.org/competitions/ArrigorriagaSideEvents2023) |
+| 900 | 15 | [Åsane Winter 2026](https://www.worldcubeassociation.org/competitions/AsaneWinter2026) |
+| 901 | 15 | [Athens Open 2010](https://www.worldcubeassociation.org/competitions/AthensOpen2010) |
+| 902 | 15 | [Autotalo Anime Adventure V 2024](https://www.worldcubeassociation.org/competitions/AutotaloAnimeAdventureV2024) |
+| 903 | 15 | [Baku Summer 2019](https://www.worldcubeassociation.org/competitions/BakuSummer2019) |
+| 904 | 15 | [Bandungan 2013](https://www.worldcubeassociation.org/competitions/Bandungan2013) |
+| 905 | 15 | [Big N Blind Minnesota 2018](https://www.worldcubeassociation.org/competitions/BigBlindMinnesota2018) |
+| 906 | 15 | [Big n BLD Finprov 2024](https://www.worldcubeassociation.org/competitions/BignBLDFinprov2024) |
+| 907 | 15 | [Big n Blind Bangalore July 2024](https://www.worldcubeassociation.org/competitions/BignBlindBangaloreJuly2024) |
+| 908 | 15 | [Bora Bora Quick Rio 2026](https://www.worldcubeassociation.org/competitions/BoraBoraQuickRio2026) |
+| 909 | 15 | [Bornholm Open 2023](https://www.worldcubeassociation.org/competitions/BornholmOpen2023) |
+| 910 | 15 | [Buckeye Big Brain OH 2025](https://www.worldcubeassociation.org/competitions/BuckeyeBigBrainOhioState2025) |
+| 911 | 15 | [Cabanatuan Speedcubing Open 2024](https://www.worldcubeassociation.org/competitions/CabanatuanSpeedcubingOpen2024) |
+| 912 | 15 | [Cambridge CoEd Cube Open 2025](https://www.worldcubeassociation.org/competitions/CambridgeCoEdCubeOpen2025) |
+| 913 | 15 | [Cambridge Fall Challenge 2022](https://www.worldcubeassociation.org/competitions/CambridgeFallChallenge2022) |
+| 914 | 15 | [Cambridge Spring Challenge 2023](https://www.worldcubeassociation.org/competitions/CambridgeSpringChallenge2023) |
+| 915 | 15 | [Campeonato de Cubo Xetá 2017](https://www.worldcubeassociation.org/competitions/CampeonatodeCuboXeta2017) |
+| 916 | 15 | [Campobello Favorites 2025](https://www.worldcubeassociation.org/competitions/CampobelloFavorites2025) |
+| 917 | 15 | [Chambea en Tu PB Lima 2025](https://www.worldcubeassociation.org/competitions/ChambeaenTuPBLima2025) |
+| 918 | 15 | [Chennai Beach House Open 2025](https://www.worldcubeassociation.org/competitions/ChennaiBeachHouseOpen2025) |
+| 919 | 15 | [China FM Xi'an 2011](https://www.worldcubeassociation.org/competitions/ChinaFMXian2011) |
+| 920 | 15 | [Classic City Shhhhh 2017](https://www.worldcubeassociation.org/competitions/ClassicCityShhhhh2017) |
+| 921 | 15 | [Cubing USMA 2023](https://www.worldcubeassociation.org/competitions/CubingUSMA2023) |
+| 922 | 15 | [D21 Delhi Cube Open C 2024](https://www.worldcubeassociation.org/competitions/D21DelhiCubeOpenC2024) |
+| 923 | 15 | [Danish FM Championship 2025](https://www.worldcubeassociation.org/competitions/DanishFMChampionship2025) |
+| 924 | 15 | [Don't DNF Denton 2024](https://www.worldcubeassociation.org/competitions/DontDNFDenton2024) |
+| 925 | 15 | [Don't Move Copenhagen 2022](https://www.worldcubeassociation.org/competitions/DontMoveCopenhagen2022) |
+| 926 | 15 | [Drop-in Cubing Partille 2025](https://www.worldcubeassociation.org/competitions/DropinCubingPartille2025) |
+| 927 | 15 | [Edward Calvo Summer Day 2018](https://www.worldcubeassociation.org/competitions/EdwardCalvoSummerDay2018) |
+| 928 | 15 | [Eretum Mental Breakdown 2022](https://www.worldcubeassociation.org/competitions/EretumMentalBreakdown2022) |
+| 929 | 15 | [Estonian Open 2009](https://www.worldcubeassociation.org/competitions/EstonianOpen2009) |
+| 930 | 15 | [Bigger in Texas 2016](https://www.worldcubeassociation.org/competitions/EverythingsBiggerinTexas2016) |
+| 931 | 15 | [FMC 2014](https://www.worldcubeassociation.org/competitions/FantasticMichigan2014) |
+| 932 | 15 | [Farming-a-ton of Solves ME 2025](https://www.worldcubeassociation.org/competitions/FarmingatonofSolvesME2025) |
+| 933 | 15 | [Florida Open 2007](https://www.worldcubeassociation.org/competitions/FloridaOpen2007) |
+| 934 | 15 | [FMCats Wisconsin III 2024](https://www.worldcubeassociation.org/competitions/FMCatsWisconsinIII2024) |
+| 935 | 15 | [FMC Colombia 2023](https://www.worldcubeassociation.org/competitions/FMCColombia2023) |
+| 936 | 15 | [FMCow Ohio State V 2025](https://www.worldcubeassociation.org/competitions/FMCowOhioStateV2025) |
+| 937 | 15 | [FMC Crêpes 2022](https://www.worldcubeassociation.org/competitions/FMCrepes2022) |
+| 938 | 15 | [FMC West Melbourne 2023](https://www.worldcubeassociation.org/competitions/FMCWestMelbourne2023) |
+| 939 | 15 | [FMHawks OH 2025](https://www.worldcubeassociation.org/competitions/FMHawksOH2025) |
+| 940 | 15 | [Fun with FM in Kraków 2025](https://www.worldcubeassociation.org/competitions/FunwithFMinKrakow2025) |
+| 941 | 15 | [Furesø Efterårscubing 2024](https://www.worldcubeassociation.org/competitions/FuresoEfterarscubing2024) |
+| 942 | 15 | [Gallarate Mental Breakdown 2024](https://www.worldcubeassociation.org/competitions/GallarateMentalBreakdown2024) |
+| 943 | 15 | [Germany 2005](https://www.worldcubeassociation.org/competitions/Germany2005) |
+| 944 | 15 | [Groundhog Day in Somerfield 2024](https://www.worldcubeassociation.org/competitions/GroundhogDayinSomerfield2024) |
+| 945 | 15 | [Hallsberg Open 2023](https://www.worldcubeassociation.org/competitions/HallsbergOpen2023) |
+| 946 | 15 | [Helsinki Winter Special 2020](https://www.worldcubeassociation.org/competitions/HelsinkiWinterSpecial2020) |
+| 947 | 15 | [Idéale Nabeul Open 2019](https://www.worldcubeassociation.org/competitions/IdealeNabeulOpen2019) |
+| 948 | 15 | [Ignus Open 2015](https://www.worldcubeassociation.org/competitions/IgnusOpen2015) |
+| 949 | 15 | [I IFMA ao Cubo 2025](https://www.worldcubeassociation.org/competitions/IIFMAaoCubo2025) |
+| 950 | 15 | [Roorkee Open 2014](https://www.worldcubeassociation.org/competitions/IITRoorkeeOpen2014) |
+| 951 | 15 | [Indonesia Masters 2023](https://www.worldcubeassociation.org/competitions/IndonesiaMasters2023) |
+| 952 | 15 | [Irish Open 2012](https://www.worldcubeassociation.org/competitions/IrishOpen2012) |
+| 953 | 15 | [Israel PBQ Championship 2023](https://www.worldcubeassociation.org/competitions/IsraelPBQChampionship2023) |
+| 954 | 15 | [Juhannus 2024](https://www.worldcubeassociation.org/competitions/Juhannus2024) |
+| 955 | 15 | [Kimberley Open 2015](https://www.worldcubeassociation.org/competitions/KimberleyOpen2015) |
+| 956 | 15 | [Koalafication Tauranga 2022](https://www.worldcubeassociation.org/competitions/KoalaficationTauranga2022) |
+| 957 | 15 | [Kyiv Big Friends I 2023](https://www.worldcubeassociation.org/competitions/KyivBigFriendsI2023) |
+| 958 | 15 | [Kyiv Big Friends II 2023](https://www.worldcubeassociation.org/competitions/KyivBigFriendsII2023) |
+| 959 | 15 | [LA Blind Cube Day 2018](https://www.worldcubeassociation.org/competitions/LABlindCubeDay2018) |
+| 960 | 15 | [LA Summer Side Events 2025](https://www.worldcubeassociation.org/competitions/LASummerSideEvents2025) |
+| 961 | 15 | [Mantua Tiny Open 2016](https://www.worldcubeassociation.org/competitions/MantuaTinyOpen2016) |
+| 962 | 15 | [Master Cube Salvador B 2024](https://www.worldcubeassociation.org/competitions/MasterCubeSalvadorB2024) |
+| 963 | 15 | [May the Cube Be Solved CO 2025](https://www.worldcubeassociation.org/competitions/MaytheCubeBeSolvedCO2025) |
+| 964 | 15 | [MIL Open 2013](https://www.worldcubeassociation.org/competitions/MILOpen2013) |
+| 965 | 15 | [Minas Open 2008](https://www.worldcubeassociation.org/competitions/MinasOpen2008) |
+| 966 | 15 | [Mineirim Open Spring 2018](https://www.worldcubeassociation.org/competitions/MineirimOpenSpring2018) |
+| 967 | 15 | [Minx Open AM 2022](https://www.worldcubeassociation.org/competitions/MinxOpenAM2022) |
+| 968 | 15 | [Mohawk Valley Winter 2026](https://www.worldcubeassociation.org/competitions/MohawkValleyWinter2026) |
+| 969 | 15 | [Monday Night in Gdańsk 2025](https://www.worldcubeassociation.org/competitions/MondayNightinGdansk2025) |
+| 970 | 15 | [New Rochelle at Nite 4 2024](https://www.worldcubeassociation.org/competitions/NewRochelleatNite42024) |
+| 971 | 15 | [New York Multimate PBQ II 2025](https://www.worldcubeassociation.org/competitions/NewYorkMultimatePBQII2025) |
+| 972 | 15 | [No 3x3x3 Diliman 2018](https://www.worldcubeassociation.org/competitions/No3x3x3Diliman2018) |
+| 973 | 15 | [OH Alright Mini-sota 2025](https://www.worldcubeassociation.org/competitions/OHAlrightMinisota2025) |
+| 974 | 15 | [Ohio State Duos VI 2025](https://www.worldcubeassociation.org/competitions/OhioStateDuosVI2025) |
+| 975 | 15 | [Ohio State Mental Madness 2024](https://www.worldcubeassociation.org/competitions/OhioStateMentalMadness2024) |
+| 976 | 15 | [Ottawa Blindfolded 2024](https://www.worldcubeassociation.org/competitions/OttawaBlindfolded2024) |
+| 977 | 15 | [Ottawa Blindfolded 2025](https://www.worldcubeassociation.org/competitions/OttawaBlindfolded2025) |
+| 978 | 15 | [Outokumpu Open 2019](https://www.worldcubeassociation.org/competitions/OutokumpuOpen2019) |
+| 979 | 15 | [Pando City Open 2018](https://www.worldcubeassociation.org/competitions/PandoCityOpen2018) |
+| 980 | 15 | [PBQ Kentucky 2023](https://www.worldcubeassociation.org/competitions/PBQKentucky2023) |
+| 981 | 15 | [PBQtah 8 2025](https://www.worldcubeassociation.org/competitions/PBQtah82025) |
+| 982 | 15 | [Perth Summer Open 2011](https://www.worldcubeassociation.org/competitions/PerthSummerOpen2011) |
+| 983 | 15 | [Pirih Rubik's Competition 2014](https://www.worldcubeassociation.org/competitions/PirihRubiksCompetition2014) |
+| 984 | 15 | [Please Be Quiet Beijing 2019](https://www.worldcubeassociation.org/competitions/PleaseBeQuietBeijing2019) |
+| 985 | 15 | [Please Be Quiet Philippines 2018](https://www.worldcubeassociation.org/competitions/PleaseBeQuietPhilippines2018) |
+| 986 | 15 | [Please Be Quiet Thailand 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQuietThailand2024) |
+| 987 | 15 | [Please Be Quiet Toronto 2019](https://www.worldcubeassociation.org/competitions/PleaseBeQuietToronto2019) |
+| 988 | 15 | [Please Be Solved UBC 2025](https://www.worldcubeassociation.org/competitions/PleaseBeSolvedUBC2025) |
+| 989 | 15 | [Please Be Solved Vancouver 2022](https://www.worldcubeassociation.org/competitions/PleaseBeSolvedVancouver2022) |
+| 990 | 15 | [Pocos Cupos Bogotá XVI 2025](https://www.worldcubeassociation.org/competitions/PocosCuposBogotaXVI2025) |
+| 991 | 15 | [Pocos Cupos Bogotá XX 2026](https://www.worldcubeassociation.org/competitions/PocosCuposBogotaXX2026) |
+| 992 | 15 | [Poznań Side Challenge 2017](https://www.worldcubeassociation.org/competitions/PoznanSideChallenge2017) |
+| 993 | 15 | [PU Villavicencio II 2025](https://www.worldcubeassociation.org/competitions/PUVillavicencioII2025) |
+| 994 | 15 | [Puy de Dome Open 2011](https://www.worldcubeassociation.org/competitions/PuydeDomeOpen2011) |
+| 995 | 15 | [Qəbələ Payız 2019](https://www.worldcubeassociation.org/competitions/QebelePayiz2019) |
+| 996 | 15 | [Qualifornia 2018](https://www.worldcubeassociation.org/competitions/Qualifornia2018) |
+| 997 | 15 | [Quiet Seattle Summer 2024](https://www.worldcubeassociation.org/competitions/QuietSeattleSummer2024) |
+| 998 | 15 | [Riga Open 2015](https://www.worldcubeassociation.org/competitions/RigaOpen2015) |
+| 999 | 15 | [Ropaži Winter 2025](https://www.worldcubeassociation.org/competitions/RopaziWinter2025) |
+| 1000 | 15 | [SacQuiet 2022](https://www.worldcubeassociation.org/competitions/SacQuiet2022) |
+| 1001 | 15 | [SacQuiet Winter 2026](https://www.worldcubeassociation.org/competitions/SacQuietWinter2026) |
+| 1002 | 15 | [Saideira Araruama 2025](https://www.worldcubeassociation.org/competitions/SaideiraAraruama2025) |
+| 1003 | 15 | [Saratoga Springs Big Cubes 2024](https://www.worldcubeassociation.org/competitions/SaratogaSpringsBigCubes2024) |
+| 1004 | 15 | [Shakarim Open 2023](https://www.worldcubeassociation.org/competitions/ShakarimOpen2023) |
+| 1005 | 15 | [Sicily Smart Solving 2026](https://www.worldcubeassociation.org/competitions/SicilySmartSolving2026) |
+| 1006 | 15 | [Silent Brasília 2023](https://www.worldcubeassociation.org/competitions/SilentBrasilia2023) |
+| 1007 | 15 | [Silent Summer Orlando 2019](https://www.worldcubeassociation.org/competitions/SilentSummerOrlando2019) |
+| 1008 | 15 | [Speed and Music Caracas 2019](https://www.worldcubeassociation.org/competitions/SpeedandMusicCaracas2019) |
+| 1009 | 15 | [Success For Candy Stockholm 2024](https://www.worldcubeassociation.org/competitions/SuccessForCandyStockholm2024) |
+| 1010 | 15 | [Swisscubing Mental 2018](https://www.worldcubeassociation.org/competitions/SwisscubingMentalBreakdown2018) |
+| 1011 | 15 | [Taiwan Blind Day 2016](https://www.worldcubeassociation.org/competitions/TaiwanBlindDay2016) |
+| 1012 | 15 | [Tajikistan Open 2019](https://www.worldcubeassociation.org/competitions/TajikistanOpen2019) |
+| 1013 | 15 | [Tbilisi October Open 2023](https://www.worldcubeassociation.org/competitions/TbilisiOctoberOpen2023) |
+| 1014 | 15 | [Tbilisi September Open 2024](https://www.worldcubeassociation.org/competitions/TbilisiSeptemberOpen2024) |
+| 1015 | 15 | [Thailand Quiet Championship 2023](https://www.worldcubeassociation.org/competitions/ThailandQuietChampionship2023) |
+| 1016 | 15 | [TGPBQ Rexburg 2022](https://www.worldcubeassociation.org/competitions/ThanksgivingPBQRexburg2022) |
+| 1017 | 15 | [Titan Big N' Blind 2024](https://www.worldcubeassociation.org/competitions/TitanBigNBlind2024) |
+| 1018 | 15 | [Tokai Challenge Gamma 2024](https://www.worldcubeassociation.org/competitions/TokaiChallengeGamma2024) |
+| 1019 | 15 | [Trujillo Open 2012](https://www.worldcubeassociation.org/competitions/TrujilloOpen2012) |
+| 1020 | 15 | [Tullinge Basement Blind 2019](https://www.worldcubeassociation.org/competitions/TullingeBasementBlind2019) |
+| 1021 | 15 | [Uberlândia Specials 2018](https://www.worldcubeassociation.org/competitions/UberlandiaSpecials2018) |
+| 1022 | 15 | [UL 1: Lycium Barbarum 2023](https://www.worldcubeassociation.org/competitions/UL1LyciumBarbarum2023) |
+| 1023 | 15 | [UL Final: Octahedron 2023](https://www.worldcubeassociation.org/competitions/ULFinalOctahedron2023) |
+| 1024 | 15 | [Uppsalaligan 5: X - 2024](https://www.worldcubeassociation.org/competitions/Uppsalaligan5X2024) |
+| 1025 | 15 | [Uppsalaligan 5: X2 - 2025](https://www.worldcubeassociation.org/competitions/Uppsalaligan5X22025) |
+| 1026 | 15 | [U.R.A. Blind Open 2017](https://www.worldcubeassociation.org/competitions/URABlindOpen2017) |
+| 1027 | 15 | [Ural Winter 2015](https://www.worldcubeassociation.org/competitions/UralWinter2015) |
+| 1028 | 15 | [Viljandi Open 2024](https://www.worldcubeassociation.org/competitions/ViljandiOpen2024) |
+| 1029 | 15 | [Wedding Day Serokomla 2023](https://www.worldcubeassociation.org/competitions/WeddingDaySerokomla2023) |
+| 1030 | 15 | [Wellington Mind Games 2025](https://www.worldcubeassociation.org/competitions/WellingtonMindGames2025) |
+| 1031 | 15 | [X CUBIFMA 2025](https://www.worldcubeassociation.org/competitions/XCUBIFMA2025) |
 
 
 <a href="https://github.com/JustinTimeCuber/wca_statistics" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>

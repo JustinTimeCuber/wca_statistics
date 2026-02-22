@@ -1,31 +1,31 @@
 ## Competition days count by region
 
-*Updated on 19 February 2026*
+*Updated on 22 February 2026*
 
 
 ### World
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.46 | World | 16984 |
+| 1 | 1.46 | World | 16998 |
 
 ### Continents
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.72 | Europe | 5506 |
-| 2 | 1.48 | Oceania | 734 |
-| 3 | 1.46 | South America | 2176 |
-| 4 | 1.40 | Asia | 3450 |
-| 5 | 1.33 | Africa | 220 |
-| 6 | 1.21 | North America | 4898 |
+| 1 | 1.72 | Europe | 5510 |
+| 2 | 1.48 | Oceania | 735 |
+| 3 | 1.46 | South America | 2177 |
+| 4 | 1.40 | Asia | 3453 |
+| 5 | 1.33 | Africa | 221 |
+| 6 | 1.21 | North America | 4902 |
 
 ### Countries
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 2.04 | Uzbekistan | 27 |
-| 2 | 2.00 | Kazakhstan | 63 |
+| 1 | 2.04 | Uzbekistan | 28 |
+| 2 | 2.00 | Kazakhstan | 64 |
 | 3 | 2.00 | Liechtenstein | 3 |
 | 4 | 1.94 | Germany | 287 |
 | 5 | 1.93 | Belarus | 42 |
@@ -43,7 +43,7 @@
 | 17 | 1.84 | Spain | 478 |
 | 18 | 1.84 | Finland | 188 |
 | 19 | 1.83 | Serbia | 30 |
-| 20 | 1.81 | United Kingdom | 348 |
+| 20 | 1.81 | United Kingdom | 349 |
 | 21 | 1.80 | Slovakia | 56 |
 | 22 | 1.80 | Bosnia and Herzegovina | 15 |
 | 23 | 1.79 | Mexico | 256 |
@@ -51,17 +51,17 @@
 | 25 | 1.76 | Switzerland | 173 |
 | 26 | 1.76 | Austria | 37 |
 | 27 | 1.75 | Luxembourg | 4 |
-| 28 | 1.75 | Sri Lanka | 16 |
-| 29 | 1.75 | Guatemala | 63 |
-| 30 | 1.74 | Ukraine | 151 |
-| 31 | 1.72 | Poland | 604 |
-| 32 | 1.72 | Ireland | 95 |
-| 33 | 1.69 | Hungary | 74 |
-| 34 | 1.67 | Argentina | 124 |
-| 35 | 1.67 | Belgium | 108 |
-| 36 | 1.67 | Madagascar | 3 |
+| 28 | 1.75 | Madagascar | 4 |
+| 29 | 1.75 | Sri Lanka | 16 |
+| 30 | 1.75 | Guatemala | 63 |
+| 31 | 1.74 | Ukraine | 151 |
+| 32 | 1.72 | Poland | 607 |
+| 33 | 1.72 | Ireland | 95 |
+| 34 | 1.69 | Hungary | 74 |
+| 35 | 1.67 | Argentina | 124 |
+| 36 | 1.67 | Belgium | 108 |
 | 37 | 1.67 | North Macedonia | 6 |
-| 38 | 1.66 | Brazil | 678 |
+| 38 | 1.66 | Brazil | 679 |
 | 39 | 1.63 | Italy | 288 |
 | 40 | 1.60 | Iran | 43 |
 | 41 | 1.60 | Dominican Republic | 30 |
@@ -81,7 +81,7 @@
 | 55 | 1.50 | Laos | 2 |
 | 56 | 1.49 | Sweden | 394 |
 | 57 | 1.48 | Peru | 261 |
-| 58 | 1.45 | Australia | 558 |
+| 58 | 1.45 | Australia | 559 |
 | 59 | 1.43 | Montenegro | 7 |
 | 60 | 1.41 | Vietnam | 76 |
 | 61 | 1.41 | Costa Rica | 32 |
@@ -118,8 +118,8 @@
 | 92 | 1.17 | Canada | 491 |
 | 93 | 1.17 | Armenia | 12 |
 | 94 | 1.17 | Tunisia | 24 |
-| 95 | 1.16 | United States | 3926 |
-| 96 | 1.15 | Mongolia | 52 |
+| 95 | 1.16 | United States | 3930 |
+| 96 | 1.15 | Mongolia | 53 |
 | 97 | 1.12 | Azerbaijan | 50 |
 | 98 | 1.12 | Cyprus | 17 |
 | 99 | 1.11 | Egypt | 9 |
