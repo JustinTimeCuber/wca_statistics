@@ -743,8 +743,8 @@
 
 | Rank | First single | Person |
 | :--- | ---: | :--- |
-| 1 | 22 | [Kieran Dizon](https://www.worldcubeassociation.org/persons/2015DIZO02) |
-| 2 | 22 | [Steven Wang](https://www.worldcubeassociation.org/persons/2013WANG63) |
+| 1 | 22 | [Steven Wang](https://www.worldcubeassociation.org/persons/2013WANG63) |
+| 2 | 22 | [Kieran Dizon](https://www.worldcubeassociation.org/persons/2015DIZO02) |
 | 3 | 22 | [Shota Wakabayashi (若林翔太)](https://www.worldcubeassociation.org/persons/2023KADO01) |
 | 4 | 22 | [Yasunari Kumekawa (粂川泰成)](https://www.worldcubeassociation.org/persons/2022KUME01) |
 | 5 | 23 | [Mosfikul Islam](https://www.worldcubeassociation.org/persons/2023ISLA08) |
@@ -765,8 +765,8 @@
 | 20 | 26 | [CJ Brooke](https://www.worldcubeassociation.org/persons/2022BROO02) |
 | 21 | 26 | [Jordi Lleixà López](https://www.worldcubeassociation.org/persons/2023LOPE09) |
 | 22 | 26 | [Yanghong Zhang (张扬红)](https://www.worldcubeassociation.org/persons/2024ZHAN75) |
-| 23 | 27 | [David Woner](https://www.worldcubeassociation.org/persons/2008WONE01) |
-| 24 | 27 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) |
+| 23 | 27 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) |
+| 24 | 27 | [David Woner](https://www.worldcubeassociation.org/persons/2008WONE01) |
 | 25 | 27 | [Claudio Müller](https://www.worldcubeassociation.org/persons/2010MLLE01) |
 | 26 | 27 | [Tan Yan Shun](https://www.worldcubeassociation.org/persons/2016SHUN03) |
 | 27 | 27 | [AJ Kamal](https://www.worldcubeassociation.org/persons/2016KAMA04) |
@@ -1985,8 +1985,8 @@
 | 85 | 1.22 | [Tse Yuet Ming (謝乙銘)](https://www.worldcubeassociation.org/persons/2009TSEM01) |
 | 86 | 1.22 | [Yukun Xia (夏育坤)](https://www.worldcubeassociation.org/persons/2009XIAY01) |
 | 87 | 1.22 | [Chen Miao (苗琛)](https://www.worldcubeassociation.org/persons/2010MIAO01) |
-| 88 | 1.22 | [Yao Shi (史尧)](https://www.worldcubeassociation.org/persons/2011SHIY01) |
-| 89 | 1.22 | [Liwei Cai (蔡立崴)](https://www.worldcubeassociation.org/persons/2011CAIL02) |
+| 88 | 1.22 | [Liwei Cai (蔡立崴)](https://www.worldcubeassociation.org/persons/2011CAIL02) |
+| 89 | 1.22 | [Yao Shi (史尧)](https://www.worldcubeassociation.org/persons/2011SHIY01) |
 | 90 | 1.22 | [Chae Jiseok (채지석)](https://www.worldcubeassociation.org/persons/2008JISE02) |
 | 91 | 1.22 | [Bo Wang (王波)](https://www.worldcubeassociation.org/persons/2012WANG08) |
 | 92 | 1.22 | [Xin Zheng (郑昕)](https://www.worldcubeassociation.org/persons/2011ZHEN07) |
@@ -2190,8 +2190,8 @@
 | 80 | 1/2 25:18 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) |
 | 81 | 1/2 26:45 | [Pierre Calendini](https://www.worldcubeassociation.org/persons/2008CALE01) |
 | 82 | 1/2 27:03 | [Zoltán Schindler](https://www.worldcubeassociation.org/persons/2006SCHI01) |
-| 83 | 1/2 ?:??:?? | [Etienne Castagno](https://www.worldcubeassociation.org/persons/2006CAST01) |
-| 84 | 1/2 ?:??:?? | [Antoine Simon-Chautemps](https://www.worldcubeassociation.org/persons/2005SIMO01) |
+| 83 | 1/2 ?:??:?? | [Antoine Simon-Chautemps](https://www.worldcubeassociation.org/persons/2005SIMO01) |
+| 84 | 1/2 ?:??:?? | [Etienne Castagno](https://www.worldcubeassociation.org/persons/2006CAST01) |
 | 85 | 1/2 ?:??:?? | [Mats Luthman](https://www.worldcubeassociation.org/persons/2007LUTH01) |
 | 86 | 1/3 20:20 | [John Robert Anguluan](https://www.worldcubeassociation.org/persons/2008ANGU01) |
 | 87 | 1/3 22:06 | [Ryosuke Higo (肥後亮佑)](https://www.worldcubeassociation.org/persons/2006HIGO01) |
