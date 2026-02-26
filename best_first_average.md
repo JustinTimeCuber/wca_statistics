@@ -1015,8 +1015,8 @@
 | 60 | 56.18 | [Avery Cochran](https://www.worldcubeassociation.org/persons/2022COCH02) |
 | 61 | 56.29 | [Law Chun Man (羅晉珉)](https://www.worldcubeassociation.org/persons/2019MANL01) |
 | 62 | 56.34 | [Yan Luk (陸昕)](https://www.worldcubeassociation.org/persons/2019YANL01) |
-| 63 | 56.44 | [Ryunosuke Akiba (秋場竜之介)](https://www.worldcubeassociation.org/persons/2024AKIB01) |
-| 64 | 56.44 | [Yuta Kokubu (國分優太)](https://www.worldcubeassociation.org/persons/2024KOKU01) |
+| 63 | 56.44 | [Yuta Kokubu (國分優太)](https://www.worldcubeassociation.org/persons/2024KOKU01) |
+| 64 | 56.44 | [Ryunosuke Akiba (秋場竜之介)](https://www.worldcubeassociation.org/persons/2024AKIB01) |
 | 65 | 56.68 | [Breton MacDonald](https://www.worldcubeassociation.org/persons/2019MACD02) |
 | 66 | 57.11 | [Yuhang Wang (王宇航)](https://www.worldcubeassociation.org/persons/2024WANG70) |
 | 67 | 57.16 | [Julian Miguel Bata](https://www.worldcubeassociation.org/persons/2017BATA02) |
@@ -1745,8 +1745,8 @@
 | 92 | 1.40 | [Yiming Hua (华一鸣)](https://www.worldcubeassociation.org/persons/2008HUAY01) |
 | 93 | 1.40 | [Yangyang Zhang (张阳阳)](https://www.worldcubeassociation.org/persons/2011ZHAN34) |
 | 94 | 1.40 | [Caiyan Hu (胡彩雁)](https://www.worldcubeassociation.org/persons/2012HUCA01) |
-| 95 | 1.41 | [Jiaxi Wang (王嘉熙)](https://www.worldcubeassociation.org/persons/2010WANG11) |
-| 96 | 1.41 | [Sicheng Ji (季思成)](https://www.worldcubeassociation.org/persons/2009JISI01) |
+| 95 | 1.41 | [Sicheng Ji (季思成)](https://www.worldcubeassociation.org/persons/2009JISI01) |
+| 96 | 1.41 | [Jiaxi Wang (王嘉熙)](https://www.worldcubeassociation.org/persons/2010WANG11) |
 | 97 | 1.41 | [Karl Choi](https://www.worldcubeassociation.org/persons/2011CHOI01) |
 | 98 | 1.41 | [Will MacDonald](https://www.worldcubeassociation.org/persons/2011MACD01) |
 | 99 | 1.41 | [Xin Zheng (郑昕)](https://www.worldcubeassociation.org/persons/2011ZHEN07) |
@@ -1783,8 +1783,8 @@
 | 25 | 2.88 | [Fachri Padmaridho](https://www.worldcubeassociation.org/persons/2011PADM01) |
 | 26 | 2.91 | [Rudy](https://www.worldcubeassociation.org/persons/2012RUDY01) |
 | 27 | 2.93 | [Van Tien Trung Vu](https://www.worldcubeassociation.org/persons/2010VUVA01) |
-| 28 | 2.93 | [Jinwoo Choi (최진우)](https://www.worldcubeassociation.org/persons/2012CHOI08) |
-| 29 | 2.93 | [Kim Weon Bin (김원빈)](https://www.worldcubeassociation.org/persons/2012BINK01) |
+| 28 | 2.93 | [Kim Weon Bin (김원빈)](https://www.worldcubeassociation.org/persons/2012BINK01) |
+| 29 | 2.93 | [Jinwoo Choi (최진우)](https://www.worldcubeassociation.org/persons/2012CHOI08) |
 | 30 | 2.94 | [Bartłomiej Różalski](https://www.worldcubeassociation.org/persons/2011ROZA02) |
 | 31 | 2.95 | [Haokun Wang (王皓琨)](https://www.worldcubeassociation.org/persons/2010WANG52) |
 | 32 | 2.96 | [Ke Pan (潘轲)](https://www.worldcubeassociation.org/persons/2010PANK01) |
