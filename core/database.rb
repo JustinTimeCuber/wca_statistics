@@ -16,9 +16,8 @@ module Database
     formats
     persons
     preferred_formats
-    ranks_single
-    ranks_average
     results
+    result_attempts
     round_types
     users
   )

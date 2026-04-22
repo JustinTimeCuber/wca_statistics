@@ -21,15 +21,48 @@ class AverageOfX < GroupedStatistic
       SELECT
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
         result.event_id,
-        value1, value2, value3, value4, value5
+        ra.value
       FROM results result
-      JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1
-      JOIN competitions competition ON competition.id = competition_id
-      JOIN round_types round_type ON round_type.id = round_type_id
-      JOIN ranks_single ON ranks_single.event_id = result.event_id AND ranks_single.person_id = result.person_id
-      -- Take people from top 1000 single for optimization reasons.
-      WHERE ranks_single.country_rank <= 1000 AND result.event_id NOT IN ('333mbf', '333mbo')
-      ORDER BY competition.start_date, round_type.rank
+      JOIN persons person
+        ON person.wca_id = result.person_id
+       AND person.sub_id = 1
+      JOIN competitions competition
+        ON competition.id = result.competition_id
+      JOIN round_types round_type
+        ON round_type.id = result.round_type_id
+      JOIN result_attempts ra
+        ON ra.result_id = result.id
+      JOIN (
+        SELECT event_id, person_id
+        FROM (
+          SELECT
+            person_best.event_id,
+            person_best.person_id,
+            RANK() OVER (
+              PARTITION BY person_best.event_id
+              ORDER BY person_best.best
+            ) AS world_rank
+          FROM (
+            SELECT
+              r.event_id,
+              r.person_id,
+              MIN(r.best) AS best
+            FROM results r
+            JOIN persons p
+              ON p.wca_id = r.person_id
+             AND p.sub_id = 1
+            WHERE r.best > 0
+              AND r.event_id NOT IN ('333mbf', '333mbo')
+            GROUP BY r.event_id, r.person_id
+          ) AS person_best
+        ) ranked_people
+        -- Take people from top 1000 single for optimization reasons.
+        WHERE world_rank <= 1000
+      ) top_people
+        ON top_people.event_id = result.event_id
+       AND top_people.person_id = result.person_id
+      WHERE result.event_id NOT IN ('333mbf', '333mbo')
+      ORDER BY competition.start_date, round_type.rank, ra.attempt_number
     SQL
   end
 
@@ -38,12 +71,11 @@ class AverageOfX < GroupedStatistic
       results = query_results
         .select { |result| result["event_id"] == event_id }
         .group_by { |result| result["person_link"] }
-        .map do |person_link, results|
+        .map do |person_link, attempts|
           data = { last_x_solves: [], best_aox: SolveTime::DNF, best_aox_solves: [] }
-          results
-            .flat_map { |result| (1..5).map { |n| result["value#{n}"] } }
+          attempts
+            .map { |a| a["value"] }
             .each do |value|
-              next if value == SolveTime::SKIPPED_VALUE
               # Here we use raw values instead of SolveTime to improve the performance.
               data[:last_x_solves] << (value > 0 ? value : Float::INFINITY)
               if data[:last_x_solves].length == @solve_count
