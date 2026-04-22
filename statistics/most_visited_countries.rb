@@ -21,7 +21,7 @@ class MostVisitedCountries < Statistic
           NOT IN ('XA', 'XE', 'XF', 'XM', 'XN', 'XO', 'XS', 'XW')
         GROUP BY person_id
         ORDER BY visited_countries DESC
-        LIMIT 100
+        LIMIT 1000
       ) AS visited_countries_by_person
       JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1
       ORDER BY visited_countries DESC

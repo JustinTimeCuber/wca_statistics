@@ -28,7 +28,7 @@ class LongestTimeToSub10 < Statistic
        AND person.sub_id = 1
       WHERE t.first_sub_10_date IS NOT NULL
       ORDER BY years DESC
-      LIMIT 100
+      LIMIT 1000
     SQL
   end
 

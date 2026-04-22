@@ -32,7 +32,7 @@ class BestMedalCollectionFromAbroadByPerson < Statistic
       JOIN persons person ON person.wca_id = person_id AND sub_id = 1
       WHERE gold_medals + silver_medals + bronze_medals > 0
       ORDER BY gold_medals DESC, silver_medals DESC, bronze_medals DESC, person.name
-      LIMIT 100
+      LIMIT 1000
     SQL
   end
 end
