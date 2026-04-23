@@ -1,6 +1,6 @@
 ## World records count by country
 
-*Updated on  1 March 2026*
+*Updated on 22 April 2026*
 
 | Rank | WRs | Country |
 | :--- | ---: | :--- |
@@ -31,11 +31,11 @@
 | 25 | 6 | Malaysia |
 | 26 | 6 | Norway |
 | 27 | 5 | Hong Kong, China |
-| 28 | 3 | Czech Republic |
-| 29 | 3 | Indonesia |
-| 30 | 3 | Israel |
-| 31 | 3 | Philippines |
-| 32 | 3 | Singapore |
+| 28 | 4 | Czech Republic |
+| 29 | 4 | Singapore |
+| 30 | 3 | Indonesia |
+| 31 | 3 | Israel |
+| 32 | 3 | Philippines |
 | 33 | 2 | Mexico |
 | 34 | 2 | Spain |
 | 35 | 2 | Thailand |

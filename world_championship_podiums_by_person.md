@@ -1,6 +1,6 @@
 ## World Championship podiums by person
 
-*Updated on  1 March 2026*
+*Updated on 22 April 2026*
 
 | Rank | Person | Gold | Silver | Bronze | Total |
 | :--- | :--- | :--: | :--: | :--: | :--: |
@@ -79,7 +79,7 @@
 | 73 | [Arifumi Fushimi (伏見有史)](https://www.worldcubeassociation.org/persons/2009FUSH01) | **1** | 0 | 0 | 1 |
 | 74 | [Cameron Stollery](https://www.worldcubeassociation.org/persons/2010STOL01) | **1** | 0 | 0 | 1 |
 | 75 | [Charlie Eggins](https://www.worldcubeassociation.org/persons/2019EGGI02) | **1** | 0 | 0 | 1 |
-| 76 | [Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) | **1** | 0 | 0 | 1 |
+| 76 | [Chris Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) | **1** | 0 | 0 | 1 |
 | 77 | [Dan Knights](https://www.worldcubeassociation.org/persons/2003KNIG01) | **1** | 0 | 0 | 1 |
 | 78 | [Deven Nadudvari](https://www.worldcubeassociation.org/persons/2008NADU01) | **1** | 0 | 0 | 1 |
 | 79 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | **1** | 0 | 0 | 1 |
