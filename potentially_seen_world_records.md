@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 22 April 2026*
+*Updated on 25 April 2026*
 
 | Rank | WRs | Person |
 | :--- | ---: | :--- |
@@ -149,7 +149,7 @@
 | 142 | 59 | [Ilkyoo Choi (최일규)](https://www.worldcubeassociation.org/persons/2008CHOI04) |
 | 143 | 58 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) |
 | 144 | 58 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) |
-| 145 | 58 | [Helmut Heilig](https://www.worldcubeassociation.org/persons/2010HEIL02) |
+| 145 | 58 | [Martin Heilig](https://www.worldcubeassociation.org/persons/2010HEIL02) |
 | 146 | 57 | [Jiayu Wang (王佳宇)](https://www.worldcubeassociation.org/persons/2010WANG53) |
 | 147 | 57 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) |
 | 148 | 57 | [Ian Winokur](https://www.worldcubeassociation.org/persons/2003WINO01) |
