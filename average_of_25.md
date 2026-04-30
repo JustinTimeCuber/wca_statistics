@@ -781,8 +781,8 @@
 | 91 | 25.24 | [Jaehyun Jeong (정재현)](https://www.worldcubeassociation.org/persons/2016JEON02) | 19, 31, 36, 34, 23, 32, 32, 29, 23, 21, 23, 22, 24, 24, 23, 23, 32, 31, 26, 25, 23, 21, 21, 20, 21 |
 | 92 | 25.29 | [Tommaso Raposio](https://www.worldcubeassociation.org/persons/2014RAPO01) | 25, DNF, 25, 30, 29, 23, 26, 27, 27, 30, 23, 24, 21, 19, 30, 23, 23, 23, 21, DNF, 27, 25, 24, 24, 22 |
 | 93 | 25.33 | [Teh Keng Foo (郑庆富)](https://www.worldcubeassociation.org/persons/2011FOOT01) | 22, 27, 24, 24, 30, 24, 23, 29, 29, 29, 26, 30, 24, 24, 24, 25, 25, 25, 25, 22, 25, 22, 25, 28, 25 |
-| 94 | 25.33 | [Ang Chin Zhen (洪靖程)](https://www.worldcubeassociation.org/persons/2016ZHEN09) | 25, 21, 24, 32, 23, 28, 27, 19, 25, 29, 27, 24, 28, 23, 25, 28, 32, 25, 26, 22, 25, 23, 27, 24, 24 |
-| 95 | 25.33 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 24, 23, 27, 28, 32, 23, 24, 30, 22, 28, 23, 28, 20, 28, 24, 23, 24, DNF, 25, 26, 21, 24, 26, 28, 24 |
+| 94 | 25.33 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 24, 23, 27, 28, 32, 23, 24, 30, 22, 28, 23, 28, 20, 28, 24, 23, 24, DNF, 25, 26, 21, 24, 26, 28, 24 |
+| 95 | 25.33 | [Ang Chin Zhen (洪靖程)](https://www.worldcubeassociation.org/persons/2016ZHEN09) | 25, 21, 24, 32, 23, 28, 27, 19, 25, 29, 27, 24, 28, 23, 25, 28, 32, 25, 26, 22, 25, 23, 27, 24, 24 |
 | 96 | 25.48 | [Lim Chun Yik (林峻毅)](https://www.worldcubeassociation.org/persons/2018YIKL01) | 29, 27, 26, 25, 24, 23, 21, 26, 22, 25, 34, 25, 27, 27, 29, 24, 19, 24, 25, 24, 32, 25, 22, 31, 25 |
 | 97 | 25.52 | [Kun Zhu (朱坤)](https://www.worldcubeassociation.org/persons/2011ZHUK01) | 24, 29, 25, 27, 27, 24, 26, 29, 29, 22, 21, 26, 29, 23, 29, 26, 22, 27, 25, 25, 24, 23, 24, 24, 27 |
 | 98 | 25.52 | [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) | 22, 24, 25, 27, 29, 27, 29, 25, 26, 26, 22, 31, 27, 26, 24, DNF, 24, 25, 26, 28, 25, 23, 22, 24, 24 |
