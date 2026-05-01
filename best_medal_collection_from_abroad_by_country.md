@@ -1,25 +1,25 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 28 April 2026*
+*Updated on  1 May 2026*
 
 | Rank | Country | Gold | Silver | Bronze | Total |
 | :--- | :--- | :--: | :--: | :--: | :--: |
-| 1 | Hungary | **1560** | 1339 | 1148 | 4047 |
-| 2 | United States | **1558** | 1225 | 1048 | 3831 |
-| 3 | Germany | **1410** | 1330 | 1316 | 4056 |
+| 1 | United States | **1565** | 1229 | 1053 | 3847 |
+| 2 | Hungary | **1560** | 1339 | 1148 | 4047 |
+| 3 | Germany | **1412** | 1332 | 1316 | 4060 |
 | 4 | Russia | **1368** | 748 | 553 | 2669 |
 | 5 | France | **1151** | 1014 | 870 | 3035 |
-| 6 | China | **1137** | 1079 | 945 | 3161 |
+| 6 | China | **1138** | 1080 | 946 | 3164 |
 | 7 | Netherlands | **1071** | 860 | 750 | 2681 |
 | 8 | Poland | **891** | 591 | 464 | 1946 |
 | 9 | Canada | **521** | 526 | 573 | 1620 |
 | 10 | Malaysia | **513** | 547 | 504 | 1564 |
-| 11 | Hong Kong, China | **505** | 501 | 419 | 1425 |
+| 11 | Hong Kong, China | **506** | 502 | 420 | 1428 |
 | 12 | United Kingdom | **502** | 555 | 524 | 1581 |
 | 13 | Switzerland | **494** | 525 | 421 | 1440 |
-| 14 | India | **465** | 473 | 439 | 1377 |
-| 15 | Republic of Korea | **455** | 384 | 334 | 1173 |
+| 14 | India | **465** | 474 | 439 | 1378 |
+| 15 | Republic of Korea | **455** | 385 | 334 | 1174 |
 | 16 | Italy | **449** | 449 | 425 | 1323 |
 | 17 | Ukraine | **401** | 404 | 423 | 1228 |
 | 18 | Denmark | **400** | 345 | 288 | 1033 |
@@ -32,7 +32,7 @@
 | 25 | Chinese Taipei | **268** | 250 | 251 | 769 |
 | 26 | Romania | **268** | 198 | 164 | 630 |
 | 27 | Japan | **260** | 216 | 192 | 668 |
-| 28 | Ireland | **242** | 120 | 101 | 463 |
+| 28 | Ireland | **242** | 121 | 101 | 464 |
 | 29 | Spain | **240** | 239 | 257 | 736 |
 | 30 | Austria | **220** | 264 | 288 | 772 |
 | 31 | Slovenia | **202** | 272 | 278 | 752 |
@@ -41,7 +41,7 @@
 | 34 | Czech Republic | **175** | 196 | 213 | 584 |
 | 35 | Belgium | **160** | 236 | 232 | 628 |
 | 36 | Colombia | **154** | 128 | 125 | 407 |
-| 37 | Kazakhstan | **140** | 164 | 178 | 482 |
+| 37 | Kazakhstan | **140** | 164 | 179 | 483 |
 | 38 | Norway | **138** | 150 | 148 | 436 |
 | 39 | Greece | **136** | 170 | 134 | 440 |
 | 40 | Lithuania | **125** | 112 | 113 | 350 |
@@ -55,7 +55,7 @@
 | 48 | Guatemala | **94** | 59 | 52 | 205 |
 | 49 | Croatia | **90** | 137 | 112 | 339 |
 | 50 | Vietnam | **87** | 105 | 98 | 290 |
-| 51 | Israel | **86** | 83 | 83 | 252 |
+| 51 | Israel | **86** | 84 | 83 | 253 |
 | 52 | Estonia | **71** | 88 | 81 | 240 |
 | 53 | Jordan | **66** | 21 | 28 | 115 |
 | 54 | Iran | **60** | 44 | 32 | 136 |
@@ -67,8 +67,8 @@
 | 60 | Portugal | **43** | 50 | 65 | 158 |
 | 61 | Mongolia | **38** | 52 | 52 | 142 |
 | 62 | Kyrgyzstan | **37** | 45 | 49 | 131 |
-| 63 | Mexico | **36** | 49 | 54 | 139 |
-| 64 | Uzbekistan | **36** | 31 | 32 | 99 |
+| 63 | Uzbekistan | **37** | 32 | 32 | 101 |
+| 64 | Mexico | **36** | 50 | 54 | 140 |
 | 65 | Costa Rica | **32** | 44 | 38 | 114 |
 | 66 | Pakistan | **30** | 28 | 26 | 84 |
 | 67 | Belize | **24** | 6 | 3 | 33 |
@@ -76,12 +76,12 @@
 | 69 | Bulgaria | **21** | 55 | 61 | 137 |
 | 70 | Nigeria | **20** | 36 | 30 | 86 |
 | 71 | North Macedonia | **20** | 27 | 32 | 79 |
-| 72 | Kuwait | **16** | 14 | 30 | 60 |
-| 73 | Morocco | **15** | 19 | 20 | 54 |
-| 74 | Nicaragua | **14** | 8 | 10 | 32 |
-| 75 | Uruguay | **13** | 11 | 18 | 42 |
-| 76 | Bolivia | **11** | 26 | 32 | 69 |
-| 77 | Turkey | **11** | 19 | 20 | 50 |
+| 72 | Turkey | **19** | 19 | 22 | 60 |
+| 73 | Kuwait | **16** | 14 | 30 | 60 |
+| 74 | Morocco | **15** | 19 | 20 | 54 |
+| 75 | Nicaragua | **14** | 8 | 10 | 32 |
+| 76 | Uruguay | **13** | 11 | 18 | 42 |
+| 77 | Bolivia | **11** | 26 | 32 | 69 |
 | 78 | Bangladesh | **11** | 17 | 13 | 41 |
 | 79 | Bosnia and Herzegovina | **10** | 24 | 16 | 50 |
 | 80 | Cyprus | **10** | 21 | 24 | 55 |
@@ -116,15 +116,16 @@
 | 109 | United Arab Emirates | **1** | 0 | 2 | 3 |
 | 110 | Sri Lanka | **0** | 6 | 4 | 10 |
 | 111 | Syria | **0** | 6 | 1 | 7 |
-| 112 | Saint Kitts and Nevis | **0** | 3 | 0 | 3 |
-| 113 | Kenya | **0** | 2 | 1 | 3 |
-| 114 | Togo | **0** | 1 | 5 | 6 |
-| 115 | Nepal | **0** | 1 | 1 | 2 |
-| 116 | Malta | **0** | 1 | 0 | 1 |
-| 117 | Madagascar | **0** | 0 | 2 | 2 |
-| 118 | Turkmenistan | **0** | 0 | 2 | 2 |
-| 119 | Côte d'Ivoire | **0** | 0 | 1 | 1 |
-| 120 | Mauritius | **0** | 0 | 1 | 1 |
+| 112 | Barbados | **0** | 3 | 1 | 4 |
+| 113 | Saint Kitts and Nevis | **0** | 3 | 0 | 3 |
+| 114 | Kenya | **0** | 2 | 1 | 3 |
+| 115 | Togo | **0** | 1 | 5 | 6 |
+| 116 | Nepal | **0** | 1 | 1 | 2 |
+| 117 | Malta | **0** | 1 | 0 | 1 |
+| 118 | Madagascar | **0** | 0 | 2 | 2 |
+| 119 | Turkmenistan | **0** | 0 | 2 | 2 |
+| 120 | Côte d'Ivoire | **0** | 0 | 1 | 1 |
+| 121 | Mauritius | **0** | 0 | 1 | 1 |
 
 
 <a href="https://github.com/JustinTimeCuber/wca_statistics" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>
