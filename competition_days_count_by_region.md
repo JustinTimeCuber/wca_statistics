@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 10 May 2026*
+*Updated on 13 May 2026*
 
 
 ### World
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.46 | World | 17614 |
+| 1 | 1.46 | World | 17620 |
 
 ### Continents
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.71 | Europe | 5726 |
+| 1 | 1.71 | Europe | 5729 |
 | 2 | 1.48 | Oceania | 766 |
 | 3 | 1.46 | South America | 2252 |
-| 4 | 1.40 | Asia | 3567 |
+| 4 | 1.40 | Asia | 3569 |
 | 5 | 1.32 | Africa | 234 |
-| 6 | 1.21 | North America | 5069 |
+| 6 | 1.21 | North America | 5070 |
 
 ### Countries
 
@@ -26,8 +26,8 @@
 | :--- | ---: | :--- | ---: |
 | 1 | 2.07 | Uzbekistan | 29 |
 | 2 | 2.00 | Liechtenstein | 3 |
-| 3 | 1.94 | Kazakhstan | 70 |
-| 4 | 1.94 | Germany | 296 |
+| 3 | 1.94 | Germany | 298 |
+| 4 | 1.94 | Kazakhstan | 70 |
 | 5 | 1.93 | Belarus | 42 |
 | 6 | 1.92 | Russia | 220 |
 | 7 | 1.91 | Turkey | 137 |
@@ -62,7 +62,7 @@
 | 36 | 1.66 | Belgium | 109 |
 | 37 | 1.66 | Brazil | 696 |
 | 38 | 1.65 | Italy | 297 |
-| 39 | 1.61 | Netherlands | 148 |
+| 39 | 1.61 | Netherlands | 149 |
 | 40 | 1.60 | Iran | 43 |
 | 41 | 1.60 | Indonesia | 256 |
 | 42 | 1.60 | Dominican Republic | 30 |
@@ -83,7 +83,7 @@
 | 57 | 1.47 | Peru | 266 |
 | 58 | 1.45 | Australia | 584 |
 | 59 | 1.43 | Montenegro | 7 |
-| 60 | 1.41 | Vietnam | 76 |
+| 60 | 1.40 | Vietnam | 77 |
 | 61 | 1.40 | Israel | 80 |
 | 62 | 1.39 | Costa Rica | 33 |
 | 63 | 1.39 | Estonia | 72 |
@@ -102,7 +102,7 @@
 | 76 | 1.31 | Kuwait | 13 |
 | 77 | 1.30 | Bahrain | 10 |
 | 78 | 1.29 | Uruguay | 62 |
-| 79 | 1.28 | Philippines | 411 |
+| 79 | 1.28 | Philippines | 412 |
 | 80 | 1.28 | Hong Kong, China | 29 |
 | 81 | 1.27 | Colombia | 539 |
 | 82 | 1.26 | Portugal | 68 |
@@ -118,7 +118,7 @@
 | 92 | 1.17 | Canada | 509 |
 | 93 | 1.17 | Armenia | 12 |
 | 94 | 1.17 | Tunisia | 24 |
-| 95 | 1.16 | United States | 4060 |
+| 95 | 1.16 | United States | 4061 |
 | 96 | 1.14 | Azerbaijan | 51 |
 | 97 | 1.13 | Mongolia | 61 |
 | 98 | 1.12 | Honduras | 24 |
