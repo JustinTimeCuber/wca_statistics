@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 13 May 2026*
+*Updated on 16 May 2026*
 
 
 ### Rubik's Cube
@@ -1115,49 +1115,49 @@
 | 55 | [Quinn Maloney](https://www.worldcubeassociation.org/persons/2023MALO01) | 1.68 | **2.26** | [New England Championship 2024](https://www.worldcubeassociation.org/competitions/NewEnglandChampionship2024/results/all#epyram_f) | 4 |
 | 56 | [Drew Brads](https://www.worldcubeassociation.org/persons/2010BRAD01) | 1.86 | **2.26** | [Ohio Championship 2025](https://www.worldcubeassociation.org/competitions/OhioChampionship2025/results/all#epyram_f) | 8 |
 | 57 | [Xuyang Chen (陈徐洋)](https://www.worldcubeassociation.org/persons/2019CHEN43) | 1.87 | **2.26** | [Hangzhou Open 2024](https://www.worldcubeassociation.org/competitions/HangzhouOpen2024/results/all#epyram_f) | 5 |
-| 58 | [Litao Hao (郝立涛)](https://www.worldcubeassociation.org/persons/2018HAOL01) | 2.04 | **2.26** | [Guangzhou Special 2025](https://www.worldcubeassociation.org/competitions/GuangzhouSpecial2025/results/all#epyram_f) | 4 |
-| 59 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | 1.54 | **2.27** | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/all#epyram_f) | 6 |
-| 60 | [Owen Yepeng Sun (孙叶芃)](https://www.worldcubeassociation.org/persons/2017SUNY01) | 1.62 | **2.28** | [Chengdu Summer 2024](https://www.worldcubeassociation.org/competitions/ChengduSummer2024/results/all#epyram_f) | 7 |
-| 61 | [Tian Xia (夏天)](https://www.worldcubeassociation.org/persons/2023XIAT01) | 1.76 | **2.28** | [Xi'an Summer 2025](https://www.worldcubeassociation.org/competitions/XianSummer2025/results/all#epyram_f) | 4 |
-| 62 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | 1.37 | **2.29** | [Chengdu Flash Cube Open 2023](https://www.worldcubeassociation.org/competitions/ChengduFlashCubeOpen2023/results/all#epyram_f) | 5 |
-| 63 | [Carson Clark (张卡森)](https://www.worldcubeassociation.org/persons/2023CLAR02) | 1.42 | **2.29** | [Don't Pop Preble 2024](https://www.worldcubeassociation.org/competitions/DontPopPreble2024/results/all#epyram_f) | 4 |
-| 64 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 1.55 | **2.29** | [Flag City Summer 2023](https://www.worldcubeassociation.org/competitions/FlagCitySummer2023/results/all#epyram_f) | 4 |
-| 65 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | 2.01 | **2.29** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#epyram_f) | 6 |
-| 66 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | 1.40 | **2.30** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#epyram_f) | 8 |
-| 67 | [Junqi Feng (冯骏骐)](https://www.worldcubeassociation.org/persons/2015FENG12) | 1.63 | **2.30** | [Melbourne Summer 2024](https://www.worldcubeassociation.org/competitions/MelbourneSummer2024/results/all#epyram_f) | 4 |
-| 68 | [Kaixi Guo (郭铠希)](https://www.worldcubeassociation.org/persons/2023GUOK01) | 1.78 | **2.30** | [Dalian Open 2024](https://www.worldcubeassociation.org/competitions/DalianOpen2024/results/all#epyram_f) | 4 |
-| 69 | [Ayden Dincher](https://www.worldcubeassociation.org/persons/2022DINC01) | 1.84 | **2.30** | [PBs in Palisades Spring 2026](https://www.worldcubeassociation.org/competitions/PBsinPalisadesSpring2026/results/all#epyram_f) | 4 |
-| 70 | [Eli Rogers](https://www.worldcubeassociation.org/persons/2022ROGE05) | 1.90 | **2.30** | [Edgemont Cubing 2026](https://www.worldcubeassociation.org/competitions/EdgemontCubing2026/results/all#epyram_f) | 6 |
-| 71 | [Tianyu Sun (孙天宇)](https://www.worldcubeassociation.org/persons/2021SUNT01) | 2.08 | **2.30** | [Xi'an Summer 2025](https://www.worldcubeassociation.org/competitions/XianSummer2025/results/all#epyram_f) | 5 |
-| 72 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 2.11 | **2.30** | [CFL Justynów 2025](https://www.worldcubeassociation.org/competitions/CFLJustynow2025/results/all#epyram_f) | 4 |
-| 73 | [Elyas Eyou](https://www.worldcubeassociation.org/persons/2018EYOU02) | 2.11 | **2.30** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#epyram_f) | 9 |
-| 74 | [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) | 1.60 | **2.31** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#epyram_f) | 7 |
-| 75 | [Joaquin Ruenes Hernández](https://www.worldcubeassociation.org/persons/2017HERN11) | 1.61 | **2.31** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#epyram_f) | 7 |
-| 76 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) | 1.73 | **2.31** | [CFL Final Łódź 2025](https://www.worldcubeassociation.org/competitions/CFLFinalLodz2025/results/all#epyram_f) | 6 |
-| 77 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | 2.07 | **2.31** | [Southeast Championship 2022](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2022/results/all#epyram_f) | 4 |
-| 78 | [Xuyang Chen (陈徐洋)](https://www.worldcubeassociation.org/persons/2019CHEN43) | 1.55 | **2.32** | [Deqing Small Cubes Summer 2024](https://www.worldcubeassociation.org/competitions/DeqingSmallCubesSummer2024/results/all#epyram_f) | 4 |
-| 79 | [Yuki Nagai](https://www.worldcubeassociation.org/persons/2022NAGA02) | 1.67 | **2.32** | [Brooklyn Waldorf Winter 2025](https://www.worldcubeassociation.org/competitions/BrooklynWaldorfWinter2025/results/all#epyram_f) | 5 |
-| 80 | [Bofan Zhang (张博藩)](https://www.worldcubeassociation.org/persons/2021ZHAN01) | 1.87 | **2.32** | [Xi'an Cherry Blossom 2024](https://www.worldcubeassociation.org/competitions/XianCherryBlossom2024/results/all#epyram_f) | 4 |
-| 81 | [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) | 1.88 | **2.32** | [CFL Brzeziny Spring 2025](https://www.worldcubeassociation.org/competitions/CFLBrzezinySpring2025/results/all#epyram_f) | 4 |
-| 82 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | 2.20 | **2.32** | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/all#epyram_f) | 4 |
-| 83 | [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) | 1.18 | **2.33** | [CF Claus Race Brzeziny 2025](https://www.worldcubeassociation.org/competitions/CFClausRaceBrzeziny2025/results/all#epyram_f) | 4 |
-| 84 | [Phoenix Patterson](https://www.worldcubeassociation.org/persons/2018PATT04) | 1.38 | **2.33** | [Melbourne Summer 2024](https://www.worldcubeassociation.org/competitions/MelbourneSummer2024/results/all#epyram_f) | 5 |
-| 85 | [Parker Trager](https://www.worldcubeassociation.org/persons/2016TRAG01) | 1.39 | **2.33** | [CubingUSA All-Stars 2025](https://www.worldcubeassociation.org/competitions/CubingUSAAllStars2025/results/all#epyram_f) | 8 |
-| 86 | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | 1.55 | **2.33** | [CFL Justynów 2025](https://www.worldcubeassociation.org/competitions/CFLJustynow2025/results/all#epyram_f) | 5 |
-| 87 | [Darshan Bhavanasi](https://www.worldcubeassociation.org/persons/2022BHAV01) | 1.78 | **2.33** | [Gem City First in Flight 2024](https://www.worldcubeassociation.org/competitions/GemCityFirstinFlight2024/results/all#epyram_f) | 4 |
-| 88 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 1.82 | **2.33** | [Cincinnati Open 2025](https://www.worldcubeassociation.org/competitions/CincinnatiOpen2025/results/all#epyram_f) | 5 |
-| 89 | [Shengze Tang (唐圣泽)](https://www.worldcubeassociation.org/persons/2021TANG03) | 1.84 | **2.33** | [Xi'an Summer 2025](https://www.worldcubeassociation.org/competitions/XianSummer2025/results/all#epyram_f) | 6 |
-| 90 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | 1.96 | **2.33** | [CFL Final Łódź 2025](https://www.worldcubeassociation.org/competitions/CFLFinalLodz2025/results/all#epyram_f) | 7 |
-| 91 | [Tripp Peters](https://www.worldcubeassociation.org/persons/2017PETE04) | 2.12 | **2.33** | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/all#epyram_f) | 7 |
-| 92 | [Clem Tucker](https://www.worldcubeassociation.org/persons/2022TUCK09) | 1.54 | **2.34** | [Cubing-on-Hudson PM 2025](https://www.worldcubeassociation.org/competitions/CubingonHudsonPM2025/results/all#epyram_f) | 4 |
-| 93 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) | 1.55 | **2.34** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#epyram_f) | 10 |
-| 94 | [Emmet Hobbs](https://www.worldcubeassociation.org/persons/2016HOBB01) | 1.90 | **2.34** | [Melbourne Summer 2026](https://www.worldcubeassociation.org/competitions/MelbourneSummer2026/results/all#epyram_f) | 4 |
-| 95 | [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) | 1.92 | **2.34** | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/all#epyram_f) | 8 |
-| 96 | [Harsha Paladugu](https://www.worldcubeassociation.org/persons/2017PALA08) | 2.05 | **2.34** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#epyram_f) | 4 |
-| 97 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 2.07 | **2.34** | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023/results/all#epyram_f) | 4 |
-| 98 | [Shengze Tang (唐圣泽)](https://www.worldcubeassociation.org/persons/2021TANG03) | 1.47 | **2.35** | [Guangzhou Special 2025](https://www.worldcubeassociation.org/competitions/GuangzhouSpecial2025/results/all#epyram_f) | 5 |
-| 99 | [Zijian Cai (蔡子健)](https://www.worldcubeassociation.org/persons/2017CAIZ03) | 1.62 | **2.35** | [Zhengzhou Zest 2025](https://www.worldcubeassociation.org/competitions/ZhengzhouZest2025/results/all#epyram_f) | 7 |
-| 100 | [Milan Vincent Andric](https://www.worldcubeassociation.org/persons/2023ANDR25) | 1.76 | **2.35** | [New York New Year 2025](https://www.worldcubeassociation.org/competitions/NewYorkNewYear2025/results/all#epyram_f) | 4 |
+| 58 | [Theodore Harris Powers Lee](https://www.worldcubeassociation.org/persons/2022LEET03) | 1.98 | **2.26** | [No Clocks in Greenpoint 2026](https://www.worldcubeassociation.org/competitions/NoClocksinGreenpoint2026/results/all#epyram_f) | 4 |
+| 59 | [Litao Hao (郝立涛)](https://www.worldcubeassociation.org/persons/2018HAOL01) | 2.04 | **2.26** | [Guangzhou Special 2025](https://www.worldcubeassociation.org/competitions/GuangzhouSpecial2025/results/all#epyram_f) | 4 |
+| 60 | [Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03) | 1.54 | **2.27** | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/all#epyram_f) | 6 |
+| 61 | [Owen Yepeng Sun (孙叶芃)](https://www.worldcubeassociation.org/persons/2017SUNY01) | 1.62 | **2.28** | [Chengdu Summer 2024](https://www.worldcubeassociation.org/competitions/ChengduSummer2024/results/all#epyram_f) | 7 |
+| 62 | [Tian Xia (夏天)](https://www.worldcubeassociation.org/persons/2023XIAT01) | 1.76 | **2.28** | [Xi'an Summer 2025](https://www.worldcubeassociation.org/competitions/XianSummer2025/results/all#epyram_f) | 4 |
+| 63 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) | 1.37 | **2.29** | [Chengdu Flash Cube Open 2023](https://www.worldcubeassociation.org/competitions/ChengduFlashCubeOpen2023/results/all#epyram_f) | 5 |
+| 64 | [Carson Clark (张卡森)](https://www.worldcubeassociation.org/persons/2023CLAR02) | 1.42 | **2.29** | [Don't Pop Preble 2024](https://www.worldcubeassociation.org/competitions/DontPopPreble2024/results/all#epyram_f) | 4 |
+| 65 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 1.55 | **2.29** | [Flag City Summer 2023](https://www.worldcubeassociation.org/competitions/FlagCitySummer2023/results/all#epyram_f) | 4 |
+| 66 | [Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02) | 2.01 | **2.29** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#epyram_f) | 6 |
+| 67 | [Lingkun Jiang (姜凌坤)](https://www.worldcubeassociation.org/persons/2019JIAN54) | 1.40 | **2.30** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#epyram_f) | 8 |
+| 68 | [Junqi Feng (冯骏骐)](https://www.worldcubeassociation.org/persons/2015FENG12) | 1.63 | **2.30** | [Melbourne Summer 2024](https://www.worldcubeassociation.org/competitions/MelbourneSummer2024/results/all#epyram_f) | 4 |
+| 69 | [Kaixi Guo (郭铠希)](https://www.worldcubeassociation.org/persons/2023GUOK01) | 1.78 | **2.30** | [Dalian Open 2024](https://www.worldcubeassociation.org/competitions/DalianOpen2024/results/all#epyram_f) | 4 |
+| 70 | [Ayden Dincher](https://www.worldcubeassociation.org/persons/2022DINC01) | 1.84 | **2.30** | [PBs in Palisades Spring 2026](https://www.worldcubeassociation.org/competitions/PBsinPalisadesSpring2026/results/all#epyram_f) | 4 |
+| 71 | [Eli Rogers](https://www.worldcubeassociation.org/persons/2022ROGE05) | 1.90 | **2.30** | [Edgemont Cubing 2026](https://www.worldcubeassociation.org/competitions/EdgemontCubing2026/results/all#epyram_f) | 6 |
+| 72 | [Tianyu Sun (孙天宇)](https://www.worldcubeassociation.org/persons/2021SUNT01) | 2.08 | **2.30** | [Xi'an Summer 2025](https://www.worldcubeassociation.org/competitions/XianSummer2025/results/all#epyram_f) | 5 |
+| 73 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 2.11 | **2.30** | [CFL Justynów 2025](https://www.worldcubeassociation.org/competitions/CFLJustynow2025/results/all#epyram_f) | 4 |
+| 74 | [Elyas Eyou](https://www.worldcubeassociation.org/persons/2018EYOU02) | 2.11 | **2.30** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#epyram_f) | 9 |
+| 75 | [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) | 1.60 | **2.31** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#epyram_f) | 7 |
+| 76 | [Joaquin Ruenes Hernández](https://www.worldcubeassociation.org/persons/2017HERN11) | 1.61 | **2.31** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#epyram_f) | 7 |
+| 77 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) | 1.73 | **2.31** | [CFL Final Łódź 2025](https://www.worldcubeassociation.org/competitions/CFLFinalLodz2025/results/all#epyram_f) | 6 |
+| 78 | [Ezra Shere](https://www.worldcubeassociation.org/persons/2019SHER10) | 2.07 | **2.31** | [Southeast Championship 2022](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2022/results/all#epyram_f) | 4 |
+| 79 | [Xuyang Chen (陈徐洋)](https://www.worldcubeassociation.org/persons/2019CHEN43) | 1.55 | **2.32** | [Deqing Small Cubes Summer 2024](https://www.worldcubeassociation.org/competitions/DeqingSmallCubesSummer2024/results/all#epyram_f) | 4 |
+| 80 | [Yuki Nagai](https://www.worldcubeassociation.org/persons/2022NAGA02) | 1.67 | **2.32** | [Brooklyn Waldorf Winter 2025](https://www.worldcubeassociation.org/competitions/BrooklynWaldorfWinter2025/results/all#epyram_f) | 5 |
+| 81 | [Bofan Zhang (张博藩)](https://www.worldcubeassociation.org/persons/2021ZHAN01) | 1.87 | **2.32** | [Xi'an Cherry Blossom 2024](https://www.worldcubeassociation.org/competitions/XianCherryBlossom2024/results/all#epyram_f) | 4 |
+| 82 | [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) | 1.88 | **2.32** | [CFL Brzeziny Spring 2025](https://www.worldcubeassociation.org/competitions/CFLBrzezinySpring2025/results/all#epyram_f) | 4 |
+| 83 | [Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02) | 2.20 | **2.32** | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/all#epyram_f) | 4 |
+| 84 | [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) | 1.18 | **2.33** | [CF Claus Race Brzeziny 2025](https://www.worldcubeassociation.org/competitions/CFClausRaceBrzeziny2025/results/all#epyram_f) | 4 |
+| 85 | [Phoenix Patterson](https://www.worldcubeassociation.org/persons/2018PATT04) | 1.38 | **2.33** | [Melbourne Summer 2024](https://www.worldcubeassociation.org/competitions/MelbourneSummer2024/results/all#epyram_f) | 5 |
+| 86 | [Parker Trager](https://www.worldcubeassociation.org/persons/2016TRAG01) | 1.39 | **2.33** | [CubingUSA All-Stars 2025](https://www.worldcubeassociation.org/competitions/CubingUSAAllStars2025/results/all#epyram_f) | 8 |
+| 87 | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | 1.55 | **2.33** | [CFL Justynów 2025](https://www.worldcubeassociation.org/competitions/CFLJustynow2025/results/all#epyram_f) | 5 |
+| 88 | [Darshan Bhavanasi](https://www.worldcubeassociation.org/persons/2022BHAV01) | 1.78 | **2.33** | [Gem City First in Flight 2024](https://www.worldcubeassociation.org/competitions/GemCityFirstinFlight2024/results/all#epyram_f) | 4 |
+| 89 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 1.82 | **2.33** | [Cincinnati Open 2025](https://www.worldcubeassociation.org/competitions/CincinnatiOpen2025/results/all#epyram_f) | 5 |
+| 90 | [Shengze Tang (唐圣泽)](https://www.worldcubeassociation.org/persons/2021TANG03) | 1.84 | **2.33** | [Xi'an Summer 2025](https://www.worldcubeassociation.org/competitions/XianSummer2025/results/all#epyram_f) | 6 |
+| 91 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | 1.96 | **2.33** | [CFL Final Łódź 2025](https://www.worldcubeassociation.org/competitions/CFLFinalLodz2025/results/all#epyram_f) | 7 |
+| 92 | [Tripp Peters](https://www.worldcubeassociation.org/persons/2017PETE04) | 2.12 | **2.33** | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/all#epyram_f) | 7 |
+| 93 | [Clem Tucker](https://www.worldcubeassociation.org/persons/2022TUCK09) | 1.54 | **2.34** | [Cubing-on-Hudson PM 2025](https://www.worldcubeassociation.org/competitions/CubingonHudsonPM2025/results/all#epyram_f) | 4 |
+| 94 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) | 1.55 | **2.34** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#epyram_f) | 10 |
+| 95 | [Emmet Hobbs](https://www.worldcubeassociation.org/persons/2016HOBB01) | 1.90 | **2.34** | [Melbourne Summer 2026](https://www.worldcubeassociation.org/competitions/MelbourneSummer2026/results/all#epyram_f) | 4 |
+| 96 | [Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01) | 1.92 | **2.34** | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/all#epyram_f) | 8 |
+| 97 | [Harsha Paladugu](https://www.worldcubeassociation.org/persons/2017PALA08) | 2.05 | **2.34** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#epyram_f) | 4 |
+| 98 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 2.07 | **2.34** | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023/results/all#epyram_f) | 4 |
+| 99 | [Shengze Tang (唐圣泽)](https://www.worldcubeassociation.org/persons/2021TANG03) | 1.47 | **2.35** | [Guangzhou Special 2025](https://www.worldcubeassociation.org/competitions/GuangzhouSpecial2025/results/all#epyram_f) | 5 |
+| 100 | [Zijian Cai (蔡子健)](https://www.worldcubeassociation.org/persons/2017CAIZ03) | 1.62 | **2.35** | [Zhengzhou Zest 2025](https://www.worldcubeassociation.org/competitions/ZhengzhouZest2025/results/all#epyram_f) | 7 |
 
 ### Rubik's Clock
 
