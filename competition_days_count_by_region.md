@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on 19 May 2026*
+*Updated on 22 May 2026*
 
 
 ### World
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.46 | World | 17659 |
+| 1 | 1.46 | World | 17681 |
 
 ### Continents
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.71 | Europe | 5736 |
+| 1 | 1.71 | Europe | 5739 |
 | 2 | 1.48 | Oceania | 766 |
-| 3 | 1.46 | South America | 2254 |
-| 4 | 1.40 | Asia | 3577 |
-| 5 | 1.32 | Africa | 237 |
-| 6 | 1.21 | North America | 5089 |
+| 3 | 1.46 | South America | 2255 |
+| 4 | 1.40 | Asia | 3585 |
+| 5 | 1.31 | Africa | 240 |
+| 6 | 1.21 | North America | 5096 |
 
 ### Countries
 
@@ -35,7 +35,7 @@
 | 9 | 1.91 | France | 386 |
 | 10 | 1.88 | Iceland | 17 |
 | 11 | 1.88 | Palestine | 8 |
-| 12 | 1.85 | Finland | 193 |
+| 12 | 1.85 | Finland | 194 |
 | 13 | 1.84 | Spain | 509 |
 | 14 | 1.84 | Thailand | 101 |
 | 15 | 1.84 | Serbia | 31 |
@@ -47,7 +47,7 @@
 | 21 | 1.81 | Slovenia | 47 |
 | 22 | 1.81 | Czech Republic | 98 |
 | 23 | 1.80 | Bosnia and Herzegovina | 15 |
-| 24 | 1.79 | Mexico | 270 |
+| 24 | 1.78 | Mexico | 272 |
 | 25 | 1.77 | Austria | 39 |
 | 26 | 1.76 | Switzerland | 182 |
 | 27 | 1.75 | Luxembourg | 4 |
@@ -55,12 +55,12 @@
 | 29 | 1.74 | Guatemala | 65 |
 | 30 | 1.74 | Ireland | 102 |
 | 31 | 1.73 | Ukraine | 154 |
-| 32 | 1.71 | Poland | 636 |
+| 32 | 1.71 | Poland | 637 |
 | 33 | 1.67 | Argentina | 132 |
 | 34 | 1.67 | North Macedonia | 6 |
-| 35 | 1.66 | Hungary | 77 |
-| 36 | 1.66 | Belgium | 109 |
-| 37 | 1.66 | Brazil | 697 |
+| 35 | 1.66 | Belgium | 109 |
+| 36 | 1.65 | Brazil | 698 |
+| 37 | 1.65 | Hungary | 78 |
 | 38 | 1.65 | Italy | 298 |
 | 39 | 1.61 | Netherlands | 149 |
 | 40 | 1.60 | Iran | 43 |
@@ -73,7 +73,7 @@
 | 47 | 1.57 | Nepal | 23 |
 | 48 | 1.55 | Denmark | 247 |
 | 49 | 1.54 | Latvia | 48 |
-| 50 | 1.53 | India | 766 |
+| 50 | 1.53 | India | 767 |
 | 51 | 1.52 | Greece | 52 |
 | 52 | 1.52 | South Africa | 116 |
 | 53 | 1.51 | Malaysia | 132 |
@@ -87,8 +87,8 @@
 | 61 | 1.40 | Israel | 80 |
 | 62 | 1.39 | Costa Rica | 33 |
 | 63 | 1.39 | Estonia | 72 |
-| 64 | 1.38 | Andorra | 8 |
-| 65 | 1.38 | Chinese Taipei | 168 |
+| 64 | 1.39 | Chinese Taipei | 166 |
+| 65 | 1.38 | Andorra | 8 |
 | 66 | 1.38 | Nigeria | 8 |
 | 67 | 1.38 | Paraguay | 40 |
 | 68 | 1.37 | Bangladesh | 27 |
@@ -102,23 +102,23 @@
 | 76 | 1.31 | Kuwait | 13 |
 | 77 | 1.30 | Bahrain | 10 |
 | 78 | 1.29 | Uruguay | 62 |
-| 79 | 1.28 | Philippines | 412 |
+| 79 | 1.28 | Philippines | 413 |
 | 80 | 1.28 | Hong Kong, China | 29 |
 | 81 | 1.26 | Colombia | 540 |
 | 82 | 1.26 | Portugal | 68 |
 | 83 | 1.25 | Chile | 170 |
 | 84 | 1.25 | El Salvador | 40 |
 | 85 | 1.24 | Venezuela | 99 |
-| 86 | 1.24 | China | 741 |
-| 87 | 1.23 | Morocco | 13 |
-| 88 | 1.23 | Panama | 31 |
-| 89 | 1.22 | United Arab Emirates | 23 |
+| 86 | 1.24 | China | 749 |
+| 87 | 1.23 | Panama | 31 |
+| 88 | 1.22 | United Arab Emirates | 23 |
+| 89 | 1.21 | Morocco | 14 |
 | 90 | 1.21 | Singapore | 114 |
 | 91 | 1.17 | Japan | 275 |
 | 92 | 1.17 | Armenia | 12 |
 | 93 | 1.17 | Tunisia | 24 |
-| 94 | 1.17 | Canada | 511 |
-| 95 | 1.16 | United States | 4077 |
+| 94 | 1.17 | Canada | 512 |
+| 95 | 1.16 | United States | 4081 |
 | 96 | 1.14 | Azerbaijan | 51 |
 | 97 | 1.13 | Mongolia | 61 |
 | 98 | 1.12 | Honduras | 24 |
@@ -130,24 +130,25 @@
 | 104 | 1.00 | Angola | 8 |
 | 105 | 1.00 | Bahamas | 1 |
 | 106 | 1.00 | Barbados | 2 |
-| 107 | 1.00 | Cabo Verde | 1 |
-| 108 | 1.00 | Cambodia | 3 |
-| 109 | 1.00 | Cuba | 1 |
-| 110 | 1.00 | Côte d'Ivoire | 1 |
-| 111 | 1.00 | Fiji | 1 |
-| 112 | 1.00 | Kenya | 29 |
-| 113 | 1.00 | Kosovo | 3 |
-| 114 | 1.00 | Macau, China | 1 |
-| 115 | 1.00 | Malta | 3 |
-| 116 | 1.00 | Mauritius | 6 |
-| 117 | 1.00 | Moldova | 5 |
-| 118 | 1.00 | Oman | 2 |
-| 119 | 1.00 | Pakistan | 3 |
-| 120 | 1.00 | Samoa | 1 |
-| 121 | 1.00 | Tonga | 1 |
-| 122 | 1.00 | Trinidad and Tobago | 1 |
-| 123 | 1.00 | Uganda | 1 |
-| 124 | 1.00 | Zambia | 2 |
+| 107 | 1.00 | Botswana | 1 |
+| 108 | 1.00 | Cabo Verde | 1 |
+| 109 | 1.00 | Cambodia | 3 |
+| 110 | 1.00 | Cuba | 1 |
+| 111 | 1.00 | Côte d'Ivoire | 2 |
+| 112 | 1.00 | Fiji | 1 |
+| 113 | 1.00 | Kenya | 29 |
+| 114 | 1.00 | Kosovo | 3 |
+| 115 | 1.00 | Macau, China | 1 |
+| 116 | 1.00 | Malta | 3 |
+| 117 | 1.00 | Mauritius | 6 |
+| 118 | 1.00 | Moldova | 5 |
+| 119 | 1.00 | Oman | 2 |
+| 120 | 1.00 | Pakistan | 3 |
+| 121 | 1.00 | Samoa | 1 |
+| 122 | 1.00 | Tonga | 1 |
+| 123 | 1.00 | Trinidad and Tobago | 1 |
+| 124 | 1.00 | Uganda | 1 |
+| 125 | 1.00 | Zambia | 2 |
 
 
 <a href="https://github.com/JustinTimeCuber/wca_statistics" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>
