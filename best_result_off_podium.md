@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 22 May 2026*
+*Updated on 25 May 2026*
 
 
 ### Rubik's Cube
@@ -197,22 +197,22 @@
 | 82 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 1.31 | **1.57** | [CFL Koluszki 2025](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueKoluszki2025/results/all#e222_f) | 5 |
 | 83 | [Jerry Yao](https://www.worldcubeassociation.org/persons/2019YAOJ01) | 1.35 | **1.57** | [Great Peconic Bay 2025](https://www.worldcubeassociation.org/competitions/GreatPeconicBay2025/results/all#e222_f) | 4 |
 | 84 | [Nancy Liu](https://www.worldcubeassociation.org/persons/2018LIUN01) | 1.35 | **1.57** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#e222_f) | 12 |
-| 85 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | 1.38 | **1.57** | [CFL Koluszki 2025](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueKoluszki2025/results/all#e222_f) | 6 |
-| 86 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) | 1.47 | **1.57** | [West Melbourne Open 2026](https://www.worldcubeassociation.org/competitions/WestMelbourneOpen2026/results/all#e222_f) | 4 |
-| 87 | [Caleb Chen](https://www.worldcubeassociation.org/persons/2022CHEN37) | 1.00 | **1.58** | [Georgia Championship 2026](https://www.worldcubeassociation.org/competitions/GeorgiaChampionship2026/results/all#e222_f) | 7 |
-| 88 | [Like Li (李李可)](https://www.worldcubeassociation.org/persons/2021LILI03) | 1.14 | **1.58** | [Deqing Small Cubes Summer 2024](https://www.worldcubeassociation.org/competitions/DeqingSmallCubesSummer2024/results/all#e222_f) | 4 |
-| 89 | [Pep Edén](https://www.worldcubeassociation.org/persons/2021EDEN01) | 1.14 | **1.58** | [Nordic Swedish Championship 2026](https://www.worldcubeassociation.org/competitions/NordicSwedishChampionship2026/results/all#e222_f) | 4 |
-| 90 | [Newken Nguyen (นิวเคน เหงียน)](https://www.worldcubeassociation.org/persons/2020NGUY04) | 1.26 | **1.58** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e222_f) | 8 |
-| 91 | [Albert Mandicó Sampol](https://www.worldcubeassociation.org/persons/2021SAMP01) | 1.28 | **1.58** | [Portugalete Open 2025](https://www.worldcubeassociation.org/competitions/PortugaleteOpen2025/results/all#e222_f) | 4 |
-| 92 | [Micah Heckerling](https://www.worldcubeassociation.org/persons/2023HECK01) | 0.94 | **1.59** | [GA Cuber Jackets Fall 2025](https://www.worldcubeassociation.org/competitions/GACuberJacketsFall2025/results/all#e222_f) | 4 |
-| 93 | [Daniel Robinson](https://www.worldcubeassociation.org/persons/2023ROBI10) | 1.00 | **1.59** | [Stevenage 10th Anniversary 2025](https://www.worldcubeassociation.org/competitions/Stevenage10thAnniversary2025/results/all#e222_f) | 4 |
-| 94 | [Hansen Yu (余翰森)](https://www.worldcubeassociation.org/persons/2023YUHA01) | 1.04 | **1.59** | [Xi'an Cherry Blossom 2025](https://www.worldcubeassociation.org/competitions/XianCherryBlossom2025/results/all#e222_f) | 6 |
-| 95 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 1.08 | **1.59** | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025/results/all#e222_f) | 6 |
-| 96 | [Benjamin Kao](https://www.worldcubeassociation.org/persons/2022KAOB01) | 1.09 | **1.59** | [Melbourne Cube Days 2025](https://www.worldcubeassociation.org/competitions/MelbourneCubeDays2025/results/all#e222_f) | 5 |
-| 97 | [Tian Xia (夏天)](https://www.worldcubeassociation.org/persons/2023XIAT01) | 1.16 | **1.60** | [Jiangmen Open 2025](https://www.worldcubeassociation.org/competitions/JiangmenOpen2025/results/all#e222_f) | 4 |
-| 98 | [Nicolás Sánchez](https://www.worldcubeassociation.org/persons/2015SANC11) | 1.16 | **1.60** | [Southeast Championship 2025](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2025/results/all#e222_f) | 6 |
-| 99 | [Max Tully](https://www.worldcubeassociation.org/persons/2023TULL04) | 1.19 | **1.60** | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/all#e222_f) | 4 |
-| 100 | [Ziyu Ye (叶梓渝)](https://www.worldcubeassociation.org/persons/2021YEZI01) | 1.22 | **1.60** | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/all#e222_f) | 5 |
+| 85 | [Henning Reuter](https://www.worldcubeassociation.org/persons/2023REUT01) | 1.36 | **1.57** | [Varberg Open 2026](https://www.worldcubeassociation.org/competitions/VarbergOpen2026/results/all#e222_f) | 4 |
+| 86 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | 1.38 | **1.57** | [CFL Koluszki 2025](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueKoluszki2025/results/all#e222_f) | 6 |
+| 87 | [David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02) | 1.47 | **1.57** | [West Melbourne Open 2026](https://www.worldcubeassociation.org/competitions/WestMelbourneOpen2026/results/all#e222_f) | 4 |
+| 88 | [Caleb Chen](https://www.worldcubeassociation.org/persons/2022CHEN37) | 1.00 | **1.58** | [Georgia Championship 2026](https://www.worldcubeassociation.org/competitions/GeorgiaChampionship2026/results/all#e222_f) | 7 |
+| 89 | [Bosse Schelander](https://www.worldcubeassociation.org/persons/2021SCHE03) | 1.07 | **1.58** | [Varberg Open 2026](https://www.worldcubeassociation.org/competitions/VarbergOpen2026/results/all#e222_f) | 5 |
+| 90 | [Like Li (李李可)](https://www.worldcubeassociation.org/persons/2021LILI03) | 1.14 | **1.58** | [Deqing Small Cubes Summer 2024](https://www.worldcubeassociation.org/competitions/DeqingSmallCubesSummer2024/results/all#e222_f) | 4 |
+| 91 | [Pep Edén](https://www.worldcubeassociation.org/persons/2021EDEN01) | 1.14 | **1.58** | [Nordic Swedish Championship 2026](https://www.worldcubeassociation.org/competitions/NordicSwedishChampionship2026/results/all#e222_f) | 4 |
+| 92 | [Newken Nguyen (นิวเคน เหงียน)](https://www.worldcubeassociation.org/persons/2020NGUY04) | 1.26 | **1.58** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e222_f) | 8 |
+| 93 | [Albert Mandicó Sampol](https://www.worldcubeassociation.org/persons/2021SAMP01) | 1.28 | **1.58** | [Portugalete Open 2025](https://www.worldcubeassociation.org/competitions/PortugaleteOpen2025/results/all#e222_f) | 4 |
+| 94 | [Micah Heckerling](https://www.worldcubeassociation.org/persons/2023HECK01) | 0.94 | **1.59** | [GA Cuber Jackets Fall 2025](https://www.worldcubeassociation.org/competitions/GACuberJacketsFall2025/results/all#e222_f) | 4 |
+| 95 | [Daniel Robinson](https://www.worldcubeassociation.org/persons/2023ROBI10) | 1.00 | **1.59** | [Stevenage 10th Anniversary 2025](https://www.worldcubeassociation.org/competitions/Stevenage10thAnniversary2025/results/all#e222_f) | 4 |
+| 96 | [Hansen Yu (余翰森)](https://www.worldcubeassociation.org/persons/2023YUHA01) | 1.04 | **1.59** | [Xi'an Cherry Blossom 2025](https://www.worldcubeassociation.org/competitions/XianCherryBlossom2025/results/all#e222_f) | 6 |
+| 97 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 1.08 | **1.59** | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025/results/all#e222_f) | 6 |
+| 98 | [Benjamin Kao](https://www.worldcubeassociation.org/persons/2022KAOB01) | 1.09 | **1.59** | [Melbourne Cube Days 2025](https://www.worldcubeassociation.org/competitions/MelbourneCubeDays2025/results/all#e222_f) | 5 |
+| 99 | [Tian Xia (夏天)](https://www.worldcubeassociation.org/persons/2023XIAT01) | 1.16 | **1.60** | [Jiangmen Open 2025](https://www.worldcubeassociation.org/competitions/JiangmenOpen2025/results/all#e222_f) | 4 |
+| 100 | [Nicolás Sánchez](https://www.worldcubeassociation.org/persons/2015SANC11) | 1.16 | **1.60** | [Southeast Championship 2025](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2025/results/all#e222_f) | 6 |
 
 ### 4x4x4 Cube
 
