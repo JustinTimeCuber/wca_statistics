@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 25 May 2026*
+*Updated on 28 May 2026*
 
 
 ### Rubik's Cube
@@ -1470,9 +1470,9 @@
 | 95 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) | 6.89 | **8.18** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#esq1_f) | 4 |
 | 96 | [Evan Wright](https://www.worldcubeassociation.org/persons/2017WRIG03) | 7.19 | **8.18** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#esq1_f) | 11 |
 | 97 | [Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02) | 5.36 | **8.19** | [Welcome Back Texas 2021](https://www.worldcubeassociation.org/competitions/WelcomeBackTexas2021/results/all#esq1_f) | 5 |
-| 98 | [Chris Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) | 6.46 | **8.20** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#esq1_f) | 12 |
-| 99 | [Samuel Fang](https://www.worldcubeassociation.org/persons/2014FANG01) | 7.30 | **8.20** | [Welcome Back Texas 2021](https://www.worldcubeassociation.org/competitions/WelcomeBackTexas2021/results/all#esq1_f) | 6 |
-| 100 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) | 7.90 | **8.21** | [Western Championship 2023](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2023/results/all#esq1_f) | 5 |
+| 98 | [Nathan Rahn](https://www.worldcubeassociation.org/persons/2021RAHN01) | 7.43 | **8.19** | [Heartland Championship 2026](https://www.worldcubeassociation.org/competitions/HeartlandChampionship2026/results/all#esq1_f) | 4 |
+| 99 | [Chris Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) | 6.46 | **8.20** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#esq1_f) | 12 |
+| 100 | [Samuel Fang](https://www.worldcubeassociation.org/persons/2014FANG01) | 7.30 | **8.20** | [Welcome Back Texas 2021](https://www.worldcubeassociation.org/competitions/WelcomeBackTexas2021/results/all#esq1_f) | 6 |
 
 ### 4x4x4 Blindfolded
 
