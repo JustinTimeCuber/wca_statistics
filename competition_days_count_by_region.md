@@ -1,13 +1,13 @@
 ## Competition days count by region
 
-*Updated on 31 May 2026*
+*Updated on  1 June 2026*
 
 
 ### World
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.46 | World | 17754 |
+| 1 | 1.46 | World | 17756 |
 
 ### Continents
 
@@ -15,10 +15,10 @@
 | :--- | ---: | :--- | ---: |
 | 1 | 1.71 | Europe | 5768 |
 | 2 | 1.48 | Oceania | 773 |
-| 3 | 1.46 | South America | 2267 |
+| 3 | 1.46 | South America | 2268 |
 | 4 | 1.40 | Asia | 3594 |
 | 5 | 1.31 | Africa | 243 |
-| 6 | 1.21 | North America | 5109 |
+| 6 | 1.21 | North America | 5110 |
 
 ### Countries
 
@@ -59,7 +59,7 @@
 | 33 | 1.67 | North Macedonia | 6 |
 | 34 | 1.66 | Argentina | 134 |
 | 35 | 1.66 | Belgium | 109 |
-| 36 | 1.66 | Brazil | 702 |
+| 36 | 1.66 | Brazil | 703 |
 | 37 | 1.65 | Hungary | 78 |
 | 38 | 1.65 | Italy | 298 |
 | 39 | 1.61 | Netherlands | 149 |
@@ -118,7 +118,7 @@
 | 92 | 1.17 | Armenia | 12 |
 | 93 | 1.17 | Tunisia | 24 |
 | 94 | 1.17 | Canada | 513 |
-| 95 | 1.16 | United States | 4090 |
+| 95 | 1.16 | United States | 4091 |
 | 96 | 1.15 | Azerbaijan | 54 |
 | 97 | 1.13 | Mongolia | 62 |
 | 98 | 1.12 | Honduras | 24 |
