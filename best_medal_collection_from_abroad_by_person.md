@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on  1 June 2026*
+*Updated on  2 June 2026*
 
 | Rank | Person | Gold | Silver | Bronze | Total |
 | :--- | :--- | :--: | :--: | :--: | :--: |
@@ -169,12 +169,12 @@
 | 162 | [Remo Pihel](https://www.worldcubeassociation.org/persons/2017PIHE01) | **27** | 41 | 39 | 107 |
 | 163 | [Tomas Jankauskas](https://www.worldcubeassociation.org/persons/2013JANK02) | **27** | 32 | 19 | 78 |
 | 164 | [Bernardo Torres](https://www.worldcubeassociation.org/persons/2015TORR12) | **27** | 27 | 15 | 69 |
-| 165 | [Mihir Narayan](https://www.worldcubeassociation.org/persons/2018NARA14) | **27** | 17 | 29 | 73 |
-| 166 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | **27** | 14 | 6 | 47 |
-| 167 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | **26** | 38 | 46 | 110 |
-| 168 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) | **26** | 29 | 26 | 81 |
-| 169 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) | **26** | 26 | 21 | 73 |
-| 170 | [Ganghui Lin (林刚辉)](https://www.worldcubeassociation.org/persons/2014LING04) | **26** | 25 | 16 | 67 |
+| 165 | [Ganghui Lin (林刚辉)](https://www.worldcubeassociation.org/persons/2014LING04) | **27** | 25 | 16 | 68 |
+| 166 | [Mihir Narayan](https://www.worldcubeassociation.org/persons/2018NARA14) | **27** | 17 | 29 | 73 |
+| 167 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | **27** | 14 | 6 | 47 |
+| 168 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | **26** | 38 | 46 | 110 |
+| 169 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) | **26** | 29 | 26 | 81 |
+| 170 | [Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01) | **26** | 26 | 21 | 73 |
 | 171 | [Maarten Smit](https://www.worldcubeassociation.org/persons/2008SMIT04) | **26** | 23 | 37 | 86 |
 | 172 | [Edouard Chambon](https://www.worldcubeassociation.org/persons/2004CHAM01) | **26** | 23 | 10 | 59 |
 | 173 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | **26** | 21 | 20 | 67 |
@@ -192,15 +192,15 @@
 | 185 | [Anatolii Turenko](https://www.worldcubeassociation.org/persons/2018TURE01) | **24** | 21 | 9 | 54 |
 | 186 | [Maxim Chechnev](https://www.worldcubeassociation.org/persons/2011CHEC01) | **24** | 19 | 20 | 63 |
 | 187 | [Ryan Wu](https://www.worldcubeassociation.org/persons/2017WURY01) | **24** | 16 | 20 | 60 |
-| 188 | [Manfred Siew Ee Sheng (蕭奕晟)](https://www.worldcubeassociation.org/persons/2009SIEW03) | **24** | 7 | 10 | 41 |
-| 189 | [David Remolina Amórtegui](https://www.worldcubeassociation.org/persons/2011AMOR01) | **24** | 3 | 4 | 31 |
-| 190 | [Danny Sungin Park (박성인)](https://www.worldcubeassociation.org/persons/2015PARK13) | **23** | 70 | 43 | 136 |
-| 191 | [Willem Klose](https://www.worldcubeassociation.org/persons/2017KLOS01) | **23** | 28 | 18 | 69 |
-| 192 | [Daniel Grabski](https://www.worldcubeassociation.org/persons/2010GRAB01) | **23** | 26 | 28 | 77 |
-| 193 | [Nitin Nathan](https://www.worldcubeassociation.org/persons/2015NATH02) | **23** | 24 | 19 | 66 |
-| 194 | [Thomas Strasser](https://www.worldcubeassociation.org/persons/2022STRA10) | **23** | 14 | 17 | 54 |
-| 195 | [Junqi Feng (冯骏骐)](https://www.worldcubeassociation.org/persons/2015FENG12) | **23** | 12 | 10 | 45 |
-| 196 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | **23** | 7 | 11 | 41 |
+| 188 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | **24** | 7 | 11 | 42 |
+| 189 | [Manfred Siew Ee Sheng (蕭奕晟)](https://www.worldcubeassociation.org/persons/2009SIEW03) | **24** | 7 | 10 | 41 |
+| 190 | [David Remolina Amórtegui](https://www.worldcubeassociation.org/persons/2011AMOR01) | **24** | 3 | 4 | 31 |
+| 191 | [Danny Sungin Park (박성인)](https://www.worldcubeassociation.org/persons/2015PARK13) | **23** | 70 | 43 | 136 |
+| 192 | [Willem Klose](https://www.worldcubeassociation.org/persons/2017KLOS01) | **23** | 28 | 18 | 69 |
+| 193 | [Daniel Grabski](https://www.worldcubeassociation.org/persons/2010GRAB01) | **23** | 26 | 28 | 77 |
+| 194 | [Nitin Nathan](https://www.worldcubeassociation.org/persons/2015NATH02) | **23** | 24 | 19 | 66 |
+| 195 | [Thomas Strasser](https://www.worldcubeassociation.org/persons/2022STRA10) | **23** | 14 | 17 | 54 |
+| 196 | [Junqi Feng (冯骏骐)](https://www.worldcubeassociation.org/persons/2015FENG12) | **23** | 12 | 10 | 45 |
 | 197 | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) | **23** | 6 | 7 | 36 |
 | 198 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | **23** | 6 | 6 | 35 |
 | 199 | [Xuming Wang (王旭明)](https://www.worldcubeassociation.org/persons/2013WANG67) | **23** | 6 | 4 | 33 |
@@ -515,7 +515,7 @@
 | 508 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | **9** | 3 | 2 | 14 |
 | 509 | [Kait Rosenberg](https://www.worldcubeassociation.org/persons/2019ROSE08) | **9** | 3 | 2 | 14 |
 | 510 | [Andrey Ivanov](https://www.worldcubeassociation.org/persons/2012IVAN02) | **9** | 2 | 1 | 12 |
-| 511 | [Joel Brown Brisola](https://www.worldcubeassociation.org/persons/2016BRIS02) | **9** | 1 | 4 | 14 |
+| 511 | [Joel Brown Brisola](https://www.worldcubeassociation.org/persons/2016BRIS02) | **9** | 1 | 5 | 15 |
 | 512 | [Yinghao Wang (王鹰豪)](https://www.worldcubeassociation.org/persons/2010WANG07) | **9** | 0 | 4 | 13 |
 | 513 | [Ihor Bilchenko (Ігор Більченко)](https://www.worldcubeassociation.org/persons/2011BILC01) | **8** | 19 | 19 | 46 |
 | 514 | [Matt Mao](https://www.worldcubeassociation.org/persons/2023MAOS01) | **8** | 18 | 12 | 38 |

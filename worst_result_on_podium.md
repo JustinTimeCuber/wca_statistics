@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on  1 June 2026*
+*Updated on  2 June 2026*
 
 
 ### Rubik's Cube
@@ -443,7 +443,7 @@
 | 13 | [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) | 7:36.50 | **8:28.98** | [Madrid Open 2010](https://www.worldcubeassociation.org/competitions/MadridOpen2010/results/podiums#e666) | 2 |
 | 14 | [Akshay Keswani](https://www.worldcubeassociation.org/persons/2015KESW01) | 8:12.17 | **8:28.63** | [CEIC Masterda Open 2016](https://www.worldcubeassociation.org/competitions/CEICMasterdaOpen2016/results/podiums#e666) | 3 |
 | 15 | [Lenny Kamau Githua](https://www.worldcubeassociation.org/persons/2023GITH02) | 8:11.12 | **8:27.72** | [Nairobi NxN Cubes 2025](https://www.worldcubeassociation.org/competitions/NairobiNxNCubes2025/results/podiums#e666) | 2 |
-| 16 | [Daniel Alexander Malave Escalona](https://www.worldcubeassociation.org/persons/2024ESCA04) | 6:16.26 | **8:22.57** | [Road to Nats Caracas II 2025](https://www.worldcubeassociation.org/competitions/RoadtoNatsCaracasII2025/results/podiums#e666) | 3 |
+| 16 | [Daniel Malave](https://www.worldcubeassociation.org/persons/2024ESCA04) | 6:16.26 | **8:22.57** | [Road to Nats Caracas II 2025](https://www.worldcubeassociation.org/competitions/RoadtoNatsCaracasII2025/results/podiums#e666) | 3 |
 | 17 | [Clara Isabel Diaz Elias](https://www.worldcubeassociation.org/persons/2014ELIA01) | 8:07.03 | **8:17.81** | [SD Spring 2015](https://www.worldcubeassociation.org/competitions/SantoDomingoSpring2015/results/podiums#e666) | 2 |
 | 18 | [Bruno Gálvez](https://www.worldcubeassociation.org/persons/2010GALV01) | 7:20.78 | **7:45.05** | [Aplicarubick Open 2011](https://www.worldcubeassociation.org/competitions/Aplicarubick2011/results/podiums#e666) | 2 |
 | 19 | [Rayan Parmar](https://www.worldcubeassociation.org/persons/2022PARM03) | 7:25.59 | **7:44.08** | [The Complex Kenya 2023](https://www.worldcubeassociation.org/competitions/TheComplexKenya2023/results/podiums#e666) | 2 |
