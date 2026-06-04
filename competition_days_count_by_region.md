@@ -1,24 +1,24 @@
 ## Competition days count by region
 
-*Updated on  2 June 2026*
+*Updated on  4 June 2026*
 
 
 ### World
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.46 | World | 17772 |
+| 1 | 1.46 | World | 17793 |
 
 ### Continents
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.71 | Europe | 5774 |
+| 1 | 1.71 | Europe | 5783 |
 | 2 | 1.48 | Oceania | 773 |
 | 3 | 1.46 | South America | 2268 |
-| 4 | 1.40 | Asia | 3599 |
-| 5 | 1.31 | Africa | 243 |
-| 6 | 1.21 | North America | 5115 |
+| 4 | 1.40 | Asia | 3602 |
+| 5 | 1.31 | Africa | 244 |
+| 6 | 1.21 | North America | 5123 |
 
 ### Countries
 
@@ -31,8 +31,8 @@
 | 5 | 1.93 | Belarus | 42 |
 | 6 | 1.92 | Russia | 220 |
 | 7 | 1.92 | Kyrgyzstan | 12 |
-| 8 | 1.91 | Turkey | 137 |
-| 9 | 1.91 | France | 387 |
+| 8 | 1.91 | Turkey | 138 |
+| 9 | 1.91 | France | 388 |
 | 10 | 1.88 | Iceland | 17 |
 | 11 | 1.88 | Palestine | 8 |
 | 12 | 1.85 | Finland | 194 |
@@ -42,20 +42,20 @@
 | 16 | 1.83 | Norway | 175 |
 | 17 | 1.83 | Lithuania | 35 |
 | 18 | 1.82 | Croatia | 39 |
-| 19 | 1.82 | Slovakia | 61 |
-| 20 | 1.81 | United Kingdom | 360 |
-| 21 | 1.81 | Slovenia | 47 |
-| 22 | 1.81 | Czech Republic | 99 |
+| 19 | 1.81 | United Kingdom | 360 |
+| 20 | 1.81 | Slovenia | 47 |
+| 21 | 1.81 | Czech Republic | 99 |
+| 22 | 1.81 | Slovakia | 62 |
 | 23 | 1.80 | Bosnia and Herzegovina | 15 |
 | 24 | 1.78 | Mexico | 275 |
 | 25 | 1.77 | Austria | 39 |
 | 26 | 1.76 | Switzerland | 186 |
 | 27 | 1.75 | Luxembourg | 4 |
 | 28 | 1.75 | Sri Lanka | 16 |
-| 29 | 1.74 | Guatemala | 65 |
-| 30 | 1.74 | Ireland | 103 |
-| 31 | 1.74 | Ukraine | 156 |
-| 32 | 1.71 | Poland | 640 |
+| 29 | 1.74 | Ukraine | 157 |
+| 30 | 1.74 | Guatemala | 65 |
+| 31 | 1.74 | Ireland | 103 |
+| 32 | 1.71 | Poland | 643 |
 | 33 | 1.67 | North Macedonia | 6 |
 | 34 | 1.66 | Argentina | 134 |
 | 35 | 1.66 | Belgium | 109 |
@@ -63,20 +63,20 @@
 | 37 | 1.65 | Hungary | 78 |
 | 38 | 1.65 | Italy | 298 |
 | 39 | 1.61 | Netherlands | 149 |
-| 40 | 1.60 | Iran | 43 |
-| 41 | 1.60 | Indonesia | 257 |
+| 40 | 1.60 | Indonesia | 258 |
+| 41 | 1.60 | Iran | 43 |
 | 42 | 1.60 | Dominican Republic | 30 |
 | 43 | 1.60 | Madagascar | 5 |
 | 44 | 1.59 | New Zealand | 180 |
 | 45 | 1.57 | San Marino | 7 |
 | 46 | 1.57 | Bulgaria | 30 |
 | 47 | 1.57 | Nepal | 23 |
-| 48 | 1.54 | Denmark | 248 |
+| 48 | 1.55 | Denmark | 249 |
 | 49 | 1.53 | India | 769 |
 | 50 | 1.53 | Latvia | 49 |
 | 51 | 1.52 | Greece | 52 |
 | 52 | 1.52 | South Africa | 116 |
-| 53 | 1.51 | Malaysia | 132 |
+| 53 | 1.51 | Malaysia | 133 |
 | 54 | 1.50 | Laos | 2 |
 | 55 | 1.50 | Bolivia | 177 |
 | 56 | 1.49 | Sweden | 416 |
@@ -98,13 +98,13 @@
 | 72 | 1.33 | Ghana | 3 |
 | 73 | 1.33 | Tajikistan | 3 |
 | 74 | 1.32 | Republic of Korea | 131 |
-| 75 | 1.31 | Jordan | 26 |
-| 76 | 1.31 | Kuwait | 13 |
-| 77 | 1.30 | Bahrain | 10 |
+| 75 | 1.31 | Kuwait | 13 |
+| 76 | 1.30 | Bahrain | 10 |
+| 77 | 1.30 | Jordan | 27 |
 | 78 | 1.29 | Uruguay | 63 |
 | 79 | 1.28 | Philippines | 414 |
 | 80 | 1.28 | Hong Kong, China | 29 |
-| 81 | 1.26 | Portugal | 68 |
+| 81 | 1.28 | Portugal | 69 |
 | 82 | 1.26 | Colombia | 542 |
 | 83 | 1.25 | Chile | 170 |
 | 84 | 1.24 | El Salvador | 41 |
@@ -118,7 +118,7 @@
 | 92 | 1.17 | Armenia | 12 |
 | 93 | 1.17 | Tunisia | 24 |
 | 94 | 1.17 | Canada | 513 |
-| 95 | 1.16 | United States | 4095 |
+| 95 | 1.16 | United States | 4103 |
 | 96 | 1.15 | Azerbaijan | 54 |
 | 97 | 1.13 | Mongolia | 62 |
 | 98 | 1.12 | Honduras | 24 |
@@ -142,13 +142,14 @@
 | 116 | 1.00 | Malta | 3 |
 | 117 | 1.00 | Mauritius | 6 |
 | 118 | 1.00 | Moldova | 5 |
-| 119 | 1.00 | Oman | 2 |
-| 120 | 1.00 | Pakistan | 3 |
-| 121 | 1.00 | Samoa | 1 |
-| 122 | 1.00 | Tonga | 1 |
-| 123 | 1.00 | Trinidad and Tobago | 1 |
-| 124 | 1.00 | Uganda | 1 |
-| 125 | 1.00 | Zambia | 2 |
+| 119 | 1.00 | Mozambique | 1 |
+| 120 | 1.00 | Oman | 2 |
+| 121 | 1.00 | Pakistan | 3 |
+| 122 | 1.00 | Samoa | 1 |
+| 123 | 1.00 | Tonga | 1 |
+| 124 | 1.00 | Trinidad and Tobago | 1 |
+| 125 | 1.00 | Uganda | 1 |
+| 126 | 1.00 | Zambia | 2 |
 
 
 <a href="https://github.com/JustinTimeCuber/wca_statistics" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>

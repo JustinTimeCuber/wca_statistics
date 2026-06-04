@@ -1,28 +1,28 @@
 ## Most visited countries
 
-*Updated on  2 June 2026*
+*Updated on  4 June 2026*
 
 | Rank | Countries | Person |
 | :--- | ---: | :--- |
 | 1 | 80 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
-| 2 | 64 | [Vincenzo Maria Gammino](https://www.worldcubeassociation.org/persons/2016GAMM01) |
+| 2 | 65 | [Vincenzo Maria Gammino](https://www.worldcubeassociation.org/persons/2016GAMM01) |
 | 3 | 57 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 4 | 56 | [Jordan Crippa](https://www.worldcubeassociation.org/persons/2019CRIP01) |
 | 5 | 49 | [Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01) |
 | 6 | 45 | [Hanneke Rijks](https://www.worldcubeassociation.org/persons/2008RIJK01) |
 | 7 | 42 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
 | 8 | 39 | [Anders Larsson](https://www.worldcubeassociation.org/persons/2003LARS01) |
-| 9 | 38 | [Philippe Schwartz](https://www.worldcubeassociation.org/persons/2018SCHW02) |
+| 9 | 39 | [Philippe Schwartz](https://www.worldcubeassociation.org/persons/2018SCHW02) |
 | 10 | 38 | [Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01) |
 | 11 | 36 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
 | 12 | 35 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 13 | 35 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
 | 14 | 34 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
 | 15 | 34 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
-| 16 | 31 | [Ramona Orzel](https://www.worldcubeassociation.org/persons/2019ORZE03) |
-| 17 | 30 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
-| 18 | 30 | [Chiara Marcucci](https://www.worldcubeassociation.org/persons/2021MARC03) |
-| 19 | 30 | [Oscar Luigi M. Gravador](https://www.worldcubeassociation.org/persons/2016GRAV02) |
+| 16 | 31 | [Chiara Marcucci](https://www.worldcubeassociation.org/persons/2021MARC03) |
+| 17 | 31 | [Oscar Luigi M. Gravador](https://www.worldcubeassociation.org/persons/2016GRAV02) |
+| 18 | 31 | [Ramona Orzel](https://www.worldcubeassociation.org/persons/2019ORZE03) |
+| 19 | 30 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 20 | 28 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
 | 21 | 27 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) |
 | 22 | 27 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
