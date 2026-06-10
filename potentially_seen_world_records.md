@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on  7 June 2026*
+*Updated on 10 June 2026*
 
 | Rank | WRs | Person |
 | :--- | ---: | :--- |
@@ -791,7 +791,7 @@
 | 784 | 24 | [Sarah Olson](https://www.worldcubeassociation.org/persons/2015COOK03) |
 | 785 | 24 | [Billie Hammill](https://www.worldcubeassociation.org/persons/2015HAMM01) |
 | 786 | 24 | [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) |
-| 787 | 24 | [Olivia Trace](https://www.worldcubeassociation.org/persons/2015TRAC01) |
+| 787 | 24 | [Aubrey Trace](https://www.worldcubeassociation.org/persons/2015TRAC01) |
 | 788 | 24 | [Bernhard Brodowsky](https://www.worldcubeassociation.org/persons/2016BROD01) |
 | 789 | 24 | [Marek Dąbrowski](https://www.worldcubeassociation.org/persons/2016DABR02) |
 | 790 | 24 | [Amélie Dieterich](https://www.worldcubeassociation.org/persons/2016DIET01) |
