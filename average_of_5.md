@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 1000 single are taken into account.*
-*Updated on 10 June 2026*
+*Updated on 13 June 2026*
 
 
 ### Rubik's Cube
@@ -441,12 +441,12 @@
 | 11 | 1:12.58 | [Jack Pfeifer](https://www.worldcubeassociation.org/persons/2016PFEI01) | 1:11.12, 1:12.39, 1:13.96, 1:14.12, 1:11.38 |
 | 12 | 1:13.71 | [Omar Ellabban](https://www.worldcubeassociation.org/persons/2018ELLA01) | 1:11.53, 1:28.53, 1:09.80, 1:19.80, 1:09.32 |
 | 13 | 1:14.19 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 1:12.66, 1:12.75, DNF, 1:16.01, 1:13.80 |
-| 14 | 1:14.65 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 1:21.66, 1:10.25, 1:09.96, 1:17.88, 1:15.83 |
-| 15 | 1:15.30 | [Dhruv Thirumalairajan](https://www.worldcubeassociation.org/persons/2023THIR06) | 1:09.53, 1:15.47, 1:19.73, 2:13.59, 1:10.70 |
-| 16 | 1:15.57 | [Daniel Rush](https://www.worldcubeassociation.org/persons/2018RUSH01) | 1:13.46, 1:19.98, 1:13.26, 1:22.82, 1:12.53 |
-| 17 | 1:16.03 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | 1:11.74, 1:21.48, 1:21.39, 1:10.76, 1:14.95 |
-| 18 | 1:16.12 | [Vishwa Sankar](https://www.worldcubeassociation.org/persons/2017SANK04) | 1:18.98, 1:16.67, 1:16.28, 1:15.42, 1:12.72 |
-| 19 | 1:16.69 | [Inigo Miguel B. Palisoc](https://www.worldcubeassociation.org/persons/2017PALI04) | 1:21.35, 1:49.60, 1:10.01, 1:14.47, 1:14.24 |
+| 14 | 1:14.62 | [Inigo Miguel B. Palisoc](https://www.worldcubeassociation.org/persons/2017PALI04) | 1:49.60, 1:10.01, 1:14.47, 1:14.24, 1:15.14 |
+| 15 | 1:14.65 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 1:21.66, 1:10.25, 1:09.96, 1:17.88, 1:15.83 |
+| 16 | 1:15.30 | [Dhruv Thirumalairajan](https://www.worldcubeassociation.org/persons/2023THIR06) | 1:09.53, 1:15.47, 1:19.73, 2:13.59, 1:10.70 |
+| 17 | 1:15.57 | [Daniel Rush](https://www.worldcubeassociation.org/persons/2018RUSH01) | 1:13.46, 1:19.98, 1:13.26, 1:22.82, 1:12.53 |
+| 18 | 1:16.03 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | 1:11.74, 1:21.48, 1:21.39, 1:10.76, 1:14.95 |
+| 19 | 1:16.12 | [Vishwa Sankar](https://www.worldcubeassociation.org/persons/2017SANK04) | 1:18.98, 1:16.67, 1:16.28, 1:15.42, 1:12.72 |
 | 20 | 1:17.18 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | 1:16.92, 1:16.35, 1:20.99, 1:17.45, 1:17.17 |
 | 21 | 1:17.40 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | 1:18.68, 1:14.88, 1:26.06, 1:18.65, 1:14.85 |
 | 22 | 1:17.75 | [Mark Zimmermann](https://www.worldcubeassociation.org/persons/2018ZIMM02) | 1:09.12, 1:19.14, 1:24.73, 1:14.54, 1:19.56 |
