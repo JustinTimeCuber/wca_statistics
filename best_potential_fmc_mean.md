@@ -1,7 +1,7 @@
 ## Best potential FMC mean
 
 *Note: The means are computed by taking the best result for each attempt in the given round.*
-*Updated on 16 June 2026*
+*Updated on 19 June 2026*
 
 | Rank | Mean | Attempt 1 | Attempt 2 | Attempt 3 | Competition |
 | :--- | :--: | :--: | :--: | :--: | :--- |
@@ -780,231 +780,231 @@
 | 773 | 23.67 | 22 | 24 | 25 | [Silentia 1 - FMC 2023](https://www.worldcubeassociation.org/competitions/Silentia1FMC2023/results/all#e333fm_1) |
 | 774 | 23.67 | 21 | 26 | 24 | [Southeast FMC Championship 2022](https://www.worldcubeassociation.org/competitions/SoutheastFMCChampionship2022/results/all#e333fm_f) |
 | 775 | 23.67 | 25 | 22 | 24 | [Southeast FMC Championship 2025](https://www.worldcubeassociation.org/competitions/SoutheastFMCChampionship2025/results/all#e333fm_f) |
-| 776 | 23.67 | 23 | 25 | 23 | [Swedish Championship 2025](https://www.worldcubeassociation.org/competitions/SwedishChampionship2025/results/all#e333fm_f) |
-| 777 | 23.67 | 23 | 24 | 24 | [Swedish FMC Championship 2022](https://www.worldcubeassociation.org/competitions/SwedishFMCChampionship2022/results/all#e333fm_f) |
-| 778 | 23.67 | 24 | 23 | 24 | [Szokolya Mental Breakdown 2023](https://www.worldcubeassociation.org/competitions/SzokolyaMentalBreakdown2023/results/all#e333fm_f) |
-| 779 | 23.67 | 24 | 26 | 21 | [Szokolya Open 2025](https://www.worldcubeassociation.org/competitions/SzokolyaOpen2025/results/all#e333fm_f) |
-| 780 | 23.67 | 22 | 25 | 24 | [URJC Open 2025](https://www.worldcubeassociation.org/competitions/URJCOpen2025/results/all#e333fm_f) |
-| 781 | 23.67 | 23 | 25 | 23 | [Vår i Hvidovre 2024](https://www.worldcubeassociation.org/competitions/VariHvidovre2024/results/all#e333fm_f) |
-| 782 | 23.67 | 23 | 22 | 26 | [Vltava FMC 2025](https://www.worldcubeassociation.org/competitions/VltavaFMC2025/results/all#e333fm_f) |
-| 783 | 23.67 | 21 | 25 | 25 | [Washington Championship 2020](https://www.worldcubeassociation.org/competitions/WashingtonChampionship2020/results/all#e333fm_f) |
-| 784 | 23.67 | 23 | 22 | 26 | [Wiscube 2019](https://www.worldcubeassociation.org/competitions/Wiscube2019/results/all#e333fm_1) |
-| 785 | 24.00 | 25 | 24 | 23 | [Aldeílla Mental Breakdown 2022](https://www.worldcubeassociation.org/competitions/AldeillaMentalBreakdown2022/results/all#e333fm_f) |
-| 786 | 24.00 | 24 | 25 | 23 | [ALL1- Oxford 2024](https://www.worldcubeassociation.org/competitions/ALL1Oxford2024/results/all#e333fm_f) |
-| 787 | 24.00 | 24 | 21 | 27 | [Amherst FMC Challenge 2024](https://www.worldcubeassociation.org/competitions/AmherstFMCChallenge2024/results/all#e333fm_1) |
-| 788 | 24.00 | 22 | 25 | 25 | [Archena 24 Horas 2022](https://www.worldcubeassociation.org/competitions/Archena24Horas2022/results/all#e333fm_f) |
-| 789 | 24.00 | 23 | 27 | 22 | [Autotalo Anime Adventure 7 2024](https://www.worldcubeassociation.org/competitions/AutotaloAnimeAdventure72024/results/all#e333fm_1) |
-| 790 | 24.00 | 24 | 27 | 21 | [Baden Side Events 2023](https://www.worldcubeassociation.org/competitions/BadenSideEvents2023/results/all#e333fm_f) |
-| 791 | 24.00 | 23 | 25 | 24 | [Bangkok Brain n' Cube 2025](https://www.worldcubeassociation.org/competitions/BangkokBrainnCube2025/results/all#e333fm_f) |
-| 792 | 24.00 | 27 | 23 | 22 | [Brasileiro 2018](https://www.worldcubeassociation.org/competitions/Brasileiro2018/results/all#e333fm_f) |
-| 793 | 24.00 | 28 | 23 | 21 | [Calvià Open 2025](https://www.worldcubeassociation.org/competitions/CalviaOpen2025/results/all#e333fm_f) |
-| 794 | 24.00 | 25 | 26 | 21 | [China Championship 2017](https://www.worldcubeassociation.org/competitions/ChinaChampionship2017/results/all#e333fm_f) |
-| 795 | 24.00 | 21 | 28 | 23 | [Cubelonia 2017](https://www.worldcubeassociation.org/competitions/Cubelonia2017/results/all#e333fm_f) |
-| 796 | 24.00 | 26 | 24 | 22 | [CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/all#e333fm_f) |
-| 797 | 24.00 | 23 | 24 | 25 | [DFW Quiet Qualifier 2026](https://www.worldcubeassociation.org/competitions/DFWQuietQualifier2026/results/all#e333fm_f) |
-| 798 | 24.00 | 23 | 25 | 24 | [Don't DNS Denton 2025](https://www.worldcubeassociation.org/competitions/DontDNSDenton2025/results/all#e333fm_1) |
-| 799 | 24.00 | 25 | 23 | 24 | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016/results/all#e333fm_f) |
-| 800 | 24.00 | 24 | 22 | 26 | [Find Minimum in Warsaw 2023](https://www.worldcubeassociation.org/competitions/FindMinimumInWarsaw2023/results/all#e333fm_1) |
-| 801 | 24.00 | 22 | 24 | 26 | [Finnish Championship 2018](https://www.worldcubeassociation.org/competitions/FinnishChampionship2018/results/all#e333fm_f) |
-| 802 | 24.00 | 24 | 23 | 25 | [Finnish FMC Series XI 2025](https://www.worldcubeassociation.org/competitions/FinnishFMCSeriesXI2025/results/all#e333fm_f) |
-| 803 | 24.00 | 22 | 23 | 27 | [FMC Americas 2017](https://www.worldcubeassociation.org/competitions/FMCAmericas2017/results/all#e333fm_f) |
-| 804 | 24.00 | 24 | 24 | 24 | [FMC and More Maine 2025](https://www.worldcubeassociation.org/competitions/FMCandMoreMaine2025/results/all#e333fm_f) |
-| 805 | 24.00 | 22 | 26 | 24 | [FMC Asia 2018](https://www.worldcubeassociation.org/competitions/FMCAsia2018/results/all#e333fm_f) |
-| 806 | 24.00 | 26 | 24 | 22 | [FMC Italy 2023](https://www.worldcubeassociation.org/competitions/FMCItaly2023/results/all#e333fm_f) |
-| 807 | 24.00 | 23 | 23 | 26 | [FMC North America West 2019](https://www.worldcubeassociation.org/competitions/FMCNorthAmericaWest2019/results/all#e333fm_2) |
-| 808 | 24.00 | 22 | 25 | 25 | [FMC Philippines 2025](https://www.worldcubeassociation.org/competitions/FMCPhilippines2025/results/all#e333fm_1) |
-| 809 | 24.00 | 27 | 22 | 23 | [GA Cubers PBQ 2022](https://www.worldcubeassociation.org/competitions/GACubersPersonalBestQuest2022/results/all#e333fm_1) |
-| 810 | 24.00 | 21 | 23 | 28 | [Gem City Airplane Mode Spec 2024](https://www.worldcubeassociation.org/competitions/GemCityAirplaneModeSpecial2024/results/all#e333fm_f) |
-| 811 | 24.00 | 29 | 21 | 22 | [Glasgow Big and FMC Spring 2026](https://www.worldcubeassociation.org/competitions/GlasgowBigandFMCSpring2026/results/all#e333fm_f) |
-| 812 | 24.00 | 25 | 22 | 25 | [Glasgow Spring - SBO 2025](https://www.worldcubeassociation.org/competitions/GlasgowSpringSBO2025/results/all#e333fm_f) |
-| 813 | 24.00 | 22 | 25 | 25 | [Glasgow Winter SBO 2026](https://www.worldcubeassociation.org/competitions/GlasgowWinterSBO2026/results/all#e333fm_f) |
-| 814 | 24.00 | 23 | 27 | 22 | [Hungarian All-Rounder 11 2025](https://www.worldcubeassociation.org/competitions/HungarianAllRounder112025/results/all#e333fm_f) |
-| 815 | 24.00 | 24 | 25 | 23 | [Jaqueca de Florida 2022](https://www.worldcubeassociation.org/competitions/JaquecaDeFlorida2022/results/all#e333fm_f) |
-| 816 | 24.00 | 19 | 27 | 26 | [Kyiv NxN Summer 2024](https://www.worldcubeassociation.org/competitions/KyivNxNSummer2024/results/all#e333fm_f) |
-| 817 | 24.00 | 26 | 24 | 22 | [Medan 10th Anniversary 2019](https://www.worldcubeassociation.org/competitions/Medan10thAnniversary2019/results/all#e333fm_f) |
-| 818 | 24.00 | 25 | 24 | 23 | [Medan Farewell 2019](https://www.worldcubeassociation.org/competitions/MedanFarewell2019/results/all#e333fm_f) |
-| 819 | 24.00 | 22 | 28 | 22 | [Mental Breakdown Singapore 2022](https://www.worldcubeassociation.org/competitions/MentalBreakdownSingapore2022/results/all#e333fm_f) |
-| 820 | 24.00 | 23 | 24 | 25 | [Mentallinn 2023](https://www.worldcubeassociation.org/competitions/Mentallinn2023/results/all#e333fm_f) |
-| 821 | 24.00 | 26 | 20 | 26 | [Michigan 2015](https://www.worldcubeassociation.org/competitions/Michigan2015/results/all#e333fm_f) |
-| 822 | 24.00 | 26 | 24 | 22 | [Mini-sota 2023](https://www.worldcubeassociation.org/competitions/Minisota2023/results/all#e333fm_f) |
-| 823 | 24.00 | 24 | 23 | 25 | [Nebraska Championship 2026](https://www.worldcubeassociation.org/competitions/NebraskaChampionship2026/results/all#e333fm_f) |
-| 824 | 24.00 | 22 | 25 | 25 | [Nidaros FMC Winter 2025](https://www.worldcubeassociation.org/competitions/NidarosFMCWinter2025/results/all#e333fm_1) |
-| 825 | 24.00 | 23 | 24 | 25 | [Nittedal Mental Breakdown 2024](https://www.worldcubeassociation.org/competitions/NittedalMentalBreakdown2024/results/all#e333fm_f) |
-| 826 | 24.00 | 26 | 24 | 22 | [Ohio State Summer Solving 2023](https://www.worldcubeassociation.org/competitions/OhioStateSummerSolving2023/results/all#e333fm_f) |
-| 827 | 24.00 | 23 | 24 | 25 | [Only Cubes in Wellington 2024](https://www.worldcubeassociation.org/competitions/OnlyCubesinWellington2024/results/all#e333fm_f) |
-| 828 | 24.00 | 23 | 26 | 23 | [Only FMC 2017](https://www.worldcubeassociation.org/competitions/OnlyFMC2017/results/all#e333fm_f) |
-| 829 | 24.00 | 24 | 24 | 24 | [Optimal Solving in Povo 2024](https://www.worldcubeassociation.org/competitions/OptimalSolvinginPovo2024/results/all#e333fm_1) |
-| 830 | 24.00 | 25 | 22 | 25 | [PBQ Ropaži 2026](https://www.worldcubeassociation.org/competitions/PBQRopazi2026/results/all#e333fm_f) |
-| 831 | 24.00 | 21 | 26 | 25 | [Please Be Finished Brisbane 2026](https://www.worldcubeassociation.org/competitions/PleaseBeFinishedBrisbane2026/results/all#e333fm_f) |
-| 832 | 24.00 | 25 | 25 | 22 | [Please Be Quiet Bergen 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQuietBergen2024/results/all#e333fm_f) |
-| 833 | 24.00 | 25 | 22 | 25 | [Pour Gesté J'ai Gâteau 2024](https://www.worldcubeassociation.org/competitions/PourGesteJaiGateau2024/results/all#e333fm_f) |
-| 834 | 24.00 | 24 | 23 | 25 | [Quiet Seattle October 2024](https://www.worldcubeassociation.org/competitions/QuietSeattleOctober2024/results/all#e333fm_f) |
-| 835 | 24.00 | 24 | 25 | 23 | [Rahn Education Open 2024](https://www.worldcubeassociation.org/competitions/RahnEducationOpen2024/results/all#e333fm_f) |
-| 836 | 24.00 | 23 | 24 | 25 | [Rahn Education Open 2026](https://www.worldcubeassociation.org/competitions/RahnEducationOpen2026/results/all#e333fm_f) |
-| 837 | 24.00 | 24 | 24 | 24 | [Rhein-Neckar MS 2024](https://www.worldcubeassociation.org/competitions/RheinNeckarMS2024/results/all#e333fm_f) |
-| 838 | 24.00 | 22 | 26 | 24 | [Santa Fe O'Clock 2023](https://www.worldcubeassociation.org/competitions/SantaFeOClock2023/results/all#e333fm_f) |
-| 839 | 24.00 | 24 | 25 | 23 | [Schwandorf Open 2016](https://www.worldcubeassociation.org/competitions/SchwandorfOpen2016/results/all#e333fm_f) |
-| 840 | 24.00 | 28 | 22 | 22 | [Shenzhen Open 2018](https://www.worldcubeassociation.org/competitions/ShenzhenOpen2018/results/all#e333fm_f) |
-| 841 | 24.00 | 20 | 25 | 27 | [Skottegårdsskolen Open 2018](https://www.worldcubeassociation.org/competitions/SkottegardsskolenOpen2018/results/all#e333fm_f) |
-| 842 | 24.00 | 20 | 24 | 28 | [Slovenian FMC Nationals 2024](https://www.worldcubeassociation.org/competitions/SlovenianFMCNationals2024/results/all#e333fm_f) |
-| 843 | 24.00 | 24 | 25 | 23 | [Super Duper San Diego 2026](https://www.worldcubeassociation.org/competitions/SuperDuperSanDiego2026/results/all#e333fm_f) |
-| 844 | 24.00 | 25 | 23 | 24 | [Swedish FMC Championship 2024](https://www.worldcubeassociation.org/competitions/SwedishFMCChampionship2024/results/all#e333fm_f) |
-| 845 | 24.00 | 24 | 25 | 23 | [Swisscubing Cup MB II 2025](https://www.worldcubeassociation.org/competitions/SwisscubingCupMBII2025/results/all#e333fm_f) |
-| 846 | 24.00 | 21 | 21 | 30 | [Toba Cubetastrophe 2022](https://www.worldcubeassociation.org/competitions/TobaCubetastrophe2022/results/all#e333fm_f) |
-| 847 | 24.00 | 27 | 23 | 22 | [Turning in Townsville 2021](https://www.worldcubeassociation.org/competitions/TurninginTownsville2021/results/all#e333fm_f) |
-| 848 | 24.00 | 23 | 27 | 22 | [Two FMC Ohio State 2024](https://www.worldcubeassociation.org/competitions/TwoFMCOhioState2024/results/all#e333fm_f) |
-| 849 | 24.00 | 24 | 24 | 24 | [UK Championship 2018](https://www.worldcubeassociation.org/competitions/UKC2018/results/all#e333fm_f) |
-| 850 | 24.00 | 23 | 24 | 25 | [UnOrono-thodox Blocks 2026](https://www.worldcubeassociation.org/competitions/UnOronothodoxBlocks2026/results/all#e333fm_f) |
-| 851 | 24.00 | 24 | 23 | 25 | [WCC Western FMC Champs 2025](https://www.worldcubeassociation.org/competitions/WCCWesternFMCChampionship2025/results/all#e333fm_f) |
-| 852 | 24.00 | 25 | 22 | 25 | [Wiscube 2019](https://www.worldcubeassociation.org/competitions/Wiscube2019/results/all#e333fm_f) |
-| 853 | 24.00 | 24 | 23 | 25 | [WLTD Poznań Side Open 2022](https://www.worldcubeassociation.org/competitions/WLTDPoznanSideOpen2022/results/all#e333fm_f) |
-| 854 | 24.00 | 26 | 27 | 19 | [YJ KL 2023](https://www.worldcubeassociation.org/competitions/YJKL2023/results/all#e333fm_f) |
-| 855 | 24.33 | 25 | 24 | 24 | [3x3 Only Minnesota 2019](https://www.worldcubeassociation.org/competitions/3x3OnlyMinnesota2019/results/all#e333fm_f) |
-| 856 | 24.33 | 25 | 24 | 24 | [Arena Bernô 7 City FM 2024](https://www.worldcubeassociation.org/competitions/ArenaBerno7CityFM2024/results/all#e333fm_f) |
-| 857 | 24.33 | 24 | 25 | 24 | [WCA Asian Championship 2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018/results/all#e333fm_f) |
-| 858 | 24.33 | 26 | 24 | 23 | [BKP 2017](https://www.worldcubeassociation.org/competitions/BerlinKubusProjekt2017/results/all#e333fm_f) |
-| 859 | 24.33 | 26 | 23 | 24 | [Bishop's Stortford Spring 2023](https://www.worldcubeassociation.org/competitions/BishopsStortfordSpringBBO2023/results/all#e333fm_f) |
-| 860 | 24.33 | 26 | 24 | 23 | [B.O.N.D. Open 2016](https://www.worldcubeassociation.org/competitions/BONDOpen2016/results/all#e333fm_f) |
-| 861 | 24.33 | 23 | 26 | 24 | [Budapest FMClvester 2024](https://www.worldcubeassociation.org/competitions/BudapestFMClvester2024/results/all#e333fm_f) |
-| 862 | 24.33 | 24 | 24 | 25 | [Cambridge Challenge 2022](https://www.worldcubeassociation.org/competitions/CambridgeChallenge2022/results/all#e333fm_f) |
-| 863 | 24.33 | 25 | 21 | 27 | [Cambridge Fall Challenge 2022](https://www.worldcubeassociation.org/competitions/CambridgeFallChallenge2022/results/all#e333fm_f) |
-| 864 | 24.33 | 26 | 22 | 25 | [CBNBC 2015](https://www.worldcubeassociation.org/competitions/CBNBC2015/results/all#e333fm_f) |
-| 865 | 24.33 | 26 | 21 | 26 | [Chääswürfel 2025](https://www.worldcubeassociation.org/competitions/Chaaswurfel2025/results/all#e333fm_f) |
-| 866 | 24.33 | 25 | 21 | 27 | [Cube in Denton 2024](https://www.worldcubeassociation.org/competitions/CubeWithRetentioninDenton2024/results/all#e333fm_f) |
-| 867 | 24.33 | 22 | 24 | 27 | [Danish FM Championship 2022](https://www.worldcubeassociation.org/competitions/DanishFMChampionship2022/results/all#e333fm_f) |
-| 868 | 24.33 | 22 | 24 | 27 | [Desafio Brasileiro de Verão 2020](https://www.worldcubeassociation.org/competitions/DesafioBrasileirodeVerao2020/results/all#e333fm_f) |
-| 869 | 24.33 | 24 | 25 | 24 | [Don't DNS Denton 2023](https://www.worldcubeassociation.org/competitions/DontDNSDenton2023/results/all#e333fm_f) |
-| 870 | 24.33 | 27 | 25 | 21 | [Dutch Nationals 2024](https://www.worldcubeassociation.org/competitions/DutchNationals2024/results/all#e333fm_f) |
-| 871 | 24.33 | 26 | 25 | 22 | [Fitchburg FMC II 2023](https://www.worldcubeassociation.org/competitions/FitchburgFMCII2023/results/all#e333fm_f) |
-| 872 | 24.33 | 25 | 24 | 24 | [FMC Americas 2018](https://www.worldcubeassociation.org/competitions/FMCAmericas2018/results/all#e333fm_f) |
-| 873 | 24.33 | 26 | 22 | 25 | [FMCats Wisconsin 2023](https://www.worldcubeassociation.org/competitions/FMCatsWisconsin2023/results/all#e333fm_f) |
-| 874 | 24.33 | 24 | 24 | 25 | [FMC Brasil 2019](https://www.worldcubeassociation.org/competitions/FMCBrasil2019/results/all#e333fm_f) |
-| 875 | 24.33 | 24 | 25 | 24 | [FMC Eastern Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEasternEurope2024/results/all#e333fm_1) |
-| 876 | 24.33 | 24 | 23 | 26 | [FMC Los Andes 2025](https://www.worldcubeassociation.org/competitions/FMCLosAndes2025/results/all#e333fm_f) |
-| 877 | 24.33 | 24 | 24 | 25 | [FMC på GKV 2026](https://www.worldcubeassociation.org/competitions/FMCpaGKV2026/results/all#e333fm_f) |
-| 878 | 24.33 | 25 | 24 | 24 | [FMC Philippines 2025](https://www.worldcubeassociation.org/competitions/FMCPhilippines2025/results/all#e333fm_f) |
-| 879 | 24.33 | 22 | 26 | 25 | [France 2018](https://www.worldcubeassociation.org/competitions/France2018/results/all#e333fm_f) |
-| 880 | 24.33 | 24 | 25 | 24 | [GA Cubers Quiet Quarrel 2021](https://www.worldcubeassociation.org/competitions/GACubersQuietQuarrel2021/results/all#e333fm_f) |
-| 881 | 24.33 | 25 | 27 | 21 | [German Nationals 2019](https://www.worldcubeassociation.org/competitions/GermanNationals2019/results/all#e333fm_f) |
-| 882 | 24.33 | 23 | 25 | 25 | [German Nationals 2023](https://www.worldcubeassociation.org/competitions/GermanNationals2023/results/all#e333fm_f) |
-| 883 | 24.33 | 25 | 23 | 25 | [Hungarian All-Rounder 9 2024](https://www.worldcubeassociation.org/competitions/HungarianAllRounder92024/results/all#e333fm_f) |
-| 884 | 24.33 | 26 | 23 | 24 | [Hungarian FMC Series 2 2026](https://www.worldcubeassociation.org/competitions/HungarianFMCSeries22026/results/all#e333fm_f) |
-| 885 | 24.33 | 23 | 25 | 25 | [Irvine FMC A 2022](https://www.worldcubeassociation.org/competitions/IrvineFMCA2022/results/all#e333fm_f) |
-| 886 | 24.33 | 24 | 22 | 27 | [Kyiv FMC March 2024](https://www.worldcubeassociation.org/competitions/KyivFMCMarch2024/results/all#e333fm_f) |
-| 887 | 24.33 | 24 | 25 | 24 | [Malaysia 10th Cube Open 2019](https://www.worldcubeassociation.org/competitions/Malaysia10thCubeOpen2019/results/all#e333fm_f) |
-| 888 | 24.33 | 22 | 27 | 24 | [Mental Breakdown Germany 2018](https://www.worldcubeassociation.org/competitions/MentalBreakdownGermany2018/results/all#e333fm_1) |
-| 889 | 24.33 | 23 | 24 | 26 | [Mental Breakdown Minnesota 2019](https://www.worldcubeassociation.org/competitions/MentalBreakdownMinnesota2019/results/all#e333fm_f) |
-| 890 | 24.33 | 24 | 24 | 25 | [New England FMC Warmup 2023](https://www.worldcubeassociation.org/competitions/NewEnglandFMCWarmup2023/results/all#e333fm_1) |
-| 891 | 24.33 | 24 | 24 | 25 | [New England Quiet Champs 2024](https://www.worldcubeassociation.org/competitions/NewEnglandQuietChampionship2024/results/all#e333fm_f) |
-| 892 | 24.33 | 24 | 26 | 23 | [No Shoes Kentucky 2019](https://www.worldcubeassociation.org/competitions/NoShoesKentucky2019/results/all#e333fm_f) |
-| 893 | 24.33 | 24 | 25 | 24 | [Ohio State Duos I 2024](https://www.worldcubeassociation.org/competitions/OhioStateDuosI2024/results/all#e333fm_f) |
-| 894 | 24.33 | 27 | 22 | 24 | [Pão de Queijo 2018](https://www.worldcubeassociation.org/competitions/PaodeQueijo2018/results/all#e333fm_f) |
-| 895 | 24.33 | 26 | 24 | 23 | [PBQ Green Bay 2023](https://www.worldcubeassociation.org/competitions/PBQGreenBay2023/results/all#e333fm_f) |
-| 896 | 24.33 | 24 | 24 | 25 | [Please Be Quiet Korea 2019](https://www.worldcubeassociation.org/competitions/PleaseBeQuietKorea2019/results/all#e333fm_f) |
-| 897 | 24.33 | 22 | 24 | 27 | [Please Be Quiet Odivelas II 2026](https://www.worldcubeassociation.org/competitions/PleaseBeQuietOdivelasII2026/results/all#e333fm_f) |
-| 898 | 24.33 | 26 | 23 | 24 | [PoliMi Mental Breakdown 2019](https://www.worldcubeassociation.org/competitions/PoliMiMentalBreakdown2019/results/all#e333fm_f) |
-| 899 | 24.33 | 23 | 24 | 26 | [RNSE 2023](https://www.worldcubeassociation.org/competitions/RheinNeckarSideEvents2023/results/all#e333fm_f) |
-| 900 | 24.33 | 25 | 22 | 26 | [SacCubing XIII 2023](https://www.worldcubeassociation.org/competitions/SacCubingXIII2023/results/all#e333fm_f) |
-| 901 | 24.33 | 24 | 26 | 23 | [SacQuiet Fall 2024](https://www.worldcubeassociation.org/competitions/SacQuietFall2024/results/all#e333fm_f) |
-| 902 | 24.33 | 26 | 26 | 21 | [Schwandorf Open 2018](https://www.worldcubeassociation.org/competitions/SchwandorfOpen2018/results/all#e333fm_f) |
-| 903 | 24.33 | 23 | 25 | 25 | [Sébra Open 2016](https://www.worldcubeassociation.org/competitions/SebraOpen2016/results/all#e333fm_f) |
-| 904 | 24.33 | 29 | 23 | 21 | [Sri Lankan Nationals FMC 2024](https://www.worldcubeassociation.org/competitions/SriLankanNationalsFMC2024/results/all#e333fm_f) |
-| 905 | 24.33 | 25 | 26 | 22 | [Tachikawa FMC 2017](https://www.worldcubeassociation.org/competitions/TachikawaFMC2017/results/all#e333fm_f) |
-| 906 | 24.33 | 25 | 24 | 24 | [Taiwan Championship 2019](https://www.worldcubeassociation.org/competitions/TaiwanChampionship2019/results/all#e333fm_f) |
-| 907 | 24.33 | 23 | 24 | 26 | [Thailand Quiet Championship 2024](https://www.worldcubeassociation.org/competitions/ThailandQuietChampionship2024/results/all#e333fm_f) |
-| 908 | 24.33 | 28 | 25 | 20 | [Tolong Diam Medan 2018](https://www.worldcubeassociation.org/competitions/TolongDiamMedan2018/results/all#e333fm_1) |
-| 909 | 24.33 | 24 | 27 | 22 | [U-Cube Gronau Silent 2025](https://www.worldcubeassociation.org/competitions/UCubeGronauSilent2025/results/all#e333fm_f) |
-| 910 | 24.33 | 22 | 23 | 28 | [US Nationals 2014](https://www.worldcubeassociation.org/competitions/USNationals2014/results/all#e333fm_f) |
-| 911 | 24.33 | 26 | 25 | 22 | [Vardagscubing I - Uppsala 2022](https://www.worldcubeassociation.org/competitions/VardagscubingIUppsala2022/results/all#e333fm_f) |
-| 912 | 24.33 | 24 | 24 | 25 | [Warm Up Canberra 2019](https://www.worldcubeassociation.org/competitions/WarmUpCanberra2019/results/all#e333fm_f) |
-| 913 | 24.33 | 24 | 25 | 24 | [World Championship 2015](https://www.worldcubeassociation.org/competitions/WC2015/results/all#e333fm_f) |
-| 914 | 24.33 | 24 | 25 | 24 | [Wrocław FMC Masters 2019](https://www.worldcubeassociation.org/competitions/WroclawFMCMasters2019/results/all#e333fm_f) |
-| 915 | 24.33 | 27 | 25 | 21 | [Wrocław Side Challenge 2019](https://www.worldcubeassociation.org/competitions/WroclawSideChallenge2019/results/all#e333fm_f) |
-| 916 | 24.67 | 19 | 32 | 23 | [Aarhus Winter 2026](https://www.worldcubeassociation.org/competitions/AarhusWinter2026/results/all#e333fm_f) |
-| 917 | 24.67 | 25 | 24 | 25 | [Bavarian Open 2023](https://www.worldcubeassociation.org/competitions/BavarianOpen2023/results/all#e333fm_f) |
-| 918 | 24.67 | 26 | 26 | 22 | [Berlin Winter Cubing 2019](https://www.worldcubeassociation.org/competitions/BerlinWinterCubing2019/results/all#e333fm_f) |
-| 919 | 24.67 | 22 | 25 | 27 | [Budapest Spring 2024](https://www.worldcubeassociation.org/competitions/BudapestSpring2024/results/all#e333fm_f) |
-| 920 | 24.67 | 26 | 28 | 20 | [Canberra Spring 2016](https://www.worldcubeassociation.org/competitions/CanberraSpring2016/results/all#e333fm_f) |
-| 921 | 24.67 | 26 | 24 | 24 | [CFL Goes Sideways 2019](https://www.worldcubeassociation.org/competitions/CFLGoesSideways2019/results/all#e333fm_f) |
-| 922 | 24.67 | 25 | 26 | 23 | [Classic City Shhhhh 2017](https://www.worldcubeassociation.org/competitions/ClassicCityShhhhh2017/results/all#e333fm_1) |
-| 923 | 24.67 | 24 | 26 | 24 | [Dolné Orešany Cube Day 2024](https://www.worldcubeassociation.org/competitions/DolneOresanyCubeDay2024/results/all#e333fm_f) |
-| 924 | 24.67 | 24 | 28 | 22 | [Don't DNS Denton 2023](https://www.worldcubeassociation.org/competitions/DontDNSDenton2023/results/all#e333fm_1) |
-| 925 | 24.67 | 24 | 22 | 28 | [Evanston Qualifier 2025](https://www.worldcubeassociation.org/competitions/EvanstonQualifier2025/results/all#e333fm_f) |
-| 926 | 24.67 | 27 | 25 | 22 | [Fewest Moves Southeast Asia 2018](https://www.worldcubeassociation.org/competitions/FewestMovesSoutheastAsia2018/results/all#e333fm_f) |
-| 927 | 24.67 | 26 | 26 | 22 | [Florida 2020](https://www.worldcubeassociation.org/competitions/Florida2020/results/all#e333fm_f) |
-| 928 | 24.67 | 26 | 25 | 23 | [FMC Challenge Kiribathgoda 2025](https://www.worldcubeassociation.org/competitions/FMCChallengeKiribathgoda2025/results/all#e333fm_f) |
-| 929 | 24.67 | 23 | 26 | 25 | [FMC Europe 2015](https://www.worldcubeassociation.org/competitions/FMCEurope2015/results/all#e333fm_f) |
-| 930 | 24.67 | 25 | 23 | 26 | [FMC på GKV 2025](https://www.worldcubeassociation.org/competitions/FMCpaGKV2025/results/all#e333fm_f) |
-| 931 | 24.67 | 24 | 26 | 24 | [FMC Sicily 2025](https://www.worldcubeassociation.org/competitions/FMCSicily2025/results/all#e333fm_1) |
-| 932 | 24.67 | 25 | 24 | 25 | [FMC Spain 2023](https://www.worldcubeassociation.org/competitions/FMCSpain2023/results/all#e333fm_f) |
-| 933 | 24.67 | 22 | 25 | 27 | [FMC WPI 2024](https://www.worldcubeassociation.org/competitions/FMCWPI2024/results/all#e333fm_f) |
-| 934 | 24.67 | 25 | 26 | 23 | [Franconia XX 2025](https://www.worldcubeassociation.org/competitions/FranconiaXX2025/results/all#e333fm_f) |
-| 935 | 24.67 | 26 | 26 | 22 | [GA Cubers BBQ 2026](https://www.worldcubeassociation.org/competitions/GACubersBBQ2026/results/all#e333fm_f) |
-| 936 | 24.67 | 23 | 25 | 26 | [HDC X - Hvidovre i Få Træk 2024](https://www.worldcubeassociation.org/competitions/HDCXHvidovreiFaTraek2024/results/all#e333fm_f) |
-| 937 | 24.67 | 25 | 25 | 24 | [JL Final: Kebabpizza 2023](https://www.worldcubeassociation.org/competitions/JLFinalKebabpizza2023/results/all#e333fm_f) |
-| 938 | 24.67 | 24 | 25 | 25 | [Kyiv Blind Side Winter 2026](https://www.worldcubeassociation.org/competitions/KyivBlindSideWinter2026/results/all#e333fm_1) |
-| 939 | 24.67 | 26 | 24 | 24 | [Manchester CL First 2026](https://www.worldcubeassociation.org/competitions/ManchesterCLFirst2026/results/all#e333fm_f) |
-| 940 | 24.67 | 25 | 25 | 24 | [Micro Minnesota 2026](https://www.worldcubeassociation.org/competitions/MicroMinnesota2026/results/all#e333fm_f) |
-| 941 | 24.67 | 24 | 23 | 27 | [Minyons 2022](https://www.worldcubeassociation.org/competitions/Minyons2022/results/all#e333fm_f) |
-| 942 | 24.67 | 24 | 25 | 25 | [Nebraska Championship 2025](https://www.worldcubeassociation.org/competitions/NebraskaChampionship2025/results/all#e333fm_f) |
-| 943 | 24.67 | 24 | 27 | 23 | [New York Championship 2022](https://www.worldcubeassociation.org/competitions/NewYorkChampionship2022/results/all#e333fm_f) |
-| 944 | 24.67 | 25 | 25 | 24 | [No Shoes Kentucky 2019](https://www.worldcubeassociation.org/competitions/NoShoesKentucky2019/results/all#e333fm_2) |
-| 945 | 24.67 | 25 | 26 | 23 | [OSU Blind Weekend 2019](https://www.worldcubeassociation.org/competitions/OSUBlindWeekend2019/results/all#e333fm_1) |
-| 946 | 24.67 | 22 | 26 | 26 | [Please Be Quiet Thailand 2025](https://www.worldcubeassociation.org/competitions/PleaseBeQuietThailand2025/results/all#e333fm_f) |
-| 947 | 24.67 | 19 | 28 | 27 | [Polish Championship 2018](https://www.worldcubeassociation.org/competitions/PolishChampionship2018/results/all#e333fm_f) |
-| 948 | 24.67 | 21 | 26 | 27 | [Ponctuel Silencieux Québec 2025](https://www.worldcubeassociation.org/competitions/PSQuebec2025/results/all#e333fm_f) |
-| 949 | 24.67 | 23 | 24 | 27 | [Quiet Down In Pflugerville 2026](https://www.worldcubeassociation.org/competitions/QuietDownInPflugerville2026/results/all#e333fm_f) |
-| 950 | 24.67 | 22 | 28 | 24 | [Rome Mental Breakdown 2022](https://www.worldcubeassociation.org/competitions/RomeMentalBreakdown2022/results/all#e333fm_f) |
-| 951 | 24.67 | 24 | 23 | 27 | [Rubik's FMC Italy 2025](https://www.worldcubeassociation.org/competitions/RubiksFMCItaly2025/results/all#e333fm_f) |
-| 952 | 24.67 | 29 | 25 | 20 | [SAC 2022](https://www.worldcubeassociation.org/competitions/SAC2022/results/all#e333fm_f) |
-| 953 | 24.67 | 25 | 22 | 27 | [SacQuiet Spring 2024](https://www.worldcubeassociation.org/competitions/SacQuietSpring2024/results/all#e333fm_f) |
-| 954 | 24.67 | 26 | 21 | 27 | [Silentia 1 - FMC 2023](https://www.worldcubeassociation.org/competitions/Silentia1FMC2023/results/all#e333fm_f) |
-| 955 | 24.67 | 25 | 24 | 25 | [Southern FMC Championship 2025](https://www.worldcubeassociation.org/competitions/SouthernFMCChampionship2025/results/all#e333fm_f) |
-| 956 | 24.67 | 26 | 27 | 21 | [Stockholm Mental Breakdown 2023](https://www.worldcubeassociation.org/competitions/StockholmMentalBreakdown2023/results/all#e333fm_f) |
-| 957 | 24.67 | 21 | 25 | 28 | [Survive FMC in Hyderabad 2025](https://www.worldcubeassociation.org/competitions/SurviveFMCinHyderabad2025/results/all#e333fm_1) |
-| 958 | 24.67 | 23 | 25 | 26 | [Swedish FMC Championship 2023](https://www.worldcubeassociation.org/competitions/SwedishFMCChampionship2023/results/all#e333fm_f) |
-| 959 | 24.67 | 23 | 25 | 26 | [Thailand FMC Championship 2025](https://www.worldcubeassociation.org/competitions/ThailandFMCChampionship2025/results/all#e333fm_f) |
-| 960 | 24.67 | 25 | 26 | 23 | [Washtenaw FMC 1 2024](https://www.worldcubeassociation.org/competitions/WashtenawFMC12024/results/all#e333fm_f) |
-| 961 | 24.67 | 27 | 22 | 25 | [Wellington Mind Games 2025](https://www.worldcubeassociation.org/competitions/WellingtonMindGames2025/results/all#e333fm_f) |
-| 962 | 24.67 | 26 | 20 | 28 | [Wuxi Try to Get a Mean 2018](https://www.worldcubeassociation.org/competitions/WuxiTrytoGetaMean2018/results/all#e333fm_f) |
-| 963 | 25.00 | 26 | 25 | 24 | [Autotalo Anime Adventure IV 2024](https://www.worldcubeassociation.org/competitions/AutotaloAnimeAdventureIV2024/results/all#e333fm_1) |
-| 964 | 25.00 | 26 | 24 | 25 | [Autotalo Anime Adventure IV 2024](https://www.worldcubeassociation.org/competitions/AutotaloAnimeAdventureIV2024/results/all#e333fm_f) |
-| 965 | 25.00 | 26 | 23 | 26 | [Blind in the Water Tower 2019](https://www.worldcubeassociation.org/competitions/BlindintheWaterTower2019/results/all#e333fm_f) |
-| 966 | 25.00 | 24 | 27 | 24 | [Bratislava Mental Breakdown 2018](https://www.worldcubeassociation.org/competitions/BratislavaMentalBreakdown2018/results/all#e333fm_f) |
-| 967 | 25.00 | 25 | 24 | 26 | [Campeonato Brasileiro FMC 2023](https://www.worldcubeassociation.org/competitions/CampeonatoBrasileiroFMC2023/results/all#e333fm_1) |
-| 968 | 25.00 | 26 | 24 | 25 | [Capivara Curitiba 2025](https://www.worldcubeassociation.org/competitions/CapivaraCuritiba2025/results/all#e333fm_f) |
-| 969 | 25.00 | 23 | 27 | 25 | [CMI Tessellate Cube Open 2020](https://www.worldcubeassociation.org/competitions/CMITessellateCubeOpen2020/results/all#e333fm_f) |
-| 970 | 25.00 | 25 | 25 | 25 | [Colombian Nationals FMC 2025](https://www.worldcubeassociation.org/competitions/ColombianNationalsFMC2025/results/all#e333fm_1) |
-| 971 | 25.00 | 22 | 26 | 27 | [Cross-strait 2016](https://www.worldcubeassociation.org/competitions/CrossstraitCubing2016/results/all#e333fm_f) |
-| 972 | 25.00 | 25 | 24 | 26 | [Cube Camp In Kaeng Krachan 2023](https://www.worldcubeassociation.org/competitions/CubeCampinKaengKrachan2023/results/all#e333fm_f) |
-| 973 | 25.00 | 23 | 24 | 28 | [Cube Camp in Kanazawa 2019](https://www.worldcubeassociation.org/competitions/CubeCampinKanazawa2019/results/all#e333fm_f) |
-| 974 | 25.00 | 25 | 24 | 26 | [CubingUSA Western Champs 2021](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2021/results/all#e333fm_f) |
-| 975 | 25.00 | 24 | 26 | 25 | [Czech FMC Championship 2023](https://www.worldcubeassociation.org/competitions/CzechFMCChampionship2023/results/all#e333fm_f) |
-| 976 | 25.00 | 25 | 24 | 26 | [Czech Open 2015](https://www.worldcubeassociation.org/competitions/CzechOpen2015/results/all#e333fm_f) |
-| 977 | 25.00 | 26 | 25 | 24 | [DFW Mega Mental Breakdown 2025](https://www.worldcubeassociation.org/competitions/DFWMegaMentalBreakdown2025/results/all#e333fm_f) |
-| 978 | 25.00 | 25 | 26 | 24 | [Don't DNS Denton 2023](https://www.worldcubeassociation.org/competitions/DontDNSDenton2023/results/all#e333fm_2) |
-| 979 | 25.00 | 24 | 25 | 26 | [Don't DNS Denton 2025](https://www.worldcubeassociation.org/competitions/DontDNSDenton2025/results/all#e333fm_2) |
-| 980 | 25.00 | 27 | 25 | 23 | [Euro 2014](https://www.worldcubeassociation.org/competitions/Euro2014/results/all#e333fm_f) |
-| 981 | 25.00 | 25 | 25 | 25 | [FMC Asia 2016](https://www.worldcubeassociation.org/competitions/FMCAsia2016/results/all#e333fm_f) |
-| 982 | 25.00 | 29 | 25 | 21 | [FMC Challenge Kiribathgoda 2025](https://www.worldcubeassociation.org/competitions/FMCChallengeKiribathgoda2025/results/all#e333fm_1) |
-| 983 | 25.00 | 23 | 27 | 25 | [FMC Europe 2016](https://www.worldcubeassociation.org/competitions/FMCEurope2016/results/all#e333fm_f) |
-| 984 | 25.00 | 24 | 25 | 26 | [FMC Germany 2019](https://www.worldcubeassociation.org/competitions/FMCGermany2019/results/all#e333fm_1) |
-| 985 | 25.00 | 26 | 25 | 24 | [FMC Italy 2022](https://www.worldcubeassociation.org/competitions/FMCItaly2022/results/all#e333fm_f) |
-| 986 | 25.00 | 24 | 27 | 24 | [FMC Party Israel 2022](https://www.worldcubeassociation.org/competitions/FMCPartyIsrael2022/results/all#e333fm_f) |
-| 987 | 25.00 | 24 | 25 | 26 | [FMC Swiss Nationals 2025](https://www.worldcubeassociation.org/competitions/FMCSwissNationals2025/results/all#e333fm_f) |
-| 988 | 25.00 | 24 | 28 | 23 | [German Nationals 2016](https://www.worldcubeassociation.org/competitions/GermanNationals2016/results/all#e333fm_f) |
-| 989 | 25.00 | 24 | 24 | 27 | [German Nationals 2017](https://www.worldcubeassociation.org/competitions/GermanNationals2017/results/all#e333fm_f) |
-| 990 | 25.00 | 22 | 26 | 27 | [GLS Cup IV 2018](https://www.worldcubeassociation.org/competitions/GLSCupIV2018/results/all#e333fm_f) |
-| 991 | 25.00 | 28 | 22 | 25 | [Hamburg International 2019](https://www.worldcubeassociation.org/competitions/HamburgInternational2019/results/all#e333fm_f) |
-| 992 | 25.00 | 27 | 24 | 24 | [Heartland Champs 2018](https://www.worldcubeassociation.org/competitions/HeartlandChampionships2018/results/all#e333fm_f) |
-| 993 | 25.00 | 22 | 26 | 27 | [Indonesian Championship 2022](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2022/results/all#e333fm_f) |
-| 994 | 25.00 | 23 | 27 | 25 | [Kyiv Blind Side 2024](https://www.worldcubeassociation.org/competitions/KyivBlindSide2024/results/all#e333fm_f) |
-| 995 | 25.00 | 25 | 24 | 26 | [Kyiv Mental Breakdown I 2024](https://www.worldcubeassociation.org/competitions/KyivMentalBreakdownI2024/results/all#e333fm_f) |
-| 996 | 25.00 | 25 | 26 | 24 | [Lleida Winter Open 2023](https://www.worldcubeassociation.org/competitions/LleidaWinter2023/results/all#e333fm_f) |
-| 997 | 25.00 | 28 | 25 | 22 | [Marino Madness 2025](https://www.worldcubeassociation.org/competitions/MarinoMadness2025/results/all#e333fm_f) |
-| 998 | 25.00 | 24 | 25 | 26 | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021/results/all#e333fm_f) |
-| 999 | 25.00 | 25 | 27 | 23 | [Mental Breakdown 2016](https://www.worldcubeassociation.org/competitions/MentalBreakdown2016/results/all#e333fm_f) |
-| 1000 | 25.00 | 25 | 25 | 25 | [Michigan 2018](https://www.worldcubeassociation.org/competitions/Michigan2018/results/all#e333fm_f) |
+| 776 | 23.67 | 22 | 25 | 24 | [GAN Southern Championship 2026](https://www.worldcubeassociation.org/competitions/SouthernChampionship2026/results/all#e333fm_f) |
+| 777 | 23.67 | 23 | 25 | 23 | [Swedish Championship 2025](https://www.worldcubeassociation.org/competitions/SwedishChampionship2025/results/all#e333fm_f) |
+| 778 | 23.67 | 23 | 24 | 24 | [Swedish FMC Championship 2022](https://www.worldcubeassociation.org/competitions/SwedishFMCChampionship2022/results/all#e333fm_f) |
+| 779 | 23.67 | 24 | 23 | 24 | [Szokolya Mental Breakdown 2023](https://www.worldcubeassociation.org/competitions/SzokolyaMentalBreakdown2023/results/all#e333fm_f) |
+| 780 | 23.67 | 24 | 26 | 21 | [Szokolya Open 2025](https://www.worldcubeassociation.org/competitions/SzokolyaOpen2025/results/all#e333fm_f) |
+| 781 | 23.67 | 22 | 25 | 24 | [URJC Open 2025](https://www.worldcubeassociation.org/competitions/URJCOpen2025/results/all#e333fm_f) |
+| 782 | 23.67 | 23 | 25 | 23 | [Vår i Hvidovre 2024](https://www.worldcubeassociation.org/competitions/VariHvidovre2024/results/all#e333fm_f) |
+| 783 | 23.67 | 23 | 22 | 26 | [Vltava FMC 2025](https://www.worldcubeassociation.org/competitions/VltavaFMC2025/results/all#e333fm_f) |
+| 784 | 23.67 | 21 | 25 | 25 | [Washington Championship 2020](https://www.worldcubeassociation.org/competitions/WashingtonChampionship2020/results/all#e333fm_f) |
+| 785 | 23.67 | 23 | 22 | 26 | [Wiscube 2019](https://www.worldcubeassociation.org/competitions/Wiscube2019/results/all#e333fm_1) |
+| 786 | 24.00 | 25 | 24 | 23 | [Aldeílla Mental Breakdown 2022](https://www.worldcubeassociation.org/competitions/AldeillaMentalBreakdown2022/results/all#e333fm_f) |
+| 787 | 24.00 | 24 | 25 | 23 | [ALL1- Oxford 2024](https://www.worldcubeassociation.org/competitions/ALL1Oxford2024/results/all#e333fm_f) |
+| 788 | 24.00 | 24 | 21 | 27 | [Amherst FMC Challenge 2024](https://www.worldcubeassociation.org/competitions/AmherstFMCChallenge2024/results/all#e333fm_1) |
+| 789 | 24.00 | 22 | 25 | 25 | [Archena 24 Horas 2022](https://www.worldcubeassociation.org/competitions/Archena24Horas2022/results/all#e333fm_f) |
+| 790 | 24.00 | 23 | 27 | 22 | [Autotalo Anime Adventure 7 2024](https://www.worldcubeassociation.org/competitions/AutotaloAnimeAdventure72024/results/all#e333fm_1) |
+| 791 | 24.00 | 24 | 27 | 21 | [Baden Side Events 2023](https://www.worldcubeassociation.org/competitions/BadenSideEvents2023/results/all#e333fm_f) |
+| 792 | 24.00 | 23 | 25 | 24 | [Bangkok Brain n' Cube 2025](https://www.worldcubeassociation.org/competitions/BangkokBrainnCube2025/results/all#e333fm_f) |
+| 793 | 24.00 | 27 | 23 | 22 | [Brasileiro 2018](https://www.worldcubeassociation.org/competitions/Brasileiro2018/results/all#e333fm_f) |
+| 794 | 24.00 | 28 | 23 | 21 | [Calvià Open 2025](https://www.worldcubeassociation.org/competitions/CalviaOpen2025/results/all#e333fm_f) |
+| 795 | 24.00 | 25 | 26 | 21 | [China Championship 2017](https://www.worldcubeassociation.org/competitions/ChinaChampionship2017/results/all#e333fm_f) |
+| 796 | 24.00 | 21 | 28 | 23 | [Cubelonia 2017](https://www.worldcubeassociation.org/competitions/Cubelonia2017/results/all#e333fm_f) |
+| 797 | 24.00 | 26 | 24 | 22 | [CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/all#e333fm_f) |
+| 798 | 24.00 | 23 | 24 | 25 | [DFW Quiet Qualifier 2026](https://www.worldcubeassociation.org/competitions/DFWQuietQualifier2026/results/all#e333fm_f) |
+| 799 | 24.00 | 23 | 25 | 24 | [Don't DNS Denton 2025](https://www.worldcubeassociation.org/competitions/DontDNSDenton2025/results/all#e333fm_1) |
+| 800 | 24.00 | 25 | 23 | 24 | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016/results/all#e333fm_f) |
+| 801 | 24.00 | 24 | 22 | 26 | [Find Minimum in Warsaw 2023](https://www.worldcubeassociation.org/competitions/FindMinimumInWarsaw2023/results/all#e333fm_1) |
+| 802 | 24.00 | 22 | 24 | 26 | [Finnish Championship 2018](https://www.worldcubeassociation.org/competitions/FinnishChampionship2018/results/all#e333fm_f) |
+| 803 | 24.00 | 24 | 23 | 25 | [Finnish FMC Series XI 2025](https://www.worldcubeassociation.org/competitions/FinnishFMCSeriesXI2025/results/all#e333fm_f) |
+| 804 | 24.00 | 22 | 23 | 27 | [FMC Americas 2017](https://www.worldcubeassociation.org/competitions/FMCAmericas2017/results/all#e333fm_f) |
+| 805 | 24.00 | 24 | 24 | 24 | [FMC and More Maine 2025](https://www.worldcubeassociation.org/competitions/FMCandMoreMaine2025/results/all#e333fm_f) |
+| 806 | 24.00 | 22 | 26 | 24 | [FMC Asia 2018](https://www.worldcubeassociation.org/competitions/FMCAsia2018/results/all#e333fm_f) |
+| 807 | 24.00 | 26 | 24 | 22 | [FMC Italy 2023](https://www.worldcubeassociation.org/competitions/FMCItaly2023/results/all#e333fm_f) |
+| 808 | 24.00 | 23 | 23 | 26 | [FMC North America West 2019](https://www.worldcubeassociation.org/competitions/FMCNorthAmericaWest2019/results/all#e333fm_2) |
+| 809 | 24.00 | 22 | 25 | 25 | [FMC Philippines 2025](https://www.worldcubeassociation.org/competitions/FMCPhilippines2025/results/all#e333fm_1) |
+| 810 | 24.00 | 27 | 22 | 23 | [GA Cubers PBQ 2022](https://www.worldcubeassociation.org/competitions/GACubersPersonalBestQuest2022/results/all#e333fm_1) |
+| 811 | 24.00 | 21 | 23 | 28 | [Gem City Airplane Mode Spec 2024](https://www.worldcubeassociation.org/competitions/GemCityAirplaneModeSpecial2024/results/all#e333fm_f) |
+| 812 | 24.00 | 29 | 21 | 22 | [Glasgow Big and FMC Spring 2026](https://www.worldcubeassociation.org/competitions/GlasgowBigandFMCSpring2026/results/all#e333fm_f) |
+| 813 | 24.00 | 25 | 22 | 25 | [Glasgow Spring - SBO 2025](https://www.worldcubeassociation.org/competitions/GlasgowSpringSBO2025/results/all#e333fm_f) |
+| 814 | 24.00 | 22 | 25 | 25 | [Glasgow Winter SBO 2026](https://www.worldcubeassociation.org/competitions/GlasgowWinterSBO2026/results/all#e333fm_f) |
+| 815 | 24.00 | 23 | 27 | 22 | [Hungarian All-Rounder 11 2025](https://www.worldcubeassociation.org/competitions/HungarianAllRounder112025/results/all#e333fm_f) |
+| 816 | 24.00 | 24 | 25 | 23 | [Jaqueca de Florida 2022](https://www.worldcubeassociation.org/competitions/JaquecaDeFlorida2022/results/all#e333fm_f) |
+| 817 | 24.00 | 19 | 27 | 26 | [Kyiv NxN Summer 2024](https://www.worldcubeassociation.org/competitions/KyivNxNSummer2024/results/all#e333fm_f) |
+| 818 | 24.00 | 26 | 24 | 22 | [Medan 10th Anniversary 2019](https://www.worldcubeassociation.org/competitions/Medan10thAnniversary2019/results/all#e333fm_f) |
+| 819 | 24.00 | 25 | 24 | 23 | [Medan Farewell 2019](https://www.worldcubeassociation.org/competitions/MedanFarewell2019/results/all#e333fm_f) |
+| 820 | 24.00 | 22 | 28 | 22 | [Mental Breakdown Singapore 2022](https://www.worldcubeassociation.org/competitions/MentalBreakdownSingapore2022/results/all#e333fm_f) |
+| 821 | 24.00 | 23 | 24 | 25 | [Mentallinn 2023](https://www.worldcubeassociation.org/competitions/Mentallinn2023/results/all#e333fm_f) |
+| 822 | 24.00 | 26 | 20 | 26 | [Michigan 2015](https://www.worldcubeassociation.org/competitions/Michigan2015/results/all#e333fm_f) |
+| 823 | 24.00 | 26 | 24 | 22 | [Mini-sota 2023](https://www.worldcubeassociation.org/competitions/Minisota2023/results/all#e333fm_f) |
+| 824 | 24.00 | 24 | 23 | 25 | [Nebraska Championship 2026](https://www.worldcubeassociation.org/competitions/NebraskaChampionship2026/results/all#e333fm_f) |
+| 825 | 24.00 | 22 | 25 | 25 | [Nidaros FMC Winter 2025](https://www.worldcubeassociation.org/competitions/NidarosFMCWinter2025/results/all#e333fm_1) |
+| 826 | 24.00 | 23 | 24 | 25 | [Nittedal Mental Breakdown 2024](https://www.worldcubeassociation.org/competitions/NittedalMentalBreakdown2024/results/all#e333fm_f) |
+| 827 | 24.00 | 26 | 24 | 22 | [Ohio State Summer Solving 2023](https://www.worldcubeassociation.org/competitions/OhioStateSummerSolving2023/results/all#e333fm_f) |
+| 828 | 24.00 | 23 | 24 | 25 | [Only Cubes in Wellington 2024](https://www.worldcubeassociation.org/competitions/OnlyCubesinWellington2024/results/all#e333fm_f) |
+| 829 | 24.00 | 23 | 26 | 23 | [Only FMC 2017](https://www.worldcubeassociation.org/competitions/OnlyFMC2017/results/all#e333fm_f) |
+| 830 | 24.00 | 24 | 24 | 24 | [Optimal Solving in Povo 2024](https://www.worldcubeassociation.org/competitions/OptimalSolvinginPovo2024/results/all#e333fm_1) |
+| 831 | 24.00 | 25 | 22 | 25 | [PBQ Ropaži 2026](https://www.worldcubeassociation.org/competitions/PBQRopazi2026/results/all#e333fm_f) |
+| 832 | 24.00 | 21 | 26 | 25 | [Please Be Finished Brisbane 2026](https://www.worldcubeassociation.org/competitions/PleaseBeFinishedBrisbane2026/results/all#e333fm_f) |
+| 833 | 24.00 | 25 | 25 | 22 | [Please Be Quiet Bergen 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQuietBergen2024/results/all#e333fm_f) |
+| 834 | 24.00 | 25 | 22 | 25 | [Pour Gesté J'ai Gâteau 2024](https://www.worldcubeassociation.org/competitions/PourGesteJaiGateau2024/results/all#e333fm_f) |
+| 835 | 24.00 | 24 | 23 | 25 | [Quiet Seattle October 2024](https://www.worldcubeassociation.org/competitions/QuietSeattleOctober2024/results/all#e333fm_f) |
+| 836 | 24.00 | 24 | 25 | 23 | [Rahn Education Open 2024](https://www.worldcubeassociation.org/competitions/RahnEducationOpen2024/results/all#e333fm_f) |
+| 837 | 24.00 | 23 | 24 | 25 | [Rahn Education Open 2026](https://www.worldcubeassociation.org/competitions/RahnEducationOpen2026/results/all#e333fm_f) |
+| 838 | 24.00 | 24 | 24 | 24 | [Rhein-Neckar MS 2024](https://www.worldcubeassociation.org/competitions/RheinNeckarMS2024/results/all#e333fm_f) |
+| 839 | 24.00 | 22 | 26 | 24 | [Santa Fe O'Clock 2023](https://www.worldcubeassociation.org/competitions/SantaFeOClock2023/results/all#e333fm_f) |
+| 840 | 24.00 | 24 | 25 | 23 | [Schwandorf Open 2016](https://www.worldcubeassociation.org/competitions/SchwandorfOpen2016/results/all#e333fm_f) |
+| 841 | 24.00 | 28 | 22 | 22 | [Shenzhen Open 2018](https://www.worldcubeassociation.org/competitions/ShenzhenOpen2018/results/all#e333fm_f) |
+| 842 | 24.00 | 20 | 25 | 27 | [Skottegårdsskolen Open 2018](https://www.worldcubeassociation.org/competitions/SkottegardsskolenOpen2018/results/all#e333fm_f) |
+| 843 | 24.00 | 20 | 24 | 28 | [Slovenian FMC Nationals 2024](https://www.worldcubeassociation.org/competitions/SlovenianFMCNationals2024/results/all#e333fm_f) |
+| 844 | 24.00 | 24 | 25 | 23 | [Super Duper San Diego 2026](https://www.worldcubeassociation.org/competitions/SuperDuperSanDiego2026/results/all#e333fm_f) |
+| 845 | 24.00 | 25 | 23 | 24 | [Swedish FMC Championship 2024](https://www.worldcubeassociation.org/competitions/SwedishFMCChampionship2024/results/all#e333fm_f) |
+| 846 | 24.00 | 24 | 25 | 23 | [Swisscubing Cup MB II 2025](https://www.worldcubeassociation.org/competitions/SwisscubingCupMBII2025/results/all#e333fm_f) |
+| 847 | 24.00 | 21 | 21 | 30 | [Toba Cubetastrophe 2022](https://www.worldcubeassociation.org/competitions/TobaCubetastrophe2022/results/all#e333fm_f) |
+| 848 | 24.00 | 27 | 23 | 22 | [Turning in Townsville 2021](https://www.worldcubeassociation.org/competitions/TurninginTownsville2021/results/all#e333fm_f) |
+| 849 | 24.00 | 23 | 27 | 22 | [Two FMC Ohio State 2024](https://www.worldcubeassociation.org/competitions/TwoFMCOhioState2024/results/all#e333fm_f) |
+| 850 | 24.00 | 24 | 24 | 24 | [UK Championship 2018](https://www.worldcubeassociation.org/competitions/UKC2018/results/all#e333fm_f) |
+| 851 | 24.00 | 23 | 24 | 25 | [UnOrono-thodox Blocks 2026](https://www.worldcubeassociation.org/competitions/UnOronothodoxBlocks2026/results/all#e333fm_f) |
+| 852 | 24.00 | 24 | 23 | 25 | [WCC Western FMC Champs 2025](https://www.worldcubeassociation.org/competitions/WCCWesternFMCChampionship2025/results/all#e333fm_f) |
+| 853 | 24.00 | 25 | 22 | 25 | [Wiscube 2019](https://www.worldcubeassociation.org/competitions/Wiscube2019/results/all#e333fm_f) |
+| 854 | 24.00 | 24 | 23 | 25 | [WLTD Poznań Side Open 2022](https://www.worldcubeassociation.org/competitions/WLTDPoznanSideOpen2022/results/all#e333fm_f) |
+| 855 | 24.00 | 26 | 27 | 19 | [YJ KL 2023](https://www.worldcubeassociation.org/competitions/YJKL2023/results/all#e333fm_f) |
+| 856 | 24.33 | 25 | 24 | 24 | [3x3 Only Minnesota 2019](https://www.worldcubeassociation.org/competitions/3x3OnlyMinnesota2019/results/all#e333fm_f) |
+| 857 | 24.33 | 25 | 24 | 24 | [Arena Bernô 7 City FM 2024](https://www.worldcubeassociation.org/competitions/ArenaBerno7CityFM2024/results/all#e333fm_f) |
+| 858 | 24.33 | 24 | 25 | 24 | [WCA Asian Championship 2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018/results/all#e333fm_f) |
+| 859 | 24.33 | 26 | 24 | 23 | [BKP 2017](https://www.worldcubeassociation.org/competitions/BerlinKubusProjekt2017/results/all#e333fm_f) |
+| 860 | 24.33 | 26 | 23 | 24 | [Bishop's Stortford Spring 2023](https://www.worldcubeassociation.org/competitions/BishopsStortfordSpringBBO2023/results/all#e333fm_f) |
+| 861 | 24.33 | 26 | 24 | 23 | [B.O.N.D. Open 2016](https://www.worldcubeassociation.org/competitions/BONDOpen2016/results/all#e333fm_f) |
+| 862 | 24.33 | 23 | 26 | 24 | [Budapest FMClvester 2024](https://www.worldcubeassociation.org/competitions/BudapestFMClvester2024/results/all#e333fm_f) |
+| 863 | 24.33 | 24 | 24 | 25 | [Cambridge Challenge 2022](https://www.worldcubeassociation.org/competitions/CambridgeChallenge2022/results/all#e333fm_f) |
+| 864 | 24.33 | 25 | 21 | 27 | [Cambridge Fall Challenge 2022](https://www.worldcubeassociation.org/competitions/CambridgeFallChallenge2022/results/all#e333fm_f) |
+| 865 | 24.33 | 26 | 22 | 25 | [CBNBC 2015](https://www.worldcubeassociation.org/competitions/CBNBC2015/results/all#e333fm_f) |
+| 866 | 24.33 | 26 | 21 | 26 | [Chääswürfel 2025](https://www.worldcubeassociation.org/competitions/Chaaswurfel2025/results/all#e333fm_f) |
+| 867 | 24.33 | 25 | 21 | 27 | [Cube in Denton 2024](https://www.worldcubeassociation.org/competitions/CubeWithRetentioninDenton2024/results/all#e333fm_f) |
+| 868 | 24.33 | 22 | 24 | 27 | [Danish FM Championship 2022](https://www.worldcubeassociation.org/competitions/DanishFMChampionship2022/results/all#e333fm_f) |
+| 869 | 24.33 | 22 | 24 | 27 | [Desafio Brasileiro de Verão 2020](https://www.worldcubeassociation.org/competitions/DesafioBrasileirodeVerao2020/results/all#e333fm_f) |
+| 870 | 24.33 | 24 | 25 | 24 | [Don't DNS Denton 2023](https://www.worldcubeassociation.org/competitions/DontDNSDenton2023/results/all#e333fm_f) |
+| 871 | 24.33 | 27 | 25 | 21 | [Dutch Nationals 2024](https://www.worldcubeassociation.org/competitions/DutchNationals2024/results/all#e333fm_f) |
+| 872 | 24.33 | 26 | 25 | 22 | [Fitchburg FMC II 2023](https://www.worldcubeassociation.org/competitions/FitchburgFMCII2023/results/all#e333fm_f) |
+| 873 | 24.33 | 25 | 24 | 24 | [FMC Americas 2018](https://www.worldcubeassociation.org/competitions/FMCAmericas2018/results/all#e333fm_f) |
+| 874 | 24.33 | 26 | 22 | 25 | [FMCats Wisconsin 2023](https://www.worldcubeassociation.org/competitions/FMCatsWisconsin2023/results/all#e333fm_f) |
+| 875 | 24.33 | 24 | 24 | 25 | [FMC Brasil 2019](https://www.worldcubeassociation.org/competitions/FMCBrasil2019/results/all#e333fm_f) |
+| 876 | 24.33 | 24 | 25 | 24 | [FMC Eastern Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEasternEurope2024/results/all#e333fm_1) |
+| 877 | 24.33 | 24 | 23 | 26 | [FMC Los Andes 2025](https://www.worldcubeassociation.org/competitions/FMCLosAndes2025/results/all#e333fm_f) |
+| 878 | 24.33 | 24 | 24 | 25 | [FMC på GKV 2026](https://www.worldcubeassociation.org/competitions/FMCpaGKV2026/results/all#e333fm_f) |
+| 879 | 24.33 | 25 | 24 | 24 | [FMC Philippines 2025](https://www.worldcubeassociation.org/competitions/FMCPhilippines2025/results/all#e333fm_f) |
+| 880 | 24.33 | 22 | 26 | 25 | [France 2018](https://www.worldcubeassociation.org/competitions/France2018/results/all#e333fm_f) |
+| 881 | 24.33 | 24 | 25 | 24 | [GA Cubers Quiet Quarrel 2021](https://www.worldcubeassociation.org/competitions/GACubersQuietQuarrel2021/results/all#e333fm_f) |
+| 882 | 24.33 | 25 | 27 | 21 | [German Nationals 2019](https://www.worldcubeassociation.org/competitions/GermanNationals2019/results/all#e333fm_f) |
+| 883 | 24.33 | 23 | 25 | 25 | [German Nationals 2023](https://www.worldcubeassociation.org/competitions/GermanNationals2023/results/all#e333fm_f) |
+| 884 | 24.33 | 25 | 23 | 25 | [Hungarian All-Rounder 9 2024](https://www.worldcubeassociation.org/competitions/HungarianAllRounder92024/results/all#e333fm_f) |
+| 885 | 24.33 | 26 | 23 | 24 | [Hungarian FMC Series 2 2026](https://www.worldcubeassociation.org/competitions/HungarianFMCSeries22026/results/all#e333fm_f) |
+| 886 | 24.33 | 23 | 25 | 25 | [Irvine FMC A 2022](https://www.worldcubeassociation.org/competitions/IrvineFMCA2022/results/all#e333fm_f) |
+| 887 | 24.33 | 24 | 22 | 27 | [Kyiv FMC March 2024](https://www.worldcubeassociation.org/competitions/KyivFMCMarch2024/results/all#e333fm_f) |
+| 888 | 24.33 | 24 | 25 | 24 | [Malaysia 10th Cube Open 2019](https://www.worldcubeassociation.org/competitions/Malaysia10thCubeOpen2019/results/all#e333fm_f) |
+| 889 | 24.33 | 22 | 27 | 24 | [Mental Breakdown Germany 2018](https://www.worldcubeassociation.org/competitions/MentalBreakdownGermany2018/results/all#e333fm_1) |
+| 890 | 24.33 | 23 | 24 | 26 | [Mental Breakdown Minnesota 2019](https://www.worldcubeassociation.org/competitions/MentalBreakdownMinnesota2019/results/all#e333fm_f) |
+| 891 | 24.33 | 24 | 24 | 25 | [New England FMC Warmup 2023](https://www.worldcubeassociation.org/competitions/NewEnglandFMCWarmup2023/results/all#e333fm_1) |
+| 892 | 24.33 | 24 | 24 | 25 | [New England Quiet Champs 2024](https://www.worldcubeassociation.org/competitions/NewEnglandQuietChampionship2024/results/all#e333fm_f) |
+| 893 | 24.33 | 24 | 26 | 23 | [No Shoes Kentucky 2019](https://www.worldcubeassociation.org/competitions/NoShoesKentucky2019/results/all#e333fm_f) |
+| 894 | 24.33 | 24 | 25 | 24 | [Ohio State Duos I 2024](https://www.worldcubeassociation.org/competitions/OhioStateDuosI2024/results/all#e333fm_f) |
+| 895 | 24.33 | 27 | 22 | 24 | [Pão de Queijo 2018](https://www.worldcubeassociation.org/competitions/PaodeQueijo2018/results/all#e333fm_f) |
+| 896 | 24.33 | 26 | 24 | 23 | [PBQ Green Bay 2023](https://www.worldcubeassociation.org/competitions/PBQGreenBay2023/results/all#e333fm_f) |
+| 897 | 24.33 | 24 | 24 | 25 | [Please Be Quiet Korea 2019](https://www.worldcubeassociation.org/competitions/PleaseBeQuietKorea2019/results/all#e333fm_f) |
+| 898 | 24.33 | 22 | 24 | 27 | [Please Be Quiet Odivelas II 2026](https://www.worldcubeassociation.org/competitions/PleaseBeQuietOdivelasII2026/results/all#e333fm_f) |
+| 899 | 24.33 | 26 | 23 | 24 | [PoliMi Mental Breakdown 2019](https://www.worldcubeassociation.org/competitions/PoliMiMentalBreakdown2019/results/all#e333fm_f) |
+| 900 | 24.33 | 23 | 24 | 26 | [RNSE 2023](https://www.worldcubeassociation.org/competitions/RheinNeckarSideEvents2023/results/all#e333fm_f) |
+| 901 | 24.33 | 25 | 22 | 26 | [SacCubing XIII 2023](https://www.worldcubeassociation.org/competitions/SacCubingXIII2023/results/all#e333fm_f) |
+| 902 | 24.33 | 24 | 26 | 23 | [SacQuiet Fall 2024](https://www.worldcubeassociation.org/competitions/SacQuietFall2024/results/all#e333fm_f) |
+| 903 | 24.33 | 26 | 26 | 21 | [Schwandorf Open 2018](https://www.worldcubeassociation.org/competitions/SchwandorfOpen2018/results/all#e333fm_f) |
+| 904 | 24.33 | 23 | 25 | 25 | [Sébra Open 2016](https://www.worldcubeassociation.org/competitions/SebraOpen2016/results/all#e333fm_f) |
+| 905 | 24.33 | 29 | 23 | 21 | [Sri Lankan Nationals FMC 2024](https://www.worldcubeassociation.org/competitions/SriLankanNationalsFMC2024/results/all#e333fm_f) |
+| 906 | 24.33 | 25 | 26 | 22 | [Tachikawa FMC 2017](https://www.worldcubeassociation.org/competitions/TachikawaFMC2017/results/all#e333fm_f) |
+| 907 | 24.33 | 25 | 24 | 24 | [Taiwan Championship 2019](https://www.worldcubeassociation.org/competitions/TaiwanChampionship2019/results/all#e333fm_f) |
+| 908 | 24.33 | 23 | 24 | 26 | [Thailand Quiet Championship 2024](https://www.worldcubeassociation.org/competitions/ThailandQuietChampionship2024/results/all#e333fm_f) |
+| 909 | 24.33 | 28 | 25 | 20 | [Tolong Diam Medan 2018](https://www.worldcubeassociation.org/competitions/TolongDiamMedan2018/results/all#e333fm_1) |
+| 910 | 24.33 | 24 | 27 | 22 | [U-Cube Gronau Silent 2025](https://www.worldcubeassociation.org/competitions/UCubeGronauSilent2025/results/all#e333fm_f) |
+| 911 | 24.33 | 22 | 23 | 28 | [US Nationals 2014](https://www.worldcubeassociation.org/competitions/USNationals2014/results/all#e333fm_f) |
+| 912 | 24.33 | 26 | 25 | 22 | [Vardagscubing I - Uppsala 2022](https://www.worldcubeassociation.org/competitions/VardagscubingIUppsala2022/results/all#e333fm_f) |
+| 913 | 24.33 | 24 | 24 | 25 | [Warm Up Canberra 2019](https://www.worldcubeassociation.org/competitions/WarmUpCanberra2019/results/all#e333fm_f) |
+| 914 | 24.33 | 24 | 25 | 24 | [World Championship 2015](https://www.worldcubeassociation.org/competitions/WC2015/results/all#e333fm_f) |
+| 915 | 24.33 | 24 | 25 | 24 | [Wrocław FMC Masters 2019](https://www.worldcubeassociation.org/competitions/WroclawFMCMasters2019/results/all#e333fm_f) |
+| 916 | 24.33 | 27 | 25 | 21 | [Wrocław Side Challenge 2019](https://www.worldcubeassociation.org/competitions/WroclawSideChallenge2019/results/all#e333fm_f) |
+| 917 | 24.67 | 19 | 32 | 23 | [Aarhus Winter 2026](https://www.worldcubeassociation.org/competitions/AarhusWinter2026/results/all#e333fm_f) |
+| 918 | 24.67 | 25 | 24 | 25 | [Bavarian Open 2023](https://www.worldcubeassociation.org/competitions/BavarianOpen2023/results/all#e333fm_f) |
+| 919 | 24.67 | 26 | 26 | 22 | [Berlin Winter Cubing 2019](https://www.worldcubeassociation.org/competitions/BerlinWinterCubing2019/results/all#e333fm_f) |
+| 920 | 24.67 | 22 | 25 | 27 | [Budapest Spring 2024](https://www.worldcubeassociation.org/competitions/BudapestSpring2024/results/all#e333fm_f) |
+| 921 | 24.67 | 26 | 28 | 20 | [Canberra Spring 2016](https://www.worldcubeassociation.org/competitions/CanberraSpring2016/results/all#e333fm_f) |
+| 922 | 24.67 | 26 | 24 | 24 | [CFL Goes Sideways 2019](https://www.worldcubeassociation.org/competitions/CFLGoesSideways2019/results/all#e333fm_f) |
+| 923 | 24.67 | 25 | 26 | 23 | [Classic City Shhhhh 2017](https://www.worldcubeassociation.org/competitions/ClassicCityShhhhh2017/results/all#e333fm_1) |
+| 924 | 24.67 | 24 | 26 | 24 | [Dolné Orešany Cube Day 2024](https://www.worldcubeassociation.org/competitions/DolneOresanyCubeDay2024/results/all#e333fm_f) |
+| 925 | 24.67 | 24 | 28 | 22 | [Don't DNS Denton 2023](https://www.worldcubeassociation.org/competitions/DontDNSDenton2023/results/all#e333fm_1) |
+| 926 | 24.67 | 24 | 22 | 28 | [Evanston Qualifier 2025](https://www.worldcubeassociation.org/competitions/EvanstonQualifier2025/results/all#e333fm_f) |
+| 927 | 24.67 | 27 | 25 | 22 | [Fewest Moves Southeast Asia 2018](https://www.worldcubeassociation.org/competitions/FewestMovesSoutheastAsia2018/results/all#e333fm_f) |
+| 928 | 24.67 | 26 | 26 | 22 | [Florida 2020](https://www.worldcubeassociation.org/competitions/Florida2020/results/all#e333fm_f) |
+| 929 | 24.67 | 26 | 25 | 23 | [FMC Challenge Kiribathgoda 2025](https://www.worldcubeassociation.org/competitions/FMCChallengeKiribathgoda2025/results/all#e333fm_f) |
+| 930 | 24.67 | 23 | 26 | 25 | [FMC Europe 2015](https://www.worldcubeassociation.org/competitions/FMCEurope2015/results/all#e333fm_f) |
+| 931 | 24.67 | 25 | 23 | 26 | [FMC på GKV 2025](https://www.worldcubeassociation.org/competitions/FMCpaGKV2025/results/all#e333fm_f) |
+| 932 | 24.67 | 24 | 26 | 24 | [FMC Sicily 2025](https://www.worldcubeassociation.org/competitions/FMCSicily2025/results/all#e333fm_1) |
+| 933 | 24.67 | 25 | 24 | 25 | [FMC Spain 2023](https://www.worldcubeassociation.org/competitions/FMCSpain2023/results/all#e333fm_f) |
+| 934 | 24.67 | 22 | 25 | 27 | [FMC WPI 2024](https://www.worldcubeassociation.org/competitions/FMCWPI2024/results/all#e333fm_f) |
+| 935 | 24.67 | 25 | 26 | 23 | [Franconia XX 2025](https://www.worldcubeassociation.org/competitions/FranconiaXX2025/results/all#e333fm_f) |
+| 936 | 24.67 | 26 | 26 | 22 | [GA Cubers BBQ 2026](https://www.worldcubeassociation.org/competitions/GACubersBBQ2026/results/all#e333fm_f) |
+| 937 | 24.67 | 23 | 25 | 26 | [HDC X - Hvidovre i Få Træk 2024](https://www.worldcubeassociation.org/competitions/HDCXHvidovreiFaTraek2024/results/all#e333fm_f) |
+| 938 | 24.67 | 25 | 25 | 24 | [JL Final: Kebabpizza 2023](https://www.worldcubeassociation.org/competitions/JLFinalKebabpizza2023/results/all#e333fm_f) |
+| 939 | 24.67 | 24 | 25 | 25 | [Kyiv Blind Side Winter 2026](https://www.worldcubeassociation.org/competitions/KyivBlindSideWinter2026/results/all#e333fm_1) |
+| 940 | 24.67 | 26 | 24 | 24 | [Manchester CL First 2026](https://www.worldcubeassociation.org/competitions/ManchesterCLFirst2026/results/all#e333fm_f) |
+| 941 | 24.67 | 25 | 25 | 24 | [Micro Minnesota 2026](https://www.worldcubeassociation.org/competitions/MicroMinnesota2026/results/all#e333fm_f) |
+| 942 | 24.67 | 24 | 23 | 27 | [Minyons 2022](https://www.worldcubeassociation.org/competitions/Minyons2022/results/all#e333fm_f) |
+| 943 | 24.67 | 24 | 25 | 25 | [Nebraska Championship 2025](https://www.worldcubeassociation.org/competitions/NebraskaChampionship2025/results/all#e333fm_f) |
+| 944 | 24.67 | 24 | 27 | 23 | [New York Championship 2022](https://www.worldcubeassociation.org/competitions/NewYorkChampionship2022/results/all#e333fm_f) |
+| 945 | 24.67 | 25 | 25 | 24 | [No Shoes Kentucky 2019](https://www.worldcubeassociation.org/competitions/NoShoesKentucky2019/results/all#e333fm_2) |
+| 946 | 24.67 | 25 | 26 | 23 | [OSU Blind Weekend 2019](https://www.worldcubeassociation.org/competitions/OSUBlindWeekend2019/results/all#e333fm_1) |
+| 947 | 24.67 | 22 | 26 | 26 | [Please Be Quiet Thailand 2025](https://www.worldcubeassociation.org/competitions/PleaseBeQuietThailand2025/results/all#e333fm_f) |
+| 948 | 24.67 | 19 | 28 | 27 | [Polish Championship 2018](https://www.worldcubeassociation.org/competitions/PolishChampionship2018/results/all#e333fm_f) |
+| 949 | 24.67 | 21 | 26 | 27 | [Ponctuel Silencieux Québec 2025](https://www.worldcubeassociation.org/competitions/PSQuebec2025/results/all#e333fm_f) |
+| 950 | 24.67 | 23 | 24 | 27 | [Quiet Down In Pflugerville 2026](https://www.worldcubeassociation.org/competitions/QuietDownInPflugerville2026/results/all#e333fm_f) |
+| 951 | 24.67 | 22 | 28 | 24 | [Rome Mental Breakdown 2022](https://www.worldcubeassociation.org/competitions/RomeMentalBreakdown2022/results/all#e333fm_f) |
+| 952 | 24.67 | 24 | 23 | 27 | [Rubik's FMC Italy 2025](https://www.worldcubeassociation.org/competitions/RubiksFMCItaly2025/results/all#e333fm_f) |
+| 953 | 24.67 | 29 | 25 | 20 | [SAC 2022](https://www.worldcubeassociation.org/competitions/SAC2022/results/all#e333fm_f) |
+| 954 | 24.67 | 25 | 22 | 27 | [SacQuiet Spring 2024](https://www.worldcubeassociation.org/competitions/SacQuietSpring2024/results/all#e333fm_f) |
+| 955 | 24.67 | 26 | 21 | 27 | [Silentia 1 - FMC 2023](https://www.worldcubeassociation.org/competitions/Silentia1FMC2023/results/all#e333fm_f) |
+| 956 | 24.67 | 25 | 24 | 25 | [Southern FMC Championship 2025](https://www.worldcubeassociation.org/competitions/SouthernFMCChampionship2025/results/all#e333fm_f) |
+| 957 | 24.67 | 26 | 27 | 21 | [Stockholm Mental Breakdown 2023](https://www.worldcubeassociation.org/competitions/StockholmMentalBreakdown2023/results/all#e333fm_f) |
+| 958 | 24.67 | 21 | 25 | 28 | [Survive FMC in Hyderabad 2025](https://www.worldcubeassociation.org/competitions/SurviveFMCinHyderabad2025/results/all#e333fm_1) |
+| 959 | 24.67 | 23 | 25 | 26 | [Swedish FMC Championship 2023](https://www.worldcubeassociation.org/competitions/SwedishFMCChampionship2023/results/all#e333fm_f) |
+| 960 | 24.67 | 23 | 25 | 26 | [Thailand FMC Championship 2025](https://www.worldcubeassociation.org/competitions/ThailandFMCChampionship2025/results/all#e333fm_f) |
+| 961 | 24.67 | 25 | 26 | 23 | [Washtenaw FMC 1 2024](https://www.worldcubeassociation.org/competitions/WashtenawFMC12024/results/all#e333fm_f) |
+| 962 | 24.67 | 27 | 22 | 25 | [Wellington Mind Games 2025](https://www.worldcubeassociation.org/competitions/WellingtonMindGames2025/results/all#e333fm_f) |
+| 963 | 24.67 | 26 | 20 | 28 | [Wuxi Try to Get a Mean 2018](https://www.worldcubeassociation.org/competitions/WuxiTrytoGetaMean2018/results/all#e333fm_f) |
+| 964 | 25.00 | 26 | 25 | 24 | [Autotalo Anime Adventure IV 2024](https://www.worldcubeassociation.org/competitions/AutotaloAnimeAdventureIV2024/results/all#e333fm_1) |
+| 965 | 25.00 | 26 | 24 | 25 | [Autotalo Anime Adventure IV 2024](https://www.worldcubeassociation.org/competitions/AutotaloAnimeAdventureIV2024/results/all#e333fm_f) |
+| 966 | 25.00 | 26 | 23 | 26 | [Blind in the Water Tower 2019](https://www.worldcubeassociation.org/competitions/BlindintheWaterTower2019/results/all#e333fm_f) |
+| 967 | 25.00 | 24 | 27 | 24 | [Bratislava Mental Breakdown 2018](https://www.worldcubeassociation.org/competitions/BratislavaMentalBreakdown2018/results/all#e333fm_f) |
+| 968 | 25.00 | 25 | 24 | 26 | [Campeonato Brasileiro FMC 2023](https://www.worldcubeassociation.org/competitions/CampeonatoBrasileiroFMC2023/results/all#e333fm_1) |
+| 969 | 25.00 | 26 | 24 | 25 | [Capivara Curitiba 2025](https://www.worldcubeassociation.org/competitions/CapivaraCuritiba2025/results/all#e333fm_f) |
+| 970 | 25.00 | 23 | 27 | 25 | [CMI Tessellate Cube Open 2020](https://www.worldcubeassociation.org/competitions/CMITessellateCubeOpen2020/results/all#e333fm_f) |
+| 971 | 25.00 | 25 | 25 | 25 | [Colombian Nationals FMC 2025](https://www.worldcubeassociation.org/competitions/ColombianNationalsFMC2025/results/all#e333fm_1) |
+| 972 | 25.00 | 22 | 26 | 27 | [Cross-strait 2016](https://www.worldcubeassociation.org/competitions/CrossstraitCubing2016/results/all#e333fm_f) |
+| 973 | 25.00 | 25 | 24 | 26 | [Cube Camp In Kaeng Krachan 2023](https://www.worldcubeassociation.org/competitions/CubeCampinKaengKrachan2023/results/all#e333fm_f) |
+| 974 | 25.00 | 23 | 24 | 28 | [Cube Camp in Kanazawa 2019](https://www.worldcubeassociation.org/competitions/CubeCampinKanazawa2019/results/all#e333fm_f) |
+| 975 | 25.00 | 25 | 24 | 26 | [CubingUSA Western Champs 2021](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2021/results/all#e333fm_f) |
+| 976 | 25.00 | 24 | 26 | 25 | [Czech FMC Championship 2023](https://www.worldcubeassociation.org/competitions/CzechFMCChampionship2023/results/all#e333fm_f) |
+| 977 | 25.00 | 25 | 24 | 26 | [Czech Open 2015](https://www.worldcubeassociation.org/competitions/CzechOpen2015/results/all#e333fm_f) |
+| 978 | 25.00 | 26 | 25 | 24 | [DFW Mega Mental Breakdown 2025](https://www.worldcubeassociation.org/competitions/DFWMegaMentalBreakdown2025/results/all#e333fm_f) |
+| 979 | 25.00 | 25 | 26 | 24 | [Don't DNS Denton 2023](https://www.worldcubeassociation.org/competitions/DontDNSDenton2023/results/all#e333fm_2) |
+| 980 | 25.00 | 24 | 25 | 26 | [Don't DNS Denton 2025](https://www.worldcubeassociation.org/competitions/DontDNSDenton2025/results/all#e333fm_2) |
+| 981 | 25.00 | 27 | 25 | 23 | [Euro 2014](https://www.worldcubeassociation.org/competitions/Euro2014/results/all#e333fm_f) |
+| 982 | 25.00 | 25 | 25 | 25 | [FMC Asia 2016](https://www.worldcubeassociation.org/competitions/FMCAsia2016/results/all#e333fm_f) |
+| 983 | 25.00 | 29 | 25 | 21 | [FMC Challenge Kiribathgoda 2025](https://www.worldcubeassociation.org/competitions/FMCChallengeKiribathgoda2025/results/all#e333fm_1) |
+| 984 | 25.00 | 23 | 27 | 25 | [FMC Europe 2016](https://www.worldcubeassociation.org/competitions/FMCEurope2016/results/all#e333fm_f) |
+| 985 | 25.00 | 24 | 25 | 26 | [FMC Germany 2019](https://www.worldcubeassociation.org/competitions/FMCGermany2019/results/all#e333fm_1) |
+| 986 | 25.00 | 26 | 25 | 24 | [FMC Italy 2022](https://www.worldcubeassociation.org/competitions/FMCItaly2022/results/all#e333fm_f) |
+| 987 | 25.00 | 24 | 27 | 24 | [FMC Party Israel 2022](https://www.worldcubeassociation.org/competitions/FMCPartyIsrael2022/results/all#e333fm_f) |
+| 988 | 25.00 | 24 | 25 | 26 | [FMC Swiss Nationals 2025](https://www.worldcubeassociation.org/competitions/FMCSwissNationals2025/results/all#e333fm_f) |
+| 989 | 25.00 | 24 | 28 | 23 | [German Nationals 2016](https://www.worldcubeassociation.org/competitions/GermanNationals2016/results/all#e333fm_f) |
+| 990 | 25.00 | 24 | 24 | 27 | [German Nationals 2017](https://www.worldcubeassociation.org/competitions/GermanNationals2017/results/all#e333fm_f) |
+| 991 | 25.00 | 22 | 26 | 27 | [GLS Cup IV 2018](https://www.worldcubeassociation.org/competitions/GLSCupIV2018/results/all#e333fm_f) |
+| 992 | 25.00 | 28 | 22 | 25 | [Hamburg International 2019](https://www.worldcubeassociation.org/competitions/HamburgInternational2019/results/all#e333fm_f) |
+| 993 | 25.00 | 27 | 24 | 24 | [Heartland Champs 2018](https://www.worldcubeassociation.org/competitions/HeartlandChampionships2018/results/all#e333fm_f) |
+| 994 | 25.00 | 22 | 26 | 27 | [Indonesian Championship 2022](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2022/results/all#e333fm_f) |
+| 995 | 25.00 | 23 | 27 | 25 | [Kyiv Blind Side 2024](https://www.worldcubeassociation.org/competitions/KyivBlindSide2024/results/all#e333fm_f) |
+| 996 | 25.00 | 25 | 24 | 26 | [Kyiv Mental Breakdown I 2024](https://www.worldcubeassociation.org/competitions/KyivMentalBreakdownI2024/results/all#e333fm_f) |
+| 997 | 25.00 | 25 | 26 | 24 | [Lleida Winter Open 2023](https://www.worldcubeassociation.org/competitions/LleidaWinter2023/results/all#e333fm_f) |
+| 998 | 25.00 | 28 | 25 | 22 | [Marino Madness 2025](https://www.worldcubeassociation.org/competitions/MarinoMadness2025/results/all#e333fm_f) |
+| 999 | 25.00 | 24 | 25 | 26 | [Melbourne Summer 2021](https://www.worldcubeassociation.org/competitions/MelbourneSummer2021/results/all#e333fm_f) |
+| 1000 | 25.00 | 25 | 27 | 23 | [Mental Breakdown 2016](https://www.worldcubeassociation.org/competitions/MentalBreakdown2016/results/all#e333fm_f) |
 
 
 <a href="https://github.com/JustinTimeCuber/wca_statistics" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>
