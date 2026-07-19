@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 16 July 2026*
+*Updated on 19 July 2026*
 
 | Rank | WRs | Person |
 | :--- | ---: | :--- |
@@ -452,34 +452,34 @@
 | 445 | 34 | [Tyler Howlett](https://www.worldcubeassociation.org/persons/2014HOWL02) |
 | 446 | 34 | [Anthony Lafourcade](https://www.worldcubeassociation.org/persons/2014LAFO01) |
 | 447 | 34 | [Max Hilliard](https://www.worldcubeassociation.org/persons/2015HILL09) |
-| 448 | 34 | [Dalton Padgett](https://www.worldcubeassociation.org/persons/2015PADG01) |
-| 449 | 34 | [Steven Wintringham](https://www.worldcubeassociation.org/persons/2015WINT02) |
-| 450 | 34 | [Jeremy Benik](https://www.worldcubeassociation.org/persons/2016BENI05) |
-| 451 | 34 | [Kate Grahame](https://www.worldcubeassociation.org/persons/2018GRAH05) |
-| 452 | 33 | [Julianna Bennett](https://www.worldcubeassociation.org/persons/2013BENN03) |
-| 453 | 33 | [Damian Bias](https://www.worldcubeassociation.org/persons/2014BIAS01) |
-| 454 | 33 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
-| 455 | 33 | [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01) |
-| 456 | 33 | [John Eppley](https://www.worldcubeassociation.org/persons/2014EPPL01) |
-| 457 | 33 | [Adam Vetser](https://www.worldcubeassociation.org/persons/2014VETS01) |
-| 458 | 33 | [Neel Gore](https://www.worldcubeassociation.org/persons/2016GORE02) |
-| 459 | 33 | [Collin Burns](https://www.worldcubeassociation.org/persons/2010BURN01) |
-| 460 | 33 | [Jeremy Lu](https://www.worldcubeassociation.org/persons/2010LUJE01) |
-| 461 | 33 | [Mateusz Fydrych](https://www.worldcubeassociation.org/persons/2011FYDR01) |
-| 462 | 33 | [Valentin Hoffmann](https://www.worldcubeassociation.org/persons/2011HOFF02) |
-| 463 | 33 | [Fredrik Abildgaard Trondhjem](https://www.worldcubeassociation.org/persons/2011TRON01) |
-| 464 | 33 | [Patrick Bellenbaum](https://www.worldcubeassociation.org/persons/2004BELL01) |
-| 465 | 33 | [Josef Jelínek](https://www.worldcubeassociation.org/persons/2004JELI01) |
-| 466 | 33 | [Mark Polinkovsky (Марк Полинковский)](https://www.worldcubeassociation.org/persons/2004POLI01) |
-| 467 | 33 | [Thomas Bossmann](https://www.worldcubeassociation.org/persons/2005BOSS01) |
-| 468 | 33 | [Stefan Łapicki](https://www.worldcubeassociation.org/persons/2006LAPI01) |
-| 469 | 33 | [Grada Ooms](https://www.worldcubeassociation.org/persons/2006OOMS01) |
-| 470 | 33 | [Piotr Alexandrowicz](https://www.worldcubeassociation.org/persons/2007ALEX01) |
-| 471 | 33 | [Magda Gancarz](https://www.worldcubeassociation.org/persons/2007GANC01) |
-| 472 | 33 | [Klaudia Grabowska](https://www.worldcubeassociation.org/persons/2007GRAB01) |
-| 473 | 33 | [Shuto Ueno (上野柊斗)](https://www.worldcubeassociation.org/persons/2008UENO01) |
-| 474 | 33 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) |
-| 475 | 33 | [James Macdiarmid](https://www.worldcubeassociation.org/persons/2015MACD03) |
+| 448 | 34 | [James Macdiarmid](https://www.worldcubeassociation.org/persons/2015MACD03) |
+| 449 | 34 | [Dalton Padgett](https://www.worldcubeassociation.org/persons/2015PADG01) |
+| 450 | 34 | [Steven Wintringham](https://www.worldcubeassociation.org/persons/2015WINT02) |
+| 451 | 34 | [Jeremy Benik](https://www.worldcubeassociation.org/persons/2016BENI05) |
+| 452 | 34 | [Kate Grahame](https://www.worldcubeassociation.org/persons/2018GRAH05) |
+| 453 | 33 | [Julianna Bennett](https://www.worldcubeassociation.org/persons/2013BENN03) |
+| 454 | 33 | [Damian Bias](https://www.worldcubeassociation.org/persons/2014BIAS01) |
+| 455 | 33 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) |
+| 456 | 33 | [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01) |
+| 457 | 33 | [John Eppley](https://www.worldcubeassociation.org/persons/2014EPPL01) |
+| 458 | 33 | [Adam Vetser](https://www.worldcubeassociation.org/persons/2014VETS01) |
+| 459 | 33 | [Neel Gore](https://www.worldcubeassociation.org/persons/2016GORE02) |
+| 460 | 33 | [Collin Burns](https://www.worldcubeassociation.org/persons/2010BURN01) |
+| 461 | 33 | [Jeremy Lu](https://www.worldcubeassociation.org/persons/2010LUJE01) |
+| 462 | 33 | [Mateusz Fydrych](https://www.worldcubeassociation.org/persons/2011FYDR01) |
+| 463 | 33 | [Valentin Hoffmann](https://www.worldcubeassociation.org/persons/2011HOFF02) |
+| 464 | 33 | [Fredrik Abildgaard Trondhjem](https://www.worldcubeassociation.org/persons/2011TRON01) |
+| 465 | 33 | [Patrick Bellenbaum](https://www.worldcubeassociation.org/persons/2004BELL01) |
+| 466 | 33 | [Josef Jelínek](https://www.worldcubeassociation.org/persons/2004JELI01) |
+| 467 | 33 | [Mark Polinkovsky (Марк Полинковский)](https://www.worldcubeassociation.org/persons/2004POLI01) |
+| 468 | 33 | [Thomas Bossmann](https://www.worldcubeassociation.org/persons/2005BOSS01) |
+| 469 | 33 | [Stefan Łapicki](https://www.worldcubeassociation.org/persons/2006LAPI01) |
+| 470 | 33 | [Grada Ooms](https://www.worldcubeassociation.org/persons/2006OOMS01) |
+| 471 | 33 | [Piotr Alexandrowicz](https://www.worldcubeassociation.org/persons/2007ALEX01) |
+| 472 | 33 | [Magda Gancarz](https://www.worldcubeassociation.org/persons/2007GANC01) |
+| 473 | 33 | [Klaudia Grabowska](https://www.worldcubeassociation.org/persons/2007GRAB01) |
+| 474 | 33 | [Shuto Ueno (上野柊斗)](https://www.worldcubeassociation.org/persons/2008UENO01) |
+| 475 | 33 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) |
 | 476 | 33 | [Tripp Peters](https://www.worldcubeassociation.org/persons/2017PETE04) |
 | 477 | 33 | [Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01) |
 | 478 | 33 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) |

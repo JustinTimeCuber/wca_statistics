@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 16 July 2026*
+*Updated on 19 July 2026*
 
 | Rank | Days | Person |
 | :--- | ---: | :--- |
@@ -96,7 +96,7 @@
 | 89 | 623 | [Yunke Zhang (张云柯)](https://www.worldcubeassociation.org/persons/2014ZHAN11) |
 | 90 | 636 | [Jordi Lleixà López](https://www.worldcubeassociation.org/persons/2023LOPE09) |
 | 91 | 637 | [Owl Carpenter](https://www.worldcubeassociation.org/persons/2022CARP05) |
-| 92 | 638 | [Jacob Keh Zheng Xing (郭正兴)](https://www.worldcubeassociation.org/persons/2023XING02) |
+| 92 | 638 | [Jacob Keh (郭正兴)](https://www.worldcubeassociation.org/persons/2023XING02) |
 | 93 | 644 | [Haotian Shi (史浩天)](https://www.worldcubeassociation.org/persons/2024SHIH06) |
 | 94 | 644 | [Nolan Wayman](https://www.worldcubeassociation.org/persons/2024WAYM01) |
 | 95 | 650 | [Christopher Reid](https://www.worldcubeassociation.org/persons/2022REID01) |

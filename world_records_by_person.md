@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 16 July 2026*
+*Updated on 19 July 2026*
 
 | Rank | WRs | Person |
 | :--- | ---: | :--- |
@@ -53,17 +53,17 @@
 | 47 | 6 | [Edouard Chambon](https://www.worldcubeassociation.org/persons/2004CHAM01) |
 | 48 | 6 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
 | 49 | 6 | [Frank Morris](https://www.worldcubeassociation.org/persons/2003MORR01) |
-| 50 | 6 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |
-| 51 | 6 | [Rami Sbahi](https://www.worldcubeassociation.org/persons/2011SBAH01) |
-| 52 | 6 | [Takayuki Ookusa (大艸尊之)](https://www.worldcubeassociation.org/persons/2006OOKU01) |
-| 53 | 6 | [Yumu Tabuchi (田渕雄夢)](https://www.worldcubeassociation.org/persons/2006TABU02) |
-| 54 | 5 | [Bob Burton](https://www.worldcubeassociation.org/persons/2003BURT01) |
-| 55 | 5 | [Gabriel Pereira Campanha](https://www.worldcubeassociation.org/persons/2012CAMP03) |
-| 56 | 5 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) |
-| 57 | 5 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
-| 58 | 5 | [Grzegorz Prusak](https://www.worldcubeassociation.org/persons/2006PRUS01) |
-| 59 | 5 | [Jeff Park](https://www.worldcubeassociation.org/persons/2015PARK08) |
-| 60 | 5 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) |
+| 50 | 6 | [Lachlan Gibson](https://www.worldcubeassociation.org/persons/2022GIBS04) |
+| 51 | 6 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |
+| 52 | 6 | [Rami Sbahi](https://www.worldcubeassociation.org/persons/2011SBAH01) |
+| 53 | 6 | [Takayuki Ookusa (大艸尊之)](https://www.worldcubeassociation.org/persons/2006OOKU01) |
+| 54 | 6 | [Yumu Tabuchi (田渕雄夢)](https://www.worldcubeassociation.org/persons/2006TABU02) |
+| 55 | 5 | [Bob Burton](https://www.worldcubeassociation.org/persons/2003BURT01) |
+| 56 | 5 | [Gabriel Pereira Campanha](https://www.worldcubeassociation.org/persons/2012CAMP03) |
+| 57 | 5 | [Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01) |
+| 58 | 5 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
+| 59 | 5 | [Grzegorz Prusak](https://www.worldcubeassociation.org/persons/2006PRUS01) |
+| 60 | 5 | [Jeff Park](https://www.worldcubeassociation.org/persons/2015PARK08) |
 | 61 | 5 | [Máté Horváth](https://www.worldcubeassociation.org/persons/2007HORV01) |
 | 62 | 5 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) |
 | 63 | 5 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
