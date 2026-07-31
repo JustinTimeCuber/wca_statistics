@@ -1,6 +1,6 @@
 ## Longest time to achieve sub 10 3x3x3 average
 
-*Updated on 28 July 2026*
+*Updated on 31 July 2026*
 
 | Rank | Person | Years |
 | :--- | :--- | ---: |
@@ -295,7 +295,7 @@
 | 289 | [Mohd Ashroof Bin Masri](https://www.worldcubeassociation.org/persons/2009MASR01) | 8.85 |
 | 290 | [Maximilian Deimel](https://www.worldcubeassociation.org/persons/2010DEIM01) | 8.85 |
 | 291 | [Mohit Lulla](https://www.worldcubeassociation.org/persons/2015LULL01) | 8.84 |
-| 292 | [Matthew Baldwin](https://www.worldcubeassociation.org/persons/2017BALD02) | 8.84 |
+| 292 | [Matt Baldwin](https://www.worldcubeassociation.org/persons/2017BALD02) | 8.84 |
 | 293 | [Santiago Duque](https://www.worldcubeassociation.org/persons/2015DUQU01) | 8.84 |
 | 294 | [Antoine Jurkowski](https://www.worldcubeassociation.org/persons/2016JURK01) | 8.84 |
 | 295 | [Petr Samodelkin](https://www.worldcubeassociation.org/persons/2014SAMO02) | 8.82 |
