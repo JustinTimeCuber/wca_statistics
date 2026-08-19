@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on 16 August 2026*
+*Updated on 19 August 2026*
 
 
 ### Rubik's Cube
@@ -1518,7 +1518,7 @@
 | 38 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) | **30:30.00** | DNF | [Gotland Open 2023](https://www.worldcubeassociation.org/competitions/GotlandOpen2023/results/podiums#e444bf) | 2 |
 | 39 | [Mohammad Almoumen](https://www.worldcubeassociation.org/persons/2017ALMO03) | **30:23.00** | DNF | [Kuwaiti Nationals 2023](https://www.worldcubeassociation.org/competitions/KuwaitiNationals2023/results/podiums#e444bf) | 2 |
 | 40 | [Eng Dickson (黄迪胜)](https://www.worldcubeassociation.org/persons/2016DICK03) | **30:06.00** | DNF | [Tolong Diam Medan 2018](https://www.worldcubeassociation.org/competitions/TolongDiamMedan2018/results/podiums#e444bf) | 3 |
-| 41 | [Georgiy Titov (Георгій Тітов)](https://www.worldcubeassociation.org/persons/2013TITO02) | **30:00.00** | DNF | [Ukrainian Nationals 2014](https://www.worldcubeassociation.org/competitions/UkrainianNationals2014/results/podiums#e444bf) | 1 |
+| 41 | [Georgiy Titov](https://www.worldcubeassociation.org/persons/2013TITO02) | **30:00.00** | DNF | [Ukrainian Nationals 2014](https://www.worldcubeassociation.org/competitions/UkrainianNationals2014/results/podiums#e444bf) | 1 |
 | 42 | [Thomas Lehéricy](https://www.worldcubeassociation.org/persons/2016LEHE01) | **29:57.00** | DNF | [Chambéry Cube 2016](https://www.worldcubeassociation.org/competitions/ChamberyOpen2016/results/podiums#e444bf) | 3 |
 | 43 | [Jens Diewald](https://www.worldcubeassociation.org/persons/2008DIEW01) | **29:03.00** |  | [Montpellier Open 2010](https://www.worldcubeassociation.org/competitions/MontpellierOpen2010/results/podiums#e444bf) | 3 |
 | 44 | [John Allums](https://www.worldcubeassociation.org/persons/2011ALLU01) | **28:52.00** | DNF | [Unionville Open Spring 2017](https://www.worldcubeassociation.org/competitions/UnionvilleOpenSpring2017/results/podiums#e444bf) | 1 |
@@ -1555,7 +1555,7 @@
 | 75 | [Gintaras Grėbliūnas](https://www.worldcubeassociation.org/persons/2017GRBL01) | **25:51.00** | DNF | [Kaunas Open 2019](https://www.worldcubeassociation.org/competitions/KaunasOpen2019/results/podiums#e444bf) | 2 |
 | 76 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) | **25:48.00** |  | [Düsseldorf Open 2010](https://www.worldcubeassociation.org/competitions/DusseldorfOpen2010/results/podiums#e444bf) | 2 |
 | 77 | [Gregor Bergman](https://www.worldcubeassociation.org/persons/2022BERG01) | **25:48.00** | DNF | [Gotland Open 2023](https://www.worldcubeassociation.org/competitions/GotlandOpen2023/results/podiums#e444bf) | 1 |
-| 78 | [Georgiy Titov (Георгій Тітов)](https://www.worldcubeassociation.org/persons/2013TITO02) | **25:40.00** | DNF | [Kharkiv Special 2014](https://www.worldcubeassociation.org/competitions/KharkivSpecial2014/results/podiums#e444bf) | 3 |
+| 78 | [Georgiy Titov](https://www.worldcubeassociation.org/persons/2013TITO02) | **25:40.00** | DNF | [Kharkiv Special 2014](https://www.worldcubeassociation.org/competitions/KharkivSpecial2014/results/podiums#e444bf) | 3 |
 | 79 | [Allyson Dias de Lima](https://www.worldcubeassociation.org/persons/2011LIMA01) | **25:36.00** |  | [São Paulo Open 2014](https://www.worldcubeassociation.org/competitions/SPOpen2014/results/podiums#e444bf) | 1 |
 | 80 | [Sam Porter](https://www.worldcubeassociation.org/persons/2018PORT06) | **25:35.00** | DNF | [PBQuIdaho 2023](https://www.worldcubeassociation.org/competitions/PBQuIdahoWinter2023/results/podiums#e444bf) | 3 |
 | 81 | [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) | **25:31.00** | DNF | [Polish Open 2019](https://www.worldcubeassociation.org/competitions/PolishOpen2019/results/podiums#e444bf) | 3 |

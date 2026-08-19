@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 16 August 2026*
+*Updated on 19 August 2026*
 
 | Rank | WRs | Person |
 | :--- | ---: | :--- |
@@ -17,10 +17,10 @@
 | 11 | 17 | [Mátyás Kuti](https://www.worldcubeassociation.org/persons/2006KUTI01) |
 | 12 | 16 | [Chris Hardwick](https://www.worldcubeassociation.org/persons/2003HARD01) |
 | 13 | 16 | [Dan Cohen](https://www.worldcubeassociation.org/persons/2007COHE01) |
-| 14 | 16 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
-| 15 | 15 | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) |
-| 16 | 15 | [Marcell Endrey](https://www.worldcubeassociation.org/persons/2007ENDR01) |
-| 17 | 15 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) |
+| 14 | 16 | [Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07) |
+| 15 | 16 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
+| 16 | 15 | [Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30) |
+| 17 | 15 | [Marcell Endrey](https://www.worldcubeassociation.org/persons/2007ENDR01) |
 | 18 | 15 | [Yiheng Wang (王艺衡)](https://www.worldcubeassociation.org/persons/2019WANY36) |
 | 19 | 14 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) |
 | 20 | 13 | [Anssi Vanhala](https://www.worldcubeassociation.org/persons/2005VANH01) |

@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 16 August 2026*
+*Updated on 19 August 2026*
 
 | Rank | Days | Person |
 | :--- | ---: | :--- |
@@ -194,7 +194,7 @@
 | 187 | 868 | [Brayden Thompson](https://www.worldcubeassociation.org/persons/2022THOM14) |
 | 188 | 873 | [Felipe Santamaría Ruiz](https://www.worldcubeassociation.org/persons/2022RUIZ03) |
 | 189 | 876 | [Leo Johansson](https://www.worldcubeassociation.org/persons/2022JOHA08) |
-| 190 | 881 | [Georgiy Titov (Георгій Тітов)](https://www.worldcubeassociation.org/persons/2013TITO02) |
+| 190 | 881 | [Georgiy Titov](https://www.worldcubeassociation.org/persons/2013TITO02) |
 | 191 | 881 | [Elvin Thorsen](https://www.worldcubeassociation.org/persons/2016THOR08) |
 | 192 | 882 | [Haoyang Chen (陈浩杨)](https://www.worldcubeassociation.org/persons/2016CHEH02) |
 | 193 | 889 | [Oliver Frost](https://www.worldcubeassociation.org/persons/2012FROS01) |
