@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 31 August 2026*
+*Updated on  1 September 2026*
 
 
 ### Rubik's Cube
@@ -406,23 +406,23 @@
 | 81 | 0.34 | [Yueh-Lin Tsai (蔡岳霖)](https://www.worldcubeassociation.org/persons/2006TSAI03) | 1:00.78 | 1:01.12 | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017/results/by_person#2006TSAI03) |
 | 82 | 0.34 | [Rune Thomas Coulbourne](https://www.worldcubeassociation.org/persons/2022COUL02) | 1:02.59 | 1:02.93 | [Texas Championship 2024](https://www.worldcubeassociation.org/competitions/TexasChampionship2024/results/by_person#2022COUL02) |
 | 83 | 0.34 | [Cairon Sumadchat](https://www.worldcubeassociation.org/persons/2017SUMA03) | 1:05.24 | 1:05.58 | [Philippine Championship 2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019/results/by_person#2017SUMA03) |
-| 84 | 0.34 | [Henry Savich](https://www.worldcubeassociation.org/persons/2013SAVI01) | 1:23.20 | 1:23.54 | [Maryland 2018](https://www.worldcubeassociation.org/competitions/Maryland2018/results/by_person#2013SAVI01) |
-| 85 | 0.35 | [Benjamín Ochoa](https://www.worldcubeassociation.org/persons/2018OCHO03) | 57.44 | 57.79 | [TCG Selva Cubica 2023](https://www.worldcubeassociation.org/competitions/TCGSelvaCubica2023/results/by_person#2018OCHO03) |
-| 86 | 0.35 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) | 1:12.24 | 1:12.59 | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/by_person#2010THOM03) |
-| 87 | 0.36 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 42.92 | 43.28 | [Odd Day in Sydney 2018](https://www.worldcubeassociation.org/competitions/OddDayinSydney2018/results/by_person#2009ZEMD01) |
-| 88 | 0.36 | [Abdelhak Kaddour](https://www.worldcubeassociation.org/persons/2010KADD01) | 52.22 | 52.58 | [Longjum'Open 2026](https://www.worldcubeassociation.org/competitions/LongjumOpen2026/results/by_person#2010KADD01) |
-| 89 | 0.36 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | 1:01.89 | 1:02.25 | [Taiwan Championship 2017](https://www.worldcubeassociation.org/competitions/TaiwanChampionship2017/results/by_person#2015WANG09) |
-| 90 | 0.36 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | 1:08.22 | 1:08.58 | [Big CubingItaly 2018](https://www.worldcubeassociation.org/competitions/BigCubingItaly2018/results/by_person#2014PETE03) |
-| 91 | 0.36 | [Nikolay Vasilyev](https://www.worldcubeassociation.org/persons/2015VASI02) | 1:28.25 | 1:28.61 | [SPB Muffin 2020](https://www.worldcubeassociation.org/competitions/SPBMuffin2020/results/by_person#2015VASI02) |
-| 92 | 0.36 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 1:35.09 | 1:35.45 | [Archena 24 Horas 2022](https://www.worldcubeassociation.org/competitions/Archena24Horas2022/results/by_person#2020DWOR01) |
-| 93 | 0.36 | [Hennie Færden](https://www.worldcubeassociation.org/persons/2019FARD01) | 1:46.61 | 1:46.97 | [Norwegian Championship 2022](https://www.worldcubeassociation.org/competitions/NorwegianChampionship2022/results/by_person#2019FARD01) |
-| 94 | 0.37 | [Lucas Déglise](https://www.worldcubeassociation.org/persons/2015DEGL01) | 53.69 | 54.06 | [Open the Pot Dijon 2025](https://www.worldcubeassociation.org/competitions/OpenthePotDijon2025/results/by_person#2015DEGL01) |
-| 95 | 0.37 | [Dana Yi](https://www.worldcubeassociation.org/persons/2010YIDA01) | 57.87 | 58.24 | [Brooklyn Fall 2019](https://www.worldcubeassociation.org/competitions/BrooklynFall2019/results/by_person#2010YIDA01) |
-| 96 | 0.37 | [Mark Ostrom](https://www.worldcubeassociation.org/persons/2017OSTR01) | 1:08.03 | 1:08.40 | [Kewbz UK Championship 2022](https://www.worldcubeassociation.org/competitions/KewbzUKChampionship2022/results/by_person#2017OSTR01) |
-| 97 | 0.37 | [Jure Gregorc](https://www.worldcubeassociation.org/persons/2010GREG01) | 1:19.69 | 1:20.06 | [Croatian Open 2016](https://www.worldcubeassociation.org/competitions/CroatianOpen2016/results/by_person#2010GREG01) |
-| 98 | 0.37 | [Isabela da Ponte Nacif](https://www.worldcubeassociation.org/persons/2023NACI01) | 1:37.08 | 1:37.45 | [II Aquático Aclimação Open 2025](https://www.worldcubeassociation.org/competitions/IIAquaticoAclimacaoOpen2025/results/by_person#2023NACI01) |
-| 99 | 0.38 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | 51.29 | 51.67 | [Dutch Nationals 2023](https://www.worldcubeassociation.org/competitions/DutchNationals2023/results/by_person#2007VALK01) |
-| 100 | 0.38 | [Kai-Lun Cheng (鄭凱倫)](https://www.worldcubeassociation.org/persons/2020CHEN31) | 52.95 | 53.33 | [Taipei Summer Open 2024](https://www.worldcubeassociation.org/competitions/TaipeiSummerOpen2024/results/by_person#2020CHEN31) |
+| 84 | 0.34 | [Brady Caswell](https://www.worldcubeassociation.org/persons/2018CASW01) | 1:10.05 | 1:10.39 | [4x4 Off US-40 IL 2026](https://www.worldcubeassociation.org/competitions/4x4OffUS40IL2026/results/by_person#2018CASW01) |
+| 85 | 0.34 | [Henry Savich](https://www.worldcubeassociation.org/persons/2013SAVI01) | 1:23.20 | 1:23.54 | [Maryland 2018](https://www.worldcubeassociation.org/competitions/Maryland2018/results/by_person#2013SAVI01) |
+| 86 | 0.35 | [Benjamín Ochoa](https://www.worldcubeassociation.org/persons/2018OCHO03) | 57.44 | 57.79 | [TCG Selva Cubica 2023](https://www.worldcubeassociation.org/competitions/TCGSelvaCubica2023/results/by_person#2018OCHO03) |
+| 87 | 0.35 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) | 1:12.24 | 1:12.59 | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/by_person#2010THOM03) |
+| 88 | 0.36 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 42.92 | 43.28 | [Odd Day in Sydney 2018](https://www.worldcubeassociation.org/competitions/OddDayinSydney2018/results/by_person#2009ZEMD01) |
+| 89 | 0.36 | [Abdelhak Kaddour](https://www.worldcubeassociation.org/persons/2010KADD01) | 52.22 | 52.58 | [Longjum'Open 2026](https://www.worldcubeassociation.org/competitions/LongjumOpen2026/results/by_person#2010KADD01) |
+| 90 | 0.36 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | 1:01.89 | 1:02.25 | [Taiwan Championship 2017](https://www.worldcubeassociation.org/competitions/TaiwanChampionship2017/results/by_person#2015WANG09) |
+| 91 | 0.36 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | 1:08.22 | 1:08.58 | [Big CubingItaly 2018](https://www.worldcubeassociation.org/competitions/BigCubingItaly2018/results/by_person#2014PETE03) |
+| 92 | 0.36 | [Nikolay Vasilyev](https://www.worldcubeassociation.org/persons/2015VASI02) | 1:28.25 | 1:28.61 | [SPB Muffin 2020](https://www.worldcubeassociation.org/competitions/SPBMuffin2020/results/by_person#2015VASI02) |
+| 93 | 0.36 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 1:35.09 | 1:35.45 | [Archena 24 Horas 2022](https://www.worldcubeassociation.org/competitions/Archena24Horas2022/results/by_person#2020DWOR01) |
+| 94 | 0.36 | [Hennie Færden](https://www.worldcubeassociation.org/persons/2019FARD01) | 1:46.61 | 1:46.97 | [Norwegian Championship 2022](https://www.worldcubeassociation.org/competitions/NorwegianChampionship2022/results/by_person#2019FARD01) |
+| 95 | 0.37 | [Lucas Déglise](https://www.worldcubeassociation.org/persons/2015DEGL01) | 53.69 | 54.06 | [Open the Pot Dijon 2025](https://www.worldcubeassociation.org/competitions/OpenthePotDijon2025/results/by_person#2015DEGL01) |
+| 96 | 0.37 | [Dana Yi](https://www.worldcubeassociation.org/persons/2010YIDA01) | 57.87 | 58.24 | [Brooklyn Fall 2019](https://www.worldcubeassociation.org/competitions/BrooklynFall2019/results/by_person#2010YIDA01) |
+| 97 | 0.37 | [Mark Ostrom](https://www.worldcubeassociation.org/persons/2017OSTR01) | 1:08.03 | 1:08.40 | [Kewbz UK Championship 2022](https://www.worldcubeassociation.org/competitions/KewbzUKChampionship2022/results/by_person#2017OSTR01) |
+| 98 | 0.37 | [Jure Gregorc](https://www.worldcubeassociation.org/persons/2010GREG01) | 1:19.69 | 1:20.06 | [Croatian Open 2016](https://www.worldcubeassociation.org/competitions/CroatianOpen2016/results/by_person#2010GREG01) |
+| 99 | 0.37 | [Isabela da Ponte Nacif](https://www.worldcubeassociation.org/persons/2023NACI01) | 1:37.08 | 1:37.45 | [II Aquático Aclimação Open 2025](https://www.worldcubeassociation.org/competitions/IIAquaticoAclimacaoOpen2025/results/by_person#2023NACI01) |
+| 100 | 0.38 | [Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01) | 51.29 | 51.67 | [Dutch Nationals 2023](https://www.worldcubeassociation.org/competitions/DutchNationals2023/results/by_person#2007VALK01) |
 
 ### 6x6x6 Cube
 
