@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on  4 September 2026*
+*Updated on  7 September 2026*
 
 
 ### Rubik's Cube
@@ -201,18 +201,18 @@
 | 86 | [Qiyu Zhang (张淇奥)](https://www.worldcubeassociation.org/persons/2017ZHAQ04) | 0.84 | **1.55** | [Hangzhou Open 2026](https://www.worldcubeassociation.org/competitions/HangzhouOpen2026/results/all#e222_f) | 5 |
 | 87 | [Stefan Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD02) | 0.95 | **1.55** | [Energy Cube Ciechanów 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeCiechanow2024/results/all#e222_f) | 4 |
 | 88 | [Ryan Chan](https://www.worldcubeassociation.org/persons/2023CHAN16) | 1.06 | **1.55** | [Stevenage October 2025](https://www.worldcubeassociation.org/competitions/StevenageOctober2025/results/all#e222_f) | 4 |
-| 89 | [Harry Forbes](https://www.worldcubeassociation.org/persons/2021FORB01) | 1.24 | **1.55** | [Australian Nationals 2026](https://www.worldcubeassociation.org/competitions/AustralianNationals2026/results/all#e222_f) | 4 |
-| 90 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | 1.25 | **1.55** | [Chengdu Welcoming Summer 2026](https://www.worldcubeassociation.org/competitions/ChengduWelcomingSummer2026/results/all#e222_f) | 5 |
-| 91 | [Jack Pfeifer](https://www.worldcubeassociation.org/persons/2016PFEI01) | 1.32 | **1.55** | [Great Lakes Championship 2026](https://www.worldcubeassociation.org/competitions/GreatLakesChampionship2026/results/all#e222_f) | 8 |
-| 92 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | 1.35 | **1.55** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#e222_f) | 7 |
-| 93 | [Albert Mandicó Sampol](https://www.worldcubeassociation.org/persons/2021SAMP01) | 0.88 | **1.56** | [Spanish Championship 2025](https://www.worldcubeassociation.org/competitions/SpanishChampionship2025/results/all#e222_f) | 4 |
-| 94 | [Chenhao Ma (马晨皓)](https://www.worldcubeassociation.org/persons/2017MACH03) | 1.08 | **1.56** | [Guangdong Revival & Rival 2026](https://www.worldcubeassociation.org/competitions/GuangdongRevivalRival2026/results/all#e222_f) | 9 |
-| 95 | [Alan Rivera Bañaga](https://www.worldcubeassociation.org/persons/2024BANA04) | 1.09 | **1.56** | [WCC Western Championship 2025](https://www.worldcubeassociation.org/competitions/WesternChampionship2025/results/all#e222_f) | 5 |
-| 96 | [Caleb Chen](https://www.worldcubeassociation.org/persons/2022CHEN37) | 1.11 | **1.56** | [Atlanta Algs at AIS Autumn 2025](https://www.worldcubeassociation.org/competitions/AtlantaAlgsatAISAutumn2025/results/all#e222_f) | 6 |
-| 97 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | 1.14 | **1.56** | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025/results/all#e222_f) | 5 |
-| 98 | [Micah Heckerling](https://www.worldcubeassociation.org/persons/2023HECK01) | 1.15 | **1.56** | [Georgia Championship 2026](https://www.worldcubeassociation.org/competitions/GeorgiaChampionship2026/results/all#e222_f) | 6 |
-| 99 | [Yingjian Gong (龚英健)](https://www.worldcubeassociation.org/persons/2021GONG02) | 1.17 | **1.56** | [Xuzhou Newcomers 2025](https://www.worldcubeassociation.org/competitions/XuzhouNewcomers2025/results/all#e222_f) | 4 |
-| 100 | [Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03) | 1.18 | **1.56** | [Mid-Atlantic Championship 2026](https://www.worldcubeassociation.org/competitions/MidAtlanticChampionship2026/results/all#e222_f) | 6 |
+| 89 | [David Andron-Silva](https://www.worldcubeassociation.org/persons/2022SILV37) | 1.18 | **1.55** | [Brookline Favorites IV 2026](https://www.worldcubeassociation.org/competitions/BrooklineFavoritesIV2026/results/all#e222_f) | 4 |
+| 90 | [Harry Forbes](https://www.worldcubeassociation.org/persons/2021FORB01) | 1.24 | **1.55** | [Australian Nationals 2026](https://www.worldcubeassociation.org/competitions/AustralianNationals2026/results/all#e222_f) | 4 |
+| 91 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | 1.25 | **1.55** | [Chengdu Welcoming Summer 2026](https://www.worldcubeassociation.org/competitions/ChengduWelcomingSummer2026/results/all#e222_f) | 5 |
+| 92 | [Jack Pfeifer](https://www.worldcubeassociation.org/persons/2016PFEI01) | 1.32 | **1.55** | [Great Lakes Championship 2026](https://www.worldcubeassociation.org/competitions/GreatLakesChampionship2026/results/all#e222_f) | 8 |
+| 93 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | 1.35 | **1.55** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#e222_f) | 7 |
+| 94 | [Albert Mandicó Sampol](https://www.worldcubeassociation.org/persons/2021SAMP01) | 0.88 | **1.56** | [Spanish Championship 2025](https://www.worldcubeassociation.org/competitions/SpanishChampionship2025/results/all#e222_f) | 4 |
+| 95 | [Chenhao Ma (马晨皓)](https://www.worldcubeassociation.org/persons/2017MACH03) | 1.08 | **1.56** | [Guangdong Revival & Rival 2026](https://www.worldcubeassociation.org/competitions/GuangdongRevivalRival2026/results/all#e222_f) | 9 |
+| 96 | [Alan Rivera Bañaga](https://www.worldcubeassociation.org/persons/2024BANA04) | 1.09 | **1.56** | [WCC Western Championship 2025](https://www.worldcubeassociation.org/competitions/WesternChampionship2025/results/all#e222_f) | 5 |
+| 97 | [Caleb Chen](https://www.worldcubeassociation.org/persons/2022CHEN37) | 1.11 | **1.56** | [Atlanta Algs at AIS Autumn 2025](https://www.worldcubeassociation.org/competitions/AtlantaAlgsatAISAutumn2025/results/all#e222_f) | 6 |
+| 98 | [Ian Kim](https://www.worldcubeassociation.org/persons/2024KIMI05) | 1.12 | **1.56** | [Brookline Favorites IV 2026](https://www.worldcubeassociation.org/competitions/BrooklineFavoritesIV2026/results/all#e222_f) | 5 |
+| 99 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | 1.14 | **1.56** | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025/results/all#e222_f) | 5 |
+| 100 | [Micah Heckerling](https://www.worldcubeassociation.org/persons/2023HECK01) | 1.15 | **1.56** | [Georgia Championship 2026](https://www.worldcubeassociation.org/competitions/GeorgiaChampionship2026/results/all#e222_f) | 6 |
 
 ### 4x4x4 Cube
 
@@ -1443,36 +1443,36 @@
 | 68 | [Diego Brizuela Crespo](https://www.worldcubeassociation.org/persons/2016CRES01) | 7.63 | **7.75** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#esq1_f) | 5 |
 | 69 | [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) | 5.48 | **7.76** | [Northwest Championship 2024](https://www.worldcubeassociation.org/competitions/NorthwestChampionship2024/results/all#esq1_f) | 4 |
 | 70 | [Ivan Vanek](https://www.worldcubeassociation.org/persons/2015VANE01) | 6.56 | **7.79** | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/all#esq1_f) | 15 |
-| 71 | [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) | 7.71 | **7.81** | [Idaho French Fried 2022](https://www.worldcubeassociation.org/competitions/IdahoFrenchFried2022/results/all#esq1_f) | 4 |
-| 72 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | 5.65 | **7.82** | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/all#esq1_f) | 11 |
-| 73 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 6.53 | **7.85** | [SzczeciNxN 2026](https://www.worldcubeassociation.org/competitions/SzczeciNxN2026/results/all#esq1_f) | 4 |
-| 74 | [Joseph Ong](https://www.worldcubeassociation.org/persons/2018ONGJ01) | 7.32 | **7.85** | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/all#esq1_f) | 16 |
-| 75 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) | 5.78 | **7.86** | [Northwest Championship 2024](https://www.worldcubeassociation.org/competitions/NorthwestChampionship2024/results/all#esq1_f) | 5 |
-| 76 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 6.55 | **7.88** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#esq1_f) | 5 |
-| 77 | [Anshu Chennuru](https://www.worldcubeassociation.org/persons/2016CHEN53) | 7.14 | **7.89** | [DFW Back to School 2024](https://www.worldcubeassociation.org/competitions/DFWBacktoSchool2024/results/all#esq1_f) | 4 |
-| 78 | [Ayden Dincher](https://www.worldcubeassociation.org/persons/2022DINC01) | 5.62 | **7.90** | [Connecticut Championship 2025](https://www.worldcubeassociation.org/competitions/ConnecticutChampionship2025/results/all#esq1_f) | 4 |
-| 79 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 5.73 | **7.90** | [No Sprinting NY 2026](https://www.worldcubeassociation.org/competitions/NoSprintingNY2026/results/all#esq1_f) | 4 |
-| 80 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 6.97 | **7.91** | [GLS Gdańsk III 2026](https://www.worldcubeassociation.org/competitions/GLSGdanskIII2026/results/all#esq1_f) | 4 |
-| 81 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) | 6.77 | **7.92** | [Bothell Spring 2022](https://www.worldcubeassociation.org/competitions/BothellSpring2022/results/all#esq1_f) | 4 |
-| 82 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | 5.01 | **7.93** | [DFW Back to School 2024](https://www.worldcubeassociation.org/competitions/DFWBacktoSchool2024/results/all#esq1_f) | 5 |
-| 83 | [Tucker Chamberlain](https://www.worldcubeassociation.org/persons/2018CHAM01) | 5.76 | **7.93** | [DFW Cubing Winter 2023](https://www.worldcubeassociation.org/competitions/DFWCubingWinter2023/results/all#esq1_f) | 5 |
-| 84 | [Anshu Chennuru](https://www.worldcubeassociation.org/persons/2016CHEN53) | 6.98 | **7.93** | [Texas BarbeCubing 2022](https://www.worldcubeassociation.org/competitions/TexasBarbeCubing2022/results/all#esq1_f) | 4 |
-| 85 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | 7.49 | **7.93** | [Western Championship 2023](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2023/results/all#esq1_f) | 4 |
-| 86 | [Ezra Fish](https://www.worldcubeassociation.org/persons/2022FISH01) | 6.64 | **7.94** | [NAC 2026](https://www.worldcubeassociation.org/competitions/NAC2026/results/all#esq1_f) | 8 |
-| 87 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) | 6.33 | **7.95** | [School's Out PLU 2022](https://www.worldcubeassociation.org/competitions/SchoolsOutPLU2022/results/all#esq1_f) | 4 |
-| 88 | [Samuel Fang](https://www.worldcubeassociation.org/persons/2014FANG01) | 7.16 | **7.96** | [NAC 2026](https://www.worldcubeassociation.org/competitions/NAC2026/results/all#esq1_f) | 9 |
-| 89 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 7.55 | **7.96** | [Mid-Atlantic Championship 2023](https://www.worldcubeassociation.org/competitions/MidAtlanticChampionship2023/results/all#esq1_f) | 4 |
-| 90 | [Elijah Rain Phelps](https://www.worldcubeassociation.org/persons/2019PHEL01) | 7.57 | **7.96** | [Connecticut Championship 2025](https://www.worldcubeassociation.org/competitions/ConnecticutChampionship2025/results/all#esq1_f) | 5 |
-| 91 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | 7.18 | **7.98** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#esq1_f) | 6 |
-| 92 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 7.34 | **7.98** | [CubingUSA Western Champs 2021](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2021/results/all#esq1_f) | 4 |
-| 93 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | 6.37 | **7.99** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#esq1_f) | 11 |
-| 94 | [CJ York](https://www.worldcubeassociation.org/persons/2016YORK01) | 7.29 | **7.99** | [Southern Championship 2023](https://www.worldcubeassociation.org/competitions/SouthernChampionship2023/results/all#esq1_f) | 4 |
-| 95 | [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) | 6.76 | **8.00** | [Bellevue CfC 2022](https://www.worldcubeassociation.org/competitions/BellevueCubingforChildrens2022/results/all#esq1_c) | 4 |
-| 96 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) | 7.04 | **8.00** | [Australian Nationals 2023](https://www.worldcubeassociation.org/competitions/AustralianNationals2023/results/all#esq1_f) | 4 |
-| 97 | [Timothy Castle](https://www.worldcubeassociation.org/persons/2016CAST48) | 7.08 | **8.01** | [Bothell Spring 2022](https://www.worldcubeassociation.org/competitions/BothellSpring2022/results/all#esq1_f) | 5 |
-| 98 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) | 7.36 | **8.01** | [Welcome Back Portland 2022](https://www.worldcubeassociation.org/competitions/WelcomeBackPortland2022/results/all#esq1_f) | 4 |
-| 99 | [Lucas Lippman-Bruno](https://www.worldcubeassociation.org/persons/2022LIPP01) | 6.81 | **8.02** | [NAC 2026](https://www.worldcubeassociation.org/competitions/NAC2026/results/all#esq1_f) | 10 |
-| 100 | [Ayden Dincher](https://www.worldcubeassociation.org/persons/2022DINC01) | 7.14 | **8.02** | [NAC 2026](https://www.worldcubeassociation.org/competitions/NAC2026/results/all#esq1_f) | 11 |
+| 71 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) | 6.06 | **7.80** | [Dębica Cubing Summer 2026](https://www.worldcubeassociation.org/competitions/DebicaCubingSummer2026/results/all#esq1_c) | 4 |
+| 72 | [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) | 7.71 | **7.81** | [Idaho French Fried 2022](https://www.worldcubeassociation.org/competitions/IdahoFrenchFried2022/results/all#esq1_f) | 4 |
+| 73 | [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | 5.65 | **7.82** | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/all#esq1_f) | 11 |
+| 74 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 6.53 | **7.85** | [SzczeciNxN 2026](https://www.worldcubeassociation.org/competitions/SzczeciNxN2026/results/all#esq1_f) | 4 |
+| 75 | [Joseph Ong](https://www.worldcubeassociation.org/persons/2018ONGJ01) | 7.32 | **7.85** | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/all#esq1_f) | 16 |
+| 76 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) | 5.78 | **7.86** | [Northwest Championship 2024](https://www.worldcubeassociation.org/competitions/NorthwestChampionship2024/results/all#esq1_f) | 5 |
+| 77 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 6.55 | **7.88** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#esq1_f) | 5 |
+| 78 | [Anshu Chennuru](https://www.worldcubeassociation.org/persons/2016CHEN53) | 7.14 | **7.89** | [DFW Back to School 2024](https://www.worldcubeassociation.org/competitions/DFWBacktoSchool2024/results/all#esq1_f) | 4 |
+| 79 | [Ayden Dincher](https://www.worldcubeassociation.org/persons/2022DINC01) | 5.62 | **7.90** | [Connecticut Championship 2025](https://www.worldcubeassociation.org/competitions/ConnecticutChampionship2025/results/all#esq1_f) | 4 |
+| 80 | [Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04) | 5.73 | **7.90** | [No Sprinting NY 2026](https://www.worldcubeassociation.org/competitions/NoSprintingNY2026/results/all#esq1_f) | 4 |
+| 81 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 6.97 | **7.91** | [GLS Gdańsk III 2026](https://www.worldcubeassociation.org/competitions/GLSGdanskIII2026/results/all#esq1_f) | 4 |
+| 82 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) | 6.77 | **7.92** | [Bothell Spring 2022](https://www.worldcubeassociation.org/competitions/BothellSpring2022/results/all#esq1_f) | 4 |
+| 83 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | 5.01 | **7.93** | [DFW Back to School 2024](https://www.worldcubeassociation.org/competitions/DFWBacktoSchool2024/results/all#esq1_f) | 5 |
+| 84 | [Tucker Chamberlain](https://www.worldcubeassociation.org/persons/2018CHAM01) | 5.76 | **7.93** | [DFW Cubing Winter 2023](https://www.worldcubeassociation.org/competitions/DFWCubingWinter2023/results/all#esq1_f) | 5 |
+| 85 | [Anshu Chennuru](https://www.worldcubeassociation.org/persons/2016CHEN53) | 6.98 | **7.93** | [Texas BarbeCubing 2022](https://www.worldcubeassociation.org/competitions/TexasBarbeCubing2022/results/all#esq1_f) | 4 |
+| 86 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | 7.49 | **7.93** | [Western Championship 2023](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2023/results/all#esq1_f) | 4 |
+| 87 | [Ezra Fish](https://www.worldcubeassociation.org/persons/2022FISH01) | 6.64 | **7.94** | [NAC 2026](https://www.worldcubeassociation.org/competitions/NAC2026/results/all#esq1_f) | 8 |
+| 88 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) | 6.33 | **7.95** | [School's Out PLU 2022](https://www.worldcubeassociation.org/competitions/SchoolsOutPLU2022/results/all#esq1_f) | 4 |
+| 89 | [Samuel Fang](https://www.worldcubeassociation.org/persons/2014FANG01) | 7.16 | **7.96** | [NAC 2026](https://www.worldcubeassociation.org/competitions/NAC2026/results/all#esq1_f) | 9 |
+| 90 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 7.55 | **7.96** | [Mid-Atlantic Championship 2023](https://www.worldcubeassociation.org/competitions/MidAtlanticChampionship2023/results/all#esq1_f) | 4 |
+| 91 | [Elijah Rain Phelps](https://www.worldcubeassociation.org/persons/2019PHEL01) | 7.57 | **7.96** | [Connecticut Championship 2025](https://www.worldcubeassociation.org/competitions/ConnecticutChampionship2025/results/all#esq1_f) | 5 |
+| 92 | [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02) | 7.18 | **7.98** | [NAC 2022](https://www.worldcubeassociation.org/competitions/NAC2022/results/all#esq1_f) | 6 |
+| 93 | [Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26) | 7.34 | **7.98** | [CubingUSA Western Champs 2021](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2021/results/all#esq1_f) | 4 |
+| 94 | [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01) | 6.37 | **7.99** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#esq1_f) | 11 |
+| 95 | [CJ York](https://www.worldcubeassociation.org/persons/2016YORK01) | 7.29 | **7.99** | [Southern Championship 2023](https://www.worldcubeassociation.org/competitions/SouthernChampionship2023/results/all#esq1_f) | 4 |
+| 96 | [Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03) | 6.76 | **8.00** | [Bellevue CfC 2022](https://www.worldcubeassociation.org/competitions/BellevueCubingforChildrens2022/results/all#esq1_c) | 4 |
+| 97 | [Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04) | 7.04 | **8.00** | [Australian Nationals 2023](https://www.worldcubeassociation.org/competitions/AustralianNationals2023/results/all#esq1_f) | 4 |
+| 98 | [Timothy Castle](https://www.worldcubeassociation.org/persons/2016CAST48) | 7.08 | **8.01** | [Bothell Spring 2022](https://www.worldcubeassociation.org/competitions/BothellSpring2022/results/all#esq1_f) | 5 |
+| 99 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) | 7.36 | **8.01** | [Welcome Back Portland 2022](https://www.worldcubeassociation.org/competitions/WelcomeBackPortland2022/results/all#esq1_f) | 4 |
+| 100 | [Lucas Lippman-Bruno](https://www.worldcubeassociation.org/persons/2022LIPP01) | 6.81 | **8.02** | [NAC 2026](https://www.worldcubeassociation.org/competitions/NAC2026/results/all#esq1_f) | 10 |
 
 ### 4x4x4 Blindfolded
 
