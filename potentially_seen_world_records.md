@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on  7 September 2026*
+*Updated on  8 September 2026*
 
 | Rank | WRs | Person |
 | :--- | ---: | :--- |
@@ -652,7 +652,7 @@
 | 645 | 27 | [Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08) |
 | 646 | 27 | [Malte Ihlefeld](https://www.worldcubeassociation.org/persons/2016IHLE01) |
 | 647 | 27 | [Jason White](https://www.worldcubeassociation.org/persons/2016WHIT16) |
-| 648 | 27 | [Nolan Yiu](https://www.worldcubeassociation.org/persons/2016YIUN01) |
+| 648 | 27 | [Nolan Lata Yiu](https://www.worldcubeassociation.org/persons/2016YIUN01) |
 | 649 | 27 | [Peter Preston](https://www.worldcubeassociation.org/persons/2017PRES02) |
 | 650 | 27 | [Michiel van der Blonk](https://www.worldcubeassociation.org/persons/2003BLON01) |
 | 651 | 27 | [Corey Duford](https://www.worldcubeassociation.org/persons/2003DUFO01) |

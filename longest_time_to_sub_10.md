@@ -1,6 +1,6 @@
 ## Longest time to achieve sub 10 3x3x3 average
 
-*Updated on  7 September 2026*
+*Updated on  8 September 2026*
 
 | Rank | Person | Years |
 | :--- | :--- | ---: |
@@ -238,7 +238,7 @@
 | 232 | [Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02) | 9.45 |
 | 233 | [Max Goskie](https://www.worldcubeassociation.org/persons/2015GOSK01) | 9.45 |
 | 234 | [Justin Taylor](https://www.worldcubeassociation.org/persons/2017TAYL02) | 9.45 |
-| 235 | [Nolan Yiu](https://www.worldcubeassociation.org/persons/2016YIUN01) | 9.41 |
+| 235 | [Nolan Lata Yiu](https://www.worldcubeassociation.org/persons/2016YIUN01) | 9.41 |
 | 236 | [Evan Brown](https://www.worldcubeassociation.org/persons/2013BROW04) | 9.39 |
 | 237 | [Berk Rende](https://www.worldcubeassociation.org/persons/2016REND02) | 9.39 |
 | 238 | [Max Ruderman](https://www.worldcubeassociation.org/persons/2016RUDE01) | 9.37 |
