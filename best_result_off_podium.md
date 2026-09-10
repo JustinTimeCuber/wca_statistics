@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on  8 September 2026*
+*Updated on 10 September 2026*
 
 
 ### Rubik's Cube
@@ -1559,25 +1559,25 @@
 | 79 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) | **2:38.28** | DNF | [Rubik's UK Championship 2025](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2025/results/all#e444bf_f) | 4 |
 | 80 | [Colm McCarthy](https://www.worldcubeassociation.org/persons/2018MCCA02) | **2:38.75** | 3:08.59 | [NAC 2026](https://www.worldcubeassociation.org/competitions/NAC2026/results/all#e444bf_f) | 11 |
 | 81 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) | **2:38.82** | DNF | [Polish Championship 2022](https://www.worldcubeassociation.org/competitions/PolishChampionship2022/results/all#e444bf_f) | 5 |
-| 82 | [Abhijeet Ghodgaonkar (अभिजीत घोडगावकर)](https://www.worldcubeassociation.org/persons/2013GHOD01) | **2:39.94** | DNF | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e444bf_f) | 4 |
-| 83 | [Noah Kraft](https://www.worldcubeassociation.org/persons/2016KRAF01) | **2:39.99** | DNF | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#e444bf_f) | 14 |
-| 84 | [Amy Smith](https://www.worldcubeassociation.org/persons/2019SMIT36) | **2:40.23** | DNF | [Australian Nationals 2025](https://www.worldcubeassociation.org/competitions/AustralianNationals2025/results/all#e444bf_f) | 5 |
-| 85 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | **2:40.73** | 2:47.76 | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/all#e444bf_f) | 8 |
-| 86 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) | **2:41.79** | DNF | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025/results/all#e444bf_f) | 4 |
-| 87 | [Amy Smith](https://www.worldcubeassociation.org/persons/2019SMIT36) | **2:42.19** | DNF | [WCA Oceanic Championship 2024](https://www.worldcubeassociation.org/competitions/OC2024/results/all#e444bf_f) | 6 |
-| 88 | [Eskil Munthe](https://www.worldcubeassociation.org/persons/2022MUNT02) | **2:42.24** | DNF | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/all#e444bf_f) | 17 |
-| 89 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | **2:43.06** | DNF | [NAC 2026](https://www.worldcubeassociation.org/competitions/NAC2026/results/all#e444bf_f) | 12 |
-| 90 | [Rodolphe Rouyrre](https://www.worldcubeassociation.org/persons/2020ROUY01) | **2:43.87** | DNF | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024/results/all#e444bf_f) | 8 |
-| 91 | [Timothy Goh](https://www.worldcubeassociation.org/persons/2016GOHT01) | **2:45.16** | DNF | [CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/all#e444bf_f) | 4 |
-| 92 | [Sora Wenjie Xu (徐文杰)](https://www.worldcubeassociation.org/persons/2016XUWE02) | **2:45.18** | DNF | [Please Be Quiet Xi'an 2026](https://www.worldcubeassociation.org/competitions/PleaseBeQuietXian2026/results/all#e444bf_f) | 4 |
-| 93 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) | **2:45.46** | DNF | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e444bf_f) | 6 |
-| 94 | [Paul Taylor](https://www.worldcubeassociation.org/persons/2016TAYL02) | **2:45.49** | 3:08.34 | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all#e444bf_f) | 5 |
-| 95 | [Jordi Lleixà López](https://www.worldcubeassociation.org/persons/2023LOPE09) | **2:45.68** | DNF | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#e444bf_f) | 15 |
-| 96 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) | **2:46.60** | DNF | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/all#e444bf_f) | 9 |
-| 97 | [Daniel Anker Hermansen](https://www.worldcubeassociation.org/persons/2017HERM01) | **2:46.66** | DNF | [WCA Euro 2018](https://www.worldcubeassociation.org/competitions/Euro2018/results/all#e444bf_f) | 4 |
-| 98 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | **2:46.71** | 2:58.83 | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#e444bf_f) | 16 |
-| 99 | [Yuhang Sun (孙煜航)](https://www.worldcubeassociation.org/persons/2019SUNY09) | **2:47.71** | DNF | [Please Be Quiet Xi'an 2026](https://www.worldcubeassociation.org/competitions/PleaseBeQuietXian2026/results/all#e444bf_f) | 5 |
-| 100 | [Yucheng Chen (陈裕铖)](https://www.worldcubeassociation.org/persons/2015CHEN49) | **2:48.08** | DNF | [Guangdong Revival & Rival 2026](https://www.worldcubeassociation.org/competitions/GuangdongRevivalRival2026/results/all#e444bf_f) | 6 |
+| 82 | [Yifan Wang (王逸帆)](https://www.worldcubeassociation.org/persons/2017WANY29) | **2:39.08** | DNF | [Hefei September Open 2026](https://www.worldcubeassociation.org/competitions/HefeiSeptemberOpen2026/results/all#e444bf_f) | 4 |
+| 83 | [Abhijeet Ghodgaonkar (अभिजीत घोडगावकर)](https://www.worldcubeassociation.org/persons/2013GHOD01) | **2:39.94** | DNF | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e444bf_f) | 4 |
+| 84 | [Noah Kraft](https://www.worldcubeassociation.org/persons/2016KRAF01) | **2:39.99** | DNF | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#e444bf_f) | 14 |
+| 85 | [Amy Smith](https://www.worldcubeassociation.org/persons/2019SMIT36) | **2:40.23** | DNF | [Australian Nationals 2025](https://www.worldcubeassociation.org/competitions/AustralianNationals2025/results/all#e444bf_f) | 5 |
+| 86 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | **2:40.73** | 2:47.76 | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/all#e444bf_f) | 8 |
+| 87 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) | **2:41.79** | DNF | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025/results/all#e444bf_f) | 4 |
+| 88 | [Amy Smith](https://www.worldcubeassociation.org/persons/2019SMIT36) | **2:42.19** | DNF | [WCA Oceanic Championship 2024](https://www.worldcubeassociation.org/competitions/OC2024/results/all#e444bf_f) | 6 |
+| 89 | [Eskil Munthe](https://www.worldcubeassociation.org/persons/2022MUNT02) | **2:42.24** | DNF | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/all#e444bf_f) | 17 |
+| 90 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | **2:43.06** | DNF | [NAC 2026](https://www.worldcubeassociation.org/competitions/NAC2026/results/all#e444bf_f) | 12 |
+| 91 | [Rodolphe Rouyrre](https://www.worldcubeassociation.org/persons/2020ROUY01) | **2:43.87** | DNF | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024/results/all#e444bf_f) | 8 |
+| 92 | [Timothy Goh](https://www.worldcubeassociation.org/persons/2016GOHT01) | **2:45.16** | DNF | [CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/all#e444bf_f) | 4 |
+| 93 | [Sora Wenjie Xu (徐文杰)](https://www.worldcubeassociation.org/persons/2016XUWE02) | **2:45.18** | DNF | [Please Be Quiet Xi'an 2026](https://www.worldcubeassociation.org/competitions/PleaseBeQuietXian2026/results/all#e444bf_f) | 4 |
+| 94 | [Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02) | **2:45.46** | DNF | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e444bf_f) | 6 |
+| 95 | [Paul Taylor](https://www.worldcubeassociation.org/persons/2016TAYL02) | **2:45.49** | 3:08.34 | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all#e444bf_f) | 5 |
+| 96 | [Jordi Lleixà López](https://www.worldcubeassociation.org/persons/2023LOPE09) | **2:45.68** | DNF | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#e444bf_f) | 15 |
+| 97 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) | **2:46.60** | DNF | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/all#e444bf_f) | 9 |
+| 98 | [Daniel Anker Hermansen](https://www.worldcubeassociation.org/persons/2017HERM01) | **2:46.66** | DNF | [WCA Euro 2018](https://www.worldcubeassociation.org/competitions/Euro2018/results/all#e444bf_f) | 4 |
+| 99 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | **2:46.71** | 2:58.83 | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#e444bf_f) | 16 |
+| 100 | [Yuhang Sun (孙煜航)](https://www.worldcubeassociation.org/persons/2019SUNY09) | **2:47.71** | DNF | [Please Be Quiet Xi'an 2026](https://www.worldcubeassociation.org/competitions/PleaseBeQuietXian2026/results/all#e444bf_f) | 5 |
 
 ### 5x5x5 Blindfolded
 
