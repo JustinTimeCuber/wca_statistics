@@ -1,6 +1,6 @@
 ## World Championship podiums by person
 
-*Updated on 16 September 2026*
+*Updated on 19 September 2026*
 
 | Rank | Person | Gold | Silver | Bronze | Total |
 | :--- | :--- | :--: | :--: | :--: | :--: |
@@ -229,25 +229,25 @@
 | 223 | [Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01) | **0** | 0 | 1 | 1 |
 | 224 | [Daniel Wu](https://www.worldcubeassociation.org/persons/2010WUDA01) | **0** | 0 | 1 | 1 |
 | 225 | [Elvin Thorsen](https://www.worldcubeassociation.org/persons/2016THOR08) | **0** | 0 | 1 | 1 |
-| 226 | [Felipe Rueda Hernández](https://www.worldcubeassociation.org/persons/2012HERN03) | **0** | 0 | 1 | 1 |
-| 227 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | **0** | 0 | 1 | 1 |
-| 228 | [Heewon Seo](https://www.worldcubeassociation.org/persons/2017SEOH01) | **0** | 0 | 1 | 1 |
-| 229 | [Henry Lichner](https://www.worldcubeassociation.org/persons/2018LICH05) | **0** | 0 | 1 | 1 |
-| 230 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | **0** | 0 | 1 | 1 |
-| 231 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | **0** | 0 | 1 | 1 |
-| 232 | [Jon Morris](https://www.worldcubeassociation.org/persons/2003MORR02) | **0** | 0 | 1 | 1 |
-| 233 | [Jonathan Plug](https://www.worldcubeassociation.org/persons/2022PLUG01) | **0** | 0 | 1 | 1 |
-| 234 | [Joshua Gao](https://www.worldcubeassociation.org/persons/2023GAOJ02) | **0** | 0 | 1 | 1 |
-| 235 | [Julian David](https://www.worldcubeassociation.org/persons/2010DAVI06) | **0** | 0 | 1 | 1 |
-| 236 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | **0** | 0 | 1 | 1 |
-| 237 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | **0** | 0 | 1 | 1 |
-| 238 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | **0** | 0 | 1 | 1 |
-| 239 | [Kenneth Brandon](https://www.worldcubeassociation.org/persons/2003BRAN01) | **0** | 0 | 1 | 1 |
-| 240 | [Kou Oobatake (大畠功)](https://www.worldcubeassociation.org/persons/2007OOBA01) | **0** | 0 | 1 | 1 |
-| 241 | [Liam Chen](https://www.worldcubeassociation.org/persons/2014CHEN37) | **0** | 0 | 1 | 1 |
-| 242 | [Lucas Etter](https://www.worldcubeassociation.org/persons/2011ETTE01) | **0** | 0 | 1 | 1 |
-| 243 | [Lucas Wesche](https://www.worldcubeassociation.org/persons/2012WESC01) | **0** | 0 | 1 | 1 |
-| 244 | [Maarten Smit](https://www.worldcubeassociation.org/persons/2008SMIT04) | **0** | 0 | 1 | 1 |
+| 226 | [Emeline Smit](https://www.worldcubeassociation.org/persons/2008SMIT04) | **0** | 0 | 1 | 1 |
+| 227 | [Felipe Rueda Hernández](https://www.worldcubeassociation.org/persons/2012HERN03) | **0** | 0 | 1 | 1 |
+| 228 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | **0** | 0 | 1 | 1 |
+| 229 | [Heewon Seo](https://www.worldcubeassociation.org/persons/2017SEOH01) | **0** | 0 | 1 | 1 |
+| 230 | [Henry Lichner](https://www.worldcubeassociation.org/persons/2018LICH05) | **0** | 0 | 1 | 1 |
+| 231 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | **0** | 0 | 1 | 1 |
+| 232 | [Jasper Murray](https://www.worldcubeassociation.org/persons/2018MURR03) | **0** | 0 | 1 | 1 |
+| 233 | [Jon Morris](https://www.worldcubeassociation.org/persons/2003MORR02) | **0** | 0 | 1 | 1 |
+| 234 | [Jonathan Plug](https://www.worldcubeassociation.org/persons/2022PLUG01) | **0** | 0 | 1 | 1 |
+| 235 | [Joshua Gao](https://www.worldcubeassociation.org/persons/2023GAOJ02) | **0** | 0 | 1 | 1 |
+| 236 | [Julian David](https://www.worldcubeassociation.org/persons/2010DAVI06) | **0** | 0 | 1 | 1 |
+| 237 | [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09) | **0** | 0 | 1 | 1 |
+| 238 | [Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01) | **0** | 0 | 1 | 1 |
+| 239 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | **0** | 0 | 1 | 1 |
+| 240 | [Kenneth Brandon](https://www.worldcubeassociation.org/persons/2003BRAN01) | **0** | 0 | 1 | 1 |
+| 241 | [Kou Oobatake (大畠功)](https://www.worldcubeassociation.org/persons/2007OOBA01) | **0** | 0 | 1 | 1 |
+| 242 | [Liam Chen](https://www.worldcubeassociation.org/persons/2014CHEN37) | **0** | 0 | 1 | 1 |
+| 243 | [Lucas Etter](https://www.worldcubeassociation.org/persons/2011ETTE01) | **0** | 0 | 1 | 1 |
+| 244 | [Lucas Wesche](https://www.worldcubeassociation.org/persons/2012WESC01) | **0** | 0 | 1 | 1 |
 | 245 | [Maxence Baudry](https://www.worldcubeassociation.org/persons/2014BAUD02) | **0** | 0 | 1 | 1 |
 | 246 | [Michał Robaczyk](https://www.worldcubeassociation.org/persons/2006ROBA01) | **0** | 0 | 1 | 1 |
 | 247 | [Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04) | **0** | 0 | 1 | 1 |

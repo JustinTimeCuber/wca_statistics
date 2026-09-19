@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 16 September 2026*
+*Updated on 19 September 2026*
 
 | Rank | WRs | Person |
 | :--- | ---: | :--- |
@@ -674,7 +674,7 @@
 | 667 | 27 | [Tristan Wright](https://www.worldcubeassociation.org/persons/2006WRIG01) |
 | 668 | 27 | [John Tamanas](https://www.worldcubeassociation.org/persons/2007TAMA02) |
 | 669 | 27 | [Takuya Furukawa (古河拓也)](https://www.worldcubeassociation.org/persons/2008FURU01) |
-| 670 | 27 | [Maarten Smit](https://www.worldcubeassociation.org/persons/2008SMIT04) |
+| 670 | 27 | [Emeline Smit](https://www.worldcubeassociation.org/persons/2008SMIT04) |
 | 671 | 27 | [Han Wu (吳翰)](https://www.worldcubeassociation.org/persons/2008WUHA01) |
 | 672 | 27 | [Yunsu Nam (남윤수)](https://www.worldcubeassociation.org/persons/2008YUNS02) |
 | 673 | 27 | [Kamil Zieliński](https://www.worldcubeassociation.org/persons/2008ZIEL01) |
