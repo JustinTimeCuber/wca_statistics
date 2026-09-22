@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on 19 September 2026*
+*Updated on 22 September 2026*
 
 
 ### Rubik's Cube
@@ -716,28 +716,28 @@
 | 76 | [Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01) | **10:42.00** | DNF | [Draughons 2006](https://www.worldcubeassociation.org/competitions/Draughons2006/results/podiums#e333bf) | 3 |
 | 77 | [Sergey Pileev](https://www.worldcubeassociation.org/persons/2014PILE02) | **10:41.00** | DNF | [SPB Autumn Open 2015](https://www.worldcubeassociation.org/competitions/SPBAutumnOpen2015/results/podiums#e333bf) | 3 |
 | 78 | [Sergey Pileev](https://www.worldcubeassociation.org/persons/2014PILE02) | **10:41.00** | DNF | [SPB Autumn Open 2015](https://www.worldcubeassociation.org/competitions/SPBAutumnOpen2015/results/podiums#e333bf) | 3 |
-| 79 | [Jeremiah Rummerfield](https://www.worldcubeassociation.org/persons/2021RUMM01) | **10:30.00** | DNF | [Spokane Spring 2024](https://www.worldcubeassociation.org/competitions/SpokaneSpring2024/results/podiums#e333bf) | 2 |
-| 80 | [Jeremiah Rummerfield](https://www.worldcubeassociation.org/persons/2021RUMM01) | **10:30.00** | DNF | [Spokane Spring 2024](https://www.worldcubeassociation.org/competitions/SpokaneSpring2024/results/podiums#e333bf) | 2 |
-| 81 | [Gustavo Penaforte Brito](https://www.worldcubeassociation.org/persons/2013BRIT01) | **10:28.00** | DNF | [Mossoró Open 2013](https://www.worldcubeassociation.org/competitions/MossoroOpen2013/results/podiums#e333bf) | 2 |
-| 82 | [Gustavo Penaforte Brito](https://www.worldcubeassociation.org/persons/2013BRIT01) | **10:28.00** | DNF | [Mossoró Open 2013](https://www.worldcubeassociation.org/competitions/MossoroOpen2013/results/podiums#e333bf) | 2 |
-| 83 | [David Arturo Díaz](https://www.worldcubeassociation.org/persons/2016DIAZ14) | **10:27.00** | DNF | [Paraguay Nationals 2018](https://www.worldcubeassociation.org/competitions/ParaguayNationals2018/results/podiums#e333bf) | 2 |
-| 84 | [David Arturo Díaz](https://www.worldcubeassociation.org/persons/2016DIAZ14) | **10:27.00** | DNF | [Paraguay Nationals 2018](https://www.worldcubeassociation.org/competitions/ParaguayNationals2018/results/podiums#e333bf) | 2 |
-| 85 | [Joël van Noort](https://www.worldcubeassociation.org/persons/2004NOOR01) | **10:26.00** |  | [German Open 2005](https://www.worldcubeassociation.org/competitions/GermanOpen2005/results/podiums#e333bf) | 3 |
-| 86 | [Joël van Noort](https://www.worldcubeassociation.org/persons/2004NOOR01) | **10:26.00** |  | [German Open 2005](https://www.worldcubeassociation.org/competitions/GermanOpen2005/results/podiums#e333bf) | 3 |
-| 87 | [Son Chang-Hwan](https://www.worldcubeassociation.org/persons/2006CHAN08) | **10:24.00** |  | [KCRC Busan 2007](https://www.worldcubeassociation.org/competitions/KCRCBusan2007/results/podiums#e333bf) | 3 |
-| 88 | [Son Chang-Hwan](https://www.worldcubeassociation.org/persons/2006CHAN08) | **10:24.00** |  | [KCRC Busan 2007](https://www.worldcubeassociation.org/competitions/KCRCBusan2007/results/podiums#e333bf) | 3 |
-| 89 | [Eric Kim](https://www.worldcubeassociation.org/persons/2011KIME01) | **10:23.00** | DNF | [GCC Fall 2014](https://www.worldcubeassociation.org/competitions/GCCFall2014/results/podiums#e333bf) | 2 |
-| 90 | [Eric Kim](https://www.worldcubeassociation.org/persons/2011KIME01) | **10:23.00** | DNF | [GCC Fall 2014](https://www.worldcubeassociation.org/competitions/GCCFall2014/results/podiums#e333bf) | 2 |
-| 91 | [Aldomario Ramos Netto](https://www.worldcubeassociation.org/persons/2019NETT01) | **10:17.00** | DNF | [Cubo em Etapas Vila Velha 2024](https://www.worldcubeassociation.org/competitions/CuboemEtapasVilaVelha2024/results/podiums#e333bf) | 2 |
-| 92 | [Aldomario Ramos Netto](https://www.worldcubeassociation.org/persons/2019NETT01) | **10:17.00** | DNF | [Cubo em Etapas Vila Velha 2024](https://www.worldcubeassociation.org/competitions/CuboemEtapasVilaVelha2024/results/podiums#e333bf) | 2 |
-| 93 | [Tae-Yeong Baek (백태영)](https://www.worldcubeassociation.org/persons/2006TAEY01) | **10:11.00** | DNF | [Seoul 2008](https://www.worldcubeassociation.org/competitions/Seoul2008/results/podiums#e333bf) | 3 |
-| 94 | [Tae-Yeong Baek (백태영)](https://www.worldcubeassociation.org/persons/2006TAEY01) | **10:11.00** | DNF | [Seoul 2008](https://www.worldcubeassociation.org/competitions/Seoul2008/results/podiums#e333bf) | 3 |
-| 95 | [Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01) | **10:08.00** |  | [German Open 2005](https://www.worldcubeassociation.org/competitions/GermanOpen2005/results/podiums#e333bf) | 2 |
-| 96 | [Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01) | **10:08.00** |  | [German Open 2005](https://www.worldcubeassociation.org/competitions/GermanOpen2005/results/podiums#e333bf) | 2 |
-| 97 | [Carlos Angosto Hernández](https://www.worldcubeassociation.org/persons/2005ANGO01) | **10:04.00** |  | [Spain 2005](https://www.worldcubeassociation.org/competitions/Spain2005/results/podiums#e333bf) | 1 |
-| 98 | [Carlos Angosto Hernández](https://www.worldcubeassociation.org/persons/2005ANGO01) | **10:04.00** |  | [Spain 2005](https://www.worldcubeassociation.org/competitions/Spain2005/results/podiums#e333bf) | 1 |
-| 99 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) | **10:03.00** |  | [Dutch Open 2004](https://www.worldcubeassociation.org/competitions/DutchOpen2004/results/podiums#e333bf) | 2 |
-| 100 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) | **10:03.00** |  | [Dutch Open 2004](https://www.worldcubeassociation.org/competitions/DutchOpen2004/results/podiums#e333bf) | 2 |
+| 79 | [Nishad Khade](https://www.worldcubeassociation.org/persons/2017KHAD01) | **10:38.00** | DNF | [Bengal Cube Open 2026](https://www.worldcubeassociation.org/competitions/BengalCubeOpen2026/results/podiums#e333bf) | 3 |
+| 80 | [Nishad Khade](https://www.worldcubeassociation.org/persons/2017KHAD01) | **10:38.00** | DNF | [Bengal Cube Open 2026](https://www.worldcubeassociation.org/competitions/BengalCubeOpen2026/results/podiums#e333bf) | 3 |
+| 81 | [Jeremiah Rummerfield](https://www.worldcubeassociation.org/persons/2021RUMM01) | **10:30.00** | DNF | [Spokane Spring 2024](https://www.worldcubeassociation.org/competitions/SpokaneSpring2024/results/podiums#e333bf) | 2 |
+| 82 | [Jeremiah Rummerfield](https://www.worldcubeassociation.org/persons/2021RUMM01) | **10:30.00** | DNF | [Spokane Spring 2024](https://www.worldcubeassociation.org/competitions/SpokaneSpring2024/results/podiums#e333bf) | 2 |
+| 83 | [Gustavo Penaforte Brito](https://www.worldcubeassociation.org/persons/2013BRIT01) | **10:28.00** | DNF | [Mossoró Open 2013](https://www.worldcubeassociation.org/competitions/MossoroOpen2013/results/podiums#e333bf) | 2 |
+| 84 | [Gustavo Penaforte Brito](https://www.worldcubeassociation.org/persons/2013BRIT01) | **10:28.00** | DNF | [Mossoró Open 2013](https://www.worldcubeassociation.org/competitions/MossoroOpen2013/results/podiums#e333bf) | 2 |
+| 85 | [David Arturo Díaz](https://www.worldcubeassociation.org/persons/2016DIAZ14) | **10:27.00** | DNF | [Paraguay Nationals 2018](https://www.worldcubeassociation.org/competitions/ParaguayNationals2018/results/podiums#e333bf) | 2 |
+| 86 | [David Arturo Díaz](https://www.worldcubeassociation.org/persons/2016DIAZ14) | **10:27.00** | DNF | [Paraguay Nationals 2018](https://www.worldcubeassociation.org/competitions/ParaguayNationals2018/results/podiums#e333bf) | 2 |
+| 87 | [Joël van Noort](https://www.worldcubeassociation.org/persons/2004NOOR01) | **10:26.00** |  | [German Open 2005](https://www.worldcubeassociation.org/competitions/GermanOpen2005/results/podiums#e333bf) | 3 |
+| 88 | [Joël van Noort](https://www.worldcubeassociation.org/persons/2004NOOR01) | **10:26.00** |  | [German Open 2005](https://www.worldcubeassociation.org/competitions/GermanOpen2005/results/podiums#e333bf) | 3 |
+| 89 | [Son Chang-Hwan](https://www.worldcubeassociation.org/persons/2006CHAN08) | **10:24.00** |  | [KCRC Busan 2007](https://www.worldcubeassociation.org/competitions/KCRCBusan2007/results/podiums#e333bf) | 3 |
+| 90 | [Son Chang-Hwan](https://www.worldcubeassociation.org/persons/2006CHAN08) | **10:24.00** |  | [KCRC Busan 2007](https://www.worldcubeassociation.org/competitions/KCRCBusan2007/results/podiums#e333bf) | 3 |
+| 91 | [Eric Kim](https://www.worldcubeassociation.org/persons/2011KIME01) | **10:23.00** | DNF | [GCC Fall 2014](https://www.worldcubeassociation.org/competitions/GCCFall2014/results/podiums#e333bf) | 2 |
+| 92 | [Eric Kim](https://www.worldcubeassociation.org/persons/2011KIME01) | **10:23.00** | DNF | [GCC Fall 2014](https://www.worldcubeassociation.org/competitions/GCCFall2014/results/podiums#e333bf) | 2 |
+| 93 | [Aldomario Ramos Netto](https://www.worldcubeassociation.org/persons/2019NETT01) | **10:17.00** | DNF | [Cubo em Etapas Vila Velha 2024](https://www.worldcubeassociation.org/competitions/CuboemEtapasVilaVelha2024/results/podiums#e333bf) | 2 |
+| 94 | [Aldomario Ramos Netto](https://www.worldcubeassociation.org/persons/2019NETT01) | **10:17.00** | DNF | [Cubo em Etapas Vila Velha 2024](https://www.worldcubeassociation.org/competitions/CuboemEtapasVilaVelha2024/results/podiums#e333bf) | 2 |
+| 95 | [Tae-Yeong Baek (백태영)](https://www.worldcubeassociation.org/persons/2006TAEY01) | **10:11.00** | DNF | [Seoul 2008](https://www.worldcubeassociation.org/competitions/Seoul2008/results/podiums#e333bf) | 3 |
+| 96 | [Tae-Yeong Baek (백태영)](https://www.worldcubeassociation.org/persons/2006TAEY01) | **10:11.00** | DNF | [Seoul 2008](https://www.worldcubeassociation.org/competitions/Seoul2008/results/podiums#e333bf) | 3 |
+| 97 | [Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01) | **10:08.00** |  | [German Open 2005](https://www.worldcubeassociation.org/competitions/GermanOpen2005/results/podiums#e333bf) | 2 |
+| 98 | [Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01) | **10:08.00** |  | [German Open 2005](https://www.worldcubeassociation.org/competitions/GermanOpen2005/results/podiums#e333bf) | 2 |
+| 99 | [Carlos Angosto Hernández](https://www.worldcubeassociation.org/persons/2005ANGO01) | **10:04.00** |  | [Spain 2005](https://www.worldcubeassociation.org/competitions/Spain2005/results/podiums#e333bf) | 1 |
+| 100 | [Carlos Angosto Hernández](https://www.worldcubeassociation.org/persons/2005ANGO01) | **10:04.00** |  | [Spain 2005](https://www.worldcubeassociation.org/competitions/Spain2005/results/podiums#e333bf) | 1 |
 
 ### 3x3x3 Fewest Moves
 
@@ -1069,7 +1069,7 @@
 | 9 | [Shane Rowland](https://www.worldcubeassociation.org/persons/2010ROWL01) | 24.06 | **40.88** | [Drexel Winter 2010](https://www.worldcubeassociation.org/competitions/DrexelWinter2010/results/podiums#epyram) | 3 |
 | 10 | [Mayumi Hori (堀真由美)](https://www.worldcubeassociation.org/persons/2006HORI02) | 32.33 | **38.93** | [OGU Open 2006](https://www.worldcubeassociation.org/competitions/OGU2006/results/podiums#epyram) | 3 |
 | 11 | [Helmi Gaaloul](https://www.worldcubeassociation.org/persons/2014GAAL01) | 30.24 | **37.30** | [Tunisia Open 2014](https://www.worldcubeassociation.org/competitions/TunisiaOpen2014/results/podiums#epyram) | 3 |
-| 12 | [Kristian Jarl Josefsen da Silva](https://www.worldcubeassociation.org/persons/2025SILV79) | 29.96 | **34.97** | [Lofoten Open 2026](https://www.worldcubeassociation.org/competitions/LofotenOpen2026/results/podiums#epyram) | 2 |
+| 12 | [Kristian Josefsen da Silva](https://www.worldcubeassociation.org/persons/2025SILV79) | 29.96 | **34.97** | [Lofoten Open 2026](https://www.worldcubeassociation.org/competitions/LofotenOpen2026/results/podiums#epyram) | 2 |
 | 13 | [Caio José Lafetá](https://www.worldcubeassociation.org/persons/2007LAFE01) | 10.86 | **33.06** | [Minas Open 2008](https://www.worldcubeassociation.org/competitions/MinasOpen2008/results/podiums#epyram) | 3 |
 | 14 | [Afef Thabet](https://www.worldcubeassociation.org/persons/2014THAB01) | 27.32 | **32.34** | [Tunisia Open 2014](https://www.worldcubeassociation.org/competitions/TunisiaOpen2014/results/podiums#epyram) | 2 |
 | 15 | [Kenneth Gustavsson](https://www.worldcubeassociation.org/persons/2005GUST01) | 11.31 | **29.71** | [Finnish Open 2007](https://www.worldcubeassociation.org/competitions/FinnishOpen2007/results/podiums#epyram) | 2 |
@@ -1168,7 +1168,7 @@
 | 3 | [Tanner Frisby](https://www.worldcubeassociation.org/persons/2009FRIS01) | 1:03.66 | **1:31.75** | [Dallas Open 2009](https://www.worldcubeassociation.org/competitions/DallasOpen2009/results/podiums#eclock) | 3 |
 | 4 | [Ruric Victor Costa Da Silva](https://www.worldcubeassociation.org/persons/2017SILV11) | 1:05.89 | **1:30.71** | [Tambaqui Plaza Open 2018](https://www.worldcubeassociation.org/competitions/Tambaqui2018/results/podiums#eclock) | 3 |
 | 5 | [Cristian Alberto Rivas Rivas](https://www.worldcubeassociation.org/persons/2013RIVA01) | 53.97 | **1:26.40** | [ULA Rubiks 2014](https://www.worldcubeassociation.org/competitions/ULARubiks2014/results/podiums#eclock) | 3 |
-| 6 | [Kristian Jarl Josefsen da Silva](https://www.worldcubeassociation.org/persons/2025SILV79) | 1:00.26 | **1:18.94** | [Lofoten Open 2026](https://www.worldcubeassociation.org/competitions/LofotenOpen2026/results/podiums#eclock) | 2 |
+| 6 | [Kristian Josefsen da Silva](https://www.worldcubeassociation.org/persons/2025SILV79) | 1:00.26 | **1:18.94** | [Lofoten Open 2026](https://www.worldcubeassociation.org/competitions/LofotenOpen2026/results/podiums#eclock) | 2 |
 | 7 | [Ian Homer](https://www.worldcubeassociation.org/persons/2012HOME01) | 52.80 | **1:18.72** | [Carnegie Mellon Spring 2012](https://www.worldcubeassociation.org/competitions/CMUSpring2012/results/podiums#eclock) | 3 |
 | 8 | [Divisha Parmar](https://www.worldcubeassociation.org/persons/2023PARM05) | 47.87 | **1:18.42** | [Big & Blind Kenya 2024](https://www.worldcubeassociation.org/competitions/BigBlindKenya2024/results/podiums#eclock) | 3 |
 | 9 | [Semyon Shtykov](https://www.worldcubeassociation.org/persons/2016SHTY01) | 53.36 | **1:17.96** | [Ural Autumn 2016](https://www.worldcubeassociation.org/competitions/UralAutumn2016/results/podiums#eclock) | 3 |
