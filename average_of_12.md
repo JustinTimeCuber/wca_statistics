@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 1000 single are taken into account.*
-*Updated on 22 September 2026*
+*Updated on 23 September 2026*
 
 
 ### Rubik's Cube
@@ -1321,8 +1321,8 @@
 | 51 | 2.32 | [Ziyu Ye (叶梓渝)](https://www.worldcubeassociation.org/persons/2021YEZI01) | 2.75, 1.68, 1.23, 3.45, 3.18, 1.89, 1.37, 3.20, 2.44, 2.58, 2.42, 1.68 |
 | 52 | 2.33 | [Hennie Færden](https://www.worldcubeassociation.org/persons/2019FARD01) | 2.69, 2.56, 2.95, 2.31, 3.77, 1.99, 2.01, 2.20, 1.99, 2.58, 1.79, 2.02 |
 | 53 | 2.35 | [Emilio Alberto Rodríguez Jiménez](https://www.worldcubeassociation.org/persons/2018JIME14) | 1.53, 1.96, 2.19, 2.97, 2.42, 3.45, 2.61, 3.19, 1.49, 2.20, 2.89, 1.53 |
-| 54 | 2.37 | [Coral Yuxin Cai (蔡羽欣)](https://www.worldcubeassociation.org/persons/2016CAIY03) | 2.86, 2.81, 1.60, 3.76, 2.47, 2.80, 1.35, 2.64, 3.12, 2.35, 1.39, 1.64 |
-| 55 | 2.37 | [Serhii Fedorniak (Сергій Федорняк)](https://www.worldcubeassociation.org/persons/2018FEDO04) | 1.87, 2.41, 2.36, 2.52, 1.89, 2.26, 2.08, 2.75, 4.26, 2.26, 2.87, 2.32 |
+| 54 | 2.36 | [Serhii Fedorniak (Сергій Федорняк)](https://www.worldcubeassociation.org/persons/2018FEDO04) | 1.76, 1.28, 2.42, 2.15, 3.36, 2.06, 2.68, 3.40, 1.74, 2.61, 2.91, 1.86 |
+| 55 | 2.37 | [Coral Yuxin Cai (蔡羽欣)](https://www.worldcubeassociation.org/persons/2016CAIY03) | 2.86, 2.81, 1.60, 3.76, 2.47, 2.80, 1.35, 2.64, 3.12, 2.35, 1.39, 1.64 |
 | 56 | 2.37 | [Michael Fonseca](https://www.worldcubeassociation.org/persons/2019FONS06) | 2.60, 2.25, 1.40, 3.14, 1.82, 2.84, 3.54, 2.23, 2.28, 2.02, 2.92, 1.62 |
 | 57 | 2.38 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) | 2.12, 2.14, 2.16, 2.55, 2.49, 2.10, 2.51, 2.07, 3.50, 2.74, 1.87, 2.87 |
 | 58 | 2.38 | [Rowan Stough](https://www.worldcubeassociation.org/persons/2022STOU01) | 2.05, 2.13, 4.50, 2.73, 1.60, 3.67, 2.15, 3.14, 1.89, 2.29, 1.83, 1.94 |
