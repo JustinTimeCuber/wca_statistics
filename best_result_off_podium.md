@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 23 September 2026*
+*Updated on 25 September 2026*
 
 
 ### Rubik's Cube
@@ -257,7 +257,7 @@
 | 37 | [Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02) | 20.96 | **24.95** | [NAC 2026](https://www.worldcubeassociation.org/competitions/NAC2026/results/all#e444_f) | 6 |
 | 38 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) | 22.41 | **25.03** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#e444_f) | 11 |
 | 39 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 23.00 | **25.03** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e444_f) | 9 |
-| 40 | [Burno Li Chak Kwan (李澤堃)](https://www.worldcubeassociation.org/persons/2017KWAN05) | 24.61 | **25.06** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#e444_f) | 12 |
+| 40 | [Burno Chak Kwan Li (李澤堃)](https://www.worldcubeassociation.org/persons/2017KWAN05) | 24.61 | **25.06** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#e444_f) | 12 |
 | 41 | [Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68) | 21.17 | **25.08** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e444_f) | 5 |
 | 42 | [Curtis Chai](https://www.worldcubeassociation.org/persons/2022CHAI02) | 21.24 | **25.08** | [NAC 2026](https://www.worldcubeassociation.org/competitions/NAC2026/results/all#e444_f) | 7 |
 | 43 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 22.25 | **25.08** | [Mid-Atlantic Championship 2026](https://www.worldcubeassociation.org/competitions/MidAtlanticChampionship2026/results/all#e444_f) | 4 |
@@ -352,7 +352,7 @@
 | 27 | [Inigo Miguel B. Palisoc](https://www.worldcubeassociation.org/persons/2017PALI04) | 37.58 | **44.74** | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/all#e555_f) | 8 |
 | 28 | [Richard Delacoste](https://www.worldcubeassociation.org/persons/2015DELA05) | 41.91 | **44.74** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#e555_f) | 4 |
 | 29 | [Benjamin Wirahpati](https://www.worldcubeassociation.org/persons/2020WIRA01) | 41.50 | **44.80** | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/all#e555_f) | 8 |
-| 30 | [Burno Li Chak Kwan (李澤堃)](https://www.worldcubeassociation.org/persons/2017KWAN05) | 41.70 | **44.85** | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/all#e555_f) | 9 |
+| 30 | [Burno Chak Kwan Li (李澤堃)](https://www.worldcubeassociation.org/persons/2017KWAN05) | 41.70 | **44.85** | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/all#e555_f) | 9 |
 | 31 | [Zijian Cai (蔡子健)](https://www.worldcubeassociation.org/persons/2017CAIZ03) | 42.27 | **44.89** | [Guangzhou Big Cubes 2026](https://www.worldcubeassociation.org/competitions/GuangzhouBigCubes2026/results/all#e555_f) | 6 |
 | 32 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 40.20 | **44.94** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e555_f) | 7 |
 | 33 | [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01) | 41.36 | **44.94** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#e555_f) | 12 |
@@ -489,7 +489,7 @@
 | 59 | [Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01) | 1:18.73 | **1:25.70** | [NAC 2026](https://www.worldcubeassociation.org/competitions/NAC2026/results/all#e666_f) | 10 |
 | 60 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 1:21.23 | **1:25.80** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e666_f) | 9 |
 | 61 | [Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01) | 1:22.50 | **1:25.84** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#e666_f) | 16 |
-| 62 | [Burno Li Chak Kwan (李澤堃)](https://www.worldcubeassociation.org/persons/2017KWAN05) | 1:19.97 | **1:25.85** | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/all#e666_f) | 10 |
+| 62 | [Burno Chak Kwan Li (李澤堃)](https://www.worldcubeassociation.org/persons/2017KWAN05) | 1:19.97 | **1:25.85** | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/all#e666_f) | 10 |
 | 63 | [Benjamin Wei](https://www.worldcubeassociation.org/persons/2015WEIB03) | 1:22.25 | **1:25.92** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#e666_f) | 4 |
 | 64 | [Junliang Huang (黄骏亮)](https://www.worldcubeassociation.org/persons/2017HUAN77) | 1:19.74 | **1:26.00** | [Guangzhou Big Cubes 2026](https://www.worldcubeassociation.org/competitions/GuangzhouBigCubes2026/results/all#e666_f) | 5 |
 | 65 | [Brendyn Dunagan](https://www.worldcubeassociation.org/persons/2021DUNA01) | 1:24.16 | **1:26.00** | [NAC 2026](https://www.worldcubeassociation.org/competitions/NAC2026/results/all#e666_f) | 11 |
@@ -611,7 +611,7 @@
 | 76 | [Wei-Ming Zeng (曾唯銘)](https://www.worldcubeassociation.org/persons/2019ZENG10) | 2:04.77 | **2:09.26** | [Big and Blind March SG 2025](https://www.worldcubeassociation.org/competitions/BigandBlindMarchSingapore2025/results/all#e777_f) | 5 |
 | 77 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 1:59.89 | **2:09.30** | [NAC 2026](https://www.worldcubeassociation.org/competitions/NAC2026/results/all#e777_f) | 11 |
 | 78 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | 2:04.23 | **2:09.52** | [Singapore Special 2024](https://www.worldcubeassociation.org/competitions/SingaporeSpecial2024/results/all#e777_c) | 4 |
-| 79 | [Burno Li Chak Kwan (李澤堃)](https://www.worldcubeassociation.org/persons/2017KWAN05) | 1:59.39 | **2:09.57** | [Pickering NxNxN Winter 2026](https://www.worldcubeassociation.org/competitions/PickeringNxNxNWinter2026/results/all#e777_c) | 5 |
+| 79 | [Burno Chak Kwan Li (李澤堃)](https://www.worldcubeassociation.org/persons/2017KWAN05) | 1:59.39 | **2:09.57** | [Pickering NxNxN Winter 2026](https://www.worldcubeassociation.org/competitions/PickeringNxNxNWinter2026/results/all#e777_c) | 5 |
 | 80 | [Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01) | 1:58.14 | **2:09.69** | [Paradise Park NxNxN 2024](https://www.worldcubeassociation.org/competitions/ParadiseParkNxNxN2024/results/all#e777_f) | 4 |
 | 81 | [Jeffrey Li](https://www.worldcubeassociation.org/persons/2016LIJE01) | 2:06.78 | **2:09.80** | [NAC 2026](https://www.worldcubeassociation.org/competitions/NAC2026/results/all#e777_f) | 12 |
 | 82 | [Cian-Jyun Yang (楊謙君)](https://www.worldcubeassociation.org/persons/2019YANG94) | 1:59.60 | **2:10.13** | [MYHM Singapore Championship 2024](https://www.worldcubeassociation.org/competitions/MYHMSingaporeChampionship2024/results/all#e777_f) | 4 |
@@ -1005,7 +1005,7 @@
 | 50 | [Dylan Miller](https://www.worldcubeassociation.org/persons/2015MILL01) | 32.64 | **34.85** | [NAC 2026](https://www.worldcubeassociation.org/competitions/NAC2026/results/all#eminx_f) | 7 |
 | 51 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 33.19 | **34.86** | [Warm Up Niepołomice 2026](https://www.worldcubeassociation.org/competitions/WarmUpNiepolomice2026/results/all#eminx_f) | 4 |
 | 52 | [Jared Stinson](https://www.worldcubeassociation.org/persons/2014STIN01) | 33.04 | **34.89** | [NAC 2026](https://www.worldcubeassociation.org/competitions/NAC2026/results/all#eminx_f) | 8 |
-| 53 | [Burno Li Chak Kwan (李澤堃)](https://www.worldcubeassociation.org/persons/2017KWAN05) | 31.94 | **34.90** | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/all#eminx_f) | 13 |
+| 53 | [Burno Chak Kwan Li (李澤堃)](https://www.worldcubeassociation.org/persons/2017KWAN05) | 31.94 | **34.90** | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/all#eminx_f) | 13 |
 | 54 | [Wiktor Gugulski](https://www.worldcubeassociation.org/persons/2023GUGU01) | 33.03 | **34.99** | [Dragon Cubing XI 2025](https://www.worldcubeassociation.org/competitions/DragonCubingXI2025/results/all#eminx_f) | 4 |
 | 55 | [Benjamin Wirahpati](https://www.worldcubeassociation.org/persons/2020WIRA01) | 29.75 | **35.02** | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/all#eminx_f) | 14 |
 | 56 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 32.45 | **35.03** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#eminx_f) | 5 |

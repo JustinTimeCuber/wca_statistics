@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on 23 September 2026*
+*Updated on 25 September 2026*
 
 
 ### 3x3x3 Blindfolded
@@ -647,8 +647,8 @@
 | 23 | 10 | [Joel Lundström](https://www.worldcubeassociation.org/persons/2017LUND06) |
 | 24 | 10 | [Darren Siew Ee Yaang (蕭奕暘)](https://www.worldcubeassociation.org/persons/2009SIEW01) |
 | 25 | 9 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
-| 26 | 9 | [Idan Bolesto](https://www.worldcubeassociation.org/persons/2022BOLE01) |
-| 27 | 9 | [Diego Serrano Martínez](https://www.worldcubeassociation.org/persons/2016MART91) |
+| 26 | 9 | [Diego Serrano Martínez](https://www.worldcubeassociation.org/persons/2016MART91) |
+| 27 | 9 | [Idan Bolesto](https://www.worldcubeassociation.org/persons/2022BOLE01) |
 | 28 | 9 | [Dylan Vaskevicius](https://www.worldcubeassociation.org/persons/2017VASK01) |
 | 29 | 9 | [Patrick Kleverlaan](https://www.worldcubeassociation.org/persons/2019KLEV01) |
 | 30 | 9 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) |
