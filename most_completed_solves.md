@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 25 September 2026*
+*Updated on 26 September 2026*
 
 
 ### Competition
@@ -242,8 +242,8 @@
 | 28 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **13485** | 14534 |
 | 29 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **13315** | 13793 |
 | 30 | [Chris Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) | **13058** | 14395 |
-| 31 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **12983** | 13657 |
-| 32 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | **12875** | 13706 |
+| 31 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **13028** | 13702 |
+| 32 | [Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03) | **12897** | 13728 |
 | 33 | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) | **12837** | 13266 |
 | 34 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) | **12814** | 13226 |
 | 35 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | **12790** | 13440 |
@@ -277,7 +277,7 @@
 | 63 | [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01) | **10745** | 11160 |
 | 64 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) | **10642** | 11134 |
 | 65 | [Antto Pitkänen](https://www.worldcubeassociation.org/persons/2017PITK01) | **10586** | 11135 |
-| 66 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) | **10556** | 11150 |
+| 66 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) | **10579** | 11175 |
 | 67 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) | **10520** | 11368 |
 | 68 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | **10431** | 10990 |
 | 69 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) | **10360** | 10714 |
@@ -417,20 +417,20 @@
 
 | Rank |  | Solves | Attempts |
 | :--- | :--- | ---: | ---: |
-| 1 | United States | **6808761** | 7128589 |
+| 1 | United States | **6809396** | 7129239 |
 | 2 | China | **1620885** | 1698084 |
 | 3 | Poland | **1505221** | 1586075 |
 | 4 | Australia | **1199473** | 1264870 |
 | 5 | United Kingdom | **1171055** | 1230255 |
 | 6 | Spain | **1128035** | 1182220 |
-| 7 | India | **1118189** | 1175836 |
+| 7 | India | **1118668** | 1176325 |
 | 8 | Germany | **899272** | 940870 |
 | 9 | Canada | **831668** | 867315 |
 | 10 | France | **806124** | 852645 |
-| 11 | Brazil | **707264** | 740554 |
+| 11 | Brazil | **707800** | 741103 |
 | 12 | Colombia | **670527** | 703005 |
 | 13 | Sweden | **608944** | 641602 |
-| 14 | Philippines | **538229** | 559088 |
+| 14 | Philippines | **540204** | 561141 |
 | 15 | Italy | **521274** | 547409 |
 | 16 | Mexico | **492799** | 513601 |
 | 17 | Netherlands | **482852** | 503941 |
@@ -461,7 +461,7 @@
 | 42 | South Africa | **153899** | 160456 |
 | 43 | Israel | **153248** | 162618 |
 | 44 | Vietnam | **136979** | 142303 |
-| 45 | Slovakia | **130570** | 137200 |
+| 45 | Slovakia | **130564** | 137195 |
 | 46 | Kazakhstan | **114944** | 121222 |
 | 47 | Mongolia | **107335** | 112950 |
 | 48 | Guatemala | **105484** | 110047 |
@@ -489,8 +489,8 @@
 | 70 | Nepal | **30381** | 31578 |
 | 71 | United Arab Emirates | **30278** | 31591 |
 | 72 | Sri Lanka | **26697** | 28049 |
-| 73 | Paraguay | **25942** | 27158 |
-| 74 | Georgia | **25677** | 26645 |
+| 73 | Georgia | **26000** | 26975 |
+| 74 | Paraguay | **25942** | 27158 |
 | 75 | Panama | **23451** | 24549 |
 | 76 | Azerbaijan | **21640** | 22659 |
 | 77 | Jordan | **21293** | 22580 |
@@ -554,10 +554,10 @@
 
 | Rank |  | Solves | Attempts |
 | :--- | :--- | ---: | ---: |
-| 1 | Europe | **11686453** | 12268704 |
-| 2 | North America | **8387946** | 8775115 |
-| 3 | Asia | **5971916** | 6251754 |
-| 4 | South America | **2513838** | 2630428 |
+| 1 | Europe | **11686770** | 12269029 |
+| 2 | North America | **8388581** | 8775765 |
+| 3 | Asia | **5974370** | 6254296 |
+| 4 | South America | **2514374** | 2630977 |
 | 5 | Oceania | **1511619** | 1592257 |
 | 6 | Africa | **232131** | 242445 |
 | 7 | Multiple Continents | **7213** | 9316 |
@@ -569,7 +569,7 @@
 | 1 | 2024 | **4728904** | 4946141 |
 | 2 | 2025 | **4533060** | 4737165 |
 | 3 | 2023 | **3999170** | 4182829 |
-| 4 | 2026 | **3125542** | 3286146 |
+| 4 | 2026 | **3129484** | 3290212 |
 | 5 | 2019 | **2537001** | 2656542 |
 | 6 | 2018 | **2218482** | 2324544 |
 | 7 | 2022 | **2118011** | 2217441 |
@@ -596,19 +596,19 @@
 
 | Rank |  | Solves | Attempts |
 | :--- | :--- | ---: | ---: |
-| 1 | 3x3x3 Cube | **9124392** | 9314713 |
-| 2 | 2x2x2 Cube | **5138826** | 5269835 |
-| 3 | Pyraminx | **3350136** | 3436563 |
-| 4 | 4x4x4 Cube | **2625269** | 2721038 |
-| 5 | 3x3x3 One-Handed | **2384462** | 2460704 |
-| 6 | Skewb | **2205775** | 2259542 |
-| 7 | 5x5x5 Cube | **1390189** | 1432625 |
-| 8 | Clock | **1020711** | 1175029 |
-| 9 | Megaminx | **996322** | 1036783 |
-| 10 | Square-1 | **868796** | 904177 |
-| 11 | 6x6x6 Cube | **349540** | 361746 |
-| 12 | 7x7x7 Cube | **285431** | 297960 |
-| 13 | 3x3x3 Blindfolded | **212474** | 575884 |
+| 1 | 3x3x3 Cube | **9125808** | 9316158 |
+| 2 | 2x2x2 Cube | **5139587** | 5270610 |
+| 3 | Pyraminx | **3350528** | 3436963 |
+| 4 | 4x4x4 Cube | **2625640** | 2721427 |
+| 5 | 3x3x3 One-Handed | **2384797** | 2461044 |
+| 6 | Skewb | **2205973** | 2259742 |
+| 7 | 5x5x5 Cube | **1390285** | 1432723 |
+| 8 | Clock | **1020773** | 1175099 |
+| 9 | Megaminx | **996446** | 1036914 |
+| 10 | Square-1 | **868865** | 904250 |
+| 11 | 6x6x6 Cube | **349595** | 361802 |
+| 12 | 7x7x7 Cube | **285480** | 298012 |
+| 13 | 3x3x3 Blindfolded | **212488** | 575921 |
 | 14 | 3x3x3 Fewest Moves | **129024** | 174187 |
 | 15 | Magic | **78268** | 86498 |
 | 16 | 3x3x3 With Feet | **51884** | 56650 |

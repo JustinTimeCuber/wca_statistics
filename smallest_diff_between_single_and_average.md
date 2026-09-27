@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 25 September 2026*
+*Updated on 26 September 2026*
 
 
 ### Rubik's Cube
@@ -86,28 +86,28 @@
 | 76 | 0.05 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 7.51 | 7.56 | [Cube4fun in Biała Podlaska 2024](https://www.worldcubeassociation.org/competitions/Cube4funinBialaPodlaska2024/results/by_person#2021PIET01) |
 | 77 | 0.05 | [Ethan Gabriel R. Lao](https://www.worldcubeassociation.org/persons/2016LAOE01) | 7.57 | 7.62 | [MnM CaMaNaVa Majors 2026](https://www.worldcubeassociation.org/competitions/MnMCaMaNaVaMajors2026/results/by_person#2016LAOE01) |
 | 78 | 0.05 | [Asia Konvittayayotin (เอเชีย กรวิทยโยธิน)](https://www.worldcubeassociation.org/persons/2009KONV01) | 7.84 | 7.89 | [Samutprakarn Cube Open 2024](https://www.worldcubeassociation.org/competitions/SamutprakarnCubeOpen2024/results/by_person#2009KONV01) |
-| 79 | 0.05 | [Luigi Soriano](https://www.worldcubeassociation.org/persons/2016SORI04) | 8.08 | 8.13 | [Southern Championship 2023](https://www.worldcubeassociation.org/competitions/SouthernChampionship2023/results/by_person#2016SORI04) |
-| 80 | 0.05 | [Stacy Nicole Viray Mabalot](https://www.worldcubeassociation.org/persons/2023MABA01) | 8.40 | 8.45 | [MnM Cube Cup 2024](https://www.worldcubeassociation.org/competitions/MnMCubeCup2024/results/by_person#2023MABA01) |
-| 81 | 0.05 | [Tommy Kiprillis](https://www.worldcubeassociation.org/persons/2014KIPR01) | 8.58 | 8.63 | [Melbourne Summer 2022](https://www.worldcubeassociation.org/competitions/MelbourneSummer2022/results/by_person#2014KIPR01) |
-| 82 | 0.05 | [Dorian Thomas](https://www.worldcubeassociation.org/persons/2021THOM05) | 8.74 | 8.79 | [Bayonne Atoutcubes Open 2026](https://www.worldcubeassociation.org/competitions/BayonneAtoutcubesOpen2026/results/by_person#2021THOM05) |
-| 83 | 0.05 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | 8.97 | 9.02 | [OFFA 2023](https://www.worldcubeassociation.org/competitions/OFFASpeedcubingMeisterschaft2023/results/by_person#2014PETE03) |
-| 84 | 0.05 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) | 9.03 | 9.08 | [Rocky Mountain Championship 2023](https://www.worldcubeassociation.org/competitions/RockyMountainChampionship2023/results/by_person#2016GOTT01) |
-| 85 | 0.05 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) | 9.36 | 9.41 | [Liberty Science 2011](https://www.worldcubeassociation.org/competitions/LibertyScience2011/results/by_person#2007HESS01) |
-| 86 | 0.05 | [Joel Cetra](https://www.worldcubeassociation.org/persons/2016CETR01) | 9.81 | 9.86 | [Frozen Lake Constance 2023](https://www.worldcubeassociation.org/competitions/FrozenLakeConstance2023/results/by_person#2016CETR01) |
-| 87 | 0.05 | [Jaden Thompson](https://www.worldcubeassociation.org/persons/2016THOM01) | 10.84 | 10.89 | [Bobcat Battle 2023](https://www.worldcubeassociation.org/competitions/BobcatBattle2023/results/by_person#2016THOM01) |
-| 88 | 0.05 | [Emanuel David Rojas Bocaul](https://www.worldcubeassociation.org/persons/2024BOCA01) | 10.98 | 11.03 | [GA Cuber Jackets Spring 2025](https://www.worldcubeassociation.org/competitions/GACuberJacketsSpring2025/results/by_person#2024BOCA01) |
-| 89 | 0.05 | [Benjamin Grzesiak](https://www.worldcubeassociation.org/persons/2018GRZE01) | 11.41 | 11.46 | [Manchester August 2024](https://www.worldcubeassociation.org/competitions/ManchesterAugust2024/results/by_person#2018GRZE01) |
-| 90 | 0.05 | [Ziang Yan (晏子昂)](https://www.worldcubeassociation.org/persons/2017YANZ01) | 11.56 | 11.61 | [Weston-super-Mare Open 2022](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2022/results/by_person#2017YANZ01) |
-| 91 | 0.05 | [György Pintér](https://www.worldcubeassociation.org/persons/2014PINT05) | 11.91 | 11.96 | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017/results/by_person#2014PINT05) |
-| 92 | 0.05 | [Hoàng Nhật Minh](https://www.worldcubeassociation.org/persons/2022MINH20) | 12.20 | 12.25 | [NxN in Hanoi 2025](https://www.worldcubeassociation.org/competitions/NxNinHanoi2025/results/by_person#2022MINH20) |
-| 93 | 0.05 | [Albert So Yik Ban (蘇益品)](https://www.worldcubeassociation.org/persons/2022SOAL01) | 12.24 | 12.29 | [Hong Kong Championship 2023](https://www.worldcubeassociation.org/competitions/HongKongChampionship2023/results/by_person#2022SOAL01) |
-| 94 | 0.05 | [Lemuel Generoso](https://www.worldcubeassociation.org/persons/2015GENE01) | 12.28 | 12.33 | [Pinoy Big Cubes Open 2016](https://www.worldcubeassociation.org/competitions/PinoyBigCubesOpen2016/results/by_person#2015GENE01) |
-| 95 | 0.05 | [Amos Lyons](https://www.worldcubeassociation.org/persons/2022LYON01) | 12.31 | 12.36 | [Hancock County Summer 2025](https://www.worldcubeassociation.org/competitions/HancockCountySummer2025/results/by_person#2022LYON01) |
-| 96 | 0.05 | [Amélie Dieterich](https://www.worldcubeassociation.org/persons/2016DIET01) | 12.45 | 12.50 | [Monnem City Cubing 2019](https://www.worldcubeassociation.org/competitions/MonnemCityCubing2019/results/by_person#2016DIET01) |
-| 97 | 0.05 | [Alexander Vera Soria](https://www.worldcubeassociation.org/persons/2018SORI05) | 12.68 | 12.73 | [Ecuador Nationals 2018](https://www.worldcubeassociation.org/competitions/EcuadorNationals2018/results/by_person#2018SORI05) |
-| 98 | 0.05 | [Gabriel Vidal Figueiredo](https://www.worldcubeassociation.org/persons/2022FIGU09) | 12.88 | 12.93 | [Portugal Championship 2024](https://www.worldcubeassociation.org/competitions/PortugalChampionship2024/results/by_person#2022FIGU09) |
-| 99 | 0.05 | [Akula Pavan Kumar](https://www.worldcubeassociation.org/persons/2011KUMA01) | 13.16 | 13.21 | [Cubing Kerala Alappey Open 2017](https://www.worldcubeassociation.org/competitions/CubingKeralaAlappeyOpen2017/results/by_person#2011KUMA01) |
-| 100 | 0.05 | [Eduardo Arturo Palacios Merino](https://www.worldcubeassociation.org/persons/2017MERI01) | 14.35 | 14.40 | [Telpochcalli Tlaxcala 2020](https://www.worldcubeassociation.org/competitions/TelpochcalliTlaxcala2020/results/by_person#2017MERI01) |
+| 79 | 0.05 | [Vako Marchilashvili (ვაკო მარჩილაშვილი)](https://www.worldcubeassociation.org/persons/2013MARC05) | 8.04 | 8.09 | [Tbilisi September Open 2026](https://www.worldcubeassociation.org/competitions/TbilisiSeptemberOpen2026/results/by_person#2013MARC05) |
+| 80 | 0.05 | [Luigi Soriano](https://www.worldcubeassociation.org/persons/2016SORI04) | 8.08 | 8.13 | [Southern Championship 2023](https://www.worldcubeassociation.org/competitions/SouthernChampionship2023/results/by_person#2016SORI04) |
+| 81 | 0.05 | [Stacy Nicole Viray Mabalot](https://www.worldcubeassociation.org/persons/2023MABA01) | 8.40 | 8.45 | [MnM Cube Cup 2024](https://www.worldcubeassociation.org/competitions/MnMCubeCup2024/results/by_person#2023MABA01) |
+| 82 | 0.05 | [Tommy Kiprillis](https://www.worldcubeassociation.org/persons/2014KIPR01) | 8.58 | 8.63 | [Melbourne Summer 2022](https://www.worldcubeassociation.org/competitions/MelbourneSummer2022/results/by_person#2014KIPR01) |
+| 83 | 0.05 | [Dorian Thomas](https://www.worldcubeassociation.org/persons/2021THOM05) | 8.74 | 8.79 | [Bayonne Atoutcubes Open 2026](https://www.worldcubeassociation.org/competitions/BayonneAtoutcubesOpen2026/results/by_person#2021THOM05) |
+| 84 | 0.05 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | 8.97 | 9.02 | [OFFA 2023](https://www.worldcubeassociation.org/competitions/OFFASpeedcubingMeisterschaft2023/results/by_person#2014PETE03) |
+| 85 | 0.05 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) | 9.03 | 9.08 | [Rocky Mountain Championship 2023](https://www.worldcubeassociation.org/competitions/RockyMountainChampionship2023/results/by_person#2016GOTT01) |
+| 86 | 0.05 | [Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01) | 9.36 | 9.41 | [Liberty Science 2011](https://www.worldcubeassociation.org/competitions/LibertyScience2011/results/by_person#2007HESS01) |
+| 87 | 0.05 | [Joel Cetra](https://www.worldcubeassociation.org/persons/2016CETR01) | 9.81 | 9.86 | [Frozen Lake Constance 2023](https://www.worldcubeassociation.org/competitions/FrozenLakeConstance2023/results/by_person#2016CETR01) |
+| 88 | 0.05 | [Jaden Thompson](https://www.worldcubeassociation.org/persons/2016THOM01) | 10.84 | 10.89 | [Bobcat Battle 2023](https://www.worldcubeassociation.org/competitions/BobcatBattle2023/results/by_person#2016THOM01) |
+| 89 | 0.05 | [Emanuel David Rojas Bocaul](https://www.worldcubeassociation.org/persons/2024BOCA01) | 10.98 | 11.03 | [GA Cuber Jackets Spring 2025](https://www.worldcubeassociation.org/competitions/GACuberJacketsSpring2025/results/by_person#2024BOCA01) |
+| 90 | 0.05 | [Benjamin Grzesiak](https://www.worldcubeassociation.org/persons/2018GRZE01) | 11.41 | 11.46 | [Manchester August 2024](https://www.worldcubeassociation.org/competitions/ManchesterAugust2024/results/by_person#2018GRZE01) |
+| 91 | 0.05 | [Ziang Yan (晏子昂)](https://www.worldcubeassociation.org/persons/2017YANZ01) | 11.56 | 11.61 | [Weston-super-Mare Open 2022](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2022/results/by_person#2017YANZ01) |
+| 92 | 0.05 | [György Pintér](https://www.worldcubeassociation.org/persons/2014PINT05) | 11.91 | 11.96 | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017/results/by_person#2014PINT05) |
+| 93 | 0.05 | [Hoàng Nhật Minh](https://www.worldcubeassociation.org/persons/2022MINH20) | 12.20 | 12.25 | [NxN in Hanoi 2025](https://www.worldcubeassociation.org/competitions/NxNinHanoi2025/results/by_person#2022MINH20) |
+| 94 | 0.05 | [Albert So Yik Ban (蘇益品)](https://www.worldcubeassociation.org/persons/2022SOAL01) | 12.24 | 12.29 | [Hong Kong Championship 2023](https://www.worldcubeassociation.org/competitions/HongKongChampionship2023/results/by_person#2022SOAL01) |
+| 95 | 0.05 | [Lemuel Generoso](https://www.worldcubeassociation.org/persons/2015GENE01) | 12.28 | 12.33 | [Pinoy Big Cubes Open 2016](https://www.worldcubeassociation.org/competitions/PinoyBigCubesOpen2016/results/by_person#2015GENE01) |
+| 96 | 0.05 | [Amos Lyons](https://www.worldcubeassociation.org/persons/2022LYON01) | 12.31 | 12.36 | [Hancock County Summer 2025](https://www.worldcubeassociation.org/competitions/HancockCountySummer2025/results/by_person#2022LYON01) |
+| 97 | 0.05 | [Amélie Dieterich](https://www.worldcubeassociation.org/persons/2016DIET01) | 12.45 | 12.50 | [Monnem City Cubing 2019](https://www.worldcubeassociation.org/competitions/MonnemCityCubing2019/results/by_person#2016DIET01) |
+| 98 | 0.05 | [Alexander Vera Soria](https://www.worldcubeassociation.org/persons/2018SORI05) | 12.68 | 12.73 | [Ecuador Nationals 2018](https://www.worldcubeassociation.org/competitions/EcuadorNationals2018/results/by_person#2018SORI05) |
+| 99 | 0.05 | [Gabriel Vidal Figueiredo](https://www.worldcubeassociation.org/persons/2022FIGU09) | 12.88 | 12.93 | [Portugal Championship 2024](https://www.worldcubeassociation.org/competitions/PortugalChampionship2024/results/by_person#2022FIGU09) |
+| 100 | 0.05 | [Akula Pavan Kumar](https://www.worldcubeassociation.org/persons/2011KUMA01) | 13.16 | 13.21 | [Cubing Kerala Alappey Open 2017](https://www.worldcubeassociation.org/competitions/CubingKeralaAlappeyOpen2017/results/by_person#2011KUMA01) |
 
 ### 2x2x2 Cube
 

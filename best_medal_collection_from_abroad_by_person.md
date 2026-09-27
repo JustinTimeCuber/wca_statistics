@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 25 September 2026*
+*Updated on 26 September 2026*
 
 | Rank | Person | Gold | Silver | Bronze | Total |
 | :--- | :--- | :--: | :--: | :--: | :--: |
@@ -120,14 +120,14 @@
 | 113 | [Benjamin Wirahpati](https://www.worldcubeassociation.org/persons/2020WIRA01) | **41** | 32 | 28 | 101 |
 | 114 | [SeungBeom Cho (조승범)](https://www.worldcubeassociation.org/persons/2012CHOS01) | **41** | 27 | 9 | 77 |
 | 115 | [Mantas Urbanavičius](https://www.worldcubeassociation.org/persons/2017URBA01) | **41** | 10 | 2 | 53 |
-| 116 | [Richard Jay S. Apagar](https://www.worldcubeassociation.org/persons/2010APAG01) | **39** | 33 | 21 | 93 |
-| 117 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) | **39** | 31 | 38 | 108 |
-| 118 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) | **39** | 31 | 28 | 98 |
-| 119 | [Paolo Marino](https://www.worldcubeassociation.org/persons/2021MARI04) | **39** | 28 | 20 | 87 |
-| 120 | [Ivan Torgashov](https://www.worldcubeassociation.org/persons/2011TORG01) | **39** | 17 | 23 | 79 |
-| 121 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | **39** | 17 | 9 | 65 |
-| 122 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) | **38** | 75 | 159 | 272 |
-| 123 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **38** | 54 | 38 | 130 |
+| 116 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **39** | 54 | 40 | 133 |
+| 117 | [Richard Jay S. Apagar](https://www.worldcubeassociation.org/persons/2010APAG01) | **39** | 33 | 21 | 93 |
+| 118 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) | **39** | 31 | 38 | 108 |
+| 119 | [Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01) | **39** | 31 | 28 | 98 |
+| 120 | [Paolo Marino](https://www.worldcubeassociation.org/persons/2021MARI04) | **39** | 28 | 20 | 87 |
+| 121 | [Ivan Torgashov](https://www.worldcubeassociation.org/persons/2011TORG01) | **39** | 17 | 23 | 79 |
+| 122 | [Theo Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01) | **39** | 17 | 9 | 65 |
+| 123 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) | **38** | 75 | 159 | 272 |
 | 124 | [Imanuel Müller](https://www.worldcubeassociation.org/persons/2022MULL02) | **38** | 51 | 32 | 121 |
 | 125 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | **38** | 40 | 27 | 105 |
 | 126 | [Rami Sbahi](https://www.worldcubeassociation.org/persons/2011SBAH01) | **38** | 25 | 17 | 80 |
