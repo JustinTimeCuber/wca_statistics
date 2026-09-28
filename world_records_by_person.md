@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 26 September 2026*
+*Updated on 28 September 2026*
 
 | Rank | WRs | Person |
 | :--- | ---: | :--- |
@@ -38,15 +38,15 @@
 | 32 | 8 | [Leyan Lo](https://www.worldcubeassociation.org/persons/2004LOLE01) |
 | 33 | 8 | [Oliver Frost](https://www.worldcubeassociation.org/persons/2012FROS01) |
 | 34 | 8 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
-| 35 | 8 | [Yu Nakajima (中島悠)](https://www.worldcubeassociation.org/persons/2007NAKA03) |
-| 36 | 8 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) |
-| 37 | 7 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
-| 38 | 7 | [Drew Brads](https://www.worldcubeassociation.org/persons/2010BRAD01) |
-| 39 | 7 | [Haiyan Zhuang (庄海燕)](https://www.worldcubeassociation.org/persons/2008ZHUA01) |
-| 40 | 7 | [Max Hilliard](https://www.worldcubeassociation.org/persons/2015HILL09) |
-| 41 | 7 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) |
-| 42 | 7 | [Roman Strakhov](https://www.worldcubeassociation.org/persons/2012STRA02) |
-| 43 | 7 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) |
+| 35 | 8 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) |
+| 36 | 8 | [Yu Nakajima (中島悠)](https://www.worldcubeassociation.org/persons/2007NAKA03) |
+| 37 | 8 | [Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01) |
+| 38 | 7 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) |
+| 39 | 7 | [Drew Brads](https://www.worldcubeassociation.org/persons/2010BRAD01) |
+| 40 | 7 | [Haiyan Zhuang (庄海燕)](https://www.worldcubeassociation.org/persons/2008ZHUA01) |
+| 41 | 7 | [Max Hilliard](https://www.worldcubeassociation.org/persons/2015HILL09) |
+| 42 | 7 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) |
+| 43 | 7 | [Roman Strakhov](https://www.worldcubeassociation.org/persons/2012STRA02) |
 | 44 | 7 | [Ville Seppänen](https://www.worldcubeassociation.org/persons/2008SEPP01) |
 | 45 | 7 | [Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01) |
 | 46 | 6 | [Bálint Bodor](https://www.worldcubeassociation.org/persons/2008BODO01) |

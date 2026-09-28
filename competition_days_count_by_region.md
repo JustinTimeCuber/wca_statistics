@@ -1,22 +1,22 @@
 ## Competition days count by region
 
-*Updated on 26 September 2026*
+*Updated on 28 September 2026*
 
 
 ### World
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.45 | World | 18688 |
+| 1 | 1.45 | World | 18696 |
 
 ### Continents
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.71 | Europe | 6061 |
-| 2 | 1.48 | Oceania | 812 |
+| 1 | 1.71 | Europe | 6062 |
+| 2 | 1.48 | Oceania | 814 |
 | 3 | 1.45 | South America | 2405 |
-| 4 | 1.40 | Asia | 3764 |
+| 4 | 1.40 | Asia | 3769 |
 | 5 | 1.31 | Africa | 258 |
 | 6 | 1.21 | North America | 5388 |
 
@@ -38,7 +38,7 @@
 | 12 | 1.85 | Thailand | 110 |
 | 13 | 1.84 | Serbia | 32 |
 | 14 | 1.84 | Finland | 201 |
-| 15 | 1.83 | Spain | 545 |
+| 15 | 1.84 | Spain | 546 |
 | 16 | 1.83 | Norway | 182 |
 | 17 | 1.82 | Slovenia | 49 |
 | 18 | 1.81 | Austria | 42 |
@@ -66,7 +66,7 @@
 | 40 | 1.60 | Iran | 43 |
 | 41 | 1.60 | Madagascar | 5 |
 | 42 | 1.60 | Netherlands | 154 |
-| 43 | 1.58 | New Zealand | 186 |
+| 43 | 1.57 | New Zealand | 188 |
 | 44 | 1.57 | North Macedonia | 7 |
 | 45 | 1.57 | San Marino | 7 |
 | 46 | 1.56 | Nepal | 25 |
@@ -74,10 +74,10 @@
 | 48 | 1.55 | Denmark | 257 |
 | 49 | 1.55 | Bulgaria | 31 |
 | 50 | 1.54 | Latvia | 56 |
-| 51 | 1.53 | India | 794 |
+| 51 | 1.53 | India | 796 |
 | 52 | 1.53 | Greece | 57 |
-| 53 | 1.52 | Bolivia | 191 |
-| 54 | 1.51 | Malaysia | 138 |
+| 53 | 1.53 | Malaysia | 139 |
+| 54 | 1.52 | Bolivia | 191 |
 | 55 | 1.51 | South Africa | 123 |
 | 56 | 1.50 | Laos | 2 |
 | 57 | 1.48 | Sweden | 435 |
@@ -88,7 +88,7 @@
 | 62 | 1.42 | Israel | 84 |
 | 63 | 1.40 | Costa Rica | 35 |
 | 64 | 1.39 | Estonia | 74 |
-| 65 | 1.39 | Chinese Taipei | 174 |
+| 65 | 1.38 | Chinese Taipei | 175 |
 | 66 | 1.38 | Nigeria | 8 |
 | 67 | 1.37 | Romania | 158 |
 | 68 | 1.36 | Bahrain | 11 |
@@ -105,7 +105,7 @@
 | 79 | 1.27 | Portugal | 77 |
 | 80 | 1.27 | Philippines | 435 |
 | 81 | 1.26 | Colombia | 579 |
-| 82 | 1.26 | Hong Kong, China | 31 |
+| 82 | 1.25 | Hong Kong, China | 32 |
 | 83 | 1.24 | Chile | 177 |
 | 84 | 1.24 | El Salvador | 42 |
 | 85 | 1.23 | China | 786 |
