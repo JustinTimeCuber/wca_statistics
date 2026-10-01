@@ -1,7 +1,7 @@
 ## Average event count by competition
 
 *Note: In other words, average number of events competitors participated in.*
-*Updated on 30 September 2026*
+*Updated on  1 October 2026*
 
 | Rank | Competition | Average event count | Competitors | Country |
 | :--- | :--- | ---: | ---: | :--- |
@@ -624,12 +624,12 @@
 | 617 | [ABHC 2014](https://www.worldcubeassociation.org/competitions/AugustBank2014) | 7.34 | 56 | United Kingdom |
 | 618 | [33 Trentini a Trento 2025](https://www.worldcubeassociation.org/competitions/33TrentiniATrento2025) | 7.33 | 30 | Italy |
 | 619 | [Autotalo 2023](https://www.worldcubeassociation.org/competitions/Autotalo2023) | 7.33 | 24 | Finland |
-| 620 | [Frankfurt Cube Days 2012](https://www.worldcubeassociation.org/competitions/FrankfurtOpen2012) | 7.33 | 60 | Germany |
-| 621 | [Croatian Open 2018](https://www.worldcubeassociation.org/competitions/CroatianOpen2018) | 7.33 | 30 | Croatia |
-| 622 | [Indonesia Open 2022](https://www.worldcubeassociation.org/competitions/IndonesiaOpen2022) | 7.33 | 21 | Indonesia |
-| 623 | [Danish Championship 2024](https://www.worldcubeassociation.org/competitions/DanishChampionship2024) | 7.33 | 117 | Denmark |
-| 624 | [Delacuesta Xmas 2025](https://www.worldcubeassociation.org/competitions/DelacuestaXmas2025) | 7.33 | 27 | Colombia |
-| 625 | [Flatåsen Open 2025](https://www.worldcubeassociation.org/competitions/FlatasenOpen2025) | 7.33 | 42 | Norway |
+| 620 | [Flatåsen Open 2025](https://www.worldcubeassociation.org/competitions/FlatasenOpen2025) | 7.33 | 42 | Norway |
+| 621 | [Frankfurt Cube Days 2012](https://www.worldcubeassociation.org/competitions/FrankfurtOpen2012) | 7.33 | 60 | Germany |
+| 622 | [Croatian Open 2018](https://www.worldcubeassociation.org/competitions/CroatianOpen2018) | 7.33 | 30 | Croatia |
+| 623 | [Indonesia Open 2022](https://www.worldcubeassociation.org/competitions/IndonesiaOpen2022) | 7.33 | 21 | Indonesia |
+| 624 | [Danish Championship 2024](https://www.worldcubeassociation.org/competitions/DanishChampionship2024) | 7.33 | 117 | Denmark |
+| 625 | [Delacuesta Xmas 2025](https://www.worldcubeassociation.org/competitions/DelacuestaXmas2025) | 7.33 | 27 | Colombia |
 | 626 | [Cube en Baie Open 2026](https://www.worldcubeassociation.org/competitions/CubeenBaieOpen2026) | 7.33 | 64 | France |
 | 627 | [New Zealand Nationals 2025](https://www.worldcubeassociation.org/competitions/NewZealandNationals2025) | 7.33 | 147 | New Zealand |
 | 628 | [Weston-super-Mare 2012](https://www.worldcubeassociation.org/competitions/WestonsuperMare2012) | 7.32 | 40 | United Kingdom |
