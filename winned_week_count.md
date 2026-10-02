@@ -653,9 +653,9 @@
 | 28 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 6 |
 | 29 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) | 6 |
 | 30 | [Abdelhak Kaddour](https://www.worldcubeassociation.org/persons/2010KADD01) | 6 |
-| 31 | [Emmanuel Kao](https://www.worldcubeassociation.org/persons/2022KAOE01) | 6 |
-| 32 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) | 5 |
-| 33 | [Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68) | 5 |
+| 31 | [Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68) | 6 |
+| 32 | [Emmanuel Kao](https://www.worldcubeassociation.org/persons/2022KAOE01) | 6 |
+| 33 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) | 5 |
 | 34 | [Pedro Roque](https://www.worldcubeassociation.org/persons/2012ROQU01) | 5 |
 | 35 | [János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01) | 5 |
 | 36 | [John Brechon](https://www.worldcubeassociation.org/persons/2010BREC01) | 5 |

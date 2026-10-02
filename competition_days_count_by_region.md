@@ -7,17 +7,17 @@
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.45 | World | 18726 |
+| 1 | 1.45 | World | 18736 |
 
 ### Continents
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.71 | Europe | 6075 |
+| 1 | 1.71 | Europe | 6084 |
 | 2 | 1.48 | Oceania | 815 |
 | 3 | 1.45 | South America | 2407 |
 | 4 | 1.40 | Asia | 3773 |
-| 5 | 1.31 | Africa | 258 |
+| 5 | 1.31 | Africa | 259 |
 | 6 | 1.21 | North America | 5398 |
 
 ### Countries
@@ -55,7 +55,7 @@
 | 29 | 1.75 | Sri Lanka | 16 |
 | 30 | 1.75 | Ireland | 107 |
 | 31 | 1.74 | Ukraine | 162 |
-| 32 | 1.71 | Poland | 671 |
+| 32 | 1.70 | Poland | 680 |
 | 33 | 1.66 | Argentina | 144 |
 | 34 | 1.65 | Italy | 301 |
 | 35 | 1.64 | Hungary | 84 |
@@ -110,12 +110,12 @@
 | 84 | 1.24 | El Salvador | 42 |
 | 85 | 1.23 | China | 787 |
 | 86 | 1.23 | Venezuela | 108 |
-| 87 | 1.22 | United Arab Emirates | 23 |
-| 88 | 1.21 | Panama | 33 |
-| 89 | 1.20 | Singapore | 124 |
-| 90 | 1.19 | Morocco | 16 |
-| 91 | 1.17 | Japan | 286 |
-| 92 | 1.17 | Egypt | 12 |
+| 87 | 1.23 | Egypt | 13 |
+| 88 | 1.22 | United Arab Emirates | 23 |
+| 89 | 1.21 | Panama | 33 |
+| 90 | 1.20 | Singapore | 124 |
+| 91 | 1.19 | Morocco | 16 |
+| 92 | 1.17 | Japan | 286 |
 | 93 | 1.17 | Tunisia | 24 |
 | 94 | 1.16 | United States | 4327 |
 | 95 | 1.16 | Canada | 540 |
