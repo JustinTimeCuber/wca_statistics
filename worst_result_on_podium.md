@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on  4 October 2026*
+*Updated on  7 October 2026*
 
 
 ### Rubik's Cube
@@ -1341,33 +1341,33 @@
 | 71 | [Daniel Delgado Candia](https://www.worldcubeassociation.org/persons/2015CAND01) | 15.20 | **24.15** | [Cube Clash Potosí 2025](https://www.worldcubeassociation.org/competitions/CubeClashPotosi2025/results/podiums#eskewb) | 3 |
 | 72 | [Noe Andre Smith](https://www.worldcubeassociation.org/persons/2023SMIT22) | 12.62 | **24.11** | [You Better Belize It 2023](https://www.worldcubeassociation.org/competitions/YouBetterBelizeIt2023/results/podiums#eskewb) | 3 |
 | 73 | [Samarth Manek](https://www.worldcubeassociation.org/persons/2023MANE11) | 18.50 | **24.04** | [The Complex Kenya 2023](https://www.worldcubeassociation.org/competitions/TheComplexKenya2023/results/podiums#eskewb) | 3 |
-| 74 | [Temiloluwa Ishola](https://www.worldcubeassociation.org/persons/2022ISHO01) | 11.95 | **23.90** | [Nigeria Championship 2022](https://www.worldcubeassociation.org/competitions/NigeriaChampionship2022/results/podiums#eskewb) | 2 |
-| 75 | [Pablo Say](https://www.worldcubeassociation.org/persons/2013SAYP01) | 13.65 | **23.63** | [Amati 2014](https://www.worldcubeassociation.org/competitions/RubikAmati2014/results/podiums#eskewb) | 3 |
-| 76 | [Jose Gregorio Pinto](https://www.worldcubeassociation.org/persons/2014PINT04) | 20.39 | **23.57** | [360 Open 2014](https://www.worldcubeassociation.org/competitions/Galerias360Open2014/results/podiums#eskewb) | 3 |
-| 77 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) | 15.25 | **23.37** | [Albanian Open 2018](https://www.worldcubeassociation.org/competitions/AlbanianOpen2018/results/podiums#eskewb) | 3 |
-| 78 | [Pablo Say](https://www.worldcubeassociation.org/persons/2013SAYP01) | 14.17 | **23.26** | [GuateRubik 2014](https://www.worldcubeassociation.org/competitions/GuateRubik2014/results/podiums#eskewb) | 1 |
-| 79 | [Aidan Zeng](https://www.worldcubeassociation.org/persons/2019ZENG05) | 11.90 | **23.24** | [Ghana Open 2019](https://www.worldcubeassociation.org/competitions/GhanaOpen2019/results/podiums#eskewb) | 3 |
-| 80 | [Uzeyir Elivasli](https://www.worldcubeassociation.org/persons/2018ELIV01) | 19.21 | **23.22** | [Balakən 2018](https://www.worldcubeassociation.org/competitions/Balakan2018/results/podiums#eskewb) | 3 |
-| 81 | [Mauricio Pinheiro de Oliveira](https://www.worldcubeassociation.org/persons/2013OLIV03) | 18.94 | **23.17** | [Oficina Open 2014](https://www.worldcubeassociation.org/competitions/OficinaOpen2014/results/podiums#eskewb) | 3 |
-| 82 | [Christopher Fernández Trejo](https://www.worldcubeassociation.org/persons/2013TREJ01) | 21.06 | **23.15** | [Gijón Open 2014](https://www.worldcubeassociation.org/competitions/GijonOpen2014/results/podiums#eskewb) | 2 |
-| 83 | [Homero Lautaro Villarroel](https://www.worldcubeassociation.org/persons/2025VILL53) | 12.26 | **23.10** | [Ushuaia Open 2026](https://www.worldcubeassociation.org/competitions/UshuaiaOpen2026/results/podiums#eskewb) | 3 |
-| 84 | [Piyush Keshan](https://www.worldcubeassociation.org/persons/2019KESH01) | 17.88 | **23.06** | [Ghana Open 2019](https://www.worldcubeassociation.org/competitions/GhanaOpen2019/results/podiums#eskewb) | 2 |
-| 85 | [Huérllen Vicente Lemos e Silva](https://www.worldcubeassociation.org/persons/2014SILV33) | 12.38 | **23.04** | [VII CUBIFMA 2022](https://www.worldcubeassociation.org/competitions/VIICUBIFMA2022/results/podiums#eskewb) | 2 |
-| 86 | [Mohamed Ali Snoussi](https://www.worldcubeassociation.org/persons/2019SNOU01) | 15.12 | **23.01** | [Tunisia Khomsa Open 2019](https://www.worldcubeassociation.org/competitions/TunisiaKhomsaOpen2019/results/podiums#eskewb) | 3 |
-| 87 | [Jairo Melo Jimenez](https://www.worldcubeassociation.org/persons/2014JIME03) | 14.00 | **23.01** | [Back to 360 2014](https://www.worldcubeassociation.org/competitions/BackTo360Open2014/results/podiums#eskewb) | 3 |
-| 88 | [Kyle Punguh Misigo](https://www.worldcubeassociation.org/persons/2024MISI03) | 16.33 | **22.95** | [Gigiri Cubing Open AM 2025](https://www.worldcubeassociation.org/competitions/GigiriCubingOpenAM2025/results/podiums#eskewb) | 3 |
-| 89 | [Hikmət Mürsəlzadə](https://www.worldcubeassociation.org/persons/2015MURS01) | 17.03 | **22.87** | [Balakən Open 2019](https://www.worldcubeassociation.org/competitions/BalakanOpen2019/results/podiums#eskewb) | 1 |
-| 90 | [Letian Mattia Chang](https://www.worldcubeassociation.org/persons/2010CHAN14) | 15.72 | **22.60** | [No Parity Open 2014](https://www.worldcubeassociation.org/competitions/NoParityOpen2014/results/podiums#eskewb) | 3 |
-| 91 | [Murillo Gomes Otero](https://www.worldcubeassociation.org/persons/2014OTER01) | 8.64 | **22.50** | [Sesc Camaquã 2016](https://www.worldcubeassociation.org/competitions/SescCamaqua2016/results/podiums#eskewb) | 3 |
-| 92 | [Cel Adriane Lalo](https://www.worldcubeassociation.org/persons/2012LALO01) | 17.93 | **22.47** | [Naga City Cube Open 2019](https://www.worldcubeassociation.org/competitions/NagaCityCubeOpen2019/results/podiums#eskewb) | 2 |
-| 93 | [Royer Pacuala](https://www.worldcubeassociation.org/persons/2014PACU01) | 10.26 | **22.43** | [Tecsup Open 2015](https://www.worldcubeassociation.org/competitions/TecsupOpen2015/results/podiums#eskewb) | 3 |
-| 94 | [Marvin Saucedo](https://www.worldcubeassociation.org/persons/2013SAUC01) | 15.83 | **22.34** | [Mazate Open 2015](https://www.worldcubeassociation.org/competitions/MazateOpen2015/results/podiums#eskewb) | 3 |
-| 95 | [Hikmət Mürsəlzadə](https://www.worldcubeassociation.org/persons/2015MURS01) | 21.69 | **22.28** | [Lənkəran 2018](https://www.worldcubeassociation.org/competitions/Lankaran2018/results/podiums#eskewb) | 1 |
-| 96 | [Anthony Jesús Feria Paredes](https://www.worldcubeassociation.org/persons/2013PARE03) | 13.29 | **22.24** | [Game Pro Tour 2014](https://www.worldcubeassociation.org/competitions/GameProTour2014/results/podiums#eskewb) | 2 |
-| 97 | [Samuel Mema](https://www.worldcubeassociation.org/persons/2018MEMA01) | 12.05 | **22.22** | [Albanian Open 2018](https://www.worldcubeassociation.org/competitions/AlbanianOpen2018/results/podiums#eskewb) | 2 |
-| 98 | [Huérllen Vicente Lemos e Silva](https://www.worldcubeassociation.org/persons/2014SILV33) | 11.70 | **22.00** | [VIII CUBIFMA 2023](https://www.worldcubeassociation.org/competitions/VIIICUBIFMA2023/results/podiums#eskewb) | 3 |
-| 99 | [Karl Þorláksson](https://www.worldcubeassociation.org/persons/2011THOR01) | 13.90 | **21.89** | [Iceland Open 2014](https://www.worldcubeassociation.org/competitions/IcelandOpen2014/results/podiums#eskewb) | 1 |
-| 100 | [Hikmət Mürsəlzadə](https://www.worldcubeassociation.org/persons/2015MURS01) | 17.28 | **21.82** | [Northern Decathlon 2019](https://www.worldcubeassociation.org/competitions/NorthernDecathlon2019/results/podiums#eskewb) | 1 |
+| 74 | [Kekoa Yee](https://www.worldcubeassociation.org/persons/2026YEEK01) | 20.03 | **24.01** | [Hawaiʻi Big Island Fall 2026](https://www.worldcubeassociation.org/competitions/HawaiiBigIslandFall2026/results/podiums#eskewb) | 3 |
+| 75 | [Temiloluwa Ishola](https://www.worldcubeassociation.org/persons/2022ISHO01) | 11.95 | **23.90** | [Nigeria Championship 2022](https://www.worldcubeassociation.org/competitions/NigeriaChampionship2022/results/podiums#eskewb) | 2 |
+| 76 | [Pablo Say](https://www.worldcubeassociation.org/persons/2013SAYP01) | 13.65 | **23.63** | [Amati 2014](https://www.worldcubeassociation.org/competitions/RubikAmati2014/results/podiums#eskewb) | 3 |
+| 77 | [Jose Gregorio Pinto](https://www.worldcubeassociation.org/persons/2014PINT04) | 20.39 | **23.57** | [360 Open 2014](https://www.worldcubeassociation.org/competitions/Galerias360Open2014/results/podiums#eskewb) | 3 |
+| 78 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) | 15.25 | **23.37** | [Albanian Open 2018](https://www.worldcubeassociation.org/competitions/AlbanianOpen2018/results/podiums#eskewb) | 3 |
+| 79 | [Pablo Say](https://www.worldcubeassociation.org/persons/2013SAYP01) | 14.17 | **23.26** | [GuateRubik 2014](https://www.worldcubeassociation.org/competitions/GuateRubik2014/results/podiums#eskewb) | 1 |
+| 80 | [Aidan Zeng](https://www.worldcubeassociation.org/persons/2019ZENG05) | 11.90 | **23.24** | [Ghana Open 2019](https://www.worldcubeassociation.org/competitions/GhanaOpen2019/results/podiums#eskewb) | 3 |
+| 81 | [Uzeyir Elivasli](https://www.worldcubeassociation.org/persons/2018ELIV01) | 19.21 | **23.22** | [Balakən 2018](https://www.worldcubeassociation.org/competitions/Balakan2018/results/podiums#eskewb) | 3 |
+| 82 | [Mauricio Pinheiro de Oliveira](https://www.worldcubeassociation.org/persons/2013OLIV03) | 18.94 | **23.17** | [Oficina Open 2014](https://www.worldcubeassociation.org/competitions/OficinaOpen2014/results/podiums#eskewb) | 3 |
+| 83 | [Christopher Fernández Trejo](https://www.worldcubeassociation.org/persons/2013TREJ01) | 21.06 | **23.15** | [Gijón Open 2014](https://www.worldcubeassociation.org/competitions/GijonOpen2014/results/podiums#eskewb) | 2 |
+| 84 | [Homero Lautaro Villarroel](https://www.worldcubeassociation.org/persons/2025VILL53) | 12.26 | **23.10** | [Ushuaia Open 2026](https://www.worldcubeassociation.org/competitions/UshuaiaOpen2026/results/podiums#eskewb) | 3 |
+| 85 | [Piyush Keshan](https://www.worldcubeassociation.org/persons/2019KESH01) | 17.88 | **23.06** | [Ghana Open 2019](https://www.worldcubeassociation.org/competitions/GhanaOpen2019/results/podiums#eskewb) | 2 |
+| 86 | [Huérllen Vicente Lemos e Silva](https://www.worldcubeassociation.org/persons/2014SILV33) | 12.38 | **23.04** | [VII CUBIFMA 2022](https://www.worldcubeassociation.org/competitions/VIICUBIFMA2022/results/podiums#eskewb) | 2 |
+| 87 | [Mohamed Ali Snoussi](https://www.worldcubeassociation.org/persons/2019SNOU01) | 15.12 | **23.01** | [Tunisia Khomsa Open 2019](https://www.worldcubeassociation.org/competitions/TunisiaKhomsaOpen2019/results/podiums#eskewb) | 3 |
+| 88 | [Jairo Melo Jimenez](https://www.worldcubeassociation.org/persons/2014JIME03) | 14.00 | **23.01** | [Back to 360 2014](https://www.worldcubeassociation.org/competitions/BackTo360Open2014/results/podiums#eskewb) | 3 |
+| 89 | [Kyle Punguh Misigo](https://www.worldcubeassociation.org/persons/2024MISI03) | 16.33 | **22.95** | [Gigiri Cubing Open AM 2025](https://www.worldcubeassociation.org/competitions/GigiriCubingOpenAM2025/results/podiums#eskewb) | 3 |
+| 90 | [Hikmət Mürsəlzadə](https://www.worldcubeassociation.org/persons/2015MURS01) | 17.03 | **22.87** | [Balakən Open 2019](https://www.worldcubeassociation.org/competitions/BalakanOpen2019/results/podiums#eskewb) | 1 |
+| 91 | [Letian Mattia Chang](https://www.worldcubeassociation.org/persons/2010CHAN14) | 15.72 | **22.60** | [No Parity Open 2014](https://www.worldcubeassociation.org/competitions/NoParityOpen2014/results/podiums#eskewb) | 3 |
+| 92 | [Murillo Gomes Otero](https://www.worldcubeassociation.org/persons/2014OTER01) | 8.64 | **22.50** | [Sesc Camaquã 2016](https://www.worldcubeassociation.org/competitions/SescCamaqua2016/results/podiums#eskewb) | 3 |
+| 93 | [Cel Adriane Lalo](https://www.worldcubeassociation.org/persons/2012LALO01) | 17.93 | **22.47** | [Naga City Cube Open 2019](https://www.worldcubeassociation.org/competitions/NagaCityCubeOpen2019/results/podiums#eskewb) | 2 |
+| 94 | [Royer Pacuala](https://www.worldcubeassociation.org/persons/2014PACU01) | 10.26 | **22.43** | [Tecsup Open 2015](https://www.worldcubeassociation.org/competitions/TecsupOpen2015/results/podiums#eskewb) | 3 |
+| 95 | [Marvin Saucedo](https://www.worldcubeassociation.org/persons/2013SAUC01) | 15.83 | **22.34** | [Mazate Open 2015](https://www.worldcubeassociation.org/competitions/MazateOpen2015/results/podiums#eskewb) | 3 |
+| 96 | [Hikmət Mürsəlzadə](https://www.worldcubeassociation.org/persons/2015MURS01) | 21.69 | **22.28** | [Lənkəran 2018](https://www.worldcubeassociation.org/competitions/Lankaran2018/results/podiums#eskewb) | 1 |
+| 97 | [Anthony Jesús Feria Paredes](https://www.worldcubeassociation.org/persons/2013PARE03) | 13.29 | **22.24** | [Game Pro Tour 2014](https://www.worldcubeassociation.org/competitions/GameProTour2014/results/podiums#eskewb) | 2 |
+| 98 | [Samuel Mema](https://www.worldcubeassociation.org/persons/2018MEMA01) | 12.05 | **22.22** | [Albanian Open 2018](https://www.worldcubeassociation.org/competitions/AlbanianOpen2018/results/podiums#eskewb) | 2 |
+| 99 | [Huérllen Vicente Lemos e Silva](https://www.worldcubeassociation.org/persons/2014SILV33) | 11.70 | **22.00** | [VIII CUBIFMA 2023](https://www.worldcubeassociation.org/competitions/VIIICUBIFMA2023/results/podiums#eskewb) | 3 |
+| 100 | [Karl Þorláksson](https://www.worldcubeassociation.org/persons/2011THOR01) | 13.90 | **21.89** | [Iceland Open 2014](https://www.worldcubeassociation.org/competitions/IcelandOpen2014/results/podiums#eskewb) | 1 |
 
 ### Square-1
 
