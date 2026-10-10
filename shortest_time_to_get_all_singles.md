@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  7 October 2026*
+*Updated on 10 October 2026*
 
 | Rank | Days | Person |
 | :--- | ---: | :--- |
@@ -32,7 +32,7 @@
 | 25 | 322 | [Anawin Chaichana (อนาวิล ชัยชนะ)](https://www.worldcubeassociation.org/persons/2023CHAI02) |
 | 26 | 342 | [Evan Brown](https://www.worldcubeassociation.org/persons/2013BROW04) |
 | 27 | 343 | [Niklas Aasen Eliasson](https://www.worldcubeassociation.org/persons/2021ELIA01) |
-| 28 | 356 | [Mirei Morioka (森岡美玲)](https://www.worldcubeassociation.org/persons/2025MORI09) |
+| 28 | 356 | [Mirei Tanaka (田中美玲)](https://www.worldcubeassociation.org/persons/2025MORI09) |
 | 29 | 357 | [Yu Zhou (周煜)](https://www.worldcubeassociation.org/persons/2017YUZH03) |
 | 30 | 357 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) |
 | 31 | 363 | [Jaye Sloan](https://www.worldcubeassociation.org/persons/2022SLOA01) |
@@ -131,7 +131,7 @@
 | 124 | 719 | [Yoad Yahalom Weiss](https://www.worldcubeassociation.org/persons/2022WEIS03) |
 | 125 | 721 | [Alex Rosado Saez de Langarica](https://www.worldcubeassociation.org/persons/2023LANG03) |
 | 126 | 726 | [Jonathan Dammann](https://www.worldcubeassociation.org/persons/2021DAMM01) |
-| 127 | 727 | [Jakov Srečković](https://www.worldcubeassociation.org/persons/2021SREC01) |
+| 127 | 727 | [Srećko Srečković](https://www.worldcubeassociation.org/persons/2021SREC01) |
 | 128 | 727 | [Marius Bergo Nielsen](https://www.worldcubeassociation.org/persons/2022NIEL06) |
 | 129 | 728 | [Jake Klassen](https://www.worldcubeassociation.org/persons/2016KLAS01) |
 | 130 | 728 | [Evan Maccagnan](https://www.worldcubeassociation.org/persons/2022MACC01) |

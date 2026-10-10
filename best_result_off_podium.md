@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on  7 October 2026*
+*Updated on 10 October 2026*
 
 
 ### Rubik's Cube
@@ -1756,7 +1756,7 @@
 | 66 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **29/31 58:44** |  | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e333mbf_c) | 9 |
 | 67 | [Lorenzo Mauro](https://www.worldcubeassociation.org/persons/2014MAUR06) | **32/37 58:50** |  | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/all#e333mbf_f) | 14 |
 | 68 | [Amy Smith](https://www.worldcubeassociation.org/persons/2019SMIT36) | **30/33 59:27** |  | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#e333mbf_f) | 13 |
-| 69 | [Jakov Srečković](https://www.worldcubeassociation.org/persons/2021SREC01) | **41/55 59:56** |  | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/all#e333mbf_f) | 15 |
+| 69 | [Srećko Srečković](https://www.worldcubeassociation.org/persons/2021SREC01) | **41/55 59:56** |  | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/all#e333mbf_f) | 15 |
 | 70 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) | **34/41 59:59** |  | [Poznań Mental Breakdown 2026](https://www.worldcubeassociation.org/competitions/PoznanMentalBreakdown2026/results/all#e333mbf_f) | 4 |
 | 71 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | **30/33 1:00:00** |  | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#e333mbf_f) | 6 |
 | 72 | [Stanisław Szyszka](https://www.worldcubeassociation.org/persons/2016SZYS02) | **31/35 1:00:00** |  | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025/results/all#e333mbf_f) | 5 |

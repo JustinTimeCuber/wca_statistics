@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on  7 October 2026*
+*Updated on 10 October 2026*
 
 | Rank | Countries | Person |
 | :--- | ---: | :--- |
@@ -19,8 +19,8 @@
 | 13 | 35 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) |
 | 14 | 34 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) |
 | 15 | 34 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) |
-| 16 | 33 | [Ramona Orzel](https://www.worldcubeassociation.org/persons/2019ORZE03) |
-| 17 | 32 | [Oscar Luigi M. Gravador](https://www.worldcubeassociation.org/persons/2016GRAV02) |
+| 16 | 33 | [Oscar Luigi M. Gravador](https://www.worldcubeassociation.org/persons/2016GRAV02) |
+| 17 | 33 | [Ramona Orzel](https://www.worldcubeassociation.org/persons/2019ORZE03) |
 | 18 | 31 | [Chiara Marcucci](https://www.worldcubeassociation.org/persons/2021MARC03) |
 | 19 | 30 | [Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01) |
 | 20 | 30 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) |
@@ -49,12 +49,12 @@
 | 43 | 23 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 44 | 23 | [Glen Goh Wee Zhuan (吴洧全)](https://www.worldcubeassociation.org/persons/2015ZHUA01) |
 | 45 | 23 | [Nora Akkersdijk](https://www.worldcubeassociation.org/persons/2009CHRI03) |
-| 46 | 22 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
-| 47 | 22 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) |
-| 48 | 22 | [Nox Clémenceau](https://www.worldcubeassociation.org/persons/2015CLEM03) |
-| 49 | 22 | [Sanio Kasumovic](https://www.worldcubeassociation.org/persons/2009KASU01) |
-| 50 | 21 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) |
-| 51 | 21 | [Filip Åström](https://www.worldcubeassociation.org/persons/2023ASTR01) |
+| 46 | 22 | [Filip Åström](https://www.worldcubeassociation.org/persons/2023ASTR01) |
+| 47 | 22 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
+| 48 | 22 | [Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01) |
+| 49 | 22 | [Nox Clémenceau](https://www.worldcubeassociation.org/persons/2015CLEM03) |
+| 50 | 22 | [Sanio Kasumovic](https://www.worldcubeassociation.org/persons/2009KASU01) |
+| 51 | 21 | [Ianis Costin Chele](https://www.worldcubeassociation.org/persons/2021CHEL01) |
 | 52 | 21 | [Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01) |
 | 53 | 21 | [Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02) |
 | 54 | 21 | [Ioannis Papadopoulos](https://www.worldcubeassociation.org/persons/2013PAPA01) |
@@ -865,7 +865,7 @@
 | 859 | 7 | [Elizaveta Nesterenko](https://www.worldcubeassociation.org/persons/2021NEST01) |
 | 860 | 7 | [Kiyoshi Takahashi](https://www.worldcubeassociation.org/persons/2007TAKA01) |
 | 861 | 7 | [Petri Vanhala](https://www.worldcubeassociation.org/persons/2005VANH02) |
-| 862 | 7 | [Jakov Srečković](https://www.worldcubeassociation.org/persons/2021SREC01) |
+| 862 | 7 | [Srećko Srečković](https://www.worldcubeassociation.org/persons/2021SREC01) |
 | 863 | 7 | [Anette Warberg Borg](https://www.worldcubeassociation.org/persons/2022BORG04) |
 | 864 | 7 | [Melis Atarim](https://www.worldcubeassociation.org/persons/2022ATAR01) |
 | 865 | 7 | [Olli Vikstedt](https://www.worldcubeassociation.org/persons/2014VIKS01) |

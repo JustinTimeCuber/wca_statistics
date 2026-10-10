@@ -1,48 +1,48 @@
 ## Competition days count by region
 
-*Updated on  7 October 2026*
+*Updated on 10 October 2026*
 
 
 ### World
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.45 | World | 18781 |
+| 1 | 1.45 | World | 18814 |
 
 ### Continents
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.71 | Europe | 6102 |
+| 1 | 1.71 | Europe | 6111 |
 | 2 | 1.48 | Oceania | 816 |
-| 3 | 1.45 | South America | 2412 |
-| 4 | 1.40 | Asia | 3780 |
+| 3 | 1.45 | South America | 2416 |
+| 4 | 1.40 | Asia | 3791 |
 | 5 | 1.31 | Africa | 259 |
-| 6 | 1.21 | North America | 5412 |
+| 6 | 1.21 | North America | 5421 |
 
 ### Countries
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 2.07 | Uzbekistan | 29 |
+| 1 | 2.06 | Uzbekistan | 31 |
 | 2 | 2.00 | Liechtenstein | 3 |
 | 3 | 1.96 | Germany | 316 |
 | 4 | 1.94 | Iceland | 18 |
 | 5 | 1.93 | Belarus | 42 |
 | 6 | 1.92 | Kyrgyzstan | 13 |
 | 7 | 1.92 | Russia | 220 |
-| 8 | 1.91 | Turkey | 140 |
-| 9 | 1.91 | France | 412 |
+| 8 | 1.91 | France | 412 |
+| 9 | 1.91 | Turkey | 141 |
 | 10 | 1.89 | Palestine | 9 |
 | 11 | 1.88 | Kazakhstan | 82 |
 | 12 | 1.86 | Thailand | 111 |
 | 13 | 1.84 | Serbia | 32 |
 | 14 | 1.84 | Finland | 204 |
-| 15 | 1.84 | Spain | 546 |
-| 16 | 1.83 | Norway | 183 |
+| 15 | 1.84 | Spain | 547 |
+| 16 | 1.82 | Norway | 184 |
 | 17 | 1.82 | Slovenia | 49 |
 | 18 | 1.81 | Austria | 43 |
-| 19 | 1.81 | Croatia | 42 |
+| 19 | 1.81 | Croatia | 43 |
 | 20 | 1.80 | United Kingdom | 383 |
 | 21 | 1.80 | Bosnia and Herzegovina | 15 |
 | 22 | 1.80 | Luxembourg | 5 |
@@ -55,10 +55,10 @@
 | 29 | 1.75 | Sri Lanka | 16 |
 | 30 | 1.75 | Ireland | 107 |
 | 31 | 1.74 | Ukraine | 163 |
-| 32 | 1.70 | Poland | 681 |
+| 32 | 1.71 | Poland | 682 |
 | 33 | 1.66 | Argentina | 145 |
-| 34 | 1.65 | Italy | 301 |
-| 35 | 1.64 | Brazil | 752 |
+| 34 | 1.65 | Italy | 303 |
+| 35 | 1.64 | Brazil | 755 |
 | 36 | 1.63 | Belgium | 116 |
 | 37 | 1.63 | Hungary | 86 |
 | 38 | 1.61 | Dominican Republic | 31 |
@@ -75,8 +75,8 @@
 | 49 | 1.55 | Denmark | 258 |
 | 50 | 1.54 | Latvia | 56 |
 | 51 | 1.53 | Greece | 58 |
-| 52 | 1.53 | India | 798 |
-| 53 | 1.53 | Malaysia | 139 |
+| 52 | 1.53 | India | 800 |
+| 53 | 1.53 | Malaysia | 140 |
 | 54 | 1.52 | Bolivia | 192 |
 | 55 | 1.51 | South Africa | 123 |
 | 56 | 1.50 | Laos | 2 |
@@ -84,9 +84,9 @@
 | 58 | 1.48 | Sweden | 435 |
 | 59 | 1.48 | Peru | 271 |
 | 60 | 1.45 | Australia | 625 |
-| 61 | 1.43 | Vietnam | 82 |
-| 62 | 1.42 | Israel | 86 |
-| 63 | 1.42 | Costa Rica | 36 |
+| 61 | 1.42 | Vietnam | 83 |
+| 62 | 1.42 | Costa Rica | 36 |
+| 63 | 1.41 | Israel | 87 |
 | 64 | 1.39 | Estonia | 74 |
 | 65 | 1.38 | Chinese Taipei | 175 |
 | 66 | 1.38 | Nigeria | 8 |
@@ -102,22 +102,22 @@
 | 76 | 1.32 | Bangladesh | 31 |
 | 77 | 1.30 | Jordan | 30 |
 | 78 | 1.28 | Uruguay | 64 |
-| 79 | 1.27 | Portugal | 77 |
-| 80 | 1.27 | Philippines | 437 |
-| 81 | 1.26 | Colombia | 580 |
-| 82 | 1.25 | Hong Kong, China | 32 |
+| 79 | 1.27 | Hong Kong, China | 33 |
+| 80 | 1.27 | Portugal | 77 |
+| 81 | 1.27 | Philippines | 438 |
+| 82 | 1.26 | Colombia | 581 |
 | 83 | 1.25 | Venezuela | 109 |
 | 84 | 1.25 | Chile | 178 |
 | 85 | 1.24 | El Salvador | 42 |
-| 86 | 1.23 | China | 788 |
+| 86 | 1.23 | China | 791 |
 | 87 | 1.23 | Egypt | 13 |
 | 88 | 1.22 | United Arab Emirates | 23 |
-| 89 | 1.21 | Panama | 33 |
-| 90 | 1.21 | Singapore | 125 |
+| 89 | 1.21 | Singapore | 125 |
+| 90 | 1.21 | Panama | 34 |
 | 91 | 1.19 | Morocco | 16 |
 | 92 | 1.17 | Japan | 286 |
 | 93 | 1.17 | Tunisia | 24 |
-| 94 | 1.16 | United States | 4340 |
+| 94 | 1.16 | United States | 4348 |
 | 95 | 1.16 | Canada | 540 |
 | 96 | 1.15 | Armenia | 13 |
 | 97 | 1.15 | Azerbaijan | 59 |
@@ -144,16 +144,17 @@
 | 118 | 1.00 | Malta | 4 |
 | 119 | 1.00 | Mauritius | 6 |
 | 120 | 1.00 | Moldova | 5 |
-| 121 | 1.00 | Mozambique | 1 |
-| 122 | 1.00 | Namibia | 1 |
-| 123 | 1.00 | Oman | 2 |
-| 124 | 1.00 | Pakistan | 3 |
-| 125 | 1.00 | Samoa | 1 |
-| 126 | 1.00 | Syria | 1 |
-| 127 | 1.00 | Tonga | 1 |
-| 128 | 1.00 | Trinidad and Tobago | 1 |
-| 129 | 1.00 | Uganda | 1 |
-| 130 | 1.00 | Zambia | 2 |
+| 121 | 1.00 | Monaco | 1 |
+| 122 | 1.00 | Mozambique | 1 |
+| 123 | 1.00 | Namibia | 1 |
+| 124 | 1.00 | Oman | 2 |
+| 125 | 1.00 | Pakistan | 3 |
+| 126 | 1.00 | Samoa | 1 |
+| 127 | 1.00 | Syria | 1 |
+| 128 | 1.00 | Tonga | 1 |
+| 129 | 1.00 | Trinidad and Tobago | 1 |
+| 130 | 1.00 | Uganda | 1 |
+| 131 | 1.00 | Zambia | 2 |
 
 
 <a href="https://github.com/JustinTimeCuber/wca_statistics" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>
