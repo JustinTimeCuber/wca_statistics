@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 10 October 2026*
+*Updated on 13 October 2026*
 
 
 ### Rubik's Cube
@@ -830,19 +830,19 @@
 | 85 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 22 | **22.67** | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/all#e333fm_f) | 16 |
 | 86 | [Louis-Marie Ratto](https://www.worldcubeassociation.org/persons/2019RATT02) | 22 | **22.67** | [Europe FMC Friends - Winter 2025](https://www.worldcubeassociation.org/competitions/EuropeFMCFriendsWinter2025/results/all#e333fm_f) | 5 |
 | 87 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 22 | **22.67** | [FMC 2024](https://www.worldcubeassociation.org/competitions/FMC2024/results/all#e333fm_f) | 8 |
-| 88 | [Alexis Le Merrer](https://www.worldcubeassociation.org/persons/2019MERR02) | 22 | **22.67** | [FMC French Championship 2025](https://www.worldcubeassociation.org/competitions/FMCFrenchChampionship2025/results/all#e333fm_f) | 4 |
-| 89 | [Benjamin Kyle](https://www.worldcubeassociation.org/persons/2016KYLE01) | 22 | **22.67** | [NAC 2026](https://www.worldcubeassociation.org/competitions/NAC2026/results/all#e333fm_f) | 4 |
-| 90 | [Joshua Hounslow](https://www.worldcubeassociation.org/persons/2016HOUN01) | 22 | **22.67** | [OC FMC 2024](https://www.worldcubeassociation.org/competitions/OCFMC2024/results/all#e333fm_f) | 5 |
-| 91 | [Louis-Marie Ratto](https://www.worldcubeassociation.org/persons/2019RATT02) | 22 | **22.67** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#e333fm_f) | 8 |
-| 92 | [Yongqiang Peng (彭永强)](https://www.worldcubeassociation.org/persons/2013PENG02) | 17 | **23.00** | [More Than One Cube Shanghai 2026](https://www.worldcubeassociation.org/competitions/MoreThanOneCubeShanghai2026/results/all#e333fm_f) | 5 |
-| 93 | [Jackson Warley](https://www.worldcubeassociation.org/persons/2008WARL01) | 18 | **23.00** | [NAC 2026](https://www.worldcubeassociation.org/competitions/NAC2026/results/all#e333fm_f) | 5 |
-| 94 | [Tomohiro Kobayashi (小林知広)](https://www.worldcubeassociation.org/persons/2013KOBA01) | 19 | **23.00** | [FMC World 2026](https://www.worldcubeassociation.org/competitions/FMCWorld2026/results/all#e333fm_f) | 43 |
-| 95 | [Qijun Miao (缪其隽)](https://www.worldcubeassociation.org/persons/2014MIAO02) | 20 | **23.00** | [FMCanton Haizhu 2026](https://www.worldcubeassociation.org/competitions/FMCantonHaizhu2026/results/all#e333fm_f) | 4 |
-| 96 | [Nicolas Gertner Kilian](https://www.worldcubeassociation.org/persons/2013GERT01) | 20 | **23.00** | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024/results/all#e333fm_f) | 7 |
-| 97 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 20 | **23.00** | [FMC LIVE - North America 2025](https://www.worldcubeassociation.org/competitions/FMCLIVENorthAmerica2025/results/all#e333fm_f) | 4 |
-| 98 | [Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01) | 21 | **23.00** | [CubingUSA Nationals 2023](https://www.worldcubeassociation.org/competitions/CubingUSANationals2023/results/all#e333fm_f) | 4 |
-| 99 | [Szabolcs Szántai](https://www.worldcubeassociation.org/persons/2016SZAN01) | 21 | **23.00** | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/all#e333fm_f) | 18 |
-| 100 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) | 21 | **23.00** | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/all#e333fm_f) | 18 |
+| 88 | [Adam Marcellus Kelly](https://www.worldcubeassociation.org/persons/2016KELL10) | 22 | **22.67** | [FMC Europe 2026](https://www.worldcubeassociation.org/competitions/FMCEurope2026/results/all#e333fm_f) | 4 |
+| 89 | [Moritz Lotz](https://www.worldcubeassociation.org/persons/2017LOTZ01) | 22 | **22.67** | [FMC Europe 2026](https://www.worldcubeassociation.org/competitions/FMCEurope2026/results/all#e333fm_f) | 4 |
+| 90 | [Alexis Le Merrer](https://www.worldcubeassociation.org/persons/2019MERR02) | 22 | **22.67** | [FMC French Championship 2025](https://www.worldcubeassociation.org/competitions/FMCFrenchChampionship2025/results/all#e333fm_f) | 4 |
+| 91 | [Benjamin Kyle](https://www.worldcubeassociation.org/persons/2016KYLE01) | 22 | **22.67** | [NAC 2026](https://www.worldcubeassociation.org/competitions/NAC2026/results/all#e333fm_f) | 4 |
+| 92 | [Joshua Hounslow](https://www.worldcubeassociation.org/persons/2016HOUN01) | 22 | **22.67** | [OC FMC 2024](https://www.worldcubeassociation.org/competitions/OCFMC2024/results/all#e333fm_f) | 5 |
+| 93 | [Louis-Marie Ratto](https://www.worldcubeassociation.org/persons/2019RATT02) | 22 | **22.67** | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#e333fm_f) | 8 |
+| 94 | [Yongqiang Peng (彭永强)](https://www.worldcubeassociation.org/persons/2013PENG02) | 17 | **23.00** | [More Than One Cube Shanghai 2026](https://www.worldcubeassociation.org/competitions/MoreThanOneCubeShanghai2026/results/all#e333fm_f) | 5 |
+| 95 | [Jackson Warley](https://www.worldcubeassociation.org/persons/2008WARL01) | 18 | **23.00** | [NAC 2026](https://www.worldcubeassociation.org/competitions/NAC2026/results/all#e333fm_f) | 5 |
+| 96 | [Tomohiro Kobayashi (小林知広)](https://www.worldcubeassociation.org/persons/2013KOBA01) | 19 | **23.00** | [FMC World 2026](https://www.worldcubeassociation.org/competitions/FMCWorld2026/results/all#e333fm_f) | 43 |
+| 97 | [Qijun Miao (缪其隽)](https://www.worldcubeassociation.org/persons/2014MIAO02) | 20 | **23.00** | [FMCanton Haizhu 2026](https://www.worldcubeassociation.org/competitions/FMCantonHaizhu2026/results/all#e333fm_f) | 4 |
+| 98 | [Nicolas Gertner Kilian](https://www.worldcubeassociation.org/persons/2013GERT01) | 20 | **23.00** | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024/results/all#e333fm_f) | 7 |
+| 99 | [Nicolas Gertner Kilian](https://www.worldcubeassociation.org/persons/2013GERT01) | 20 | **23.00** | [FMC Europe 2026](https://www.worldcubeassociation.org/competitions/FMCEurope2026/results/all#e333fm_f) | 6 |
+| 100 | [Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10) | 20 | **23.00** | [FMC LIVE - North America 2025](https://www.worldcubeassociation.org/competitions/FMCLIVENorthAmerica2025/results/all#e333fm_f) | 4 |
 
 ### 3x3x3 One-Handed
 
