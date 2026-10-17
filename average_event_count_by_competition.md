@@ -951,7 +951,7 @@
 | 944 | [Oxford Open 2014](https://www.worldcubeassociation.org/competitions/OxfordOpen2014) | 6.91 | 43 | United Kingdom |
 | 945 | [Swedish Championship 2018](https://www.worldcubeassociation.org/competitions/SwedishChampionship2018) | 6.91 | 148 | Sweden |
 | 946 | [Italian Championship 2016](https://www.worldcubeassociation.org/competitions/ItalianChampionship2016) | 6.90 | 104 | Italy |
-| 947 | [ Kyrgyzstan Nationals 2025](https://www.worldcubeassociation.org/competitions/KyrgyzstanNationals2025) | 6.90 | 31 | Kyrgyzstan |
+| 947 | [Kyrgyzstan Nationals 2025](https://www.worldcubeassociation.org/competitions/KyrgyzstanNationals2025) | 6.90 | 31 | Kyrgyzstan |
 | 948 | [Cube4fun Lublin on POLLUB 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinonPOLLUB2026) | 6.90 | 72 | Poland |
 | 949 | [Northeast Championship 2022](https://www.worldcubeassociation.org/competitions/NortheastChampionship2022) | 6.90 | 266 | United States |
 | 950 | [Stevenage 10th Anniversary 2025](https://www.worldcubeassociation.org/competitions/Stevenage10thAnniversary2025) | 6.90 | 193 | United Kingdom |

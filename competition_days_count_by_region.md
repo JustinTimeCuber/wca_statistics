@@ -7,7 +7,7 @@
 
 | Rank | Days | Region | Competitions |
 | :--- | ---: | :--- | ---: |
-| 1 | 1.45 | World | 18856 |
+| 1 | 1.45 | World | 18858 |
 
 ### Continents
 
@@ -18,7 +18,7 @@
 | 3 | 1.45 | South America | 2417 |
 | 4 | 1.40 | Asia | 3807 |
 | 5 | 1.31 | Africa | 260 |
-| 6 | 1.21 | North America | 5439 |
+| 6 | 1.21 | North America | 5441 |
 
 ### Countries
 
@@ -117,8 +117,8 @@
 | 91 | 1.19 | Morocco | 16 |
 | 92 | 1.17 | Japan | 286 |
 | 93 | 1.17 | Tunisia | 24 |
-| 94 | 1.16 | United States | 4364 |
-| 95 | 1.16 | Canada | 540 |
+| 94 | 1.16 | United States | 4365 |
+| 95 | 1.16 | Canada | 541 |
 | 96 | 1.15 | Armenia | 13 |
 | 97 | 1.15 | Azerbaijan | 59 |
 | 98 | 1.14 | Mongolia | 64 |

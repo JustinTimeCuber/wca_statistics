@@ -284,20 +284,20 @@
 | 277 | [Lev Bruskov (Лев Брусков)](https://www.worldcubeassociation.org/persons/2019BRUS01) | **18** | 6 | 4 | 28 |
 | 278 | [Muhammad Saleh Imtiaz](https://www.worldcubeassociation.org/persons/2018IMTI01) | **18** | 6 | 4 | 28 |
 | 279 | [Andy Mok Man Cheuk (莫文卓)](https://www.worldcubeassociation.org/persons/2016CHEU04) | **17** | 34 | 49 | 100 |
-| 280 | [Mohammad Ahmad Abu Hussein](https://www.worldcubeassociation.org/persons/2018HUSS07) | **17** | 20 | 27 | 64 |
-| 281 | [Ge Shi (石歌)](https://www.worldcubeassociation.org/persons/2024GESH01) | **17** | 20 | 18 | 55 |
-| 282 | [Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01) | **17** | 18 | 15 | 50 |
-| 283 | [Alwin Federsel](https://www.worldcubeassociation.org/persons/2022FEDE01) | **17** | 16 | 6 | 39 |
-| 284 | [Riccardo Fiumefreddo](https://www.worldcubeassociation.org/persons/2024RICC01) | **17** | 13 | 11 | 41 |
-| 285 | [Rama Temmink](https://www.worldcubeassociation.org/persons/2006TEMM01) | **17** | 12 | 12 | 41 |
-| 286 | [Ryan Chan](https://www.worldcubeassociation.org/persons/2023CHAN16) | **17** | 11 | 14 | 42 |
-| 287 | [Christofor Gabriel Costea](https://www.worldcubeassociation.org/persons/2022COST03) | **17** | 11 | 4 | 32 |
-| 288 | [Assylkhan Meirkhanov (Асылхан Мейрханов)](https://www.worldcubeassociation.org/persons/2018MEIR04) | **17** | 10 | 8 | 35 |
-| 289 | [Hrishikesh Kakati](https://www.worldcubeassociation.org/persons/2022KAKA01) | **17** | 4 | 3 | 24 |
-| 290 | [Elliott Kobelansky](https://www.worldcubeassociation.org/persons/2019KOBE03) | **17** | 3 | 5 | 25 |
-| 291 | [Ádám Barta](https://www.worldcubeassociation.org/persons/2009BART02) | **17** | 2 | 3 | 22 |
-| 292 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) | **16** | 42 | 52 | 110 |
-| 293 | [Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12) | **16** | 31 | 35 | 82 |
+| 280 | [Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12) | **17** | 33 | 36 | 86 |
+| 281 | [Mohammad Ahmad Abu Hussein](https://www.worldcubeassociation.org/persons/2018HUSS07) | **17** | 20 | 27 | 64 |
+| 282 | [Ge Shi (石歌)](https://www.worldcubeassociation.org/persons/2024GESH01) | **17** | 20 | 18 | 55 |
+| 283 | [Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01) | **17** | 18 | 15 | 50 |
+| 284 | [Alwin Federsel](https://www.worldcubeassociation.org/persons/2022FEDE01) | **17** | 16 | 6 | 39 |
+| 285 | [Riccardo Fiumefreddo](https://www.worldcubeassociation.org/persons/2024RICC01) | **17** | 13 | 11 | 41 |
+| 286 | [Rama Temmink](https://www.worldcubeassociation.org/persons/2006TEMM01) | **17** | 12 | 12 | 41 |
+| 287 | [Ryan Chan](https://www.worldcubeassociation.org/persons/2023CHAN16) | **17** | 11 | 14 | 42 |
+| 288 | [Christofor Gabriel Costea](https://www.worldcubeassociation.org/persons/2022COST03) | **17** | 11 | 4 | 32 |
+| 289 | [Assylkhan Meirkhanov (Асылхан Мейрханов)](https://www.worldcubeassociation.org/persons/2018MEIR04) | **17** | 10 | 8 | 35 |
+| 290 | [Hrishikesh Kakati](https://www.worldcubeassociation.org/persons/2022KAKA01) | **17** | 4 | 3 | 24 |
+| 291 | [Elliott Kobelansky](https://www.worldcubeassociation.org/persons/2019KOBE03) | **17** | 3 | 5 | 25 |
+| 292 | [Ádám Barta](https://www.worldcubeassociation.org/persons/2009BART02) | **17** | 2 | 3 | 22 |
+| 293 | [Arnaud van Galen](https://www.worldcubeassociation.org/persons/2006GALE01) | **16** | 42 | 52 | 110 |
 | 294 | [Jensen Belen-Brown](https://www.worldcubeassociation.org/persons/2016BELE02) | **16** | 28 | 34 | 78 |
 | 295 | [Chao-Che Chung (鍾肇哲)](https://www.worldcubeassociation.org/persons/2012CHON03) | **16** | 24 | 17 | 57 |
 | 296 | [Bertalan Bodor](https://www.worldcubeassociation.org/persons/2007BODO01) | **16** | 20 | 19 | 55 |
