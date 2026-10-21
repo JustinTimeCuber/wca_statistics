@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 19 October 2026*
+*Updated on 20 October 2026*
 
 
 ### Rubik's Cube
@@ -514,20 +514,20 @@
 | 84 | 0.21 | [Owen Widdis](https://www.worldcubeassociation.org/persons/2015WIDD01) | 2:32.49 | 2:32.70 | [Pittsburgh Fall 2021](https://www.worldcubeassociation.org/competitions/PittsburghFall2021/results/by_person#2015WIDD01) |
 | 85 | 0.21 | [Fabian Settelen](https://www.worldcubeassociation.org/persons/2015SETT01) | 3:03.76 | 3:03.97 | [Swisscubing Cup MB I 2025](https://www.worldcubeassociation.org/competitions/SwisscubingCupMBI2025/results/by_person#2015SETT01) |
 | 86 | 0.22 | [Yueh-Lin Tsai (蔡岳霖)](https://www.worldcubeassociation.org/persons/2006TSAI03) | 1:51.48 | 1:51.70 | [Chien Kuo Cubing Party 2026](https://www.worldcubeassociation.org/competitions/ChienKuoCubingParty2026/results/by_person#2006TSAI03) |
-| 87 | 0.22 | [Tsang Hon Pong (曾漢邦)](https://www.worldcubeassociation.org/persons/2014PONG01) | 2:46.80 | 2:47.02 | [Selangor Ace Cube 2023](https://www.worldcubeassociation.org/competitions/SelangorAceCube2023/results/by_person#2014PONG01) |
-| 88 | 0.22 | [Isaac Lai Yin Chung](https://www.worldcubeassociation.org/persons/2015LAII01) | 2:48.44 | 2:48.66 | [Singapore Special 2017](https://www.worldcubeassociation.org/competitions/SingaporeSpecial2017/results/by_person#2015LAII01) |
-| 89 | 0.23 | [Tiago Akihiro Fujita](https://www.worldcubeassociation.org/persons/2019FUJI09) | 1:40.17 | 1:40.40 | [Aquático Aclimação Open 2026](https://www.worldcubeassociation.org/competitions/AquaticoAclimacaoOpen2026/results/by_person#2019FUJI09) |
-| 90 | 0.23 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 1:40.30 | 1:40.53 | [PST Łuków 2019](https://www.worldcubeassociation.org/competitions/PSTLukow2019/results/by_person#2006HALC01) |
-| 91 | 0.23 | [Magnus Patrick Kanstrup](https://www.worldcubeassociation.org/persons/2015KANS01) | 1:42.64 | 1:42.87 | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/by_person#2015KANS01) |
-| 92 | 0.23 | [Shubham Maharana](https://www.worldcubeassociation.org/persons/2016MAHA07) | 2:06.59 | 2:06.82 | [Korum Cube Challenge 2024](https://www.worldcubeassociation.org/competitions/KorumCubeChallenge2024/results/by_person#2016MAHA07) |
-| 93 | 0.24 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | 1:25.80 | 1:26.04 | [Johor Big Cube Challenge 2023](https://www.worldcubeassociation.org/competitions/JohorBigCubeChallenge2023/results/by_person#2012ZHAN08) |
-| 94 | 0.24 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | 1:36.13 | 1:36.37 | [Hessen Open 2024](https://www.worldcubeassociation.org/competitions/HessenOpen2024/results/by_person#2016ROLZ01) |
-| 95 | 0.24 | [Eder Olivencia González](https://www.worldcubeassociation.org/persons/2012GONZ10) | 1:36.83 | 1:37.07 | [Nhood Alcalá Mystery Open 2023](https://www.worldcubeassociation.org/competitions/NhoodAlcalaMysteryOpen2023/results/by_person#2012GONZ10) |
-| 96 | 0.24 | [Ivo Stoutjesdijk](https://www.worldcubeassociation.org/persons/2019STOU02) | 1:46.42 | 1:46.66 | [Kölner Kubing 2026](https://www.worldcubeassociation.org/competitions/KolnerKubing2026/results/by_person#2019STOU02) |
-| 97 | 0.24 | [Aditya Bareja](https://www.worldcubeassociation.org/persons/2022BARE01) | 1:47.21 | 1:47.45 | [Shri Ram Cubing Challenge 2024](https://www.worldcubeassociation.org/competitions/ShriRamCubingChallenge2024/results/by_person#2022BARE01) |
-| 98 | 0.24 | [Joel Cetra](https://www.worldcubeassociation.org/persons/2016CETR01) | 1:53.25 | 1:53.49 | [Rubik's German Nationals 2024](https://www.worldcubeassociation.org/competitions/RubiksGermanNationals2024/results/by_person#2016CETR01) |
-| 99 | 0.24 | [Casey Ngo](https://www.worldcubeassociation.org/persons/2017NGOC03) | 1:53.86 | 1:54.10 | [Cube Against Cancer Edmond 2025](https://www.worldcubeassociation.org/competitions/CubeAgainstCancerEdmond2025/results/by_person#2017NGOC03) |
-| 100 | 0.24 | [Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03) | 2:04.64 | 2:04.88 | [Medan 10th Anniversary 2019](https://www.worldcubeassociation.org/competitions/Medan10thAnniversary2019/results/by_person#2015QUAN03) |
+| 87 | 0.22 | [Nathan Evan Sherman](https://www.worldcubeassociation.org/persons/2018SHER03) | 2:41.27 | 2:41.49 | [Tupper Lake 2026](https://www.worldcubeassociation.org/competitions/TupperLake2026/results/by_person#2018SHER03) |
+| 88 | 0.22 | [Tsang Hon Pong (曾漢邦)](https://www.worldcubeassociation.org/persons/2014PONG01) | 2:46.80 | 2:47.02 | [Selangor Ace Cube 2023](https://www.worldcubeassociation.org/competitions/SelangorAceCube2023/results/by_person#2014PONG01) |
+| 89 | 0.22 | [Isaac Lai Yin Chung](https://www.worldcubeassociation.org/persons/2015LAII01) | 2:48.44 | 2:48.66 | [Singapore Special 2017](https://www.worldcubeassociation.org/competitions/SingaporeSpecial2017/results/by_person#2015LAII01) |
+| 90 | 0.23 | [Tiago Akihiro Fujita](https://www.worldcubeassociation.org/persons/2019FUJI09) | 1:40.17 | 1:40.40 | [Aquático Aclimação Open 2026](https://www.worldcubeassociation.org/competitions/AquaticoAclimacaoOpen2026/results/by_person#2019FUJI09) |
+| 91 | 0.23 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 1:40.30 | 1:40.53 | [PST Łuków 2019](https://www.worldcubeassociation.org/competitions/PSTLukow2019/results/by_person#2006HALC01) |
+| 92 | 0.23 | [Magnus Patrick Kanstrup](https://www.worldcubeassociation.org/persons/2015KANS01) | 1:42.64 | 1:42.87 | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/by_person#2015KANS01) |
+| 93 | 0.23 | [Shubham Maharana](https://www.worldcubeassociation.org/persons/2016MAHA07) | 2:06.59 | 2:06.82 | [Korum Cube Challenge 2024](https://www.worldcubeassociation.org/competitions/KorumCubeChallenge2024/results/by_person#2016MAHA07) |
+| 94 | 0.24 | [Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08) | 1:25.80 | 1:26.04 | [Johor Big Cube Challenge 2023](https://www.worldcubeassociation.org/competitions/JohorBigCubeChallenge2023/results/by_person#2012ZHAN08) |
+| 95 | 0.24 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) | 1:36.13 | 1:36.37 | [Hessen Open 2024](https://www.worldcubeassociation.org/competitions/HessenOpen2024/results/by_person#2016ROLZ01) |
+| 96 | 0.24 | [Eder Olivencia González](https://www.worldcubeassociation.org/persons/2012GONZ10) | 1:36.83 | 1:37.07 | [Nhood Alcalá Mystery Open 2023](https://www.worldcubeassociation.org/competitions/NhoodAlcalaMysteryOpen2023/results/by_person#2012GONZ10) |
+| 97 | 0.24 | [Ivo Stoutjesdijk](https://www.worldcubeassociation.org/persons/2019STOU02) | 1:46.42 | 1:46.66 | [Kölner Kubing 2026](https://www.worldcubeassociation.org/competitions/KolnerKubing2026/results/by_person#2019STOU02) |
+| 98 | 0.24 | [Aditya Bareja](https://www.worldcubeassociation.org/persons/2022BARE01) | 1:47.21 | 1:47.45 | [Shri Ram Cubing Challenge 2024](https://www.worldcubeassociation.org/competitions/ShriRamCubingChallenge2024/results/by_person#2022BARE01) |
+| 99 | 0.24 | [Joel Cetra](https://www.worldcubeassociation.org/persons/2016CETR01) | 1:53.25 | 1:53.49 | [Rubik's German Nationals 2024](https://www.worldcubeassociation.org/competitions/RubiksGermanNationals2024/results/by_person#2016CETR01) |
+| 100 | 0.24 | [Casey Ngo](https://www.worldcubeassociation.org/persons/2017NGOC03) | 1:53.86 | 1:54.10 | [Cube Against Cancer Edmond 2025](https://www.worldcubeassociation.org/competitions/CubeAgainstCancerEdmond2025/results/by_person#2017NGOC03) |
 
 ### 7x7x7 Cube
 
