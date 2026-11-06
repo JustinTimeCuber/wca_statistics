@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 23 October 2026*
+*Updated on  4 November 2026*
 
 | Rank | WRs | Person |
 | :--- | ---: | :--- |
@@ -760,7 +760,7 @@
 | 753 | 25 | [Natthaphat Mahtani (ณัฐภัทร จี มาทานี)](https://www.worldcubeassociation.org/persons/2011MAHT02) |
 | 754 | 25 | [Emanuel Rheinert](https://www.worldcubeassociation.org/persons/2011RHEI01) |
 | 755 | 25 | [Natán Riggenbach](https://www.worldcubeassociation.org/persons/2011RIGG03) |
-| 756 | 25 | [Carmen Teo Bin Jie (张斌婕)](https://www.worldcubeassociation.org/persons/2012JIET01) |
+| 756 | 25 | [Carmen Teo (张斌婕)](https://www.worldcubeassociation.org/persons/2012JIET01) |
 | 757 | 25 | [Tijmen van der Ree](https://www.worldcubeassociation.org/persons/2016REET01) |
 | 758 | 25 | [Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01) |
 | 759 | 25 | [Ziyu Wu (吴子钰)](https://www.worldcubeassociation.org/persons/2016WUZI04) |

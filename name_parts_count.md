@@ -1,17 +1,17 @@
 ## Name parts count
 
 *Note: Local names within parentheses are ignored.*
-*Updated on 23 October 2026*
+*Updated on  4 November 2026*
 
 | Parts | People | Countries of origin |
 | :--: | ---: | :--- |
-| 1 | 503 | India *(27.83 %)*, Indonesia *(20.28 %)*, United States *(10.34 %)*, China *(5.77 %)*, Canada *(2.98 %)* |
-| 2 | 219479 | United States *(25.51 %)*, China *(13.52 %)*, India *(7.36 %)*, Australia *(5.05 %)*, Canada *(4.53 %)* |
-| 3 | 50701 | United States *(12.07 %)*, India *(9.33 %)*, Spain *(8.14 %)*, Brazil *(7.17 %)*, Philippines *(5.60 %)* |
-| 4 | 25869 | Brazil *(14.48 %)*, Colombia *(12.77 %)*, Peru *(9.60 %)*, Mexico *(9.52 %)*, Philippines *(7.32 %)* |
-| 5 | 3411 | Brazil *(53.59 %)*, Malaysia *(11.73 %)*, Philippines *(5.72 %)*, Peru *(4.81 %)*, Spain *(2.96 %)* |
-| 6 | 726 | Brazil *(42.29 %)*, Malaysia *(32.64 %)*, Mexico *(4.27 %)*, Peru *(4.13 %)*, Spain *(1.52 %)* |
-| 7 | 84 | Brazil *(44.05 %)*, Malaysia *(38.10 %)*, Portugal *(8.33 %)*, Egypt *(2.38 %)*, Spain *(1.19 %)* |
+| 1 | 507 | India *(27.81 %)*, Indonesia *(20.32 %)*, United States *(10.26 %)*, China *(5.72 %)*, Canada *(2.96 %)* |
+| 2 | 220222 | United States *(25.51 %)*, China *(13.57 %)*, India *(7.36 %)*, Australia *(5.04 %)*, Canada *(4.52 %)* |
+| 3 | 50954 | United States *(12.05 %)*, India *(9.33 %)*, Spain *(8.18 %)*, Brazil *(7.16 %)*, Philippines *(5.60 %)* |
+| 4 | 25977 | Brazil *(14.48 %)*, Colombia *(12.77 %)*, Peru *(9.56 %)*, Mexico *(9.51 %)*, Philippines *(7.39 %)* |
+| 5 | 3422 | Brazil *(53.65 %)*, Malaysia *(11.66 %)*, Philippines *(5.70 %)*, Peru *(4.79 %)*, Spain *(2.95 %)* |
+| 6 | 728 | Brazil *(42.31 %)*, Malaysia *(32.55 %)*, Mexico *(4.26 %)*, Peru *(4.12 %)*, Spain *(1.51 %)* |
+| 7 | 85 | Brazil *(44.71 %)*, Malaysia *(37.65 %)*, Portugal *(8.24 %)*, Egypt *(2.35 %)*, Spain *(1.18 %)* |
 | 8 | 11 | Brazil *(36.36 %)*, Malaysia *(27.27 %)*, Dominican Republic *(9.09 %)*, Egypt *(9.09 %)*, Angola *(9.09 %)* |
 | 9 | 1 | Malaysia *(100.00 %)* |
 | 10 | 1 | Malaysia *(100.00 %)* |
