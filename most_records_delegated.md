@@ -1,11 +1,11 @@
 ## Most records delegated
 
 *Note: Counts World Records (WR), Continental Records (CR), and National Records (NR) achieved in competitions where the person was the official delegate.*
-*Updated on  7 November 2026*
+*Updated on  9 November 2026*
 
 | Rank | Records | WR | CR | NR | Delegate |
 | :--- | ---: | ---: | ---: | ---: | :--- |
-| 1 | 4180 | 184 | 306 | 3690 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
+| 1 | 4187 | 184 | 306 | 3697 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) |
 | 2 | 2024 | 43 | 128 | 1853 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) |
 | 3 | 1638 | 16 | 43 | 1579 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) |
 | 4 | 1219 | 8 | 41 | 1170 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) |
@@ -37,14 +37,14 @@
 | 30 | 628 | 0 | 0 | 628 | [Mihai Căpăţinescu](https://www.worldcubeassociation.org/persons/2012CAPA01) |
 | 31 | 622 | 8 | 80 | 534 | [Alex Asbery](https://www.worldcubeassociation.org/persons/2013ASBE01) |
 | 32 | 620 | 11 | 36 | 573 | [Leow Yi Jun (廖艺畯)](https://www.worldcubeassociation.org/persons/2010JUNL02) |
-| 33 | 585 | 7 | 15 | 563 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) |
-| 34 | 585 | 15 | 33 | 537 | [Sarah Strong](https://www.worldcubeassociation.org/persons/2007STRO01) |
-| 35 | 585 | 3 | 38 | 544 | [Rubén López de Juan](https://www.worldcubeassociation.org/persons/2016LOPE37) |
+| 33 | 586 | 3 | 38 | 545 | [Rubén López de Juan](https://www.worldcubeassociation.org/persons/2016LOPE37) |
+| 34 | 585 | 7 | 15 | 563 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) |
+| 35 | 585 | 15 | 33 | 537 | [Sarah Strong](https://www.worldcubeassociation.org/persons/2007STRO01) |
 | 36 | 577 | 16 | 86 | 475 | [Edward Hollingdale](https://www.worldcubeassociation.org/persons/2011HOLL04) |
 | 37 | 571 | 9 | 159 | 403 | [Dave Campbell](https://www.worldcubeassociation.org/persons/2005CAMP01) |
-| 38 | 565 | 2 | 44 | 519 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |
+| 38 | 566 | 2 | 44 | 520 | [Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02) |
 | 39 | 558 | 3 | 26 | 529 | [Tanai Chaikraveephand (ธนัย ชัยกระวีพันธ์)](https://www.worldcubeassociation.org/persons/2009CHAI01) |
-| 40 | 545 | 3 | 17 | 525 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
+| 40 | 546 | 3 | 17 | 526 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) |
 | 41 | 545 | 5 | 11 | 529 | [Jānis Zirnis](https://www.worldcubeassociation.org/persons/2013ZIRN01) |
 | 42 | 543 | 8 | 39 | 496 | [Luis J. Iáñez](https://www.worldcubeassociation.org/persons/2009PARE02) |
 | 43 | 543 | 3 | 10 | 530 | [Joel Hernández](https://www.worldcubeassociation.org/persons/2007HERN02) |
@@ -52,13 +52,13 @@
 | 45 | 540 | 4 | 34 | 502 | [Anton Piau](https://www.worldcubeassociation.org/persons/2008PIAU01) |
 | 46 | 539 | 5 | 48 | 486 | [Pauline Bonnaudet](https://www.worldcubeassociation.org/persons/2009BONN01) |
 | 47 | 527 | 9 | 23 | 495 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) |
-| 48 | 525 | 6 | 23 | 496 | [Tomi Ronkainen](https://www.worldcubeassociation.org/persons/2012RONK01) |
+| 48 | 526 | 6 | 23 | 497 | [Tomi Ronkainen](https://www.worldcubeassociation.org/persons/2012RONK01) |
 | 49 | 516 | 3 | 20 | 493 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
-| 50 | 507 | 21 | 71 | 415 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
-| 51 | 505 | 33 | 13 | 459 | [Anders Larsson](https://www.worldcubeassociation.org/persons/2003LARS01) |
-| 52 | 505 | 1 | 2 | 502 | [Roman Ostapenko (Роман Остапенко)](https://www.worldcubeassociation.org/persons/2009OSTA01) |
-| 53 | 504 | 14 | 58 | 432 | [Chatchawan Jaruwattanakun (ชัชวาลย์ จารุวัฒนกุล)](https://www.worldcubeassociation.org/persons/2009JARU02) |
-| 54 | 502 | 0 | 19 | 483 | [Viktor Zenk](https://www.worldcubeassociation.org/persons/2016ZENK01) |
+| 50 | 508 | 0 | 19 | 489 | [Viktor Zenk](https://www.worldcubeassociation.org/persons/2016ZENK01) |
+| 51 | 507 | 21 | 71 | 415 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) |
+| 52 | 506 | 1 | 2 | 503 | [Roman Ostapenko (Роман Остапенко)](https://www.worldcubeassociation.org/persons/2009OSTA01) |
+| 53 | 505 | 33 | 13 | 459 | [Anders Larsson](https://www.worldcubeassociation.org/persons/2003LARS01) |
+| 54 | 504 | 14 | 58 | 432 | [Chatchawan Jaruwattanakun (ชัชวาลย์ จารุวัฒนกุล)](https://www.worldcubeassociation.org/persons/2009JARU02) |
 | 55 | 501 | 15 | 96 | 390 | [Ilkyoo Choi (최일규)](https://www.worldcubeassociation.org/persons/2008CHOI04) |
 | 56 | 499 | 6 | 12 | 481 | [Petra Kobal Vogrinec](https://www.worldcubeassociation.org/persons/2010VOGR01) |
 | 57 | 497 | 3 | 11 | 483 | [Akash Rupela](https://www.worldcubeassociation.org/persons/2012RUPE01) |
@@ -90,8 +90,8 @@
 | 83 | 392 | 2 | 4 | 386 | [İskender Aznavur](https://www.worldcubeassociation.org/persons/2013AZNA01) |
 | 84 | 389 | 35 | 143 | 211 | [Bob Burton](https://www.worldcubeassociation.org/persons/2003BURT01) |
 | 85 | 388 | 12 | 66 | 310 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) |
-| 86 | 385 | 27 | 64 | 294 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) |
-| 87 | 385 | 5 | 74 | 306 | [Patrick Kleverlaan](https://www.worldcubeassociation.org/persons/2019KLEV01) |
+| 86 | 386 | 5 | 74 | 307 | [Patrick Kleverlaan](https://www.worldcubeassociation.org/persons/2019KLEV01) |
+| 87 | 385 | 27 | 64 | 294 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) |
 | 88 | 378 | 7 | 19 | 352 | [Abdullah Gulab](https://www.worldcubeassociation.org/persons/2014GULA02) |
 | 89 | 375 | 4 | 15 | 356 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) |
 | 90 | 370 | 9 | 23 | 338 | [Jean-Louis Mathieu](https://www.worldcubeassociation.org/persons/2006MATH01) |

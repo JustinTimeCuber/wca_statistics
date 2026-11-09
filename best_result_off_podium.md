@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on  7 November 2026*
+*Updated on  9 November 2026*
 
 
 ### Rubik's Cube
@@ -191,28 +191,28 @@
 | 76 | [Will Callan](https://www.worldcubeassociation.org/persons/2012CALL01) | 1.38 | **1.53** | [NAC 2026](https://www.worldcubeassociation.org/competitions/NAC2026/results/all#e222_f) | 5 |
 | 77 | [Vaibhav-Jai Ravipati](https://www.worldcubeassociation.org/persons/2021RAVI01) | 0.77 | **1.54** | [Australian Nationals 2025](https://www.worldcubeassociation.org/competitions/AustralianNationals2025/results/all#e222_f) | 4 |
 | 78 | [Alexander Vujcich](https://www.worldcubeassociation.org/persons/2019VUJC01) | 0.83 | **1.54** | [Australian Nationals 2024](https://www.worldcubeassociation.org/competitions/AustralianNationals2024/results/all#e222_f) | 4 |
-| 79 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 0.90 | **1.54** | [Southeast Championship 2025](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2025/results/all#e222_f) | 5 |
-| 80 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 0.94 | **1.54** | [Great Lakes Championship 2026](https://www.worldcubeassociation.org/competitions/GreatLakesChampionship2026/results/all#e222_f) | 6 |
-| 81 | [Darshan Bhavanasi](https://www.worldcubeassociation.org/persons/2022BHAV01) | 0.99 | **1.54** | [Great Lakes Championship 2026](https://www.worldcubeassociation.org/competitions/GreatLakesChampionship2026/results/all#e222_f) | 7 |
-| 82 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | 1.02 | **1.54** | [Warm Up Seattle 2025](https://www.worldcubeassociation.org/competitions/WarmUpSeattle2025/results/all#e222_f) | 5 |
-| 83 | [Curtis Chai](https://www.worldcubeassociation.org/persons/2022CHAI02) | 1.14 | **1.54** | [Mid-Atlantic Championship 2025](https://www.worldcubeassociation.org/competitions/MidAtlanticChampionship2025/results/all#e222_f) | 4 |
-| 84 | [Chris Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) | 1.15 | **1.54** | [Connecticut Championship 2025](https://www.worldcubeassociation.org/competitions/ConnecticutChampionship2025/results/all#e222_f) | 6 |
-| 85 | [Shuda Huang (黄黍达)](https://www.worldcubeassociation.org/persons/2021HUAN02) | 1.20 | **1.54** | [Zhengzhou Zest 2025](https://www.worldcubeassociation.org/competitions/ZhengzhouZest2025/results/all#e222_f) | 4 |
-| 86 | [Bofan Zhang (张博藩)](https://www.worldcubeassociation.org/persons/2021ZHAN01) | 1.20 | **1.54** | [Zibo Open 2025](https://www.worldcubeassociation.org/competitions/ZiboOpen2025/results/all#e222_f) | 4 |
-| 87 | [Kaixi Guo (郭铠希)](https://www.worldcubeassociation.org/persons/2023GUOK01) | 1.31 | **1.54** | [Xuzhou Zenith 2026](https://www.worldcubeassociation.org/competitions/XuzhouZenith2026/results/all#e222_f) | 6 |
-| 88 | [Tian Xia (夏天)](https://www.worldcubeassociation.org/persons/2023XIAT01) | 1.38 | **1.54** | [Xi'an Cherry Blossom 2025](https://www.worldcubeassociation.org/competitions/XianCherryBlossom2025/results/all#e222_f) | 5 |
-| 89 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | 1.50 | **1.54** | [CFL Koluszki 2025](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueKoluszki2025/results/all#e222_f) | 4 |
-| 90 | [Connor Johnson](https://www.worldcubeassociation.org/persons/2022JOHN14) | 0.65 | **1.55** | [Australian Nationals 2025](https://www.worldcubeassociation.org/competitions/AustralianNationals2025/results/all#e222_f) | 5 |
-| 91 | [Qiyu Zhang (张淇奥)](https://www.worldcubeassociation.org/persons/2017ZHAQ04) | 0.84 | **1.55** | [Hangzhou Open 2026](https://www.worldcubeassociation.org/competitions/HangzhouOpen2026/results/all#e222_f) | 5 |
-| 92 | [Stefan Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD02) | 0.95 | **1.55** | [Energy Cube Ciechanów 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeCiechanow2024/results/all#e222_f) | 4 |
-| 93 | [Ryan Chan](https://www.worldcubeassociation.org/persons/2023CHAN16) | 1.06 | **1.55** | [Stevenage October 2025](https://www.worldcubeassociation.org/competitions/StevenageOctober2025/results/all#e222_f) | 4 |
-| 94 | [David Andron-Silva](https://www.worldcubeassociation.org/persons/2022SILV37) | 1.18 | **1.55** | [Brookline Favorites IV 2026](https://www.worldcubeassociation.org/competitions/BrooklineFavoritesIV2026/results/all#e222_f) | 4 |
-| 95 | [Harry Forbes](https://www.worldcubeassociation.org/persons/2021FORB01) | 1.24 | **1.55** | [Australian Nationals 2026](https://www.worldcubeassociation.org/competitions/AustralianNationals2026/results/all#e222_f) | 4 |
-| 96 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | 1.25 | **1.55** | [Chengdu Welcoming Summer 2026](https://www.worldcubeassociation.org/competitions/ChengduWelcomingSummer2026/results/all#e222_f) | 5 |
-| 97 | [Bofan Zhang (张博藩)](https://www.worldcubeassociation.org/persons/2021ZHAN01) | 1.30 | **1.55** | [Guangzhou Grand Open 2026](https://www.worldcubeassociation.org/competitions/GuangzhouGrandOpen2026/results/all#e222_f) | 4 |
-| 98 | [Jack Pfeifer](https://www.worldcubeassociation.org/persons/2016PFEI01) | 1.32 | **1.55** | [Great Lakes Championship 2026](https://www.worldcubeassociation.org/competitions/GreatLakesChampionship2026/results/all#e222_f) | 8 |
-| 99 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | 1.35 | **1.55** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#e222_f) | 7 |
-| 100 | [Albert Mandicó Sampol](https://www.worldcubeassociation.org/persons/2021SAMP01) | 0.88 | **1.56** | [Spanish Championship 2025](https://www.worldcubeassociation.org/competitions/SpanishChampionship2025/results/all#e222_f) | 4 |
+| 79 | [Stefan Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD02) | 0.90 | **1.54** | [CFL Koluszki 2026](https://www.worldcubeassociation.org/competitions/CFLKoluszki2026/results/all#e222_f) | 4 |
+| 80 | [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) | 0.90 | **1.54** | [Southeast Championship 2025](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2025/results/all#e222_f) | 5 |
+| 81 | [Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05) | 0.94 | **1.54** | [Great Lakes Championship 2026](https://www.worldcubeassociation.org/competitions/GreatLakesChampionship2026/results/all#e222_f) | 6 |
+| 82 | [Darshan Bhavanasi](https://www.worldcubeassociation.org/persons/2022BHAV01) | 0.99 | **1.54** | [Great Lakes Championship 2026](https://www.worldcubeassociation.org/competitions/GreatLakesChampionship2026/results/all#e222_f) | 7 |
+| 83 | [Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01) | 1.02 | **1.54** | [Warm Up Seattle 2025](https://www.worldcubeassociation.org/competitions/WarmUpSeattle2025/results/all#e222_f) | 5 |
+| 84 | [Curtis Chai](https://www.worldcubeassociation.org/persons/2022CHAI02) | 1.14 | **1.54** | [Mid-Atlantic Championship 2025](https://www.worldcubeassociation.org/competitions/MidAtlanticChampionship2025/results/all#e222_f) | 4 |
+| 85 | [Chris Chi](https://www.worldcubeassociation.org/persons/2014CHIC01) | 1.15 | **1.54** | [Connecticut Championship 2025](https://www.worldcubeassociation.org/competitions/ConnecticutChampionship2025/results/all#e222_f) | 6 |
+| 86 | [Shuda Huang (黄黍达)](https://www.worldcubeassociation.org/persons/2021HUAN02) | 1.20 | **1.54** | [Zhengzhou Zest 2025](https://www.worldcubeassociation.org/competitions/ZhengzhouZest2025/results/all#e222_f) | 4 |
+| 87 | [Bofan Zhang (张博藩)](https://www.worldcubeassociation.org/persons/2021ZHAN01) | 1.20 | **1.54** | [Zibo Open 2025](https://www.worldcubeassociation.org/competitions/ZiboOpen2025/results/all#e222_f) | 4 |
+| 88 | [Kaixi Guo (郭铠希)](https://www.worldcubeassociation.org/persons/2023GUOK01) | 1.31 | **1.54** | [Xuzhou Zenith 2026](https://www.worldcubeassociation.org/competitions/XuzhouZenith2026/results/all#e222_f) | 6 |
+| 89 | [Tian Xia (夏天)](https://www.worldcubeassociation.org/persons/2023XIAT01) | 1.38 | **1.54** | [Xi'an Cherry Blossom 2025](https://www.worldcubeassociation.org/competitions/XianCherryBlossom2025/results/all#e222_f) | 5 |
+| 90 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | 1.50 | **1.54** | [CFL Koluszki 2025](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueKoluszki2025/results/all#e222_f) | 4 |
+| 91 | [Connor Johnson](https://www.worldcubeassociation.org/persons/2022JOHN14) | 0.65 | **1.55** | [Australian Nationals 2025](https://www.worldcubeassociation.org/competitions/AustralianNationals2025/results/all#e222_f) | 5 |
+| 92 | [Qiyu Zhang (张淇奥)](https://www.worldcubeassociation.org/persons/2017ZHAQ04) | 0.84 | **1.55** | [Hangzhou Open 2026](https://www.worldcubeassociation.org/competitions/HangzhouOpen2026/results/all#e222_f) | 5 |
+| 93 | [Stefan Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD02) | 0.95 | **1.55** | [Energy Cube Ciechanów 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeCiechanow2024/results/all#e222_f) | 4 |
+| 94 | [Ryan Chan](https://www.worldcubeassociation.org/persons/2023CHAN16) | 1.06 | **1.55** | [Stevenage October 2025](https://www.worldcubeassociation.org/competitions/StevenageOctober2025/results/all#e222_f) | 4 |
+| 95 | [David Andron-Silva](https://www.worldcubeassociation.org/persons/2022SILV37) | 1.18 | **1.55** | [Brookline Favorites IV 2026](https://www.worldcubeassociation.org/competitions/BrooklineFavoritesIV2026/results/all#e222_f) | 4 |
+| 96 | [Harry Forbes](https://www.worldcubeassociation.org/persons/2021FORB01) | 1.24 | **1.55** | [Australian Nationals 2026](https://www.worldcubeassociation.org/competitions/AustralianNationals2026/results/all#e222_f) | 4 |
+| 97 | [Timofei Tarasenko](https://www.worldcubeassociation.org/persons/2019TARA09) | 1.25 | **1.55** | [Chengdu Welcoming Summer 2026](https://www.worldcubeassociation.org/competitions/ChengduWelcomingSummer2026/results/all#e222_f) | 5 |
+| 98 | [Bofan Zhang (张博藩)](https://www.worldcubeassociation.org/persons/2021ZHAN01) | 1.30 | **1.55** | [Guangzhou Grand Open 2026](https://www.worldcubeassociation.org/competitions/GuangzhouGrandOpen2026/results/all#e222_f) | 4 |
+| 99 | [Jack Pfeifer](https://www.worldcubeassociation.org/persons/2016PFEI01) | 1.32 | **1.55** | [Great Lakes Championship 2026](https://www.worldcubeassociation.org/competitions/GreatLakesChampionship2026/results/all#e222_f) | 8 |
+| 100 | [Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02) | 1.35 | **1.55** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#e222_f) | 7 |
 
 ### 4x4x4 Cube
 
